@@ -352,7 +352,7 @@ def save(files, force=False):
             for r in ents:
                 if r["id"] in old:
                     r["en"], r["status"] = old[r["id"]]["en"], old[r["id"]]["status"]
-        path.write_text(json.dumps(ents, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        path.write_text(json.dumps(ents, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
         wrote += 1
     return wrote
 
