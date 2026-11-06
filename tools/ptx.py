@@ -27,13 +27,21 @@ def unswizzle(data, stride_bytes, rows):
     return bytes(out)
 
 
-def decode(d, off=0, swizzle=None):
+def palette(d, off=0):
+    """-> palette tuple, or None for a slice with poff 0 (it shares the previous texture's palette in the same file)."""
+    h = parse(d, off)
+    return struct.unpack_from(f"<{h['npal']}I", d, off + h["poff"]) if h["poff"] else None
+
+
+def decode(d, off=0, swizzle=None, pal=None):
     from PIL import Image
     h = parse(d, off)
     bpp = {4: 4, 5: 8}.get(h["fmt"])
     if bpp is None:
         raise ValueError(f"format {h['fmt']}")
-    pal = struct.unpack_from(f"<{h['npal']}I", d, off + h["poff"])
+    pal = palette(d, off) or pal
+    if pal is None:
+        raise ValueError("no palette: poff 0 and no earlier texture in this file")
     stride = h["stride"]
     sb = stride * bpp // 8
     # shortcut: the swizzle flag bit is not pinned down yet, callers can force it; default follows flags & 1
