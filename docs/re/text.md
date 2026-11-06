@@ -16,7 +16,7 @@ CRILAYLA encoder or storing edited files uncompressed (guess: the engine honours
 | 0, 1, 3, 146-161, 1467-1522, 2031-2049 | `FCT\0` | Container: u32 count at +4, u32 table offset at +8, then (u32 offset, u32 size) pairs. `tools/fct.py` | verified on 0, 1, 3, 3/001, 3/015 |
 | 2, 4, 1523-1604, 1770-1771, 1824, 1970-2028 ... | `PTP\0` | Texture pack: u32 count at +4, u32 offsets from +0x10 | verified on 3/004 |
 | 5-20, 69-110, 162-295, 1605-1712 ... | `PTX@` | Texture, see `graphics.md` | verified |
-| 21-68, 111-145, 1044-1096 ... | `PTG@` | Sprite group: cell table plus embedded PTX slices. Cell format not decoded | guess |
+| 21-68, 111-145, 1044-1096 ... | `PTG@` | Sprite group: cell table plus embedded PTX slices. See `graphics.md` | verified: `tests/test_ptg.py` |
 | 296-342 ... | `PTA\0` | Animation data plus PTX; some PTX have no palette of their own | guess |
 | 343-981 | none | 639 files of big-endian offset/size tables | unknown; no real text found |
 | 982-1043, 2642+ | `80 00` | CRI ADX audio | verified by CRI copyright string |
@@ -24,7 +24,7 @@ CRILAYLA encoder or storing edited files uncompressed (guess: the engine honours
 | 1826-1969 | `02 1e` | 144 files of 602 bytes | unknown |
 | 2050-2065 | PNG | 16 images, 144x80 | verified |
 | **2149-2205** | none | **57 event scripts** (below) | verified |
-| 2206-2641 | `VPD\0` | 436 packs, large. Guess: voice or portrait data | guess |
+| 2206-2641 | `VPD\0` | 436 packs of ADX voice clips, no images | verified on 2206, 2400, 2641 |
 
 Inventory tools: `tools/survey.py`, `tools/textscan.py`, `tools/grepjp.py`.
 
@@ -39,6 +39,7 @@ Inventory tools: `tools/survey.py`, `tools/textscan.py`, `tools/grepjp.py`.
 
 **Prologue scroll and chapter cards are not text.** `帝国西部に位置` and `先帝である` appear in no EBOOT, CPK or FCT child
 (`tools/grepjp.py`), so they are images, as is the chapter title card seen in-game (義賊団参上! / ティエラ・ネザー地区西).
+Their files are in the survey in `graphics.md`.
 
 ## Event script format (file 2149 traced; layout checked on all 57)
 

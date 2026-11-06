@@ -6,7 +6,7 @@ depends on it. Addresses are for the dump in `rom.sha1`.
 | File | Covers | State |
 |---|---|---|
 | `text.md` | Image layout, text inventory, encoding, control codes, script bytecode and message references, EBOOT strings, fonts, free space | Mostly verified; open items listed at its end |
-| `graphics.md` | PTX format, sweep tool, graphics-text survey | Format verified; **survey not finished** |
+| `graphics.md` | PTX and PTG formats, sweep tool, graphics-text survey | Formats verified; static survey complete; PTA not decoded |
 
 ## Getting the decrypted EBOOT
 
