@@ -19,6 +19,8 @@ OUT = ROOT / "script"
 EVENTS = range(2149, 2206)
 RODATA, DATA_END = 0x1B1420, 0x2BFBDF  # .rodata and .data vaddrs, from the ELF section headers
 BLOCK = 0x10000  # one eboot_*.json per this much of the address space
+# Shift-JIS code tables the printer searches, not text: bucket bounds, ASCII to full width, font 4's kana (docs/re/text.md)
+FONT_TABLES = {0x27B1AA, 0x27B1C8, 0x27B29E}
 
 
 def table():
@@ -257,15 +259,17 @@ def scan_eboot(elf):
     """Pointer targets in .rodata/.data, then any Japanese sentence no pointer reaches. kind data = decodes but isn't text."""
     img = elf[0x74:0x74 + DATA_END + 1]
     targets = {}
-    for t, slot in relocations(elf):
+    rels = relocations(elf)
+    for t, slot in rels:
         if RODATA <= t <= DATA_END:
             targets.setdefault(t, []).append(slot)
+    pointers = {s["word"] for _, s in rels if "word" in s}  # a word that is itself relocated is a pointer: a table, not text
     ents, claimed = [], bytearray(len(img))
     for p in sorted(targets):
         e = string_end(img, p)
         if not e or not has_jp(img[p:e - 1]) or claimed[p]:
             continue
-        kind = "msg" if looks_text(img[p:e - 1], targets[p]) else "data"
+        kind = "msg" if looks_text(img[p:e - 1], targets[p]) and p not in FONT_TABLES and p not in pointers else "data"
         ents.append(entry("eboot", img, p, e, kind, targets[p]))
         if kind == "msg":
             claimed[p:e] = b"\1" * (e - p)

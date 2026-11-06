@@ -114,14 +114,45 @@ Layout: **fixed cell grid.** Each glyph is a 0x24-byte record (col at +0, row at
 2 = 18, 3 = 24, 4 = 12. **No VWF.** English needs engine work (phase 5): the record's col is per-glyph, so a pixel-based
 advance looks possible; the record buffer's capacity (guess: cols x rows) limits how many glyphs fit.
 
+## English engine (`tools/vwf.py`, `tools/elfpatch.py`, `tools/insert.py`; **verified** in the marker build's tour)
+
+Variable-width English with no change to any glyph record's size:
+
+- **Extra font page.** Fonts 1 (20 px), 2 (18), 3 (24) each get one more PTP page holding 0x20-0x7F, drawn from `fonts/` with
+  the sheets' own palette use (0 clear, 1 black outline, 2-14 grey to white). Glyph index = pages * per-page + char - 0x20. ASCII
+  in these fonts goes straight there: no full-width lookup, no `!?`, `Lv`, `r.` ligatures. Shift-JIS keeps working.
+- **Slots.** The window allocator's `sll s2, a1, 16` (0xA0140) is now `sll .., 18`, so every window has cols * 4 records and
+  vertices. A caller's col and ncols are still cells: the printer's entry hook and the 5 range calls (0xA0248 lay out, 0xA0428
+  lay out with spacing, 0xA0644 colour, 0xA079C hide, 0xA089C show, 0xA09F8 clear) multiply them by 4.
+- **Pixels in the record.** Record +0 holds pixel x, not a column; the draw (0x9F860) uses it as is. The printer keeps a pen at
+  0x4C(sp), unused in its frame. Each glyph's advance is stored in the record's +0x1F (high byte of the flags, whose bits 0 and 1
+  are the only ones used), so the typewriter, which returns after each glyph, picks the pen up from the previous record.
+- **Lay-out calls** (0xA0248, 0xA0428, 65 callers) set absolute positions per record. They now step by the advance, and a call
+  starting mid-row continues from the laid-out glyph before it: some callers lay a string out cell by cell at
+  x = start + i * cell (the option screen does).
+- **EBOOT.** Third PT_LOAD at vaddr 0x363000 (past segment 1's bss) holds the hooks, width tables and moved strings; segment 0
+  shifts 0x20 in the file for the extra program header. New jal sites get `R_MIPS_26` entries in a new `.rel` section. PPSSPP asserts
+  if the new section's end isn't word-aligned. Module size 0x39DF00 with marker text; `hle.module.list` confirms it.
+- **Heap.** 0xEFC00 creates a 0x133D400 heap and 4 arenas: 0x580000 (FCT 3, 5.56 MB, loaded at boot; a bigger FCT 3 hangs on
+  Now Loading), 0x630000, 0x600000, 0x140000. The build grows the total and arena 0 by 0x80000.
+- **Strings.** EBOOT: moved to the new segment, every `word` and `hi`/`lo` slot rewritten and checked against the original. A lui
+  shared with a non-text target stays in place, 3 such groups. Scripts: in place if it fits, else after the end of the file.
+  Inline and bare strings keep their exact size, padded with spaces.
+
+**Not text after all:** 0x27B1AA, 0x27B1C8, 0x27B29E (code tables the printer searches; one is byte-swapped in place at boot),
+0x2B1690 (the substring pointer table, `[0x8B12C]`). All `kind: data` now.
+
+**Substring table.** `{sub:nn}` and `{sub16:nnnn}` index the pointer table at 0x2B1690 in the EBOOT; defeat text is chains of these
+(0x2B1C6C on), so an English line built from them has one wording per part. Translators see them as separate records.
+
 ## Fonts (FCT 3 child 1, `work/fct/00003_001/`)
 
 | Child | Content |
 |---|---|
 | 000 | PTX 120x216 T4: 12x12 number sheet; font 4 indexes it by value (`%10`, `/10`), no charset |
-| 001 + 002 | PTP 504x504, 504x450 T4 + charset of 1,484 codes: 24x24 by sheet width (guess) |
-| 003 + 004 | PTP 500x500 x3, 500x380 T4 + charset of 2,334 codes: 20x20 by sheet width (guess) |
-| 005 + 006 | PTP 504x504, 504x96 T4 + charset of 508 codes: 18x18 by sheet width (guess) |
+| 001 + 002 | PTP 504x504, 504x450 T4 + charset of 1,484 codes: **18x18**, font 2 (header in the charset file: cols, rows, w, h, per page) |
+| 003 + 004 | PTP 500x500 x3, 500x380 T4 + charset of 2,332 codes: **20x20**, font 1 |
+| 005 + 006 | PTP 504x504, 504x96 T4 + charset of 506 codes: **24x24**, font 3 |
 
 Charset file: u32 offset of a bucket table, then u16 Shift-JIS codes, zero-terminated. Bucket boundaries in the EBOOT at
 0x27B1AA (0x824F 0x8260 0x829F 0x8340 0x839F 0x889F 0x8DB1 0x93DE 0x9680 0x9785 0x989F, **read from bytes**). Glyph index

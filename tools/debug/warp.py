@@ -5,6 +5,7 @@ NAME is a stage from the table at vaddr 0x286EC4 (1_01_A ..), "-" boots without 
 (mNNNNNN_MM.png) and a log line. Layout and findings: docs/re/debug.md."""
 import argparse
 import base64
+import json
 import os
 import struct
 import sys
@@ -44,6 +45,15 @@ def run_to(self, f):
 
 
 psp.Run.run_to = run_to
+
+
+class _Json:
+    """A log event from the emulator can carry invalid UTF-8 (seen on game_over in the marker build); psp.py would die on it."""
+    dumps = staticmethod(json.dumps)
+    loads = staticmethod(lambda b: json.loads(b.decode("utf-8", "replace")))
+
+
+psp.json = _Json
 
 
 def stages():

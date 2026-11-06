@@ -5,5 +5,4 @@ per file; a font with no known licence doesn't go into a release.
 
 | File | Source (URL, version) | Licence | Redistributable in a patch | Used for | Changes made |
 |---|---|---|---|---|---|
-| <fonts/vwf_8px.png> | <drawn for this project> | <MIT, same as repo> | yes | <dialogue VWF> | <-> |
-| <fonts/Title.ttf> | <url, v1.2> | <OFL 1.1> | <yes, as rendered glyphs> | <typeset.py title cards> | <-> |
+| `fonts/SourceSans3-Semibold.ttf` | https://github.com/adobe-fonts/source-sans (release branch, TTF/) | SIL OFL 1.1, `fonts/SourceSans-LICENSE.md` | yes, as rendered glyphs | All English text on fonts 1, 2, 3 (`tools/vwf.py`) | Rendered at 16, 15, 20 px with a 1 px black outline into the game's own palette |

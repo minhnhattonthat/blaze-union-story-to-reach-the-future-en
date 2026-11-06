@@ -22,7 +22,7 @@
   "id": "eboot_2B1690",
   "ptr": 2823824,
   "bytes": 4,
-  "kind": "msg",
+  "kind": "data",
   "slots": [
    {
     "hi": 1136664,
