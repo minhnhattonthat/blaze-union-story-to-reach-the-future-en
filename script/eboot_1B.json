@@ -1,0 +1,27 @@
+[
+ {
+  "id": "eboot_1B1634",
+  "ptr": 1775156,
+  "bytes": 43,
+  "kind": "debug",
+  "slots": [],
+  "jp": "キャッシュ開放に向けての処理＋edRAMの開放[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1B1694",
+  "ptr": 1775252,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 7080,
+    "lo": 7088
+   }
+  ],
+  "jp": "リセット",
+  "en": "",
+  "status": ""
+ }
+]

@@ -1,0 +1,6127 @@
+[
+ {
+  "id": "eboot_225BD4",
+  "ptr": 2251732,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256244
+   }
+  ],
+  "jp": "当然の結果だ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225BE3",
+  "ptr": 2251747,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256252
+   }
+  ],
+  "jp": "この程度なのかよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225BF6",
+  "ptr": 2251766,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256260
+   }
+  ],
+  "jp": "俺達の勝ちだな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225C07",
+  "ptr": 2251783,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256268
+   }
+  ],
+  "jp": "前に進むだけだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225C18",
+  "ptr": 2251800,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256276
+   }
+  ],
+  "jp": "負けられないんだよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225C2D",
+  "ptr": 2251821,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256284
+   }
+  ],
+  "jp": "勝ちなものか、これが……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225C46",
+  "ptr": 2251846,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256292
+   }
+  ],
+  "jp": "立ち止まることはできん②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225C5F",
+  "ptr": 2251871,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256300
+   }
+  ],
+  "jp": "何故わからない③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225C70",
+  "ptr": 2251888,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256308
+   }
+  ],
+  "jp": "好きにはさせないんだから！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225C8B",
+  "ptr": 2251915,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256316
+   }
+  ],
+  "jp": "これで道が開けるよね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225CA2",
+  "ptr": 2251938,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256324
+   }
+  ],
+  "jp": "このままじゃ終われない。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225CBB",
+  "ptr": 2251963,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256332
+   }
+  ],
+  "jp": "…勝って、終わらせるんだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225CD6",
+  "ptr": 2251990,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256340
+   }
+  ],
+  "jp": "こんなのって、ないよ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225CEF",
+  "ptr": 2252015,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256348
+   }
+  ],
+  "jp": "立ち止まってはいられないから",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225D0C",
+  "ptr": 2252044,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256356
+   }
+  ],
+  "jp": "頭だけじゃないってことさ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225D27",
+  "ptr": 2252071,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256364
+   }
+  ],
+  "jp": "さよならだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225D34",
+  "ptr": 2252084,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256372
+   }
+  ],
+  "jp": "損害を報告しなさい。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225D49",
+  "ptr": 2252105,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256380
+   }
+  ],
+  "jp": "これが、運命なのか……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225D60",
+  "ptr": 2252128,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256388
+   }
+  ],
+  "jp": "これがあたしの戦いだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225D77",
+  "ptr": 2252151,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256396
+   }
+  ],
+  "jp": "足手まといじゃないもん！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225D90",
+  "ptr": 2252176,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256404
+   }
+  ],
+  "jp": "なに、これっぽっち？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225DA5",
+  "ptr": 2252197,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256412
+   }
+  ],
+  "jp": "倒れはしません！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225DB6",
+  "ptr": 2252214,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256420
+   }
+  ],
+  "jp": "敗れるものですか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225DC9",
+  "ptr": 2252233,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256428
+   }
+  ],
+  "jp": "フフ、当然の結果よ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225DDE",
+  "ptr": 2252254,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256436
+   }
+  ],
+  "jp": "フッ、他愛ないな②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225DF1",
+  "ptr": 2252273,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256444
+   }
+  ],
+  "jp": "勝負あったな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225E00",
+  "ptr": 2252288,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256452
+   }
+  ],
+  "jp": "選べ、服従か死か。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225E13",
+  "ptr": 2252307,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256460
+   }
+  ],
+  "jp": "無様だな。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225E1E",
+  "ptr": 2252318,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256468
+   }
+  ],
+  "jp": "あなた方の負けですよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225E35",
+  "ptr": 2252341,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256476
+   }
+  ],
+  "jp": "無理なのですよ、あなた方には",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225E52",
+  "ptr": 2252370,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256484
+   }
+  ],
+  "jp": "命は巡るのです……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225E65",
+  "ptr": 2252389,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256492
+   }
+  ],
+  "jp": "……悪く思うな。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225E76",
+  "ptr": 2252406,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256500
+   }
+  ],
+  "jp": "報酬はいくらかな？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225E89",
+  "ptr": 2252425,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256508
+   }
+  ],
+  "jp": "思い知ったかよ？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225E9A",
+  "ptr": 2252442,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256516
+   }
+  ],
+  "jp": "大人しくしていればよいものを",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225EB7",
+  "ptr": 2252471,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256524
+   }
+  ],
+  "jp": "オトナは楽じゃねぇんだよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225ED2",
+  "ptr": 2252498,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256532
+   }
+  ],
+  "jp": "さすがパメラ様、最強すぎ☆",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225EED",
+  "ptr": 2252525,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256540
+   }
+  ],
+  "jp": "バイフー、負けない。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225F02",
+  "ptr": 2252546,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256548
+   }
+  ],
+  "jp": "堪能できまして？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225F13",
+  "ptr": 2252563,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256556
+   }
+  ],
+  "jp": "剣のサビになるがいい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225F2A",
+  "ptr": 2252586,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256564
+   }
+  ],
+  "jp": "敗れるわけにはいかんのだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225F45",
+  "ptr": 2252613,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256572
+   }
+  ],
+  "jp": "この国、私が貰うぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225F5A",
+  "ptr": 2252634,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256580
+   }
+  ],
+  "jp": "若気の至りってヤツかぁ？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225F73",
+  "ptr": 2252659,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256588
+   }
+  ],
+  "jp": "これが実力ってね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225F86",
+  "ptr": 2252678,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256596
+   }
+  ],
+  "jp": "負けられないんだっつーの②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225FA1",
+  "ptr": 2252705,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256604
+   }
+  ],
+  "jp": "この剣で守り抜く。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225FB4",
+  "ptr": 2252724,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256612
+   }
+  ],
+  "jp": "絶好調だぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225FC1",
+  "ptr": 2252737,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256620
+   }
+  ],
+  "jp": "祝杯といこうかしら、ヒック。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225FDE",
+  "ptr": 2252766,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256628
+   }
+  ],
+  "jp": "まだまだだな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225FED",
+  "ptr": 2252781,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256636
+   }
+  ],
+  "jp": "我らの勝利だ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_225FFC",
+  "ptr": 2252796,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256644
+   }
+  ],
+  "jp": "地獄へと誘おう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22600D",
+  "ptr": 2252813,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256652
+   }
+  ],
+  "jp": "こんなものか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22601C",
+  "ptr": 2252828,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256660
+   }
+  ],
+  "jp": "守り抜いてみせる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22602F",
+  "ptr": 2252847,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256668
+   }
+  ],
+  "jp": "出直して来い！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22603E",
+  "ptr": 2252862,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256676
+   }
+  ],
+  "jp": "命が、欲しい…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22604F",
+  "ptr": 2252879,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256684
+   }
+  ],
+  "jp": "力量をわきまえなさい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226066",
+  "ptr": 2252902,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256692
+   }
+  ],
+  "jp": "こんなものかしら？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226079",
+  "ptr": 2252921,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256700
+   }
+  ],
+  "jp": "これが天意と知れ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22608C",
+  "ptr": 2252940,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256708
+   }
+  ],
+  "jp": "負けてられません！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22609F",
+  "ptr": 2252959,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256716
+   }
+  ],
+  "jp": "やられるものか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2260B0",
+  "ptr": 2252976,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256724
+   }
+  ],
+  "jp": "詰めが甘いですね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2260C3",
+  "ptr": 2252995,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256732
+   }
+  ],
+  "jp": "帝国の誇りにかけて！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2260D8",
+  "ptr": 2253016,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256740
+   }
+  ],
+  "jp": "これぞ人馬一体！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2260E9",
+  "ptr": 2253033,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256748
+   }
+  ],
+  "jp": "傭兵と侮るな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2260F8",
+  "ptr": 2253048,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256756
+   }
+  ],
+  "jp": "大したことねぇな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22610B",
+  "ptr": 2253067,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256764
+   }
+  ],
+  "jp": "これが訓練の成果だ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226120",
+  "ptr": 2253088,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256772
+   }
+  ],
+  "jp": "勝利だ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226129",
+  "ptr": 2253097,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256780
+   }
+  ],
+  "jp": "呆気ないわね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226138",
+  "ptr": 2253112,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256788
+   }
+  ],
+  "jp": "まだまだねぇ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226147",
+  "ptr": 2253127,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256796
+   }
+  ],
+  "jp": "抗うからよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226154",
+  "ptr": 2253140,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256804
+   }
+  ],
+  "jp": "こんなものかしら？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226167",
+  "ptr": 2253159,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256812
+   }
+  ],
+  "jp": "せめて、殺して。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226178",
+  "ptr": 2253176,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256820
+   }
+  ],
+  "jp": "これが快勝ってヤツさ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22618F",
+  "ptr": 2253199,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256828
+   }
+  ],
+  "jp": "よっしゃあああ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2261A0",
+  "ptr": 2253216,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256836
+   }
+  ],
+  "jp": "無駄な足掻きだったな。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2261B7",
+  "ptr": 2253239,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256844
+   }
+  ],
+  "jp": "おととい来やがれ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2261CA",
+  "ptr": 2253258,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256852
+   }
+  ],
+  "jp": "……グォォォオオオン②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2261E1",
+  "ptr": 2253281,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256860
+   }
+  ],
+  "jp": "空からの攻撃を舐めるな②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2261FA",
+  "ptr": 2253306,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256868
+   }
+  ],
+  "jp": "勝てると思ってたの？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22620F",
+  "ptr": 2253327,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256876
+   }
+  ],
+  "jp": "ホラね。神様はいるのよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226228",
+  "ptr": 2253352,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256884
+   }
+  ],
+  "jp": "素人仕事ね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226235",
+  "ptr": 2253365,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256892
+   }
+  ],
+  "jp": "道を切り開くのよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226248",
+  "ptr": 2253384,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256900
+   }
+  ],
+  "jp": "空を制す者、戦いを制す！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226261",
+  "ptr": 2253409,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256908
+   }
+  ],
+  "jp": "か、カチィィィ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226272",
+  "ptr": 2253426,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256916
+   }
+  ],
+  "jp": "矢を軽んじるから、そうなる。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22628F",
+  "ptr": 2253455,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256924
+   }
+  ],
+  "jp": "弓使いを甘く見るなよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2262A6",
+  "ptr": 2253478,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256932
+   }
+  ],
+  "jp": "死が恐いのか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2262B5",
+  "ptr": 2253493,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256940
+   }
+  ],
+  "jp": "これがプロの仕事さ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2262CA",
+  "ptr": 2253514,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256948
+   }
+  ],
+  "jp": "負けるもんか…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2262DB",
+  "ptr": 2253531,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256956
+   }
+  ],
+  "jp": "悪くない戦いだった。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2262F0",
+  "ptr": 2253552,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256964
+   }
+  ],
+  "jp": "次の敵は？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2262FB",
+  "ptr": 2253563,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256972
+   }
+  ],
+  "jp": "こんなものか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22630A",
+  "ptr": 2253578,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256980
+   }
+  ],
+  "jp": "愚かさを棄てよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22631B",
+  "ptr": 2253595,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256988
+   }
+  ],
+  "jp": "勝敗は決したな。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22632C",
+  "ptr": 2253612,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2256996
+   }
+  ],
+  "jp": "勝負ありだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226339",
+  "ptr": 2253625,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257004
+   }
+  ],
+  "jp": "まだ、生きてる？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22634A",
+  "ptr": 2253642,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257012
+   }
+  ],
+  "jp": "闇が迎えに来た。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22635B",
+  "ptr": 2253659,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257020
+   }
+  ],
+  "jp": "勝利など過程に過ぎぬ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226372",
+  "ptr": 2253682,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257028
+   }
+  ],
+  "jp": "好き勝手にさせるものか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22638B",
+  "ptr": 2253707,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257036
+   }
+  ],
+  "jp": "さらば。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226394",
+  "ptr": 2253716,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257044
+   }
+  ],
+  "jp": "見かけ倒しね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2263A3",
+  "ptr": 2253731,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257052
+   }
+  ],
+  "jp": "全然満足できない。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2263B6",
+  "ptr": 2253750,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257060
+   }
+  ],
+  "jp": "勝つイコールお金、ってね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2263D1",
+  "ptr": 2253777,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257068
+   }
+  ],
+  "jp": "この国は汚させない！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2263E6",
+  "ptr": 2253798,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257076
+   }
+  ],
+  "jp": "ご覧になりまして？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2263F9",
+  "ptr": 2253817,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257084
+   }
+  ],
+  "jp": "ケーッケッケッケ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22640C",
+  "ptr": 2253836,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257092
+   }
+  ],
+  "jp": "ケケケケケ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226419",
+  "ptr": 2253849,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257100
+   }
+  ],
+  "jp": "カカカカカ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226426",
+  "ptr": 2253862,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257108
+   }
+  ],
+  "jp": "グゥー、ワァー、フゥー…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22643F",
+  "ptr": 2253887,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257116
+   }
+  ],
+  "jp": "グッグッグ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22644C",
+  "ptr": 2253900,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257124
+   }
+  ],
+  "jp": "グウッ、フッ、フッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226461",
+  "ptr": 2253921,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257132
+   }
+  ],
+  "jp": "これが正規軍の実力だ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226478",
+  "ptr": 2253944,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257140
+   }
+  ],
+  "jp": "亡者の声を聞け！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226489",
+  "ptr": 2253961,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257148
+   }
+  ],
+  "jp": "これが実力なのさ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22649C",
+  "ptr": 2253980,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257156
+   }
+  ],
+  "jp": "セリカ姉さん、私やりました！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2264B9",
+  "ptr": 2254009,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257164
+   }
+  ],
+  "jp": "勝負アリ、ってね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2264CC",
+  "ptr": 2254028,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257172
+   }
+  ],
+  "jp": "ば、バカな……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2264DB",
+  "ptr": 2254043,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257180
+   }
+  ],
+  "jp": "しくじったぜ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2264EC",
+  "ptr": 2254060,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257188
+   }
+  ],
+  "jp": "まだ、俺は……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2264FB",
+  "ptr": 2254075,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257196
+   }
+  ],
+  "jp": "悪い、アイギナ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22650E",
+  "ptr": 2254094,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257204
+   }
+  ],
+  "jp": "何度だっ、て……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22651F",
+  "ptr": 2254111,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257212
+   }
+  ],
+  "jp": "何のための力だ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226532",
+  "ptr": 2254130,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257220
+   }
+  ],
+  "jp": "すまない、シスキア、ジェノン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22654F",
+  "ptr": 2254159,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257228
+   }
+  ],
+  "jp": "何故なのだ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22655C",
+  "ptr": 2254172,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257236
+   }
+  ],
+  "jp": "どうしてよ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22656B",
+  "ptr": 2254187,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257244
+   }
+  ],
+  "jp": "ごめん、ガーロット……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226582",
+  "ptr": 2254210,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257252
+   }
+  ],
+  "jp": "ルシエナ…ごめんね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226597",
+  "ptr": 2254231,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257260
+   }
+  ],
+  "jp": "ごめん、本当に……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2265AA",
+  "ptr": 2254250,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257268
+   }
+  ],
+  "jp": "やっぱり、ムリだよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2265BF",
+  "ptr": 2254271,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257276
+   }
+  ],
+  "jp": "ジェノン、ごめん…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2265D2",
+  "ptr": 2254290,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257284
+   }
+  ],
+  "jp": "なんてことだ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2265E3",
+  "ptr": 2254307,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257292
+   }
+  ],
+  "jp": "グワァァアアア！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2265F4",
+  "ptr": 2254324,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257300
+   }
+  ],
+  "jp": "油断した……！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226603",
+  "ptr": 2254339,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257308
+   }
+  ],
+  "jp": "これが、魔竜の……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226616",
+  "ptr": 2254358,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257316
+   }
+  ],
+  "jp": "ガルカーサァ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226625",
+  "ptr": 2254373,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257324
+   }
+  ],
+  "jp": "きゃあ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22662E",
+  "ptr": 2254382,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257332
+   }
+  ],
+  "jp": "だ、ダンチョーお兄ちゃん…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226649",
+  "ptr": 2254409,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257340
+   }
+  ],
+  "jp": "姉さん…、ごめんなさい…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226662",
+  "ptr": 2254434,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257348
+   }
+  ],
+  "jp": "ごめんなさい…、姉、さん…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22667D",
+  "ptr": 2254461,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257356
+   }
+  ],
+  "jp": "こんなはずじゃ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226690",
+  "ptr": 2254480,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257364
+   }
+  ],
+  "jp": "おのれ……②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22669D",
+  "ptr": 2254493,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257372
+   }
+  ],
+  "jp": "その戦い、見届けたぞ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2266B6",
+  "ptr": 2254518,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257380
+   }
+  ],
+  "jp": "私が、敗れたのか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2266C9",
+  "ptr": 2254537,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257388
+   }
+  ],
+  "jp": "……無様、だな。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2266DA",
+  "ptr": 2254554,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257396
+   }
+  ],
+  "jp": "フフフフフ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2266E9",
+  "ptr": 2254569,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257404
+   }
+  ],
+  "jp": "私が、消える…？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2266FA",
+  "ptr": 2254586,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257412
+   }
+  ],
+  "jp": "…答えは、見えましたか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226713",
+  "ptr": 2254611,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257420
+   }
+  ],
+  "jp": "失策か……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22671E",
+  "ptr": 2254622,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257428
+   }
+  ],
+  "jp": "な、なんだってぇ③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226731",
+  "ptr": 2254641,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257436
+   }
+  ],
+  "jp": "ヘマ踏んじまったか…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226748",
+  "ptr": 2254664,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257444
+   }
+  ],
+  "jp": "い…、痛いのはイヤじゃあ～②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226765",
+  "ptr": 2254693,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257452
+   }
+  ],
+  "jp": "こんな、ガキどもに……？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22677E",
+  "ptr": 2254718,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257460
+   }
+  ],
+  "jp": "ほにょにょ～②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22678D",
+  "ptr": 2254733,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257468
+   }
+  ],
+  "jp": "バイフー、もう無理……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2267A4",
+  "ptr": 2254756,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257476
+   }
+  ],
+  "jp": "私が、美しいからと言って。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2267BF",
+  "ptr": 2254783,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257484
+   }
+  ],
+  "jp": "……すまない、フローネ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2267D8",
+  "ptr": 2254808,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257492
+   }
+  ],
+  "jp": "アイギナ…、　まさか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2267EF",
+  "ptr": 2254831,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257500
+   }
+  ],
+  "jp": "いかん…すべてが、消えるぅ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22680C",
+  "ptr": 2254860,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257508
+   }
+  ],
+  "jp": "クソったれー②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22681B",
+  "ptr": 2254875,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257516
+   }
+  ],
+  "jp": "こ、こんなのって…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226830",
+  "ptr": 2254896,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257524
+   }
+  ],
+  "jp": "で…、デイヴィド隊長ぉ～！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22684B",
+  "ptr": 2254923,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257532
+   }
+  ],
+  "jp": "倒れる、わけには……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226860",
+  "ptr": 2254944,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257540
+   }
+  ],
+  "jp": "ドジッちまったかヨォ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226879",
+  "ptr": 2254969,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257548
+   }
+  ],
+  "jp": "…ごめんなさい。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22688A",
+  "ptr": 2254986,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257556
+   }
+  ],
+  "jp": "くっ、ここまでか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22689D",
+  "ptr": 2255005,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257564
+   }
+  ],
+  "jp": "ちくしょう…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2268AC",
+  "ptr": 2255020,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257572
+   }
+  ],
+  "jp": "神の元へ帰るのだ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2268BF",
+  "ptr": 2255039,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257580
+   }
+  ],
+  "jp": "こんなハズでは…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2268D0",
+  "ptr": 2255056,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257588
+   }
+  ],
+  "jp": "守り、抜くのだ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2268E1",
+  "ptr": 2255073,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257596
+   }
+  ],
+  "jp": "なんてことだ…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2268F2",
+  "ptr": 2255090,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257604
+   }
+  ],
+  "jp": "安息が得られるなら…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226907",
+  "ptr": 2255111,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257612
+   }
+  ],
+  "jp": "力及ばず…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226912",
+  "ptr": 2255122,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257620
+   }
+  ],
+  "jp": "ここで、終わりなの？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226927",
+  "ptr": 2255143,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257628
+   }
+  ],
+  "jp": "さらばです…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226934",
+  "ptr": 2255156,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257636
+   }
+  ],
+  "jp": "そんな…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22693F",
+  "ptr": 2255167,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257644
+   }
+  ],
+  "jp": "止められない、なんて…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226956",
+  "ptr": 2255190,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257652
+   }
+  ],
+  "jp": "くっ…ここまでか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226969",
+  "ptr": 2255209,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257660
+   }
+  ],
+  "jp": "散り際も潔くありたいものだ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226986",
+  "ptr": 2255238,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257668
+   }
+  ],
+  "jp": "しくじるとは、くそっ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22699D",
+  "ptr": 2255261,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257676
+   }
+  ],
+  "jp": "そ、そんなバカなッ…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2269B4",
+  "ptr": 2255284,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257684
+   }
+  ],
+  "jp": "呆気ないぜぇ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2269C3",
+  "ptr": 2255299,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257692
+   }
+  ],
+  "jp": "不覚…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2269CC",
+  "ptr": 2255308,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257700
+   }
+  ],
+  "jp": "敗れるとは…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2269DB",
+  "ptr": 2255323,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257708
+   }
+  ],
+  "jp": "及ばなかったか……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2269EE",
+  "ptr": 2255342,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257716
+   }
+  ],
+  "jp": "こ、こんなのって…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226A03",
+  "ptr": 2255363,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257724
+   }
+  ],
+  "jp": "嫌だ…まだ、私は…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226A18",
+  "ptr": 2255384,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257732
+   }
+  ],
+  "jp": "身体が、重い……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226A29",
+  "ptr": 2255401,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257740
+   }
+  ],
+  "jp": "どうせ、また…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226A38",
+  "ptr": 2255416,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257748
+   }
+  ],
+  "jp": "ちくしょぉお②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226A47",
+  "ptr": 2255431,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257756
+   }
+  ],
+  "jp": "ヤられちまうなんてよぉ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226A62",
+  "ptr": 2255458,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257764
+   }
+  ],
+  "jp": "信じてたのによォ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226A75",
+  "ptr": 2255477,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257772
+   }
+  ],
+  "jp": "ウソだろ、おい…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226A86",
+  "ptr": 2255494,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257780
+   }
+  ],
+  "jp": "……終わる。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226A93",
+  "ptr": 2255507,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257788
+   }
+  ],
+  "jp": "こんな、ザマじゃ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226AA6",
+  "ptr": 2255526,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257796
+   }
+  ],
+  "jp": "落ちていく…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226AB5",
+  "ptr": 2255541,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257804
+   }
+  ],
+  "jp": "どうして？　神様…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226AC8",
+  "ptr": 2255560,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257812
+   }
+  ],
+  "jp": "飛べないなんて…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226AD9",
+  "ptr": 2255577,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257820
+   }
+  ],
+  "jp": "くっ、倒れてる場合じゃ…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226AF4",
+  "ptr": 2255604,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257828
+   }
+  ],
+  "jp": "これから、なのに…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226B07",
+  "ptr": 2255623,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257836
+   }
+  ],
+  "jp": "ソラぁー！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226B12",
+  "ptr": 2255634,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257844
+   }
+  ],
+  "jp": "やられて、しまうなんて…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226B2B",
+  "ptr": 2255659,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257852
+   }
+  ],
+  "jp": "悔しいな、もう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226B3C",
+  "ptr": 2255676,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257860
+   }
+  ],
+  "jp": "これも、天意か…③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226B4F",
+  "ptr": 2255695,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257868
+   }
+  ],
+  "jp": "懐が浅すぎたか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226B60",
+  "ptr": 2255712,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257876
+   }
+  ],
+  "jp": "まさか、ここまでなのか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226B79",
+  "ptr": 2255737,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257884
+   }
+  ],
+  "jp": "こんなハズじゃ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226B8A",
+  "ptr": 2255754,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257892
+   }
+  ],
+  "jp": "遂げられないとはな……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226BA1",
+  "ptr": 2255777,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257900
+   }
+  ],
+  "jp": "こんなハズじゃ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226BB2",
+  "ptr": 2255794,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257908
+   }
+  ],
+  "jp": "天意ならば、受け入れる…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226BCB",
+  "ptr": 2255819,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257916
+   }
+  ],
+  "jp": "死んでしまったら…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226BE0",
+  "ptr": 2255840,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257924
+   }
+  ],
+  "jp": "これ以上は…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226BEF",
+  "ptr": 2255855,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257932
+   }
+  ],
+  "jp": "殺し、殺され、あとは…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226C06",
+  "ptr": 2255878,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257940
+   }
+  ],
+  "jp": "命の火が…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226C13",
+  "ptr": 2255891,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257948
+   }
+  ],
+  "jp": "裁きの時は近いッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226C26",
+  "ptr": 2255910,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257956
+   }
+  ],
+  "jp": "これが死か…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226C33",
+  "ptr": 2255923,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257964
+   }
+  ],
+  "jp": "使われる方に回るか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226C48",
+  "ptr": 2255944,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257972
+   }
+  ],
+  "jp": "嫌よ、どうしよう……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226C5D",
+  "ptr": 2255965,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257980
+   }
+  ],
+  "jp": "約束が違うゥ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226C6C",
+  "ptr": 2255980,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257988
+   }
+  ],
+  "jp": "まだ、報酬が…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226C7D",
+  "ptr": 2255997,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2257996
+   }
+  ],
+  "jp": "もっと、力があれば…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226C94",
+  "ptr": 2256020,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258004
+   }
+  ],
+  "jp": "及ばないなんて…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226CA7",
+  "ptr": 2256039,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258012
+   }
+  ],
+  "jp": "ケケケケ、ケケケ…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226CBC",
+  "ptr": 2256060,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258020
+   }
+  ],
+  "jp": "ケー…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226CC3",
+  "ptr": 2256067,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258028
+   }
+  ],
+  "jp": "クカー…カカカ…カカ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226CDC",
+  "ptr": 2256092,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258036
+   }
+  ],
+  "jp": "グゥオオオーッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226CED",
+  "ptr": 2256109,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258044
+   }
+  ],
+  "jp": "グ…グゥーッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226CFC",
+  "ptr": 2256124,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258052
+   }
+  ],
+  "jp": "ギョァァアアア③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226D0D",
+  "ptr": 2256141,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258060
+   }
+  ],
+  "jp": "甘かったのか……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226D1E",
+  "ptr": 2256158,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258068
+   }
+  ],
+  "jp": "敗れても、死は残響する……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226D39",
+  "ptr": 2256185,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258076
+   }
+  ],
+  "jp": "きゃあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226D44",
+  "ptr": 2256196,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258084
+   }
+  ],
+  "jp": "セリカ姉さん…ごめんなさい…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_226D61",
+  "ptr": 2256225,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258092
+   }
+  ],
+  "jp": "ミスったなぁ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2274B0",
+  "ptr": 2258096,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2258132
+   }
+  ],
+  "jp": "血と魂の契約に従い、刹那の力を",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2274D8",
+  "ptr": 2258136,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 294804,
+    "lo": 294808
+   }
+  ],
+  "jp": "＜破損アイテム＞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_227922",
+  "ptr": 2259234,
+  "bytes": 10,
+  "kind": "data",
+  "slots": [
+   {
+    "word": 2259852
+   }
+  ],
+  "jp": "{voice:00AF00}{voice:000200}ｹ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2280A8",
+  "ptr": 2261160,
+  "bytes": 110,
+  "kind": "data",
+  "slots": [
+   {
+    "hi": 308200,
+    "lo": 308208
+   }
+  ],
+  "jp": "[FC]ｳ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:0080}ｴ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:0080}ｴ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:001C}ｵ{sub16:009C}ｴ{sub16:0000}",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228170",
+  "ptr": 2261360,
+  "bytes": 62,
+  "kind": "data",
+  "slots": [
+   {
+    "hi": 310980,
+    "lo": 310988
+   }
+  ],
+  "jp": "ﾘｾ{sub16:00A8}ﾁ{sub16:00A8}ﾁ{sub16:00A8}ﾁ{sub16:00A8}ﾁ{sub16:00A8}ﾁ{sub16:00A8}ﾁ{sub16:00D8}ｾ{sub16:00A8}ﾁ{sub16:00A8}ﾁ{sub16:00A8}ﾁ{sub16:00A8}ﾁ{sub16:00A8}ﾁ{sub16:00A8}ﾁ{sub16:00D8}ｾ{sub16:0000}",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2281B0",
+  "ptr": 2261424,
+  "bytes": 62,
+  "kind": "data",
+  "slots": [
+   {
+    "hi": 311852,
+    "lo": 311860
+   }
+  ],
+  "jp": "[84]ﾂ{sub16:0088}ﾃ{sub16:0088}ﾃ{sub16:0088}ﾃ{sub16:0088}ﾃ{sub16:0088}ﾃ{sub16:0088}ﾃ{sub16:0084}ﾂ{sub16:0088}ﾃ{sub16:0088}ﾃ{sub16:0088}ﾃ{sub16:0088}ﾃ{sub16:0088}ﾃ{sub16:0088}ﾃ{sub16:0084}ﾂ{sub16:0000}",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228270",
+  "ptr": 2261616,
+  "bytes": 4,
+  "kind": "data",
+  "slots": [
+   {
+    "hi": 328008,
+    "lo": 328016
+   }
+  ],
+  "jp": "ﾔ{sub:05}",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228A28",
+  "ptr": 2263592,
+  "bytes": 2,
+  "kind": "data",
+  "slots": [
+   {
+    "hi": 371228,
+    "lo": 371236
+   }
+  ],
+  "jp": "ｨ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228B10",
+  "ptr": 2263824,
+  "bytes": 87,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267652
+   }
+  ],
+  "jp": "【勝敗条件】{n}敵味方どちらかのメンバー数（左右の数字）が{n}０になると戦闘終了となります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228B67",
+  "ptr": 2263911,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267664
+   }
+  ],
+  "jp": "最後までメンバーが残っていた方の{n}勝ちとなります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228B99",
+  "ptr": 2263961,
+  "bytes": 89,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267676
+   }
+  ],
+  "jp": "【突撃】{n}攻撃を仕掛けた側より突撃が行われます。{n}突撃を受けた側は、メンバーが減少します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228BF2",
+  "ptr": 2264050,
+  "bytes": 85,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267688
+   }
+  ],
+  "jp": "【弓兵の突撃】{n}シスキアが率いる弓兵の突撃には、{n}「敵に反撃されない」長所があります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228C47",
+  "ptr": 2264135,
+  "bytes": 58,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267700
+   }
+  ],
+  "jp": "敵のメンバーを一方的に減らした上で{n}白兵戦を開始できます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228C81",
+  "ptr": 2264193,
+  "bytes": 77,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267712
+   }
+  ],
+  "jp": "【反撃】{n}攻撃を受けた側が反撃を行います。{n}反撃により、メンバーが減少します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228CCE",
+  "ptr": 2264270,
+  "bytes": 67,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267724
+   }
+  ],
+  "jp": "【反撃】{n}突撃／反撃が終わると、{n}残ったメンバーで白兵戦に移ります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228D11",
+  "ptr": 2264337,
+  "bytes": 79,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267736
+   }
+  ],
+  "jp": "【弓兵の反撃】{n}シスキアが率いる弓兵には{n}「反撃できない」という短所があります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228D60",
+  "ptr": 2264416,
+  "bytes": 70,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267748
+   }
+  ],
+  "jp": "攻撃を仕掛けられると、不利な状況で{n}白兵戦を開始しなければなりません。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228DA6",
+  "ptr": 2264486,
+  "bytes": 73,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267760
+   }
+  ],
+  "jp": "【戦闘中の相性】{n}ダメージは相性によって決まり{n}相性は９段階で表示されます",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228DEF",
+  "ptr": 2264559,
+  "bytes": 43,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267772
+   }
+  ],
+  "jp": "相性良い＞＞＞＞＞＞＞＞＞＞＞＞＞相性悪い",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228E1A",
+  "ptr": 2264602,
+  "bytes": 91,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267784
+   }
+  ],
+  "jp": "相性が良い場合でも相手との能力差に{n}よって、戦況が不利になることもあるため{n}注意が必要です。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228E75",
+  "ptr": 2264693,
+  "bytes": 63,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267796
+   }
+  ],
+  "jp": "【戦闘結果】{n}戦闘内容に応じ敗者側の士気を{n}減らすことができます",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228EB4",
+  "ptr": 2264756,
+  "bytes": 56,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267808
+   }
+  ],
+  "jp": "【部隊士気減少】{n}戦闘に敗北した部隊は士気が減少します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228EEC",
+  "ptr": 2264812,
+  "bytes": 69,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267820
+   }
+  ],
+  "jp": "部隊士気が０となると、{n}そのユニットがフィールドから{n}いなくなります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228F31",
+  "ptr": 2264881,
+  "bytes": 91,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267832
+   }
+  ],
+  "jp": "敗北条件キャラクターの部隊士気が{n}０になると、ゲームオーバーとなりますので{n}注意が必要です。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228F8C",
+  "ptr": 2264972,
+  "bytes": 101,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267844
+   }
+  ],
+  "jp": "【カードＰＯＷＥＲ上昇】{n}敵に与えた士気ダメージに応じ、使用していた{n}カードのＰＯＷＥＲが上昇します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_228FF1",
+  "ptr": 2265073,
+  "bytes": 115,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267856
+   }
+  ],
+  "jp": "カードＰＯＷＥＲを上昇させていくことで{n}戦闘に勝利した際、より多くの士気ダメージを{n}敵に与えることが可能となります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229064",
+  "ptr": 2265188,
+  "bytes": 85,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267868
+   }
+  ],
+  "jp": "【スキルゲージ】{n}このステージより、戦闘中にスキルゲージが{n}表示されるようになります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2290B9",
+  "ptr": 2265273,
+  "bytes": 91,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267880
+   }
+  ],
+  "jp": "また、戦闘中のユニットに{n}方向キーで作戦を指示できます。{n}方向キー右か左を押してみて下さい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229114",
+  "ptr": 2265364,
+  "bytes": 85,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267892
+   }
+  ],
+  "jp": "【Ａｇｇｒｅｓｓｉｖｅ】{n}方向キー右を押している間、{n}部隊は攻撃重視の作戦を採ります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229169",
+  "ptr": 2265449,
+  "bytes": 89,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267904
+   }
+  ],
+  "jp": "作戦中は攻撃力がアップします。{n}また、ユニットの能力によっては{n}攻撃に属性が付加されます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2291C2",
+  "ptr": 2265538,
+  "bytes": 87,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267916
+   }
+  ],
+  "jp": "ただし徐々にゲージを消費するため、{n}あらかじめスキルゲージを{n}溜めておく必要があります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229219",
+  "ptr": 2265625,
+  "bytes": 68,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267928
+   }
+  ],
+  "jp": "方向キー右を押している間は、{n}ずっと攻撃力アップの効果が継続します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22925D",
+  "ptr": 2265693,
+  "bytes": 79,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267940
+   }
+  ],
+  "jp": "【Ｐａｓｓｉｖｅ】{n}方向キー左を押している間、{n}部隊は慎重姿勢の作戦を採ります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2292AC",
+  "ptr": 2265772,
+  "bytes": 79,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267952
+   }
+  ],
+  "jp": "作戦中は攻撃力がダウンしますが、{n}スキルゲージを徐々に{n}蓄積することができます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2292FB",
+  "ptr": 2265851,
+  "bytes": 60,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267964
+   }
+  ],
+  "jp": "方向キー左を押している間は、{n}ゲージ蓄積の効果が継続します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229337",
+  "ptr": 2265911,
+  "bytes": 65,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267976
+   }
+  ],
+  "jp": "【レイジレート】{n}敵側にはレイジレートという{n}ゲージが存在します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229378",
+  "ptr": 2265976,
+  "bytes": 64,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2267988
+   }
+  ],
+  "jp": "戦闘中徐々に蓄積されていき、{n}蓄積状況により３段階に分かれます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2293B8",
+  "ptr": 2266040,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268000
+   }
+  ],
+  "jp": "【通常状態】{n}ゲージが溜まっていない状態",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2293E0",
+  "ptr": 2266080,
+  "bytes": 80,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268012
+   }
+  ],
+  "jp": "【レイジ状態】{n}細いラインが1本溜まった状態です。{n}敵の攻撃力が少しアップします。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229430",
+  "ptr": 2266160,
+  "bytes": 48,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268024
+   }
+  ],
+  "jp": "敵ユニットによっては攻撃に{n}属性が付加されます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229460",
+  "ptr": 2266208,
+  "bytes": 79,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268036
+   }
+  ],
+  "jp": "【ＭＡＸ状態】{n}太いラインが溜まった状態です。{n}敵の攻撃力が大幅にアップします。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2294AF",
+  "ptr": 2266287,
+  "bytes": 75,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268048
+   }
+  ],
+  "jp": "【クリティカル】{n}突撃時には、強力な攻撃{n}「クリティカル」が稀に発生します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2294FA",
+  "ptr": 2266362,
+  "bytes": 85,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268060
+   }
+  ],
+  "jp": "クリティカルが発生すると{n}ヘッド（部隊のリーダー）が倒れ、{n}部隊がパニックとなります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22954F",
+  "ptr": 2266447,
+  "bytes": 83,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268072
+   }
+  ],
+  "jp": "パニック状態になった部隊は、{n}作戦やスキル使用の指示を出すことが{n}できなくなります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2295A2",
+  "ptr": 2266530,
+  "bytes": 85,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268084
+   }
+  ],
+  "jp": "また、画面上部に表示される{n}チャンスタイムがなくなると、{n}パニック状態から復帰します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2295F7",
+  "ptr": 2266615,
+  "bytes": 79,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268096
+   }
+  ],
+  "jp": "【スキルの使用】{n}このステージより戦闘中に{n}スキルを使用できるようになりました。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229646",
+  "ptr": 2266694,
+  "bytes": 70,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268108
+   }
+  ],
+  "jp": "スキルを使用するには、スキルゲージを{n}満タンまで溜める必要があります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22968C",
+  "ptr": 2266764,
+  "bytes": 87,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268120
+   }
+  ],
+  "jp": "方向キー左を押し続ければ、{n}「Ｐａｓｓｉｖｅ」指示を出して{n}スキルゲージを回復できます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2296E3",
+  "ptr": 2266851,
+  "bytes": 52,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268132
+   }
+  ],
+  "jp": "【スキルの使用】{n}スキルゲージが満タンになりました。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229717",
+  "ptr": 2266903,
+  "bytes": 105,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268144
+   }
+  ],
+  "jp": "ただし、既に説明があった通り、{n}使用条件とエースタイプを満たしていないと、{n}スキルを使うことはできません。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229780",
+  "ptr": 2267008,
+  "bytes": 52,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268156
+   }
+  ],
+  "jp": "条件を満たしている場合、{n}□ボタンでスキル発動です！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2297B4",
+  "ptr": 2267060,
+  "bytes": 91,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268168
+   }
+  ],
+  "jp": "【Ｃｈａｒｇｅスキル】{n}□ボタンを押し続けて、満タンまで{n}チャージして使う種類のスキルです。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22980F",
+  "ptr": 2267151,
+  "bytes": 62,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268180
+   }
+  ],
+  "jp": "途中で□ボタンを離すと、{n}使用中断になるので、注意しましょう。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22984D",
+  "ptr": 2267213,
+  "bytes": 73,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268192
+   }
+  ],
+  "jp": "【強攻撃】{n}攻撃中、ときどき「強攻撃」という{n}特殊なアタックが発動します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229896",
+  "ptr": 2267286,
+  "bytes": 62,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268204
+   }
+  ],
+  "jp": "「強攻撃」は、通常の攻撃よりも{n}与えるダメージがアップします。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2298D4",
+  "ptr": 2267348,
+  "bytes": 85,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268216
+   }
+  ],
+  "jp": "また、スキルのチャージ中に{n}敵の「強攻撃」を受けると、{n}チャージが中断してしまいます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229929",
+  "ptr": 2267433,
+  "bytes": 72,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268228
+   }
+  ],
+  "jp": "スキルゲージは満タンのままなので、{n}すぐにチャージのやり直しができます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229971",
+  "ptr": 2267505,
+  "bytes": 83,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268240
+   }
+  ],
+  "jp": "【ＫｅｅｐＯｎスキル】{n}□ボタンを押している間、{n}ずっと効果が続く種類のスキルです。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2299C4",
+  "ptr": 2267588,
+  "bytes": 62,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2268252
+   }
+  ],
+  "jp": "途中で□ボタンを離すか、{n}ゲージが尽きると、効果が終了します。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229A1C",
+  "ptr": 2267676,
+  "bytes": 4,
+  "kind": "data",
+  "slots": [
+   {
+    "word": 2268280
+   }
+  ],
+  "jp": "刹\"",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229A28",
+  "ptr": 2267688,
+  "bytes": 4,
+  "kind": "data",
+  "slots": [
+   {
+    "word": 2268296
+   }
+  ],
+  "jp": "\"",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229A40",
+  "ptr": 2267712,
+  "bytes": 4,
+  "kind": "data",
+  "slots": [
+   {
+    "word": 2268312
+   }
+  ],
+  "jp": "′\"",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229AC4",
+  "ptr": 2267844,
+  "bytes": 4,
+  "kind": "data",
+  "slots": [
+   {
+    "word": 2268392
+   }
+  ],
+  "jp": "件\"",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229BC0",
+  "ptr": 2268096,
+  "bytes": 4,
+  "kind": "data",
+  "slots": [
+   {
+    "word": 2268488
+   }
+  ],
+  "jp": "\"",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_229BE4",
+  "ptr": 2268132,
+  "bytes": 4,
+  "kind": "data",
+  "slots": [
+   {
+    "word": 2268504
+   }
+  ],
+  "jp": "纐\"",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DAB8",
+  "ptr": 2284216,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2595980
+   }
+  ],
+  "jp": "ゴーレムを召喚する",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DACC",
+  "ptr": 2284236,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2595984
+   },
+   {
+    "word": 2595996
+   }
+  ],
+  "jp": "威力＝★★",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DAD8",
+  "ptr": 2284248,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2595988
+   }
+  ],
+  "jp": "ウィッチ専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DAE8",
+  "ptr": 2284264,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2595992
+   }
+  ],
+  "jp": "スケルトンを召喚する",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DB00",
+  "ptr": 2284288,
+  "bytes": 20,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596000
+   }
+  ],
+  "jp": "ネシア専用{n}夜間限定",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DB14",
+  "ptr": 2284308,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596004
+   }
+  ],
+  "jp": "敵を石化状態にする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DB28",
+  "ptr": 2284328,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596012
+   }
+  ],
+  "jp": "ハンター専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DB38",
+  "ptr": 2284344,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596016
+   }
+  ],
+  "jp": "敵を冒毒状態にする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DB4C",
+  "ptr": 2284364,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596024
+   }
+  ],
+  "jp": "スケルトン専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DB5C",
+  "ptr": 2284380,
+  "bytes": 36,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596028
+   }
+  ],
+  "jp": "暗黒攻撃でダメージ{n}＋呪縛状態にする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DB80",
+  "ptr": 2284416,
+  "bytes": 54,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596032
+   },
+   {
+    "word": 2596104
+   },
+   {
+    "word": 2596128
+   }
+  ],
+  "jp": "威力＝自ＴＥＣ＋１－敵ＧＥＮ{n}自ＴＥＣ≧敵ＧＥＮで成功",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DBB8",
+  "ptr": 2284472,
+  "bytes": 28,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596040
+   }
+  ],
+  "jp": "敵の装備アイテムを{n}破壊する",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DBD4",
+  "ptr": 2284500,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596044
+   }
+  ],
+  "jp": "自ＴＥＣ≧敵ＧＥＮで成功{n}成功時：敵の戦闘力が低下",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DC08",
+  "ptr": 2284552,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596048
+   }
+  ],
+  "jp": "フェンサー専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DC18",
+  "ptr": 2284568,
+  "bytes": 28,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596052
+   }
+  ],
+  "jp": "敵の装備アイテムを{n}盗み獲る",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DC34",
+  "ptr": 2284596,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596060
+   }
+  ],
+  "jp": "シスキア専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DC44",
+  "ptr": 2284612,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596064
+   }
+  ],
+  "jp": "敵のヘッドを倒す",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DC58",
+  "ptr": 2284632,
+  "bytes": 22,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596072
+   }
+  ],
+  "jp": "アサシン専用{n}夜間限定",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DC70",
+  "ptr": 2284656,
+  "bytes": 34,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596076
+   }
+  ],
+  "jp": "敵のメンバー数を{n}自分と同じにする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DC94",
+  "ptr": 2284692,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596080
+   }
+  ],
+  "jp": "威力＝状況により変化",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DCAC",
+  "ptr": 2284716,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596084
+   }
+  ],
+  "jp": "騎馬タイプのみ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DCBC",
+  "ptr": 2284732,
+  "bytes": 28,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596088
+   }
+  ],
+  "jp": "発動中、ダメージを{n}受けない",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DCD8",
+  "ptr": 2284760,
+  "bytes": 36,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596100
+   }
+  ],
+  "jp": "火炎攻撃でダメージ{n}＋炎上状態にする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DCFC",
+  "ptr": 2284796,
+  "bytes": 32,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596112
+   },
+   {
+    "word": 2596448
+   }
+  ],
+  "jp": "冷気攻撃で敵に{n}ダメージを与える",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DD1C",
+  "ptr": 2284828,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596116
+   },
+   {
+    "word": 2596140
+   },
+   {
+    "word": 2596452
+   }
+  ],
+  "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DD3C",
+  "ptr": 2284860,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596120
+   }
+  ],
+  "jp": "ウンディーネが使うと…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DD54",
+  "ptr": 2284884,
+  "bytes": 36,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596124
+   }
+  ],
+  "jp": "雷撃攻撃でダメージ{n}＋麻痺状態にする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DD78",
+  "ptr": 2284920,
+  "bytes": 32,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596136
+   }
+  ],
+  "jp": "神聖攻撃で敵に{n}ダメージを与える",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DD98",
+  "ptr": 2284952,
+  "bytes": 36,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596148
+   }
+  ],
+  "jp": "発動中、ドラゴン系に{n}相性☆で戦える",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DDBC",
+  "ptr": 2284988,
+  "bytes": 32,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596156
+   }
+  ],
+  "jp": "メデューテ専用{n}相手がドラゴン系",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DDDC",
+  "ptr": 2285020,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596160
+   }
+  ],
+  "jp": "近辺の石化ユニットや{n}オブジェクトを破壊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DE04",
+  "ptr": 2285060,
+  "bytes": 46,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596164
+   }
+  ],
+  "jp": "威力＝敵残存戦力の１／２{n}破壊成功率＝１００％",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DE34",
+  "ptr": 2285108,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596168
+   }
+  ],
+  "jp": "ゴーレム専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DE44",
+  "ptr": 2285124,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596172
+   }
+  ],
+  "jp": "敵メンバーを裏切らせ{n}自分の戦力にする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DE6C",
+  "ptr": 2285164,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596176
+   }
+  ],
+  "jp": "効力＝自ＴＥＣ、敵ＧＥＮ依存",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DE8C",
+  "ptr": 2285196,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596180
+   }
+  ],
+  "jp": "相手が同サイズ／同性別",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DEA4",
+  "ptr": 2285220,
+  "bytes": 26,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596184
+   }
+  ],
+  "jp": "敵のヘッド以外を{n}全て倒す",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DEC0",
+  "ptr": 2285248,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596188
+   }
+  ],
+  "jp": "威力＝敵ヘッド以外に∞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DED8",
+  "ptr": 2285272,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596192
+   }
+  ],
+  "jp": "ヴァルキリー専用{n}ヘッドのみが残ったとき",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DF00",
+  "ptr": 2285312,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596196
+   }
+  ],
+  "jp": "敵を一人残らず倒す",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DF14",
+  "ptr": 2285332,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596200
+   }
+  ],
+  "jp": "威力＝∞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DF20",
+  "ptr": 2285344,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596204
+   }
+  ],
+  "jp": "オルディーン専用{n}ヘッドのみが残ったとき",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DF48",
+  "ptr": 2285384,
+  "bytes": 34,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596208
+   }
+  ],
+  "jp": "倒れた自分のメンバー{n}を復活させる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DF6C",
+  "ptr": 2285420,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596212
+   }
+  ],
+  "jp": "効力＝ＴＥＣ依存",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DF80",
+  "ptr": 2285440,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596220
+   }
+  ],
+  "jp": "ユニオン内の士気と{n}ステータス異常回復",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DFA8",
+  "ptr": 2285480,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596224
+   }
+  ],
+  "jp": "成功率＝１００％",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DFBC",
+  "ptr": 2285500,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596228
+   }
+  ],
+  "jp": "女性ユニオンリーダーのみ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22DFD8",
+  "ptr": 2285528,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596232
+   }
+  ],
+  "jp": "一定時間、敵を弱め{n}自分を強める。が…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E000",
+  "ptr": 2285568,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596236
+   }
+  ],
+  "jp": "効果持続時間=７．７７sec",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E01C",
+  "ptr": 2285596,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596244
+   }
+  ],
+  "jp": "発動中、自分も敵も{n}ＬＵＫを力に換える",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E044",
+  "ptr": 2285636,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596256
+   }
+  ],
+  "jp": "敵味方の地形を交換{n}＋敵の命中率が低下",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E06C",
+  "ptr": 2285676,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596260
+   }
+  ],
+  "jp": "効力＝同デュエル中ずっと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E088",
+  "ptr": 2285704,
+  "bytes": 30,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596268
+   }
+  ],
+  "jp": "発動中、敵のＡＴＫを{n}１にする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E0A8",
+  "ptr": 2285736,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596280
+   }
+  ],
+  "jp": "つたを自在に振るい{n}敵にダメージを与える",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E0D0",
+  "ptr": 2285776,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596284
+   }
+  ],
+  "jp": "威力＝自ＴＥＣ＋３－敵ＧＥＮ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E0F0",
+  "ptr": 2285808,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596288
+   }
+  ],
+  "jp": "【地形スキル：森林】{n}該当地形の敵に効果大",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E11C",
+  "ptr": 2285852,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596292
+   }
+  ],
+  "jp": "吹きすさぶ砂嵐で{n}敵にダメージを与える",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E144",
+  "ptr": 2285892,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596296
+   },
+   {
+    "word": 2596308
+   }
+  ],
+  "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E164",
+  "ptr": 2285924,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596300
+   }
+  ],
+  "jp": "【地形スキル：砂漠】{n}該当地形の敵に効果大",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E190",
+  "ptr": 2285968,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596304
+   }
+  ],
+  "jp": "泥沼に引きずりこんで{n}敵にダメージを与える",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E1BC",
+  "ptr": 2286012,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596312
+   }
+  ],
+  "jp": "【地形スキル：毒沼】{n}該当地形の敵に効果大",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E1E8",
+  "ptr": 2286056,
+  "bytes": 36,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596316
+   }
+  ],
+  "jp": "落石攻撃でダメージ{n}＋鈍足状態にする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E20C",
+  "ptr": 2286092,
+  "bytes": 54,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596320
+   }
+  ],
+  "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ{n}自ＴＥＣ≧敵ＧＥＮで成功",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E244",
+  "ptr": 2286148,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596324
+   }
+  ],
+  "jp": "【地形スキル：荒野】{n}該当地形の敵に効果大",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E270",
+  "ptr": 2286192,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596328
+   }
+  ],
+  "jp": "ユニオン内の仲間への{n}突撃と反撃をガード",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E298",
+  "ptr": 2286232,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596332
+   }
+  ],
+  "jp": "効力＝１００％",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E2A8",
+  "ptr": 2286248,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596336
+   }
+  ],
+  "jp": "男性ユニオンリーダーのみ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E2C4",
+  "ptr": 2286276,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596340
+   },
+   {
+    "word": 2596460
+   }
+  ],
+  "jp": "メンバーの命を犠牲に{n}戦闘能力が格段に上昇",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E2F0",
+  "ptr": 2286320,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596344
+   }
+  ],
+  "jp": "敵のスキルゲージを破壊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E308",
+  "ptr": 2286344,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596348
+   }
+  ],
+  "jp": "ガルカーサ専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E318",
+  "ptr": 2286360,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596352
+   }
+  ],
+  "jp": "倒れたメンバーも含め{n}ユニットを転生させる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E348",
+  "ptr": 2286408,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596360
+   }
+  ],
+  "jp": "ネシア専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E354",
+  "ptr": 2286420,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596376
+   }
+  ],
+  "jp": "発動中、敵のゲージ／{n}レイジレートを減少",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E37C",
+  "ptr": 2286460,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596384
+   }
+  ],
+  "jp": "ベアトリーヌ専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E390",
+  "ptr": 2286480,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596388
+   }
+  ],
+  "jp": "敵を昏睡状態にする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E3A4",
+  "ptr": 2286500,
+  "bytes": 20,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596396
+   }
+  ],
+  "jp": "パメラ専用{n}夜間限定",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E3B8",
+  "ptr": 2286520,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596400
+   }
+  ],
+  "jp": "使用者の状態により{n}与えるダメージが変化",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E3E0",
+  "ptr": 2286560,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596408
+   }
+  ],
+  "jp": "アランゼーム専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E3F4",
+  "ptr": 2286580,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596412
+   }
+  ],
+  "jp": "ユニオン内の男性のみ{n}ＡＴＫとＧＥＮが上昇",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E420",
+  "ptr": 2286624,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596416
+   },
+   {
+    "word": 2596440
+   }
+  ],
+  "jp": "効力＝同ターン内ずっと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E438",
+  "ptr": 2286648,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596420
+   }
+  ],
+  "jp": "バイフー専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E448",
+  "ptr": 2286664,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596424
+   }
+  ],
+  "jp": "太刀風による攻撃で{n}ダメージ＋状態異常",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E470",
+  "ptr": 2286704,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596428
+   }
+  ],
+  "jp": "威力＝自ＴＥＣ★－敵ＧＥＮ★",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E490",
+  "ptr": 2286736,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596432
+   }
+  ],
+  "jp": "ソルティエ専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E4A0",
+  "ptr": 2286752,
+  "bytes": 32,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596436
+   }
+  ],
+  "jp": "ユニオン内の仲間の{n}ＬＵＫが上昇",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E4C0",
+  "ptr": 2286784,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596456
+   }
+  ],
+  "jp": "ウンディーネ専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E4D4",
+  "ptr": 2286804,
+  "bytes": 3,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596464
+   }
+  ],
+  "jp": "－",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22E4D8",
+  "ptr": 2286808,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2596468
+   }
+  ],
+  "jp": "エミリオ専用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EBB8",
+  "ptr": 2288568,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 654716,
+    "lo": 654736
+   }
+  ],
+  "jp": "０１２３４５６７８９　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EC4C",
+  "ptr": 2288716,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 679468,
+    "lo": 679472
+   }
+  ],
+  "jp": "エフェクトテスト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EC60",
+  "ptr": 2288736,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 679480,
+    "lo": 679484
+   }
+  ],
+  "jp": "ＥＸＩデータ更新",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EC74",
+  "ptr": 2288756,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 679492,
+    "lo": 679496
+   }
+  ],
+  "jp": "背景更新",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EC80",
+  "ptr": 2288768,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 679504,
+    "lo": 679508
+   }
+  ],
+  "jp": "テクスチャ確認",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EC90",
+  "ptr": 2288784,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 679516,
+    "lo": 679520
+   }
+  ],
+  "jp": "スケール出力",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22ECA0",
+  "ptr": 2288800,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 679528,
+    "lo": 679532
+   }
+  ],
+  "jp": "スケール読み込み",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22ECB4",
+  "ptr": 2288820,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 679540,
+    "lo": 679544
+   }
+  ],
+  "jp": "ゲームを開始する",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EDC4",
+  "ptr": 2289092,
+  "bytes": 96,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 682456,
+    "lo": 682472
+   }
+  ],
+  "jp": "　－ＥＸＩデータ更新－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EE24",
+  "ptr": 2289188,
+  "bytes": 92,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 682696,
+    "lo": 682712
+   }
+  ],
+  "jp": "　　　－背景更新－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EE80",
+  "ptr": 2289280,
+  "bytes": 94,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 682968,
+    "lo": 682984
+   }
+  ],
+  "jp": "　　－スケール出力－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EEE0",
+  "ptr": 2289376,
+  "bytes": 96,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 683216,
+    "lo": 683232
+   }
+  ],
+  "jp": "　－スケール読み込み－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EF40",
+  "ptr": 2289472,
+  "bytes": 56,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 683464,
+    "lo": 683480
+   }
+  ],
+  "jp": "本当にゲームを開始する場合は{n}決定ボタンを押してください",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EF78",
+  "ptr": 2289528,
+  "bytes": 59,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 684248,
+    "lo": 684264
+   }
+  ],
+  "jp": "データの更新中です{n}メモリースティックを{n}抜かないでください",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22EFB4",
+  "ptr": 2289588,
+  "bytes": 57,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 684492,
+    "lo": 684508
+   }
+  ],
+  "jp": "背景の更新中です{n}メモリースティックを{n}抜かないでください",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F208",
+  "ptr": 2290184,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647608
+   }
+  ],
+  "jp": "カードの選択",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F218",
+  "ptr": 2290200,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647616
+   }
+  ],
+  "jp": "移動方法",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F224",
+  "ptr": 2290212,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647624
+   }
+  ],
+  "jp": "攻撃方法",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F230",
+  "ptr": 2290224,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647632
+   }
+  ],
+  "jp": "戦闘後の行動",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F240",
+  "ptr": 2290240,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647640
+   }
+  ],
+  "jp": "街を訪れてみよう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F254",
+  "ptr": 2290260,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647648
+   }
+  ],
+  "jp": "武器相性～基本編",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F268",
+  "ptr": 2290280,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647656
+   }
+  ],
+  "jp": "フォーメーション",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F27C",
+  "ptr": 2290300,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647664
+   }
+  ],
+  "jp": "スキルを使うには",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F290",
+  "ptr": 2290320,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647672
+   }
+  ],
+  "jp": "ステータス異常",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F2A0",
+  "ptr": 2290336,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647680
+   }
+  ],
+  "jp": "ミッションの選択",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F2B4",
+  "ptr": 2290356,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647688
+   }
+  ],
+  "jp": "砲台",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F2BC",
+  "ptr": 2290364,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647696
+   }
+  ],
+  "jp": "投石器",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F2C4",
+  "ptr": 2290372,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647704
+   }
+  ],
+  "jp": "水辺地形",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F2D0",
+  "ptr": 2290384,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647712
+   }
+  ],
+  "jp": "砂漠地形",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F2DC",
+  "ptr": 2290396,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647720
+   }
+  ],
+  "jp": "毒沼地形",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F2E8",
+  "ptr": 2290408,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647728
+   }
+  ],
+  "jp": "雪原地形",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F2F4",
+  "ptr": 2290420,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647736
+   }
+  ],
+  "jp": "船の利用",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F300",
+  "ptr": 2290432,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647744
+   }
+  ],
+  "jp": "リンク展開",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F30C",
+  "ptr": 2290444,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647752
+   }
+  ],
+  "jp": "武器相性～特殊編",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F320",
+  "ptr": 2290464,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2647760
+   }
+  ],
+  "jp": "イータの特性",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F340",
+  "ptr": 2290496,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 765388,
+    "lo": 765392
+   }
+  ],
+  "jp": "%s隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F468",
+  "ptr": 2290792,
+  "bytes": 169,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649328
+   }
+  ],
+  "jp": "敵陣に岩石を飛ばし、{n}ダメージを与える兵器です。{n}バトルを仕掛けた側が{n}そのユニオン内に投石器を{n}含めることによって、{n}突撃時に投石が発動します。{n}破壊可能オブジェクトです。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F514",
+  "ptr": 2290964,
+  "bytes": 140,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649332
+   }
+  ],
+  "jp": "砲台を所有している部隊の{n}ターン開始時に、{n}特定の範囲に対して砲撃を{n}行う兵器です。{n}食らった敵は士気が落ちます。{n}なお、夜間は砲撃できません。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F5A0",
+  "ptr": 2291104,
+  "bytes": 136,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649336
+   }
+  ],
+  "jp": "人々の生活の要衝である{n}河川に架けられた橋です。{n}石組みから木造まで、{n}様々な種類があります。{n}騎馬タイプのユニットは{n}橋上で強化されます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F628",
+  "ptr": 2291240,
+  "bytes": 67,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649340
+   }
+  ],
+  "jp": "大きく開かれた城門です。{n}誰もが、自由に行き来する{n}ことができます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F66C",
+  "ptr": 2291308,
+  "bytes": 84,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649344
+   }
+  ],
+  "jp": "固く閉ざされた城門です。{n}門兵の警戒も厳しく、{n}いかなるユニットの進入も{n}許しません。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F6C0",
+  "ptr": 2291392,
+  "bytes": 171,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649348
+   }
+  ],
+  "jp": "木を組んで作られた柵です。{n}飛行タイプのユニットは{n}越えて進軍できますが、{n}それ以外は進入できません。{n}破壊可能オブジェクトで、{n}一度壊してしまえば{n}あとは自由に移動できます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F76C",
+  "ptr": 2291564,
+  "bytes": 171,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649352
+   }
+  ],
+  "jp": "人々が寄り集まった集落、{n}もしくは一軒家です。{n}訪れると、何か情報が{n}得られるかもしれません。{n}破壊可能オブジェクトで、{n}盗賊団麾下のバンディットに{n}破壊されることもあります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F818",
+  "ptr": 2291736,
+  "bytes": 165,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649356
+   }
+  ],
+  "jp": "大勢の人々が集住する場所で、{n}各地の風土や歴史によって{n}固有の文化が発達しています。{n}戦略上の重要拠点である{n}場合も多く、訪れると{n}有益な情報が得られるかも{n}しれません。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F8C0",
+  "ptr": 2291904,
+  "bytes": 157,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649360
+   }
+  ],
+  "jp": "戦略上の重要拠点で、{n}多くの場合、名だたる敵将が{n}守備を固めています。{n}ここの制圧が勝利条件となる{n}戦局も少なくなく、{n}いかにして陥落させるかが{n}カギになります。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22F960",
+  "ptr": 2292064,
+  "bytes": 159,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649364
+   }
+  ],
+  "jp": "倒した敵が装備していた{n}アイテムです。{n}相手よりもＬＵＫの高い{n}ユニットで敵を倒すと、{n}マップ上に出現します。{n}そのまま放置しておくと、{n}敵に奪われてしまうことも…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22FA00",
+  "ptr": 2292224,
+  "bytes": 175,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649368
+   }
+  ],
+  "jp": "川や海を航行する船舶です。{n}現在は岸に停泊しているため、{n}陸伝いに移動して{n}通過することができます。{n}ただし甲板の広さの都合上、{n}船舶のあるスクエア上で{n}待機することはできません。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22FAB0",
+  "ptr": 2292400,
+  "bytes": 167,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649372
+   }
+  ],
+  "jp": "現在の戦況において、{n}自軍、もしくは敵性部隊が{n}目指すべき場所です。{n}こちらが目指す場合は{n}一刻も早く急行しましょう！{n}また敵性部隊が目指す場合、{n}妨害して阻止しましょう！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_22FB58",
+  "ptr": 2292568,
+  "bytes": 94,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2649376
+   }
+  ],
+  "jp": "装備中のアイテムに{n}別の何らかのアイテムが{n}反応したことを示す印です。{n}その場所に行ってみると…",
+  "en": "",
+  "status": ""
+ }
+]

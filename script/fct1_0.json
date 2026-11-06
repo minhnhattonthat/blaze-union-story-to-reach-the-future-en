@@ -1,0 +1,762 @@
+[
+ {
+  "id": "fct1_0_705F7",
+  "ptr": 460279,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "メイクドール",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7061F",
+  "ptr": 460319,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "メイクドール",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70647",
+  "ptr": 460359,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "メイクドール",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7066F",
+  "ptr": 460399,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "ネクロゲート",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70697",
+  "ptr": 460439,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "ネクロゲート",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_706BF",
+  "ptr": 460479,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "ネクロゲート",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_706E7",
+  "ptr": 460519,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "メデューサアイ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7070F",
+  "ptr": 460559,
+  "bytes": 16,
+  "kind": "data",
+  "slots": [],
+  "jp": "ポイズンブレスA",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70737",
+  "ptr": 460599,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "グラヴィティカ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7075F",
+  "ptr": 460639,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "アイテムブレイ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70787",
+  "ptr": 460679,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "アイテムブレイ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_707AF",
+  "ptr": 460719,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "アイテムブレイ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_707D7",
+  "ptr": 460759,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ブラッディクロ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_707FF",
+  "ptr": 460799,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ブラッディクロ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70827",
+  "ptr": 460839,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ブラッディクロ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7084F",
+  "ptr": 460879,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ブラッディクロ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70877",
+  "ptr": 460919,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "チャリオット",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7089F",
+  "ptr": 460959,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "チャリオット",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_708C7",
+  "ptr": 460999,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "チャリオット",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_708EF",
+  "ptr": 461039,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "シールドバリア",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70917",
+  "ptr": 461079,
+  "bytes": 9,
+  "kind": "data",
+  "slots": [],
+  "jp": "フレイム",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7093F",
+  "ptr": 461119,
+  "bytes": 11,
+  "kind": "data",
+  "slots": [],
+  "jp": "ブリザード",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70967",
+  "ptr": 461159,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "サンダーボルト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7098F",
+  "ptr": 461199,
+  "bytes": 11,
+  "kind": "data",
+  "slots": [],
+  "jp": "バニッシュ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_709B7",
+  "ptr": 461239,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "アースクウェイ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_709DF",
+  "ptr": 461279,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "アースクウェイ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70A07",
+  "ptr": 461319,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "アースクウェイ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70A2F",
+  "ptr": 461359,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "マインドチェン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70A57",
+  "ptr": 461399,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "レヴォリューシ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70A7F",
+  "ptr": 461439,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "レヴォリューシ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70AA7",
+  "ptr": 461479,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "サンクチュアリ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70ACF",
+  "ptr": 461519,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "リフレッシュメ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70AF7",
+  "ptr": 461559,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "キスオブデス",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70B1F",
+  "ptr": 461599,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "フォーチュン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70B47",
+  "ptr": 461639,
+  "bytes": 11,
+  "kind": "data",
+  "slots": [],
+  "jp": "ミラージュ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70B6F",
+  "ptr": 461679,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "バンシーズクラ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70B97",
+  "ptr": 461719,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "アイヴィウィッ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70BBF",
+  "ptr": 461759,
+  "bytes": 16,
+  "kind": "data",
+  "slots": [],
+  "jp": "サンドストームA",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70BE7",
+  "ptr": 461799,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "マントラップ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70C0F",
+  "ptr": 461839,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ロックフォール",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70C37",
+  "ptr": 461879,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "エースガード",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70C5F",
+  "ptr": 461919,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "エースガード",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70C87",
+  "ptr": 461959,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "ジェノサイド",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70CAF",
+  "ptr": 461999,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "ジェノサイド",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70CD7",
+  "ptr": 462039,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "リィンカーネー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70CFF",
+  "ptr": 462079,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "コーマカルマ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70D27",
+  "ptr": 462119,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "コーマカルマ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70D4F",
+  "ptr": 462159,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ジャッジメント",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70D77",
+  "ptr": 462199,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ジャッジメント",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70D9F",
+  "ptr": 462239,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ジャッジメント",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70DC7",
+  "ptr": 462279,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ジャッジメント",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70DEF",
+  "ptr": 462319,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ダイヤモンドダ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70E17",
+  "ptr": 462359,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ダイヤモンドダ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_70E3F",
+  "ptr": 462399,
+  "bytes": 11,
+  "kind": "data",
+  "slots": [],
+  "jp": "カタパルト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_710BF",
+  "ptr": 463039,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "ステータス異常",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_71187",
+  "ptr": 463239,
+  "bytes": 9,
+  "kind": "data",
+  "slots": [],
+  "jp": "水しぶき",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_711D7",
+  "ptr": 463319,
+  "bytes": 7,
+  "kind": "data",
+  "slots": [],
+  "jp": "バリア",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7124F",
+  "ptr": 463439,
+  "bytes": 14,
+  "kind": "data",
+  "slots": [],
+  "jp": "インサニティA",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_71277",
+  "ptr": 463479,
+  "bytes": 14,
+  "kind": "data",
+  "slots": [],
+  "jp": "インサニティB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7129F",
+  "ptr": 463519,
+  "bytes": 14,
+  "kind": "data",
+  "slots": [],
+  "jp": "インサニティC",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_712C7",
+  "ptr": 463559,
+  "bytes": 14,
+  "kind": "data",
+  "slots": [],
+  "jp": "インサニティD",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_712EF",
+  "ptr": 463599,
+  "bytes": 10,
+  "kind": "data",
+  "slots": [],
+  "jp": "ヴァイスA",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_71317",
+  "ptr": 463639,
+  "bytes": 10,
+  "kind": "data",
+  "slots": [],
+  "jp": "ヴァイスB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7133F",
+  "ptr": 463679,
+  "bytes": 13,
+  "kind": "data",
+  "slots": [],
+  "jp": "ラウーガ_qk2",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_71367",
+  "ptr": 463719,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "新オブリヴィア",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7138F",
+  "ptr": 463759,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "新オブリヴィア",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_713B7",
+  "ptr": 463799,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "新ドラゴンキラ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_713DF",
+  "ptr": 463839,
+  "bytes": 14,
+  "kind": "data",
+  "slots": [],
+  "jp": "新スティールA",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_71407",
+  "ptr": 463879,
+  "bytes": 14,
+  "kind": "data",
+  "slots": [],
+  "jp": "新スティールB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7147F",
+  "ptr": 463999,
+  "bytes": 12,
+  "kind": "data",
+  "slots": [],
+  "jp": "新ジハードA",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_714A7",
+  "ptr": 464039,
+  "bytes": 12,
+  "kind": "data",
+  "slots": [],
+  "jp": "新ジハードB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_714CF",
+  "ptr": 464079,
+  "bytes": 12,
+  "kind": "data",
+  "slots": [],
+  "jp": "新ジハードC",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_714F7",
+  "ptr": 464119,
+  "bytes": 12,
+  "kind": "data",
+  "slots": [],
+  "jp": "新ジハードD",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7151F",
+  "ptr": 464159,
+  "bytes": 16,
+  "kind": "data",
+  "slots": [],
+  "jp": "ポイズンブレスB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_71547",
+  "ptr": 464199,
+  "bytes": 15,
+  "kind": "data",
+  "slots": [],
+  "jp": "リィンカーネー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "fct1_0_7156F",
+  "ptr": 464239,
+  "bytes": 16,
+  "kind": "data",
+  "slots": [],
+  "jp": "サンドストームB",
+  "en": "",
+  "status": ""
+ }
+]

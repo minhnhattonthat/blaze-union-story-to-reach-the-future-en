@@ -1,0 +1,14282 @@
+[
+ {
+  "id": "eboot_258484",
+  "ptr": 2458756,
+  "bytes": 85,
+  "kind": "debug",
+  "slots": [],
+  "jp": "%sが入っていません。[0A]削除に失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2584DC",
+  "ptr": 2458844,
+  "bytes": 64,
+  "kind": "debug",
+  "slots": [],
+  "jp": "削除に失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25851C",
+  "ptr": 2458908,
+  "bytes": 76,
+  "kind": "debug",
+  "slots": [],
+  "jp": "スリープモードから復帰しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258568",
+  "ptr": 2458984,
+  "bytes": 45,
+  "kind": "debug",
+  "slots": [],
+  "jp": "中断データが壊れていました。[0A][0A]削除しますか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258598",
+  "ptr": 2459032,
+  "bytes": 51,
+  "kind": "debug",
+  "slots": [],
+  "jp": "ストーリーデータが壊れていました。[0A][0A]削除しますか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2585CC",
+  "ptr": 2459084,
+  "bytes": 74,
+  "kind": "debug",
+  "slots": [],
+  "jp": "スリープモードから復帰しました[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258618",
+  "ptr": 2459160,
+  "bytes": 87,
+  "kind": "debug",
+  "slots": [],
+  "jp": "%sが入っていません。[0A]ロードに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258670",
+  "ptr": 2459248,
+  "bytes": 72,
+  "kind": "debug",
+  "slots": [],
+  "jp": "%sのアクセスに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2586B8",
+  "ptr": 2459320,
+  "bytes": 162,
+  "kind": "debug",
+  "slots": [],
+  "jp": "%sの空き容量が不足しています。[0A]このゲームのデータをセーブするには[0A]あとFREKB以上の空き容量が必要です。[0A]空き容量を確保するため、セーブデータを[0A]選び、削除しますか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258B64",
+  "ptr": 2460516,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806604
+   }
+  ],
+  "jp": "システムデータ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258B74",
+  "ptr": 2460532,
+  "bytes": 89,
+  "kind": "debug",
+  "slots": [],
+  "jp": "『BLAZE UNION』のシステムデータです。[0A]このゲームの進行に必要なので削除しないでください。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258BD0",
+  "ptr": 2460624,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806612
+   }
+  ],
+  "jp": "中断データ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258BDC",
+  "ptr": 2460636,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806616
+   }
+  ],
+  "jp": "中断データ【ＨＡＲＤ】",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258BF4",
+  "ptr": 2460660,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806620
+   }
+  ],
+  "jp": "ストーリーデータ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258C08",
+  "ptr": 2460680,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806624
+   }
+  ],
+  "jp": "ストーリーデータ【ＨＡＲＤ】",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258C28",
+  "ptr": 2460712,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806628
+   }
+  ],
+  "jp": "新規システムデータ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258C3C",
+  "ptr": 2460732,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806632
+   }
+  ],
+  "jp": "新規中断データ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258C4C",
+  "ptr": 2460748,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806636
+   }
+  ],
+  "jp": "新規ストーリーデータ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258C70",
+  "ptr": 2460784,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806648
+   }
+  ],
+  "jp": "製品版",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258C84",
+  "ptr": 2460804,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806656
+   }
+  ],
+  "jp": "試し焼き",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258C9C",
+  "ptr": 2460828,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806664
+   }
+  ],
+  "jp": "デバッグ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258D40",
+  "ptr": 2460992,
+  "bytes": 42,
+  "kind": "debug",
+  "slots": [],
+  "jp": "ユグドラ・ユニオンのシステムデータです。[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258D6C",
+  "ptr": 2461036,
+  "bytes": 28,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【ユーティリティ強制終了】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258D88",
+  "ptr": 2461064,
+  "bytes": 30,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【でも、処理は完了している】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258DA8",
+  "ptr": 2461096,
+  "bytes": 28,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【処理は終わっていません】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258DC4",
+  "ptr": 2461124,
+  "bytes": 57,
+  "kind": "debug",
+  "slots": [],
+  "jp": "SaveProc::setResult  正常終了しているがMSは抜かれている[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258E00",
+  "ptr": 2461184,
+  "bytes": 31,
+  "kind": "debug",
+  "slots": [],
+  "jp": "ロードするフォルダ名 = %s(%s)[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258E20",
+  "ptr": 2461216,
+  "bytes": 31,
+  "kind": "debug",
+  "slots": [],
+  "jp": "セーブするフォルダ名 = %s(%s)[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258EF4",
+  "ptr": 2461428,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 1015764,
+    "lo": 1015780
+   }
+  ],
+  "jp": "メモリースティック",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258F08",
+  "ptr": 2461448,
+  "bytes": 28,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【メモリーカードチェック】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258F80",
+  "ptr": 2461568,
+  "bytes": 29,
+  "kind": "debug",
+  "slots": [],
+  "jp": "上記３つの合計サイズ : %dKB[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258FA0",
+  "ptr": 2461600,
+  "bytes": 37,
+  "kind": "debug",
+  "slots": [],
+  "jp": "メモリースティックの空き容量 : %dKB[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258FC8",
+  "ptr": 2461640,
+  "bytes": 22,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【ファイルチェック】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_258FE0",
+  "ptr": 2461664,
+  "bytes": 63,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【ユグドラ・ユニオン】システムデータは、ありませんでした : %d[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259020",
+  "ptr": 2461728,
+  "bytes": 49,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【ユグドラ・ユニオン】システムデータ発見！ : %d[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259054",
+  "ptr": 2461780,
+  "bytes": 28,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【システムデータのロード】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259084",
+  "ptr": 2461828,
+  "bytes": 48,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【ユグドラ・ユニオンのシステムデータのロード】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2590B4",
+  "ptr": 2461876,
+  "bytes": 28,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【システムデータのセーブ】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2590E4",
+  "ptr": 2461924,
+  "bytes": 24,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【中断データのロード】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259110",
+  "ptr": 2461968,
+  "bytes": 24,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【中断データのセーブ】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2591EC",
+  "ptr": 2462188,
+  "bytes": 34,
+  "kind": "debug",
+  "slots": [],
+  "jp": "【 サスペンドから復帰しました 】[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259640",
+  "ptr": 2463296,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809468
+   }
+  ],
+  "jp": "ガーロット",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25964C",
+  "ptr": 2463308,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809480
+   }
+  ],
+  "jp": "ガルカーサ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259658",
+  "ptr": 2463320,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809492
+   },
+   {
+    "word": 2809500
+   }
+  ],
+  "jp": "シスキア",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259664",
+  "ptr": 2463332,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809504
+   }
+  ],
+  "jp": "ジェノン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259670",
+  "ptr": 2463344,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809516
+   }
+  ],
+  "jp": "メデューテ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25967C",
+  "ptr": 2463356,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809528
+   },
+   {
+    "word": 2809536
+   }
+  ],
+  "jp": "エミリオ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259688",
+  "ptr": 2463368,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809540
+   }
+  ],
+  "jp": "アイギナ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259694",
+  "ptr": 2463380,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809552
+   },
+   {
+    "word": 2809560
+   }
+  ],
+  "jp": "ユーディ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2596A0",
+  "ptr": 2463392,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809564
+   }
+  ],
+  "jp": "レオン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2596A8",
+  "ptr": 2463400,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809576
+   }
+  ],
+  "jp": "バルドゥス",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2596B4",
+  "ptr": 2463412,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809588
+   }
+  ],
+  "jp": "ヴェルマン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2596C0",
+  "ptr": 2463424,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809600
+   }
+  ],
+  "jp": "ソルティエ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2596CC",
+  "ptr": 2463436,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809612
+   }
+  ],
+  "jp": "ネシア",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2596D4",
+  "ptr": 2463444,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809624
+   }
+  ],
+  "jp": "ベアトリーヌ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2596E4",
+  "ptr": 2463460,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809636
+   }
+  ],
+  "jp": "ジルヴァ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2596F0",
+  "ptr": 2463472,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809648
+   }
+  ],
+  "jp": "パンドラ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2596FC",
+  "ptr": 2463484,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809660
+   }
+  ],
+  "jp": "ミゼル",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259704",
+  "ptr": 2463492,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809672
+   }
+  ],
+  "jp": "インザーギ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259710",
+  "ptr": 2463504,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809684
+   }
+  ],
+  "jp": "ノルン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259718",
+  "ptr": 2463512,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809696
+   }
+  ],
+  "jp": "デイヴィド",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259724",
+  "ptr": 2463524,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809708
+   }
+  ],
+  "jp": "パメラ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25972C",
+  "ptr": 2463532,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809716
+   }
+  ],
+  "jp": "パメラサマ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259738",
+  "ptr": 2463544,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809720
+   }
+  ],
+  "jp": "バイフー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259744",
+  "ptr": 2463556,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809732
+   }
+  ],
+  "jp": "イータ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25974C",
+  "ptr": 2463564,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809744
+   }
+  ],
+  "jp": "ラッセル",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259758",
+  "ptr": 2463576,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809756
+   },
+   {
+    "word": 2810428
+   },
+   {
+    "word": 2810436
+   }
+  ],
+  "jp": "オルディーン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259768",
+  "ptr": 2463592,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809768
+   }
+  ],
+  "jp": "アランゼーム",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259778",
+  "ptr": 2463608,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809780
+   }
+  ],
+  "jp": "ラピス",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259780",
+  "ptr": 2463616,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809792
+   }
+  ],
+  "jp": "セリカ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259788",
+  "ptr": 2463624,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809804
+   }
+  ],
+  "jp": "スレイプ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259794",
+  "ptr": 2463636,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809816
+   }
+  ],
+  "jp": "アスガーリ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2597A0",
+  "ptr": 2463648,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809828
+   }
+  ],
+  "jp": "アルフ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2597A8",
+  "ptr": 2463656,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809840
+   }
+  ],
+  "jp": "ヴァン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2597B0",
+  "ptr": 2463664,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809852
+   }
+  ],
+  "jp": "ヴェアル",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2597BC",
+  "ptr": 2463676,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809864
+   }
+  ],
+  "jp": "ミズガーリ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2597C8",
+  "ptr": 2463688,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809876
+   }
+  ],
+  "jp": "ヨトゥン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2597D4",
+  "ptr": 2463700,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809888
+   }
+  ],
+  "jp": "ニヴァール",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2597E0",
+  "ptr": 2463712,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809900
+   }
+  ],
+  "jp": "ヘルル",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2597E8",
+  "ptr": 2463720,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809912
+   }
+  ],
+  "jp": "ムスパー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2597F4",
+  "ptr": 2463732,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809924
+   }
+  ],
+  "jp": "テシタ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2597FC",
+  "ptr": 2463740,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809936
+   }
+  ],
+  "jp": "私兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259804",
+  "ptr": 2463748,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809940
+   },
+   {
+    "word": 2810120
+   }
+  ],
+  "jp": "シ兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25980C",
+  "ptr": 2463756,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809948
+   }
+  ],
+  "jp": "遊撃兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259814",
+  "ptr": 2463764,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809952
+   }
+  ],
+  "jp": "ユウゲキ兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259820",
+  "ptr": 2463776,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809960
+   }
+  ],
+  "jp": "傭兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259828",
+  "ptr": 2463784,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809964
+   }
+  ],
+  "jp": "ヨウ兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259830",
+  "ptr": 2463792,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809972
+   }
+  ],
+  "jp": "野盗",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259838",
+  "ptr": 2463800,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809976
+   }
+  ],
+  "jp": "ヤトウ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259840",
+  "ptr": 2463808,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809980
+   },
+   {
+    "word": 2810352
+   }
+  ],
+  "jp": "ヤトウ団",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25984C",
+  "ptr": 2463820,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809984
+   }
+  ],
+  "jp": "山賊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259854",
+  "ptr": 2463828,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809988
+   }
+  ],
+  "jp": "サンゾク",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259860",
+  "ptr": 2463840,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809992
+   },
+   {
+    "word": 2810364
+   }
+  ],
+  "jp": "サンゾク団",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25986C",
+  "ptr": 2463852,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2809996
+   }
+  ],
+  "jp": "刺客",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259874",
+  "ptr": 2463860,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810000
+   }
+  ],
+  "jp": "シカク",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25987C",
+  "ptr": 2463868,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810004
+   }
+  ],
+  "jp": "シカク部隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259888",
+  "ptr": 2463880,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810008
+   }
+  ],
+  "jp": "暗殺者",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259890",
+  "ptr": 2463888,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810012
+   }
+  ],
+  "jp": "アンサツ者",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25989C",
+  "ptr": 2463900,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810016
+   }
+  ],
+  "jp": "アンサツ者部隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2598AC",
+  "ptr": 2463916,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810020
+   }
+  ],
+  "jp": "重騎兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2598B4",
+  "ptr": 2463924,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810024
+   }
+  ],
+  "jp": "ジュウキ兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2598C0",
+  "ptr": 2463936,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810032
+   }
+  ],
+  "jp": "盗賊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2598C8",
+  "ptr": 2463944,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810036
+   }
+  ],
+  "jp": "トウゾク",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2598D4",
+  "ptr": 2463956,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810040
+   },
+   {
+    "word": 2810376
+   }
+  ],
+  "jp": "トウゾク団",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2598E0",
+  "ptr": 2463968,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810044
+   },
+   {
+    "word": 2810048
+   }
+  ],
+  "jp": "教団兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2598E8",
+  "ptr": 2463976,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810052
+   },
+   {
+    "word": 2810388
+   }
+  ],
+  "jp": "教団部隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2598F4",
+  "ptr": 2463988,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810056
+   }
+  ],
+  "jp": "王国兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2598FC",
+  "ptr": 2463996,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810060
+   }
+  ],
+  "jp": "オウコク兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259908",
+  "ptr": 2464008,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810068
+   }
+  ],
+  "jp": "反乱兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259910",
+  "ptr": 2464016,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810072
+   }
+  ],
+  "jp": "ハンラン兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25991C",
+  "ptr": 2464028,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810080
+   }
+  ],
+  "jp": "子分",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259924",
+  "ptr": 2464036,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810084
+   }
+  ],
+  "jp": "コブン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25992C",
+  "ptr": 2464044,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810088
+   }
+  ],
+  "jp": "コブン部隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259938",
+  "ptr": 2464056,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810092
+   }
+  ],
+  "jp": "輸送隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259944",
+  "ptr": 2464068,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810096
+   }
+  ],
+  "jp": "ユソウ隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259950",
+  "ptr": 2464080,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810100
+   },
+   {
+    "word": 2810424
+   }
+  ],
+  "jp": "ユソウ部隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25995C",
+  "ptr": 2464092,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810104
+   }
+  ],
+  "jp": "民兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259964",
+  "ptr": 2464100,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810108
+   }
+  ],
+  "jp": "ミン兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25996C",
+  "ptr": 2464108,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810116
+   }
+  ],
+  "jp": "屍兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259974",
+  "ptr": 2464116,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810128
+   }
+  ],
+  "jp": "ゴロツキＡ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259980",
+  "ptr": 2464128,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810136
+   },
+   {
+    "word": 2810148
+   },
+   {
+    "word": 2810160
+   },
+   {
+    "word": 2810172
+   },
+   {
+    "word": 2810184
+   }
+  ],
+  "jp": "ゴロツキ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25998C",
+  "ptr": 2464140,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810140
+   }
+  ],
+  "jp": "ゴロツキＢ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259998",
+  "ptr": 2464152,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810152
+   }
+  ],
+  "jp": "ゴロツキＣ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2599A4",
+  "ptr": 2464164,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810164
+   }
+  ],
+  "jp": "ゴロツキＤ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2599B0",
+  "ptr": 2464176,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810176
+   }
+  ],
+  "jp": "ゴロツキＥ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2599BC",
+  "ptr": 2464188,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810188
+   }
+  ],
+  "jp": "その他",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2599C4",
+  "ptr": 2464196,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810192
+   }
+  ],
+  "jp": "ソノタ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2599CC",
+  "ptr": 2464204,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810200
+   }
+  ],
+  "jp": "親衛隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2599D4",
+  "ptr": 2464212,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810204
+   },
+   {
+    "word": 2810208
+   }
+  ],
+  "jp": "シンエイ隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2599E0",
+  "ptr": 2464224,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810212
+   }
+  ],
+  "jp": "鋼鉄騎兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2599EC",
+  "ptr": 2464236,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810216
+   }
+  ],
+  "jp": "コウテツキ兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_2599FC",
+  "ptr": 2464252,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810224
+   }
+  ],
+  "jp": "帝国兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A04",
+  "ptr": 2464260,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810228
+   }
+  ],
+  "jp": "テイコク兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A10",
+  "ptr": 2464272,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810236
+   },
+   {
+    "word": 2810244
+   }
+  ],
+  "jp": "ミニオン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A1C",
+  "ptr": 2464284,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810248
+   },
+   {
+    "word": 2811040
+   }
+  ],
+  "jp": "神殿の者",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A28",
+  "ptr": 2464296,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810252
+   },
+   {
+    "word": 2810256
+   }
+  ],
+  "jp": "シンデンノ者",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A38",
+  "ptr": 2464312,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810260
+   }
+  ],
+  "jp": "近衛兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A40",
+  "ptr": 2464320,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810264
+   }
+  ],
+  "jp": "コノエ兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A4C",
+  "ptr": 2464332,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810268
+   }
+  ],
+  "jp": "コノエ隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A58",
+  "ptr": 2464344,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810272
+   }
+  ],
+  "jp": "総隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A60",
+  "ptr": 2464352,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810276
+   },
+   {
+    "word": 2810280
+   }
+  ],
+  "jp": "ソウ隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A6C",
+  "ptr": 2464364,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810284
+   }
+  ],
+  "jp": "カローナ兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A78",
+  "ptr": 2464376,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810296
+   }
+  ],
+  "jp": "斥候隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A84",
+  "ptr": 2464388,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810300
+   }
+  ],
+  "jp": "セッコウ隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259A94",
+  "ptr": 2464404,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810304
+   }
+  ],
+  "jp": "セッコウ部隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259AA4",
+  "ptr": 2464420,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810308
+   }
+  ],
+  "jp": "砲撃手",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259AAC",
+  "ptr": 2464428,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810312
+   }
+  ],
+  "jp": "ホウゲキシュ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259ABC",
+  "ptr": 2464444,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810316
+   }
+  ],
+  "jp": "ホウゲキ部隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259ACC",
+  "ptr": 2464460,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810320
+   },
+   {
+    "word": 2811592
+   }
+  ],
+  "jp": "番兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259AD4",
+  "ptr": 2464468,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810324
+   }
+  ],
+  "jp": "バン兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259ADC",
+  "ptr": 2464476,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810328
+   }
+  ],
+  "jp": "バン兵部隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259AE8",
+  "ptr": 2464488,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810332
+   }
+  ],
+  "jp": "門番長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259AF0",
+  "ptr": 2464496,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810336
+   }
+  ],
+  "jp": "モンバン長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259AFC",
+  "ptr": 2464508,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810340
+   }
+  ],
+  "jp": "モンバン部隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B0C",
+  "ptr": 2464524,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810344
+   }
+  ],
+  "jp": "野盗隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B18",
+  "ptr": 2464536,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810348
+   }
+  ],
+  "jp": "ヤトウ隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B24",
+  "ptr": 2464548,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810356
+   }
+  ],
+  "jp": "山賊団長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B30",
+  "ptr": 2464560,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810360
+   }
+  ],
+  "jp": "サンゾク団長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B40",
+  "ptr": 2464576,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810368
+   }
+  ],
+  "jp": "盗賊団長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B4C",
+  "ptr": 2464588,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810372
+   }
+  ],
+  "jp": "トウゾク団長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B5C",
+  "ptr": 2464604,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810380
+   },
+   {
+    "word": 2810384
+   }
+  ],
+  "jp": "教団兵長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B68",
+  "ptr": 2464616,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810392
+   }
+  ],
+  "jp": "小隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B70",
+  "ptr": 2464624,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810400
+   }
+  ],
+  "jp": "ハンラン兵隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B80",
+  "ptr": 2464640,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810404
+   }
+  ],
+  "jp": "大隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B88",
+  "ptr": 2464648,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810412
+   }
+  ],
+  "jp": "オウコク兵隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259B98",
+  "ptr": 2464664,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810416
+   }
+  ],
+  "jp": "輸送隊員",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259BA4",
+  "ptr": 2464676,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810420
+   }
+  ],
+  "jp": "ユソウ隊員",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259BB0",
+  "ptr": 2464688,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810440
+   }
+  ],
+  "jp": "ゴーレム",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259BBC",
+  "ptr": 2464700,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810452
+   },
+   {
+    "word": 2810460
+   }
+  ],
+  "jp": "ルシエナ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259BC8",
+  "ptr": 2464712,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810464
+   },
+   {
+    "word": 2810472
+   }
+  ],
+  "jp": "？？？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259BD0",
+  "ptr": 2464720,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810476
+   }
+  ],
+  "jp": "金髪の少女",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259BDC",
+  "ptr": 2464732,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810488
+   }
+  ],
+  "jp": "赤毛の幼い子ども",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259BF0",
+  "ptr": 2464752,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810500
+   }
+  ],
+  "jp": "若い男性",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259BFC",
+  "ptr": 2464764,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810512
+   }
+  ],
+  "jp": "恰幅のいい商人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C0C",
+  "ptr": 2464780,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810524
+   }
+  ],
+  "jp": "商人の私兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C18",
+  "ptr": 2464792,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810536
+   }
+  ],
+  "jp": "色黒の女武芸者",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C28",
+  "ptr": 2464808,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810548
+   }
+  ],
+  "jp": "ソバカス女",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C34",
+  "ptr": 2464820,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810560
+   }
+  ],
+  "jp": "傭兵の一味",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C40",
+  "ptr": 2464832,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810572
+   }
+  ],
+  "jp": "眼光の鋭い男性",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C50",
+  "ptr": 2464848,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810584
+   }
+  ],
+  "jp": "セリカ一味",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C5C",
+  "ptr": 2464860,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810596
+   }
+  ],
+  "jp": "親衛隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C68",
+  "ptr": 2464872,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810608
+   }
+  ],
+  "jp": "松葉杖の少女",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C78",
+  "ptr": 2464888,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810620
+   }
+  ],
+  "jp": "少女",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C80",
+  "ptr": 2464896,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810632
+   }
+  ],
+  "jp": "将校",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C88",
+  "ptr": 2464904,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810644
+   }
+  ],
+  "jp": "黒衣の総隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259C98",
+  "ptr": 2464920,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810656
+   }
+  ],
+  "jp": "一般兵卒",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259CA4",
+  "ptr": 2464932,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810668
+   }
+  ],
+  "jp": "女の声",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259CAC",
+  "ptr": 2464940,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810680
+   }
+  ],
+  "jp": "男の声",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259CB4",
+  "ptr": 2464948,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810692
+   }
+  ],
+  "jp": "巨躯の獣人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259CC0",
+  "ptr": 2464960,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810704
+   }
+  ],
+  "jp": "盗賊の隊長",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259CCC",
+  "ptr": 2464972,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810716
+   }
+  ],
+  "jp": "神生教団兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259CD8",
+  "ptr": 2464984,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810728
+   }
+  ],
+  "jp": "メガネの女",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259CE4",
+  "ptr": 2464996,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810740
+   }
+  ],
+  "jp": "王国の大臣",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259CF0",
+  "ptr": 2465008,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810752
+   }
+  ],
+  "jp": "大臣の麾下",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259CFC",
+  "ptr": 2465020,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810764
+   }
+  ],
+  "jp": "商人風の青年",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D0C",
+  "ptr": 2465036,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810776
+   }
+  ],
+  "jp": "盗賊団頭目",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D18",
+  "ptr": 2465048,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810788
+   }
+  ],
+  "jp": "斥候",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D20",
+  "ptr": 2465056,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810800
+   }
+  ],
+  "jp": "私兵団兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D2C",
+  "ptr": 2465068,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810812
+   }
+  ],
+  "jp": "盗賊団伝令",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D38",
+  "ptr": 2465080,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810824
+   }
+  ],
+  "jp": "ミゼルの子分",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D48",
+  "ptr": 2465096,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810836
+   }
+  ],
+  "jp": "生存者",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D50",
+  "ptr": 2465104,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810848
+   }
+  ],
+  "jp": "いきなり魔女っ娘",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D64",
+  "ptr": 2465124,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810860
+   }
+  ],
+  "jp": "水夫",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D6C",
+  "ptr": 2465132,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810872
+   }
+  ],
+  "jp": "領民",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D74",
+  "ptr": 2465140,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810884
+   }
+  ],
+  "jp": "金髪の傭兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D80",
+  "ptr": 2465152,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810896
+   }
+  ],
+  "jp": "大将らしき無精男",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259D94",
+  "ptr": 2465172,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810908
+   }
+  ],
+  "jp": "目隠しの男",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259DA0",
+  "ptr": 2465184,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810920
+   }
+  ],
+  "jp": "黒髪の美少女",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259DB0",
+  "ptr": 2465200,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810932
+   }
+  ],
+  "jp": "山賊の首領",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259DBC",
+  "ptr": 2465212,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810944
+   }
+  ],
+  "jp": "役人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259DC4",
+  "ptr": 2465220,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810956
+   }
+  ],
+  "jp": "兵士",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259DCC",
+  "ptr": 2465228,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810968
+   }
+  ],
+  "jp": "鋼鉄騎団兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259DD8",
+  "ptr": 2465240,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810980
+   }
+  ],
+  "jp": "若い女性",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259DE4",
+  "ptr": 2465252,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2810992
+   }
+  ],
+  "jp": "神秘的な女性",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259DF4",
+  "ptr": 2465268,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811004
+   }
+  ],
+  "jp": "闇夜に響く声",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E04",
+  "ptr": 2465284,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811016
+   }
+  ],
+  "jp": "偵察隊",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E0C",
+  "ptr": 2465292,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811028
+   }
+  ],
+  "jp": "ガーロット？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E1C",
+  "ptr": 2465308,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811052
+   }
+  ],
+  "jp": "志願兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E24",
+  "ptr": 2465316,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811064
+   }
+  ],
+  "jp": "伝令",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E2C",
+  "ptr": 2465324,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811076
+   }
+  ],
+  "jp": "王国軍の将校",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E3C",
+  "ptr": 2465340,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811088
+   }
+  ],
+  "jp": "高貴な服装の男性",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E50",
+  "ptr": 2465360,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811100
+   }
+  ],
+  "jp": "エイミ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E58",
+  "ptr": 2465368,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811112
+   }
+  ],
+  "jp": "エレナ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E60",
+  "ptr": 2465376,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811124
+   }
+  ],
+  "jp": "ユグドラ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E6C",
+  "ptr": 2465388,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811136
+   }
+  ],
+  "jp": "子供",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E74",
+  "ptr": 2465396,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811148
+   }
+  ],
+  "jp": "女性",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E7C",
+  "ptr": 2465404,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811160
+   }
+  ],
+  "jp": "青年",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E84",
+  "ptr": 2465412,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811172
+   }
+  ],
+  "jp": "男性",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E8C",
+  "ptr": 2465420,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811184
+   }
+  ],
+  "jp": "老人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E94",
+  "ptr": 2465428,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811196
+   }
+  ],
+  "jp": "老婆",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259E9C",
+  "ptr": 2465436,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811208
+   }
+  ],
+  "jp": "母親",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259EA4",
+  "ptr": 2465444,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811220
+   }
+  ],
+  "jp": "商人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259EAC",
+  "ptr": 2465452,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811232
+   }
+  ],
+  "jp": "負傷兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259EB4",
+  "ptr": 2465460,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811244
+   }
+  ],
+  "jp": "密偵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259EBC",
+  "ptr": 2465468,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811256
+   }
+  ],
+  "jp": "王都住民",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259EC8",
+  "ptr": 2465480,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811268
+   }
+  ],
+  "jp": "お姉さん",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259ED4",
+  "ptr": 2465492,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811280
+   }
+  ],
+  "jp": "帝国軍兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259EE0",
+  "ptr": 2465504,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811292
+   }
+  ],
+  "jp": "帝都住民",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259EEC",
+  "ptr": 2465516,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811304
+   }
+  ],
+  "jp": "ニーベル街区住民",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F00",
+  "ptr": 2465536,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811316
+   }
+  ],
+  "jp": "ネザー地区住民",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F10",
+  "ptr": 2465552,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811328
+   }
+  ],
+  "jp": "反乱軍兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F1C",
+  "ptr": 2465564,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811340
+   }
+  ],
+  "jp": "妖精",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F24",
+  "ptr": 2465572,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811352
+   }
+  ],
+  "jp": "神生教団員",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F30",
+  "ptr": 2465584,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811364
+   }
+  ],
+  "jp": "神父",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F38",
+  "ptr": 2465592,
+  "bytes": 3,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811376
+   }
+  ],
+  "jp": "男",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F3C",
+  "ptr": 2465596,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811388
+   }
+  ],
+  "jp": "魔導師",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F44",
+  "ptr": 2465604,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811400
+   }
+  ],
+  "jp": "遊牧民",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F4C",
+  "ptr": 2465612,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811412
+   }
+  ],
+  "jp": "地図職人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F58",
+  "ptr": 2465624,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811424
+   }
+  ],
+  "jp": "オヤカタ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F64",
+  "ptr": 2465636,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811436
+   }
+  ],
+  "jp": "デシ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F6C",
+  "ptr": 2465644,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811448
+   }
+  ],
+  "jp": "鉱夫",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F74",
+  "ptr": 2465652,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811460
+   }
+  ],
+  "jp": "旅人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F7C",
+  "ptr": 2465660,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811472
+   }
+  ],
+  "jp": "傑士",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F84",
+  "ptr": 2465668,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811484
+   }
+  ],
+  "jp": "女の子",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F8C",
+  "ptr": 2465676,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811496
+   }
+  ],
+  "jp": "怪しい男",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259F98",
+  "ptr": 2465688,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811508
+   }
+  ],
+  "jp": "骸の青年",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259FA4",
+  "ptr": 2465700,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811520
+   }
+  ],
+  "jp": "酒場の看板娘",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259FB4",
+  "ptr": 2465716,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811532
+   }
+  ],
+  "jp": "山師",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259FBC",
+  "ptr": 2465724,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811544
+   }
+  ],
+  "jp": "孤児院の少女",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259FCC",
+  "ptr": 2465740,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811556
+   }
+  ],
+  "jp": "鍛冶屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259FD4",
+  "ptr": 2465748,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811568
+   }
+  ],
+  "jp": "木こり",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259FDC",
+  "ptr": 2465756,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811580
+   }
+  ],
+  "jp": "隠者",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259FE4",
+  "ptr": 2465764,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811604
+   }
+  ],
+  "jp": "露天商",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259FEC",
+  "ptr": 2465772,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811616
+   }
+  ],
+  "jp": "警備兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_259FF4",
+  "ptr": 2465780,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811628
+   }
+  ],
+  "jp": "指輪コレクター",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A004",
+  "ptr": 2465796,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811640
+   }
+  ],
+  "jp": "日記マニア",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A010",
+  "ptr": 2465808,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811652
+   }
+  ],
+  "jp": "農婦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A018",
+  "ptr": 2465816,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811664
+   }
+  ],
+  "jp": "毛皮職人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A024",
+  "ptr": 2465828,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811676
+   }
+  ],
+  "jp": "軽い態度の妖精",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A034",
+  "ptr": 2465844,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811688
+   }
+  ],
+  "jp": "見張りの妖精",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A044",
+  "ptr": 2465860,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811700
+   }
+  ],
+  "jp": "給仕のお姉さん",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A054",
+  "ptr": 2465876,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811712
+   }
+  ],
+  "jp": "魔女",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A05C",
+  "ptr": 2465884,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811724
+   }
+  ],
+  "jp": "工芸職人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A068",
+  "ptr": 2465896,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811736
+   }
+  ],
+  "jp": "ゲンジ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A070",
+  "ptr": 2465904,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811748
+   }
+  ],
+  "jp": "ゲンゴ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A078",
+  "ptr": 2465912,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811760
+   }
+  ],
+  "jp": "ゲンナ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A080",
+  "ptr": 2465920,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811772
+   }
+  ],
+  "jp": "狩人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A088",
+  "ptr": 2465928,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811784
+   }
+  ],
+  "jp": "グルメ少女",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A094",
+  "ptr": 2465940,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811796
+   }
+  ],
+  "jp": "飲んだくれ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A0A0",
+  "ptr": 2465952,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811808
+   }
+  ],
+  "jp": "魔術師",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A0A8",
+  "ptr": 2465960,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811820
+   }
+  ],
+  "jp": "錬金術師",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A0B4",
+  "ptr": 2465972,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811832
+   }
+  ],
+  "jp": "店主",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A0BC",
+  "ptr": 2465980,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811844
+   }
+  ],
+  "jp": "武器職人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A0C8",
+  "ptr": 2465992,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811856
+   }
+  ],
+  "jp": "貴族",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A0D0",
+  "ptr": 2466000,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811868
+   }
+  ],
+  "jp": "養鶏場のお姉さん",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A0E4",
+  "ptr": 2466020,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811880
+   }
+  ],
+  "jp": "監視の老婆",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A0F0",
+  "ptr": 2466032,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811892
+   }
+  ],
+  "jp": "橋守り",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A0F8",
+  "ptr": 2466040,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811904
+   }
+  ],
+  "jp": "爺さん",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A100",
+  "ptr": 2466048,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811916
+   }
+  ],
+  "jp": "アセラ湖",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A10C",
+  "ptr": 2466060,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811920
+   }
+  ],
+  "jp": "アッサム通り",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A11C",
+  "ptr": 2466076,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811924
+   }
+  ],
+  "jp": "アライク孤児院",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A12C",
+  "ptr": 2466092,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811928
+   }
+  ],
+  "jp": "要塞内溝渠",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A138",
+  "ptr": 2466104,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811932
+   }
+  ],
+  "jp": "ヴェルマン邸",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A148",
+  "ptr": 2466120,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811936
+   }
+  ],
+  "jp": "ヴェルマン邸脇",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A158",
+  "ptr": 2466136,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811940
+   }
+  ],
+  "jp": "エリス居住区",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A168",
+  "ptr": 2466152,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811944
+   }
+  ],
+  "jp": "オアシス",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A174",
+  "ptr": 2466164,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811948
+   }
+  ],
+  "jp": "グルメ館",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A180",
+  "ptr": 2466176,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811952
+   }
+  ],
+  "jp": "グロフの町",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A18C",
+  "ptr": 2466188,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811956
+   }
+  ],
+  "jp": "ケルヌガ砦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A198",
+  "ptr": 2466200,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811960
+   }
+  ],
+  "jp": "ケルヌガ市",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A1A4",
+  "ptr": 2466212,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811964
+   }
+  ],
+  "jp": "ゲンゴの小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A1B4",
+  "ptr": 2466228,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811968
+   }
+  ],
+  "jp": "ゲンジの小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A1C4",
+  "ptr": 2466244,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811972
+   }
+  ],
+  "jp": "ゲンナの小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A1D4",
+  "ptr": 2466260,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811976
+   }
+  ],
+  "jp": "ココリ林",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A1E0",
+  "ptr": 2466272,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811980
+   }
+  ],
+  "jp": "サルバ市",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A1EC",
+  "ptr": 2466284,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811984
+   }
+  ],
+  "jp": "ジェノマ砦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A1F8",
+  "ptr": 2466296,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811988
+   }
+  ],
+  "jp": "シャーミネル市",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A208",
+  "ptr": 2466312,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811992
+   }
+  ],
+  "jp": "シャーミネル砦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A218",
+  "ptr": 2466328,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2811996
+   }
+  ],
+  "jp": "ショップマキナ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A228",
+  "ptr": 2466344,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812000
+   }
+  ],
+  "jp": "ソネッタの街",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A238",
+  "ptr": 2466360,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812004
+   }
+  ],
+  "jp": "デシの家",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A244",
+  "ptr": 2466372,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812008
+   }
+  ],
+  "jp": "トカニク修道院",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A254",
+  "ptr": 2466388,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812012
+   }
+  ],
+  "jp": "トキノの関所",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A264",
+  "ptr": 2466404,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812016
+   }
+  ],
+  "jp": "トキノ中央砦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A274",
+  "ptr": 2466420,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812020
+   }
+  ],
+  "jp": "トリビデの村",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A284",
+  "ptr": 2466436,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812024
+   }
+  ],
+  "jp": "ぬかるみ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A290",
+  "ptr": 2466448,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812028
+   }
+  ],
+  "jp": "ノーセイユ区",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A2A0",
+  "ptr": 2466464,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812032
+   }
+  ],
+  "jp": "バハラの荘園跡",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A2B0",
+  "ptr": 2466480,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812036
+   }
+  ],
+  "jp": "バルーダー市",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A2C0",
+  "ptr": 2466496,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812040
+   }
+  ],
+  "jp": "パンドラ砦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A2CC",
+  "ptr": 2466508,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812044
+   }
+  ],
+  "jp": "ビスタ川の集落",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A2DC",
+  "ptr": 2466524,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812048
+   }
+  ],
+  "jp": "ひとけの無い館",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A2EC",
+  "ptr": 2466540,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812052
+   }
+  ],
+  "jp": "フラウベ村",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A2F8",
+  "ptr": 2466552,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812056
+   }
+  ],
+  "jp": "マロゥの森",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A304",
+  "ptr": 2466564,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812060
+   }
+  ],
+  "jp": "マーロイの集落",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A314",
+  "ptr": 2466580,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812064
+   }
+  ],
+  "jp": "ミゼルの隠れ家",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A324",
+  "ptr": 2466596,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812068
+   }
+  ],
+  "jp": "ミゼル離脱地点",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A334",
+  "ptr": 2466612,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812072
+   }
+  ],
+  "jp": "ミネルロード",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A344",
+  "ptr": 2466628,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812076
+   }
+  ],
+  "jp": "ミリアの廃屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A354",
+  "ptr": 2466644,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812080
+   }
+  ],
+  "jp": "ムンバール農村",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A364",
+  "ptr": 2466660,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812084
+   }
+  ],
+  "jp": "メガネ女の大砲",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A374",
+  "ptr": 2466676,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812088
+   }
+  ],
+  "jp": "メプルの木",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A380",
+  "ptr": 2466688,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812092
+   }
+  ],
+  "jp": "メーテ武器工房",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A390",
+  "ptr": 2466704,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812096
+   }
+  ],
+  "jp": "モヴの木",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A39C",
+  "ptr": 2466716,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812100
+   }
+  ],
+  "jp": "モザレフの村",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A3AC",
+  "ptr": 2466732,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812104
+   }
+  ],
+  "jp": "ユーディの大砲",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A3BC",
+  "ptr": 2466748,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812108
+   }
+  ],
+  "jp": "ライネの街",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A3C8",
+  "ptr": 2466760,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812112
+   }
+  ],
+  "jp": "ラネシァ川",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A3D4",
+  "ptr": 2466772,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812116
+   }
+  ],
+  "jp": "ラーゼス廃村",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A3E4",
+  "ptr": 2466788,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812120
+   }
+  ],
+  "jp": "リヴィア市",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A3F0",
+  "ptr": 2466800,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812124
+   }
+  ],
+  "jp": "リラ市",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A3F8",
+  "ptr": 2466808,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812128
+   }
+  ],
+  "jp": "りんごの木",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A404",
+  "ptr": 2466820,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812132
+   }
+  ],
+  "jp": "リーブルの町",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A414",
+  "ptr": 2466836,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812136
+   }
+  ],
+  "jp": "ロドニー街道",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A424",
+  "ptr": 2466852,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812140
+   }
+  ],
+  "jp": "ロナリス砦物置",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A434",
+  "ptr": 2466868,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812144
+   }
+  ],
+  "jp": "ワドニムの町",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A444",
+  "ptr": 2466884,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812148
+   }
+  ],
+  "jp": "飲んだくれ小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A454",
+  "ptr": 2466900,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812152
+   }
+  ],
+  "jp": "隠者の庵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A460",
+  "ptr": 2466912,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812156
+   }
+  ],
+  "jp": "奥深くの山小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A470",
+  "ptr": 2466928,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812160
+   }
+  ],
+  "jp": "王都の大砲",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A47C",
+  "ptr": 2466940,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812164
+   }
+  ],
+  "jp": "花畑",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A484",
+  "ptr": 2466948,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812168
+   }
+  ],
+  "jp": "ほの暗い森の只中",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A498",
+  "ptr": 2466968,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812172
+   }
+  ],
+  "jp": "崖の下",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A4A0",
+  "ptr": 2466976,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812176
+   }
+  ],
+  "jp": "街外れの小村",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A4B0",
+  "ptr": 2466992,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812180
+   }
+  ],
+  "jp": "街角の暗がり",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A4C0",
+  "ptr": 2467008,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812184
+   }
+  ],
+  "jp": "街道と砂漠の只中",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A4D4",
+  "ptr": 2467028,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812188
+   }
+  ],
+  "jp": "寒村エラク",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A4E0",
+  "ptr": 2467040,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812192
+   }
+  ],
+  "jp": "監視小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A4EC",
+  "ptr": 2467052,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812196
+   }
+  ],
+  "jp": "岩の台地",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A4F8",
+  "ptr": 2467064,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812200
+   }
+  ],
+  "jp": "岩場の影",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A504",
+  "ptr": 2467076,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812204
+   }
+  ],
+  "jp": "朽ち果てた神殿",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A514",
+  "ptr": 2467092,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812208
+   }
+  ],
+  "jp": "橋のたもと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A520",
+  "ptr": 2467104,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812212
+   }
+  ],
+  "jp": "橋脚のふもと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A530",
+  "ptr": 2467120,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812216
+   }
+  ],
+  "jp": "橋守りの小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A540",
+  "ptr": 2467136,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812220
+   }
+  ],
+  "jp": "渓谷の岩壁",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A54C",
+  "ptr": 2467148,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812224
+   }
+  ],
+  "jp": "傑士の家",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A558",
+  "ptr": 2467160,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812228
+   }
+  ],
+  "jp": "古木の森",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A564",
+  "ptr": 2467172,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812232
+   }
+  ],
+  "jp": "湖畔の村アセラ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A574",
+  "ptr": 2467188,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812236
+   }
+  ],
+  "jp": "広場",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A57C",
+  "ptr": 2467196,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812240
+   }
+  ],
+  "jp": "荒原の岩陰",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A588",
+  "ptr": 2467208,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812244
+   }
+  ],
+  "jp": "荒野の村",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A594",
+  "ptr": 2467220,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812248
+   }
+  ],
+  "jp": "鉱夫の安息所",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A5A4",
+  "ptr": 2467236,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812252
+   }
+  ],
+  "jp": "高床の穀倉",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A5B0",
+  "ptr": 2467248,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812256
+   }
+  ],
+  "jp": "豪奢な屋敷",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A5BC",
+  "ptr": 2467260,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812260
+   }
+  ],
+  "jp": "座礁船の傍",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A5C8",
+  "ptr": 2467272,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812264
+   }
+  ],
+  "jp": "祭壇",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A5D0",
+  "ptr": 2467280,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812268
+   }
+  ],
+  "jp": "山小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A5D8",
+  "ptr": 2467288,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812272
+   }
+  ],
+  "jp": "桟道",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A5E0",
+  "ptr": 2467296,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812276
+   }
+  ],
+  "jp": "桟道の食事処",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A5F0",
+  "ptr": 2467312,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812280
+   }
+  ],
+  "jp": "私兵団邸入り口",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A600",
+  "ptr": 2467328,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812284
+   }
+  ],
+  "jp": "自警組織詰め所",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A610",
+  "ptr": 2467344,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812288
+   }
+  ],
+  "jp": "狩人の家",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A61C",
+  "ptr": 2467356,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812292
+   }
+  ],
+  "jp": "呪いの巨岩",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A628",
+  "ptr": 2467368,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812296
+   }
+  ],
+  "jp": "収容所跡地？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A638",
+  "ptr": 2467384,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812300
+   }
+  ],
+  "jp": "集合地点の台地",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A648",
+  "ptr": 2467400,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812304
+   }
+  ],
+  "jp": "柔らかな木立",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A658",
+  "ptr": 2467416,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812308
+   }
+  ],
+  "jp": "処刑場跡地？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A668",
+  "ptr": 2467432,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812312
+   }
+  ],
+  "jp": "沼地の片隅",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A674",
+  "ptr": 2467444,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812316
+   }
+  ],
+  "jp": "森の奥の湿地",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A684",
+  "ptr": 2467460,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812320
+   }
+  ],
+  "jp": "森の中の暗がり",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A694",
+  "ptr": 2467476,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812324
+   }
+  ],
+  "jp": "森の中の集落",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A6A4",
+  "ptr": 2467492,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812328
+   }
+  ],
+  "jp": "水面が光る湖",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A6B4",
+  "ptr": 2467508,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812332
+   }
+  ],
+  "jp": "水門の傍",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A6C0",
+  "ptr": 2467520,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812336
+   }
+  ],
+  "jp": "西の往来",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A6CC",
+  "ptr": 2467532,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812340
+   }
+  ],
+  "jp": "西マーケット",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A6DC",
+  "ptr": 2467548,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812344
+   }
+  ],
+  "jp": "西仮設街区",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A6E8",
+  "ptr": 2467560,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812348
+   }
+  ],
+  "jp": "西砦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A6F0",
+  "ptr": 2467568,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812352
+   }
+  ],
+  "jp": "石窟前",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A6F8",
+  "ptr": 2467576,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812356
+   }
+  ],
+  "jp": "石組みの小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A708",
+  "ptr": 2467592,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812360
+   }
+  ],
+  "jp": "川の流れの淀み",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A718",
+  "ptr": 2467608,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812364
+   }
+  ],
+  "jp": "川辺の草地",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A724",
+  "ptr": 2467620,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812368
+   }
+  ],
+  "jp": "船宿の軒下",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A730",
+  "ptr": 2467632,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812372
+   }
+  ],
+  "jp": "船宿の路地",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A73C",
+  "ptr": 2467644,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812376
+   }
+  ],
+  "jp": "草むら",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A744",
+  "ptr": 2467652,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812380
+   }
+  ],
+  "jp": "大要塞パンドラ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A754",
+  "ptr": 2467668,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812384
+   }
+  ],
+  "jp": "鍛冶屋オヤカタ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A764",
+  "ptr": 2467684,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812388
+   }
+  ],
+  "jp": "中枢都市ダーム",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A774",
+  "ptr": 2467700,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812392
+   }
+  ],
+  "jp": "町外れの小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A784",
+  "ptr": 2467716,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812396
+   }
+  ],
+  "jp": "町外れの排水路",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A794",
+  "ptr": 2467732,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812400
+   }
+  ],
+  "jp": "底見えぬ雪の原",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A7A4",
+  "ptr": 2467748,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812404
+   }
+  ],
+  "jp": "邸宅内部",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A7B0",
+  "ptr": 2467760,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812408
+   }
+  ],
+  "jp": "東マーケット",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A7C0",
+  "ptr": 2467776,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812412
+   }
+  ],
+  "jp": "東仮設街区",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A7CC",
+  "ptr": 2467788,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812416
+   }
+  ],
+  "jp": "東砦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A7D4",
+  "ptr": 2467796,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812420
+   }
+  ],
+  "jp": "盗賊団第２砦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A7E4",
+  "ptr": 2467812,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812424
+   }
+  ],
+  "jp": "盗賊団第１砦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A7F4",
+  "ptr": 2467828,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812428
+   }
+  ],
+  "jp": "盗賊団第３砦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A804",
+  "ptr": 2467844,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812432
+   }
+  ],
+  "jp": "道具小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A810",
+  "ptr": 2467856,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812436
+   }
+  ],
+  "jp": "突き出た岩の鼻",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A820",
+  "ptr": 2467872,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812440
+   }
+  ],
+  "jp": "南ヴェルク街",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A830",
+  "ptr": 2467888,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812444
+   }
+  ],
+  "jp": "日記マニアの家",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A840",
+  "ptr": 2467904,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812448
+   }
+  ],
+  "jp": "排水溝",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A848",
+  "ptr": 2467912,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812452
+   }
+  ],
+  "jp": "反乱軍の大砲",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A858",
+  "ptr": 2467928,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812456
+   }
+  ],
+  "jp": "武器庫",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A860",
+  "ptr": 2467936,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812460
+   }
+  ],
+  "jp": "兵員詰め所",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A86C",
+  "ptr": 2467948,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812464
+   }
+  ],
+  "jp": "墓標なき墳墓",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A87C",
+  "ptr": 2467964,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812468
+   }
+  ],
+  "jp": "亡骸の眠る土",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A88C",
+  "ptr": 2467980,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812472
+   }
+  ],
+  "jp": "北ヴェルク街",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A89C",
+  "ptr": 2467996,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812476
+   }
+  ],
+  "jp": "北の区画",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A8A8",
+  "ptr": 2468008,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812480
+   }
+  ],
+  "jp": "北の路傍",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A8B4",
+  "ptr": 2468020,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812484
+   }
+  ],
+  "jp": "魔術師の家",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A8C0",
+  "ptr": 2468032,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812488
+   }
+  ],
+  "jp": "魔女の庵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A8CC",
+  "ptr": 2468044,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812492
+   }
+  ],
+  "jp": "茂み",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A8D4",
+  "ptr": 2468052,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812496
+   }
+  ],
+  "jp": "木こりの小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A8E4",
+  "ptr": 2468068,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812500
+   }
+  ],
+  "jp": "木組みの小屋",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A8F4",
+  "ptr": 2468084,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812504
+   }
+  ],
+  "jp": "木々の牢獄",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A900",
+  "ptr": 2468096,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812508
+   }
+  ],
+  "jp": "夜の街",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A908",
+  "ptr": 2468104,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812512
+   }
+  ],
+  "jp": "夜の街の片隅",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A918",
+  "ptr": 2468120,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812516
+   }
+  ],
+  "jp": "預言者の館",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A924",
+  "ptr": 2468132,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812520
+   }
+  ],
+  "jp": "妖精の集会場",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A934",
+  "ptr": 2468148,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812524
+   }
+  ],
+  "jp": "妖精の村",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A940",
+  "ptr": 2468160,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812528
+   }
+  ],
+  "jp": "遥か深き雪の町",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A950",
+  "ptr": 2468176,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812532
+   }
+  ],
+  "jp": "離れの物置き",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A960",
+  "ptr": 2468192,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812536
+   }
+  ],
+  "jp": "旅人の宿",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A96C",
+  "ptr": 2468204,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812540
+   }
+  ],
+  "jp": "領主の館",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A978",
+  "ptr": 2468216,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812544
+   }
+  ],
+  "jp": "領主の館前",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A984",
+  "ptr": 2468228,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812548
+   }
+  ],
+  "jp": "領主の館脇",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A990",
+  "ptr": 2468240,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812552
+   }
+  ],
+  "jp": "錬金術師の屋敷",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A9A0",
+  "ptr": 2468256,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812556
+   }
+  ],
+  "jp": "路地裏",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A9A8",
+  "ptr": 2468264,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812560
+   }
+  ],
+  "jp": "路地裏の片隅",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25A9B8",
+  "ptr": 2468280,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2812564
+   }
+  ],
+  "jp": "露出した岩肌",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25AD20",
+  "ptr": 2469152,
+  "bytes": 9,
+  "kind": "data",
+  "slots": [
+   {
+    "hi": 1101464,
+    "lo": 1101480
+   }
+  ],
+  "jp": "囮劔劔ｹ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25AF38",
+  "ptr": 2469688,
+  "bytes": 20,
+  "kind": "debug",
+  "slots": [],
+  "jp": "エラー状態から復帰[0A]",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B6F0",
+  "ptr": 2471664,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823824
+   }
+  ],
+  "jp": "…ジェノンの支配は解けないのか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B714",
+  "ptr": 2471700,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823828
+   }
+  ],
+  "jp": "アイギナ、刺客の手により落命！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B734",
+  "ptr": 2471732,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823832
+   }
+  ],
+  "jp": "アイギナ、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B748",
+  "ptr": 2471752,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823836
+   }
+  ],
+  "jp": "アイギナ、復讐を達成…②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B764",
+  "ptr": 2471780,
+  "bytes": 39,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823840
+   }
+  ],
+  "jp": "アイギナ、熾烈なる包囲攻撃により落命！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B78C",
+  "ptr": 2471820,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823844
+   }
+  ],
+  "jp": "アイギナが捨て身の特攻…②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B7A8",
+  "ptr": 2471848,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823848
+   }
+  ],
+  "jp": "アイギナとの合流に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B7C4",
+  "ptr": 2471876,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823852
+   }
+  ],
+  "jp": "イーザー渓谷の山賊討伐に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B7E4",
+  "ptr": 2471908,
+  "bytes": 37,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823856
+   }
+  ],
+  "jp": "インザーギに勝利！　第１回戦を突破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B80C",
+  "ptr": 2471948,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823860
+   }
+  ],
+  "jp": "インザーギ傭兵部隊を一掃②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B828",
+  "ptr": 2471976,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823864
+   }
+  ],
+  "jp": "ヴェルマン方伯の防衛に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B848",
+  "ptr": 2472008,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823868
+   }
+  ],
+  "jp": "ヴェルマン方伯の友人を保護②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B868",
+  "ptr": 2472040,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823872
+   }
+  ],
+  "jp": "ヴェルマン部隊の一部を撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B888",
+  "ptr": 2472072,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823876
+   }
+  ],
+  "jp": "ヴェルマン方伯、賊の凶刃に堕つ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B8AC",
+  "ptr": 2472108,
+  "bytes": 37,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823880
+   }
+  ],
+  "jp": "うら若き女の子がゴロツキ共の魔手に…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B8D4",
+  "ptr": 2472148,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823884
+   }
+  ],
+  "jp": "エミリオ、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B8E8",
+  "ptr": 2472168,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823888
+   }
+  ],
+  "jp": "エミリオの活躍により苦境を打破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B90C",
+  "ptr": 2472204,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823892
+   }
+  ],
+  "jp": "オルディーンの退路を確保②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B928",
+  "ptr": 2472232,
+  "bytes": 39,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823896
+   }
+  ],
+  "jp": "オルディーン王、帝国の姦計により絶命！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B950",
+  "ptr": 2472272,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823900
+   }
+  ],
+  "jp": "ガーロット、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B964",
+  "ptr": 2472292,
+  "bytes": 35,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823904
+   }
+  ],
+  "jp": "かつての雇い主・ヴェルマンを撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B988",
+  "ptr": 2472328,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823908
+   }
+  ],
+  "jp": "ガルカーサ、ついに皇帝を打倒②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B9A8",
+  "ptr": 2472360,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823912
+   }
+  ],
+  "jp": "ガルカーサ、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B9BC",
+  "ptr": 2472380,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823916
+   }
+  ],
+  "jp": "カローナ守備部隊の斥候を撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B9DC",
+  "ptr": 2472412,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823920
+   }
+  ],
+  "jp": "カローナの総隊長を撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25B9F8",
+  "ptr": 2472440,
+  "bytes": 37,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823924
+   }
+  ],
+  "jp": "グラムブレイズ団長ガーロット、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BA20",
+  "ptr": 2472480,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823928
+   }
+  ],
+  "jp": "ケルヌガ解放の拠点を確保②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BA3C",
+  "ptr": 2472508,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823932
+   }
+  ],
+  "jp": "ケルヌガ農村群を解放②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BA54",
+  "ptr": 2472532,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823936
+   }
+  ],
+  "jp": "このまま攻勢を維持せよ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BA70",
+  "ptr": 2472560,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823940
+   }
+  ],
+  "jp": "ゴロツキどもをこらしめた②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BA8C",
+  "ptr": 2472588,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823944
+   }
+  ],
+  "jp": "ジェノン、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BAA0",
+  "ptr": 2472608,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823948
+   }
+  ],
+  "jp": "シスキア、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BAB4",
+  "ptr": 2472628,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823952
+   }
+  ],
+  "jp": "シスキアが脱出地点に到着②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BAD0",
+  "ptr": 2472656,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823956
+   }
+  ],
+  "jp": "シャーミネル解放の拠点を確保②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BAF0",
+  "ptr": 2472688,
+  "bytes": 35,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823960
+   }
+  ],
+  "jp": "ジルヴァ、教団の粛清を受けて横死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BB14",
+  "ptr": 2472724,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823964
+   }
+  ],
+  "jp": "ジルヴァの救出に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BB2C",
+  "ptr": 2472748,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823968
+   }
+  ],
+  "jp": "スリ師・はだしのミゼルと遭遇②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BB4C",
+  "ptr": 2472780,
+  "bytes": 37,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823972
+   }
+  ],
+  "jp": "スリ師・はだしのミゼルの捕縛に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BB74",
+  "ptr": 2472820,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823976
+   }
+  ],
+  "jp": "セリカの撃退に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BB8C",
+  "ptr": 2472844,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823980
+   }
+  ],
+  "jp": "セリカ挟撃部隊を圧倒②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BBA4",
+  "ptr": 2472868,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823984
+   }
+  ],
+  "jp": "ソルティエ、負傷により戦闘不能②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BBC8",
+  "ptr": 2472904,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823988
+   }
+  ],
+  "jp": "ソルティエへと通ずる道が開いた②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BBEC",
+  "ptr": 2472940,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823992
+   }
+  ],
+  "jp": "ついにパンドラを追い詰めた②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BC0C",
+  "ptr": 2472972,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2823996
+   }
+  ],
+  "jp": "ネザー地区の避難民救出に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BC2C",
+  "ptr": 2473004,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824000
+   }
+  ],
+  "jp": "ネシア、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BC3C",
+  "ptr": 2473020,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824004
+   }
+  ],
+  "jp": "ネシアに対して優勢②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BC54",
+  "ptr": 2473044,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824008
+   }
+  ],
+  "jp": "ネシアの尖兵を撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BC6C",
+  "ptr": 2473068,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824012
+   }
+  ],
+  "jp": "ネシアの肉体が崩壊していく…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BC8C",
+  "ptr": 2473100,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824016
+   }
+  ],
+  "jp": "ネシアを撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BC9C",
+  "ptr": 2473116,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824020
+   }
+  ],
+  "jp": "はだしのミゼル、戦場を離脱！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BCBC",
+  "ptr": 2473148,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824024
+   }
+  ],
+  "jp": "パルティナ守備部隊を殲滅②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BCD8",
+  "ptr": 2473176,
+  "bytes": 35,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824028
+   }
+  ],
+  "jp": "バルドゥス・ラッセルの連携に苦戦②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BCFC",
+  "ptr": 2473212,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824032
+   }
+  ],
+  "jp": "バルドゥス防衛部隊、壊滅寸前②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BD1C",
+  "ptr": 2473244,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824036
+   }
+  ],
+  "jp": "バルドゥス防衛部隊、城門を死守②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BD40",
+  "ptr": 2473280,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824040
+   }
+  ],
+  "jp": "パンドラが砦の奥に籠城②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BD5C",
+  "ptr": 2473308,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824044
+   }
+  ],
+  "jp": "ベアトリーヌ、落命！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BD74",
+  "ptr": 2473332,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824048
+   }
+  ],
+  "jp": "ベアトリーヌ負傷…②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BD8C",
+  "ptr": 2473356,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824052
+   }
+  ],
+  "jp": "ミゼルファミリーの撃退に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BDAC",
+  "ptr": 2473388,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824056
+   }
+  ],
+  "jp": "メデューテ、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BDC0",
+  "ptr": 2473408,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824060
+   }
+  ],
+  "jp": "ユーディ、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BDD4",
+  "ptr": 2473428,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824064
+   }
+  ],
+  "jp": "ラピスに勝利！　第２回戦を突破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BDF8",
+  "ptr": 2473464,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824068
+   }
+  ],
+  "jp": "ルシエナが避難地点に到着②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BE14",
+  "ptr": 2473492,
+  "bytes": 37,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824072
+   }
+  ],
+  "jp": "ルシエナの妹・アイギナの救出に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BE3C",
+  "ptr": 2473532,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824076
+   }
+  ],
+  "jp": "レオン、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BE4C",
+  "ptr": 2473548,
+  "bytes": 37,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824080
+   }
+  ],
+  "jp": "レオン、反乱軍の攻撃により力尽きる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BE74",
+  "ptr": 2473588,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824084
+   }
+  ],
+  "jp": "レオンとの合流に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BE8C",
+  "ptr": 2473612,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824088
+   }
+  ],
+  "jp": "悪徳商人ノルンを撃退②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BEA4",
+  "ptr": 2473636,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824092
+   }
+  ],
+  "jp": "悪徳商人ノルンを撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BEBC",
+  "ptr": 2473660,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824096
+   }
+  ],
+  "jp": "暗殺者、ヴェルマン邸に闖入！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BEDC",
+  "ptr": 2473692,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824100
+   }
+  ],
+  "jp": "暗殺者の一掃に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BEF4",
+  "ptr": 2473716,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824104
+   }
+  ],
+  "jp": "王国軍増援部隊が出現②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BF0C",
+  "ptr": 2473740,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824108
+   }
+  ],
+  "jp": "街に火を掛けたパンドラを許すな②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BF30",
+  "ptr": 2473776,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824112
+   }
+  ],
+  "jp": "覚悟の槍が母を貫いた……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BF4C",
+  "ptr": 2473804,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824116
+   },
+   {
+    "word": 2824120
+   }
+  ],
+  "jp": "近衛隊隊長ガーロット、戦死！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BF6C",
+  "ptr": 2473836,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824124
+   }
+  ],
+  "jp": "軍神バルドゥスに勝利②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BF84",
+  "ptr": 2473860,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824128
+   }
+  ],
+  "jp": "軍神バルドゥスを圧倒②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BF9C",
+  "ptr": 2473884,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824132
+   }
+  ],
+  "jp": "決勝戦も見事勝利②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BFB0",
+  "ptr": 2473904,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824136
+   }
+  ],
+  "jp": "鋼鉄騎団兵の前衛に勝利②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BFCC",
+  "ptr": 2473932,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824140
+   }
+  ],
+  "jp": "黒の狂戦士・レオンに勝利②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25BFE8",
+  "ptr": 2473960,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824144
+   }
+  ],
+  "jp": "黒髪の美少女の救出に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C004",
+  "ptr": 2473988,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824148
+   }
+  ],
+  "jp": "黒髪の美少女を救出せよ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C020",
+  "ptr": 2474016,
+  "bytes": 35,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824152
+   }
+  ],
+  "jp": "再起を懸けたパンドラの勢力を撃退②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C044",
+  "ptr": 2474052,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824156
+   }
+  ],
+  "jp": "作戦失敗…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C054",
+  "ptr": 2474068,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824160
+   }
+  ],
+  "jp": "山岳都市シャーミネルを解放②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C074",
+  "ptr": 2474100,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824164
+   }
+  ],
+  "jp": "山賊の撃滅に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C088",
+  "ptr": 2474120,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824168
+   }
+  ],
+  "jp": "姉妹を狙う暗殺者の一団を撃退②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C0A8",
+  "ptr": 2474152,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824172
+   }
+  ],
+  "jp": "私兵団邸への退避に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C0C4",
+  "ptr": 2474180,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824176
+   }
+  ],
+  "jp": "神生教団による包囲網、以前健在②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C0E8",
+  "ptr": 2474216,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824180
+   }
+  ],
+  "jp": "神生教団の刺客を撃退…③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C104",
+  "ptr": 2474244,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824184
+   }
+  ],
+  "jp": "神生教団の刺客を捕縛②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C11C",
+  "ptr": 2474268,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824188
+   }
+  ],
+  "jp": "神生教団への奇襲攻撃に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C13C",
+  "ptr": 2474300,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824192
+   }
+  ],
+  "jp": "神生教団を駆逐②　しかし……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C15C",
+  "ptr": 2474332,
+  "bytes": 35,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824196
+   }
+  ],
+  "jp": "聖剣は砕かれた、人の弱さとともに②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C180",
+  "ptr": 2474368,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824200
+   }
+  ],
+  "jp": "扇動者・インザーギを撃退②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C19C",
+  "ptr": 2474396,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824204
+   }
+  ],
+  "jp": "全ての元凶・アランゼームを撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C1C0",
+  "ptr": 2474432,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824208
+   }
+  ],
+  "jp": "増援部隊を強襲②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C1D4",
+  "ptr": 2474452,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824212
+   }
+  ],
+  "jp": "態勢の立て直しが完了②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C1EC",
+  "ptr": 2474476,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824216
+   }
+  ],
+  "jp": "隊長の戦死により盗賊団壊滅②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C20C",
+  "ptr": 2474508,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824220
+   }
+  ],
+  "jp": "町を襲う盗賊団を撃退②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C224",
+  "ptr": 2474532,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824224
+   }
+  ],
+  "jp": "帝国軍、依然攻勢を維持②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C240",
+  "ptr": 2474560,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824228
+   }
+  ],
+  "jp": "帝都陥落寸前②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C250",
+  "ptr": 2474576,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824232
+   }
+  ],
+  "jp": "邸宅に向かう暗殺者を撃破せよ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C270",
+  "ptr": 2474608,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824236
+   }
+  ],
+  "jp": "邸宅に向かう暗殺者を退けろ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C290",
+  "ptr": 2474640,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824240
+   }
+  ],
+  "jp": "倒れるには、まだ早すぎる…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C2B0",
+  "ptr": 2474672,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824244
+   }
+  ],
+  "jp": "夜盗がティエラの街に撤退②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C2CC",
+  "ptr": 2474700,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824248
+   }
+  ],
+  "jp": "盗賊団の第１砦を陥落②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C2E4",
+  "ptr": 2474724,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824252
+   }
+  ],
+  "jp": "盗賊団の第２砦を陥落②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C2FC",
+  "ptr": 2474748,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824256
+   }
+  ],
+  "jp": "盗賊団の第３砦を陥落②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C314",
+  "ptr": 2474772,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824260
+   }
+  ],
+  "jp": "反乱軍、カタル・ブリッジに到達！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C338",
+  "ptr": 2474808,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824264
+   }
+  ],
+  "jp": "反乱軍、西の関所に到達！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C354",
+  "ptr": 2474836,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824268
+   }
+  ],
+  "jp": "反乱軍に対して優勢②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C36C",
+  "ptr": 2474860,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824272
+   }
+  ],
+  "jp": "反乱軍の将・パンドラに接近②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C38C",
+  "ptr": 2474892,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824276
+   }
+  ],
+  "jp": "反乱軍の尖兵隊を撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C3A4",
+  "ptr": 2474916,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824280
+   }
+  ],
+  "jp": "反乱軍の将・パンドラを撃退②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C3C4",
+  "ptr": 2474948,
+  "bytes": 35,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824284
+   }
+  ],
+  "jp": "不意に遭遇したセリカの撃退に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C3E8",
+  "ptr": 2474984,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824288
+   }
+  ],
+  "jp": "不正をはたらく役人の砦を占拠！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C408",
+  "ptr": 2475016,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824292
+   }
+  ],
+  "jp": "砲撃援護により刺客の撃退に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C42C",
+  "ptr": 2475052,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824296
+   }
+  ],
+  "jp": "暴走したエミリオを止めた……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C44C",
+  "ptr": 2475084,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824300
+   }
+  ],
+  "jp": "民兵の一部が武装を解除…②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C468",
+  "ptr": 2475112,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824304
+   }
+  ],
+  "jp": "輸送部隊隊長の撃破に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C484",
+  "ptr": 2475140,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824308
+   }
+  ],
+  "jp": "輸送部隊の殲滅に成功②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C49C",
+  "ptr": 2475164,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824312
+   }
+  ],
+  "jp": "預言者ネシアの試練を達成②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C4B8",
+  "ptr": 2475192,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824316
+   }
+  ],
+  "jp": "預言者ネシアの尖兵を撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C4D4",
+  "ptr": 2475220,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824320
+   }
+  ],
+  "jp": "傭兵隊長デイヴィドを撃破②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C4F0",
+  "ptr": 2475248,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824324
+   }
+  ],
+  "jp": "裏切りのデイヴィドを撃退②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C50C",
+  "ptr": 2475276,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824328
+   }
+  ],
+  "jp": "裏切り者の粛清を達成……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C528",
+  "ptr": 2475304,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824332
+   }
+  ],
+  "jp": "領主の館を占拠②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C53C",
+  "ptr": 2475324,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824336
+   }
+  ],
+  "jp": "アイギナが命を落とす。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C554",
+  "ptr": 2475348,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824340
+   }
+  ],
+  "jp": "アイギナ近衛隊は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C568",
+  "ptr": 2475368,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824344
+   }
+  ],
+  "jp": "アニス伯爵領を襲う",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C57C",
+  "ptr": 2475388,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824348
+   }
+  ],
+  "jp": "イーザー渓谷の桟道を",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C594",
+  "ptr": 2475412,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824352
+   }
+  ],
+  "jp": "イシュナート要塞の",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C5A8",
+  "ptr": 2475432,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824356
+   }
+  ],
+  "jp": "いまだ果たせぬ復讐に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C5C0",
+  "ptr": 2475456,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824360
+   }
+  ],
+  "jp": "インザーギとの交戦中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C5D8",
+  "ptr": 2475480,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824364
+   }
+  ],
+  "jp": "インザーギとの戦闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C5F0",
+  "ptr": 2475504,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824368
+   }
+  ],
+  "jp": "ヴェルマン邸に向かう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C608",
+  "ptr": 2475528,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824372
+   }
+  ],
+  "jp": "ヴェルマン方伯が凶刃に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C620",
+  "ptr": 2475552,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824376
+   }
+  ],
+  "jp": "ウルズ・ティアを求めて",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C638",
+  "ptr": 2475576,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824380
+   }
+  ],
+  "jp": "エミリオが命を落とす。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C650",
+  "ptr": 2475600,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824384
+   }
+  ],
+  "jp": "エミリオの凶刃に倒れた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C668",
+  "ptr": 2475624,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824388
+   }
+  ],
+  "jp": "オルディーンとの死闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C684",
+  "ptr": 2475652,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824392
+   }
+  ],
+  "jp": "オルディーン王が落命。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C69C",
+  "ptr": 2475676,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824396
+   }
+  ],
+  "jp": "お持ち帰りされた…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C6B0",
+  "ptr": 2475696,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824400
+   }
+  ],
+  "jp": "お持ち帰りされた女の子が",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C6CC",
+  "ptr": 2475724,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824404
+   }
+  ],
+  "jp": "ガーロットが戦死。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C6E0",
+  "ptr": 2475744,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824408
+   }
+  ],
+  "jp": "ガーロットが不慮の事故で",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C6FC",
+  "ptr": 2475772,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824412
+   }
+  ],
+  "jp": "ガーロットは、疑問の中で",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C718",
+  "ptr": 2475800,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824416
+   }
+  ],
+  "jp": "ガーロット達だが、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C72C",
+  "ptr": 2475820,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824420
+   }
+  ],
+  "jp": "ガーロット部隊は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C740",
+  "ptr": 2475840,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824424
+   }
+  ],
+  "jp": "かつての快活な気配は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C758",
+  "ptr": 2475864,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824428
+   }
+  ],
+  "jp": "ガルカーサは戦死。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C76C",
+  "ptr": 2475884,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824432
+   }
+  ],
+  "jp": "ガルカーサ部隊は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C780",
+  "ptr": 2475904,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824436
+   }
+  ],
+  "jp": "カタル・ブリッジを越えた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C79C",
+  "ptr": 2475932,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824440
+   }
+  ],
+  "jp": "グラムブレイズは",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C7B0",
+  "ptr": 2475952,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824444
+   }
+  ],
+  "jp": "グラムブレイズは歴史の",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C7C8",
+  "ptr": 2475976,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824448
+   }
+  ],
+  "jp": "グラムブレイズもまた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C7E0",
+  "ptr": 2476000,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824452
+   }
+  ],
+  "jp": "ケルヌガを占拠する",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C7F4",
+  "ptr": 2476020,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824456
+   }
+  ],
+  "jp": "ここに、帝国と王国の",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C80C",
+  "ptr": 2476044,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824460
+   }
+  ],
+  "jp": "ジェノンが命を落とす。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C824",
+  "ptr": 2476068,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824464
+   }
+  ],
+  "jp": "シスキアが命を落とす。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C83C",
+  "ptr": 2476092,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824468
+   }
+  ],
+  "jp": "シスキアの喪失に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C850",
+  "ptr": 2476112,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824472
+   }
+  ],
+  "jp": "シスキアの無念を果たせぬ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C86C",
+  "ptr": 2476140,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824476
+   }
+  ],
+  "jp": "シャーミネルを占拠する",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C884",
+  "ptr": 2476164,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824480
+   }
+  ],
+  "jp": "ジルヴァ救出のために",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C89C",
+  "ptr": 2476188,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824484
+   }
+  ],
+  "jp": "しれない…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C8A8",
+  "ptr": 2476200,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824488
+   }
+  ],
+  "jp": "セリカとの衝突の中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C8C0",
+  "ptr": 2476224,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824492
+   }
+  ],
+  "jp": "その結末は、因果によって",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C8DC",
+  "ptr": 2476252,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824496
+   }
+  ],
+  "jp": "その双眸には生気がなく、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C8F8",
+  "ptr": 2476280,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824500
+   }
+  ],
+  "jp": "その短い生涯を終えた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C910",
+  "ptr": 2476304,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824504
+   }
+  ],
+  "jp": "その蓄財を手中に収めた…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C92C",
+  "ptr": 2476332,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824508
+   }
+  ],
+  "jp": "ソルティエとの激闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C944",
+  "ptr": 2476356,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824512
+   }
+  ],
+  "jp": "デイヴィドの復讐に燃える",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C960",
+  "ptr": 2476384,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824516
+   }
+  ],
+  "jp": "デイヴィドの復讐を掲げる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C97C",
+  "ptr": 2476412,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824520
+   }
+  ],
+  "jp": "デイヴィド率いる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C990",
+  "ptr": 2476432,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824524
+   }
+  ],
+  "jp": "ティエラ・ネザー地区で",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C9A8",
+  "ptr": 2476456,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824528
+   }
+  ],
+  "jp": "ティエラ・ネザー地区での",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C9C4",
+  "ptr": 2476484,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824532
+   }
+  ],
+  "jp": "ティエラの治安を守るため",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C9E0",
+  "ptr": 2476512,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824536
+   }
+  ],
+  "jp": "トキノ山に立てこもる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25C9F8",
+  "ptr": 2476536,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824540
+   }
+  ],
+  "jp": "トキノ山山頂で",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CA08",
+  "ptr": 2476552,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824544
+   }
+  ],
+  "jp": "ネザー地区避難民の",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CA1C",
+  "ptr": 2476572,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824548
+   }
+  ],
+  "jp": "ネシアが命を落とす。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CA34",
+  "ptr": 2476596,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824552
+   }
+  ],
+  "jp": "バルドゥスの激闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CA4C",
+  "ptr": 2476620,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824556
+   }
+  ],
+  "jp": "パンドラとの戦闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CA64",
+  "ptr": 2476644,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824560
+   }
+  ],
+  "jp": "パンドラ率いる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CA74",
+  "ptr": 2476660,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824564
+   }
+  ],
+  "jp": "ブレイズ義賊団は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CA88",
+  "ptr": 2476680,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824568
+   }
+  ],
+  "jp": "ベアトリーヌが絶命する。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CAA4",
+  "ptr": 2476708,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824572
+   }
+  ],
+  "jp": "まま、その生涯を終えた…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CAC0",
+  "ptr": 2476736,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824576
+   }
+  ],
+  "jp": "ミゼルとの交戦中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CAD4",
+  "ptr": 2476756,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824580
+   }
+  ],
+  "jp": "ミゼルの予想外の脚力に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CAEC",
+  "ptr": 2476780,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824584
+   }
+  ],
+  "jp": "ミゼルを捕らえるべく",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CB04",
+  "ptr": 2476804,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824588
+   }
+  ],
+  "jp": "メデューテが命を落とす。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CB20",
+  "ptr": 2476832,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824592
+   }
+  ],
+  "jp": "メデューテは戦術の誤りを",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CB3C",
+  "ptr": 2476860,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824596
+   }
+  ],
+  "jp": "ユーディが命を落とす。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CB54",
+  "ptr": 2476884,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824600
+   }
+  ],
+  "jp": "ルシエナとアイギナを狙う",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CB70",
+  "ptr": 2476912,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824604
+   }
+  ],
+  "jp": "レオンが命を落とす。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CB88",
+  "ptr": 2476936,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824608
+   }
+  ],
+  "jp": "レオンと共にパンドラへと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CBA4",
+  "ptr": 2476964,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824612
+   }
+  ],
+  "jp": "レオンの猛攻の前に、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CBBC",
+  "ptr": 2476988,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824616
+   }
+  ],
+  "jp": "レオン粛清を謀った",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CBD0",
+  "ptr": 2477008,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824620
+   }
+  ],
+  "jp": "暗殺者との暗闘の中で、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CBE8",
+  "ptr": 2477032,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824624
+   }
+  ],
+  "jp": "暗殺者の炙り出しに",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CBFC",
+  "ptr": 2477052,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824628
+   }
+  ],
+  "jp": "因縁の対決の最中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CC10",
+  "ptr": 2477072,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824632
+   }
+  ],
+  "jp": "永遠にその姿を消した…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CC28",
+  "ptr": 2477096,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824636
+   }
+  ],
+  "jp": "永劫の汚名を着せられた…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CC44",
+  "ptr": 2477124,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824640
+   }
+  ],
+  "jp": "遠征に出たエルルク山脈で",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CC60",
+  "ptr": 2477152,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824644
+   }
+  ],
+  "jp": "奥へと進む最中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CC74",
+  "ptr": 2477172,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824648
+   }
+  ],
+  "jp": "王都守備軍を破るべく",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CC8C",
+  "ptr": 2477196,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824652
+   }
+  ],
+  "jp": "壊滅すべく戦うも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CCA0",
+  "ptr": 2477216,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824656
+   }
+  ],
+  "jp": "悔い、私兵団の前から",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CCB8",
+  "ptr": 2477240,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824660
+   }
+  ],
+  "jp": "各個撃破され、壊滅した…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CCD4",
+  "ptr": 2477268,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824664
+   }
+  ],
+  "jp": "革命は失敗に終わった…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CCEC",
+  "ptr": 2477292,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824668
+   }
+  ],
+  "jp": "完全に失われていた…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CD04",
+  "ptr": 2477316,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824672
+   }
+  ],
+  "jp": "慣れない雪山での",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CD18",
+  "ptr": 2477336,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824676
+   }
+  ],
+  "jp": "関所に殺到するパンドラの",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CD34",
+  "ptr": 2477364,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824680
+   }
+  ],
+  "jp": "関所に猛攻をかける最中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CD50",
+  "ptr": 2477392,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824684
+   }
+  ],
+  "jp": "許し、ヴェルマン方伯は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CD68",
+  "ptr": 2477416,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824688
+   }
+  ],
+  "jp": "近衛隊は、侵略者として",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CD80",
+  "ptr": 2477440,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824692
+   }
+  ],
+  "jp": "近衛隊もまた、壊滅した…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CD9C",
+  "ptr": 2477468,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824696
+   }
+  ],
+  "jp": "金塊のニセ情報により",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CDB4",
+  "ptr": 2477492,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824700
+   }
+  ],
+  "jp": "軍事演習の最中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CDC8",
+  "ptr": 2477512,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824704
+   }
+  ],
+  "jp": "軍神バルドゥスとの",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CDDC",
+  "ptr": 2477532,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824708
+   }
+  ],
+  "jp": "軍神バルドゥス率いる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CDF4",
+  "ptr": 2477556,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824712
+   }
+  ],
+  "jp": "軍勢との戦闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CE08",
+  "ptr": 2477576,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824716
+   }
+  ],
+  "jp": "激しすぎる戦闘の中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CE20",
+  "ptr": 2477600,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824720
+   }
+  ],
+  "jp": "激突するも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CE30",
+  "ptr": 2477616,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824724
+   }
+  ],
+  "jp": "決死の猛攻の前に、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CE44",
+  "ptr": 2477636,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824728
+   }
+  ],
+  "jp": "決勝戦の最中に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CE54",
+  "ptr": 2477652,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824732
+   }
+  ],
+  "jp": "決別したヴェルマン方伯の",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CE70",
+  "ptr": 2477680,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824736
+   }
+  ],
+  "jp": "攻勢を仕掛けるが、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CE84",
+  "ptr": 2477700,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824740
+   }
+  ],
+  "jp": "皇帝ソルティエの軍と",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CE9C",
+  "ptr": 2477724,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824744
+   }
+  ],
+  "jp": "皇帝の魔手から",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CEAC",
+  "ptr": 2477740,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824748
+   }
+  ],
+  "jp": "皇帝は快癒せぬまま崩御し",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CEC8",
+  "ptr": 2477768,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824752
+   }
+  ],
+  "jp": "荒らす山賊との交戦中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CEE0",
+  "ptr": 2477792,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824756
+   }
+  ],
+  "jp": "荒野で遭遇した",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CEF0",
+  "ptr": 2477808,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824760
+   }
+  ],
+  "jp": "合流すべく突進するも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CF08",
+  "ptr": 2477832,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824764
+   }
+  ],
+  "jp": "国王にして剛剣の使い手",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CF20",
+  "ptr": 2477856,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824768
+   }
+  ],
+  "jp": "国王を逃がす作戦中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CF38",
+  "ptr": 2477880,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824772
+   }
+  ],
+  "jp": "黒騎士レオンとの",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CF4C",
+  "ptr": 2477900,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824776
+   }
+  ],
+  "jp": "黒騎士レオンとの死闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CF68",
+  "ptr": 2477928,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824780
+   }
+  ],
+  "jp": "黒騎士レオンに",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CF78",
+  "ptr": 2477944,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824784
+   }
+  ],
+  "jp": "黒騎士レオン擁する",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CF8C",
+  "ptr": 2477964,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824788
+   }
+  ],
+  "jp": "黒幕アランゼームを",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CFA0",
+  "ptr": 2477984,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824792
+   }
+  ],
+  "jp": "再起を懸けたパンドラが",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CFB8",
+  "ptr": 2478008,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824796
+   }
+  ],
+  "jp": "再起不能へと陥った…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CFD0",
+  "ptr": 2478032,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824800
+   }
+  ],
+  "jp": "再起不能へと陥った…。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25CFE8",
+  "ptr": 2478056,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824804
+   }
+  ],
+  "jp": "最後の激闘を演じるも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D000",
+  "ptr": 2478080,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824808
+   }
+  ],
+  "jp": "最後の決戦の最中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D014",
+  "ptr": 2478100,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824812
+   }
+  ],
+  "jp": "作戦は失敗に終わった…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D02C",
+  "ptr": 2478124,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824816
+   }
+  ],
+  "jp": "仕掛けた特攻の中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D040",
+  "ptr": 2478144,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824820
+   }
+  ],
+  "jp": "仕掛けられた模擬戦中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D058",
+  "ptr": 2478168,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824824
+   }
+  ],
+  "jp": "刺客に追われたルシエナの",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D074",
+  "ptr": 2478196,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824828
+   }
+  ],
+  "jp": "屍兵の群れとの戦闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D08C",
+  "ptr": 2478220,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824832
+   }
+  ],
+  "jp": "死の一撃の前に、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D0A0",
+  "ptr": 2478240,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824836
+   }
+  ],
+  "jp": "私兵達との決闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D0B4",
+  "ptr": 2478260,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824840
+   }
+  ],
+  "jp": "私兵団の妨害に動いた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D0CC",
+  "ptr": 2478284,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824844
+   }
+  ],
+  "jp": "私兵団は翻弄され、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D0E0",
+  "ptr": 2478304,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824848
+   }
+  ],
+  "jp": "私兵団邸に襲撃をかけた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D0F8",
+  "ptr": 2478328,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824852
+   }
+  ],
+  "jp": "湿地帯の地の利を掌握した",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D114",
+  "ptr": 2478356,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824856
+   }
+  ],
+  "jp": "者の末路がこれなのか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D12C",
+  "ptr": 2478380,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824860
+   }
+  ],
+  "jp": "主要メンバーを失い、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D144",
+  "ptr": 2478404,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824864
+   }
+  ],
+  "jp": "取り逃がしてしまう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D15C",
+  "ptr": 2478428,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824868
+   }
+  ],
+  "jp": "守るべきものを失った",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D174",
+  "ptr": 2478452,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824872
+   }
+  ],
+  "jp": "商人ノルンが雇い入れた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D18C",
+  "ptr": 2478476,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824876
+   }
+  ],
+  "jp": "商人ノルンとの衝突中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D1A4",
+  "ptr": 2478500,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824880
+   }
+  ],
+  "jp": "商人ノルンの追走中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D1BC",
+  "ptr": 2478524,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824884
+   }
+  ],
+  "jp": "消滅を余儀なくされた…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D1D4",
+  "ptr": 2478548,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824888
+   }
+  ],
+  "jp": "神生教団と交戦するも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D1EC",
+  "ptr": 2478572,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824892
+   }
+  ],
+  "jp": "神生教団のジルヴァによる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D208",
+  "ptr": 2478600,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824896
+   }
+  ],
+  "jp": "神生教団の援護攻撃で",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D220",
+  "ptr": 2478624,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824900
+   }
+  ],
+  "jp": "神生教団の攻勢を前に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D238",
+  "ptr": 2478648,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824904
+   }
+  ],
+  "jp": "神生教団の包囲を破るべく",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D254",
+  "ptr": 2478676,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824908
+   }
+  ],
+  "jp": "神生教団の猛攻に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D268",
+  "ptr": 2478696,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824912
+   }
+  ],
+  "jp": "神生教団を襲撃するも",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D280",
+  "ptr": 2478720,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824916
+   }
+  ],
+  "jp": "数名の女の子がゴロツキに",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D29C",
+  "ptr": 2478748,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824920
+   }
+  ],
+  "jp": "成功するも、戦闘中に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D2B4",
+  "ptr": 2478772,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824924
+   }
+  ],
+  "jp": "精彩を欠き、瓦解した…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D2CC",
+  "ptr": 2478796,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824928
+   }
+  ],
+  "jp": "聖剣を奪還したネシアは",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D2E4",
+  "ptr": 2478820,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824932
+   }
+  ],
+  "jp": "接触した王国の斥候部隊を",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D300",
+  "ptr": 2478848,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824936
+   }
+  ],
+  "jp": "雪中行軍作戦中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D314",
+  "ptr": 2478868,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824940
+   }
+  ],
+  "jp": "戦乱の火種を蒔いていく…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D330",
+  "ptr": 2478896,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824944
+   }
+  ],
+  "jp": "戦略の誤りによって壊走、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D34C",
+  "ptr": 2478924,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824948
+   }
+  ],
+  "jp": "戦略の立案者を失い、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D364",
+  "ptr": 2478948,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824952
+   }
+  ],
+  "jp": "全面戦争が始まる…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D378",
+  "ptr": 2478968,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824956
+   }
+  ],
+  "jp": "操られたジェノンとの",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D390",
+  "ptr": 2478992,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824960
+   }
+  ],
+  "jp": "賊との戦闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D3A0",
+  "ptr": 2479008,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824964
+   }
+  ],
+  "jp": "賊退治に出撃するも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D3B8",
+  "ptr": 2479032,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824968
+   }
+  ],
+  "jp": "堕天使ネシアとの",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D3CC",
+  "ptr": 2479052,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824972
+   }
+  ],
+  "jp": "打ち破らんと奮戦するも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D3E8",
+  "ptr": 2479080,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824976
+   }
+  ],
+  "jp": "打ち破るべく奮闘するも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D404",
+  "ptr": 2479108,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824980
+   }
+  ],
+  "jp": "隊長のガーロットが戦死。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D420",
+  "ptr": 2479136,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824984
+   }
+  ],
+  "jp": "大砲による助勢も及ばず、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D43C",
+  "ptr": 2479164,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824988
+   }
+  ],
+  "jp": "第一回戦の最中に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D450",
+  "ptr": 2479184,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824992
+   }
+  ],
+  "jp": "第二回戦の最中に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D464",
+  "ptr": 2479204,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2824996
+   }
+  ],
+  "jp": "団長のガーロットが戦死。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D480",
+  "ptr": 2479232,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825000
+   }
+  ],
+  "jp": "団長のガーロットを欠いた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D49C",
+  "ptr": 2479260,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825004
+   }
+  ],
+  "jp": "秩序なき世界が訪れた…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D4B4",
+  "ptr": 2479284,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825008
+   }
+  ],
+  "jp": "帳簿奪還に動いた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D4C8",
+  "ptr": 2479304,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825012
+   }
+  ],
+  "jp": "帝国と王国の包囲網を",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D4E0",
+  "ptr": 2479328,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825016
+   }
+  ],
+  "jp": "帝都近郊で執り行われた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D4F8",
+  "ptr": 2479352,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825020
+   }
+  ],
+  "jp": "帝都守備軍との戦闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D510",
+  "ptr": 2479376,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825024
+   }
+  ],
+  "jp": "帝都守備軍の前線部隊と",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D528",
+  "ptr": 2479400,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825028
+   }
+  ],
+  "jp": "邸宅への暗殺者の侵入を",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D540",
+  "ptr": 2479424,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825032
+   }
+  ],
+  "jp": "撤退せざるえなかった…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D558",
+  "ptr": 2479448,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825036
+   }
+  ],
+  "jp": "倒れ、ブレイズ義賊団は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D570",
+  "ptr": 2479472,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825040
+   }
+  ],
+  "jp": "盗賊の砦の占拠を狙うも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D58C",
+  "ptr": 2479500,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825044
+   }
+  ],
+  "jp": "盗賊団と交戦するも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D5A4",
+  "ptr": 2479524,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825048
+   }
+  ],
+  "jp": "盗賊団の激しい抵抗に遭い",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D5C0",
+  "ptr": 2479552,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825052
+   }
+  ],
+  "jp": "頭脳を失った私兵団は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D5D8",
+  "ptr": 2479576,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825056
+   }
+  ],
+  "jp": "動揺を隠し切れず、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D5EC",
+  "ptr": 2479596,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825060
+   }
+  ],
+  "jp": "突進を抑えきれず、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D600",
+  "ptr": 2479616,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825064
+   }
+  ],
+  "jp": "突破口を開く最中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D614",
+  "ptr": 2479636,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825068
+   }
+  ],
+  "jp": "謎の刺客との戦闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D62C",
+  "ptr": 2479660,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825072
+   }
+  ],
+  "jp": "敗退してしまう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D640",
+  "ptr": 2479680,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825076
+   }
+  ],
+  "jp": "迫る王国軍を退けるべく",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D658",
+  "ptr": 2479704,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825080
+   }
+  ],
+  "jp": "反乱を扇動した傭兵",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D66C",
+  "ptr": 2479724,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825084
+   }
+  ],
+  "jp": "反乱軍との激闘中に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D680",
+  "ptr": 2479744,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825088
+   }
+  ],
+  "jp": "反乱軍との激突中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D694",
+  "ptr": 2479764,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825092
+   }
+  ],
+  "jp": "反乱軍と激突する中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D6AC",
+  "ptr": 2479788,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825096
+   }
+  ],
+  "jp": "反乱軍に攻撃をかけるも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D6C8",
+  "ptr": 2479816,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825100
+   }
+  ],
+  "jp": "反乱軍の威勢の前に、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D6E0",
+  "ptr": 2479840,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825104
+   }
+  ],
+  "jp": "反乱軍の大将パンドラと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D6F8",
+  "ptr": 2479864,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825108
+   }
+  ],
+  "jp": "反乱軍はティエラを占拠、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D714",
+  "ptr": 2479892,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825112
+   }
+  ],
+  "jp": "反乱軍主力と激突するも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D730",
+  "ptr": 2479920,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825116
+   }
+  ],
+  "jp": "反乱軍尖兵隊の前に、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D748",
+  "ptr": 2479944,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825120
+   }
+  ],
+  "jp": "彼女は粛清の刃に倒れ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D760",
+  "ptr": 2479968,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825124
+   }
+  ],
+  "jp": "飛躍の時を失った…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D774",
+  "ptr": 2479988,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825128
+   }
+  ],
+  "jp": "表舞台から姿を消した…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D78C",
+  "ptr": 2480012,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825132
+   }
+  ],
+  "jp": "不正役人摘発のため",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D7A0",
+  "ptr": 2480032,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825136
+   }
+  ],
+  "jp": "不退転の覚悟を決めた",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D7B8",
+  "ptr": 2480056,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825140
+   }
+  ],
+  "jp": "武装した神生教団と遭遇。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D7D4",
+  "ptr": 2480084,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825144
+   }
+  ],
+  "jp": "復讐に執心する",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D7E4",
+  "ptr": 2480100,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825148
+   }
+  ],
+  "jp": "復讐に囚われ続ける",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D7F8",
+  "ptr": 2480120,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825152
+   }
+  ],
+  "jp": "復讐に心を燃やす",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D80C",
+  "ptr": 2480140,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825156
+   }
+  ],
+  "jp": "復讐に声高に叫び続ける",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D824",
+  "ptr": 2480164,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825160
+   }
+  ],
+  "jp": "奮戦するも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D834",
+  "ptr": 2480180,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825164
+   }
+  ],
+  "jp": "兵を動かしたものの、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D84C",
+  "ptr": 2480204,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825168
+   }
+  ],
+  "jp": "母と戦う最中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D85C",
+  "ptr": 2480220,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825172
+   }
+  ],
+  "jp": "包囲されたアイギナと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D874",
+  "ptr": 2480244,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825176
+   }
+  ],
+  "jp": "包囲攻撃の前に、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D888",
+  "ptr": 2480264,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825180
+   }
+  ],
+  "jp": "砲撃の雨が降り注ぎ、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D8A0",
+  "ptr": 2480288,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825184
+   }
+  ],
+  "jp": "望まぬ戦いの最中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D8B4",
+  "ptr": 2480308,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825188
+   }
+  ],
+  "jp": "魔竜の力を得るために",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D8CC",
+  "ptr": 2480332,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825192
+   }
+  ],
+  "jp": "妹の為に兵を動かすも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D8E4",
+  "ptr": 2480356,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825196
+   }
+  ],
+  "jp": "民兵の反抗という",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D8F8",
+  "ptr": 2480376,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825200
+   }
+  ],
+  "jp": "命を落としてしまい、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D910",
+  "ptr": 2480400,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825204
+   }
+  ],
+  "jp": "命を落としてしまう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D928",
+  "ptr": 2480424,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825208
+   }
+  ],
+  "jp": "猛るセリカとの交戦中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D940",
+  "ptr": 2480448,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825212
+   }
+  ],
+  "jp": "猛攻を仕掛ける中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D954",
+  "ptr": 2480468,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825216
+   }
+  ],
+  "jp": "目と耳を失った私兵団は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D96C",
+  "ptr": 2480492,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825220
+   }
+  ],
+  "jp": "戻ったのは３日後だった。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D988",
+  "ptr": 2480520,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825224
+   }
+  ],
+  "jp": "輸送船の護衛部隊に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D99C",
+  "ptr": 2480540,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825228
+   }
+  ],
+  "jp": "輸送部隊の抵抗、そして",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D9B4",
+  "ptr": 2480564,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825232
+   }
+  ],
+  "jp": "輸送部隊を襲撃するも、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D9CC",
+  "ptr": 2480588,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825236
+   }
+  ],
+  "jp": "友を失い、力を得た結果、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25D9E8",
+  "ptr": 2480616,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825240
+   }
+  ],
+  "jp": "誘い出した山賊と交戦中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DA04",
+  "ptr": 2480644,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825244
+   }
+  ],
+  "jp": "予想外の反撃を受け、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DA1C",
+  "ptr": 2480668,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825248
+   }
+  ],
+  "jp": "与えられた、結果なのかも",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DA38",
+  "ptr": 2480696,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825252
+   }
+  ],
+  "jp": "預言者ネシアが操る",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DA4C",
+  "ptr": 2480716,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825256
+   }
+  ],
+  "jp": "預言者ネシアの繰り出す",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DA64",
+  "ptr": 2480740,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825260
+   }
+  ],
+  "jp": "傭兵団との戦闘中、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DA78",
+  "ptr": 2480760,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825264
+   }
+  ],
+  "jp": "用意周到な神生教団の",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DA90",
+  "ptr": 2480784,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825268
+   }
+  ],
+  "jp": "用兵大会に参加した",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DAA4",
+  "ptr": 2480804,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825272
+   }
+  ],
+  "jp": "要塞最奥における",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DAB8",
+  "ptr": 2480824,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825276
+   }
+  ],
+  "jp": "落命したガルカーサ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DAD0",
+  "ptr": 2480848,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825280
+   }
+  ],
+  "jp": "離反したネシアが操る",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DAE8",
+  "ptr": 2480872,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825284
+   }
+  ],
+  "jp": "力を求め、戦いを望んだ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DB00",
+  "ptr": 2480896,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825288
+   }
+  ],
+  "jp": "輸送隊長、戦場を離脱！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DB18",
+  "ptr": 2480920,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825292
+   }
+  ],
+  "jp": "都市の防衛に失敗…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DB30",
+  "ptr": 2480944,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825296
+   }
+  ],
+  "jp": "神生教団の援護攻撃により",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DB4C",
+  "ptr": 2480972,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825300
+   }
+  ],
+  "jp": "突破を許してしまう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DB64",
+  "ptr": 2480996,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825304
+   }
+  ],
+  "jp": "アニス伯爵領の中枢都市が",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DB80",
+  "ptr": 2481024,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825308
+   }
+  ],
+  "jp": "攻撃を受け壊滅、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DB94",
+  "ptr": 2481044,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825312
+   }
+  ],
+  "jp": "私兵団は防衛に失敗した…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DBB0",
+  "ptr": 2481072,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825316
+   }
+  ],
+  "jp": "逆転の足がかりを失い、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DBC8",
+  "ptr": 2481096,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2825320
+   }
+  ],
+  "jp": "近衛隊は壊滅した…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DBDC",
+  "ptr": 2481116,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 1138596,
+    "lo": 1138632
+   }
+  ],
+  "jp": "リトライする",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DBEC",
+  "ptr": 2481132,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 1138700,
+    "lo": 1138736
+   }
+  ],
+  "jp": "タイトル画面に戻る",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DC80",
+  "ptr": 2481280,
+  "bytes": 21,
+  "kind": "data",
+  "slots": [
+   {
+    "hi": 1153788,
+    "lo": 1153792
+   }
+  ],
+  "jp": "ｮ｡ｲｨｴ淕ｦｧ脈｡ｫｩｪｯｱｬｧｷ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DD70",
+  "ptr": 2481520,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842116
+   }
+  ],
+  "jp": "イベントボイスの再生",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DD88",
+  "ptr": 2481544,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842120
+   }
+  ],
+  "jp": "バトルボイスの再生",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DD9C",
+  "ptr": 2481564,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842124
+   }
+  ],
+  "jp": "チュートリアルの設定",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DDB4",
+  "ptr": 2481588,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842128
+   }
+  ],
+  "jp": "バトルブーストの設定",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25DDCC",
+  "ptr": 2481612,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842132
+   }
+  ],
+  "jp": "設定の終了",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E128",
+  "ptr": 2482472,
+  "bytes": 48,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842692
+   }
+  ],
+  "jp": "…ねぇガーロット。{n}出会った頃のこと、覚えてる？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E158",
+  "ptr": 2482520,
+  "bytes": 71,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842700
+   }
+  ],
+  "jp": "覚えてる、{n}義賊団ゴッコばっかやってた。{n}あの時はお前が団長、俺が団員。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E1A0",
+  "ptr": 2482592,
+  "bytes": 59,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842708
+   }
+  ],
+  "jp": "懐かしいね。{n}貴族のいるニーベル街区に{n}忍び込んだりしてさ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E1DC",
+  "ptr": 2482652,
+  "bytes": 63,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842716
+   }
+  ],
+  "jp": "それが今じゃ、{n}悪徳商人だって捕まえちゃう{n}大活躍の義賊団だよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E21C",
+  "ptr": 2482716,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842724
+   }
+  ],
+  "jp": "なんだか、笑っちゃうよね。{n}あはは……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E244",
+  "ptr": 2482756,
+  "bytes": 56,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842732
+   }
+  ],
+  "jp": "ガーロット、アンタなら、{n}もっと強くなれるって、きっと。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E27C",
+  "ptr": 2482812,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842740
+   }
+  ],
+  "jp": "強く、か……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E28C",
+  "ptr": 2482828,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842748
+   }
+  ],
+  "jp": "来るか、私と共に？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E2A0",
+  "ptr": 2482848,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842756
+   }
+  ],
+  "jp": "あぁ、行ってやるぜ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E2B8",
+  "ptr": 2482872,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842764
+   }
+  ],
+  "jp": "お前達、ブレイズ義賊団と{n}名乗っていたな？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E2E4",
+  "ptr": 2482916,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842772
+   }
+  ],
+  "jp": "そうだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E2F0",
+  "ptr": 2482928,
+  "bytes": 77,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842780
+   }
+  ],
+  "jp": "私の兵だ、義賊団はおかしいだろ。{n}これからは、グラムブレイズと{n}名乗るがいい。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E340",
+  "ptr": 2483008,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842788
+   }
+  ],
+  "jp": "グラムブレイズ、怒れる炎か。{n}いいだろう。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E36C",
+  "ptr": 2483052,
+  "bytes": 73,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842796
+   }
+  ],
+  "jp": "燃え上がってみせるぜ。{n}この世の理不尽を焼き尽くして、{n}帝国を変える為に！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E3B8",
+  "ptr": 2483128,
+  "bytes": 57,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842804
+   }
+  ],
+  "jp": "見たところ、{n}そこの赤髪が大将とみえる。{n}名はなんと言う？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E3F4",
+  "ptr": 2483188,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842812
+   }
+  ],
+  "jp": "……先に名乗るのが、{n}礼儀というものじゃないのか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E428",
+  "ptr": 2483240,
+  "bytes": 32,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842820
+   }
+  ],
+  "jp": "貴様！{n}陛下になんという口をッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E448",
+  "ptr": 2483272,
+  "bytes": 44,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842828
+   }
+  ],
+  "jp": "よい、ラピス。{n}育ちの悪さが出ているだけだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E474",
+  "ptr": 2483316,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842836
+   }
+  ],
+  "jp": "なんだと！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E480",
+  "ptr": 2483328,
+  "bytes": 69,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842844
+   }
+  ],
+  "jp": "どうせ賊上がりの男だろう。{n}名乗らぬなら、あえて問いただす{n}事もない。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E4C8",
+  "ptr": 2483400,
+  "bytes": 61,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842852
+   }
+  ],
+  "jp": "もうよい。{n}さがれ、ヴェルマン。{n}俺は西部の巡察で忙しいのだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E508",
+  "ptr": 2483464,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842860
+   }
+  ],
+  "jp": "…ねえ、ジルヴァ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E51C",
+  "ptr": 2483484,
+  "bytes": 60,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842868
+   }
+  ],
+  "jp": "確かに今までのあなたには、{n}教団が全てだったのかもしれない。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E558",
+  "ptr": 2483544,
+  "bytes": 69,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842876
+   }
+  ],
+  "jp": "だけど私達の人生は、{n}今までよりも、これからの方が{n}ずっと長いんだよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E5A0",
+  "ptr": 2483616,
+  "bytes": 55,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842884
+   }
+  ],
+  "jp": "それに世界には、{n}あなたの知らない事がきっと{n}沢山ある！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E5D8",
+  "ptr": 2483672,
+  "bytes": 46,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842892
+   }
+  ],
+  "jp": "見つけなよ、生きる意味を。{n}変えなよ、自分を。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E608",
+  "ptr": 2483720,
+  "bytes": 81,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842900
+   }
+  ],
+  "jp": "私の好きな人は変われたよ。{n}孤独な人で、乱暴だったけど…{n}今は仲間を大切にしてる。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E65C",
+  "ptr": 2483804,
+  "bytes": 44,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842908
+   }
+  ],
+  "jp": "…そいつは変われた。{n}だから私も変われると？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E688",
+  "ptr": 2483848,
+  "bytes": 48,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842916
+   }
+  ],
+  "jp": "わかんないけどね、{n}でも一つだけ確かな事がある。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E6B8",
+  "ptr": 2483896,
+  "bytes": 56,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842924
+   }
+  ],
+  "jp": "変わろうと思わなければ、{n}いつまでも変われないってこと。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E6F0",
+  "ptr": 2483952,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842932
+   }
+  ],
+  "jp": "……私は。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E6FC",
+  "ptr": 2483964,
+  "bytes": 48,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842940
+   }
+  ],
+  "jp": "ほぅ久しいな、{n}俺の顔、忘れたとは言わさないぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E72C",
+  "ptr": 2484012,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842948
+   }
+  ],
+  "jp": "あいつは…、レオン③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E744",
+  "ptr": 2484036,
+  "bytes": 67,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842956
+   }
+  ],
+  "jp": "この額の傷に勝るとも劣らぬ{n}あの敗戦の恥辱……{n}今こそ晴らしてやる②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E788",
+  "ptr": 2484104,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842964
+   }
+  ],
+  "jp": "さあ全隊、槍を取れ②{n}殺し合いだ！　覚悟はいいな③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E7BC",
+  "ptr": 2484156,
+  "bytes": 36,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842972
+   }
+  ],
+  "jp": "なんでアイツが、{n}反乱軍にいるわけ？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E7E0",
+  "ptr": 2484192,
+  "bytes": 67,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842980
+   }
+  ],
+  "jp": "来やがれ！{n}前回俺から奪った勝利は、{n}偶然だったと思い知らせてやる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E824",
+  "ptr": 2484260,
+  "bytes": 61,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842988
+   }
+  ],
+  "jp": "あーっ、気持ちいいッ！{n}なんか、身体が熱くなってきた。{n}ふー。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E864",
+  "ptr": 2484324,
+  "bytes": 83,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2842996
+   }
+  ],
+  "jp": "ふふ。みんなには悪いけど、{n}１人だけ贅沢するのって{n}最高に楽しい！　クセになりそう。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E8B8",
+  "ptr": 2484408,
+  "bytes": 57,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843004
+   },
+   {
+    "word": 2843036
+   },
+   {
+    "word": 2843108
+   }
+  ],
+  "jp": "…うおおおっ！{n}なんて手強い連中だ…②{n}誰か、手を貸せぇ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E8F4",
+  "ptr": 2484468,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843012
+   }
+  ],
+  "jp": "そろそろ上がっておこう、っと…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E914",
+  "ptr": 2484500,
+  "bytes": 56,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843020
+   }
+  ],
+  "jp": "…ああん、肌に優しい。{n}まるで全身を愛撫されているよう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E94C",
+  "ptr": 2484556,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843028
+   }
+  ],
+  "jp": "いいわ、{n}身体が、芯から火照ってくる……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E974",
+  "ptr": 2484596,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843044
+   }
+  ],
+  "jp": "さすがにそろそろ戻らないと……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E994",
+  "ptr": 2484628,
+  "bytes": 81,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843052
+   }
+  ],
+  "jp": "脚のケガにいいらしいのよ、{n}ここの温泉。それで、つい、ね。{n}あぁ、きもちいい………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25E9E8",
+  "ptr": 2484712,
+  "bytes": 54,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843060
+   }
+  ],
+  "jp": "つい、じゃありませんよ②{n}一体どうやって遠路はるばる…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EA20",
+  "ptr": 2484768,
+  "bytes": 58,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843068
+   }
+  ],
+  "jp": "脚だってケガしてるのに…{n}あっ！　そんなところ、ああっ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EA5C",
+  "ptr": 2484828,
+  "bytes": 56,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843076
+   }
+  ],
+  "jp": "…ねぇ、アイギナ。あなたの、{n}私より大きいんじゃないの？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EA94",
+  "ptr": 2484884,
+  "bytes": 36,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843084
+   }
+  ],
+  "jp": "あん、いや……{n}形は姉さんの方が……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EAB8",
+  "ptr": 2484920,
+  "bytes": 79,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843092
+   }
+  ],
+  "jp": "アイギナが見つけた石の方が{n}カッコよくていいわよー。{n}でもなんでお湯の中に石が…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EB08",
+  "ptr": 2485000,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843100
+   }
+  ],
+  "jp": "本当ですよ。{n}紛らわしいにも程があります…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EB34",
+  "ptr": 2485044,
+  "bytes": 36,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843116
+   }
+  ],
+  "jp": "…って、いけない！{n}早く戻らないと②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EB58",
+  "ptr": 2485080,
+  "bytes": 46,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843124
+   }
+  ],
+  "jp": "いいお湯でしたけど、63点という{n}ところかしら？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EB88",
+  "ptr": 2485128,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843132
+   }
+  ],
+  "jp": "あぁ…、でも身体が火照って、{n}なんだか変な気分……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EBBC",
+  "ptr": 2485180,
+  "bytes": 46,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843140
+   }
+  ],
+  "jp": "素敵な殿方に、覗いて貰いたい{n}そんな気分だわ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EBEC",
+  "ptr": 2485228,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843148
+   }
+  ],
+  "jp": "はぁ、んふっ…、あぁっ！{n}い、痛いぃ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EC14",
+  "ptr": 2485268,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843156
+   }
+  ],
+  "jp": "岩で足の小指を、{n}打ってしまいましたわ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EC40",
+  "ptr": 2485312,
+  "bytes": 59,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843164
+   }
+  ],
+  "jp": "期待したか？{n}バーカ、今はオレは男だっつーの。{n}ざーんねん。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EC7C",
+  "ptr": 2485372,
+  "bytes": 68,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843172
+   }
+  ],
+  "jp": "まぁな、しかしよ、見る人によっては{n}サービスなんだぜ、これもよ、な？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25ECC0",
+  "ptr": 2485440,
+  "bytes": 44,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843180
+   }
+  ],
+  "jp": "っていうか、オレ、{n}誰に喋ってんだろうな……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25ECEC",
+  "ptr": 2485484,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843188
+   }
+  ],
+  "jp": "ずるいよ、アンタ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25ED04",
+  "ptr": 2485508,
+  "bytes": 28,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843196
+   }
+  ],
+  "jp": "俺は行くぜ。{n}……じゃあな。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25ED20",
+  "ptr": 2485536,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843204
+   }
+  ],
+  "jp": "待ってよ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25ED30",
+  "ptr": 2485552,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843212
+   }
+  ],
+  "jp": "助けてくれた礼は言っとく。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25ED4C",
+  "ptr": 2485580,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843220
+   }
+  ],
+  "jp": "しばらくアンタを追うのは{n}やめにする。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25ED74",
+  "ptr": 2485620,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843228
+   }
+  ],
+  "jp": "だけど、いつか殺してやるから…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25ED94",
+  "ptr": 2485652,
+  "bytes": 33,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843236
+   }
+  ],
+  "jp": "それまで、死んじゃダメだかんね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EDB8",
+  "ptr": 2485688,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843244
+   }
+  ],
+  "jp": "ああ、努力するよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EDCC",
+  "ptr": 2485708,
+  "bytes": 44,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843252
+   }
+  ],
+  "jp": "貴様も元軍人だろ？{n}観念しろよ、潔くねぇぞ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EDF8",
+  "ptr": 2485752,
+  "bytes": 75,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843260
+   }
+  ],
+  "jp": "俺は、生きてやるッ！{n}たとえ死神が鎌を振り上げても{n}絶対に逃げ切ってやる……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EE44",
+  "ptr": 2485828,
+  "bytes": 56,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843268
+   }
+  ],
+  "jp": "どこに逃げるって言うんだよ。{n}後ろは崖だ、諦めるんだな。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EE7C",
+  "ptr": 2485884,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843276
+   }
+  ],
+  "jp": "俺は生きるゥーーーーーッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EE98",
+  "ptr": 2485912,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843284
+   }
+  ],
+  "jp": "アイツ、崖を駆け下りる気か！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EEB8",
+  "ptr": 2485944,
+  "bytes": 52,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843292
+   }
+  ],
+  "jp": "例え確率が低いと言えど！{n}俺は、生き延びる道を選ぶ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EEEC",
+  "ptr": 2485996,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843300
+   }
+  ],
+  "jp": "うおおおぉぉぉ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EF00",
+  "ptr": 2486016,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843308
+   }
+  ],
+  "jp": "戦い、終わったんだね…{n}ヴェルマンは？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EF28",
+  "ptr": 2486056,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843316
+   }
+  ],
+  "jp": "倒したよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EF34",
+  "ptr": 2486068,
+  "bytes": 62,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843324
+   }
+  ],
+  "jp": "…そっか。貴族は嫌いだけど…{n}ヴェルマンは、私、好きだったよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EF74",
+  "ptr": 2486132,
+  "bytes": 71,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843332
+   }
+  ],
+  "jp": "お前を人質にとるような男だった。{n}だから、倒した。{n}でも、俺も辛かった。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EFBC",
+  "ptr": 2486204,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843340
+   }
+  ],
+  "jp": "そっか、そうだよね……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25EFD4",
+  "ptr": 2486228,
+  "bytes": 46,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843348
+   }
+  ],
+  "jp": "もういいから、あまり喋るな。{n}苦しくなるだろ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F004",
+  "ptr": 2486276,
+  "bytes": 73,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843356
+   }
+  ],
+  "jp": "いま、メデューテ達が{n}近くの村に医者を呼びに行ってる。{n}だからそれまで……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F050",
+  "ptr": 2486352,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843364
+   }
+  ],
+  "jp": "ううん、もう多分駄目…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F068",
+  "ptr": 2486376,
+  "bytes": 52,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843372
+   }
+  ],
+  "jp": "お前がいなくなったら、{n}俺は誰に相談したらいいんだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F09C",
+  "ptr": 2486428,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843380
+   }
+  ],
+  "jp": "大丈夫、みんながいるし……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F0B8",
+  "ptr": 2486456,
+  "bytes": 63,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843388
+   }
+  ],
+  "jp": "ジェノン…{n}３人が２人になっちゃうね…{n}幼なじみ、ね、ごめんね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F0F8",
+  "ptr": 2486520,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843396
+   }
+  ],
+  "jp": "男の子ばかりになるね……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F114",
+  "ptr": 2486548,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843404
+   }
+  ],
+  "jp": "…シスキアっ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F124",
+  "ptr": 2486564,
+  "bytes": 58,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843412
+   }
+  ],
+  "jp": "いいの、今、こうしてくれて、{n}結構……、幸せな気分なの……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F160",
+  "ptr": 2486624,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843420
+   }
+  ],
+  "jp": "だから、このままで、{n}しばらくいさせて……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F18C",
+  "ptr": 2486668,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843428
+   }
+  ],
+  "jp": "ハァ、ハァ、ハァ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F1A4",
+  "ptr": 2486692,
+  "bytes": 56,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843436
+   }
+  ],
+  "jp": "なんだ、あのガーロットの姿。{n}それに肌を打つこの感じ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F1DC",
+  "ptr": 2486748,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843444
+   }
+  ],
+  "jp": "気持ちがざわつく。{n}こんなの…、生まれて初めてだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F210",
+  "ptr": 2486800,
+  "bytes": 93,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843452
+   }
+  ],
+  "jp": "魔竜の力が遂に解放されましたか。{n}団長から感じていた、底知れぬ力{n}の源は、これだったのですね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F270",
+  "ptr": 2486896,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843460
+   }
+  ],
+  "jp": "ガーロットに何が起きたんだ？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F290",
+  "ptr": 2486928,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843468
+   }
+  ],
+  "jp": "…私は、幻でも見ているのか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F2B0",
+  "ptr": 2486960,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843476
+   }
+  ],
+  "jp": "……力が湧いてくる。{n}これならば、誰にも負けない。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F2E4",
+  "ptr": 2487012,
+  "bytes": 52,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843484
+   }
+  ],
+  "jp": "この力を持っていれば、{n}シスキアもきっと助けられた②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F318",
+  "ptr": 2487064,
+  "bytes": 54,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843492
+   }
+  ],
+  "jp": "姉と私には、やり遂げなければ{n}ならない事があるのです。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F350",
+  "ptr": 2487120,
+  "bytes": 69,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843500
+   }
+  ],
+  "jp": "グラムブレイズの{n}活動とは方向性が違う、{n}もっと個人的な問題なんです。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F398",
+  "ptr": 2487192,
+  "bytes": 75,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843508
+   }
+  ],
+  "jp": "ですから、みなさんにご迷惑を{n}掛けない為にも、抜けさせて{n}もらいたいのです。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F3E4",
+  "ptr": 2487268,
+  "bytes": 54,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843516
+   }
+  ],
+  "jp": "なるほどな、そういう理由なら{n}止めることはできないな。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F41C",
+  "ptr": 2487324,
+  "bytes": 79,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843524
+   }
+  ],
+  "jp": "ちょっと待ってよ、{n}アイギナ達のやりたいこと、{n}手を貸してあげたらいいじゃない。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F46C",
+  "ptr": 2487404,
+  "bytes": 87,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843532
+   }
+  ],
+  "jp": "よしなさいよ、シスキア。{n}人にはね、秘密にしておきたい{n}過去の１つや２つ、あるんだから。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F4C4",
+  "ptr": 2487492,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843540
+   }
+  ],
+  "jp": "んー、それは、そっか……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F4E0",
+  "ptr": 2487520,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843548
+   }
+  ],
+  "jp": "ごめんね、アイギナ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F4F8",
+  "ptr": 2487544,
+  "bytes": 52,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843556
+   }
+  ],
+  "jp": "いいんです、迷惑を掛けてるのは、{n}私達の方ですから。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F52C",
+  "ptr": 2487596,
+  "bytes": 52,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843564
+   }
+  ],
+  "jp": "シスキア……、最後に、{n}聞いて欲しいことがあるんだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F560",
+  "ptr": 2487648,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843572
+   }
+  ],
+  "jp": "なに……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F56C",
+  "ptr": 2487660,
+  "bytes": 64,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843580
+   }
+  ],
+  "jp": "こんなときに言うのは卑怯だから{n}あんまり言いたくないんだけどさ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F5AC",
+  "ptr": 2487724,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843588
+   }
+  ],
+  "jp": "シスキア……、僕…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F5C0",
+  "ptr": 2487744,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843596
+   }
+  ],
+  "jp": "……………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F5CC",
+  "ptr": 2487756,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843604
+   }
+  ],
+  "jp": "ううん、違うな。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F5E0",
+  "ptr": 2487776,
+  "bytes": 38,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843612
+   }
+  ],
+  "jp": "シスキア、{n}君はガーロットのこと好き？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F608",
+  "ptr": 2487816,
+  "bytes": 24,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843620
+   }
+  ],
+  "jp": "え…？{n}……うん、好き。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F620",
+  "ptr": 2487840,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843628
+   }
+  ],
+  "jp": "友達として、じゃなくだよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F63C",
+  "ptr": 2487868,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843636
+   }
+  ],
+  "jp": "……うん、分かってる。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F654",
+  "ptr": 2487892,
+  "bytes": 46,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843644
+   }
+  ],
+  "jp": "そうだよね、{n}僕、やっぱ良く気付く男だよなぁ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F684",
+  "ptr": 2487940,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843652
+   }
+  ],
+  "jp": "気になっててね、{n}聞いておきたかったんだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F6B0",
+  "ptr": 2487984,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843660
+   }
+  ],
+  "jp": "本当に、その話？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F6C4",
+  "ptr": 2488004,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843668
+   }
+  ],
+  "jp": "そうだよ、その話だよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F6DC",
+  "ptr": 2488028,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843676
+   }
+  ],
+  "jp": "そっか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F6E8",
+  "ptr": 2488040,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843684
+   }
+  ],
+  "jp": "うううううっ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F6FC",
+  "ptr": 2488060,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843692
+   }
+  ],
+  "jp": "ジェノン！　どうしたの②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F718",
+  "ptr": 2488088,
+  "bytes": 31,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843700
+   }
+  ],
+  "jp": "そ、そろそろ、お別れみたいだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F738",
+  "ptr": 2488120,
+  "bytes": 77,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843708
+   }
+  ],
+  "jp": "シスキア、グラムブレイズが{n}変える新しい世界で、{n}僕の分も、精一杯生きてくれ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F788",
+  "ptr": 2488200,
+  "bytes": 56,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843716
+   }
+  ],
+  "jp": "君がいて、ガーロットや皆がいる{n}この世界を、生きてくれ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F7C0",
+  "ptr": 2488256,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843724
+   }
+  ],
+  "jp": "でも、そこには…{n}ジェノンはいないんだよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F7EC",
+  "ptr": 2488300,
+  "bytes": 56,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843732
+   }
+  ],
+  "jp": "……僕は、思いのままに戦って、{n}この世界に足跡を残せた。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F824",
+  "ptr": 2488356,
+  "bytes": 46,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843740
+   }
+  ],
+  "jp": "そして、それを覚えていてくれる{n}友達もできた。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F854",
+  "ptr": 2488404,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843748
+   }
+  ],
+  "jp": "これは、感謝すべき事だよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F870",
+  "ptr": 2488432,
+  "bytes": 61,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843756
+   }
+  ],
+  "jp": "ガーロットに、そしてシスキアに{n}出会えたからさ。{n}感謝してる。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F8B0",
+  "ptr": 2488496,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843764
+   }
+  ],
+  "jp": "ジェノン…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F8BC",
+  "ptr": 2488508,
+  "bytes": 52,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2843772
+   }
+  ],
+  "jp": "よかった、本当によかった。{n}心からそう思っている……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F970",
+  "ptr": 2488688,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844144
+   },
+   {
+    "word": 2849792
+   }
+  ],
+  "jp": "理不尽の魔物",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F980",
+  "ptr": 2488704,
+  "bytes": 48,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844148
+   }
+  ],
+  "jp": "巨大な理不尽に覆われた{n}ブロンキア帝国の惨状は…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F9B0",
+  "ptr": 2488752,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844160
+   }
+  ],
+  "jp": "フレアヴェルク上洛",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F9C4",
+  "ptr": 2488772,
+  "bytes": 44,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844164
+   }
+  ],
+  "jp": "初めて下された指令は{n}帝都上洛の警護だった…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25F9F0",
+  "ptr": 2488816,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844176
+   }
+  ],
+  "jp": "駆けてきた姉妹",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FA00",
+  "ptr": 2488832,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844180
+   }
+  ],
+  "jp": "ティエラに戻る途中に{n}邂逅する少女とは…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FA28",
+  "ptr": 2488872,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844192
+   }
+  ],
+  "jp": "戦士と狂気",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FA34",
+  "ptr": 2488884,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844196
+   }
+  ],
+  "jp": "新戦力を迎えるべく{n}辺境の駐屯地へと赴く",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FA5C",
+  "ptr": 2488924,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844208
+   }
+  ],
+  "jp": "夜盗を追え！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FA6C",
+  "ptr": 2488940,
+  "bytes": 44,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844212
+   }
+  ],
+  "jp": "ティエラの街に横行する{n}夜盗を捕らえるのだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FA98",
+  "ptr": 2488984,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844224
+   }
+  ],
+  "jp": "変わり者、募集中",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FAAC",
+  "ptr": 2489004,
+  "bytes": 46,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844228
+   }
+  ],
+  "jp": "新戦力の魔法使いを求めて{n}エルルク山脈に向かう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FADC",
+  "ptr": 2489052,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844240
+   }
+  ],
+  "jp": "砂漠に拾え、一滴の涙",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FAF4",
+  "ptr": 2489076,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844244
+   }
+  ],
+  "jp": "ユーディが提示した{n}私兵団加入の条件とは…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FB20",
+  "ptr": 2489120,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844256
+   }
+  ],
+  "jp": "貴族の心、そして。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FB34",
+  "ptr": 2489140,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844260
+   }
+  ],
+  "jp": "雪山で行方不明になった{n}方伯の知人を捜せ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FB60",
+  "ptr": 2489184,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844272
+   }
+  ],
+  "jp": "奪う者、奪われる者",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FB74",
+  "ptr": 2489204,
+  "bytes": 48,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844276
+   }
+  ],
+  "jp": "盗賊団の襲撃に悩む街を{n}私兵団は守り抜けるのか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FBA4",
+  "ptr": 2489252,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844288
+   }
+  ],
+  "jp": "それぞれの事情",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FBB4",
+  "ptr": 2489268,
+  "bytes": 48,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844292
+   }
+  ],
+  "jp": "盗賊団を壊滅させるべく{n}私兵団は深い森を進軍する",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FBE4",
+  "ptr": 2489316,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844304
+   }
+  ],
+  "jp": "帝国の生み出したモノ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FBFC",
+  "ptr": 2489340,
+  "bytes": 48,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844308
+   }
+  ],
+  "jp": "西部地域のトキノ山へ…{n}反乱軍の正体を見極めよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FC2C",
+  "ptr": 2489388,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844320
+   }
+  ],
+  "jp": "大切な物は何処",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FC3C",
+  "ptr": 2489404,
+  "bytes": 46,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844324
+   }
+  ],
+  "jp": "方伯の宝物が盗まれた×{n}はだしのミゼルを追え！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FC6C",
+  "ptr": 2489452,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844336
+   }
+  ],
+  "jp": "はだしのミゼル",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FC7C",
+  "ptr": 2489468,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844340
+   }
+  ],
+  "jp": "ドロミノス湿地帯にある{n}ミゼルの隠れ家へ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FCA8",
+  "ptr": 2489512,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844352
+   }
+  ],
+  "jp": "輸送船襲撃作戦",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FCB8",
+  "ptr": 2489528,
+  "bytes": 44,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844356
+   }
+  ],
+  "jp": "皇帝への賄賂となる品物を{n}水際で食い止めろ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FCE4",
+  "ptr": 2489572,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844368
+   }
+  ],
+  "jp": "庇護の対価",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FCF0",
+  "ptr": 2489584,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844372
+   }
+  ],
+  "jp": "方伯が新たに領有した街に{n}名代として徴税に向かう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FD24",
+  "ptr": 2489636,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844384
+   }
+  ],
+  "jp": "扇げば揺れる麦の穂",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FD38",
+  "ptr": 2489656,
+  "bytes": 44,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844388
+   }
+  ],
+  "jp": "徴税に反発する民兵たち…{n}その背後には誰が×",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FD64",
+  "ptr": 2489700,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844400
+   }
+  ],
+  "jp": "懊悩の殉教者",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FD74",
+  "ptr": 2489716,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844404
+   }
+  ],
+  "jp": "グラムブレイズ非番の一日{n}だが、安寧は唐突に崩れる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FDA8",
+  "ptr": 2489768,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844416
+   }
+  ],
+  "jp": "終わり無き復讐",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FDB8",
+  "ptr": 2489784,
+  "bytes": 44,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844420
+   }
+  ],
+  "jp": "預言者の登用に赴く途中、{n}遭遇した連中とは…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FDE4",
+  "ptr": 2489828,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844432
+   }
+  ],
+  "jp": "試練は屍を越えて",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FDF8",
+  "ptr": 2489848,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844436
+   }
+  ],
+  "jp": "深い森の奥でガーロットは{n}預言者との邂逅を果たす…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FE2C",
+  "ptr": 2489900,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844448
+   }
+  ],
+  "jp": "天意の名の下に",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FE3C",
+  "ptr": 2489916,
+  "bytes": 48,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844452
+   }
+  ],
+  "jp": "神生教団の不穏な動きに{n}一行は違和感を覚えるが…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FE6C",
+  "ptr": 2489964,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844464
+   }
+  ],
+  "jp": "戦士達の休息⑮⑯⑰⑱…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FE84",
+  "ptr": 2489988,
+  "bytes": 46,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844468
+   }
+  ],
+  "jp": "買い物！　女子のみ！！{n}ワクワクは止まらない！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FEB4",
+  "ptr": 2490036,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844480
+   }
+  ],
+  "jp": "戦士達の休息☆●○◎…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FECC",
+  "ptr": 2490060,
+  "bytes": 50,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844484
+   }
+  ],
+  "jp": "男だけで用兵大会へ参戦！{n}目指すはモチロン優勝だ⑭",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FF00",
+  "ptr": 2490112,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844496
+   }
+  ],
+  "jp": "火の粉は集い、大火へと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FF18",
+  "ptr": 2490136,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844500
+   }
+  ],
+  "jp": "日に日に力を増す{n}反乱軍の勢いを抑えこめ⑭",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FF44",
+  "ptr": 2490180,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844512
+   }
+  ],
+  "jp": "戦火に立つ修羅",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FF54",
+  "ptr": 2490196,
+  "bytes": 42,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844516
+   }
+  ],
+  "jp": "レオンとの再会は{n}次戦の激化を予想させた…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FF80",
+  "ptr": 2490240,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844528
+   }
+  ],
+  "jp": "物欲のなせる罠",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FF90",
+  "ptr": 2490256,
+  "bytes": 48,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844532
+   }
+  ],
+  "jp": "金塊運搬のニセ情報を流し{n}山賊を一網打尽にせよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FFC0",
+  "ptr": 2490304,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844544
+   }
+  ],
+  "jp": "戻ってきた戦士",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FFD0",
+  "ptr": 2490320,
+  "bytes": 40,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844548
+   }
+  ],
+  "jp": "セリカと共に谷底に消えた{n}ガーロットは…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_25FFF8",
+  "ptr": 2490360,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2844560
+   }
+  ],
+  "jp": "ソルトロード",
+  "en": "",
+  "status": ""
+ }
+]

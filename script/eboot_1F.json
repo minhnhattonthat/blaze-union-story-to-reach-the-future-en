@@ -1,0 +1,8472 @@
+[
+ {
+  "id": "eboot_1F0007",
+  "ptr": 2031623,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085716
+   }
+  ],
+  "jp": "よからぬ企みは先に潰す！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0020",
+  "ptr": 2031648,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085740
+   }
+  ],
+  "jp": "させるかぁ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F002D",
+  "ptr": 2031661,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085748
+   }
+  ],
+  "jp": "おっと、させないぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0042",
+  "ptr": 2031682,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085756
+   }
+  ],
+  "jp": "おっと、させないぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0057",
+  "ptr": 2031703,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085764
+   }
+  ],
+  "jp": "おっと、させないぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F006C",
+  "ptr": 2031724,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085772
+   }
+  ],
+  "jp": "させるかぁ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0079",
+  "ptr": 2031737,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085780
+   }
+  ],
+  "jp": "おっと、させないぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F008E",
+  "ptr": 2031758,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085788
+   }
+  ],
+  "jp": "…やらせない。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F009D",
+  "ptr": 2031773,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085796
+   }
+  ],
+  "jp": "やらせません！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F00AC",
+  "ptr": 2031788,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085804
+   }
+  ],
+  "jp": "…何をしてるんですか③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F00C3",
+  "ptr": 2031811,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085812
+   }
+  ],
+  "jp": "…何をしてるんですか③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F00DA",
+  "ptr": 2031834,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085820
+   }
+  ],
+  "jp": "…何をしてるんですか③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F00F1",
+  "ptr": 2031857,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085828
+   }
+  ],
+  "jp": "やらせません！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0100",
+  "ptr": 2031872,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085836
+   }
+  ],
+  "jp": "…何をしてるんですか③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0117",
+  "ptr": 2031895,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085844
+   }
+  ],
+  "jp": "使わせるものか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0128",
+  "ptr": 2031912,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085852
+   }
+  ],
+  "jp": "使わせるものか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0139",
+  "ptr": 2031929,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085860
+   }
+  ],
+  "jp": "使わせるものか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F014A",
+  "ptr": 2031946,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085868
+   }
+  ],
+  "jp": "何溜めちゃってんの③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F015F",
+  "ptr": 2031967,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085876
+   }
+  ],
+  "jp": "使わせるものか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0170",
+  "ptr": 2031984,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085884
+   }
+  ],
+  "jp": "させるか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F017B",
+  "ptr": 2031995,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085892
+   }
+  ],
+  "jp": "大技、禁止ッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F018A",
+  "ptr": 2032010,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085900
+   }
+  ],
+  "jp": "大技、禁止ッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0199",
+  "ptr": 2032025,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085908
+   }
+  ],
+  "jp": "大技、禁止ッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F01A8",
+  "ptr": 2032040,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085916
+   }
+  ],
+  "jp": "大技、禁止ッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F01B7",
+  "ptr": 2032055,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085924
+   }
+  ],
+  "jp": "…生ける技、止める。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F01CC",
+  "ptr": 2032076,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085932
+   }
+  ],
+  "jp": "好きにはさせねぇ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F01DF",
+  "ptr": 2032095,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085940
+   }
+  ],
+  "jp": "おいおい、何してんだぁ③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F01F8",
+  "ptr": 2032120,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085948
+   }
+  ],
+  "jp": "…神に逆らう策謀か？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F020D",
+  "ptr": 2032141,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085956
+   }
+  ],
+  "jp": "好きにはさせねぇ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0220",
+  "ptr": 2032160,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085964
+   }
+  ],
+  "jp": "……妨げる。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F022D",
+  "ptr": 2032173,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085972
+   }
+  ],
+  "jp": "止めてやる…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F023C",
+  "ptr": 2032188,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085980
+   }
+  ],
+  "jp": "よからぬことを企んでるわね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0259",
+  "ptr": 2032217,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085988
+   }
+  ],
+  "jp": "神様は全部お見通しッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0270",
+  "ptr": 2032240,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2085996
+   }
+  ],
+  "jp": "よからぬことを企んでるわね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F028D",
+  "ptr": 2032269,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086004
+   }
+  ],
+  "jp": "止めてやる…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F029C",
+  "ptr": 2032284,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086012
+   }
+  ],
+  "jp": "よからぬことを企んでるわね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F02B9",
+  "ptr": 2032313,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086020
+   }
+  ],
+  "jp": "ウッウアー②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F02C6",
+  "ptr": 2032326,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086028
+   }
+  ],
+  "jp": "そこまでだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F02D3",
+  "ptr": 2032339,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086036
+   }
+  ],
+  "jp": "させないぜ！　それっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F02EA",
+  "ptr": 2032362,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086044
+   }
+  ],
+  "jp": "させないぜ！　それっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0301",
+  "ptr": 2032385,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086052
+   }
+  ],
+  "jp": "させないぜ！　それっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0318",
+  "ptr": 2032408,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086060
+   }
+  ],
+  "jp": "そこまでだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0325",
+  "ptr": 2032421,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086068
+   }
+  ],
+  "jp": "させないぜ！　それっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F033C",
+  "ptr": 2032444,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086076
+   }
+  ],
+  "jp": "やらせない…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F034B",
+  "ptr": 2032459,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086084
+   }
+  ],
+  "jp": "やらせない…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F035A",
+  "ptr": 2032474,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086092
+   }
+  ],
+  "jp": "やらせない…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0369",
+  "ptr": 2032489,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086100
+   }
+  ],
+  "jp": "やらせない…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0378",
+  "ptr": 2032504,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086108
+   }
+  ],
+  "jp": "やらせない…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0387",
+  "ptr": 2032519,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086116
+   }
+  ],
+  "jp": "…………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0390",
+  "ptr": 2032528,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086124
+   }
+  ],
+  "jp": "捨て置けんな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F039F",
+  "ptr": 2032543,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086132
+   }
+  ],
+  "jp": "神に背く大逆だ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F03B0",
+  "ptr": 2032560,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086140
+   }
+  ],
+  "jp": "捨て置けんな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F03BF",
+  "ptr": 2032575,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086148
+   }
+  ],
+  "jp": "捨て置けんな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F03CE",
+  "ptr": 2032590,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086156
+   }
+  ],
+  "jp": "力を溜めたな？　させるか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F03E9",
+  "ptr": 2032617,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086164
+   }
+  ],
+  "jp": "あらら、溜めちゃってるのね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0406",
+  "ptr": 2032646,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086172
+   }
+  ],
+  "jp": "あらら、溜めちゃってるのね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0423",
+  "ptr": 2032675,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086180
+   }
+  ],
+  "jp": "力を溜めたな？　させるか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F043E",
+  "ptr": 2032702,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086188
+   }
+  ],
+  "jp": "あらら、溜めちゃってるのね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F045B",
+  "ptr": 2032731,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086196
+   }
+  ],
+  "jp": "カッカカカッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F046A",
+  "ptr": 2032746,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086204
+   }
+  ],
+  "jp": "カッカカカッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0479",
+  "ptr": 2032761,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086212
+   }
+  ],
+  "jp": "カッカカカッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0488",
+  "ptr": 2032776,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086220
+   }
+  ],
+  "jp": "グーッフッフ…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0499",
+  "ptr": 2032793,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086228
+   }
+  ],
+  "jp": "グーッフッフ…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F04AA",
+  "ptr": 2032810,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086236
+   }
+  ],
+  "jp": "グーッフッフ…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F04BB",
+  "ptr": 2032827,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086244
+   }
+  ],
+  "jp": "隙ありッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F04C6",
+  "ptr": 2032838,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086252
+   }
+  ],
+  "jp": "なにしてんだぁ③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F04D7",
+  "ptr": 2032855,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086260
+   }
+  ],
+  "jp": "やらせないよ？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F04E6",
+  "ptr": 2032870,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086268
+   }
+  ],
+  "jp": "やらせないよ？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F04F5",
+  "ptr": 2032885,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086276
+   }
+  ],
+  "jp": "やらせないよ？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0504",
+  "ptr": 2032900,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086284
+   }
+  ],
+  "jp": "優勢だな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F050F",
+  "ptr": 2032911,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086292
+   }
+  ],
+  "jp": "優勢だな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F051A",
+  "ptr": 2032922,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086300
+   }
+  ],
+  "jp": "優勢だな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0525",
+  "ptr": 2032933,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086308
+   }
+  ],
+  "jp": "優勢だな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0530",
+  "ptr": 2032944,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086316
+   }
+  ],
+  "jp": "優勢だな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F053B",
+  "ptr": 2032955,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086324
+   }
+  ],
+  "jp": "…このまま、一気に…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0552",
+  "ptr": 2032978,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086332
+   }
+  ],
+  "jp": "圧倒するぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F055F",
+  "ptr": 2032991,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086340
+   }
+  ],
+  "jp": "圧倒するぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F056C",
+  "ptr": 2033004,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086348
+   }
+  ],
+  "jp": "これならいけるわ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F057F",
+  "ptr": 2033023,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086356
+   }
+  ],
+  "jp": "これならいけるわ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0592",
+  "ptr": 2033042,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086364
+   }
+  ],
+  "jp": "これならいけるわ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F05A5",
+  "ptr": 2033061,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086372
+   }
+  ],
+  "jp": "これならいけるわ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F05B8",
+  "ptr": 2033080,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086380
+   }
+  ],
+  "jp": "このままいくしか…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F05CD",
+  "ptr": 2033101,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086388
+   }
+  ],
+  "jp": "これならいけるわ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F05E0",
+  "ptr": 2033120,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086396
+   }
+  ],
+  "jp": "気を抜かないで！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F05F1",
+  "ptr": 2033137,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086404
+   }
+  ],
+  "jp": "う、ううう…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0600",
+  "ptr": 2033152,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086412
+   }
+  ],
+  "jp": "まだ油断しないで！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0613",
+  "ptr": 2033171,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086420
+   }
+  ],
+  "jp": "…まだ終わらないのか…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F062C",
+  "ptr": 2033196,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086428
+   }
+  ],
+  "jp": "…まだ終わらないのか…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0645",
+  "ptr": 2033221,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086436
+   }
+  ],
+  "jp": "まだ生きてるの～？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0658",
+  "ptr": 2033240,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086444
+   }
+  ],
+  "jp": "へぇ、まだやるんだ？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F066D",
+  "ptr": 2033261,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086452
+   }
+  ],
+  "jp": "このまま押し切ります！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0684",
+  "ptr": 2033284,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086460
+   }
+  ],
+  "jp": "このまま押し切ります！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F069B",
+  "ptr": 2033307,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086468
+   }
+  ],
+  "jp": "さて、トドメと行こうかしら？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F06B8",
+  "ptr": 2033336,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086476
+   }
+  ],
+  "jp": "死に損ないどもが！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F06CB",
+  "ptr": 2033355,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086484
+   }
+  ],
+  "jp": "掃討戦に移る…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F06DC",
+  "ptr": 2033372,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086492
+   }
+  ],
+  "jp": "容赦はしない。それが礼節だ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F06F9",
+  "ptr": 2033401,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086500
+   }
+  ],
+  "jp": "狩り残しが出たか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F070C",
+  "ptr": 2033420,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086508
+   }
+  ],
+  "jp": "これで終わりです！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F071F",
+  "ptr": 2033439,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086516
+   }
+  ],
+  "jp": "これで終わりです！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0732",
+  "ptr": 2033458,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086524
+   }
+  ],
+  "jp": "決めてしまいましょう。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0749",
+  "ptr": 2033481,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086532
+   }
+  ],
+  "jp": "せめて、早く終わらせる。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0762",
+  "ptr": 2033506,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086540
+   }
+  ],
+  "jp": "観念してくれよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0773",
+  "ptr": 2033523,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086548
+   }
+  ],
+  "jp": "これ以上の抵抗はムダだゼ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F078E",
+  "ptr": 2033550,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086556
+   }
+  ],
+  "jp": "跪くがいい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F079B",
+  "ptr": 2033563,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086564
+   }
+  ],
+  "jp": "まだやる気か？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F07AA",
+  "ptr": 2033578,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086572
+   }
+  ],
+  "jp": "パメラ様に降伏する？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F07BF",
+  "ptr": 2033599,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086580
+   }
+  ],
+  "jp": "一気に潰すぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F07CE",
+  "ptr": 2033614,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086588
+   }
+  ],
+  "jp": "フィナーレですわ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F07E1",
+  "ptr": 2033633,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086596
+   }
+  ],
+  "jp": "容赦はしないぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F07F2",
+  "ptr": 2033650,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086604
+   }
+  ],
+  "jp": "まだやるか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F07FF",
+  "ptr": 2033663,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086612
+   }
+  ],
+  "jp": "神に逆らった罰と知れ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0816",
+  "ptr": 2033686,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086620
+   }
+  ],
+  "jp": "威勢がいいな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0825",
+  "ptr": 2033701,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086628
+   }
+  ],
+  "jp": "フッフッフ…決まったわね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0840",
+  "ptr": 2033728,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086636
+   }
+  ],
+  "jp": "フッフッフ…決まったわね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F085B",
+  "ptr": 2033755,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086644
+   }
+  ],
+  "jp": "降伏など許さぬ。残らず斬る！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0878",
+  "ptr": 2033784,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086652
+   }
+  ],
+  "jp": "お、まだやる気か③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F088B",
+  "ptr": 2033803,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086660
+   }
+  ],
+  "jp": "ウィ～ック…もうやめたら？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F08A6",
+  "ptr": 2033830,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086668
+   }
+  ],
+  "jp": "往生際が悪いな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F08B7",
+  "ptr": 2033847,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086676
+   }
+  ],
+  "jp": "往生際が悪いな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F08C8",
+  "ptr": 2033864,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086684
+   }
+  ],
+  "jp": "往生際が悪いな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F08D9",
+  "ptr": 2033881,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086692
+   }
+  ],
+  "jp": "往生際が悪いな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F08EA",
+  "ptr": 2033898,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086700
+   }
+  ],
+  "jp": "往生際が悪いな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F08FB",
+  "ptr": 2033915,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086708
+   }
+  ],
+  "jp": "往生際が悪いな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F090C",
+  "ptr": 2033932,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086716
+   }
+  ],
+  "jp": "…残らず殺してやる。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0921",
+  "ptr": 2033953,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086724
+   }
+  ],
+  "jp": "まだやるんですか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0934",
+  "ptr": 2033972,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086732
+   }
+  ],
+  "jp": "まだやるつもり？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0945",
+  "ptr": 2033989,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086740
+   }
+  ],
+  "jp": "まだやるんですか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0958",
+  "ptr": 2034008,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086748
+   }
+  ],
+  "jp": "まだやるつもり？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0969",
+  "ptr": 2034025,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086756
+   }
+  ],
+  "jp": "まだやるんですか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F097C",
+  "ptr": 2034044,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086764
+   }
+  ],
+  "jp": "まだやるつもり？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F098D",
+  "ptr": 2034061,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086772
+   }
+  ],
+  "jp": "一人残らず片付けてやる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F09A6",
+  "ptr": 2034086,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086780
+   }
+  ],
+  "jp": "一人残らず片付けてやる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F09BF",
+  "ptr": 2034111,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086788
+   }
+  ],
+  "jp": "一人残らず片付けてやる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F09D8",
+  "ptr": 2034136,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086796
+   }
+  ],
+  "jp": "一人残らず片付けてやる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F09F1",
+  "ptr": 2034161,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086804
+   }
+  ],
+  "jp": "一人残らず片付けてやる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0A0A",
+  "ptr": 2034186,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086812
+   }
+  ],
+  "jp": "一人残らず片付けてやる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0A23",
+  "ptr": 2034211,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086820
+   }
+  ],
+  "jp": "抵抗する気力、残ってる？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0A3C",
+  "ptr": 2034236,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086828
+   }
+  ],
+  "jp": "抵抗する気力、残ってる？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0A55",
+  "ptr": 2034261,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086836
+   }
+  ],
+  "jp": "抵抗する気力、残ってる？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0A6E",
+  "ptr": 2034286,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086844
+   }
+  ],
+  "jp": "抵抗する気力、残ってる？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0A87",
+  "ptr": 2034311,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086852
+   }
+  ],
+  "jp": "…もうすぐ仲間ね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0A9A",
+  "ptr": 2034330,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086860
+   }
+  ],
+  "jp": "お、まだやるかい？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0AAD",
+  "ptr": 2034349,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086868
+   }
+  ],
+  "jp": "お、まだやるかい？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0AC0",
+  "ptr": 2034368,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086876
+   }
+  ],
+  "jp": "お、まだやるかい？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0AD3",
+  "ptr": 2034387,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086884
+   }
+  ],
+  "jp": "お、まだやるかい？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0AE6",
+  "ptr": 2034406,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086892
+   }
+  ],
+  "jp": "……命、奪う。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0AF5",
+  "ptr": 2034421,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086900
+   }
+  ],
+  "jp": "一気に決めるよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0B06",
+  "ptr": 2034438,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086908
+   }
+  ],
+  "jp": "一気に決めちゃえ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0B19",
+  "ptr": 2034457,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086916
+   }
+  ],
+  "jp": "一気に決めるよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0B2A",
+  "ptr": 2034474,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086924
+   }
+  ],
+  "jp": "一気に決めちゃえ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0B3D",
+  "ptr": 2034493,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086932
+   }
+  ],
+  "jp": "一気に決めるよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0B4E",
+  "ptr": 2034510,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086940
+   }
+  ],
+  "jp": "一気に決めちゃえ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0B61",
+  "ptr": 2034529,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086948
+   }
+  ],
+  "jp": "アアウアー②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0B6E",
+  "ptr": 2034542,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086956
+   }
+  ],
+  "jp": "そこまでだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0B7B",
+  "ptr": 2034555,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086964
+   }
+  ],
+  "jp": "そこまでだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0B88",
+  "ptr": 2034568,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086972
+   }
+  ],
+  "jp": "そこまでだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0B95",
+  "ptr": 2034581,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086980
+   }
+  ],
+  "jp": "そこまでだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0BA2",
+  "ptr": 2034594,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086988
+   }
+  ],
+  "jp": "そこまでだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0BAF",
+  "ptr": 2034607,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2086996
+   }
+  ],
+  "jp": "そこまでだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0BBC",
+  "ptr": 2034620,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087004
+   }
+  ],
+  "jp": "…討ち洩らしたか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0BCF",
+  "ptr": 2034639,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087012
+   }
+  ],
+  "jp": "…討ち洩らしたか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0BE2",
+  "ptr": 2034658,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087020
+   }
+  ],
+  "jp": "…討ち洩らしたか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0BF5",
+  "ptr": 2034677,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087028
+   }
+  ],
+  "jp": "…討ち洩らしたか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0C08",
+  "ptr": 2034696,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087036
+   }
+  ],
+  "jp": "…討ち洩らしたか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0C1B",
+  "ptr": 2034715,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087044
+   }
+  ],
+  "jp": "…逃がしはしない。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0C2E",
+  "ptr": 2034734,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087052
+   }
+  ],
+  "jp": "負ける気がしないな…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0C45",
+  "ptr": 2034757,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087060
+   }
+  ],
+  "jp": "これこそが天意だ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0C58",
+  "ptr": 2034776,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087068
+   }
+  ],
+  "jp": "負ける気がしないな…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0C6F",
+  "ptr": 2034799,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087076
+   }
+  ],
+  "jp": "負ける気がしないな…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0C86",
+  "ptr": 2034822,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087084
+   }
+  ],
+  "jp": "あら、まだいたのね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0C9B",
+  "ptr": 2034843,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087092
+   }
+  ],
+  "jp": "あら、まだいたのね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0CB0",
+  "ptr": 2034864,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087100
+   }
+  ],
+  "jp": "あら、まだいたのね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0CC5",
+  "ptr": 2034885,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087108
+   }
+  ],
+  "jp": "あら、まだいたのね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0CDA",
+  "ptr": 2034906,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087116
+   }
+  ],
+  "jp": "あら、まだいたのね？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0CEF",
+  "ptr": 2034927,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087124
+   }
+  ],
+  "jp": "ケーッケッケッケ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0D02",
+  "ptr": 2034946,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087132
+   }
+  ],
+  "jp": "ケーッケッケッケ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0D15",
+  "ptr": 2034965,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087140
+   }
+  ],
+  "jp": "ケーッケッケッケ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0D28",
+  "ptr": 2034984,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087148
+   }
+  ],
+  "jp": "グフフッ、グァーフー②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0D3F",
+  "ptr": 2035007,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087156
+   }
+  ],
+  "jp": "グフフッ、グァーフー②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0D56",
+  "ptr": 2035030,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087164
+   }
+  ],
+  "jp": "グフフッ、グァーフー②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0D6D",
+  "ptr": 2035053,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087172
+   }
+  ],
+  "jp": "帝国軍は常勝なのだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0D82",
+  "ptr": 2035074,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087180
+   }
+  ],
+  "jp": "しぶとい連中だぜぇ…②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0D99",
+  "ptr": 2035097,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087188
+   }
+  ],
+  "jp": "容赦しないわよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0DAA",
+  "ptr": 2035114,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087196
+   }
+  ],
+  "jp": "容赦しないわよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0DBB",
+  "ptr": 2035131,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087204
+   }
+  ],
+  "jp": "容赦しないわよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0DCC",
+  "ptr": 2035148,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087212
+   }
+  ],
+  "jp": "手加減なしだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0DDB",
+  "ptr": 2035163,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087220
+   }
+  ],
+  "jp": "手加減なしだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0DEA",
+  "ptr": 2035178,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087228
+   }
+  ],
+  "jp": "手加減なしだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0DF9",
+  "ptr": 2035193,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087236
+   }
+  ],
+  "jp": "一気に決めるぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0E0A",
+  "ptr": 2035210,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087244
+   }
+  ],
+  "jp": "一気に決めるぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0E1B",
+  "ptr": 2035227,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087252
+   }
+  ],
+  "jp": "……くっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0E26",
+  "ptr": 2035238,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087260
+   }
+  ],
+  "jp": "打ち砕く！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0E31",
+  "ptr": 2035249,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087268
+   }
+  ],
+  "jp": "打ち砕く！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0E3C",
+  "ptr": 2035260,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087276
+   }
+  ],
+  "jp": "ガンガン攻めるわ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0E4F",
+  "ptr": 2035279,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087284
+   }
+  ],
+  "jp": "ガンガン攻めるわ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0E62",
+  "ptr": 2035298,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087292
+   }
+  ],
+  "jp": "負けられないの！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0E73",
+  "ptr": 2035315,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087300
+   }
+  ],
+  "jp": "負けられないの！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0E84",
+  "ptr": 2035332,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087308
+   }
+  ],
+  "jp": "……どうして？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0E93",
+  "ptr": 2035347,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087316
+   }
+  ],
+  "jp": "勝って未来を開く！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0EA6",
+  "ptr": 2035366,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087324
+   }
+  ],
+  "jp": "ここが勝機と見たね②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0EBB",
+  "ptr": 2035387,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087340
+   }
+  ],
+  "jp": "見せてやるよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0ECA",
+  "ptr": 2035402,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087348
+   }
+  ],
+  "jp": "この力で…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0ED7",
+  "ptr": 2035415,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087364
+   }
+  ],
+  "jp": "い～い気分～！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0EE6",
+  "ptr": 2035430,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087380
+   }
+  ],
+  "jp": "見せてあげます！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0EF7",
+  "ptr": 2035447,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087388
+   }
+  ],
+  "jp": "立ち止まったりしない！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0F0E",
+  "ptr": 2035470,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087396
+   }
+  ],
+  "jp": "きゃはは、行くわよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0F23",
+  "ptr": 2035491,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087404
+   }
+  ],
+  "jp": "覚悟しとけ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0F30",
+  "ptr": 2035504,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087412
+   }
+  ],
+  "jp": "攻め潰すのだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0F3F",
+  "ptr": 2035519,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087436
+   }
+  ],
+  "jp": "隙が見えました…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0F52",
+  "ptr": 2035538,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087452
+   }
+  ],
+  "jp": "…ここです！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0F5F",
+  "ptr": 2035551,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087460
+   }
+  ],
+  "jp": "今ならば、刺せる。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0F72",
+  "ptr": 2035570,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087468
+   }
+  ],
+  "jp": "本気出すぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0F7F",
+  "ptr": 2035583,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087500
+   }
+  ],
+  "jp": "あぐれっし～ぶ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0F90",
+  "ptr": 2035600,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087508
+   }
+  ],
+  "jp": "がおおぉぉおお！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0FA1",
+  "ptr": 2035617,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087516
+   }
+  ],
+  "jp": "このテンポ、ついてこれます？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0FBE",
+  "ptr": 2035646,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087580
+   }
+  ],
+  "jp": "歯ぁ食いしばれッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0FD1",
+  "ptr": 2035665,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2087588
+   }
+  ],
+  "jp": "ウィッ、ヒック②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0FE2",
+  "ptr": 2035682,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088140
+   }
+  ],
+  "jp": "攻め切れないか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F0FF3",
+  "ptr": 2035699,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088148
+   }
+  ],
+  "jp": "攻め切れないか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1004",
+  "ptr": 2035716,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088156
+   }
+  ],
+  "jp": "攻め切れないか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1015",
+  "ptr": 2035733,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088164
+   }
+  ],
+  "jp": "態勢を立て直すぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1028",
+  "ptr": 2035752,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088172
+   }
+  ],
+  "jp": "態勢を立て直すぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F103B",
+  "ptr": 2035771,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088180
+   }
+  ],
+  "jp": "…できるのか、俺に？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1050",
+  "ptr": 2035792,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088188
+   }
+  ],
+  "jp": "攻めばかりが攻め手ではない！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F106D",
+  "ptr": 2035821,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088196
+   }
+  ],
+  "jp": "攻めばかりが攻め手ではない！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F108A",
+  "ptr": 2035850,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088204
+   }
+  ],
+  "jp": "ちょっと落ち着こっか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F10A1",
+  "ptr": 2035873,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088212
+   }
+  ],
+  "jp": "ちょっと落ち着こっか？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F10B8",
+  "ptr": 2035896,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088220
+   }
+  ],
+  "jp": "警戒重視！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F10C3",
+  "ptr": 2035907,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088228
+   }
+  ],
+  "jp": "警戒重視！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F10CE",
+  "ptr": 2035918,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088236
+   }
+  ],
+  "jp": "……こんなのって。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F10E1",
+  "ptr": 2035937,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088244
+   }
+  ],
+  "jp": "負けられないのよ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F10F4",
+  "ptr": 2035956,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088252
+   }
+  ],
+  "jp": "慌てる必要はないさ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1109",
+  "ptr": 2035977,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088268
+   }
+  ],
+  "jp": "反撃の時を待つ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F111A",
+  "ptr": 2035994,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088276
+   }
+  ],
+  "jp": "…時を稼ぐぞ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1129",
+  "ptr": 2036009,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088292
+   }
+  ],
+  "jp": "ゆっくりいこっか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F113C",
+  "ptr": 2036028,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088308
+   }
+  ],
+  "jp": "力を蓄えましょう！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F114F",
+  "ptr": 2036047,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088316
+   }
+  ],
+  "jp": "今は、この刃を研ぐ時…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1168",
+  "ptr": 2036072,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088324
+   }
+  ],
+  "jp": "ちょっと落ち着かなきゃね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1183",
+  "ptr": 2036099,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088332
+   }
+  ],
+  "jp": "…今に見てろよ？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1194",
+  "ptr": 2036116,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088340
+   }
+  ],
+  "jp": "耐えることが勝負と心得よ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F11AF",
+  "ptr": 2036143,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088364
+   }
+  ],
+  "jp": "攻め時ではないようです…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F11C8",
+  "ptr": 2036168,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088380
+   }
+  ],
+  "jp": "…力の巡りを感じます。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F11DF",
+  "ptr": 2036191,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088388
+   }
+  ],
+  "jp": "ここは耐えよ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F11EE",
+  "ptr": 2036206,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088396
+   }
+  ],
+  "jp": "温存するんだ…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F11FF",
+  "ptr": 2036223,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088428
+   }
+  ],
+  "jp": "ぱっし～ぶ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F120C",
+  "ptr": 2036236,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088436
+   }
+  ],
+  "jp": "ふぅ…落ち着こうかね。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1223",
+  "ptr": 2036259,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088444
+   }
+  ],
+  "jp": "休符も大事ですわよ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1238",
+  "ptr": 2036280,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088508
+   }
+  ],
+  "jp": "今は好きにさせてやる…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1251",
+  "ptr": 2036305,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2088516
+   }
+  ],
+  "jp": "ウィ～…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F125A",
+  "ptr": 2036314,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089068
+   }
+  ],
+  "jp": "オラッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1263",
+  "ptr": 2036323,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089076
+   }
+  ],
+  "jp": "そらよっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F126E",
+  "ptr": 2036334,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089084
+   }
+  ],
+  "jp": "喰らえッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1279",
+  "ptr": 2036345,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089092
+   }
+  ],
+  "jp": "もらった！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1284",
+  "ptr": 2036356,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089100
+   }
+  ],
+  "jp": "退けっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F128D",
+  "ptr": 2036365,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089108
+   }
+  ],
+  "jp": "このっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1296",
+  "ptr": 2036374,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089116
+   }
+  ],
+  "jp": "消え失せろ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F12A3",
+  "ptr": 2036387,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089124
+   }
+  ],
+  "jp": "このっ……！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F12B0",
+  "ptr": 2036400,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089132
+   }
+  ],
+  "jp": "そこだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F12B9",
+  "ptr": 2036409,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089140
+   }
+  ],
+  "jp": "それっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F12C2",
+  "ptr": 2036418,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089148
+   }
+  ],
+  "jp": "やあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F12CB",
+  "ptr": 2036427,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089156
+   }
+  ],
+  "jp": "えーいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F12D6",
+  "ptr": 2036438,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089164
+   }
+  ],
+  "jp": "ううっ…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F12E1",
+  "ptr": 2036449,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089172
+   }
+  ],
+  "jp": "見えた！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F12EA",
+  "ptr": 2036458,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089180
+   }
+  ],
+  "jp": "そらっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F12F3",
+  "ptr": 2036467,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089188
+   }
+  ],
+  "jp": "ふっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F12FA",
+  "ptr": 2036474,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089196
+   }
+  ],
+  "jp": "せいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1303",
+  "ptr": 2036483,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089204
+   }
+  ],
+  "jp": "これで②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F130C",
+  "ptr": 2036492,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089212
+   }
+  ],
+  "jp": "せいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1315",
+  "ptr": 2036501,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089220
+   }
+  ],
+  "jp": "えーい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F131E",
+  "ptr": 2036510,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089228
+   }
+  ],
+  "jp": "死んじゃえ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F132B",
+  "ptr": 2036523,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089236
+   }
+  ],
+  "jp": "えいっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1334",
+  "ptr": 2036532,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089244
+   }
+  ],
+  "jp": "散れ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F133B",
+  "ptr": 2036539,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089252
+   }
+  ],
+  "jp": "くらいなさい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F134A",
+  "ptr": 2036554,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089260
+   }
+  ],
+  "jp": "オラァオラァ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1359",
+  "ptr": 2036569,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089268
+   }
+  ],
+  "jp": "喝ッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1360",
+  "ptr": 2036576,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089276
+   }
+  ],
+  "jp": "はあっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1369",
+  "ptr": 2036585,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089284
+   }
+  ],
+  "jp": "ぜいっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1372",
+  "ptr": 2036594,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089292
+   }
+  ],
+  "jp": "小賢しい…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F137F",
+  "ptr": 2036607,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089300
+   }
+  ],
+  "jp": "はっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1386",
+  "ptr": 2036614,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089308
+   }
+  ],
+  "jp": "せっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F138D",
+  "ptr": 2036621,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089316
+   }
+  ],
+  "jp": "喰らえッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1398",
+  "ptr": 2036632,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089324
+   }
+  ],
+  "jp": "見えた！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F13A1",
+  "ptr": 2036641,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089332
+   }
+  ],
+  "jp": "くたばれよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F13AE",
+  "ptr": 2036654,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089340
+   }
+  ],
+  "jp": "とーう！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F13B7",
+  "ptr": 2036663,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089348
+   }
+  ],
+  "jp": "そらよっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F13C2",
+  "ptr": 2036674,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089356
+   }
+  ],
+  "jp": "ばごーん②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F13CD",
+  "ptr": 2036685,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089364
+   }
+  ],
+  "jp": "がおーッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F13D8",
+  "ptr": 2036696,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089372
+   }
+  ],
+  "jp": "私に、なじられたいのですね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F13F3",
+  "ptr": 2036723,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089380
+   }
+  ],
+  "jp": "散れ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F13FA",
+  "ptr": 2036730,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089388
+   }
+  ],
+  "jp": "はあっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1403",
+  "ptr": 2036739,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089396
+   }
+  ],
+  "jp": "それぇ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F140C",
+  "ptr": 2036748,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089404
+   }
+  ],
+  "jp": "どらぁ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1415",
+  "ptr": 2036757,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089412
+   }
+  ],
+  "jp": "あちょーーー②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1424",
+  "ptr": 2036772,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089420
+   }
+  ],
+  "jp": "よいしょ、っと②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1435",
+  "ptr": 2036789,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089428
+   }
+  ],
+  "jp": "今だっ…②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1440",
+  "ptr": 2036800,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089436
+   }
+  ],
+  "jp": "おらおらおらっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1451",
+  "ptr": 2036817,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089444
+   }
+  ],
+  "jp": "とうっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F145A",
+  "ptr": 2036826,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089452
+   }
+  ],
+  "jp": "でいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1463",
+  "ptr": 2036835,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089460
+   }
+  ],
+  "jp": "でいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F146C",
+  "ptr": 2036844,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089468
+   }
+  ],
+  "jp": "でいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1475",
+  "ptr": 2036853,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089476
+   }
+  ],
+  "jp": "でいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F147E",
+  "ptr": 2036862,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089484
+   }
+  ],
+  "jp": "でいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1487",
+  "ptr": 2036871,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089492
+   }
+  ],
+  "jp": "でいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1490",
+  "ptr": 2036880,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089500
+   }
+  ],
+  "jp": "あー！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1497",
+  "ptr": 2036887,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089508
+   }
+  ],
+  "jp": "はっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F149E",
+  "ptr": 2036894,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089516
+   }
+  ],
+  "jp": "はっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14A5",
+  "ptr": 2036901,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089524
+   }
+  ],
+  "jp": "はっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14AC",
+  "ptr": 2036908,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089532
+   }
+  ],
+  "jp": "はっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14B3",
+  "ptr": 2036915,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089540
+   }
+  ],
+  "jp": "はっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14BA",
+  "ptr": 2036922,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089548
+   }
+  ],
+  "jp": "はっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14C1",
+  "ptr": 2036929,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089556
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14CA",
+  "ptr": 2036938,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089564
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14D3",
+  "ptr": 2036947,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089572
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14DC",
+  "ptr": 2036956,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089580
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14E5",
+  "ptr": 2036965,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089588
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14EE",
+  "ptr": 2036974,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089596
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14F7",
+  "ptr": 2036983,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089604
+   }
+  ],
+  "jp": "はっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F14FE",
+  "ptr": 2036990,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089612
+   }
+  ],
+  "jp": "はっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1505",
+  "ptr": 2036997,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089620
+   }
+  ],
+  "jp": "はっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F150C",
+  "ptr": 2037004,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089628
+   }
+  ],
+  "jp": "はっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1513",
+  "ptr": 2037011,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089636
+   }
+  ],
+  "jp": "ウッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F151A",
+  "ptr": 2037018,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089644
+   }
+  ],
+  "jp": "でぇい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1523",
+  "ptr": 2037027,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089652
+   }
+  ],
+  "jp": "でぇい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F152C",
+  "ptr": 2037036,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089660
+   }
+  ],
+  "jp": "でぇい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1535",
+  "ptr": 2037045,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089668
+   }
+  ],
+  "jp": "でぇい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F153E",
+  "ptr": 2037054,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089676
+   }
+  ],
+  "jp": "……砕く。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1549",
+  "ptr": 2037065,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089684
+   }
+  ],
+  "jp": "とりゃー！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1554",
+  "ptr": 2037076,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089692
+   }
+  ],
+  "jp": "とりゃー！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F155F",
+  "ptr": 2037087,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089700
+   }
+  ],
+  "jp": "とりゃー！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F156A",
+  "ptr": 2037098,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089708
+   }
+  ],
+  "jp": "とりゃー！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1575",
+  "ptr": 2037109,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089716
+   }
+  ],
+  "jp": "とりゃー！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1580",
+  "ptr": 2037120,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089724
+   }
+  ],
+  "jp": "とりゃー！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F158B",
+  "ptr": 2037131,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089732
+   }
+  ],
+  "jp": "アアッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1594",
+  "ptr": 2037140,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089740
+   }
+  ],
+  "jp": "やーっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F159D",
+  "ptr": 2037149,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089748
+   }
+  ],
+  "jp": "やーっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15A6",
+  "ptr": 2037158,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089756
+   }
+  ],
+  "jp": "やーっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15AF",
+  "ptr": 2037167,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089764
+   }
+  ],
+  "jp": "やーっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15B8",
+  "ptr": 2037176,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089772
+   }
+  ],
+  "jp": "やーっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15C1",
+  "ptr": 2037185,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089780
+   }
+  ],
+  "jp": "やーっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15CA",
+  "ptr": 2037194,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089788
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15D3",
+  "ptr": 2037203,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089796
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15DC",
+  "ptr": 2037212,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089804
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15E5",
+  "ptr": 2037221,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089812
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15EE",
+  "ptr": 2037230,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089820
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15F7",
+  "ptr": 2037239,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089828
+   }
+  ],
+  "jp": "あっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F15FE",
+  "ptr": 2037246,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089836
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1607",
+  "ptr": 2037255,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089844
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1610",
+  "ptr": 2037264,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089852
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1619",
+  "ptr": 2037273,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089860
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1622",
+  "ptr": 2037282,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089868
+   }
+  ],
+  "jp": "ここか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F162B",
+  "ptr": 2037291,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089876
+   }
+  ],
+  "jp": "ここか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1634",
+  "ptr": 2037300,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089884
+   }
+  ],
+  "jp": "ここか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F163D",
+  "ptr": 2037309,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089892
+   }
+  ],
+  "jp": "ここか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1646",
+  "ptr": 2037318,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089900
+   }
+  ],
+  "jp": "ここか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F164F",
+  "ptr": 2037327,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089908
+   }
+  ],
+  "jp": "ケィッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1658",
+  "ptr": 2037336,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089916
+   }
+  ],
+  "jp": "ケーイッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1663",
+  "ptr": 2037347,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089924
+   }
+  ],
+  "jp": "カー、カァッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1672",
+  "ptr": 2037362,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089932
+   }
+  ],
+  "jp": "グァ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1679",
+  "ptr": 2037369,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089940
+   }
+  ],
+  "jp": "ギェエ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1682",
+  "ptr": 2037378,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089948
+   }
+  ],
+  "jp": "ギ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1687",
+  "ptr": 2037383,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089956
+   }
+  ],
+  "jp": "どうっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1690",
+  "ptr": 2037392,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089964
+   }
+  ],
+  "jp": "らあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1699",
+  "ptr": 2037401,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089972
+   }
+  ],
+  "jp": "それっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F16A2",
+  "ptr": 2037410,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089980
+   }
+  ],
+  "jp": "これでどう③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F16AF",
+  "ptr": 2037423,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089988
+   }
+  ],
+  "jp": "えへへ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F16B8",
+  "ptr": 2037432,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2089996
+   }
+  ],
+  "jp": "そこか②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F16C1",
+  "ptr": 2037441,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090004
+   }
+  ],
+  "jp": "負けるか②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F16CC",
+  "ptr": 2037452,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090012
+   }
+  ],
+  "jp": "吹っ飛べぇ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F16D9",
+  "ptr": 2037465,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090020
+   }
+  ],
+  "jp": "せいっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F16E2",
+  "ptr": 2037474,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090028
+   }
+  ],
+  "jp": "今だ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F16E9",
+  "ptr": 2037481,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090036
+   }
+  ],
+  "jp": "なんでだよ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F16F6",
+  "ptr": 2037494,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090044
+   }
+  ],
+  "jp": "喰らえ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F16FF",
+  "ptr": 2037503,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090052
+   }
+  ],
+  "jp": "許せん②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1708",
+  "ptr": 2037512,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090060
+   }
+  ],
+  "jp": "甘いわ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1711",
+  "ptr": 2037521,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090068
+   }
+  ],
+  "jp": "隙あり！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F171A",
+  "ptr": 2037530,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090076
+   }
+  ],
+  "jp": "今だ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1721",
+  "ptr": 2037537,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090084
+   }
+  ],
+  "jp": "そこっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F172A",
+  "ptr": 2037546,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090092
+   }
+  ],
+  "jp": "来ないで②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1735",
+  "ptr": 2037557,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090100
+   }
+  ],
+  "jp": "そこだっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1740",
+  "ptr": 2037568,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090108
+   }
+  ],
+  "jp": "とう②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1747",
+  "ptr": 2037575,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090116
+   }
+  ],
+  "jp": "があっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1750",
+  "ptr": 2037584,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090124
+   }
+  ],
+  "jp": "今だ…②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1759",
+  "ptr": 2037593,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090132
+   }
+  ],
+  "jp": "せいっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1762",
+  "ptr": 2037602,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090140
+   }
+  ],
+  "jp": "今だ…②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F176B",
+  "ptr": 2037611,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090148
+   }
+  ],
+  "jp": "それそれーっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F177A",
+  "ptr": 2037626,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090156
+   }
+  ],
+  "jp": "気持ちいい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1787",
+  "ptr": 2037639,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090164
+   }
+  ],
+  "jp": "たあっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1790",
+  "ptr": 2037648,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090172
+   }
+  ],
+  "jp": "はっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1797",
+  "ptr": 2037655,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090180
+   }
+  ],
+  "jp": "倒れなさい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F17A4",
+  "ptr": 2037668,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090188
+   }
+  ],
+  "jp": "潰す！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F17AB",
+  "ptr": 2037675,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090196
+   }
+  ],
+  "jp": "せぃやあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F17B8",
+  "ptr": 2037688,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090204
+   }
+  ],
+  "jp": "そこだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F17C1",
+  "ptr": 2037697,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090212
+   }
+  ],
+  "jp": "シャッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F17CA",
+  "ptr": 2037706,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090220
+   }
+  ],
+  "jp": "はあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F17D3",
+  "ptr": 2037715,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090228
+   }
+  ],
+  "jp": "失せなさい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F17E0",
+  "ptr": 2037728,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090236
+   }
+  ],
+  "jp": "ヤァッ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F17E9",
+  "ptr": 2037737,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090244
+   }
+  ],
+  "jp": "シャッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F17F2",
+  "ptr": 2037746,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090252
+   }
+  ],
+  "jp": "そこかっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F17FD",
+  "ptr": 2037757,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090260
+   }
+  ],
+  "jp": "えいやっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1808",
+  "ptr": 2037768,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090268
+   }
+  ],
+  "jp": "ほおっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1811",
+  "ptr": 2037777,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090276
+   }
+  ],
+  "jp": "おらぁ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F181A",
+  "ptr": 2037786,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090284
+   }
+  ],
+  "jp": "ずどどどど②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1827",
+  "ptr": 2037799,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090292
+   }
+  ],
+  "jp": "うがーッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1832",
+  "ptr": 2037810,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090300
+   }
+  ],
+  "jp": "それでよろしくって？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1847",
+  "ptr": 2037831,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090308
+   }
+  ],
+  "jp": "だあっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1850",
+  "ptr": 2037840,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090316
+   }
+  ],
+  "jp": "ぜいっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1859",
+  "ptr": 2037849,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090324
+   }
+  ],
+  "jp": "消えよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1862",
+  "ptr": 2037858,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090332
+   }
+  ],
+  "jp": "でぇーい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F186D",
+  "ptr": 2037869,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090340
+   }
+  ],
+  "jp": "うりゃあ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1878",
+  "ptr": 2037880,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090348
+   }
+  ],
+  "jp": "このぉー②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1883",
+  "ptr": 2037891,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090356
+   }
+  ],
+  "jp": "はっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F188A",
+  "ptr": 2037898,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090364
+   }
+  ],
+  "jp": "でいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1893",
+  "ptr": 2037907,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090372
+   }
+  ],
+  "jp": "はあっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F189C",
+  "ptr": 2037916,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090380
+   }
+  ],
+  "jp": "とう②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18A3",
+  "ptr": 2037923,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090388
+   }
+  ],
+  "jp": "とう②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18AA",
+  "ptr": 2037930,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090396
+   }
+  ],
+  "jp": "とう②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18B1",
+  "ptr": 2037937,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090404
+   }
+  ],
+  "jp": "とう②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18B8",
+  "ptr": 2037944,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090412
+   }
+  ],
+  "jp": "とう②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18BF",
+  "ptr": 2037951,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090420
+   }
+  ],
+  "jp": "とう②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18C6",
+  "ptr": 2037958,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090428
+   }
+  ],
+  "jp": "ふわぁ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18CF",
+  "ptr": 2037967,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090436
+   }
+  ],
+  "jp": "たあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18D8",
+  "ptr": 2037976,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090444
+   }
+  ],
+  "jp": "たあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18E1",
+  "ptr": 2037985,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090452
+   }
+  ],
+  "jp": "たあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18EA",
+  "ptr": 2037994,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090460
+   }
+  ],
+  "jp": "たあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18F3",
+  "ptr": 2038003,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090468
+   }
+  ],
+  "jp": "たあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F18FC",
+  "ptr": 2038012,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090476
+   }
+  ],
+  "jp": "たあっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1905",
+  "ptr": 2038021,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090484
+   }
+  ],
+  "jp": "フン②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F190C",
+  "ptr": 2038028,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090492
+   }
+  ],
+  "jp": "フン②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1913",
+  "ptr": 2038035,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090500
+   }
+  ],
+  "jp": "フン②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F191A",
+  "ptr": 2038042,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090508
+   }
+  ],
+  "jp": "フン②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1921",
+  "ptr": 2038049,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090516
+   }
+  ],
+  "jp": "フン②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1928",
+  "ptr": 2038056,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090524
+   }
+  ],
+  "jp": "フン②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F192F",
+  "ptr": 2038063,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090532
+   }
+  ],
+  "jp": "やあっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1938",
+  "ptr": 2038072,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090540
+   }
+  ],
+  "jp": "やあっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1941",
+  "ptr": 2038081,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090548
+   }
+  ],
+  "jp": "やあっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F194A",
+  "ptr": 2038090,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090556
+   }
+  ],
+  "jp": "やあっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1953",
+  "ptr": 2038099,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090564
+   }
+  ],
+  "jp": "ウアッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F195C",
+  "ptr": 2038108,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090572
+   }
+  ],
+  "jp": "そらぁ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1965",
+  "ptr": 2038117,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090580
+   }
+  ],
+  "jp": "そらぁ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F196E",
+  "ptr": 2038126,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090588
+   }
+  ],
+  "jp": "そらぁ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1977",
+  "ptr": 2038135,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090596
+   }
+  ],
+  "jp": "そらぁ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1980",
+  "ptr": 2038144,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090604
+   }
+  ],
+  "jp": "……破る。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F198B",
+  "ptr": 2038155,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090612
+   }
+  ],
+  "jp": "行くよっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1996",
+  "ptr": 2038166,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090620
+   }
+  ],
+  "jp": "行くよっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F19A1",
+  "ptr": 2038177,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090628
+   }
+  ],
+  "jp": "行くよっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F19AC",
+  "ptr": 2038188,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090636
+   }
+  ],
+  "jp": "行くよっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F19B7",
+  "ptr": 2038199,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090644
+   }
+  ],
+  "jp": "行くよっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F19C2",
+  "ptr": 2038210,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090652
+   }
+  ],
+  "jp": "行くよっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F19CD",
+  "ptr": 2038221,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090660
+   }
+  ],
+  "jp": "ウウアッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F19D8",
+  "ptr": 2038232,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090668
+   }
+  ],
+  "jp": "そこか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F19E1",
+  "ptr": 2038241,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090676
+   }
+  ],
+  "jp": "そこか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F19EA",
+  "ptr": 2038250,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090684
+   }
+  ],
+  "jp": "そこか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F19F3",
+  "ptr": 2038259,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090692
+   }
+  ],
+  "jp": "そこか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F19FC",
+  "ptr": 2038268,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090700
+   }
+  ],
+  "jp": "そこか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A05",
+  "ptr": 2038277,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090708
+   }
+  ],
+  "jp": "そこか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A0E",
+  "ptr": 2038286,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090716
+   }
+  ],
+  "jp": "逃がすか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A19",
+  "ptr": 2038297,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090724
+   }
+  ],
+  "jp": "逃がすか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A24",
+  "ptr": 2038308,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090732
+   }
+  ],
+  "jp": "逃がすか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A2F",
+  "ptr": 2038319,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090740
+   }
+  ],
+  "jp": "逃がすか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A3A",
+  "ptr": 2038330,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090748
+   }
+  ],
+  "jp": "逃がすか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A45",
+  "ptr": 2038341,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090756
+   }
+  ],
+  "jp": "滅殺っ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A4E",
+  "ptr": 2038350,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090764
+   }
+  ],
+  "jp": "怨②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A53",
+  "ptr": 2038355,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090772
+   }
+  ],
+  "jp": "怨②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A58",
+  "ptr": 2038360,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090780
+   }
+  ],
+  "jp": "怨②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A5D",
+  "ptr": 2038365,
+  "bytes": 5,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090788
+   }
+  ],
+  "jp": "怨②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A62",
+  "ptr": 2038370,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090796
+   }
+  ],
+  "jp": "よっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A69",
+  "ptr": 2038377,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090804
+   }
+  ],
+  "jp": "よっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A70",
+  "ptr": 2038384,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090812
+   }
+  ],
+  "jp": "よっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A77",
+  "ptr": 2038391,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090820
+   }
+  ],
+  "jp": "よっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A7E",
+  "ptr": 2038398,
+  "bytes": 7,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090828
+   }
+  ],
+  "jp": "よっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A85",
+  "ptr": 2038405,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090836
+   }
+  ],
+  "jp": "ケケッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1A8E",
+  "ptr": 2038414,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090844
+   }
+  ],
+  "jp": "ケケケケっ、ケッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1AA1",
+  "ptr": 2038433,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090852
+   }
+  ],
+  "jp": "カッカッ、カァー②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1AB4",
+  "ptr": 2038452,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090860
+   }
+  ],
+  "jp": "グガオォーッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1AC3",
+  "ptr": 2038467,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090868
+   }
+  ],
+  "jp": "ギェギェーイッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1AD4",
+  "ptr": 2038484,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090876
+   }
+  ],
+  "jp": "ギギギッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1ADF",
+  "ptr": 2038495,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090884
+   }
+  ],
+  "jp": "させん！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1AE8",
+  "ptr": 2038504,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090892
+   }
+  ],
+  "jp": "シュッ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1AF1",
+  "ptr": 2038513,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090900
+   }
+  ],
+  "jp": "えいっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1AFA",
+  "ptr": 2038522,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090908
+   }
+  ],
+  "jp": "はあっ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B03",
+  "ptr": 2038531,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090916
+   }
+  ],
+  "jp": "どうだぁ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B0E",
+  "ptr": 2038542,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090924
+   }
+  ],
+  "jp": "決めてやるぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B1D",
+  "ptr": 2038557,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090932
+   }
+  ],
+  "jp": "血が熱いぜ……！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B2E",
+  "ptr": 2038574,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090940
+   }
+  ],
+  "jp": "この力で…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B3B",
+  "ptr": 2038587,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090948
+   }
+  ],
+  "jp": "押し通る！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B46",
+  "ptr": 2038598,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090956
+   }
+  ],
+  "jp": "よく見ておけよ…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B59",
+  "ptr": 2038617,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090964
+   }
+  ],
+  "jp": "せめてこの手で…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B6A",
+  "ptr": 2038634,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090972
+   }
+  ],
+  "jp": "抗ってみせろ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B79",
+  "ptr": 2038649,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090980
+   }
+  ],
+  "jp": "この力で……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B86",
+  "ptr": 2038662,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090988
+   }
+  ],
+  "jp": "さあさあ、行くわよ～！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1B9D",
+  "ptr": 2038685,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2090996
+   }
+  ],
+  "jp": "これで、決まって！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1BB0",
+  "ptr": 2038704,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091004
+   }
+  ],
+  "jp": "覚悟してよね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1BBF",
+  "ptr": 2038719,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091012
+   }
+  ],
+  "jp": "……本気で行くから！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1BD4",
+  "ptr": 2038740,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091020
+   }
+  ],
+  "jp": "ねえ、ウソだって言ってよ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1BEF",
+  "ptr": 2038767,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091028
+   }
+  ],
+  "jp": "負けるもんかっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1C00",
+  "ptr": 2038784,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091036
+   }
+  ],
+  "jp": "ここが勝機と見たよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1C15",
+  "ptr": 2038805,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091044
+   }
+  ],
+  "jp": "すべてを……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1C22",
+  "ptr": 2038818,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091052
+   }
+  ],
+  "jp": "全力だ、覚悟しろッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1C37",
+  "ptr": 2038839,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091060
+   }
+  ],
+  "jp": "これを使うなんて…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1C4A",
+  "ptr": 2038858,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091068
+   }
+  ],
+  "jp": "あたし、決めたのよ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1C61",
+  "ptr": 2038881,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091076
+   }
+  ],
+  "jp": "負けるもんかー②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1C72",
+  "ptr": 2038898,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091084
+   }
+  ],
+  "jp": "あはははは②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1C7F",
+  "ptr": 2038911,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091092
+   }
+  ],
+  "jp": "駆け抜けてみせます！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1C94",
+  "ptr": 2038932,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091100
+   }
+  ],
+  "jp": "姉さん、力を貸して…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1CAB",
+  "ptr": 2038955,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091108
+   }
+  ],
+  "jp": "きゃははは！　覚悟なさい②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1CC6",
+  "ptr": 2038982,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091116
+   }
+  ],
+  "jp": "死に晒せェ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1CD3",
+  "ptr": 2038995,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091124
+   }
+  ],
+  "jp": "盾として、倒れはしない！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1CEC",
+  "ptr": 2039020,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091132
+   }
+  ],
+  "jp": "命など、くれてやる……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1D03",
+  "ptr": 2039043,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091140
+   }
+  ],
+  "jp": "痛みを知れ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1D12",
+  "ptr": 2039058,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091148
+   }
+  ],
+  "jp": "見せてあげましょう！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1D27",
+  "ptr": 2039079,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091156
+   }
+  ],
+  "jp": "終わりにしましょう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1D3C",
+  "ptr": 2039100,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091164
+   }
+  ],
+  "jp": "言の葉の力を借りましょう……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1D59",
+  "ptr": 2039129,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091172
+   }
+  ],
+  "jp": "覚悟……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1D62",
+  "ptr": 2039138,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091180
+   }
+  ],
+  "jp": "こいつでオサラバだぜっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1D7B",
+  "ptr": 2039163,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091188
+   }
+  ],
+  "jp": "歯ぁ食いしばれ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1D8D",
+  "ptr": 2039181,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091204
+   }
+  ],
+  "jp": "お仕置きの時間だ……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1DA2",
+  "ptr": 2039202,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091212
+   }
+  ],
+  "jp": "れでぃーす＆じぇんとるめん！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1DBF",
+  "ptr": 2039231,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091220
+   }
+  ],
+  "jp": "ぐるるるるる…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1DD0",
+  "ptr": 2039248,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091228
+   }
+  ],
+  "jp": "ソロパートに入りますわ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1DE9",
+  "ptr": 2039273,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091236
+   }
+  ],
+  "jp": "見せてやろう…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1DFA",
+  "ptr": 2039290,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091244
+   }
+  ],
+  "jp": "聖剣よ、我が道を示せ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1E11",
+  "ptr": 2039313,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091252
+   }
+  ],
+  "jp": "今こそ裁きの時！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1E22",
+  "ptr": 2039330,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091260
+   }
+  ],
+  "jp": "泥にまみれなっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1E33",
+  "ptr": 2039347,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091268
+   }
+  ],
+  "jp": "勝負はこれからだっつーの！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1E4E",
+  "ptr": 2039374,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091276
+   }
+  ],
+  "jp": "超絶・本気タ～イム②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1E63",
+  "ptr": 2039395,
+  "bytes": 29,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091284
+   }
+  ],
+  "jp": "このままでは終われない……！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1E80",
+  "ptr": 2039424,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091292
+   }
+  ],
+  "jp": "決めてやるぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1E8F",
+  "ptr": 2039439,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091300
+   }
+  ],
+  "jp": "海の声が聞こえる…、ヒック",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1EAA",
+  "ptr": 2039466,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091308
+   }
+  ],
+  "jp": "突き崩す！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1EB5",
+  "ptr": 2039477,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091316
+   }
+  ],
+  "jp": "やってやるぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1EC4",
+  "ptr": 2039492,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091324
+   }
+  ],
+  "jp": "天よ、我に力を②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1ED5",
+  "ptr": 2039509,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091332
+   }
+  ],
+  "jp": "一気に攻めるぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1EE6",
+  "ptr": 2039526,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091340
+   }
+  ],
+  "jp": "もう許さない！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1EF5",
+  "ptr": 2039541,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091348
+   }
+  ],
+  "jp": "これでどうだぁ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1F07",
+  "ptr": 2039559,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091364
+   }
+  ],
+  "jp": "力を解放する！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1F16",
+  "ptr": 2039574,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091372
+   }
+  ],
+  "jp": "行くわよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1F21",
+  "ptr": 2039585,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091380
+   }
+  ],
+  "jp": "力を感じる…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1F30",
+  "ptr": 2039600,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091388
+   }
+  ],
+  "jp": "耐え切れるかしら？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1F43",
+  "ptr": 2039619,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091396
+   }
+  ],
+  "jp": "止めてみせる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1F52",
+  "ptr": 2039634,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091404
+   }
+  ],
+  "jp": "見せてあげましょう！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1F67",
+  "ptr": 2039655,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091412
+   }
+  ],
+  "jp": "決めるぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1F72",
+  "ptr": 2039666,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091420
+   }
+  ],
+  "jp": "これならどうだ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1F83",
+  "ptr": 2039683,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091428
+   }
+  ],
+  "jp": "俺について来れるかな③",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1F9A",
+  "ptr": 2039706,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091436
+   }
+  ],
+  "jp": "もう許さないぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1FAB",
+  "ptr": 2039723,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091444
+   }
+  ],
+  "jp": "力を振り絞れ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1FBA",
+  "ptr": 2039738,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091452
+   }
+  ],
+  "jp": "全力で行くぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1FC9",
+  "ptr": 2039753,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091460
+   }
+  ],
+  "jp": "これで、決まりよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1FDC",
+  "ptr": 2039772,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091468
+   }
+  ],
+  "jp": "やってみる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1FE9",
+  "ptr": 2039785,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091476
+   }
+  ],
+  "jp": "力を貸してください！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F1FFE",
+  "ptr": 2039806,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091484
+   }
+  ],
+  "jp": "喰らいなさい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F200E",
+  "ptr": 2039822,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091500
+   }
+  ],
+  "jp": "これでも喰らいな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2021",
+  "ptr": 2039841,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091508
+   }
+  ],
+  "jp": "いい気分だぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2030",
+  "ptr": 2039856,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091516
+   }
+  ],
+  "jp": "へへへ、ヤルってことさ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2049",
+  "ptr": 2039881,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091524
+   }
+  ],
+  "jp": "おらおらおらぁ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F205B",
+  "ptr": 2039899,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091540
+   }
+  ],
+  "jp": "打ち負かしてやるから！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2072",
+  "ptr": 2039922,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091548
+   }
+  ],
+  "jp": "もう怒ったわよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2083",
+  "ptr": 2039939,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091556
+   }
+  ],
+  "jp": "殺してやるから…②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2096",
+  "ptr": 2039958,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091564
+   }
+  ],
+  "jp": "消えちゃえ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F20A3",
+  "ptr": 2039971,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091572
+   }
+  ],
+  "jp": "切り抜けてみせる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F20B6",
+  "ptr": 2039990,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091580
+   }
+  ],
+  "jp": "本気を出すね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F20C6",
+  "ptr": 2040006,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091596
+   }
+  ],
+  "jp": "本気で行くぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F20D5",
+  "ptr": 2040021,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091604
+   }
+  ],
+  "jp": "決着と行くぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F20E4",
+  "ptr": 2040036,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091612
+   }
+  ],
+  "jp": "抗うな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F20ED",
+  "ptr": 2040045,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091620
+   }
+  ],
+  "jp": "ここからが大仕事だぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2104",
+  "ptr": 2040068,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091628
+   }
+  ],
+  "jp": "状況を覆す！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2111",
+  "ptr": 2040081,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091636
+   }
+  ],
+  "jp": "これを使えば…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2122",
+  "ptr": 2040098,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091644
+   }
+  ],
+  "jp": "無駄な抵抗はよせ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2135",
+  "ptr": 2040117,
+  "bytes": 11,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091652
+   }
+  ],
+  "jp": "ここで…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2140",
+  "ptr": 2040128,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091660
+   }
+  ],
+  "jp": "行くぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2149",
+  "ptr": 2040137,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091668
+   }
+  ],
+  "jp": "悪いな。仕事なんだ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F215E",
+  "ptr": 2040158,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091676
+   }
+  ],
+  "jp": "喰らえ。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2168",
+  "ptr": 2040168,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091692
+   }
+  ],
+  "jp": "私を怒らせたな？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2179",
+  "ptr": 2040185,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091700
+   }
+  ],
+  "jp": "時は来たり！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2186",
+  "ptr": 2040198,
+  "bytes": 9,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091708
+   }
+  ],
+  "jp": "失せよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F218F",
+  "ptr": 2040207,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091716
+   }
+  ],
+  "jp": "死にも勝る苦痛を…！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F21A4",
+  "ptr": 2040228,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091724
+   }
+  ],
+  "jp": "遊びは終わりよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F21B5",
+  "ptr": 2040245,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091732
+   }
+  ],
+  "jp": "ぶっ放すわよぉ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F21C6",
+  "ptr": 2040262,
+  "bytes": 13,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091740
+   }
+  ],
+  "jp": "切り札発動！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F21D3",
+  "ptr": 2040275,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091748
+   }
+  ],
+  "jp": "本気を見せるわ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F21E4",
+  "ptr": 2040292,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091756
+   }
+  ],
+  "jp": "これでどうかしら？",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F21F7",
+  "ptr": 2040311,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091764
+   }
+  ],
+  "jp": "ケケ、ケケケッ、ケケッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2210",
+  "ptr": 2040336,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091772
+   }
+  ],
+  "jp": "ケケ、ケケケッ、ケケッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2229",
+  "ptr": 2040361,
+  "bytes": 25,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091780
+   }
+  ],
+  "jp": "ケケ、ケケケッ、ケケッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2242",
+  "ptr": 2040386,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091788
+   }
+  ],
+  "jp": "ゴォガァアア②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2251",
+  "ptr": 2040401,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091796
+   }
+  ],
+  "jp": "ゴォガァアア②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2260",
+  "ptr": 2040416,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091804
+   }
+  ],
+  "jp": "ゴォガァアア②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F226F",
+  "ptr": 2040431,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091812
+   }
+  ],
+  "jp": "息の根を止めてやる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2285",
+  "ptr": 2040453,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091828
+   }
+  ],
+  "jp": "コレは痛いよ～！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2296",
+  "ptr": 2040470,
+  "bytes": 23,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091836
+   }
+  ],
+  "jp": "本気、出すんだからね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F22AD",
+  "ptr": 2040493,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091844
+   }
+  ],
+  "jp": "ここからが本番よ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F22C0",
+  "ptr": 2040512,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091852
+   }
+  ],
+  "jp": "どうした？　止めてみろよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F22DB",
+  "ptr": 2040539,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091860
+   }
+  ],
+  "jp": "どうした？　止めてみろよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F22F6",
+  "ptr": 2040566,
+  "bytes": 21,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091868
+   }
+  ],
+  "jp": "ここからが正念場だ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F230B",
+  "ptr": 2040587,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091876
+   }
+  ],
+  "jp": "これが俺達の力だ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F231E",
+  "ptr": 2040606,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091884
+   }
+  ],
+  "jp": "これが俺達の力だ②",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2331",
+  "ptr": 2040625,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2091892
+   }
+  ],
+  "jp": "もういいだろっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2342",
+  "ptr": 2040642,
+  "bytes": 17,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2092044
+   }
+  ],
+  "jp": "トドメと行くか。",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F2353",
+  "ptr": 2040659,
+  "bytes": 27,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2092052
+   }
+  ],
+  "jp": "この勢い、勝利へと繋げる！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F236E",
+  "ptr": 2040686,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2092340
+   }
+  ],
+  "jp": "今こそ勝機だ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F237D",
+  "ptr": 2040701,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2092348
+   }
+  ],
+  "jp": "脆いものだな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F238C",
+  "ptr": 2040716,
+  "bytes": 15,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2092356
+   }
+  ],
+  "jp": "誰も遮れまい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F239B",
+  "ptr": 2040731,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2092364
+   }
+  ],
+  "jp": "全力で押し切るぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F23AE",
+  "ptr": 2040750,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2092372
+   }
+  ],
+  "jp": "全力で押し切るぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F23C1",
+  "ptr": 2040769,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2092380
+   }
+  ],
+  "jp": "ここから踏み潰す！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "eboot_1F23D4",
+  "ptr": 2040788,
+  "bytes": 19,
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2092996
+   }
+  ],
+  "jp": "血と涙を流すのだ！",
+  "en": "",
+  "status": ""
+ }
+]

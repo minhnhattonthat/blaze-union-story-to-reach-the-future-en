@@ -50,23 +50,47 @@ Inventory tools: `tools/survey.py`, `tools/textscan.py`, `tools/grepjp.py`.
 (`tools/grepjp.py`), so they are images, as is the chapter title card seen in-game (義賊団参上! / ティエラ・ネザー地区西).
 Their files are in the survey in `graphics.md`.
 
-## Event script format (file 2149 traced; layout checked on all 57)
+## Event script format (verified on all 57 by `tools/evscript.py`, `tests/test_extract.py`)
 
-- u32[0] == file size - 0x14 (**verified** on all 57). 10 u32 header ends at 0x28; u32[1..9] are bytecode entry points. The stage record's entry number indexes a different table: 5 u32 at file + u32[0], read by 0xFA1A0 (**verified**: it is what makes 1_05_B and 1_05_C fail, `debug.md`).
-- Messages: NUL-terminated strings packed from 0x28. They end where bytecode starts, which is **before** u32[1]
-  (2149: messages to about 0x920, u32[1] = 0x9F5). `tools/evscript.py text_entries()` still uses u32[1] and overruns
-  into bytecode: fix before extraction.
-- Bytecode: `[op u8, len u8, args]`, len includes both, with exceptions: ops 0x52 and 0x53 (`52 02`) are followed by
-  an inline table of u32 targets, and data seems to sit between some ops. `walk_ops` stops early in all 57 files, so
-  the walk is **incomplete**.
-- **Jumps are absolute file offsets**, e.g. `05 06 <u32>`, `10 07 f8 <u32>`, `13 09 .. <u32>`, `07 07 00 <u32>`.
-- **A message reference is `46 07 00 <u32 file offset>`** (**verified**: read breakpoint on message 0x28 fired with VM
-  IP at file 0xBE5, where `46 07 00 28 00 00 00` sits; in 2149, 43 of the operands equal to a message start belong to
-  op 0x46, and a handful of other hits are chance matches).
+- u32[0] == file size - 0x14, the offset of 5 u32. Each names a group of 9 entry points by its offset (0 = none); the first
+  is usually 4, the rest of the 10-u32 header, and other groups sit between code blocks. The stage record's entry number
+  picks from these (read by 0xFA1A0; it is what makes 1_05_B and 1_05_C fail, `debug.md`).
+- Handler table: EBOOT 0x2AEDB8 + op * 4, called as (vm, op + 2) from 0xFAAF4. Returning 1 advances IP by the length byte.
+- Bytecode: `[op u8, len u8, args]`, with these exceptions, all read from the handlers:
+
+| Op | Form | Flow |
+|---|---|---|
+| 01, 03 | `01 02` | ends the thread |
+| 05 | `05 06 <u32>` | goto |
+| 06 | `06 02` | return |
+| 07 | `07 07 00 <u32>` call; `07 04 xx yy` other forms by mode | falls through |
+| 08 | `08 len <u16 var> <u32 table>` | jump by a value, no fall through |
+| 09 | `09 len var count <u32 x count>` | jump if var < count, else past the table |
+| 0A | `0A len var <u32 true> <u32 false>` | no fall through |
+| 52, 53 | `52 02 <u32 table>`, indexed by a game variable | no fall through. The table's length isn't stored: it ends where the lowest forward target starts |
+| 10 11 13-16 1D 1E 90 91 DD DF EA F0 FC | condition, then `<u32>` as the last 4 bytes (handlers call 0xFF778) | conditional jump |
+| 74 | `74 len idx <NUL-terminated string>` | **inline text**, IP moves past it (handler 0x108D5C). 199 of these, unit or army names: 2 to 5 per file |
+
+- Jumps are absolute file offsets (`IP = base + u32`, 0xFF778).
+- **A message reference is `46 07 00 <u32 file offset>`** (**verified** by breakpoint on 0x28, and by the walk: all
+  12,000+ land on strings). Other 0x46 forms (`46 05 02 ..`, `46 03 03`) take no string. A reference can start partway
+  through a longer message (2182 0x1E10): that gets its own record.
+- Layout: blocks of messages and code alternate through the file; every message block is reached only through the walk. The
+  walk reaches about 2.3 MB of ops. What it can't reach: 6.7 KB of op-shaped dead code, read for references too, 0x90
+  padding, a few small data tables, referenced by `62 08 .. <u32>` (unit lists, no text).
+- 170 strings across scripts and FCT 3/15 have no reference in any form tried (u32 anywhere in the file, low bytes in any
+  operand). Most read as real dialogue, kind `unref`: cut lines, or a form not found. Translate them anyway. The marker
+  build will show if any is drawn.
+
+**FCT 3/15 children** are the same VM: u32[0] = table size, then entry u32s (children 0-5, 9, 10); child 8 has u32[0] =
+offset of a zero-ended entry list; 006 and 007 are bare strings (who indexes them, and how, isn't known: phase 5). Child
+005 is 196 KB of code with no text; the walk covers all of it, which is good evidence for the opcode table above.
 
 **Insert plan (guess until phase 5):** leave code in place, append English messages at the end of the file, repoint
-each op 0x46 operand. No jump changes. This needs a clean list of 0x46 sites, u32[0] updated, and a test that the longer
-file fits the load buffer. Scene 1 loads at RAM 0x08B8A364; the buffer's size is unknown.
+each op 0x46 operand (`slots` in `script/event_*.json`). No jump changes. This needs u32[0] and its 20-byte table moved or
+left at the end, and a test that the longer file fits the load buffer. Scene 1 loads at RAM 0x08B8A364; the buffer's size
+is unknown. **Inline 0x74 names can't grow without moving code:** fit them in their bytes, or reassemble (the walk knows
+every jump, so it is possible).
 
 ## Printer (`vaddr 0x9E8DC`, **verified** by read breakpoints on message bytes; codes read from disassembly)
 
@@ -104,12 +128,33 @@ Charset file: u32 offset of a bucket table, then u16 Shift-JIS codes, zero-termi
 = position in the list. The 8x8 ASCII sheet (font 0) has not been located, and which font id dialogue uses is not
 confirmed (the 20 in a printer argument is a hint, not proof).
 
+## Extraction (`tools/extract.py`, `script/*.json`, `tests/test_extract.py`)
+
+Files: `event_<id>` (57), `fct3_15_NNN` (11), `eboot_XX` (one per 64K of vaddr, XX = vaddr >> 16), `fct1_0`. A record: `id`,
+`ptr` (file offset, or vaddr = `work/exe/code.bin` offset in the EBOOT), `bytes` (with NUL), `kind`, `slots`, `jp`, `en`,
+`status`. Control codes in `jp`: `{n}` 01, `{voice:3 bytes}` 02, `{sub:1}` 03, `{sub16:2}` 04, `[XX]` for a byte Shift-JIS
+can't hold.
+
+| Kind | Meaning | Translate |
+|---|---|---|
+| `msg` | Referenced string. Script slots = operand offsets of op 46; EBOOT slots = `{word}` or `{hi, lo}` | yes |
+| `inline` | Op 74 text, slot = op offset. Limited to its bytes for now | yes |
+| `bare` | FCT 3/15 children 006, 007: reached by unknown means | yes |
+| `unref` | Reads as text, no reference found | yes |
+| `data` | Decodes as Shift-JIS but isn't text: garbage pointer targets; FCT 1/0 effect names (undrawn so far) | no |
+| `debug` | CRI middleware and printf messages with ASCII newlines: the printer can't draw these | no |
+
+`data` was filtered by heuristic (half-width kana, stray codes, rare kanji mixed with ASCII; `looks_text`), and the marker
+build is the check on it: a real line tagged `data` shows up as Japanese.
+
+**Not in `script/`:** `PARAM.SFO` title (needs `sfo.py`, one string) and text drawn as graphics (`graphics.md`).
+
 ## EBOOT strings and free space
 
-- Strings sit on 4-aligned starts, NUL-terminated, with 0x01 newlines. Pointer tables hold raw vaddrs in segment 0
-  (**verified** for 3 strings: ジルヴァ 0x2596E4 at table 0x2ADF24, 武器職人 0x25A0BC at 0x2AE7C4, 巨獣ロコンの骨 0x234D70 at
-  0x28C9A0). The relocation table rebases them at load, so repointing inside segment 0 needs no relocation change
-  (guess). A string may also be built by `lui`/`addiu` in code: check with `disasm.py xref` before moving it.
+- Strings sit on 4-aligned starts, NUL-terminated, with 0x01 newlines. The ELF keeps its section headers and `.rel.*`
+  tables (type 0x700000A0: u32 offset, u32 info; type 2 word, 5/6 hi/lo pairs), so every pointer to a string is known:
+  no scanning for them, and repointing a `word` needs no relocation change (guess). Code `lui`/`addiu` pairs are in `slots`.
+  A pointer can come from a struct field or table reached at run time; those still appear as relocations.
 - Segment 0: vaddr 0, 2,882,720 bytes, no slack known. Segment 1: vaddr 0x2BFCA0, 516 bytes in file, 668,284 in memory.
   Some `lui` immediates look segment-1-relative: one attempt (0x8B130 + 0x2BFCA0 + 0x8804000) read zeros, so this is
   **unresolved**.
@@ -134,7 +179,7 @@ confirmed (the 20 in a printer argument is a hint, not proof).
 
 ## Open items for later phases
 
-1. Complete bytecode walk (op 0x52/0x53 tables, data gaps), so the 0x46 list is provably complete.
-2. Which font id dialogue, speaker names and menus use. Location of the 8x8 sheet.
-3. Script load buffer size. Record-buffer capacity in the printer.
-4. Speaker name source (恰幅のいい商人 on the first dialogue): the EBOOT unit table, drawn with a large italic face.
+1. Which font id dialogue, speaker names and menus use. Location of the 8x8 sheet.
+2. Script load buffer size. Record-buffer capacity in the printer.
+3. Speaker name source (恰幅のいい商人 on the first dialogue): the EBOOT unit table, drawn with a large italic face.
+4. Who indexes FCT 3/15 children 006 and 007, and whether `unref` lines are ever drawn (marker build).

@@ -4,6 +4,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 
 ## Commands (run from repo root)
 - Unpack: `python -X utf8 tools/iso9660.py x "rom/Blaze Union - Story to Reach The Future (Japan).iso" work/iso` then `python -X utf8 tools/itoc.py x work/iso/PSP_GAME/USRDIR/Data/Data.cpk work/cpk` (~80 s)
+- Extract: `python -X utf8 tools/extract.py` -> `script/*.json` (`--force` re-dumps, keeping `en` and `status`)
 - Build:  `python -X utf8 tools/build.py` -> `build/blaze_union_en.iso` (checks the dump against `rom.sha1` first; edits plug in at `edits()`)
 - Check:  `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this). Hook: `git config core.hooksPath tools/hooks`
 - Smoke:  `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/blaze_union_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke`
