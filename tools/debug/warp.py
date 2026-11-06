@@ -40,11 +40,73 @@ def run_to(self, f):
     self.ws.call("cpu.runUntilTime", us=target)
     self.ws.wait("cpu.stepping")
     now = self.ws.call("cpu.status")
+    while (JPLOG or PRINTLOG) and now["us"] < target - 100 and now["pc"] - BASE in (0x9EE28, 0x9E8DC, 0xA0C80):
+        (log_jp if JPLOG else log_print)(self, now["pc"] - BASE)
+        self.ws.events.clear()
+        self.ws.call("cpu.runUntilTime", us=target)
+        self.ws.wait("cpu.stepping")
+        now = self.ws.call("cpu.status")
     if now["clockHz"] != st["clockHz"]:
         self.base += now["us"] - round(now["ticks"] * 1e6 / st["clockHz"])
 
 
 psp.Run.run_to = run_to
+JPLOG = os.environ.get("BU_JPLOG")  # dir: log every Shift-JIS character the printer draws, per string, to find missed text
+_jp_seen = set()
+
+
+PRINTLOG = os.environ.get("BU_PRINTLOG")  # dir: log each (caller, string) the printer gets, with its window: the box survey
+
+
+def log_print(run, pc):
+    """Printer entry (0x9E8DC: a0 window, a1 col, a2 row, t0 font, t1 text, t3 typewriter) or typewriter start (0xA0C80: a0 window,
+    a1 text, a2 font). One line per (caller, text): caller, window x y cols rows cell sp, col, row, font, text address."""
+    r = run.ws.call("cpu.getAllRegs")["categories"][0]["uintValues"]
+    ra, win = (r[31] - BASE) & 0xFFFFFFFF, r[4]
+    if pc == 0x9E8DC:
+        if r[11]:  # a typewriter step: its start was logged
+            return
+        text, col, row, font = r[9], r[5], r[6], r[8]
+    else:
+        text, col, row, font = r[5], 0, 0, r[6]
+    if (ra, text) in _jp_seen:
+        return
+    _jp_seen.add((ra, text))
+    w = run.ws.mem(win, 0x20)
+    x, y = struct.unpack_from("<2h", w)
+    sp = struct.unpack_from("<2h", w, 8)
+    cols, rows = struct.unpack_from("<2h", w, 0x18)
+    Path(PRINTLOG).mkdir(parents=True, exist_ok=True)
+    with open(Path(PRINTLOG) / f"{os.getpid()}.tsv", "a", encoding="utf-8") as f:
+        s = run.ws.mem(text, 48).split(b"\0")[0].decode("cp932", "replace").replace("\t", " ").replace("\n", " ")
+        f.write(f"{ra:#x}\t{x}\t{y}\t{cols // 4}\t{rows}\t{sp[0]}\t{sp[1]}\t{col}\t{row}\t{font}\t{text:#x}\t{pc:#x}\t{s}\n")
+
+
+def log_jp(run, pc=None):
+    """At the printer's two-byte path, 0x9EE28: s0 is the byte after the lead byte. Log the whole string once."""
+    regs = run.ws.call("cpu.getAllRegs")["categories"][0]["uintValues"]
+    p = regs[16] - 1
+    d = run.ws.mem(p - 128, 256)
+    a = d.rfind(b"\0", 0, 128) + 1
+    b = d.find(b"\0", 128)
+    start = p - 128 + a
+    if start in _jp_seen:
+        return
+    _jp_seen.add(start)
+    Path(JPLOG).mkdir(parents=True, exist_ok=True)
+    with open(Path(JPLOG) / f"{os.getpid()}.txt", "a", encoding="utf-8") as f:
+        f.write(f"{start:#x}\t{regs[31] - BASE:#x}\t{d[a:b if b >= 0 else 256].decode('cp932', 'replace')}\n")
+
+
+if JPLOG or PRINTLOG:
+    _init = psp.Run.__init__
+
+    def _run_init(self, *a, **k):
+        _init(self, *a, **k)
+        for bp in (0x9EE28,) if JPLOG else (0x9E8DC, 0xA0C80):
+            self.ws.call("cpu.breakpoint.add", address=BASE + bp, enabled=True)
+
+    psp.Run.__init__ = _run_init
 
 
 class _Json:

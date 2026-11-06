@@ -76,6 +76,7 @@ few with no text.
 | Extras menu | 2700@90ff0, 2700@9c090, 2700@b11b0-b5320 (`ブレイズ戦記`, `キャライラスト`, `サウンドモード`, `アイテム図鑑`, `カード図鑑`), 2700 lists (s056) | ~6 | |
 | Sound-mode track names (`♪ 怒れる炎`) | 2702@494f0-5da30 (t007-t008) | ~60 | Some already English (`NanTuTTe`, `never`) |
 | Lists in s026 (1522@6e170) and small rows in 2137-2140 | s026, s050 | 2 | |
+| Found by the marker tour, not the printer, files not located yet: card list names and effect strip on Card Select (`シールドバリア`, `発動中、ダメージを受けない`, `使用条件`, `エースタイプが合えばOK!`), card_data's artist tag and MEMO (`■ 風魔サエザル`, `■自TEC≧敵GENで成功`), unit passives (`強攻撃ダメージ補正`, `グリフライダーに弱い`), the field panel's unit name | ? | ~300 | Same words exist as EBOOT records, so these may be drawn to a texture from text at run time: try a watch on the string first, then look for the atlas. Phase 8 lists them |
 | XMB background | `PSP_GAME/PIC1.PNG` | 1 | `タクティカル・ファンタジーRPG`, tagline, 3 lines of blurb. ICON0 has only the English logo |
 | Title logo katakana ruby (`ブレイズ・ユニオン`) above BLAZE UNION | file 4 (s005) | 1 | No official English version (D5): remove the ruby or keep, decide at phase 8 |
 | Opening movie `Movie/BU_OP.pmf` | disc | 1 | H.264, 480x272, 1:59. Sampled every 15 s: English subtitle, no Japanese. **Not checked frame by frame** |

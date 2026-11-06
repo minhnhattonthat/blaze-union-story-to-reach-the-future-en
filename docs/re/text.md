@@ -121,6 +121,8 @@ Variable-width English with no change to any glyph record's size:
 - **Extra font page.** Fonts 1 (20 px), 2 (18), 3 (24) each get one more PTP page holding 0x20-0x7F, drawn from `fonts/` with
   the sheets' own palette use (0 clear, 1 black outline, 2-14 grey to white). Glyph index = pages * per-page + char - 0x20. ASCII
   in these fonts goes straight there: no full-width lookup, no `!?`, `Lv`, `r.` ligatures. Shift-JIS keeps working.
+- **Font 4 (12 px).** Its one PTX grows from 216 to 336 rows, with the same glyphs drawn unsmoothed in its 3 colours from cell 180
+  on. ASCII goes there too, except digits, which keep the game's cells and 12 px advance: its own digits read better at this size.
 - **Slots.** The window allocator's `sll s2, a1, 16` (0xA0140) is now `sll .., 18`, so every window has cols * 4 records and
   vertices. A caller's col and ncols are still cells: the printer's entry hook and the 5 range calls (0xA0248 lay out, 0xA0428
   lay out with spacing, 0xA0644 colour, 0xA079C hide, 0xA089C show, 0xA09F8 clear) multiply them by 4.
@@ -139,8 +141,14 @@ Variable-width English with no change to any glyph record's size:
   shared with a non-text target stays in place, 3 such groups. Scripts: in place if it fits, else after the end of the file.
   Inline and bare strings keep their exact size, padded with spaces.
 
+- **Font 2** is dark ink on the extras' paper, no outline: index 15 clear, 1 darkest to 14 lightest, where 0 is an opaque grey.
+- **Win condition panel.** 0x12F124 (2 calls, 0x12FB9C and 0x12FC24) writes its own records instead of using the lay-out calls, and of ASCII
+  it knew only `o` and `r` (+10 and +14 px); any other byte stayed hidden, so the marker showed "r oo". Now every ASCII byte uses
+  the glyph's advance and the loop covers all the slots.
+
 **Not text after all:** 0x27B1AA, 0x27B1C8, 0x27B29E (code tables the printer searches; one is byte-swapped in place at boot),
-0x2B1690 (the substring pointer table, `[0x8B12C]`). All `kind: data` now.
+0x2B1690 (the substring pointer table, `[0x8B12C]`), 0x22EBB8 (`０１２３４５６７８９　`, the digits 0x9FD60 indexes to format a number:
+the marker turned the union screen's morale into "]Theui[B"). All `kind: data` now.
 
 **Substring table.** `{sub:nn}` and `{sub16:nnnn}` index the pointer table at 0x2B1690 in the EBOOT; defeat text is chains of these
 (0x2B1C6C on), so an English line built from them has one wording per part. Translators see them as separate records.
@@ -149,7 +157,7 @@ Variable-width English with no change to any glyph record's size:
 
 | Child | Content |
 |---|---|
-| 000 | PTX 120x216 T4: 12x12 number sheet; font 4 indexes it by value (`%10`, `/10`), no charset |
+| 000 | PTX 120x216 T4, 3 colours (clear, white, black): 180 12x12 cells of katakana, Latin, digits and a few kanji: font 4, the small names on the union and map screens. No charset: the list of 180 codes is in the EBOOT at 0x27B29E, a glyph's sheet position is its index (`%10`, `/10`). A code not in the list draws cell 0x2B |
 | 001 + 002 | PTP 504x504, 504x450 T4 + charset of 1,484 codes: **18x18**, font 2 (header in the charset file: cols, rows, w, h, per page) |
 | 003 + 004 | PTP 500x500 x3, 500x380 T4 + charset of 2,332 codes: **20x20**, font 1 |
 | 005 + 006 | PTP 504x504, 504x96 T4 + charset of 506 codes: **24x24**, font 3 |
@@ -208,9 +216,32 @@ build is the check on it: a real line tagged `data` shows up as Japanese.
   Pamela, Zilva, Eudy, Inzaghi (spelling to check), Milanor, Yggdra. Blaze-only names (Garlot, Siskier, Jenon, Medoute)
   come from English Wikipedia and an artbook translation: no official English source exists. Build the table at phase 6.
 
+## Width gate (`data/windows.json`, `data/box_ids.tsv`; **measured** on the fill and torture builds)
+
+Limits per window, in px, each with the shot it came from or the word `guess`. Dialogue is 300 px x 3 lines in font 1 (about 40 characters a
+line). `data/box_ids.tsv` gives each record its window: `seen` in the print survey, or `inferred` from its block. Regenerate:
+
+    BU_PRINTLOG=work/qa/plog python -X utf8 tools/debug/scenes.py --iso build/blaze_union_marker.iso --out work/qa/marker
+    python -X utf8 tools/debug/boxes.py work/qa/plog build/blaze_union_marker.iso        # one row per caller and window
+    python -X utf8 tools/debug/boxmap.py work/qa/plog                                    # data/box_ids.tsv, callers with no window
+    python -X utf8 tools/debug/fillbuild.py work/qa/plog build/blaze_union_marker.iso build/fill.iso   # every box full, ending in |
+
+`tools/debug/torture.py OUT.iso ID=TEXT ..` overrides single strings. All of 0x21-0x7E and double spaces read correctly in fonts 1-4.
+Limits that are not pixels or that the build handles:
+
+- **Item names: 35 bytes.** The book's title is `sprintf(sp+0x10, "【%s】", name)` in a 40-byte stack buffer (0x120824), 4 of them the brackets;
+  a longer name ends the emulator. Other stack `sprintf`s took a 40-character name without harm in the tour: names at 0xBAED4, `%s隊`.
+- **Item text wraps itself.** Same strings, two screens, line counts in tables (`vwf.WRAPS`): the equip screen 2 lines of 250 px, the book
+  3 lines of 140 px. The build word-wraps for each, so these strings carry no `{n}`. The equip screen's item line isn't in any scene: no items.
+- **Centring and right-anchoring by bytes.** `ready_caption` (0xC62C4), the book title and others compute x from `strlen / 2 * cell`. English runs
+  under that estimate, so text sits a little off centre and never overflows on its account. Check by eye in phase 8.
+- **Defeat text** is chains of `{sub16}` parts (0x2B1C6C on): a line's limit applies to its parts' sum.
+
+The ISO stays at 1.04 GB: the rebuilt Data.cpk goes after the old one (see Data.cpk above), no problem for the game; the release must check the
+patch size.
+
 ## Open items for later phases
 
-1. Which font id dialogue, speaker names and menus use. Location of the 8x8 sheet.
-2. Script load buffer size. Record-buffer capacity in the printer.
-3. Speaker name source (恰幅のいい商人 on the first dialogue): the EBOOT unit table, drawn with a large italic face.
-4. Who indexes FCT 3/15 children 006 and 007, and whether `unref` lines are ever drawn (marker build).
+1. Script load buffer size. Record-buffer capacity is 4 x cols per row now, enough for the widest box (120 glyphs in 30 cols).
+2. Speaker name source (恰幅のいい商人 on the first dialogue): the EBOOT unit table.
+3. Who indexes FCT 3/15 children 006 and 007, and whether `unref` lines are ever drawn: `textcover.py` in phase 8.

@@ -19,8 +19,8 @@ OUT = ROOT / "script"
 EVENTS = range(2149, 2206)
 RODATA, DATA_END = 0x1B1420, 0x2BFBDF  # .rodata and .data vaddrs, from the ELF section headers
 BLOCK = 0x10000  # one eboot_*.json per this much of the address space
-# Shift-JIS code tables the printer searches, not text: bucket bounds, ASCII to full width, font 4's kana (docs/re/text.md)
-FONT_TABLES = {0x27B1AA, 0x27B1C8, 0x27B29E}
+# Shift-JIS code tables, not text: the printer's bucket bounds, ASCII to full width, font 4's kana; the digits 0x9FD60 indexes (docs/re/text.md)
+FONT_TABLES = {0x27B1AA, 0x27B1C8, 0x27B29E, 0x22EBB8}
 
 
 def table():

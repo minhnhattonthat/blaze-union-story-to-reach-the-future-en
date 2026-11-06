@@ -1,0 +1,3 @@
+eboot_267CD8	CRI middleware debug printf, never drawn
+eboot_262EF0	already English: full-width "never"
+eboot_2633A0	already English: full-width "NanTuTTe"

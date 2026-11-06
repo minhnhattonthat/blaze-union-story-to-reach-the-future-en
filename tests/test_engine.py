@@ -14,6 +14,7 @@ import fct
 import insert
 import marker
 import mips
+import ptx
 import vwf
 
 work = pytest.mark.skipif(not (ROOT / "work/cpk/00003.bin").is_file(), reason="needs work/cpk")
@@ -49,6 +50,13 @@ def test_assembler_matches_capstone():
     assert got[14] == "move $t8, $ra"
 
 
+def test_item_line_breaks():
+    w = {ord(c): 10 for c in "abc d"}
+    assert vwf.breaks("aa bb cc dd", 2, 2, 20, w) == bytes([3, 6])
+    assert vwf.breaks("aa bb", 2, 2, 50, w) == bytes([0, 0])
+    assert vwf.breaks("aa bb cc dd", 1, 2, 20, w) == bytes([3])
+
+
 def test_all_routines_assemble():
     code, labels = mips.asm(vwf.ROUTINES.replace("CELLS-enter_0", "0").replace("WIDTHS-advance_0", "0").replace("BASES-ascii_0", "0"), 0x363000)
     assert {"enter", "store", "newline", "advance", "ascii", "layout_a", "layout_b"} <= set(labels)
@@ -73,6 +81,13 @@ def test_font_page_added():
     pages, info = vwf.fonts(lambda c: d1[k[c][0]:k[c][0] + k[c][1]])
     for fid, f in vwf.FONTS.items():
         new, old = pages[f["child"]], d1[k[f["child"]][0]:k[f["child"]][0] + k[f["child"]][1]]
+        if fid == 4:  # one texture, taller, with the old cells untouched
+            a, b = ptx.parse(old), ptx.parse(new)
+            assert (b["w"], b["h"], b["lh"]) == (120, 336, 9) and info[4][0] == 180
+            sb = a["stride"] // 2
+            assert ptx.unswizzle(new[b["doff"]:], sb, b["h"])[:sb * a["h"]] == ptx.unswizzle(old[a["doff"]:], sb, a["h"])
+            assert all(info[4][1][c] == 12 for c in range(0x30, 0x3A))
+            continue
         n = struct.unpack_from("<I", old, 4)[0]
         assert struct.unpack_from("<I", new, 4)[0] == n + 1
         offs = struct.unpack_from(f"<{n + 1}I", new, 0x10)

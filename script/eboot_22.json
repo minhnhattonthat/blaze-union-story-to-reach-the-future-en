@@ -5426,7 +5426,7 @@
   "id": "eboot_22EBB8",
   "ptr": 2288568,
   "bytes": 23,
-  "kind": "msg",
+  "kind": "data",
   "slots": [
    {
     "hi": 654716,

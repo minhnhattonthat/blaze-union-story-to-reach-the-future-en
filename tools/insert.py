@@ -73,10 +73,18 @@ def pack_eboot(eb, recs, text):
         if "hi" in s:
             hi_targets.setdefault(s["hi"], set()).add(t)
     done = 0
+    wrapped = {}  # string address -> where its line breaks go: vwf.WRAPS
+    for table, end, brk, n, font, px in vwf.WRAPS:
+        for i in range((end - table) // 4):
+            wrapped.setdefault(eb.word(table + i * 4), []).append((brk + i * n, n, font, px))
+    widths = vwf.widths()
     for r in recs:
         s = text(r, "eboot")
         if s is None:
             continue
+        if r["ptr"] in wrapped:
+            for at, n, font, px in wrapped[r["ptr"]]:
+                eb.put(at, vwf.breaks(s, n, font, px, widths[font]))
         b = encode(s, r)
         done += 1
         shared = any(len(hi_targets[x["hi"]]) > 1 for x in r["slots"] if "hi" in x)
