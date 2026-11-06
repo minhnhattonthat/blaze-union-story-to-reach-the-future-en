@@ -6,7 +6,6 @@ usage:
   ppdbg.py watch STATE ADDR SIZE [FRAMES] [--press BTN] [--write]
         memory breakpoint on read (or write): each hit prints pc, ra, a0-a3 and the bytes around pc, up to 20 hits
 ISO defaults to the pinned dump; PPSSPP states need the same image they were saved on (env BU_ISO overrides)."""
-import base64
 import json
 import os
 import struct
@@ -68,8 +67,6 @@ def main():
             for _ in range(20):
                 run.ws.call("cpu.runUntilTime", us=run.base + round(frames * psp.FRAME_US))
                 ev = run.ws.wait("cpu.stepping")
-                regs = {r["name"]: r["uintValue"] for c in run.ws.call("cpu.getAllRegs")["categories"]
-                        for r in c["registers"] if c["name"] == "GPR"} if False else None
                 st = run.ws.call("cpu.status")
                 if st["us"] >= run.base + round(frames * psp.FRAME_US) - 100:
                     break

@@ -107,8 +107,8 @@ confirmed (the 20 in a printer argument is a hint, not proof).
   string area plausibly fits (guess, needs counting at phase 6). Overflow: a third segment or a data file, phase 5.
 - Files on disc: `iso9660.patch` appends larger files to the image end. The CPK can grow that way. Real-hardware UMD
   limits do not apply to an ISO on memory stick.
-- The shipped EBOOT has to be the plain ELF (PPSSPP and CFW accept it; D-tier question for real hardware recorded in
-  `docs/status.md`).
+- The shipped EBOOT has to be the plain ELF: PPSSPP and CFW accept it, stock firmware does not. Noted under "Waiting
+  on the user" in `docs/status.md`.
 
 ## Earlier work
 
