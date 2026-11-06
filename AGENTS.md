@@ -7,7 +7,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 - Build:  not written yet (phase 3) -> `build/blaze_union_en.iso` (checks the dump against `rom.sha1` first)
 - Check:  `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this). Hook: `git config core.hooksPath tools/hooks`
 - Smoke:  `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/blaze_union_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke`
-- Warp:   not written yet (phase 2): `tools/debug/`; PPSSPP has no Lua, so it is Python over `psp.py`'s WebSocket. Never ask the user to play to a scene.
+- Warp:   `python -X utf8 tools/debug/warp.py 3_10_A --out work/qa/w --frames 1200 --every 300 --mash circle` (cold boot to any stage; `tools/debug/warp_all.py` does all 153). `docs/re/debug.md` has the rest. Never ask the user to play to a scene.
 - Release: not written yet (phase 9) (xdelta3 patch + verify; never publish without the user)
 - Clean:  `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 
