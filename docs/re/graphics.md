@@ -32,7 +32,7 @@ Nothing is skipped: 184 slices with no palette are drawn in grey, label suffix `
 beside the battle-unit sprites, and are taken to be animation frames. **guess**: PTA is not decoded. The marker tour would
 show any text from them. PNGs in FCT 3 (`3/010-012`) were read separately: logo art plus `NO DATA`, `CONTINUE`, no Japanese.
 
-Files that drew nothing: no PTX@, so no images, in ADX audio, VPD (2206-2641, **verified**: ADX voice clips at the first two
+Files that drew nothing: no PTX@, so no images, in ADX audio, VPD (2206-2641, **verified** as ADX: headers at the first two
 entries of 2206, and `(c)CRI` throughout 2206, 2400, 2641), event scripts, and the table files 343-981 and 1826-1969. FPD
 1713-1769 do hold PTX@ but added nothing after dedupe: **guess** they repeat the portraits of 1605-1712, as their first
 texture's size suggests. No other file holds a GIM or an embedded PNG (magic scan of all of `work/cpk`; JPEG not scanned).

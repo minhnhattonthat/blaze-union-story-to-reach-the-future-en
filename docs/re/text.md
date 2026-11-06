@@ -24,7 +24,7 @@ CRILAYLA encoder or storing edited files uncompressed (guess: the engine honours
 | 1826-1969 | `02 1e` | 144 files of 602 bytes | unknown |
 | 2050-2065 | PNG | 16 images, 144x80 | verified |
 | **2149-2205** | none | **57 event scripts** (below) | verified |
-| 2206-2641 | `VPD\0` | 436 packs of ADX voice clips, no images | verified on 2206, 2400, 2641 |
+| 2206-2641 | `VPD\0` | 436 packs of ADX clips, no PTX@ in any. That they are voice is a guess from the count and size | ADX verified on 2206, 2400, 2641 |
 
 Inventory tools: `tools/survey.py`, `tools/textscan.py`, `tools/grepjp.py`.
 
