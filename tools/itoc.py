@@ -77,6 +77,77 @@ def crilayla_decompress(b):
     return bytes(out)
 
 
+def _table(name, cols, fmt, rows):
+    """A @UTF table in the layout CRI's packer gives the two ITOC row tables (the identity test proves byte-exact)."""
+    strs = b"<NULL>\0" + name + b"\0"
+    head = b""
+    for col, flag in cols:
+        head += bytes([flag]) + struct.pack(">I", len(strs))
+        strs += col + b"\0"
+    rowlen = struct.calcsize(fmt)
+    rows_off = 24 + len(head)
+    body = head + b"".join(struct.pack(fmt, *r) for r in rows) + strs
+    size = -(-(24 + len(body) + 8) // 8) * 8 - 8  # size field leaves out its 8-byte tag; the table ends 8-aligned
+    return b"@UTF" + struct.pack(">IIIIIHHI", size, rows_off, rows_off + len(rows) * rowlen, size, 7, len(cols), rowlen,
+                                 len(rows)) + body + bytes(size - 24 - len(body))
+
+
+def _itoc(ents):
+    """ITOC packet for [(id, csize, size)]. Sizes that fit u16 go in the L table, the rest in H, each sorted by ID."""
+    ents = sorted(ents)
+    low = [e for e in ents if e[1] < 0x10000 and e[2] < 0x10000]
+    high = [e for e in ents if e[1] >= 0x10000 or e[2] >= 0x10000]
+    cols = (b"ID", 0x52), (b"FileSize", 0x52), (b"ExtractSize", 0x52)
+    tl = _table(b"CpkItocL", cols, ">HHH", low)
+    cols = (b"ID", 0x52), (b"FileSize", 0x54), (b"ExtractSize", 0x54)
+    th = _table(b"CpkItocH", cols, ">HII", high)
+    strs = b"<NULL>\0CpkItocInfo\0FilesL\0FilesH\0DataL\0DataH\0"
+    head = b"".join(bytes([f]) + struct.pack(">I", strs.index(n + b"\0"))
+                    for n, f in ((b"FilesL", 0x54), (b"FilesH", 0x54), (b"DataL", 0x5B), (b"DataH", 0x5B)))
+    row = struct.pack(">IIIIII", len(low), len(high), 0, len(tl), len(tl), len(th))
+    data_off = 120  # fixed: 44 rows_off + 24 row + 45 strings, padded
+    size = data_off + len(tl) + len(th)
+    utf = (b"@UTF" + struct.pack(">IIIIIHHI", size, 44, 68, data_off, 7, 4, 24, 1) + head + row + strs
+           + bytes(data_off - 68 - len(strs)) + tl + th)
+    return b"ITOC" + b"\xff\0\0\0" + struct.pack("<II", len(utf), 0) + utf
+
+
+def rebuild(path, repl, keep_same=True):
+    """Data.cpk with {id: uncompressed bytes} replaced; other blocks are copied, so no edits gives the original bytes.
+    Edited files are stored, not recompressed (the engine reads stored files: docs/re/text.md). keep_same keeps the
+    original block when the replacement equals its contents."""
+    with open(path, "rb") as f:
+        head = bytearray(f.read(0x800))
+        info = Utf(bytes(head), 16)
+        ents, blocks = [], []
+        for fid, off, csize, size in read_entries(path):
+            f.seek(off)
+            d = f.read(csize)
+            if fid in repl:
+                new = repl[fid]
+                same = keep_same and (d[:8] == b"CRILAYLA" and csize != size and crilayla_decompress(d) == new or d == new)
+                if not same:
+                    d, size = new, len(new)
+            ents.append((fid, len(d), size))
+            blocks.append(d)
+    missing = set(repl) - {e[0] for e in ents}
+    assert not missing, f"no such file ids: {sorted(missing)}"
+    r = info.rows[0]
+    align = r["Align"]
+    itoc = _itoc(ents)
+    # room for ~366 L rows moving to H before the content has to shift
+    content = max(r["ContentOffset"], -(-(r["ItocOffset"] + len(itoc)) // align) * align)
+    out = bytearray(content)
+    out[:0x800] = head
+    out[r["ItocOffset"]:r["ItocOffset"] + len(itoc)] = itoc
+    pad = [bytes(-len(d) % align) for d in blocks[:-1]] + [b""]
+    body = b"".join(x for pair in zip(blocks, pad) for x in pair)
+    for col, v in (("ContentOffset", content), ("ContentSize", -(-len(body) // align) * align), ("ItocSize", len(itoc)),
+                   ("EnabledDataSize", sum(e[1] for e in ents)), ("EnabledPackedSize", sum(e[2] for e in ents))):
+        info.set(out, 0, col, v)
+    return bytes(out) + body
+
+
 def sniff(d):
     for magic, ext in ((b"MIG.", "gim"), (b"PSMF", "pmf"), (b"RIFF", "at3"), (b"\x89PNG", "png"), (b"PTF", "ptf"),
                        (b"@UTF", "utf"), (b"PMF", "pmf"), (b"PK", "zip"), (b"CPK ", "cpk"), (b"\x7fELF", "elf")):

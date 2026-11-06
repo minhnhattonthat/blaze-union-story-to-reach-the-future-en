@@ -7,9 +7,18 @@ Disc: ULJM05503, 582,221,824 bytes. `PSP_GAME/USRDIR/Data/Data.cpk` (448 MB) and
 ITOC-only CRI CPK: 3,340 files, numeric IDs, no names, `Align` 2048, files in ID order from `ContentOffset`. 1,467 are
 CRILAYLA-compressed, the rest stored. `tools/itoc.py x` extracts to `work/cpk/<id>.<ext>` with `index.tsv`.
 
-The rebuild path is untested: `tools/cpk.py` refuses ITOC-only archives, so phase 3 needs its own repacker, plus a
-CRILAYLA encoder or storing edited files uncompressed (guess: the engine honours FileSize == ExtractSize as stored, as
-1,873 files here already do).
+**Rebuild (verified):** `itoc.rebuild(path, {id: bytes})` copies untouched blocks and regenerates the ITOC, so no edits
+gives the original archive (`tests/test_build.py`, disc SHA-1 matches). Edited files are stored raw; no CRILAYLA encoder
+is needed. A file whose sizes reach 64K moves from the u16 L table to the u32 H table; the ITOC has room for about 366
+such moves before `ContentOffset` shifts, which `rebuild` also handles (that shift itself has not been run in-game).
+An archive that outgrows its sectors goes to the end of the image (the game opens it by path, not LBA), wasting the old
+448 MB in the image; the patch stays small because those bytes are unchanged.
+
+Proved in the engine by `tools/debug/stress_build.py`: all 1,467 compressed files stored raw, script 2149 padded from
+8,064 to 70,000 bytes (so in the H table), archive moved to the end of a 1.09 GB image. `scenes.py --stages` passed 99/99
+and 151/151 on it. Of the 99 scene shots, 70 match the baseline exactly; the 3 worst of the other 29, compared by eye,
+are the same screens at another animation frame, the rest were not looked at. 1_01_A, the only stage using 2149, plays
+its dialogue. Windowed build and real hardware not tried.
 
 | IDs | Magic | What | State |
 |---|---|---|---|

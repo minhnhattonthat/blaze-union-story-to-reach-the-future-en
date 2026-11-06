@@ -4,7 +4,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 
 ## Commands (run from repo root)
 - Unpack: `python -X utf8 tools/iso9660.py x "rom/Blaze Union - Story to Reach The Future (Japan).iso" work/iso` then `python -X utf8 tools/itoc.py x work/iso/PSP_GAME/USRDIR/Data/Data.cpk work/cpk` (~80 s)
-- Build:  not written yet (phase 3) -> `build/blaze_union_en.iso` (checks the dump against `rom.sha1` first)
+- Build:  `python -X utf8 tools/build.py` -> `build/blaze_union_en.iso` (checks the dump against `rom.sha1` first; edits plug in at `edits()`)
 - Check:  `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this). Hook: `git config core.hooksPath tools/hooks`
 - Smoke:  `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/blaze_union_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:   `python -X utf8 tools/debug/warp.py 3_10_A --out work/qa/w --frames 1200 --every 300 --mash circle` (cold boot to any stage; `tools/debug/warp_all.py` does the 151 reachable). `docs/re/debug.md` has the rest. Never ask the user to play to a scene.
