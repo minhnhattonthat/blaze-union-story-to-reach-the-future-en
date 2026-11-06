@@ -1,0 +1,6 @@
+# cold boot, then press start and circle through logos/title
+600 -
+4 start
+300 -
+4 circle
+300 -
