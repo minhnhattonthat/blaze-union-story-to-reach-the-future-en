@@ -16,6 +16,7 @@ import warp
 
 ROOT = warp.ROOT
 CARD_MODES = (5, 6, 7, 9, 18, 19, 20)  # 18 on: with no key pressed the stage's event has ended and prep has begun
+DEAD = {"1_05_B", "1_05_C"}  # record points at entries 1 and 2 of script 2153, which has only entry 0: never reached in the game
 
 
 def one(name, a):
@@ -65,7 +66,7 @@ def main():
     if a.child:
         child(a.child, a)
         return
-    names = a.names or warp.stages()
+    names = a.names or [n for n in warp.stages() if n not in DEAD]
     with ThreadPoolExecutor(a.jobs) as ex:
         res = list(ex.map(lambda n: one(n, a), names))
     bad = [r for r in res if r[1]]

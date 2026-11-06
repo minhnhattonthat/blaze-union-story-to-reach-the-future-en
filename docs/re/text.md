@@ -43,7 +43,7 @@ Their files are in the survey in `graphics.md`.
 
 ## Event script format (file 2149 traced; layout checked on all 57)
 
-- u32[0] == file size - 0x14 (**verified** on all 57). 10 u32 header ends at 0x28; u32[1..9] are bytecode entry points.
+- u32[0] == file size - 0x14 (**verified** on all 57). 10 u32 header ends at 0x28; u32[1..9] are bytecode entry points. The stage record's entry number indexes a different table: 5 u32 at file + u32[0], read by 0xFA1A0 (**verified**: it is what makes 1_05_B and 1_05_C fail, `debug.md`).
 - Messages: NUL-terminated strings packed from 0x28. They end where bytecode starts, which is **before** u32[1]
   (2149: messages to about 0x920, u32[1] = 0x9F5). `tools/evscript.py text_entries()` still uses u32[1] and overruns
   into bytecode: fix before extraction.

@@ -28,6 +28,24 @@ DBG_STAGE, DBG_FLAGS = BASE + 0x270800, BASE + 0x270950
 TABLE, RECORD, COUNT = 0x286EC4, 28, 153
 
 
+def run_to(self, f):
+    """psp.Run.run_to, surviving a game clock change (222 to 266 MHz at battle start). cpu.status us is ticks / clockHz, so
+    it jumps when the clock does; the stock loop then waits forever for a stop that already came. Keep frames continuous."""
+    target = self.base + round(f * psp.FRAME_US)
+    st = self.ws.call("cpu.status")
+    if target <= st["us"] + 100:
+        return
+    self.ws.events.clear()  # an older stop must not count as this one
+    self.ws.call("cpu.runUntilTime", us=target)
+    self.ws.wait("cpu.stepping")
+    now = self.ws.call("cpu.status")
+    if now["clockHz"] != st["clockHz"]:
+        self.base += now["us"] - round(now["ticks"] * 1e6 / st["clockHz"])
+
+
+psp.Run.run_to = run_to
+
+
 def stages():
     code = (ROOT / "work/exe/code.bin").read_bytes()
     out = []
@@ -69,15 +87,16 @@ def boot(run):
     run.run_to(f + 240)
 
 
-def drive(run, frames, every, route=(), mash=False, step=10):
+def drive(run, frames, every, route=(), mash=False, step=10, mash_from=0):
     """Run to frame FRAMES in STEP increments, logging mode changes. Returns the mode log [(frame, mode)]."""
     log, mode, f = [], None, run.frame()
+    mash_from += f
     keys = sorted((lo + f, set(k)) for lo, k in route)
     while f < frames:
         f += step
         due = [k for lo, k in keys if lo <= f]
         press = due[-1] if due else set()
-        if mash and (f // step) % 4 == 0:
+        if mash and f >= mash_from and (f // step) % 4 == 0:
             press = {mash[(f // step // 4) % len(mash)]}
         run.press(press)
         run.run_to(f)
@@ -101,9 +120,14 @@ def main():
     ap.add_argument("--state-out")
     ap.add_argument("--route", default="")
     ap.add_argument("--mash", type=lambda s: s.split(","), default=[], help="buttons pressed in turn, e.g. circle,start")
+    ap.add_argument("--mash-from", type=int, default=0, help="start mashing this many frames in")
+    ap.add_argument("--mode", type=int, help="top-level mode to poke before the run; see docs/re/debug.md first")
     ap.add_argument("--frames", type=int, default=600)
     ap.add_argument("--every", type=int, default=0)
     ap.add_argument("--iso", default=ISO)
+    ap.add_argument("--no-card", action="store_true", help="retry path: straight to the event, no chapter card")
+    ap.add_argument("--poke", action="append", default=[], type=lambda s: (int(s.split("=")[0], 16), bytes.fromhex(s.split("=")[1])),
+                    help="RAMADDR=HEXBYTES written once before the run, repeatable")
     ap.add_argument("--req", type=lambda s: int(s, 0), default=0, help="request flag for mode 0, e.g. 0x200 (ending)")
     ap.add_argument("--var", action="append", default=[], type=lambda s: tuple(int(x, 0) for x in s.split("=")),
                     help="story variable N=V, repeatable")
@@ -121,16 +145,21 @@ def main():
             if not a.state_in:
                 boot(run)
             print("stage", names[index], index, "mode before", u32(run, MODE))
-            warp(run, index)
+            warp(run, index, card=not a.no_card)
         if a.req or a.var:
             if not a.state_in:
                 boot(run)
             save = u32(run, SAVE_PTR)
             for n, v in a.var:
                 poke(run, save + 0x20 + n, bytes([v]))  # story variable, see 0x4FE4
-            poke(run, REQ, struct.pack("<I", u32(run, REQ) | a.req))
-            poke(run, MODE, struct.pack("<I", 0))
-        drive(run, run.frame() + a.frames, a.every, route, a.mash)
+            if a.req:
+                poke(run, REQ, struct.pack("<I", u32(run, REQ) | a.req))
+                poke(run, MODE, struct.pack("<I", 0))
+        for addr, data in a.poke:
+            poke(run, addr, data)
+        if a.mode is not None:
+            poke(run, MODE, struct.pack("<I", a.mode))
+        drive(run, run.frame() + a.frames, a.every, route, a.mash, mash_from=a.mash_from)
         run.shot("final.png")
         if a.state_out:
             run.save_state(a.state_out)
