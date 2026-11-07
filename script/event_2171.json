@@ -774,7 +774,7 @@
    48417
   ],
   "jp": "{voice:004C08}まだティエラから遠くはないし、{n}一度私兵団邸に戻って、{n}出直す事もできるけど……",
-  "en": "We're still not far from Tiera. We could go back to the manor once and start over...",
+  "en": "We're still not far from Tiera. We could head back to the manor and set out again...",
   "status": "done"
  },
  {
@@ -2070,7 +2070,7 @@
    39276
   ],
   "jp": "…人間の骨ではないようですが、{n}明日は我が身、ですかね？{n}十分に気をつけるとしましょう。",
-  "en": "...They do not seem to be human bones, but we may be next, may we not? Let us be very careful.",
+  "en": "...They do not seem to be human bones, but their fate could be ours tomorrow. Let us be very careful.",
   "status": "done"
  },
  {
@@ -2190,7 +2190,7 @@
    40058
   ],
   "jp": "おりょ？　何か落ちてるわね～。",
-  "en": "Whoopsie? Something's lying here~.",
+  "en": "Ooh? Something's lying here~.",
   "status": "done"
  },
  {

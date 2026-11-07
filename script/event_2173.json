@@ -104,7 +104,7 @@
    5206
   ],
   "jp": "{voice:00F508}全容は掴めず、教団の教義等は{n}謎に包まれていると聞きますが…",
-  "en": "Its full extent is unknown, and the Order's teachings are said to be shrouded in mystery...",
+  "en": "Their full extent is unknown, and their teachings are said to be shrouded in mystery...",
   "status": "done"
  },
  {
@@ -272,7 +272,7 @@
    5762
   ],
   "jp": "{voice:000209}配置、完了しました。",
-  "en": "Positions ready, sir.",
+  "en": "All units in position, sir.",
   "status": "done"
  },
  {
@@ -636,7 +636,7 @@
    6345
   ],
   "jp": "うわっ、ガイコツ？{n}びっくりした…{n}けど、なんでこんなものが？",
-  "en": "Eek, a skeleton? That startled me... But why would this be here?",
+  "en": "Eek, a skull? That startled me... But why would this be here?",
   "status": "done"
  },
  {
@@ -714,7 +714,7 @@
    6831
   ],
   "jp": "ヒッ②　が、ガイコツ③{n}…び、びっくりした、{n}作り物じゃないですか、もう…",
-  "en": "Eek! A-a skeleton?! ...Th-that startled me, it is only something handmade, really...",
+  "en": "Eek! A-a skull?! ...Th-that startled me, it is only something handmade, really...",
   "status": "done"
  },
  {
@@ -766,7 +766,7 @@
    7641
   ],
   "jp": "あら、ガイコツじゃない。{n}石で作ってある…{n}ふーん、凝ってるわね。",
-  "en": "Oh, a skeleton. Made of stone... Hmm, that's some nice detail.",
+  "en": "Oh, a skull. Made of stone... Hmm, that's some nice detail.",
   "status": "done"
  },
  {
@@ -792,7 +792,7 @@
    7155
   ],
   "jp": "うわっ、ガイコツ？{n}…作り物、だよな。{n}元からこの形じゃあない、よな？",
-  "en": "Whoa, a skeleton? ...It's handmade, right? It wasn't like this from the start, right?",
+  "en": "Whoa, a skull? ...It's handmade, right? It wasn't like this from the start, right?",
   "status": "done"
  },
  {
