@@ -20,7 +20,7 @@
    7401
   ],
   "jp": "{voice:005A0F}申し訳ありません……{n}しかし指定された場所を探しても{n}連絡員の姿が見当たらないのです。",
-  "en": "I'm very sorry... But we searched the place you named, and the messenger is nowhere to be seen.",
+  "en": "I'm very sorry... But we searched the place you named, and our contact is nowhere to be seen.",
   "status": "done"
  },
  {
@@ -440,7 +440,7 @@
    8815
   ],
   "jp": "{voice:007A0F}説明が必要なのか？{n}もう、分かっているのではないか？",
-  "en": "Is an explanation necessary? Don't you know already?",
+  "en": "Is an explanation necessary? Do you not know already?",
   "status": "done"
  },
  {
@@ -728,7 +728,7 @@
    9472
   ],
   "jp": "{voice:00910F}だから、私は棄てると決めた。{n}お前達を裏切る形でだ。",
-  "en": "So I decided to cast you off. In the form of betraying you.",
+  "en": "So I decided to cast you off. By betraying you.",
   "status": "done"
  },
  {
@@ -932,7 +932,7 @@
    12162
   ],
   "jp": "{voice:00A20F}そこまでだ、ガーロット！",
-  "en": "That's enough, Garlot!",
+  "en": "That is enough, Garlot!",
   "status": "done"
  },
  {
@@ -980,7 +980,7 @@
    12232
   ],
   "jp": "{voice:00A60F}不本意だが、こうさせて貰う。",
-  "en": "It's not what I wanted, but this is how it will be.",
+  "en": "It is not what I wanted, but this is how it will be.",
   "status": "done"
  },
  {
@@ -992,7 +992,7 @@
    12347
   ],
   "jp": "{voice:00A70F}私兵団は武器をすべて棄てろ！{n}この娘の命が惜しければだ②",
-  "en": "Private soldiers, throw down all your weapons! If you value this girl's life!!",
+  "en": "Private army, throw down all your weapons! If you value this girl's life!!",
   "status": "done"
  },
  {
@@ -1064,7 +1064,7 @@
    12820
   ],
   "jp": "{voice:00AD0F}…ヒック…、酔いが{n}覚めて、ヒック…来ちまったよ…",
-  "en": "...*hic*... I'm sobering up, *hic*... here it comes...",
+  "en": "...*hic*... I'm startin' to sober up, *hic*... y'hear...",
   "status": "done"
  },
  {
@@ -2157,7 +2157,7 @@
    36796
   ],
   "jp": "{voice:00FD0F}ジェノン…{n}３人が２人になっちゃうね…{n}幼なじみ、ね、ごめんね。",
-  "en": "Jenon... Three's going to be two now... Your childhood friend. I'm sorry.",
+  "en": "Jenon... Three's going to be two now... Us childhood friends. I'm sorry.",
   "status": "done"
  },
  {
@@ -2793,7 +2793,7 @@
    38266
   ],
   "jp": "{voice:002B10}ですが、団長の魔竜の血の力は、{n}おそらく何らかの形で、{n}封じられていると思います。",
-  "en": "However, I believe your demon blood's power has been sealed in some way, Captain.",
+  "en": "However, I believe your demon dragon blood's power has been sealed in some way, Captain.",
   "status": "done"
  },
  {
@@ -3117,7 +3117,7 @@
    26895
   ],
   "jp": "今まで私の研究に、{n}理解を示してくれた事は、{n}感謝するわ。",
-  "en": "I am grateful you showed an understanding of my research all this time.",
+  "en": "Thanks for showing some understanding of my research all this time.",
   "status": "done"
  },
  {
@@ -3189,7 +3189,7 @@
    27554
   ],
   "jp": "パメラ、{n}お前は気付いているのだろ？{n}ガーロットの隠された恐怖に…",
-  "en": "Pamela, you have noticed, haven't you? The hidden terror in Garlot...",
+  "en": "Pamela, you have noticed, have you not? The hidden terror in Garlot...",
   "status": "done"
  },
  {
@@ -3261,7 +3261,7 @@
    28078
   ],
   "jp": "男の時のお前のセリフには、{n}熱さはあっても厚みは全く無いな…",
-  "en": "When you're a man, your lines have heat, but no depth at all...",
+  "en": "When you are a man, your lines have heat, but no depth at all...",
   "status": "done"
  },
  {
@@ -3405,7 +3405,7 @@
    29711
   ],
   "jp": "どうしたそれまでか……{n}ガーロット！",
-  "en": "What's wrong, is that all... Garlot!",
+  "en": "What is wrong, is that all... Garlot!",
   "status": "done"
  },
  {
@@ -3561,7 +3561,7 @@
    30348
   ],
   "jp": "どうした、メデューテ。{n}もう、話合える段階ではないと、{n}わかっているのだろ。",
-  "en": "What's wrong, Medoute? You must know we are past the point of talking.",
+  "en": "What is wrong, Medoute? You must know we are past the point of talking.",
   "status": "done"
  },
  {
@@ -3585,7 +3585,7 @@
    30568
   ],
   "jp": "本当はわかっているのだろ？{n}奴の力が大きくなっていくのを。",
-  "en": "You truly do understand, don't you? How his power keeps growing.",
+  "en": "You truly do understand, do you not? How his power keeps growing.",
   "status": "done"
  },
  {
@@ -3933,7 +3933,7 @@
    32271
   ],
   "jp": "まさかお前……",
-  "en": "Don't tell me you...",
+  "en": "Do not tell me you...",
   "status": "done"
  },
  {
@@ -3969,7 +3969,7 @@
    32399
   ],
   "jp": "まさか、お前！",
-  "en": "Don't tell me, you...!",
+  "en": "Do not tell me, you...!",
   "status": "done"
  },
  {

@@ -452,7 +452,7 @@
    9020
   ],
   "jp": "{voice:00B710}さて、対バルドゥス戦に有効と{n}思われる策はないか？",
-  "en": "So, any good ideas for fighting Baldus?",
+  "en": "So. What strategy will work against Baldus?",
   "status": "done"
  },
  {
@@ -608,7 +608,7 @@
    18344
   ],
   "jp": "{voice:00C410}おお、来たか！{n}よし…、挟撃の構えを取れ！",
-  "en": "Ah, they've come! Good... Prepare a pincer attack!",
+  "en": "Ah, they have come! Good... Prepare a pincer attack!",
   "status": "done"
  },
  {
@@ -1580,7 +1580,7 @@
    15153
   ],
   "jp": "しっかし、バルちゃん酷いよ！{n}痛いコトしてさ②{n}お仕置きしちゃうんだわさ②",
-  "en": "But really, Bal-chan, how mean! Hurting Pamela-sama!! You're getting a spanking!!",
+  "en": "But really, Bal-chan, how mean! Hurting Pamela-sama!! Pamela-sama is gonna punish you, y'know!!",
   "status": "done"
  },
  {
@@ -1952,7 +1952,7 @@
    28124
   ],
   "jp": "{voice:00DD10}拙者は代々ブロンキア帝国に{n}剣と力を捧げた騎士だ。",
-  "en": "For generations my family have been knights who pledged sword and strength to the Bronquia Empire.",
+  "en": "For generations my family has served as knights, pledging sword and strength to the Bronquia Empire.",
   "status": "done"
  },
  {

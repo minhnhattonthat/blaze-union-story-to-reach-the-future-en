@@ -1052,7 +1052,7 @@
    115869
   ],
   "jp": "{voice:006211}……この程度で死ねぬ！",
-  "en": "...This won't be enough to kill me!",
+  "en": "...I cannot die from this!",
   "status": "done"
  },
  {
@@ -1076,7 +1076,7 @@
    116645
   ],
   "jp": "{voice:006411}ま、まだ死ねない……",
-  "en": "N-not dead yet...",
+  "en": "I-I cannot die yet...",
   "status": "done"
  },
  {
@@ -1400,7 +1400,7 @@
    107415
   ],
   "jp": "{voice:007E11}ガルカーサと名乗ってからの、{n}お前の破壊力と破竹の進撃、{n}そして流した血の量。",
-  "en": "Since you became Gulcasa: your destructive power, your rampant march, all the blood you've shed.",
+  "en": "Since you became Gulcasa: your destructive power, your unstoppable march, all the blood you've shed.",
   "status": "done"
  },
  {
@@ -1736,7 +1736,7 @@
    120945
   ],
   "jp": "{voice:009A11}な、なんだこれは…{n}身体が言うことを聞かない…ッ！",
-  "en": "Wh-What is this...? My body won't obey me...!",
+  "en": "Wh-what is this...? My body won't obey me...!",
   "status": "done"
  },
  {
@@ -1760,7 +1760,7 @@
    121095
   ],
   "jp": "{voice:009C11}致し方ありません…{n}『ジェノサイド』で、{n}兵を供物に捧げましょう。",
-  "en": "It can't be helped... We shall offer soldiers up as tribute with \"Genocide.\"",
+  "en": "It cannot be helped... We shall offer soldiers up as tribute with 'Genocide.'",
   "status": "done"
  },
  {
@@ -1772,7 +1772,7 @@
    121116
   ],
   "jp": "{voice:009D11}ば、バカな…{n}味方を犠牲にしろ、というのか？{n}そんな事、俺には……",
-  "en": "Th-That's insane... You want me to sacrifice my own side? I can't do a thing like...",
+  "en": "Th-that's insane... You want me to sacrifice my own side? I can't do a thing like...",
   "status": "done"
  },
  {
@@ -1868,7 +1868,7 @@
    121606
   ],
   "jp": "{voice:00A311}…フフフ…ハハハ！{n}身体が熱い、しかし心地よいぞ。",
-  "en": "...Heh heh heh... Hahaha! My body burns, and yet it feels good.",
+  "en": "...Hehehe... Hahaha! My body burns, and yet it feels good.",
   "status": "done"
  },
  {
@@ -1988,7 +1988,7 @@
    121773
   ],
   "jp": "{voice:00AD11}フフフ…待っていろ、シスキア。{n}世界は、もうすぐ変わる。{n}俺が変えてみせるぞ…！",
-  "en": "Heh heh heh... Wait for me, Siskier. The world is about to change. I'll change it myself...!",
+  "en": "Hehehe... Wait for me, Siskier. The world is about to change. I'll change it myself...!",
   "status": "done"
  },
  {
@@ -2792,7 +2792,7 @@
    109274
   ],
   "jp": "そ、その後……？",
-  "en": "Wh-What comes after...?",
+  "en": "Wh-what comes after...?",
   "status": "done"
  },
  {
@@ -2936,7 +2936,7 @@
    110128
   ],
   "jp": "な、なんだ、この術は………",
-  "en": "Wh-What is this spell...",
+  "en": "Wh-what is this spell...",
   "status": "done"
  },
  {
@@ -2984,7 +2984,7 @@
    110240
   ],
   "jp": "…フフフ。{n}それを聞いて、{n}どうしようというのですか？",
-  "en": "...Hehehe. And what will you do, once you've heard it?",
+  "en": "...Hehehe. And what will you do, once you have heard it?",
   "status": "done"
  },
  {
@@ -3296,7 +3296,7 @@
    100534
   ],
   "jp": "き、詭弁を……",
-  "en": "Th-That's sophistry...",
+  "en": "Th-that's sophistry...",
   "status": "done"
  },
  {
@@ -3320,7 +3320,7 @@
    100746
   ],
   "jp": "どうせ貴様達の事だ、{n}別働隊を率いて破壊工作か？",
-  "en": "Knowing you lot, she's leading a detached unit on a sabotage mission?",
+  "en": "Knowing you lot, she is leading a detached unit on a sabotage mission?",
   "status": "done"
  },
  {
@@ -3440,7 +3440,7 @@
    101826
   ],
   "jp": "陛下をお守りするのが私の使命…{n}そのためならば、この命など！",
-  "en": "Protecting His Majesty is my duty... And for that, I'd gladly give this life!",
+  "en": "Protecting His Majesty is my duty... And for that, I would gladly give this life!",
   "status": "done"
  },
  {
@@ -3728,7 +3728,7 @@
    111961
   ],
   "jp": "勝機は、まだ残されている③",
-  "en": "We still have a chance to win!?",
+  "en": "A chance of victory yet remains!",
   "status": "done"
  },
  {
@@ -3872,7 +3872,7 @@
    112944
   ],
   "jp": "つ、強いッ……",
-  "en": "Sh-She's strong...",
+  "en": "Sh-she is strong...",
   "status": "done"
  },
  {
@@ -3944,7 +3944,7 @@
    113311
   ],
   "jp": "フッ、私の敵では無い……",
-  "en": "Heh, you're no match for me...",
+  "en": "Heh, you are no match for me...",
   "status": "done"
  },
  {
@@ -4040,7 +4040,7 @@
    114021
   ],
   "jp": "お、おのれぇ……",
-  "en": "Y-You wretches...",
+  "en": "Y-you wretches...",
   "status": "done"
  },
  {
@@ -4052,7 +4052,7 @@
    114083
   ],
   "jp": "ンガッ！{n}な、何すんのよ②",
-  "en": "Ngah! Wh-What do you think you're doing!!",
+  "en": "Ngah! Wh-what do you think you're doing!!",
   "status": "done"
  },
  {
@@ -4184,7 +4184,7 @@
    115093
   ],
   "jp": "この私が、見切れないだと！",
-  "en": "I can't read the shots? Me!",
+  "en": "What!? I cannot read those shots!?",
   "status": "done"
  },
  {
@@ -4254,7 +4254,7 @@
    115428
   ],
   "jp": "どうした？{n}狂戦士の力とはそれだけか？",
-  "en": "What's wrong? Is that all the berserker's strength amounts to?",
+  "en": "What is wrong? Is that all the berserker's strength amounts to?",
   "status": "done"
  },
  {
@@ -4302,7 +4302,7 @@
    115729
   ],
   "jp": "いかぬ…、やはり無意識に{n}加減をしてしまっている……",
-  "en": "This won't do... I'm holding back without even meaning to...",
+  "en": "This will not do... I am holding back without even meaning to...",
   "status": "done"
  },
  {

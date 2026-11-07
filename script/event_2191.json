@@ -248,7 +248,7 @@
    10662
   ],
   "jp": "{voice:00C611}『分からない』という事が答え。{n}ガルカーサ、あなたは変わって{n}しまった。",
-  "en": "That you \"don't understand\" is the answer. Gulcasa, you've changed.",
+  "en": "That you 'don't understand' is the answer. Gulcasa, you've changed.",
   "status": "done"
  },
  {
@@ -872,7 +872,7 @@
    14659
   ],
   "jp": "{voice:00F611}な、何を言ってるんだ！{n}そんな嘘が、通じる訳がないだろ②",
-  "en": "Wh-What are you saying! Nobody's going to believe a lie like that!!",
+  "en": "Wh-what are you saying! Nobody's going to believe a lie like that!!",
   "status": "done"
  },
  {
@@ -1340,7 +1340,7 @@
    16836
   ],
   "jp": "{voice:001A12}そ、そうよね！",
-  "en": "Y-You're right!",
+  "en": "Y-you're right!",
   "status": "done"
  },
  {
@@ -1580,7 +1580,7 @@
    17818
   ],
   "jp": "{voice:002E12}ははっ、御意に……",
-  "en": "Hah. As you command...",
+  "en": "Yes, sire. As you command...",
   "status": "done"
  },
  {
@@ -1676,7 +1676,7 @@
    18512
   ],
   "jp": "{voice:003512}今は、メデューテと２人きりの{n}気軽な旅の空なんだから。{n}あまり堅いこと言わないでよ。",
-  "en": "Now it's just me and Medoute on a carefree journey under the open sky. Don't be so strict.",
+  "en": "Now it's just you and me, Medoute, on a carefree journey under the open sky. Don't be so strict.",
   "status": "done"
  },
  {
@@ -1928,7 +1928,7 @@
    18934
   ],
   "jp": "{voice:004912}バイフー、まだ本探してる。{n}ホン当の話、なーんつって。",
-  "en": "Byff is still looking for a book. And that is the whole story. Ha, just kidding.",
+  "en": "Byff is still looking for a book. That is the book-honest truth. Ha, just kidding.",
   "status": "done"
  },
  {

@@ -200,7 +200,7 @@
    6106
   ],
   "jp": "{voice:00E70E}実はさ、このまま私兵団として{n}戦い続けても、いつか俺の目標は{n}叶うような気がしているんだ。",
-  "en": "The thing is, I feel like if we keep fighting as a private band, I'll reach my goal someday anyway.",
+  "en": "The thing is, I feel like if we keep fighting as a private army, I'll reach my goal someday anyway.",
   "status": "done"
  },
  {
@@ -896,7 +896,7 @@
    11414
   ],
   "jp": "{voice:00200F}だから私が行くの。{n}私は私兵団の目だよ？{n}潜んだ敵を見つけるのは任せてよ。",
-  "en": "That's why I'm going. I'm the band's eyes, you know. Leave it to me to spot enemies in hiding.",
+  "en": "That's why I'm going. I'm this army's eyes, you know. Leave it to me to spot enemies in hiding.",
   "status": "done"
  },
  {
@@ -1376,7 +1376,7 @@
    18248
   ],
   "jp": "{voice:00440F}火を放ったか……",
-  "en": "They've set a fire...",
+  "en": "They have set a fire...",
   "status": "done"
  },
  {

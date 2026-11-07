@@ -26,6 +26,8 @@ Voice per character: the JP markers and the English devices that carry them. Gro
 | Mizer | オイラ, ～だぜ, 親分 | Cocky young pickpocket: "Coin, get!", quick talker, grumbles, never self-pitying. |
 | Pandra | 俺, ～だぜ, 大将 | Scruffy rebel chief: leering jokes at adults, "chief", "hey, hey", big cause when cornered. |
 | Inzaghi | 俺, ～だゼ, プロ | Mercenary who says he's a pro: bored, money first, "client". |
+| Gulcasa | 俺, ～だ, ～ぞ, ～せよ | Garlot gone cold: commands, fewer "Hey"s, no doubt. Laugh is Nessiah's "Hehehe...". Jenon and Medoute still say Garlot. |
+| Lapis | 私, ～ぬ, ございます to Soltier | Rigid guard captain: no contractions, formal to the Emperor, contempt for rebels. |
 | Zilva | 私, 体言止め | Clipped assassin: short flat sentences, no contractions, "Such is the will of the Order." |
 | Thugs, bandits | ～ぜ, ～やす, 旦那 | Rough and clipped: "ain't", "boss", "yessir", dropped g's where it helps. |
 | Drunkard | ヒック, ～だぁ | Slurred "*hic*", drawn-out words. |
