@@ -27,6 +27,9 @@ Minor fixes to make before release (phase 9 gate: no unticked line). Ids are `bN
 - [ ] r11 b025:36 酒場の看板娘: "Tavern Poster Girl" -> "Tavern Barmaid".
 - [ ] r11 b025:110 メガネ女の大砲 "Four-Eyes' Cannon" is ruder than the label b024:121 "Woman in Glasses"; see the field-tag row below. r12: the map ticker b034:12 says "Glasses Girl's Cannon" (168 px, field tag 160): make them match.
 - [ ] r12 Chronicle replay dialogue b029:12-144 differs in wording from the event copies (b040:95-100, b041:72-78 and the rest): copy the event English over where it fits.
+- [ ] r07 Pamela's だわさ flattened to plain English: b112:88, b114:85, b115:52, b120:121, b121:27, b121:70, b123:22 (same as r10's deferral; pick one device and apply it to all her だわさ lines).
+- [ ] r07 Byff's weaker puns: b120:27 仮定/かてぇ "That is what-iff", b120:114 復讐復讐 heard as a sneeze (English has no sound joke), b114:66 老将/朗笑 "You soldier on".
+- [ ] r07 Event unit labels in byte-fixed slots: 王国軍 "Army" (b110:117-119, b112:57-58, b115:88; slots 6-26 bytes) where the EBOOT label says "Royal" (r11 b019:86), ネシア屍兵団 "Nessiah Army" (b123:76, 12 bytes, drops 屍兵). Needs the label string moved to grow.
 - [ ] r12 b030:76 ひとつ覗いてみませんか (care to take a peek?) is "How about a dip?": decide in the story pass whether the content rule covers it (the bath scenes include young characters).
 - [ ] r12 book text cut to 3 rows: b030:97 drops 方伯 "Margrave", b030:110 drops "to friend and foe", b030:121 drops "on his master's orders".
 - [ ] r12 b032:21 これで万事解決× "All Fixed! (Not)" adds a joke the JP lacks (× is an emphasis mark): "All Fixed!!"
