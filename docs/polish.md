@@ -22,6 +22,10 @@ Minor fixes to make before release (phase 9 gate: no unticked line). Ids are `bN
 - [ ] r08 b127:94 unref (50 bytes): "...and charge the Sword" lost "Holy" and the trailing "..."; restore if `textcover.py` shows it drawn.
 - [ ] r08 b137:58 腕一本で勝負: "fights with his bare arm alone" -> "fights with nothing but his fists".
 - [ ] r08 b124:70 ギリギリの裏切り puns on 義理 (loyalty); "cutting-edge double-cross" has no pun: find an English one.
+- [ ] r11 b015:41 へへへ、ヤルってことさ (means I'm good): "I'm gonna do it" -> "Heh heh heh, I've got what it takes."
+- [ ] r11 b017:78 懐が浅すぎたか: "I wasn't deep enough..." -> "I lacked the depth..."
+- [ ] r11 b025:36 酒場の看板娘: "Tavern Poster Girl" -> "Tavern Barmaid".
+- [ ] r11 b025:110 メガネ女の大砲 "Four-Eyes' Cannon" is ruder than the label b024:121 "Woman in Glasses"; see the field-tag row below.
 
 ## Cut for space (D4: flagged last resort)
 
@@ -31,7 +35,7 @@ Engine first: wider windows and a moved window went in where they could (`data/w
 - [ ] `eboot_234450` b021:30 item text: "Black Knight Leon's dark devil spear." drops 全てを闇に葬り去る and 秘 (secret) from 全てを闇に葬り去る悪魔の槍。黒騎士レオン愛用の秘槍. Book text is 3 lines of 140 px.
 - [ ] `eboot_2344A4` b021:32 item text: "Coin honoring Gil, hero who slew the demon dragon." drops 古の時代 (ancient times).
 - [ ] `eboot_232BC8` b020:48 item text: "A 1000-year blade that cuts even the formless." drops 究極 (ultimate).
-- [ ] b018 card text, 2 lines of 175 px, each shortened: 35, 37, 39, 42, 53, 56, 58, 59, 69, 73, 76, 79, 81, 87 (Terrain Skill 69 drops the terrain's name from the title line, keeps it on line 2).
+- [ ] b018 card text, 2 lines of 175 px, each shortened: 35, 37, 39, 42, 53, 56, 58, 59, 69, 73, 76, 79, 81, 87 (Terrain Skill 69 now says "Swamp" for 毒沼; "Poison Swamp" needs 3 lines).
 - [ ] b019 card poems 48, 55, 60, 67, 72 shortened to 4 lines of 240 px; retry at full length if phase 8 measures a wider `card_poem`.
 - [ ] Names shortened for the field tag (160 px), same string as the speaker tag: 色黒の女武芸者 "Tanned Fighter" (b024:105), 商人風の青年 "Merchant Youth" (b024:124), 大将らしき無精男 "Scruffy Chief" (b024:135), 王都住民 "Royal City Resident" (b025:14), 帝都住民 "Imperial Resident" (b025:17), ニーベル街区住民 "Nibel Resident" (b025:18), ネザー地区住民 "Nether Resident" (b025:19), メガネ女の大砲 "Four-Eyes' Cannon" (b025:110), 王都の大砲 "Capital Cannon" (b025:129). If phase 8 shows these never reach the field tag, restore them.
 - [ ] Chronicle text, third row 130 px beside the button prompt: `eboot_25F9C4` b029:148, `eboot_260200` b030:40, `eboot_260890` b030:78 ("want a bath" for 汗を流したい).
