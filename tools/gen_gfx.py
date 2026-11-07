@@ -45,6 +45,9 @@ STYLES = {
     "title": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(3, (0, 0, 0)), clear="alpha", align="l"),
     "stripe": dict(font="SourceSans3-Black.ttf", fill=(252, 254, 186), stroke=(2, (31, 27, 38)), clear="stripe", align="c"),
     "over1": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(1, (16, 16, 32)), clear=None, align="l"),
+    "panel-k": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=None, clear=(0, 0, 0, 255), align="c"),
+    "pic-red": dict(font="SourceSans3-Bold.ttf", fill=(200, 30, 60), stroke=(1, (255, 255, 255)), clear=None, align="l", max=15),
+    "pic-cream": dict(font="SourceSans3-Bold.ttf", fill=(245, 230, 170), stroke=(1, (60, 30, 20)), clear=None, align="l", max=14),
     # tutorial captions, yellow or white over art or bare alpha: bright lettering is inpainted, English drawn in place
     "cap": dict(font="SourceSans3-Bold.ttf", fill=(255, 236, 96), stroke=(2, (0, 0, 0)), clear="ink", align="c", max=14),
     "cap-w": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(2, (0, 0, 0)), clear="ink", align="c", max=18),
@@ -243,13 +246,14 @@ def draw(img, box, style, en, s=1.0):
             dst[ox + i, oy + j] = tuple(int(c[k] * al + bg[k] * (1 - al)) for k in range(3)) + (max(a, bg[3]),)
 
 
-def inpaint(img, box, letters=False, yellow=False):
+def inpaint(img, box, letters=False, yellow=False, mask=None):
     """Remove white outlined lettering in box: mask its fill plus 3 px of outline, then fill the mask from what is
     around it (premultiplied RGBA, 4-neighbour mean), so art and transparency outside the letters stay.
     yellow=True (tutorial captions, white or yellow): the mask is the bright lettering in the box and the outline joined
     to it, up to 9 px past the box.
     letters=True (pill words, any fill colour): mask the black outline, the white halo and what they enclose, then
-    snap the box's alpha to 0 or 255 (the fill blends transparency and pill at the pill's edge)."""
+    snap the box's alpha to 0 or 255 (the fill blends transparency and pill at the pill's edge).
+    mask(a) -> bool array: the lettering of an opaque image, grown 2 px."""
     import numpy as np
     x, y, w, h = box
     pad = 9 if yellow else 1  # rough caption boxes: the lettering may run past them
@@ -257,7 +261,10 @@ def inpaint(img, box, letters=False, yellow=False):
     a = np.array(img.crop((X0, Y0, X1, Y1))).astype(float)
     inbox = np.zeros(a.shape[:2], bool)
     inbox[y - Y0:y - Y0 + h, x - X0:x - X0 + w] = True
-    if yellow:  # the lettering is the bright fill in the box plus all bright or black ink joined to it
+    if mask:
+        from scipy import ndimage as ndi
+        m = ndi.binary_dilation(mask(a) & inbox, iterations=2) & inbox
+    elif yellow:  # the lettering is the bright fill in the box plus all bright or black ink joined to it
         from scipy import ndimage as ndi
         op = a[..., 3] > 60
         bright = (a[..., :2].min(axis=2) > 170) & op
@@ -314,6 +321,35 @@ def english(label, items, s=1.0):
     for box, style, jp, en in items:
         draw(img, box, style, en, s)
     return img
+
+
+def _bright(a):
+    return a[..., :3].mean(axis=2) > 140
+
+
+def _red(a):
+    return a[..., 0] - a[..., 1] > 35
+
+
+PIC1 = [  # box, what marks the lettering, style, English: the XMB background, an opaque 480x272 PNG off the disc
+    ((199, 126, 200, 17), _red, "pic-red", "Tactical Fantasy RPG"),
+    ((150, 188, 322, 16), _bright, "pic-cream", "Warriors racing across an empire under dark clouds"),
+    ((198, 209, 280, 15), _bright, "over1", "Form up with allies in the Union System!"),
+    ((198, 224, 280, 15), _bright, "over1", "Wield Tactics Cards to turn the tide of war,"),
+    ((198, 239, 280, 15), _bright, "over1", "choose your future and carve it out!!"),
+]
+
+
+def pic1(png):
+    """English PIC1.PNG from the disc's own bytes."""
+    import io
+    img = Image.open(io.BytesIO(png)).convert("RGBA")
+    for box, mask, style, en in PIC1:
+        inpaint(img, box, mask=mask)
+        draw(img, box, style, en)
+    out = io.BytesIO()
+    img.convert("RGB").save(out, "PNG", optimize=True)
+    return out.getvalue()
 
 
 GROWN = set()  # labels whose group got a new slice at the end of its PTP file (gfx.grow)

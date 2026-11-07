@@ -24,6 +24,8 @@ def load(label):
 
 
 def palette_at(d, off):
+    if ptx.parse(d, off)["fmt"] == 3:  # direct colour
+        return None
     o, pal = off, ptx.palette(d, off)
     while pal is None:
         o = d.rfind(b"PTX@", 0, o)

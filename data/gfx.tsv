@@ -119,7 +119,8 @@
 3@faa20	57,97,57,16	menu	:配置確認	:Deployment
 3@faa20	115,97,34,16	menu	:戻る	:Back
 3@faa20	0,113,88,15	menu	:ポイント振り分け	:Assign Points
-3@faa20	88,113,82,15	menu	勝利条件マップ	Objectives Map
+3@faa20	88,113,46,15	menu-r	勝利条件	Goals
+3@faa20	134,113,36,15	menu	マップ	Map
 # Field labels atlas (English digits and words on it stay)
 3@403560	0,48,149,14	menu	非戦闘キャラクターです	Non-combat character
 3@403560	149,48,16,12	menu	士気	Morale
@@ -1966,7 +1967,8 @@
 3@335440	371,442,113,13	menu	移動で士気回復	Moving restores Morale
 3@3d8800	0,48,226,20	menu	アイテムを持っていません。	You have no items.
 3@3d8800	0,78,58,14	menu	士気回復量…	Morale+
-3@3d8800	58,78,50,14	menu	残りあと	Left:
+3@3d8800	58,78,13,14	menu	…	-
+3@3d8800	71,78,37,14	menu-r	残りあと	Left:
 3@3d8800	108,78,104,14	menu	使用可能マップ数…	Maps of use
 3@3d8800	70,93,142,21	menu	を装備しました!	equipped!
 3@3d8800	24,118,30,11	paper	詳細	Details
@@ -2454,6 +2456,10 @@
 2112@79e90	0,18,199,18	credit	credit name	Takeshi Yamafuji
 2140@400	64,0,240,20	banner-r	title	First, Pick a Card!
 2140@400	18,113,207,37	cap	caption	Choose with the D-pad,\nconfirm with ○!
+2140@400	203,28,101,12	panel-k	タクティクスカード選択	Tactics Card Select
+2140@400	203,40,101,10	panel-k	残りカード数 5枚	Cards Left: 5
+2140@400	210,79,28,10	paper	バニッシュ	Banish
+2140@400	235,111,68,8	paper	エースタイプが全員OK!	All Ace Types OK!
 2140@8ef0	64,0,240,20	banner-r	title	What Cards Decide
 2140@8ef0	38,24,104,18	cap	caption	Ace Type
 2140@8ef0	218,40,44,20	cap	caption	Power
@@ -2594,6 +2600,10 @@
 2140@ed330	215,42,75,16	cap	caption	Mission Name
 2140@ed330	215,78,93,16	cap	caption	Mission Summary
 2140@ed330	215,114,47,16	cap	caption	Difficulty
+2140@ed330	64,47,112,15	cap-w	夜盗を追え!	Chase the Bandits!
+2140@ed330	48,84,130,29	cap-w	ティエラに横行する夜盗を捕らえよ!	Catch the bandits\nrunning wild in Tiera!
+2140@ed330	98,119,27,10	cap-w	難易度	Level
+2140@ed330	50,67,137,8	paper	ティエラ・ニーベル街区	Tiera, Nibel Quarter
 2140@f4a10	65,0,240,20	banner-r	title	Weapon Matchups (3)
 2140@f4a10	12,50,70,20	cap	caption	Bow wins!
 2140@f4a10	232,74,70,18	cap	caption	Staff wins!
@@ -2816,3 +2826,21 @@
 2687@4e280	0,139,30,10	paper	竜騎	Dragon
 2687@4e280	0,169,30,10	paper	騎馬	Horse
 2687@4e280	0,199,30,10	paper	転移	Warp
+2687@c860	0,0,138,26	banner	ガーロット	Garlot
+2687@c860	140,0,138,26	banner	バルドゥス	Baldus
+2687@c860	0,26,138,26	banner	ガルカーサ	Gulcasa
+2687@c860	140,26,138,26	banner	ネシア	Nessiah
+2687@c860	0,52,138,26	banner	シスキア	Siskier
+2687@c860	137,52,141,26	banner	ベアトリーヌ	Baretreenu
+2687@c860	0,78,138,26	banner	ジェノン	Jenon
+2687@c860	140,78,138,26	banner	ジルヴァ	Zilva
+2687@c860	0,104,138,26	banner	メデューテ	Medoute
+2687@c860	140,104,138,26	banner	ミゼル	Mizer
+2687@c860	0,130,138,26	banner	エミリオ	Emilia
+2687@c860	140,130,138,26	banner	パメラ	Pamela
+2687@c860	0,156,138,26	banner	アイギナ	Aegina
+2687@c860	140,156,138,26	banner	バイフー	Byff
+2687@c860	0,182,138,26	banner	ユーディ	Eudy
+2687@c860	140,182,138,26	banner	イータ	Eater
+2687@c860	0,208,138,26	banner	レオン	Leon
+2687@c860	140,208,138,26	banner	スレイプ	Sleip

@@ -36,22 +36,24 @@ def palette(d, off=0):
 def decode(d, off=0, swizzle=None, pal=None):
     from PIL import Image
     h = parse(d, off)
-    bpp = {4: 4, 5: 8}.get(h["fmt"])
+    bpp = {3: 32, 4: 4, 5: 8}.get(h["fmt"])
     if bpp is None:
         raise ValueError(f"format {h['fmt']}")
     pal = palette(d, off) or pal
-    if pal is None:
+    if pal is None and bpp != 32:
         raise ValueError("no palette: poff 0 and no earlier texture in this file")
     stride = h["stride"]
     sb = stride * bpp // 8
     # shortcut: the swizzle flag bit is not pinned down yet, callers can force it; default follows flags & 1
     sw = bool(h["flags"] & 1) if swizzle is None else swizzle
-    raw = d[off + h["doff"]:off + h["doff"] + sb * h["h"] + 16 * 8]
+    rows = (h["h"] + 7) & ~7
+    raw = d[off + h["doff"]:off + h["doff"] + sb * rows + 16 * 8]
     if sw:
         # swizzle works on whole 8-row blocks, so pad rows up
-        rows = (h["h"] + 7) & ~7
         raw = unswizzle(raw.ljust(sb * rows, b"\0"), max(sb, 16), rows)
         sb = max(sb, 16)
+    if bpp == 32:  # direct 8888: the archive's one such texture is the name sheet 2687@c860
+        return Image.frombytes("RGBA", (h["w"], h["h"]), b"".join(raw[y * sb:y * sb + h["w"] * 4] for y in range(h["h"])))
     img = Image.new("RGBA", (h["w"], h["h"]))
     px = img.load()
     for y in range(h["h"]):

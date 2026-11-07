@@ -17,7 +17,7 @@ CPK = Path(__file__).resolve().parent.parent / "work/cpk"
 
 
 def _geom(h):
-    bpp = 8 if h["fmt"] == 5 else 4
+    bpp = {3: 32, 5: 8}.get(h["fmt"], 4)
     sb = h["stride"] * bpp // 8
     sw = bool(h["flags"] & 1)
     rows = (h["h"] + 7) & ~7 if sw else h["h"]
@@ -114,6 +114,15 @@ def group_palette(d, goff):
 def write_ptx(d, off, img, pal=None):
     h = ptx.parse(d, off)
     assert img.size == (h["w"], h["h"]), (img.size, h["w"], h["h"])
+    if h["fmt"] == 3:  # direct 8888: padding keeps its old bytes
+        _, sb, sw, rows = _geom(h)
+        at = off + h["doff"]
+        raw = bytearray(ptx.unswizzle(bytes(d[at:at + sb * rows]), sb, rows) if sw else d[at:at + sb * rows])
+        px = img.convert("RGBA").tobytes()
+        for y in range(h["h"]):
+            raw[y * sb:y * sb + h["w"] * 4] = px[y * h["w"] * 4:(y + 1) * h["w"] * 4]
+        d[at:at + sb * rows] = swizzle(bytes(raw), sb, rows) if sw else raw
+        return
     put_indices(d, off, quantize(img, ptx.palette(d, off) or pal))
 
 
@@ -256,6 +265,8 @@ def ptx_size(d, off):
 def snapped(img, pal):
     """img as the palette will show it (what the game draws after quantize)."""
     from PIL import Image
+    if pal is None:  # direct colour: no palette to snap to
+        return img
     cols = [rgba(c) for c in pal]
     out = Image.new("RGBA", img.size)
     out.putdata([cols[i] for r in quantize(img, pal) for i in r])

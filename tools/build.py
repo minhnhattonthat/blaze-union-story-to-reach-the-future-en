@@ -16,6 +16,7 @@ OUT = ROOT / "build/blaze_union_en.iso"
 MARKER = ROOT / "build/blaze_union_marker.iso"
 CPK = "/PSP_GAME/USRDIR/Data/Data.cpk"
 EBOOT = "/PSP_GAME/SYSDIR/EBOOT.BIN"
+PIC1 = "/PSP_GAME/PIC1.PNG"
 
 
 def extract(iso, name):
@@ -31,8 +32,9 @@ def edits():
     return {}
 
 
-def build(out=OUT, repl=None, keep_same=True, eboot=None):
-    """Write the ISO from the dump: Data.cpk rebuilt with repl, a bigger archive goes to the end of the image."""
+def build(out=OUT, repl=None, keep_same=True, eboot=None, extra=None):
+    """Write the ISO from the dump: Data.cpk rebuilt with repl, a bigger archive goes to the end of the image.
+    extra: {disc path: bytes} for loose files."""
     out = Path(out)
     out.parent.mkdir(parents=True, exist_ok=True)
     tmp = out.with_suffix(".cpk.tmp")  # itoc.rebuild reads a path
@@ -41,7 +43,7 @@ def build(out=OUT, repl=None, keep_same=True, eboot=None):
         data = itoc.rebuild(tmp, edits() if repl is None else repl, keep_same)
     finally:
         tmp.unlink()
-    files = {CPK: data}
+    files = {CPK: data, **(extra or {})}
     if eboot:
         files[EBOOT] = eboot
     iso9660.patch(str(ROM), str(out), files)
@@ -76,7 +78,7 @@ def build_en(out=OUT):
     assert not both, f"sprite and text edits in the same files: {sorted(both)}"
     repl.update({k: v for k, v in art.items() if k != 3})
     print("English strings:", count, "EBOOT", len(eboot), "sprite files", len(art))
-    return build(out, repl=repl, keep_same=False, eboot=eboot)
+    return build(out, repl=repl, keep_same=False, eboot=eboot, extra={PIC1: gen_gfx.pic1(extract(ROM, PIC1))})
 
 
 if __name__ == "__main__":

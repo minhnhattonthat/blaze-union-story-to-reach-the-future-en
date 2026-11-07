@@ -104,8 +104,14 @@ Done 2026-11-07 (eighth session): credits 2112 (lone PTX, fixed canvases: small 
 inpaints bright lettering and the outline joined to it, up to 9 px past the box), Sound Mode tracks 2702, chronicle titles, extras
 headers 2700@b5320, name list 2700@bb050, skill card captions 218-294, prompts 2683@67cb0 and 2687@bc60, 3@ff7e0, counters 3@f90c0
 (the game cuts `Chosen` and `Sortie` from a rect that starts right of the Japanese ink, so they sit 4-5 px in), move tags 2687@4e280.
-Still Japanese: the unit name on the equip bar (`ガーロット`, sheet not found), Japanese UI inside the tutorial's screenshots, `PIC1.PNG`,
-title ruby. Check each against the survey table below.
+Done 2026-11-08 (ninth session): the equip bar's names are 2687@c860, the archive's only direct 8888 texture (fmt 3, no palette: the
+sweep skipped it, `gfx_find.py` can't see it since it isn't in `index.tsv`; `ptx.decode` and `gfx.write_ptx` now handle it). `PIC1.PNG`
+is drawn by `gen_gfx.pic1()` from the disc's bytes and passed to `build.build(extra=)`. Tutorial slides @400 and @ed330's screenshots
+carry English UI. `3@faa20`'s `勝利条件マップ` is two rects, one each side of the L and R icons on Card Select: rows split.
+UI sheets show no `PTX@` in RAM on a screen (the game overwrites the magic), but each file sits whole: to find what a screen loads,
+dump RAM (`ppdbg.py dump`) and search for samples of the `work/cpk` files.
+
+Still Japanese on purpose: the title logo's ruby (D11). Check each against the survey table below.
 
 ## Survey (static sweep complete; the in-game tour in phases 5 and 8 adds to it)
 

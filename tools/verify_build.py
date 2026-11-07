@@ -47,7 +47,7 @@ def digests(iso):
 def check_disc(iso):
     old, new = digests(build.ROM), digests(iso)
     errs = [f"{n}: {'missing' if n not in new else 'added' if n not in old else 'differs'}"
-            for n in sorted(old.keys() | new.keys()) if n not in (build.EBOOT, build.CPK) and old.get(n) != new.get(n)]
+            for n in sorted(old.keys() | new.keys()) if n not in (build.EBOOT, build.CPK, build.PIC1) and old.get(n) != new.get(n)]
     print(f"disc: {len(old)} files, {len(errs)} unexpected differences")
     return errs
 
