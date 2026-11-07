@@ -1256,3 +1256,170 @@
 2700@e91d0	5,1,94,15	menu	牛乳嫌いな人以外	Milk drinkers
 2700@e95c0	5,0,60,16	menu	全員装備可	All can equip
 2700@e98b0	5,0,72,16	menu	全員装備不可	None can equip
+# Unit names, large (status screen, 3@177e70-19c6d0) and small (3@1907d0-19c940); generic names in full
+3@177e70	0,3,84,35	banner-l	ガーロット	Garlot
+3@178390	0,2,88,36	banner-l	ガルカーサ	Gulcasa
+3@178920	0,7,67,31	banner-l	シスキア	Siskier
+3@178de0	0,9,65,29	banner-l	ジェノン	Jenon
+3@1792a0	0,2,84,36	banner-l	メデューテ	Medoute
+3@1797a0	0,4,69,34	banner-l	エミリオ	Emilia
+3@179ce0	0,6,68,32	banner-l	アイギナ	Aegina
+3@17a180	0,8,66,30	banner-l	ユーディ	Eudy
+3@17a5a0	0,11,51,27	banner-l	レオン	Leon
+3@17a9f0	0,3,85,35	banner-l	バルドゥス	Baldus
+3@17afb0	0,5,83,33	banner-l	ヴェルマン	Velleman
+3@17b590	0,4,85,34	banner-l	ソルティエ	Soltier
+3@17bb20	0,9,51,29	banner-l	ネシア	Nessiah
+3@17bf90	0,4,100,34	banner-l	ベアトリーヌ	Baretreenu
+3@17c5f0	0,6,68,32	banner-l	ジルヴァ	Zilva
+3@17cab0	0,5,67,33	banner-l	パンドラ	Pandra
+3@17cf30	0,11,54,27	banner-l	ミゼル	Mizer
+3@17d3a0	0,1,87,37	banner-l	インザーギ	Inzaghi
+3@17d960	0,11,50,27	banner-l	ノルン	Norn
+3@17dd70	0,3,82,35	banner-l	デイヴィド	David
+3@17e280	0,8,53,30	banner-l	パメラ	Pamela
+3@17e6a0	0,8,67,30	banner-l	バイフー	Byff
+3@17eaa0	0,9,50,29	banner-l	イータ	Eater
+3@17ee30	0,6,70,32	banner-l	ラッセル	Russell
+3@17f390	0,3,99,35	banner-l	オルディーン	Ordene
+3@17f9f0	0,2,101,36	banner-l	アランゼーム	Alanjame
+3@180080	0,9,54,29	banner-l	ラピス	Lapis
+3@1804c0	0,10,54,28	banner-l	セリカ	Cerica
+3@180900	0,4,68,34	banner-l	スレイプ	Sleip
+3@180dd0	0,3,85,35	banner-l	アスガーリ	Asgari
+3@181360	0,9,48,29	banner-l	アルフ	Alf
+3@181770	0,11,50,27	banner-l	ヴァン	Van
+3@181b70	0,8,66,30	banner-l	ヴェアル	Vear
+3@182040	0,4,86,34	banner-l	ミズガーリ	Mizgari
+3@1825b0	0,8,65,30	banner-l	ヨトゥン	Jotun
+3@182a80	0,4,84,34	banner-l	ニヴァール	Nivar
+3@183010	0,12,55,26	banner-l	ヘルル	Hel
+3@183470	0,7,71,31	banner-l	ムスパー	Muspar
+3@183900	0,9,53,29	banner-l	テシタ	Tesita
+3@183d00	0,9,39,29	banner-l	私兵	Private Guard
+3@184080	0,7,55,31	banner-l	遊撃兵	Ranger
+3@1844f0	0,9,39,29	banner-l	傭兵	Mercenary
+3@184860	0,9,39,29	banner-l	野盗	Bandit
+3@184bd0	0,9,38,29	banner-l	山賊	Brigand
+3@184f40	0,9,39,29	banner-l	刺客	Killer
+3@1852b0	0,8,55,30	banner-l	暗殺者	Assassin
+3@185700	0,8,55,30	banner-l	重騎兵	Heavy Knight
+3@185b70	0,9,39,29	banner-l	盗賊	Thief
+3@185ec0	0,8,54,30	banner-l	教団兵	Papal Soldier
+3@186310	0,8,54,30	banner-l	王国兵	Royal Soldier
+3@186780	0,8,54,30	banner-l	反乱兵	Rebel
+3@186c00	0,10,39,28	banner-l	子分	Goon
+3@186f80	0,3,73,35	banner-l	輸送隊長	Convoy Leader
+3@1874f0	0,9,39,29	banner-l	民兵	Militia
+3@187860	0,9,38,29	banner-l	屍兵	Corpse Soldier
+3@187c40	0,3,83,35	banner-l	ゴロツキA	Thug A
+3@188210	0,3,83,35	banner-l	ゴロツキB	Thug B
+3@1887e0	0,3,82,35	banner-l	ゴロツキC	Thug C
+3@188da0	0,4,84,34	banner-l	ゴロツキD	Thug D
+3@189360	0,2,83,36	banner-l	ゴロツキE	Thug E
+3@1898f0	0,9,54,29	banner-l	その他	Other
+3@189cf0	0,7,54,31	banner-l	親衛隊	Guards
+3@18a180	0,4,73,34	banner-l	鋼鉄騎兵	Steel Knight
+3@18a6d0	0,8,55,30	banner-l	帝国兵	Imperial Soldier
+3@18ab40	0,8,69,30	banner-l	ミニオン	Minion
+3@18afd0	0,3,73,35	banner-l	神殿の者	Temple Guard
+3@18b550	0,7,55,31	banner-l	近衛兵	Royal Guard
+3@18b9d0	0,7,55,31	banner-l	総隊長	Commander
+3@18bee0	0,1,90,37	banner-l	カローナ兵	Karona Soldier
+3@18c4a0	0,4,72,34	banner-l	斥候隊長	Scout Leader
+3@18ca10	0,8,55,30	banner-l	砲撃手	Gunner
+3@18cea0	0,9,39,29	banner-l	番兵	Sentry
+3@18d240	0,7,54,31	banner-l	門番長	Warden
+3@18d6c0	0,4,73,34	banner-l	野盗隊長	Bandit Chief
+3@18dc40	0,3,72,35	banner-l	山賊団長	Brigand Chief
+3@18e1c0	0,3,73,35	banner-l	盗賊団長	Thief Boss
+3@18e750	0,4,72,34	banner-l	教団兵長	Papal Captain
+3@18ecd0	0,8,54,30	banner-l	小隊長	Squad Leader
+3@18f0f0	0,7,54,31	banner-l	大隊長	Battalion Leader
+3@18f580	0,4,73,34	banner-l	輸送隊員	Convoy Escort
+3@18fb10	0,8,67,30	banner-l	ゴーレム	Golem
+3@18ff20	0,5,71,33	banner-l	ルシエナ	Luciana
+3@190440	0,10,45,28	banner-l	？？？	???
+3@1907d0	0,0,48,17	menu	ガーロット	Garlot
+3@190af0	0,0,53,17	menu	ガルカーサ	Gulcasa
+3@190e60	0,0,41,17	menu	シスキア	Siskier
+3@1910e0	0,0,40,17	menu	ジェノン	Jenon
+3@191360	0,0,49,17	menu	メデューテ	Medoute
+3@191650	0,1,42,16	menu	エミリオ	Emilia
+3@1918d0	0,0,41,17	menu	アイギナ	Aegina
+3@191b40	0,0,38,17	menu	ユーディ	Eudy
+3@191d80	0,0,32,17	menu	レオン	Leon
+3@191ff0	0,0,50,17	menu	バルドゥス	Baldus
+3@1922b0	0,0,50,17	menu	ヴェルマン	Velleman
+3@1925a0	0,1,49,16	menu	ソルティエ	Soltier
+3@192890	0,0,32,17	menu	ネシア	Nessiah
+3@192b00	0,0,59,17	menu	ベアトリーヌ	Baretreenu
+3@192df0	0,0,41,17	menu	ジルヴァ	Zilva
+3@193060	0,0,41,17	menu	パンドラ	Pandra
+3@1932a0	0,0,33,17	menu	ミゼル	Mizer
+3@193510	0,0,54,17	menu	インザーギ	Inzaghi
+3@1937e0	0,1,33,16	menu	ノルン	Norn
+3@193a70	0,0,47,17	menu	デイヴィド	David
+3@193d40	0,0,33,17	menu	パメラ	Pamela
+3@193fb0	0,0,42,17	menu	バイフー	Byff
+3@194200	0,0,31,17	menu	イータ	Eater
+3@194470	0,1,42,16	menu	ラッセル	Russell
+3@194770	0,0,58,17	menu	オルディーン	Ordene
+3@194ae0	0,0,61,17	menu	アランゼーム	Alanjame
+3@194e30	0,0,31,17	menu	ラピス	Lapis
+3@1950b0	0,1,31,16	menu	セリカ	Cerica
+3@195340	0,0,43,17	menu	スレイプ	Sleip
+3@1955f0	0,0,51,16	menu	アスガーリ	Asgari
+3@1958a0	0,2,31,14	menu	アルフ	Alf
+3@195a50	0,0,30,16	menu	ヴァン	Van
+3@195c00	0,0,39,16	menu	ヴェアル	Vear
+3@195e30	0,0,49,16	menu	ミズガーリ	Mizgari
+3@1960e0	0,1,39,15	menu	ヨトゥン	Jotun
+3@196310	0,0,50,16	menu	ニヴァール	Nivar
+3@1965e0	0,3,35,13	menu	ヘルル	Hel
+3@1967a0	0,0,43,16	menu	ムスパー	Muspar
+3@1969d0	0,1,33,15	menu	テシタ	Tesita
+3@196c00	0,0,24,16	menu	私兵	Private Guard
+3@196db0	0,1,34,15	menu	遊撃兵	Ranger
+3@196fe0	0,1,23,15	menu	傭兵	Mercenary
+3@197190	0,1,24,15	menu	野盗	Bandit
+3@197340	0,0,24,16	menu	山賊	Brigand
+3@1974f0	0,1,24,15	menu	刺客	Killer
+3@1976a0	0,1,34,15	menu	暗殺者	Assassin
+3@1978d0	0,1,34,15	menu	重騎兵	Heavy Knight
+3@197b00	0,1,25,15	menu	盗賊	Thief
+3@197cb0	0,1,34,15	menu	教団兵	Papal Soldier
+3@197ee0	0,1,34,15	menu	王国兵	Royal Soldier
+3@198120	0,1,34,15	menu	反乱兵	Rebel
+3@198350	0,1,24,15	menu	子分	Goon
+3@198500	0,1,45,15	menu	輸送隊長	Convoy Leader
+3@198730	0,1,24,15	menu	民兵	Militia
+3@1988e0	0,1,24,15	menu	屍兵	Corpse Soldier
+3@198a90	0,0,52,16	menu	ゴロツキA	Thug A
+3@198d40	0,0,52,16	menu	ゴロツキB	Thug B
+3@198ff0	0,0,52,16	menu	ゴロツキC	Thug C
+3@1992a0	0,0,53,16	menu	ゴロツキD	Thug D
+3@199550	0,0,52,16	menu	ゴロツキE	Thug E
+3@199800	0,0,33,16	menu	その他	Other
+3@199a30	0,1,35,15	menu	親衛隊	Guards
+3@199c60	0,1,45,15	menu	鋼鉄騎兵	Steel Knight
+3@199e90	0,1,33,15	menu	帝国兵	Imperial Soldier
+3@19a0c0	0,0,41,16	menu	ミニオン	Minion
+3@19a2f0	0,0,45,16	menu	神殿の者	Temple Guard
+3@19a520	0,1,34,15	menu	近衛兵	Royal Guard
+3@19a750	0,1,34,15	menu	総隊長	Commander
+3@19a980	0,1,52,15	menu	カローナ兵	Karona Soldier
+3@19ac30	0,1,45,15	menu	斥候隊長	Scout Leader
+3@19ae60	0,1,34,15	menu	砲撃手	Gunner
+3@19b090	0,1,23,15	menu	番兵	Sentry
+3@19b240	0,1,34,15	menu	門番長	Warden
+3@19b470	0,1,45,15	menu	野盗隊長	Bandit Chief
+3@19b6a0	0,0,45,16	menu	山賊団長	Brigand Chief
+3@19b8d0	0,1,45,15	menu	盗賊団長	Thief Boss
+3@19bb00	0,1,45,15	menu	教団兵長	Papal Captain
+3@19bd30	0,0,34,16	menu	小隊長	Squad Leader
+3@19bf60	0,0,35,16	menu	大隊長	Battalion Leader
+3@19c1d0	0,0,44,17	menu	輸送隊員	Convoy Escort
+3@19c480	0,0,40,16	menu	ゴーレム	Golem
+3@19c6d0	0,0,44,17	menu	ルシエナ	Luciana
+3@19c940	0,0,30,17	menu	？？？	???
