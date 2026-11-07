@@ -31,6 +31,14 @@ Minor fixes to make before release (phase 9 gate: no unticked line). Ids are `bN
 - [ ] r12 book text cut to 3 rows: b030:97 drops 方伯 "Margrave", b030:110 drops "to friend and foe", b030:121 drops "on his master's orders".
 - [ ] r12 b032:21 これで万事解決× "All Fixed! (Not)" adds a joke the JP lacks (× is an emphasis mark): "All Fixed!!"
 - [ ] r12 game over: "Garlot and the others, however, / during Round 1, / was routed by a tactical error," (b027:78 then the shared b028:60): plural subject, singular verb; b028:60 is in 80 chains.
+- [ ] r10 battle cries with a speaker quirk flattened (no speaker in the record, so match the voice when the speaker is known): だわさ b008:17 "Too light.", b009:49, b013:5; かしら b009:126 "I suppose I stopped the fatal wound." -> "Looks like I dodged a fatal wound, didn't I?"
+- [ ] r10 b008:33 …役不足だ (strictly: the role is beneath me) "...Not up to the task." reads as self-doubt -> "...You're no match for me."
+- [ ] r10 b007:108 ピックが合いませんわ "My pick is out of tune..." (a pick isn't tuned) -> "My pick just isn't right..."
+- [ ] r10 b007:53 いかがですか？ "How is this?" -> "How do you like that?"; b009:86 …感謝しよう "...I give thanks." -> "...You have my thanks."; b009:149 望むところですよ "That is just what I wished." -> "Just as I'd hoped. Hehehe..."
+- [ ] r10 b009:71 遅れをとるなよ③ "Don't fall behind?!": ③ reads as a question here -> "Don't fall behind!"
+- [ ] r10 b011:68 お仕置きが必要ね "You need a spanking!" -> "You need to be punished!" unless the speaker is known to be an adult teasing an adult.
+- [ ] r10 Zilva-style one-word cries read flat in English: b005:65, b007:79 "...Kill." -> "...I kill."; b007:73 "...Protect.", b012:97 "...Crush.", b013:26 "...Hinder.", b014:106 "...Tear."
+- [ ] r10 laughs: b005:75, b012:110 "Kekekei!" -> "Kekekeee!"
 
 ## Cut for space (D4: flagged last resort)
 
