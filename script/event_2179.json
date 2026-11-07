@@ -2446,7 +2446,7 @@
    115428
   ],
   "jp": "{voice:000E0C}よう、じゃないでしょ！{n}アンタって人は②",
-  "en": "Don't you 'hey' me! You, honestly!",
+  "en": "Don't you 'hey' me! Honestly, you're impossible!",
   "status": "done"
  },
  {
@@ -2602,7 +2602,7 @@
    125184
   ],
   "jp": "{voice:001A0C}どうもレオンは、{n}あたし達私兵団に負けた事を{n}まだ根に持っているみたいだ。",
-  "en": "Leon seems to still be sore about losing to us in the private army.",
+  "en": "Leon seems to still be sore about losing to our private army.",
   "status": "done"
  },
  {
@@ -2674,7 +2674,7 @@
    125330
   ],
   "jp": "{voice:00200C}まぁ今回は、{n}無事に撃退できてよかった。",
-  "en": "Well, this time we fought them off safely, and that's good.",
+  "en": "Well, we fought them off in one piece this time. That's what counts.",
   "status": "done"
  },
  {
@@ -2722,7 +2722,7 @@
    125400
   ],
   "jp": "{voice:00240C}早いところ戻ろうか。{n}誰かのせいで予定が長引いて{n}しまったからな。",
-  "en": "Let's hurry back. Someone made us run long on our schedule.",
+  "en": "Let's hurry back. Thanks to a certain someone, we're way behind schedule.",
   "status": "done"
  },
  {
@@ -3080,7 +3080,7 @@
    111962
   ],
   "jp": "御託はいい！{n}さあ、打ちかかって来い！",
-  "en": "Enough talk! Come on, attack me!",
+  "en": "Enough talk! Come at me!",
   "status": "done"
  },
  {
@@ -3296,7 +3296,7 @@
    113504
   ],
   "jp": "ならば話は早い！{n}さあ、かかってこい！",
-  "en": "Then let's get on with it! Come on, attack me!",
+  "en": "Then let's get on with it! Come at me!",
   "status": "done"
  },
  {

@@ -368,7 +368,7 @@
    13611
   ],
   "jp": "{voice:008F0B}アイツが山賊相手にしてる間に、{n}挟み撃ちでフルボッコにする{n}作戦じゃなかったの③",
-  "en": "Wasn't the plan to surround him and pound him while he fought the bandits?!",
+  "en": "Wasn't the plan to catch him in a pincer and pound him while he fought the bandits?!",
   "status": "done"
  },
  {
@@ -416,7 +416,7 @@
    13762
   ],
   "jp": "{voice:00930B}ったくよ……{n}すいませんね、セリカ姉さん！",
-  "en": "Jeez... Sorry about that, Cerica-neesan!",
+  "en": "Jeez... Sorry about that, Sis Cerica!",
   "status": "done"
  },
  {
@@ -918,7 +918,7 @@
    9546
   ],
   "jp": "む。これはコインではないか。",
-  "en": "Hm. Is this not a coin.",
+  "en": "Hm. Is this not a coin?",
   "status": "done"
  },
  {
@@ -2427,7 +2427,7 @@
    31628
   ],
   "jp": "辛くたって、苦しくたって…{n}大切な人がいない夜を{n}１人で過ごすのはイヤなんだよ！",
-  "en": "So what if it hurts... Cerica doesn't want to spend nights alone without the one she loves!",
+  "en": "So what if it hurts... Cerica hates spending her nights alone, without the person she needs!",
   "status": "done"
  },
  {
@@ -2475,7 +2475,7 @@
    31913
   ],
   "jp": "本当に悲しいな、お前は。{n}終わらせてやるのだけが{n}お前の安息だと思うんだが…",
-  "en": "You really are a sad one. I think the only rest for you is to end this...",
+  "en": "You really are a sad one. I think ending you is the only rest you'll ever get...",
   "status": "done"
  },
  {
@@ -2607,7 +2607,7 @@
    32588
   ],
   "jp": "復讐の刃はいまだ衰えず、か。{n}どうすればいいんだろうなあ？",
-  "en": "The blade of revenge is still strong, is it. What to do, what to do?",
+  "en": "The blade of revenge is still strong, is it. What should Byff do?",
   "status": "done"
  },
  {
@@ -3063,7 +3063,7 @@
    34900
   ],
   "jp": "お前、何故団長の事を{n}殺そうとするんだ？",
-  "en": "You. Why do you try to kill the captain?",
+  "en": "You. Why do you try to kill the Captain?",
   "status": "done"
  },
  {
@@ -3203,7 +3203,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "だから、何を言ってるんだよ！{n}わけわかんない…",
-  "en": "Like Cerica said, what do you mean!? Huh...",
+  "en": "What do you mean!? Cerica doesn't get it...",
   "status": "done"
  }
 ]

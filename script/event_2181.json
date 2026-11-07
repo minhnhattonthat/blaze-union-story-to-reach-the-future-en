@@ -152,7 +152,7 @@
    7789
   ],
   "jp": "{voice:00A60C}手を抜け、って事か？{n}それは相手の力量と戦い方次第だ。{n}今回は難しいぜ。",
-  "en": "Go easy, huh? That depends on how strong they are and how they fight. Won't be easy this time.",
+  "en": "Hold back, huh? That depends on how strong they are and how they fight. Won't be easy this time.",
   "status": "done"
  },
  {
@@ -440,7 +440,7 @@
    9049
   ],
   "jp": "{voice:00BE0C}俺達からか…！{n}ヴェルマン、さっきも言ったが、{n}手を抜くのは難しいと思う。",
-  "en": "We're up first...! Velleman, like I said before, I don't think we can go easy.",
+  "en": "We're up first...! Velleman, like I said before, I don't think we can hold back.",
   "status": "done"
  },
  {
@@ -1367,7 +1367,7 @@
    13687
   ],
   "jp": "この布には強烈な残留思念が{n}染み付いているんだわさ…",
-  "en": "Intense lingering thoughts have soaked into this cloth, they have...",
+  "en": "Intense lingering thoughts have soaked into this cloth, y'know...",
   "status": "done"
  },
  {
@@ -1865,7 +1865,7 @@
    28183
   ],
   "jp": "{voice:00F20C}つい長居をしてしまった。{n}居心地が良すぎたからね……{n}だけど、そろそろ潮時みたい。",
-  "en": "I ended up staying too long. It was too comfortable here... But it looks like it's about time.",
+  "en": "I ended up staying too long. It was too comfortable here... But it looks like it's about time I moved on.",
   "status": "done"
  },
  {
@@ -1877,7 +1877,7 @@
    28204
   ],
   "jp": "{voice:00F30C}……私兵団を抜けたい。{n}そういう事か？",
-  "en": "...You want to leave the band. Is that it?",
+  "en": "...You want to leave the private army. Is that it?",
   "status": "done"
  },
  {
@@ -2165,7 +2165,7 @@
    29195
   ],
   "jp": "{voice:000B0D}それに気付けば、{n}破る事は大して難しくない。",
-  "en": "Once you notice that, beating them isn't very hard.",
+  "en": "Once you notice that, beating such a force isn't very hard.",
   "status": "done"
  },
  {
@@ -2261,7 +2261,7 @@
    29454
   ],
   "jp": "{voice:00130D}さて、どう動くヴェルマン。{n}そして赤髪よ…",
-  "en": "Now then, what will you do, Velleman? And you, Redhead...",
+  "en": "Now then, what will you do, Velleman? And you, redhead...",
   "status": "done"
  }
 ]
