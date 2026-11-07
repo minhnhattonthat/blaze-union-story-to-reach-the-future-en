@@ -17,6 +17,7 @@ Minor fixes to make before release (phase 9 gate: no unticked line). Ids are `bN
 
 ## From the per-chunk reviewer pass (docs/review.md)
 
+- [ ] r03 Unit labels, byte-fixed: ネシア屍兵団A/B "Nessiah A/B", ネシア本隊 "Nessiah" (b072:67-69) drop 屍兵団 and 本隊 (13 and 10 bytes; b123:76's "Nessiah Army" doesn't fit with the letter); パメラ様御一行 "Pamela-sama" (b064:125) drops 御一行. b069:131 ウチのバァさん "my old Baa-san": the lint wants -san after バァさん, but it means "my missus", not a name; exempt it or rephrase. b063:45 Pamela's スタック積んでりゃいい "how much stack you pile up" is opaque (her nonsense, but check what スタック means here). Pamela's だわさ as "y'know" again throughout b063-b072.
 - [ ] r09 b141:22 赤髪 "Red": glossary has "Red" for Pandra and Leon, "the redhead" for Soltier; confirm this item-use block's speaker and match.
 - [ ] r08 b134:73 後で置物にしてやるよ: "Nice ornament, you" is stiff (21-byte bare slot); find a better fit.
 - [ ] r08 b127:94 unref (50 bytes): "...and charge the Sword" lost "Holy" and the trailing "..."; restore if `textcover.py` shows it drawn.
