@@ -8,8 +8,8 @@
    285
   ],
   "jp": "{voice:000100}く、くそっ…！{n}敵を、甘く見ちまったぜ…",
-  "en": "",
-  "status": ""
+  "en": "D-Damn it...! I underestimated the enemy...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01158",
@@ -20,8 +20,8 @@
    361
   ],
   "jp": "{voice:000200}ち、くしょう…！{n}俺達グラムブレイズの力は、{n}こんなもんじゃ…",
-  "en": "",
-  "status": ""
+  "en": "D-Damn...! Gram Blaze's strength isn't just this...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01199",
@@ -32,8 +32,8 @@
    437
   ],
   "jp": "{voice:000300}こんなハズじゃ、なかったのに…{n}シスキア…②",
-  "en": "",
-  "status": ""
+  "en": "It wasn't supposed to go like this... Siskier...!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_011C9",
@@ -44,8 +44,8 @@
    513
   ],
   "jp": "{voice:000400}すまんアイギナ、ルシエナ…！{n}もう、戦えそうに、ない…",
-  "en": "",
-  "status": ""
+  "en": "Sorry, Aegina, Luciana...! I don't think I can fight anymore...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01203",
@@ -56,8 +56,8 @@
    589
   ],
   "jp": "{voice:000500}ぐくっ、なんて力なんだ…②{n}俺、もう……",
-  "en": "",
-  "status": ""
+  "en": "Gngh, what power...!! I can't go on...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0122F",
@@ -68,8 +68,8 @@
    665
   ],
   "jp": "{voice:000600}理不尽のない世界…{n}この手で、作りたかったが…！",
-  "en": "",
-  "status": ""
+  "en": "A world without injustice... I wanted to make it with these hands...!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01263",
@@ -80,8 +80,8 @@
    741
   ],
   "jp": "{voice:000700}ここが限界なのか……{n}一体、何の為の、力だったんだ…",
-  "en": "",
-  "status": ""
+  "en": "Is this my limit... What was my power even for...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0129B",
@@ -92,8 +92,8 @@
    817
   ],
   "jp": "{voice:000800}ガーロット、ジェノン…{n}ごめん、ごめんね…",
-  "en": "",
-  "status": ""
+  "en": "Garlot, Jenon... Sorry, I'm sorry...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_012C9",
@@ -104,8 +104,8 @@
    893
   ],
   "jp": "{voice:000900}友達、なんだよ？{n}できるわけないじゃない……",
-  "en": "",
-  "status": ""
+  "en": "We're friends, you know? There's no way I could do that...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_012F9",
@@ -116,8 +116,8 @@
    1115
   ],
   "jp": "{voice:000A00}しまった…{n}策に溺れ過ぎたって事か…{n}笑えないな、こんなの…",
-  "en": "",
-  "status": ""
+  "en": "Damn... I guess I got too clever for my own good... That's not even funny...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01338",
@@ -128,8 +128,8 @@
    1266
   ],
   "jp": "{voice:000B00}……知らなかった{n}死ぬのがこんなに、{n}恐い事だったなんて……",
-  "en": "",
-  "status": ""
+  "en": "...I didn't know. That dying was so scary...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01377",
@@ -140,8 +140,8 @@
    1342
   ],
   "jp": "{voice:000C00}あ～、腹立つ！{n}こんな男どもにやられるなんて、{n}本当に腹立たしい②　自分に②",
-  "en": "",
-  "status": ""
+  "en": "Ugh, I'm so mad! Beaten by guys like these, it really makes me mad!! At myself!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_013C6",
@@ -152,8 +152,8 @@
    1418
   ],
   "jp": "{voice:000D00}く…②{n}悪い、ガーロット…{n}あなたに、繋げなかった…！",
-  "en": "",
-  "status": ""
+  "en": "Gh...!! Sorry, Garlot... I couldn't get it to you...!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_013FF",
@@ -164,8 +164,8 @@
    1494
   ],
   "jp": "{voice:000E00}ここで倒れるなんて…！{n}カッコつかないなぁ、まったく…",
-  "en": "",
-  "status": ""
+  "en": "Falling here...! That's not very cool, honestly...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01439",
@@ -176,8 +176,8 @@
    1570
   ],
   "jp": "{voice:000F00}ここで倒れるなんて…！{n}でも、有終の美、ってやつかな…",
-  "en": "",
-  "status": ""
+  "en": "Falling here...! Still, I guess it's what you'd call going out on a high note...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01473",
@@ -188,8 +188,8 @@
    1714
   ],
   "jp": "{voice:001000}い、イヤだ…！{n}役立たずのまま、なんて…{n}イヤだ……",
-  "en": "",
-  "status": ""
+  "en": "N-No...! Stuck being useless forever... No...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_014AA",
@@ -200,8 +200,8 @@
    2689
   ],
   "jp": "{voice:001100}ぐおおっ！{n}まさかこんな、ところで…{n}俺がか…③",
-  "en": "",
-  "status": ""
+  "en": "Gwoaah! In a place like this... Me...!?",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_014DD",
@@ -212,8 +212,8 @@
    1858
   ],
   "jp": "{voice:001200}すみません、ルシエナ姉さん…{n}私、もう…、前が見えません…",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry, Sister Luciana... I can't... see ahead anymore...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0151B",
@@ -224,8 +224,8 @@
    1934
   ],
   "jp": "{voice:001300}ここで、倒れてしまったら…{n}私達の復讐は…？",
-  "en": "",
-  "status": ""
+  "en": "If I fall here... What of our revenge...?",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0154B",
@@ -236,8 +236,8 @@
    2010
   ],
   "jp": "{voice:001400}しまった！　こんなはずじゃ…",
-  "en": "",
-  "status": ""
+  "en": "Damn it! This wasn't supposed to...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0156C",
@@ -248,8 +248,8 @@
    2086
   ],
   "jp": "{voice:001500}姉さん、ごめんなさい…！{n}私もう…ダメ、みたいです…",
-  "en": "",
-  "status": ""
+  "en": "Sister, I'm sorry...! I think I can't... go any further...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_015A4",
@@ -260,8 +260,8 @@
    2162
   ],
   "jp": "{voice:001600}仇を目の前にして…！{n}情けない、です…",
-  "en": "",
-  "status": ""
+  "en": "With my enemy before my eyes...! How pathetic...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_015CE",
@@ -272,8 +272,8 @@
    2238
   ],
   "jp": "{voice:001700}ここまで来て……{n}終わりだなんて、嫌なんです……",
-  "en": "",
-  "status": ""
+  "en": "To come this far... I don't want it to end...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01602",
@@ -284,8 +284,8 @@
    2460
   ],
   "jp": "{voice:001800}あぐぅ…！{n}まだ試したい事、たくさん…{n}あった、のに……",
-  "en": "",
-  "status": ""
+  "en": "Agh...! There were so many things... I still wanted to try...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0163D",
@@ -296,8 +296,8 @@
    3265
   ],
   "jp": "{voice:001900}……無に帰る、それだけだ。",
-  "en": "",
-  "status": ""
+  "en": "...I return to nothing. That is all.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0165C",
@@ -308,8 +308,8 @@
    2977
   ],
   "jp": "{voice:001A00}フフフ…{n}私が、死ぬのですか…{n}フフ…",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... So I am to die... Hehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01685",
@@ -320,8 +320,8 @@
    2833
   ],
   "jp": "{voice:001B00}……おおお！{n}戦場で散った数多の将兵達…{n}今、そちらへ行くぞ…②",
-  "en": "",
-  "status": ""
+  "en": "...Oooh! You many officers and men who fell on the battlefield... I come to you now...!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_016C8",
@@ -332,8 +332,8 @@
    3121
   ],
   "jp": "{voice:001C00}死は、つまり、生……{n}生命は、巡るのです……{n}…悲しくは、ありません。",
-  "en": "",
-  "status": ""
+  "en": "Death is, in other words, life... Life goes around... ...I am not sad.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01711",
@@ -344,8 +344,8 @@
    3789
   ],
   "jp": "{voice:001D00}バ、バイフー！　消える！{n}ワォォォォン！　これは吠える。{n}なんっつーーって……",
-  "en": "",
-  "status": ""
+  "en": "Byff is fading! Awooo! That is baying. Ha, just kiddiiing...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01762",
@@ -356,8 +356,8 @@
    3933
   ],
   "jp": "{voice:001E00}あら、どうやらわたくし、{n}元の世界にもどらなければ…{n}ならないようですね……",
-  "en": "",
-  "status": ""
+  "en": "Oh my, it seems I must return to my own world...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_017B1",
@@ -368,8 +368,8 @@
    4084
   ],
   "jp": "{voice:001F00}うぐぉ！{n}これで地上界での生活も終わりか…{n}冗談じゃ、ないぜ……",
-  "en": "",
-  "status": ""
+  "en": "Ugoh! So this is the end of my life on the surface world... Gimme a break...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_017F4",
@@ -380,8 +380,8 @@
    3553
   ],
   "jp": "{voice:002000}動かねば…、闇にへだつや花と水…{n}ぐ、ぐはぁっ……！",
-  "en": "",
-  "status": ""
+  "en": "If I cannot move... darkness parts the flower and water... Gh, guhah...!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0182C",
@@ -392,8 +392,8 @@
    3409
   ],
   "jp": "{voice:002100}うわーっ！　こんなことなら、{n}もっと遊んどけばよかった…！",
-  "en": "",
-  "status": ""
+  "en": "Waaah! If I'd known, I would've goofed off more...!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0186A",
@@ -404,8 +404,8 @@
    4228
   ],
   "jp": "{voice:002200}ヒック…{n}みんな…、いま逝くわ……",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... Everyone... I'm on my way...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01890",
@@ -416,8 +416,8 @@
    961
   ],
   "jp": "…ごめん、ガーロット！{n}撤退させてもらうね！",
-  "en": "",
-  "status": ""
+  "en": "...Sorry, Garlot! I'm pulling back!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_018BC",
@@ -428,8 +428,8 @@
    1183
   ],
   "jp": "悪いが引かせてもらうよ。{n}兵法三十六計逃げるに如かず、{n}って言うからね。",
-  "en": "",
-  "status": ""
+  "en": "Sorry, but I'm pulling out. Of the thirty-six stratagems, running away is best, as they say.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01903",
@@ -440,8 +440,8 @@
    1190
   ],
   "jp": "言い訳っぽくて嫌だけどね…",
-  "en": "",
-  "status": ""
+  "en": "I hate how much that sounds like an excuse...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0191E",
@@ -452,8 +452,8 @@
    1638
   ],
   "jp": "くっ！{n}このままじゃ部隊がもたないな…{n}撤退するしかないか。",
-  "en": "",
-  "status": ""
+  "en": "Gah! At this rate my unit won't hold... I'll have to withdraw.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01959",
@@ -464,8 +464,8 @@
    1782
   ],
   "jp": "もーう、痛いのヤダ～～ッ！{n}いつか仕返ししてやるから②{n}覚えてろよー！",
-  "en": "",
-  "status": ""
+  "en": "Ugh, I hate getting hurt! I'll get you back someday!! You'd better remember this!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_0199E",
@@ -476,8 +476,8 @@
    2757
   ],
   "jp": "クソッ！　しくじっちまったか…{n}この借り、いつか返すぜッ②",
-  "en": "",
-  "status": ""
+  "en": "Damn! I messed up... I'll pay you back for this someday!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_019D8",
@@ -488,8 +488,8 @@
    2306
   ],
   "jp": "…このままでは、維持できない。{n}申し訳ありません、撤退します！",
-  "en": "",
-  "status": ""
+  "en": "...I cannot hold on like this. I am sorry, I must withdraw!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01A16",
@@ -500,8 +500,8 @@
    2528
   ],
   "jp": "あーぁ、派手にやられたわね…！{n}悪いけど私の部隊、撤退するから。",
-  "en": "",
-  "status": ""
+  "en": "Ugh, they really worked me over...! Sorry, but my unit's withdrawing.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01A56",
@@ -512,8 +512,8 @@
    3333
   ],
   "jp": "…すまない、私の実力不足だ。{n}撤退させてもらう。",
-  "en": "",
-  "status": ""
+  "en": "...I am sorry. I lacked the skill. I withdraw.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01A86",
@@ -524,8 +524,8 @@
    3045
   ],
   "jp": "おっと、私とした事が…{n}ここは下がるべきでしょうね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, how careless of me... I should fall back here.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01ABA",
@@ -536,8 +536,8 @@
    2901
   ],
   "jp": "戦線の維持は困難だな……{n}致し方ない。{n}今は引かせてもらおう！",
-  "en": "",
-  "status": ""
+  "en": "Holding the line will be difficult... It can't be helped. I will pull back for now!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01AF7",
@@ -548,8 +548,8 @@
    3189
   ],
   "jp": "この流れには、逆らえません。{n}一旦戦場から引かせてもらいます。",
-  "en": "",
-  "status": ""
+  "en": "I cannot go against this tide. I will withdraw from the battlefield for now.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01B35",
@@ -560,8 +560,8 @@
    3857
   ],
   "jp": "むっ、マズイ！　ここは撤退だ！{n}社長、まず一杯。これは接待だ！{n}な・な・な・なーんつって②",
-  "en": "",
-  "status": ""
+  "en": "Hm, not good! Byff will retreat! Boss, first a drink. Byff will treat! Ha-ha-ha, just kidding!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01B8E",
@@ -572,8 +572,8 @@
    4001
   ],
   "jp": "あーら、こんなに傷を負って{n}しまいましたわ。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, I have taken so many wounds.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01BBA",
@@ -584,8 +584,8 @@
    4008
   ],
   "jp": "これでは満足に戦えませんね。{n}あとはヨロシクお願いしますわ。",
-  "en": "",
-  "status": ""
+  "en": "I cannot fight properly like this. I leave the rest to you.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01BF6",
@@ -596,8 +596,8 @@
    4152
   ],
   "jp": "クソッ、クソッ、ドチクショウ！{n}撤退するしかねぇのかよォォ②",
-  "en": "",
-  "status": ""
+  "en": "Damn it, damn it, damn it all! Do I really have to withdraw!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01C32",
@@ -608,8 +608,8 @@
    3621
   ],
   "jp": "あじゃぱ～～、だめじゃーん、{n}なーんかもうムリそうだから{n}下がるわね～！　グッバーイ②",
-  "en": "",
-  "status": ""
+  "en": "Whoopsie~, no good, I don't think I can keep this up, so I'm falling back~! Good-bye!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01C87",
@@ -620,8 +620,8 @@
    3477
   ],
   "jp": "お、おいっ、あぶねっ！{n}チッ、命あっての物種だぜ②{n}悪いけど撤退するぜ…！",
-  "en": "",
-  "status": ""
+  "en": "H-Hey, watch it! Tch, nothin' matters if you're dead!! Sorry, but I'm withdrawin'...!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01CD0",
@@ -632,8 +632,8 @@
    4296
   ],
   "jp": "おっとっとっとっ、{n}本当に逝っちまうとこだったよ。{n}ここは下がっとくわ、ウィ～ッ…",
-  "en": "",
-  "status": ""
+  "en": "Whoa, whoa, whoa, I nearly really kicked the bucket. I'll fall back here, ooh...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01D21",
@@ -644,8 +644,8 @@
    1014
   ],
   "jp": "キャー、何すんのよ②{n}寄るなっつーってんのよ、バカ！{n}変態！　変態ーッ②",
-  "en": "",
-  "status": ""
+  "en": "Eek, what are you doing!! Get away from Cerica, you idiot! Stay back!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01D68",
@@ -656,8 +656,8 @@
    1039
   ],
   "jp": "やめてって、そんなッ！{n}あっ、はなせって②{n}いや、いやぁぁぁぁぁ～～！",
-  "en": "",
-  "status": ""
+  "en": "Stop it, no way! Ah, let go!! No, nooooo~!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01DAD",
@@ -668,8 +668,8 @@
    2359
   ],
   "jp": "な、何をするんですか！{n}ちょっと、まさか……",
-  "en": "",
-  "status": ""
+  "en": "Wh-What are you doing! Hey, you can't be...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01DD9",
@@ -680,8 +680,8 @@
    2384
   ],
   "jp": "や、や、やめて下さい！{n}…だ、誰か、助けてぇーーー②",
-  "en": "",
-  "status": ""
+  "en": "S-S-Stop it, please! ...S-Somebody, help me!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01E0D",
@@ -692,8 +692,8 @@
    2581
   ],
   "jp": "あいたたた…{n}仕方ないわね、撤退を…",
-  "en": "",
-  "status": ""
+  "en": "Ow, ow, ow... It can't be helped, I'll have to withdraw...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01E31",
@@ -704,8 +704,8 @@
    2606
   ],
   "jp": "…うわっ！{n}な、何よ！　離しなさいな！{n}コラっ、離せッ②",
-  "en": "",
-  "status": ""
+  "en": "...Whoa! Wh-What's this! Let go of me! Hey, let go!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01E68",
@@ -716,8 +716,8 @@
    2613
   ],
   "jp": "……本当に、ヤル気なのね。",
-  "en": "",
-  "status": ""
+  "en": "...You really mean to take me prisoner, then.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01E83",
@@ -728,8 +728,8 @@
    4349
   ],
   "jp": "ウィ～ック……{n}やられちゃったわねぇ。",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... They got me, huh.",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01EA9",
@@ -740,8 +740,8 @@
    4371
   ],
   "jp": "……は？　あっし？{n}え、ウソでしょう、人間。{n}ちょ、離しなさいよぉ…",
-  "en": "",
-  "status": ""
+  "en": "...Huh? Me? Hey, you're kidding, human. H-Hey, let go of me...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01EEC",
@@ -752,8 +752,8 @@
    4381
   ],
   "jp": "離せっつーとんだろうが！{n}あっしは、ウンディーネ②{n}え、そんな無理矢理！　あん②",
-  "en": "",
-  "status": ""
+  "en": "I said let go, y'hear! I'm an Undine!! Hey, you can't just haul me off like that! Hey!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01F3B",
@@ -764,8 +764,8 @@
    3674
   ],
   "jp": "ムムム…{n}これはマズイだわさ。{n}早いトコ、撤退しないと…",
-  "en": "",
-  "status": ""
+  "en": "Hmm-hmm-hmm... This is bad. I'd better withdraw quick...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01F72",
@@ -776,8 +776,8 @@
    3696
   ],
   "jp": "うわっ！{n}な、なに？　離すんだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa! Wh-What? Let go of me!",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01F96",
@@ -788,8 +788,8 @@
    3703
   ],
   "jp": "パメラ様が魅力的なのは{n}わかってるけど、もうチョイ{n}時と場合とをわきまえて…",
-  "en": "",
-  "status": ""
+  "en": "I know everybody wants Pamela-sama's autograph, but have some sense of time and place...",
+  "status": "done"
  },
  {
   "id": "fct3_15_000_01FE1",
@@ -800,7 +800,7 @@
    3713
   ],
   "jp": "ぎゃーーーーーーーーーッス②",
-  "en": "",
-  "status": ""
+  "en": "Gyaaaaaaaaaaah!!",
+  "status": "done"
  }
 ]

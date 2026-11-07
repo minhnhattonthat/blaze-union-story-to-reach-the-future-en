@@ -31,8 +31,8 @@
    186
   ],
   "jp": "寝静まっているようだ。",
-  "en": "",
-  "status": ""
+  "en": "They seem to be fast asleep.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_00D76",
@@ -43,8 +43,8 @@
    243
   ],
   "jp": "寝静まっている、か…",
-  "en": "",
-  "status": ""
+  "en": "Fast asleep, huh...",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_00D8B",
@@ -67,8 +67,8 @@
    300
   ],
   "jp": "みんな寝てるみたいだし、{n}ここに立ち寄るのは{n}ちょーっと気が引けるわよね。",
-  "en": "",
-  "status": ""
+  "en": "Everyone seems to be asleep, so I kinda hate to stop in here.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_00DDF",
@@ -79,8 +79,8 @@
    307
   ],
   "jp": "また今度にしましょう、っと。",
-  "en": "",
-  "status": ""
+  "en": "I'll come back another time.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_00DFC",
@@ -103,8 +103,8 @@
    364
   ],
   "jp": "みんな寝静まっているようだね。{n}夜の平穏を乱すのは良くないし{n}また改めよう。",
-  "en": "",
-  "status": ""
+  "en": "Everyone seems fast asleep. We shouldn't disturb the peace of the night. Another time, then.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_00E52",
@@ -127,8 +127,8 @@
    421
   ],
   "jp": "今晩ここを訪れるのはよそう。{n}……この兵を見れば、{n}住民の心は乱れるだろうからな。",
-  "en": "",
-  "status": ""
+  "en": "Let's not visit here tonight. ...Seeing these soldiers would unsettle the people.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_00EAE",
@@ -151,8 +151,8 @@
    478
   ],
   "jp": "みんな寝てるみたいだね～？{n}でも、ボクはまだ眠くないよ～！",
-  "en": "",
-  "status": ""
+  "en": "It looks like everybody's asleep~? But I'm not sleepy yet~!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_00EF3",
@@ -175,8 +175,8 @@
    535
   ],
   "jp": "…皆、寝静まっているようです。{n}こんな時間ですし、{n}無理もありませんね…",
-  "en": "",
-  "status": ""
+  "en": "...Everyone seems to be fast asleep. At this hour, that is no surprise...",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_00F45",
@@ -199,8 +199,8 @@
    592
   ],
   "jp": "こんな、誰も起きてない時間に{n}立ち寄っても仕方ないわね。",
-  "en": "",
-  "status": ""
+  "en": "No use stopping by at an hour like this, when nobody's up.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_00F88",
@@ -223,8 +223,8 @@
    649
   ],
   "jp": "こんな誰も起きてない街に{n}行く必要なんて感じられねぇな。",
-  "en": "",
-  "status": ""
+  "en": "I don't feel any need to go to a town where nobody's up.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_00FCB",
@@ -247,8 +247,8 @@
    706
   ],
   "jp": "よく聞け、軍勢の気配で、{n}住民の平穏を乱してはならぬ。{n}よいな？",
-  "en": "",
-  "status": ""
+  "en": "Listen well. We must not disturb the people's peace with the presence of an army. Understood?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01015",
@@ -271,8 +271,8 @@
    763
   ],
   "jp": "おや、皆、寝静まっていますか。{n}フフフ……",
-  "en": "",
-  "status": ""
+  "en": "Oh my, is everyone fast asleep. Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0104A",
@@ -295,8 +295,8 @@
    820
   ],
   "jp": "皆さん、おやすみになっている{n}ようですね。",
-  "en": "",
-  "status": ""
+  "en": "Everyone appears to be resting.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0107F",
@@ -319,8 +319,8 @@
    877
   ],
   "jp": "起きている人は、いないようだ…",
-  "en": "",
-  "status": ""
+  "en": "It seems no one is awake...",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_010A9",
@@ -343,8 +343,8 @@
    934
   ],
   "jp": "みんな寝静まってるみたいだ。{n}ま、また明るい時にでも出直すか。",
-  "en": "",
-  "status": ""
+  "en": "Everybody's fast asleep, looks like. Well, guess I'll come back when it's light.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_010F2",
@@ -367,8 +367,8 @@
    991
   ],
   "jp": "みんな寝てる～、夜の街に～♪{n}ちょいと忍び込み～♪{n}ブツを頂こうだわさ～♪",
-  "en": "",
-  "status": ""
+  "en": "Everyone's asleep~, in the night town~♪ Sneak in a little~♪ And swipe the goods~♪",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01146",
@@ -379,8 +379,8 @@
    998
   ],
   "jp": "って、そりゃ泥棒だっつーの！{n}そんな事、するわけないだわさ。",
-  "en": "",
-  "status": ""
+  "en": "Wait, that's stealing! Like I'd ever do such a thing.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01182",
@@ -403,8 +403,8 @@
    1055
   ],
   "jp": "バイフー、今が夜だけに{n}この街に寄る、なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Since it is night, Byff will knight this town with a visit. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_011C1",
@@ -415,8 +415,8 @@
    1062
   ],
   "jp": "だけど、みんなの眠り、{n}妨げるの悪いから、やめておく。",
-  "en": "",
-  "status": ""
+  "en": "But Byff should not disturb everyone's sleep, so Byff will not.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_011F7",
@@ -439,8 +439,8 @@
    1150
   ],
   "jp": "あれれ？{n}みーんな寝ちまってるぜ？{n}…夜はこれからなのになぁ。",
-  "en": "",
-  "status": ""
+  "en": "Huh? Everybody's asleep? ...And the night's just gettin' started.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0123F",
@@ -463,8 +463,8 @@
    1207
   ],
   "jp": "…ヒック……{n}おおっっとと、みーんな寝てる。{n}じゃ、ま、帰りますか……",
-  "en": "",
-  "status": ""
+  "en": "...*hic*... Whoops, everybody's asleep. Well, I'll be headin' home, then...",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0128F",
@@ -476,8 +476,8 @@
    1271
   ],
   "jp": "これが聖剣……{n}凄まじい気を感じる。",
-  "en": "",
-  "status": ""
+  "en": "So this is the Holy Sword... I can feel its tremendous aura.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_012B3",
@@ -489,8 +489,8 @@
    1296
   ],
   "jp": "俺が、今、解放してやる②",
-  "en": "",
-  "status": ""
+  "en": "I'll set you free, right now!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_012CC",
@@ -502,8 +502,8 @@
    1348
   ],
   "jp": "なにっ、俺じゃダメなのか？",
-  "en": "",
-  "status": ""
+  "en": "What, I can't do it?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_012E7",
@@ -515,8 +515,8 @@
    1358
   ],
   "jp": "やはり、{n}アイツに任せるしかないのか③",
-  "en": "",
-  "status": ""
+  "en": "So it has to be left to that person after all!?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0130D",
@@ -527,8 +527,8 @@
    1589
   ],
   "jp": "聖剣…、ネシアの力の源。{n}これを砕けばッ！",
-  "en": "",
-  "status": ""
+  "en": "The Holy Sword... The source of Nessiah's power. If I smash this!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01337",
@@ -539,8 +539,8 @@
    1634
   ],
   "jp": "私の力じゃ、砕けない……{n}そう言う事なの？",
-  "en": "",
-  "status": ""
+  "en": "My strength can't break it... Is that it?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01361",
@@ -551,8 +551,8 @@
    1752
   ],
   "jp": "{voice:008619}おや？　メデューテ。{n}勇者ギルの末裔でしたね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? Medoute. You are a descendant of the hero Gil, are you not?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01393",
@@ -563,8 +563,8 @@
    1759
   ],
   "jp": "{voice:008719}知っていますか？{n}ギルを勇者に仕立てたのは{n}私だという事を。",
-  "en": "",
-  "status": ""
+  "en": "Do you know? I am the one who made Gil into a hero.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_013D2",
@@ -575,8 +575,8 @@
    1777
   ],
   "jp": "{voice:008819}魔竜ブロンガが邪魔でしたからね。{n}始末するために私が助力し、{n}討たせたのです。",
-  "en": "",
-  "status": ""
+  "en": "Brongaa the demon dragon stood in my way. To be rid of it, I lent him aid, and had him slay it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01423",
@@ -587,8 +587,8 @@
    1795
   ],
   "jp": "{voice:008919}いわばあなたは、{n}私の操り人形の血筋なのですよ。",
-  "en": "",
-  "status": ""
+  "en": "You might say you come from a bloodline of my puppets.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01457",
@@ -611,8 +611,8 @@
    1820
   ],
   "jp": "{voice:008A19}だから、どうした？",
-  "en": "",
-  "status": ""
+  "en": "And what of it?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01479",
@@ -623,8 +623,8 @@
    1838
   ],
   "jp": "{voice:008B19}そんな話はどうでもいいのだ。",
-  "en": "",
-  "status": ""
+  "en": "That doesn't matter at all.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0149A",
@@ -635,8 +635,8 @@
    1848
   ],
   "jp": "{voice:008C19}堕天使、良く聞け！{n}お前に抗うのは、あたしの意志だ。{n}血など関係ないッ②",
-  "en": "",
-  "status": ""
+  "en": "Fallen angel, listen well! Standing against you is my will. Blood has nothing to do with it!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_014E5",
@@ -647,8 +647,8 @@
    1912
   ],
   "jp": "{voice:008D19}聖剣グラン・センチュリオが{n}お、折れた……、バカな。",
-  "en": "",
-  "status": ""
+  "en": "The Holy Sword, Gran Centurio... b-broke... Impossible.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0151D",
@@ -659,8 +659,8 @@
    2009
   ],
   "jp": "王国家の象徴、{n}聖剣グランセンチュリオ…{n}これを破壊して、ネシアを！",
-  "en": "",
-  "status": ""
+  "en": "The symbol of the royal house, the Holy Sword, Gran Centurio... Destroy this, and Nessiah goes with it!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01560",
@@ -671,8 +671,8 @@
    2054
   ],
   "jp": "感じる、私では破壊できない。{n}そう伝わってくる。",
-  "en": "",
-  "status": ""
+  "en": "I sense it. I can't destroy it. That much comes through.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01590",
@@ -683,8 +683,8 @@
    2072
   ],
   "jp": "そうか、あの人なら……",
-  "en": "",
-  "status": ""
+  "en": "I see, but that person could...",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_015A7",
@@ -695,8 +695,8 @@
    2839
   ],
   "jp": "これ、政権を握る者が持つ聖剣。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "This is the Holy Sword, held by those with the sword-ereignty. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_015D5",
@@ -707,8 +707,8 @@
    2860
   ],
   "jp": "とにかく、{n}ネシアの復活を止めるには、{n}コレを壊せばいいんだな？",
-  "en": "",
-  "status": ""
+  "en": "Anyway, to stop Nessiah from coming back, Byff just has to break this, yes?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01614",
@@ -719,8 +719,8 @@
    2905
   ],
   "jp": "…バイフーには、無理でした。{n}さすが聖剣、制限知らずの硬さだ。{n}なーんっつっての二乗。",
-  "en": "",
-  "status": ""
+  "en": "...Byff could not do it. Such a Holy Sword: holy-moly hard. Ha, just kidding, squared.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01669",
@@ -731,8 +731,8 @@
    2157
   ],
   "jp": "…これ、相当硬いんでしょ？{n}本当に壊れると思ってるの？",
-  "en": "",
-  "status": ""
+  "en": "...This thing's seriously tough, isn't it? Do you really think it'll break?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0169F",
@@ -743,8 +743,8 @@
    2202
   ],
   "jp": "やっぱ私じゃムリって……{n}大砲ブチかましたら{n}壊れるかしら？",
-  "en": "",
-  "status": ""
+  "en": "So I can't do it after all... I wonder if blasting it with a cannon would break it?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_016DA",
@@ -755,8 +755,8 @@
    2583
   ],
   "jp": "……剣を弓で壊す、か。{n}ムリな話だと思うけど…",
-  "en": "",
-  "status": ""
+  "en": "...Breaking a sword with a bow. Sounds impossible to me...",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01708",
@@ -767,8 +767,8 @@
    2601
   ],
   "jp": "けどオイラ達は、{n}ムリと思える事を{n}成し遂げてきたんだ！",
-  "en": "",
-  "status": ""
+  "en": "But we've pulled off stuff that seemed impossible!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0173F",
@@ -779,8 +779,8 @@
    2611
   ],
   "jp": "いくぜッ②",
-  "en": "",
-  "status": ""
+  "en": "Here I go!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0174A",
@@ -791,8 +791,8 @@
    2656
   ],
   "jp": "今、何かを感じた。{n}そうか、やっぱアイツじゃないと{n}壊せないんだな。",
-  "en": "",
-  "status": ""
+  "en": "I just felt somethin'. I see, it's gotta be that person to break it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0178D",
@@ -803,8 +803,8 @@
    3344
   ],
   "jp": "…ウィ～ック{n}お、コイツを壊せばいいのね？",
-  "en": "",
-  "status": ""
+  "en": "...*Hic*. Oh, so I just gotta break this thing, huh?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_017B7",
@@ -815,8 +815,8 @@
    3389
   ],
   "jp": "あームリムリ……{n}酔って足元がおぼつかないわぁ…",
-  "en": "",
-  "status": ""
+  "en": "Ah, no way, no way... I'm too drunk to stand straight...",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_017E7",
@@ -827,8 +827,8 @@
    2730
   ],
   "jp": "ウホッ②{n}この聖剣を壊せば、パメラ様の{n}名声は天地に轟くわ！　いざッ②",
-  "en": "",
-  "status": ""
+  "en": "Whoa!! Break this Holy Sword, and Pamela-sama's fame will ring through heaven and earth! Here goes!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0182C",
@@ -839,8 +839,8 @@
    2775
   ],
   "jp": "……ムキィーッ②{n}なんで壊れないのよ！{n}どんだけ硬いんだわさ②",
-  "en": "",
-  "status": ""
+  "en": "...Grrrrr!! Why won't it break! Just how hard is this thing!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01869",
@@ -851,8 +851,8 @@
    3017
   ],
   "jp": "神界の堕天使が作りし剣、か。{n}私に破壊できればよいのですが…",
-  "en": "",
-  "status": ""
+  "en": "A sword made by a fallen angel of Heaven. I do hope I can destroy it...",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_018A5",
@@ -863,8 +863,8 @@
    3093
   ],
   "jp": "…ダメでしたか。{n}これはもう『彼女』に{n}お願いするしかないですわね？",
-  "en": "",
-  "status": ""
+  "en": "...No use. I suppose I must leave it to \"her,\" wouldn't you say?",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_018E8",
@@ -875,8 +875,8 @@
    3195
   ],
   "jp": "オレが壊してやるぜ！{n}覚悟しな、堕天使の遺物め②",
-  "en": "",
-  "status": ""
+  "en": "I'll break it! Get ready, you fallen angel's leftover!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_01918",
@@ -887,8 +887,8 @@
    3271
   ],
   "jp": "クソッ、ダメだったか…{n}やはり彼女に頼むしかないか。",
-  "en": "",
-  "status": ""
+  "en": "Damn, no good... Guess I gotta ask her after all.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0194C",
@@ -899,8 +899,8 @@
    2467
   ],
   "jp": "いくぞ、聖剣よ②",
-  "en": "",
-  "status": ""
+  "en": "Here I go, Holy Sword!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0195D",
@@ -911,8 +911,8 @@
    2512
   ],
   "jp": "感じる、私では破壊できない。{n}そう伝わってくる。",
-  "en": "",
-  "status": ""
+  "en": "I sense it. I can't destroy it. That much comes through.",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_0198D",
@@ -923,8 +923,8 @@
    2269
   ],
   "jp": "王家の聖剣…{n}この俺に砕けるかッ②",
-  "en": "",
-  "status": ""
+  "en": "The royal Holy Sword... Let's see if I can shatter it!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_019AF",
@@ -935,8 +935,8 @@
    2314
   ],
   "jp": "ちぃッ！　ムリか。{n}今の俺の濁った槍じゃダメだ…{n}もっと純粋な力があれば…！",
-  "en": "",
-  "status": ""
+  "en": "Tch! No use. My spear's too muddied right now... If only I had purer strength...!",
+  "status": "done"
  },
  {
   "id": "fct3_15_004_019FA",
@@ -947,7 +947,7 @@
    2407
   ],
   "jp": "聖剣、私では破壊できない。{n}『彼女』に託すしか……",
-  "en": "",
-  "status": ""
+  "en": "I cannot destroy the Holy Sword. I must leave it to \"her\"...",
+  "status": "done"
  }
 ]

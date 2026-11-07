@@ -6,8 +6,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "瑞おっ。コイツは…{n}いただいておくか！",
-  "en": "",
-  "status": ""
+  "en": "Oh. This... I'll take that!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_08240",
@@ -18,8 +18,8 @@
    132
   ],
   "jp": "おっ。コイツは…{n}いただいておくか！",
-  "en": "",
-  "status": ""
+  "en": "Oh. This... I'll take that!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_08264",
@@ -30,8 +30,8 @@
    1792
   ],
   "jp": "もらったぞ！",
-  "en": "",
-  "status": ""
+  "en": "That's mine!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_08271",
@@ -42,8 +42,8 @@
    3452
   ],
   "jp": "…戦利品、ゲットよ！",
-  "en": "",
-  "status": ""
+  "en": "...Spoils, get!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_08286",
@@ -54,8 +54,8 @@
    5112
   ],
   "jp": "敵の物資は有効利用しないとね…{n}もらっておこう。",
-  "en": "",
-  "status": ""
+  "en": "Gotta put enemy supplies to good use... I'll take these.",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_082B6",
@@ -66,8 +66,8 @@
    6772
   ],
   "jp": "戦利品だな！{n}ありがたく使わせてもらおう！",
-  "en": "",
-  "status": ""
+  "en": "Spoils of war! I'll gratefully put them to use!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_082E0",
@@ -79,8 +79,8 @@
    8432
   ],
   "jp": "わ～い！{n}もらっちゃった～！",
-  "en": "",
-  "status": ""
+  "en": "Yay! I got something~!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_082FC",
@@ -91,8 +91,8 @@
    15072
   ],
   "jp": "戦利品、もらったぜ！{n}勝者として当然の権利だな！{n}ハハッ！",
-  "en": "",
-  "status": ""
+  "en": "Got the spoils! A winner's right, naturally! Haha!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_08335",
@@ -103,8 +103,8 @@
    11752
   ],
   "jp": "戦利品ですね。回収しましょう！",
-  "en": "",
-  "status": ""
+  "en": "Spoils of war. Let us collect them!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_08354",
@@ -115,8 +115,8 @@
    13412
   ],
   "jp": "使えるのかしら？{n}ま、もらってあげるわよ。",
-  "en": "",
-  "status": ""
+  "en": "Will these be any use? Well, I'll take them.",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_0837E",
@@ -127,8 +127,8 @@
    21712
   ],
   "jp": "…報告する。{n}戦利品、獲得したぞ。",
-  "en": "",
-  "status": ""
+  "en": "...Reporting. Spoils obtained.",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_083A0",
@@ -139,8 +139,8 @@
    18392
   ],
   "jp": "おや、これはこれは。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Well, well, what have we here. Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_083BE",
@@ -151,8 +151,8 @@
    16732
   ],
   "jp": "…ふむ。戦利品だな！",
-  "en": "",
-  "status": ""
+  "en": "...Hm. Spoils of war!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_083D3",
@@ -163,8 +163,8 @@
    20052
   ],
   "jp": "受け取りましょう。{n}それが理の流れならば。",
-  "en": "",
-  "status": ""
+  "en": "I will accept them. If that is the way of things.",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_083FD",
@@ -175,8 +175,8 @@
    26692
   ],
   "jp": "バイフー、戦利品ゲットした！{n}とっても使える、まさに便利品！{n}…なーんつって②",
-  "en": "",
-  "status": ""
+  "en": "Byff got spoils! So useful, Byff is spoiled! ...Ha, just kidding!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_0844A",
@@ -187,8 +187,8 @@
    28383
   ],
   "jp": "戦利品いただきましたわぁ。{n}ありがたいですわね♪",
-  "en": "",
-  "status": ""
+  "en": "I have received the spoils. How nice of them♪",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_0847A",
@@ -199,8 +199,8 @@
    30074
   ],
   "jp": "ヨッシャア②{n}戦利品、ゲットしたぜぇ！",
-  "en": "",
-  "status": ""
+  "en": "All right!! Spoils, get!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_084A0",
@@ -211,8 +211,8 @@
    25032
   ],
   "jp": "ゲットしたわよ②{n}これ、あたしのモンだからねぇ！",
-  "en": "",
-  "status": ""
+  "en": "Got it!! This is all mine now!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_084D0",
@@ -223,8 +223,8 @@
    23372
   ],
   "jp": "やっほぉ～！{n}戦利品、手に入れたぜ②",
-  "en": "",
-  "status": ""
+  "en": "Yahoo~! I got me some spoils!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_003_084F4",
@@ -235,7 +235,7 @@
    31734
   ],
   "jp": "ウィ～ッ…{n}いただいちゃったわねぇ…",
-  "en": "",
-  "status": ""
+  "en": "Ooh... Helped myself to that...",
+  "status": "done"
  }
 ]

@@ -1040,8 +1040,8 @@
    14357
   ],
   "jp": "流れが、変わる？{n}全く、理解ができませんね。",
-  "en": "",
-  "status": ""
+  "en": "The tide has turned? I simply cannot understand you.",
+  "status": "done"
  },
  {
   "id": "event_2205_0126E",
@@ -1052,8 +1052,8 @@
    15237
   ],
   "jp": "俺達の未来は、俺達で築く！",
-  "en": "",
-  "status": ""
+  "en": "We build our own future!",
+  "status": "done"
  },
  {
   "id": "event_2205_01289",
@@ -1064,8 +1064,8 @@
    15255
   ],
   "jp": "一度勝ったからと言って、{n}生意気ですね……",
-  "en": "",
-  "status": ""
+  "en": "Such cheek, just because you won once...",
+  "status": "done"
  },
  {
   "id": "event_2205_012B3",
@@ -1076,8 +1076,8 @@
    15331
   ],
   "jp": "グランセンチュリオは{n}私が神界への復讐のために{n}創り上げた傑作です。",
-  "en": "",
-  "status": ""
+  "en": "The Gran Centurio is my masterpiece, created for my revenge upon Heaven.",
+  "status": "done"
  },
  {
   "id": "event_2205_012F6",
@@ -1088,8 +1088,8 @@
    15349
   ],
   "jp": "人間ごときが、{n}封じ込めるわけがない！",
-  "en": "",
-  "status": ""
+  "en": "Mere humans cannot possibly seal it away!",
+  "status": "done"
  },
  {
   "id": "event_2205_0131C",
@@ -1100,8 +1100,8 @@
    15367
   ],
   "jp": "ならば、何故ここに来た。{n}俺達の力を恐れている……{n}そうなんだろ、ネシア！",
-  "en": "",
-  "status": ""
+  "en": "Then why did you come here? You're scared of our strength... Aren't you, Nessiah!",
+  "status": "done"
  },
  {
   "id": "event_2205_01365",
@@ -1112,8 +1112,8 @@
    15572
   ],
   "jp": "ジェノンが言ってたわ……{n}この世界を生きて、って。",
-  "en": "",
-  "status": ""
+  "en": "Jenon told me... To live in this world.",
+  "status": "done"
  },
  {
   "id": "event_2205_01397",
@@ -1124,8 +1124,8 @@
    15579
   ],
   "jp": "アイツは、この世界が好きだった。{n}仲間が、友達が、好きだった。",
-  "en": "",
-  "status": ""
+  "en": "He loved this world. He loved his comrades, his friends.",
+  "status": "done"
  },
  {
   "id": "event_2205_013D5",
@@ -1136,8 +1136,8 @@
    15586
   ],
   "jp": "そして、私だって……",
-  "en": "",
-  "status": ""
+  "en": "And I do too...",
+  "status": "done"
  },
  {
   "id": "event_2205_013EA",
@@ -1148,8 +1148,8 @@
    15604
   ],
   "jp": "だから…、この世界を、{n}アンタの思うようにはさせない！",
-  "en": "",
-  "status": ""
+  "en": "So... I won't let you have your way with this world!",
+  "status": "done"
  },
  {
   "id": "event_2205_01420",
@@ -1160,8 +1160,8 @@
    15611
   ],
   "jp": "復讐なんかじゃない、{n}もっとかけがえのないものを、{n}今度こそ守り抜くために戦うんだ！",
-  "en": "",
-  "status": ""
+  "en": "Not for revenge. I'm fighting to protect something far more precious, this time for sure!",
+  "status": "done"
  },
  {
   "id": "event_2205_01473",
@@ -1172,8 +1172,8 @@
    15687
   ],
   "jp": "人間は私にとっての駒！{n}駒は駒らしく、{n}舞台で踊っていなさい②",
-  "en": "",
-  "status": ""
+  "en": "Humans are my pawns! Pawns should dance upon the stage, as pawns do!!",
+  "status": "done"
  },
  {
   "id": "event_2205_014B0",
@@ -1184,8 +1184,8 @@
    15705
   ],
   "jp": "ジェノンは駒じゃなかった。{n}あなたの身勝手な都合に{n}精いっぱい抗ってみせた……",
-  "en": "",
-  "status": ""
+  "en": "Jenon was no pawn. He fought your selfish plans with everything he had...",
+  "status": "done"
  },
  {
   "id": "event_2205_014FD",
@@ -1196,8 +1196,8 @@
    15723
   ],
   "jp": "だから、私も抗う！{n}最後の血の一滴まで！{n}運命にだろうと、抗ってみせる②",
-  "en": "",
-  "status": ""
+  "en": "So I'll fight too! To the last drop of blood! Even against fate itself!!",
+  "status": "done"
  },
  {
   "id": "event_2205_01544",
@@ -1208,8 +1208,8 @@
    15921
   ],
   "jp": "相変わらずの剛力ですね。",
-  "en": "",
-  "status": ""
+  "en": "Such great strength, as ever.",
+  "status": "done"
  },
  {
   "id": "event_2205_0155D",
@@ -1220,8 +1220,8 @@
    15990
   ],
   "jp": "これが神界の者の力、{n}思い知りましたか？",
-  "en": "",
-  "status": ""
+  "en": "This is the power of one from Heaven. Do you understand now?",
+  "status": "done"
  },
  {
   "id": "event_2205_01585",
@@ -1232,8 +1232,8 @@
    16008
   ],
   "jp": "ぬるいな、ネシア……",
-  "en": "",
-  "status": ""
+  "en": "That's weak, Nessiah...",
+  "status": "done"
  },
  {
   "id": "event_2205_0159A",
@@ -1244,8 +1244,8 @@
    16026
   ],
   "jp": "この程度で、{n}あたし達が畏怖すると思うのか？{n}人間を測り違えているぞ②",
-  "en": "",
-  "status": ""
+  "en": "You think this is enough to make us cower? You've misjudged humans!!",
+  "status": "done"
  },
  {
   "id": "event_2205_015DF",
@@ -1256,8 +1256,8 @@
    16231
   ],
   "jp": "ジェノンさんのためにも、{n}私達は負けるわけにいきません！",
-  "en": "",
-  "status": ""
+  "en": "For Jenon-san's sake too, we cannot lose!",
+  "status": "done"
  },
  {
   "id": "event_2205_01617",
@@ -1268,8 +1268,8 @@
    16249
   ],
   "jp": "あなたが、これほど強い剣士に{n}なるとは誤算でしたよ。",
-  "en": "",
-  "status": ""
+  "en": "I miscalculated. I never thought you would become so strong a swordswoman.",
+  "status": "done"
  },
  {
   "id": "event_2205_0164B",
@@ -1280,8 +1280,8 @@
    16318
   ],
   "jp": "アイギナ、あの聖剣は、{n}あなたが持つべきものでは{n}ないのですか？",
-  "en": "",
-  "status": ""
+  "en": "Aegina, should that Holy Sword not be yours to wield?",
+  "status": "done"
  },
  {
   "id": "event_2205_0168A",
@@ -1292,8 +1292,8 @@
    16336
   ],
   "jp": "甘言などで、私は動きません。",
-  "en": "",
-  "status": ""
+  "en": "I won't be moved by sweet talk.",
+  "status": "done"
  },
  {
   "id": "event_2205_016A7",
@@ -1304,8 +1304,8 @@
    16343
   ],
   "jp": "もう、私の生きる目的は、{n}復讐ではないのです！",
-  "en": "",
-  "status": ""
+  "en": "My reason for living is no longer revenge!",
+  "status": "done"
  },
  {
   "id": "event_2205_016D5",
@@ -1316,8 +1316,8 @@
    16548
   ],
   "jp": "バイフー、随分遠くまで来たな。{n}ご主人の本探してたら、{n}世界を守るために戦うとは……",
-  "en": "",
-  "status": ""
+  "en": "Byff has come a long way. Looking for Master's book, and now fighting to protect the world...",
+  "status": "done"
  },
  {
   "id": "event_2205_01728",
@@ -1328,8 +1328,8 @@
    16566
   ],
   "jp": "…ん？　本？{n}ネシアも本を持っている！{n}ひょっとして……",
-  "en": "",
-  "status": ""
+  "en": "...Hm? Book? Nessiah has a book too! Could it be...",
+  "status": "done"
  },
  {
   "id": "event_2205_0175F",
@@ -1340,8 +1340,8 @@
    16584
   ],
   "jp": "な、何をする！{n}離しなさい②",
-  "en": "",
-  "status": ""
+  "en": "Wh-What are you doing! Let go of me!!",
+  "status": "done"
  },
  {
   "id": "event_2205_0177B",
@@ -1352,8 +1352,8 @@
    16660
   ],
   "jp": "むむ、やるなネシア…{n}本を取るのはホントに厄介だ。{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Mm, not bad, Nessiah... Taking this book is no easy read. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2205_017BC",
@@ -1364,8 +1364,8 @@
    16678
   ],
   "jp": "安易な……",
-  "en": "",
-  "status": ""
+  "en": "How shallow...",
+  "status": "done"
  },
  {
   "id": "event_2205_017C7",
@@ -1376,8 +1376,8 @@
    16876
   ],
   "jp": "大した事ないわよね。{n}本気、出しているのかしら？",
-  "en": "",
-  "status": ""
+  "en": "That was nothing. Are you even trying?",
+  "status": "done"
  },
  {
   "id": "event_2205_017F7",
@@ -1388,8 +1388,8 @@
    16894
   ],
   "jp": "くっ、人間ごときの分際で……",
-  "en": "",
-  "status": ""
+  "en": "Ngh, a mere human, how dare you...",
+  "status": "done"
  },
  {
   "id": "event_2205_01814",
@@ -1400,8 +1400,8 @@
    16963
   ],
   "jp": "やっぱり、{n}油断するとこうなるわね……",
-  "en": "",
-  "status": ""
+  "en": "See, this is what happens when I get careless...",
+  "status": "done"
  },
  {
   "id": "event_2205_0183A",
@@ -1424,8 +1424,8 @@
    17179
   ],
   "jp": "ば、バカな……",
-  "en": "",
-  "status": ""
+  "en": "I-Impossible...",
+  "status": "done"
  },
  {
   "id": "event_2205_01854",
@@ -1436,8 +1436,8 @@
    17197
   ],
   "jp": "バカはお前の方さ。{n}人間を侮り続けてきたツケが{n}ここにきて爆発したのさ。",
-  "en": "",
-  "status": ""
+  "en": "You're the fool. All that lookin' down on humans just came back to bite you.",
+  "status": "done"
  },
  {
   "id": "event_2205_0189B",
@@ -1448,8 +1448,8 @@
    17266
   ],
   "jp": "徹底的に叩き潰してあげます！",
-  "en": "",
-  "status": ""
+  "en": "I'll crush you utterly!",
+  "status": "done"
  },
  {
   "id": "event_2205_018B8",
@@ -1460,8 +1460,8 @@
    17284
   ],
   "jp": "やってみなよ！{n}こんな程度で潰れるほど、{n}オイラ達はヤワじゃないぜ！",
-  "en": "",
-  "status": ""
+  "en": "Go ahead and try! We ain't so soft this'll crush us!",
+  "status": "done"
  },
  {
   "id": "event_2205_018FB",
@@ -1472,8 +1472,8 @@
    17475
   ],
   "jp": "酒飲みを舐めると、{n}こうなるってぇわけよ～{n}ヒック……",
-  "en": "",
-  "status": ""
+  "en": "Look down on a drinker, and this is what you get~. *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2205_01930",
@@ -1484,8 +1484,8 @@
    17537
   ],
   "jp": "フフフ……{n}地面に這いつくばる姿が{n}お似合いですね。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... Crawling on the ground suits you.",
+  "status": "done"
  },
  {
   "id": "event_2205_01963",
@@ -1496,8 +1496,8 @@
    17555
   ],
   "jp": "ちょいと二日酔いかなぁ……",
-  "en": "",
-  "status": ""
+  "en": "Maybe I've got a little hangover...",
+  "status": "done"
  },
  {
   "id": "event_2205_0197E",
@@ -1508,8 +1508,8 @@
    17753
   ],
   "jp": "この力、やはり侮れない……",
-  "en": "",
-  "status": ""
+  "en": "Such power, truly not to be underestimated...",
+  "status": "done"
  },
  {
   "id": "event_2205_01999",
@@ -1520,8 +1520,8 @@
    17771
   ],
   "jp": "パメラ様の力よ、当然でしょ♪{n}なんならファンクラブ、{n}入れてあげてもいいけど？",
-  "en": "",
-  "status": ""
+  "en": "That's Pamela-sama's power, of course♪ I could even let you join the fan club, you know?",
+  "status": "done"
  },
  {
   "id": "event_2205_019E6",
@@ -1532,8 +1532,8 @@
    17840
   ],
   "jp": "ムキィ～～～②{n}下手に出れば調子に乗って！{n}叩き潰してあげるんだわさ②",
-  "en": "",
-  "status": ""
+  "en": "Grrrrrr!! You get cocky when I go easy on you! I'll smash you to bits!!",
+  "status": "done"
  },
  {
   "id": "event_2205_01A2B",
@@ -1556,8 +1556,8 @@
    18101
   ],
   "jp": "浄化されるべきね。{n}それだけがあなたの救い……",
-  "en": "",
-  "status": ""
+  "en": "You should be purified. That alone is your salvation...",
+  "status": "done"
  },
  {
   "id": "event_2205_01A64",
@@ -1568,8 +1568,8 @@
    18119
   ],
   "jp": "や、やめろ！{n}その曲を、弾くな……",
-  "en": "",
-  "status": ""
+  "en": "S-Stop it! Don't play that tune...",
+  "status": "done"
  },
  {
   "id": "event_2205_01A86",
@@ -1580,8 +1580,8 @@
    18181
   ],
   "jp": "所詮、その程度の力。{n}私には通用しませんよ。",
-  "en": "",
-  "status": ""
+  "en": "That's the extent of your strength. It has no effect on me.",
+  "status": "done"
  },
  {
   "id": "event_2205_01AB2",
@@ -1592,8 +1592,8 @@
    18282
   ],
   "jp": "なんだよ！{n}手応えの無いヤツだなぁ。{n}全然熱くねぇぜ②",
-  "en": "",
-  "status": ""
+  "en": "What the hell! You ain't givin' me anything to hit. This ain't hot at all!!",
+  "status": "done"
  },
  {
   "id": "event_2205_01AE7",
@@ -1616,8 +1616,8 @@
    18393
   ],
   "jp": "やられるかよっ！",
-  "en": "",
-  "status": ""
+  "en": "Like hell I'm goin' down!",
+  "status": "done"
  },
  {
   "id": "event_2205_01B03",
@@ -1628,8 +1628,8 @@
    18577
   ],
   "jp": "覚悟を決めなさい、ネシア。",
-  "en": "",
-  "status": ""
+  "en": "Prepare yourself, Nessiah.",
+  "status": "done"
  },
  {
   "id": "event_2205_01B1E",
@@ -1640,8 +1640,8 @@
    18639
   ],
   "jp": "屍兵どもよ！{n}あの女を押し潰しなさい②",
-  "en": "",
-  "status": ""
+  "en": "Corpse soldiers! Crush that woman!!",
+  "status": "done"
  },
  {
   "id": "event_2205_01B44",
@@ -1652,8 +1652,8 @@
    18657
   ],
   "jp": "体力を、温存せねば……",
-  "en": "",
-  "status": ""
+  "en": "I must save my strength...",
+  "status": "done"
  },
  {
   "id": "event_2205_01B5B",
@@ -1664,8 +1664,8 @@
    18855
   ],
   "jp": "どうだ、人間様の怒りの力は！{n}効いただろ？",
-  "en": "",
-  "status": ""
+  "en": "How's that, the fury of humankind! That hurt, right?",
+  "status": "done"
  },
  {
   "id": "event_2205_01B85",
@@ -1676,8 +1676,8 @@
    18873
   ],
   "jp": "フフフ、この程度の力、{n}大した事はありませんよ……",
-  "en": "",
-  "status": ""
+  "en": "Hehehe, strength of this level is nothing much...",
+  "status": "done"
  },
  {
   "id": "event_2205_01BB7",
@@ -1688,8 +1688,8 @@
    18942
   ],
   "jp": "おっと、しくっちまったぜ……",
-  "en": "",
-  "status": ""
+  "en": "Whoops, I messed up...",
+  "status": "done"
  },
  {
   "id": "event_2205_01BD4",
@@ -1700,8 +1700,8 @@
    18960
   ],
   "jp": "グラムブレイズに合流して、{n}弱くなったのではないですか？",
-  "en": "",
-  "status": ""
+  "en": "Haven't you grown weaker, since joining Gram Blaze?",
+  "status": "done"
  },
  {
   "id": "event_2205_01C0C",
@@ -1712,8 +1712,8 @@
    19165
   ],
   "jp": "焦りを感じます。",
-  "en": "",
-  "status": ""
+  "en": "I sense your agitation.",
+  "status": "done"
  },
  {
   "id": "event_2205_01C1D",
@@ -1724,8 +1724,8 @@
    19183
   ],
   "jp": "焦り？　この私が？{n}フフフ、そのような感情、{n}私にはありませんね。",
-  "en": "",
-  "status": ""
+  "en": "Agitation? In me? Hehehe, I have no such feeling.",
+  "status": "done"
  },
  {
   "id": "event_2205_01C5E",
@@ -1736,8 +1736,8 @@
    19201
   ],
   "jp": "隠しても、無駄ですよ。",
-  "en": "",
-  "status": ""
+  "en": "Hiding it is useless.",
+  "status": "done"
  },
  {
   "id": "event_2205_01C75",
@@ -1748,8 +1748,8 @@
    19270
   ],
   "jp": "あなたを止めて、{n}歴史を人の手に取り戻す……",
-  "en": "",
-  "status": ""
+  "en": "I will stop you, and take history back into human hands...",
+  "status": "done"
  },
  {
   "id": "event_2205_01CA1",
@@ -1825,8 +1825,8 @@
    22556
   ],
   "jp": "{voice:008219}グラン・センチュリオの{n}封印の儀式が完了するには、{n}まだ相当の時間を要します。",
-  "en": "",
-  "status": ""
+  "en": "The ritual to seal the Gran Centurio will still take a long time to complete.",
+  "status": "done"
  },
  {
   "id": "event_2205_052F9",
@@ -1837,8 +1837,8 @@
    22563
   ],
   "jp": "{voice:008319}剣を折り、破壊できるならば。{n}その力も消滅するでしょう。",
-  "en": "",
-  "status": ""
+  "en": "If the sword can be broken and destroyed, its power will vanish too.",
+  "status": "done"
  },
  {
   "id": "event_2205_05335",
@@ -1849,8 +1849,8 @@
    22581
   ],
   "jp": "{voice:008419}ただし、{n}並の力では破壊できません。",
-  "en": "",
-  "status": ""
+  "en": "However, ordinary strength cannot destroy it.",
+  "status": "done"
  },
  {
   "id": "event_2205_0535D",
@@ -1861,8 +1861,8 @@
    22599
   ],
   "jp": "{voice:008519}聖剣は祭壇の上だ！",
-  "en": "",
-  "status": ""
+  "en": "The Holy Sword is on the altar!",
+  "status": "done"
  },
  {
   "id": "event_2205_05374",
@@ -1871,8 +1871,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008619}おや？　メデューテ。{n}勇者ギルの末裔でしたね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? Medoute. You are a descendant of the hero Gil, are you not?",
+  "status": "done"
  },
  {
   "id": "event_2205_053A6",
@@ -1881,8 +1881,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008719}知っていますか？{n}ギルを勇者に仕立てたのは{n}私だという事を。",
-  "en": "",
-  "status": ""
+  "en": "Do you know? I am the one who made Gil into a hero.",
+  "status": "done"
  },
  {
   "id": "event_2205_053E5",
@@ -1891,8 +1891,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008819}魔竜ブロンガが邪魔でしたからね。{n}始末するために私が助力し、{n}討たせたのです。",
-  "en": "",
-  "status": ""
+  "en": "Brongaa the demon dragon stood in my way. To be rid of it, I lent him aid, and had him slay it.",
+  "status": "done"
  },
  {
   "id": "event_2205_05436",
@@ -1901,8 +1901,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008919}いわばあなたは、{n}私の操り人形の血筋なのですよ。",
-  "en": "",
-  "status": ""
+  "en": "You might say you come from a bloodline of my puppets.",
+  "status": "done"
  },
  {
   "id": "event_2205_0546A",
@@ -1921,8 +1921,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008A19}だから、どうした？",
-  "en": "",
-  "status": ""
+  "en": "And what of it?",
+  "status": "done"
  },
  {
   "id": "event_2205_0548C",
@@ -1931,8 +1931,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008B19}そんな話はどうでもいいのだ。",
-  "en": "",
-  "status": ""
+  "en": "That doesn't matter at all.",
+  "status": "done"
  },
  {
   "id": "event_2205_054AD",
@@ -1941,8 +1941,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008C19}堕天使、良く聞け！{n}お前に抗うのは、あたしの意志だ。{n}血など関係ないッ②",
-  "en": "",
-  "status": ""
+  "en": "Fallen angel, listen well! Standing against you is my will. Blood has nothing to do with it!!",
+  "status": "done"
  },
  {
   "id": "event_2205_054F8",
@@ -1951,8 +1951,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008D19}聖剣グラン・センチュリオが{n}お、折れた……、バカな。",
-  "en": "",
-  "status": ""
+  "en": "The Holy Sword, Gran Centurio... b-broke... Impossible.",
+  "status": "done"
  },
  {
   "id": "event_2205_05530",
@@ -1975,8 +1975,8 @@
    34345
   ],
   "jp": "{voice:008F19}まだまだ力では{n}アンタに負けてないわよ！{n}ガーロット！",
-  "en": "",
-  "status": ""
+  "en": "I'm still more than a match for you in strength! Garlot!",
+  "status": "done"
  },
  {
   "id": "event_2205_05584",
@@ -1987,8 +1987,8 @@
    34363
   ],
   "jp": "{voice:009019}これで、ネシアの力は封じた！{n}一気にネシアを叩くぜ②",
-  "en": "",
-  "status": ""
+  "en": "That seals Nessiah's power! Let's hit him all at once!!",
+  "status": "done"
  },
  {
   "id": "event_2205_086B0",
@@ -1999,8 +1999,8 @@
    36917
   ],
   "jp": "{voice:009119}な、何故！　人間ごときが、{n}聖剣を砕く事ができるのです？",
-  "en": "",
-  "status": ""
+  "en": "Wh-Why! How can mere humans shatter the Holy Sword?",
+  "status": "done"
  },
  {
   "id": "event_2205_086EC",
@@ -2011,8 +2011,8 @@
    36924
   ],
   "jp": "{voice:009219}戦う力も、戦う理由も、{n}何も持たなかった人間が、何故……",
-  "en": "",
-  "status": ""
+  "en": "Humans who had no power to fight and no reason to fight, why...",
+  "status": "done"
  },
  {
   "id": "event_2205_08728",
@@ -2023,8 +2023,8 @@
    36942
   ],
   "jp": "{voice:009319}教えてやるよ、ネシア…{n}お前が世界を、その目で見なく{n}なった間に、俺達は進歩したんだ！",
-  "en": "",
-  "status": ""
+  "en": "I'll tell you, Nessiah... While you stopped looking at the world, we moved forward!",
+  "status": "done"
  },
  {
   "id": "event_2205_08781",
@@ -2035,8 +2035,8 @@
    36949
   ],
   "jp": "{voice:009419}戦う力も、戦う理由も、{n}自分たちで見いだせるくらいにな。",
-  "en": "",
-  "status": ""
+  "en": "Far enough to find our own power to fight, and our own reasons to fight.",
+  "status": "done"
  },
  {
   "id": "event_2205_087BD",
@@ -2047,8 +2047,8 @@
    36956
   ],
   "jp": "{voice:009519}そして、仲間を信じて、{n}無条件に力を合わせる方法を{n}見つけたんだよ！",
-  "en": "",
-  "status": ""
+  "en": "And we found a way to trust our comrades and join forces, no strings attached!",
+  "status": "done"
  },
  {
   "id": "event_2205_08804",
@@ -2059,8 +2059,8 @@
    36974
   ],
   "jp": "{voice:009619}ば、バカな…、バカな③",
-  "en": "",
-  "status": ""
+  "en": "N-No... No!?",
+  "status": "done"
  },
  {
   "id": "event_2205_0881F",
@@ -2071,8 +2071,8 @@
    37605
   ],
   "jp": "{voice:009719}わ、私の肉体が、消える…！",
-  "en": "",
-  "status": ""
+  "en": "M-My body is vanishing...!",
+  "status": "done"
  },
  {
   "id": "event_2205_0883E",
@@ -2083,8 +2083,8 @@
    37623
   ],
   "jp": "{voice:009819}に、人間に…{n}ニンゲン、ごときに…！",
-  "en": "",
-  "status": ""
+  "en": "T-To humans... To mere... humans...!",
+  "status": "done"
  },
  {
   "id": "event_2205_08866",
@@ -2107,8 +2107,8 @@
    39856
   ],
   "jp": "{voice:009919}……終わったのか。",
-  "en": "",
-  "status": ""
+  "en": "...Is it over?",
+  "status": "done"
  },
  {
   "id": "event_2205_08888",
@@ -2119,8 +2119,8 @@
    39874
   ],
   "jp": "{voice:009A19}多分、そうなんだと思う。",
-  "en": "",
-  "status": ""
+  "en": "I think so, yes.",
+  "status": "done"
  },
  {
   "id": "event_2205_088A5",
@@ -2155,8 +2155,8 @@
    40169
   ],
   "jp": "{voice:009B19}…うぅぅん…",
-  "en": "",
-  "status": ""
+  "en": "...Ummm...",
+  "status": "done"
  },
  {
   "id": "event_2205_088CC",
@@ -2167,8 +2167,8 @@
    40187
   ],
   "jp": "{voice:009C19}俺が言うのもなんだが、{n}少しは落ち着いたらどうだ？",
-  "en": "",
-  "status": ""
+  "en": "I'm one to talk, but why not calm down a little?",
+  "status": "done"
  },
  {
   "id": "event_2205_08902",
@@ -2179,8 +2179,8 @@
    40205
   ],
   "jp": "{voice:009D19}言われなくとも分かっている！",
-  "en": "",
-  "status": ""
+  "en": "You needn't tell me, I know!",
+  "status": "done"
  },
  {
   "id": "event_2205_08923",
@@ -2191,8 +2191,8 @@
    40236
   ],
   "jp": "{voice:009E19}大丈夫かよ、{n}宰相としての初舞台だろ？{n}ビシッと決めてくれよ。",
-  "en": "",
-  "status": ""
+  "en": "Are you okay? It's your debut as Chancellor, right? Do it up right.",
+  "status": "done"
  },
  {
   "id": "event_2205_08964",
@@ -2203,8 +2203,8 @@
    40254
   ],
   "jp": "{voice:009F19}こんなに緊張するのは、{n}生まれて初めてかもしれないな。",
-  "en": "",
-  "status": ""
+  "en": "I may never have been this nervous in my life.",
+  "status": "done"
  },
  {
   "id": "event_2205_0899E",
@@ -2215,8 +2215,8 @@
    40272
   ],
   "jp": "{voice:00A019}…やれやれ、重症だな。",
-  "en": "",
-  "status": ""
+  "en": "...Dear me, it's serious.",
+  "status": "done"
  },
  {
   "id": "event_2205_089B9",
@@ -2227,8 +2227,8 @@
    40290
   ],
   "jp": "{voice:00A119}身体が固いわよ！{n}あ、右手と右足が一緒に前に{n}出ちゃってるよ②",
-  "en": "",
-  "status": ""
+  "en": "You're so stiff! Oh, your right hand and right leg are going forward together!!",
+  "status": "done"
  },
  {
   "id": "event_2205_089FA",
@@ -2239,8 +2239,8 @@
    40308
   ],
   "jp": "{voice:00A219}からかうな。",
-  "en": "",
-  "status": ""
+  "en": "Don't tease me.",
+  "status": "done"
  },
  {
   "id": "event_2205_08A0B",
@@ -2251,8 +2251,8 @@
    40326
   ],
   "jp": "{voice:00A319}よう、冷やかしに来たぞ。",
-  "en": "",
-  "status": ""
+  "en": "Hey, I came to heckle.",
+  "status": "done"
  },
  {
   "id": "event_2205_08A28",
@@ -2263,8 +2263,8 @@
    40344
   ],
   "jp": "{voice:00A419}陛下っ！",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty!",
+  "status": "done"
  },
  {
   "id": "event_2205_08A35",
@@ -2275,8 +2275,8 @@
    40362
   ],
   "jp": "{voice:00A519}何度も言わせるな。{n}もう、陛下ではないだろう？",
-  "en": "",
-  "status": ""
+  "en": "Don't make me say it again. I'm no longer Your Majesty, am I?",
+  "status": "done"
  },
  {
   "id": "event_2205_08A67",
@@ -2287,8 +2287,8 @@
    40380
   ],
   "jp": "{voice:00A619}そうでしたね、陛下……",
-  "en": "",
-  "status": ""
+  "en": "Quite so, Your Majesty...",
+  "status": "done"
  },
  {
   "id": "event_2205_08A82",
@@ -2299,8 +2299,8 @@
    40398
   ],
   "jp": "{voice:00A719}ぷっ……",
-  "en": "",
-  "status": ""
+  "en": "Pfft...",
+  "status": "done"
  },
  {
   "id": "event_2205_08A8F",
@@ -2311,8 +2311,8 @@
    40416
   ],
   "jp": "{voice:00A819}…ガーロット将軍。{n}先が思いやられるな、この宰相は。",
-  "en": "",
-  "status": ""
+  "en": "...General Garlot. I worry about the future, with this Chancellor.",
+  "status": "done"
  },
  {
   "id": "event_2205_08AC7",
@@ -2323,8 +2323,8 @@
    40434
   ],
   "jp": "{voice:00A919}…俺もそう思う。",
-  "en": "",
-  "status": ""
+  "en": "...So do I.",
+  "status": "done"
  },
  {
   "id": "event_2205_08ADC",
@@ -2335,8 +2335,8 @@
    40452
   ],
   "jp": "{voice:00AA19}あーぁ、雇い主を{n}もっと選ぶべきだったよねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Ugh, we should've been pickier about who we work for.",
+  "status": "done"
  },
  {
   "id": "event_2205_08B0E",
@@ -2347,8 +2347,8 @@
    40470
   ],
   "jp": "{voice:00AB19}今に見ておれよ、お前ら…",
-  "en": "",
-  "status": ""
+  "en": "Just you wait, you lot...",
+  "status": "done"
  },
  {
   "id": "event_2205_08B2B",
@@ -2359,8 +2359,8 @@
    40488
   ],
   "jp": "{voice:00AC19}冗談だよ。{n}いや、冗談ですよ宰相。",
-  "en": "",
-  "status": ""
+  "en": "Just kidding. Uh, I mean, I jest, Chancellor.",
+  "status": "done"
  },
  {
   "id": "event_2205_08B51",
@@ -2371,8 +2371,8 @@
    40506
   ],
   "jp": "{voice:00AD19}あら？",
-  "en": "",
-  "status": ""
+  "en": "Oh?",
+  "status": "done"
  },
  {
   "id": "event_2205_08B5C",
@@ -2383,8 +2383,8 @@
    40524
   ],
   "jp": "{voice:00AE19}なんだよ、今日から敬語とかで{n}喋ろうと思ってんだよ……",
-  "en": "",
-  "status": ""
+  "en": "What, I figured I'd start talking polite from today on...",
+  "status": "done"
  },
  {
   "id": "event_2205_08B96",
@@ -2395,8 +2395,8 @@
    40531
   ],
   "jp": "{voice:00AF19}宰相、貴方以外に、{n}この国を支えられる人はいない。",
-  "en": "",
-  "status": ""
+  "en": "Chancellor, there is no one but you who can support this country.",
+  "status": "done"
  },
  {
   "id": "event_2205_08BCC",
@@ -2407,8 +2407,8 @@
    40538
   ],
   "jp": "{voice:00B019}俺もいる、ますから、心配無用。{n}大船に乗ったつもりでいろよ、{n}いて、いてください、か？",
-  "en": "",
-  "status": ""
+  "en": "I'm here too, am, so no worries. You can rest easy, uh, please do be resting easy, or something?",
+  "status": "done"
  },
  {
   "id": "event_2205_08C25",
@@ -2419,8 +2419,8 @@
    40556
   ],
   "jp": "{voice:00B119}お前に敬語は無理だ。",
-  "en": "",
-  "status": ""
+  "en": "Polite talk's beyond you.",
+  "status": "done"
  },
  {
   "id": "event_2205_08C3E",
@@ -2431,8 +2431,8 @@
    40574
   ],
   "jp": "{voice:00B219}ああ、私もかなり気持ち悪い。",
-  "en": "",
-  "status": ""
+  "en": "Yes, I find it rather creepy myself.",
+  "status": "done"
  },
  {
   "id": "event_2205_08C5F",
@@ -2443,8 +2443,8 @@
    40592
   ],
   "jp": "{voice:00B319}言いやがった、あー、ですね！",
-  "en": "",
-  "status": ""
+  "en": "You said it, er, did say it, sir!",
+  "status": "done"
  },
  {
   "id": "event_2205_08C80",
@@ -2455,8 +2455,8 @@
    40610
   ],
   "jp": "{voice:00B419}あははははははははは！",
-  "en": "",
-  "status": ""
+  "en": "Ahahahahahahahaha!",
+  "status": "done"
  },
  {
   "id": "event_2205_08C9B",
@@ -2467,8 +2467,8 @@
    40628
   ],
   "jp": "{voice:00B519}くそっ、胸くそ悪いぜ。",
-  "en": "",
-  "status": ""
+  "en": "Damn it, you're making me sick.",
+  "status": "done"
  },
  {
   "id": "event_2205_08CB6",
@@ -2479,8 +2479,8 @@
    40646
   ],
   "jp": "{voice:00B619}それにしても、メデューテさん{n}元気にしてますかね。",
-  "en": "",
-  "status": ""
+  "en": "Still, I wonder how Medoute-san is doing.",
+  "status": "done"
  },
  {
   "id": "event_2205_08CEC",
@@ -2491,8 +2491,8 @@
    40664
   ],
   "jp": "{voice:00B719}いまはどの国に{n}行ってるんだろうね。",
-  "en": "",
-  "status": ""
+  "en": "I wonder which country she's in by now.",
+  "status": "done"
  },
  {
   "id": "event_2205_08D14",
@@ -2503,8 +2503,8 @@
    40682
   ],
   "jp": "{voice:00B819}まだこの近くにいて、{n}ガチガチの宰相様を見ながら、{n}腹を抱えて笑ってるかもな。",
-  "en": "",
-  "status": ""
+  "en": "Maybe she's still around here, watching the Chancellor all stiff, laughing her head off.",
+  "status": "done"
  },
  {
   "id": "event_2205_08D65",
@@ -2515,8 +2515,8 @@
    40700
   ],
   "jp": "{voice:00B919}ガーロット将軍。{n}緊張は解けてきたぞ。{n}さあ行こうか、就任演説へ！",
-  "en": "",
-  "status": ""
+  "en": "General Garlot. My nerves have eased. Now then, let's go, to the inaugural speech!",
+  "status": "done"
  },
  {
   "id": "event_2205_08DAA",
@@ -2527,7 +2527,7 @@
    40718
   ],
   "jp": "{voice:00BA19}了解しました、ヴェルマン宰相。",
-  "en": "",
-  "status": ""
+  "en": "Understood, Chancellor Velleman.",
+  "status": "done"
  }
 ]

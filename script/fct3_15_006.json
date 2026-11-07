@@ -6,8 +6,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "…何だコイツ{n}立ったまま寝てるぜ",
-  "en": "",
-  "status": ""
+  "en": "...He's asleep standing up",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_00020",
@@ -16,8 +16,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "よほど疲れているのね…",
-  "en": "",
-  "status": ""
+  "en": "Must be tired...",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_00037",
@@ -26,8 +26,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "よほど疲れているのね…",
-  "en": "",
-  "status": ""
+  "en": "Must be tired...",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_0004E",
@@ -36,8 +36,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "熟睡しているようです",
-  "en": "",
-  "status": ""
+  "en": "Sound asleep",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_00063",
@@ -46,8 +46,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "ねぇ、この人寝てるけど{n}叩いてもいい？",
-  "en": "",
-  "status": ""
+  "en": "Hey, this one's asleep. Can I hit?",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_00089",
@@ -56,8 +56,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "やはり眠っているか…",
-  "en": "",
-  "status": ""
+  "en": "Still asleep...",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_0009E",
@@ -66,8 +66,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "…完全に寝ちゃってるわ",
-  "en": "",
-  "status": ""
+  "en": "...Completely out cold",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_000B5",
@@ -76,8 +76,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "何この人…眠ってるよ？",
-  "en": "",
-  "status": ""
+  "en": "Huh... They're asleep?",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_000CC",
@@ -86,8 +86,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "…眠っているのか？",
-  "en": "",
-  "status": ""
+  "en": "...Asleep?",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_000DF",
@@ -96,8 +96,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "寝てるぞ…",
-  "en": "",
-  "status": ""
+  "en": "Asleep...",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_000EA",
@@ -106,8 +106,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "眠っているようです…",
-  "en": "",
-  "status": ""
+  "en": "Fast asleep...",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_000FF",
@@ -116,8 +116,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "眠っている？",
-  "en": "",
-  "status": ""
+  "en": "Asleep?",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_0010C",
@@ -126,8 +126,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "あらら、寝てるわ{n}この人…",
-  "en": "",
-  "status": ""
+  "en": "Oh my, it's asleep...",
+  "status": "done"
  },
  {
   "id": "fct3_15_006_00126",
@@ -136,7 +136,7 @@
   "kind": "bare",
   "slots": [],
   "jp": "あらあら、こんな所で眠っては{n}風邪をひいてしまいますわよ？",
-  "en": "",
-  "status": ""
+  "en": "Oh dear, you will catch cold, sleeping in such a place.",
+  "status": "done"
  }
 ]

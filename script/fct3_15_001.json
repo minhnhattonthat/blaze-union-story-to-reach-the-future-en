@@ -18,8 +18,8 @@
    56
   ],
   "jp": "この程度の金じゃ{n}やってられねーよ！",
-  "en": "",
-  "status": ""
+  "en": "I ain't doin' this for pocket change!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_00170",
@@ -30,8 +30,8 @@
    63
   ],
   "jp": "退却するぞ！",
-  "en": "",
-  "status": ""
+  "en": "Retreat!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_0017D",
@@ -42,8 +42,8 @@
    99
   ],
   "jp": "もう少し金が出ねぇと{n}やってられねーな！",
-  "en": "",
-  "status": ""
+  "en": "Without a little more money, I ain't doin' this!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_001A5",
@@ -54,8 +54,8 @@
    106
   ],
   "jp": "退却するぞ！",
-  "en": "",
-  "status": ""
+  "en": "Retreat!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_001B2",
@@ -66,8 +66,8 @@
    142
   ],
   "jp": "雲行きが怪しくなって{n}来やがった",
-  "en": "",
-  "status": ""
+  "en": "Things are startin' to look ugly",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_001D2",
@@ -78,8 +78,8 @@
    149
   ],
   "jp": "退却するぞ！",
-  "en": "",
-  "status": ""
+  "en": "Retreat!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_001DF",
@@ -90,8 +90,8 @@
    185
   ],
   "jp": "こんなはした金で{n}危ない橋を渡れるかよ！",
-  "en": "",
-  "status": ""
+  "en": "I ain't takin' risks for peanuts like this!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_00207",
@@ -102,8 +102,8 @@
    192
   ],
   "jp": "退却するぞ！",
-  "en": "",
-  "status": ""
+  "en": "Retreat!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_00214",
@@ -114,8 +114,8 @@
    228
   ],
   "jp": "こりゃやべーぞ。{n}命の方が大切だ",
-  "en": "",
-  "status": ""
+  "en": "This is bad news. My life comes first",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_00234",
@@ -126,8 +126,8 @@
    235
   ],
   "jp": "退却するぞ！",
-  "en": "",
-  "status": ""
+  "en": "Retreat!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_00241",
@@ -138,8 +138,8 @@
    271
   ],
   "jp": "負け戦ばかりじゃねーか！{n}やってられねーよ！",
-  "en": "",
-  "status": ""
+  "en": "Nothin' but losing battles! I ain't doin' this!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_0026D",
@@ -150,8 +150,8 @@
    278
   ],
   "jp": "退却するぞ！",
-  "en": "",
-  "status": ""
+  "en": "Retreat!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_0027A",
@@ -162,8 +162,8 @@
    314
   ],
   "jp": "金のために命まで懸けて{n}られるかよ！",
-  "en": "",
-  "status": ""
+  "en": "I ain't riskin' my life for money!",
+  "status": "done"
  },
  {
   "id": "fct3_15_001_0029E",
@@ -174,7 +174,7 @@
    321
   ],
   "jp": "退却するぞ！",
-  "en": "",
-  "status": ""
+  "en": "Retreat!",
+  "status": "done"
  }
 ]

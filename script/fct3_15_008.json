@@ -8,8 +8,8 @@
    104
   ],
   "jp": "遂にノルンを追い詰めたぜ。{n}今までの悪行を後悔させてやるぜ！",
-  "en": "",
-  "status": ""
+  "en": "We've finally got Norn cornered. Time to make him regret all his crimes!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01D88",
@@ -20,8 +20,8 @@
    122
   ],
   "jp": "ええ、そうよね！{n}じゃあ『カード』を選びましょう②",
-  "en": "",
-  "status": ""
+  "en": "Yeah, you said it! So let's pick a \"Card\"!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01DBA",
@@ -32,8 +32,8 @@
    140
   ],
   "jp": "『カード』？　なんだそれは…",
-  "en": "",
-  "status": ""
+  "en": "A \"Card\"? What's that...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01DD7",
@@ -44,8 +44,8 @@
    164
   ],
   "jp": "カードよ！　戦術のカギになる{n}『タクティクスカード』のこと！{n}なに言ってんのよ……",
-  "en": "",
-  "status": ""
+  "en": "The card! The \"Tactics Card,\" the key to our tactics! What are you talking about...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01E28",
@@ -56,8 +56,8 @@
    182
   ],
   "jp": "戦術？　そんなのは簡単だ。{n}ノルンをぶちのめす！{n}それだけだ。",
-  "en": "",
-  "status": ""
+  "en": "Tactics? That's easy. Beat the hell out of Norn! That's it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01E65",
@@ -68,8 +68,8 @@
    200
   ],
   "jp": "じゃぁさ、聞くけど、{n}ノルンまでは距離があるよね？{n}どうやって倒す気なの？",
-  "en": "",
-  "status": ""
+  "en": "Okay, let me ask you. Norn's a long way off, right? How are you going to beat him?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01EAE",
@@ -80,8 +80,8 @@
    218
   ],
   "jp": "近づいて、ぶっ飛ばすんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Get up close and knock him flying!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01ECB",
@@ -92,8 +92,8 @@
    236
   ],
   "jp": "でしょ？{n}敵を倒すには、まず近づかなきゃ。",
-  "en": "",
-  "status": ""
+  "en": "See? To beat an enemy, first you've got to get close.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01EF5",
@@ -104,8 +104,8 @@
    248
   ],
   "jp": "いい？　私達が移動するにも、{n}『タクティクスカード』を{n}使わなきゃいけないの。",
-  "en": "",
-  "status": ""
+  "en": "Listen. Just to move, we've got to use a \"Tactics Card.\"",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01F42",
@@ -116,8 +116,8 @@
    255
   ],
   "jp": "ほら、カードを見て。{n}『Ｍｏｖ』って書いてあるでしょ？",
-  "en": "",
-  "status": ""
+  "en": "Here, look at the card. It says \"Mov,\" right?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01F78",
@@ -128,8 +128,8 @@
    262
   ],
   "jp": "ターンの最初に選んだカードに{n}書かれてある、この『Ｍｏｖ』の{n}値だけ、私達は移動できるの。",
-  "en": "",
-  "status": ""
+  "en": "On the card you pick at the start of a turn, the \"Mov\" value is how far we can move.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_01FD1",
@@ -140,8 +140,8 @@
    280
   ],
   "jp": "このカードの『Ｍｏｖ』は１２…{n}つまり俺は１２歩進めるんだな！{n}よし、早速ノルンを……",
-  "en": "",
-  "status": ""
+  "en": "This card's \"Mov\" is 12... So I can go 12 steps! All right, straight to Norn...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02026",
@@ -152,8 +152,8 @@
    298
   ],
   "jp": "待った待った！{n}この『Ｍｏｖ』の値はアンタだけ{n}じゃなく、みんなのものなのよ。",
-  "en": "",
-  "status": ""
+  "en": "Wait, wait! That \"Mov\" value isn't just for you, it's for everyone.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02073",
@@ -164,8 +164,8 @@
    305
   ],
   "jp": "アンタが使い切ったら、{n}他の部隊が移動できないじゃん。",
-  "en": "",
-  "status": ""
+  "en": "If you use it all up, the other units can't move.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_020A9",
@@ -176,8 +176,8 @@
    323
   ],
   "jp": "そうか、俺１人だけが進んだら、{n}お前は置き去りになるわけか…",
-  "en": "",
-  "status": ""
+  "en": "I see. If I'm the only one who moves, you get left behind...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_020E5",
@@ -188,8 +188,8 @@
    341
   ],
   "jp": "シスキア、ところで…{n}この『Ｐｏｗ』っていうのは{n}なんなんだ？",
-  "en": "",
-  "status": ""
+  "en": "Siskier, by the way... What's this \"Pow\" here?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02122",
@@ -200,8 +200,8 @@
    359
   ],
   "jp": "それはパワー、攻撃力よ。",
-  "en": "",
-  "status": ""
+  "en": "That's power, attack strength.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0213B",
@@ -212,8 +212,8 @@
    366
   ],
   "jp": "この値が高いほど、{n}敵に与える士気ダメージも{n}高くなるってワケ。",
-  "en": "",
-  "status": ""
+  "en": "The higher the value, the more morale damage you deal to the enemy.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0217A",
@@ -224,8 +224,8 @@
    384
   ],
   "jp": "一撃で大ダメージを与えたいなら、{n}『Ｐｏｗ』の値が高いカードを{n}選べばいいわけだな。",
-  "en": "",
-  "status": ""
+  "en": "So to deal big damage in one hit, I should pick a card with a high \"Pow\" value.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_021CD",
@@ -236,8 +236,8 @@
    402
   ],
   "jp": "それと、この『エースタイプ』と{n}『スキル』というのは…？",
-  "en": "",
-  "status": ""
+  "en": "And what about this \"Ace Type\" and \"Skill\"...?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02205",
@@ -248,8 +248,8 @@
    420
   ],
   "jp": "この２つは、バトルで使える{n}『必殺技』に関わるものね。",
-  "en": "",
-  "status": ""
+  "en": "Those two have to do with the \"special moves\" you can use in battle.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0223B",
@@ -260,8 +260,8 @@
    427
   ],
   "jp": "でもまあ、あんな連中を倒すのに{n}『必殺技』は必要ないでしょ。",
-  "en": "",
-  "status": ""
+  "en": "But you won't need \"special moves\" to beat those guys.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02277",
@@ -272,8 +272,8 @@
    445
   ],
   "jp": "確かにな……{n}今は『Ｍｏｖ』と『Ｐｏｗ』だけ{n}気にして選べばいいんだな！",
-  "en": "",
-  "status": ""
+  "en": "True enough... For now I just need to look at \"Mov\" and \"Pow\" when I pick!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_022BE",
@@ -284,8 +284,8 @@
    463
   ],
   "jp": "そういうコト……",
-  "en": "",
-  "status": ""
+  "en": "That's the idea...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_022CF",
@@ -296,8 +296,8 @@
    602
   ],
   "jp": "よしッ、待ってろよノルン②",
-  "en": "",
-  "status": ""
+  "en": "All right, you wait right there, Norn!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_022EA",
@@ -308,8 +308,8 @@
    620
   ],
   "jp": "それじゃあ、部隊の移動方法…{n}ユニットの動かし方を{n}説明しないとね。",
-  "en": "",
-  "status": ""
+  "en": "Okay then, I should explain how to move the troops... how to move your units.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0232D",
@@ -320,8 +320,8 @@
    633
   ],
   "jp": "まずは、方向キーを使って、{n}動かしたいユニットにカーソルを{n}合わせるのよ。",
-  "en": "",
-  "status": ""
+  "en": "First, use the directional pad to put the cursor on the unit you want to move.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02376",
@@ -332,8 +332,8 @@
    640
   ],
   "jp": "ユニットの上で○ボタンを押すと、{n}移動できる範囲が、マップ上に{n}表示されるわ。",
-  "en": "",
-  "status": ""
+  "en": "Press the ○ button on a unit, and the area it can move to shows up on the map.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_023C3",
@@ -344,8 +344,8 @@
    652
   ],
   "jp": "この状態で方向キーを押せば、{n}選んだユニットはその方向に{n}移動するってワケ。",
-  "en": "",
-  "status": ""
+  "en": "Then press the directional pad, and the chosen unit moves that way.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0240E",
@@ -356,8 +356,8 @@
    659
   ],
   "jp": "目標地点までユニットを動かして、{n}○ボタンで移動完了ね。",
-  "en": "",
-  "status": ""
+  "en": "Move the unit to where you're headed, and press the ○ button to finish moving.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02446",
@@ -368,8 +368,8 @@
    666
   ],
   "jp": "ちなみに、もし移動する方向を{n}間違えた場合だけど…",
-  "en": "",
-  "status": ""
+  "en": "Oh, and if you go the wrong way...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02478",
@@ -380,8 +380,8 @@
    673
   ],
   "jp": "移動完了する前なら、{n}×ボタンでキャンセルできるわ。",
-  "en": "",
-  "status": ""
+  "en": "You can cancel with the X button, as long as you haven't finished moving.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_024AC",
@@ -392,8 +392,8 @@
    691
   ],
   "jp": "移動力の計算を間違えても、{n}×ボタンがあれば{n}慌てなくて済むわけだな。",
-  "en": "",
-  "status": ""
+  "en": "So if I get my movement math wrong, I've got the X button and no need to panic.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_024F1",
@@ -404,8 +404,8 @@
    698
   ],
   "jp": "移動力が０になったらどうなる？",
-  "en": "",
-  "status": ""
+  "en": "What happens when movement power hits 0?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02510",
@@ -416,8 +416,8 @@
    716
   ],
   "jp": "そのターンは、{n}もう移動できなくなるわね。",
-  "en": "",
-  "status": ""
+  "en": "You can't move anymore that turn.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0253A",
@@ -428,8 +428,8 @@
    723
   ],
   "jp": "敵の真ん中で、{n}身動きが取れなくなった！{n}なんて笑えないわよ。",
-  "en": "",
-  "status": ""
+  "en": "Getting stuck in the middle of the enemy, that wouldn't be funny.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02577",
@@ -440,8 +440,8 @@
    741
   ],
   "jp": "そんな事するわけないだろ！{n}ま、これで移動方法は完璧だな。",
-  "en": "",
-  "status": ""
+  "en": "Like I'd ever do that! Well, that's movement mastered.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_025B1",
@@ -452,8 +452,8 @@
    888
   ],
   "jp": "敵と隣接した！{n}これでようやく戦えるぜ②",
-  "en": "",
-  "status": ""
+  "en": "We're next to the enemy! Now we can finally fight!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_025D9",
@@ -464,8 +464,8 @@
    906
   ],
   "jp": "攻撃を仕掛ける場合、{n}まず切り込み役の攻撃ユニットを{n}指定するのよ。",
-  "en": "",
-  "status": ""
+  "en": "To launch an attack, first you pick the attacking unit, the one to lead the charge.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0261C",
@@ -476,8 +476,8 @@
    913
   ],
   "jp": "敵と隣接してないユニットは{n}指定できないから、注意してね。",
-  "en": "",
-  "status": ""
+  "en": "You can't pick a unit that isn't next to an enemy, so watch out.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02656",
@@ -488,8 +488,8 @@
    920
   ],
   "jp": "攻撃ユニットが決まったら、{n}カーソルを合わせて{n}□ボタンを押してみて。",
-  "en": "",
-  "status": ""
+  "en": "Once you've decided on your attacking unit, put the cursor on it and press the □ button.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0269B",
@@ -500,8 +500,8 @@
    933
   ],
   "jp": "すると、アタックモードに{n}切り替わるわよ。",
-  "en": "",
-  "status": ""
+  "en": "That switches you to Attack Mode.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_026C5",
@@ -512,8 +512,8 @@
    951
   ],
   "jp": "ん？{n}ユニットの名前が出てきたぜ？",
-  "en": "",
-  "status": ""
+  "en": "Hm? The units' names came up?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_026E7",
@@ -524,8 +524,8 @@
    969
   ],
   "jp": "それは、バトルに参加する{n}敵味方のユニットのリスト…{n}デュエルオーダー画面ね。",
-  "en": "",
-  "status": ""
+  "en": "That's the list of enemy and ally units taking part in the battle... The Duel Order screen.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02734",
@@ -536,8 +536,8 @@
    976
   ],
   "jp": "ここに書かれた順番通りに{n}敵と味方が戦闘をするの。",
-  "en": "",
-  "status": ""
+  "en": "Enemies and allies fight in the order written here.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02766",
@@ -548,8 +548,8 @@
    994
   ],
   "jp": "ユニット名の横にあるマーク、{n}◎とか×とか…、あれはなんだ？",
-  "en": "",
-  "status": ""
+  "en": "The marks next to the unit names, the ◎ and X and so on... What are those?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_027A2",
@@ -560,8 +560,8 @@
    1012
   ],
   "jp": "それは、戦況予想ね。",
-  "en": "",
-  "status": ""
+  "en": "That's the battle forecast.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_027B7",
@@ -572,8 +572,8 @@
    1024
   ],
   "jp": "ユニットの能力や武器相性から{n}対戦の優劣がどうなるのか{n}分析した評価値ってコト。",
-  "en": "",
-  "status": ""
+  "en": "It's a rating of who's favored in the matchup, based on unit abilities and weapon matchups.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02806",
@@ -584,8 +584,8 @@
    1042
   ],
   "jp": "つまり、俺達の戦況予想が{n}『◎』なら勝ちやすく、{n}『×』なら負けやすいわけか…",
-  "en": "",
-  "status": ""
+  "en": "So if our forecast says \"◎\" we're likely to win, and if \"X\" we're likely to lose...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02853",
@@ -596,8 +596,8 @@
    1060
   ],
   "jp": "あくまで計算上の目安だから{n}絶対的なものではないけどね。",
-  "en": "",
-  "status": ""
+  "en": "It's only a rough estimate from the numbers, though, not an absolute.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0288B",
@@ -608,8 +608,8 @@
    1078
   ],
   "jp": "有利ならぶちかませ！{n}そういう事だな？",
-  "en": "",
-  "status": ""
+  "en": "If we've got the edge, go all out! That's the idea, right?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_028B1",
@@ -620,8 +620,8 @@
    1096
   ],
   "jp": "ん？　うーん、{n}まあ、間違っちゃいないケドさ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? Mmm, well, you're not wrong, exactly.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_028DF",
@@ -632,8 +632,8 @@
    1119
   ],
   "jp": "デュエルオーダー画面で{n}こちらの有利を確認したら、{n}○ボタンを押してみて。",
-  "en": "",
-  "status": ""
+  "en": "Once you've confirmed your advantage on the Duel Order screen, press the ○ button.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02928",
@@ -644,8 +644,8 @@
    1126
   ],
   "jp": "最終確認画面が出たら、{n}さらに○ボタンで戦闘開始。{n}どう？　簡単でしょ！",
-  "en": "",
-  "status": ""
+  "en": "When the final check screen comes up, press the ○ button again to start the battle. See? Easy!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0296F",
@@ -656,8 +656,8 @@
    1144
   ],
   "jp": "ああ、やっと奴らをぶちのめして{n}やれるんだな！　腕が鳴るぜ②",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I finally get to beat the hell out of them! I'm itching for it!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_029AB",
@@ -668,8 +668,8 @@
    1304
   ],
   "jp": "よしッ②{n}この勢いでドンドン行くぜ②",
-  "en": "",
-  "status": ""
+  "en": "All right!! Let's keep up this momentum!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_029CF",
@@ -680,8 +680,8 @@
    1322
   ],
   "jp": "待ちなよ、ガーロット。{n}攻撃は１ターンに１回しか{n}仕掛けられないのよ。",
-  "en": "",
-  "status": ""
+  "en": "Hold on, Garlot. You can only launch one attack per turn.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02A14",
@@ -692,8 +692,8 @@
    1340
   ],
   "jp": "なにッ？　そうなのか③",
-  "en": "",
-  "status": ""
+  "en": "What? Is that so!?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02A2B",
@@ -704,8 +704,8 @@
    1358
   ],
   "jp": "次のターンが回ってくるまで{n}攻撃はおあずけね。",
-  "en": "",
-  "status": ""
+  "en": "No more attacking until your next turn comes around.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02A59",
@@ -716,8 +716,8 @@
    1376
   ],
   "jp": "じゃあ、このターンは{n}もう何もやる事はないな。{n}さあ次のターンに進もうぜ！",
-  "en": "",
-  "status": ""
+  "en": "Then there's nothing more to do this turn. On to the next turn!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02AA2",
@@ -728,8 +728,8 @@
    1416
   ],
   "jp": "ちょっと待った。{n}移動力さえ残っていれば、{n}戦闘の後でも移動ができるわよ。",
-  "en": "",
-  "status": ""
+  "en": "Wait a sec. As long as you've got movement power left, you can still move after a battle.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02AEB",
@@ -740,8 +740,8 @@
    1434
   ],
   "jp": "ただし、攻撃を仕掛けた{n}ユニットだけは移動できないよ。",
-  "en": "",
-  "status": ""
+  "en": "But the unit that launched the attack can't move.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02B21",
@@ -752,8 +752,8 @@
    1452
   ],
   "jp": "切り込み役には、{n}動く余力が残ってないわけか…{n}まあ無理もないな。",
-  "en": "",
-  "status": ""
+  "en": "So the one who leads the charge has no strength left to move... Well, can't blame them.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02B62",
@@ -764,8 +764,8 @@
    1470
   ],
   "jp": "うふふふふ……",
-  "en": "",
-  "status": ""
+  "en": "Tee hee hee hee...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02B71",
@@ -776,8 +776,8 @@
    1488
   ],
   "jp": "なんだよ、急に笑い出して。{n}気持ち悪いな……",
-  "en": "",
-  "status": ""
+  "en": "What's with the sudden giggling? That's creepy...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02B9D",
@@ -788,8 +788,8 @@
    1506
   ],
   "jp": "ココだけの話だけど…{n}私だけは、攻撃した後でも{n}移動できちゃうんだよね～♪",
-  "en": "",
-  "status": ""
+  "en": "Just between us... I'm the only one who can move even after attacking~♪",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02BE6",
@@ -800,8 +800,8 @@
    1524
   ],
   "jp": "ズルいじゃねぇか、おい！",
-  "en": "",
-  "status": ""
+  "en": "Hey, that's not fair!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02BFF",
@@ -812,8 +812,8 @@
    1542
   ],
   "jp": "私は斥候兵だもの。{n}そういう特殊能力を持ってるの！",
-  "en": "",
-  "status": ""
+  "en": "I'm a scout. That's my special ability!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02C31",
@@ -824,8 +824,8 @@
    1560
   ],
   "jp": "さて、やる事がなくなったら、{n}ターンを終了させてね。",
-  "en": "",
-  "status": ""
+  "en": "Now, when there's nothing left to do, end your turn.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02C65",
@@ -836,8 +836,8 @@
    1572
   ],
   "jp": "Ｌボタンでメニューを開いて{n}『ターン終了』を選ぶのよ。",
-  "en": "",
-  "status": ""
+  "en": "Open the menu with the L button and choose \"End Turn.\"",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02C9B",
@@ -848,8 +848,8 @@
    1590
   ],
   "jp": "確認が出たら○ボタンで終了だな。{n}さあ、次のターンにいくぜ！",
-  "en": "",
-  "status": ""
+  "en": "When the confirmation comes up, press the ○ button to end. On to the next turn!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02CD7",
@@ -860,8 +860,8 @@
    1736
   ],
   "jp": "ところでジェノン、{n}その…、ユニオンってなんだ？",
-  "en": "",
-  "status": ""
+  "en": "By the way, Jenon... Uh, what's a Union?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02D07",
@@ -872,8 +872,8 @@
    1754
   ],
   "jp": "…やっぱり知らなかったか。",
-  "en": "",
-  "status": ""
+  "en": "...I figured you didn't know.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02D22",
@@ -884,8 +884,8 @@
    1761
   ],
   "jp": "ユニオンっていうのは、{n}陣形を用いた戦術の事だよ。",
-  "en": "",
-  "status": ""
+  "en": "A Union is a tactic that uses formations.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02D54",
@@ -896,8 +896,8 @@
    1768
   ],
   "jp": "ユニオンを組めば、{n}複数のユニットが連係して{n}敵に挑む事ができるのさ。",
-  "en": "",
-  "status": ""
+  "en": "Form a Union, and several units can work together to take on the enemy.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02D99",
@@ -908,8 +908,8 @@
    1786
   ],
   "jp": "じゃあ…、俺達全員で、{n}敵を叩けるって事なのか？",
-  "en": "",
-  "status": ""
+  "en": "So... all of us can hit the enemy together?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02DC9",
@@ -920,8 +920,8 @@
    1804
   ],
   "jp": "いや…、連係攻撃は、{n}ユニオンリーダーからみて特定の{n}位置にいる仲間としかできない。",
-  "en": "",
-  "status": ""
+  "en": "No... Combo attacks only work with allies in certain positions from the Union Leader.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02E1C",
@@ -932,8 +932,8 @@
    1822
   ],
   "jp": "ユニオンリーダー……{n}切り込み役ユニットの事だな？",
-  "en": "",
-  "status": ""
+  "en": "Union Leader... That's the unit leading the charge, right?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02E4E",
@@ -944,8 +944,8 @@
    1840
   ],
   "jp": "連係攻撃ができる範囲と位置、{n}フォーメーションタイプは{n}全部で２種類あるんだ。",
-  "en": "",
-  "status": ""
+  "en": "The range and positions for combo attacks, the formation types, come in two kinds in all.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02E9B",
@@ -956,8 +956,8 @@
    1864
   ],
   "jp": "ひとつは『×タイプ』で、{n}ユニオンリーダーが男性の場合の{n}フォーメーションだ。",
-  "en": "",
-  "status": ""
+  "en": "One is the \"X Type,\" the formation when the Union Leader is male.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02EE8",
@@ -968,8 +968,8 @@
    1882
   ],
   "jp": "俺やジェノンがリーダーの場合{n}『×タイプ』ってわけだな。",
-  "en": "",
-  "status": ""
+  "en": "So when Jenon or I am leader, it's the \"X Type.\"",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02F20",
@@ -980,8 +980,8 @@
    1900
   ],
   "jp": "そういう事になるね。{n}リーダーの斜め方向にいる{n}ユニットと連係して戦える。",
-  "en": "",
-  "status": ""
+  "en": "That's right. You can fight together with units diagonal from the leader.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02F69",
@@ -992,8 +992,8 @@
    1912
   ],
   "jp": "もうひとつは『＋タイプ』。{n}リーダーが女性の場合の{n}連係フォーメーションだよ。",
-  "en": "",
-  "status": ""
+  "en": "The other is the \"+ Type.\" The combo formation when the leader is female.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_02FB6",
@@ -1004,8 +1004,8 @@
    1930
   ],
   "jp": "私の場合は『＋タイプ』ね。{n}ということは、縦横方向にいる{n}ユニットと連係するの？",
-  "en": "",
-  "status": ""
+  "en": "So for me, it's the \"+ Type.\" Which means I team up with units up, down, left and right?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03005",
@@ -1016,8 +1016,8 @@
    1948
   ],
   "jp": "その通り！{n}さすがシスキア、察しがいいね。",
-  "en": "",
-  "status": ""
+  "en": "That's right! Nice one, Siskier, you catch on fast.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0302F",
@@ -1028,8 +1028,8 @@
    1966
   ],
   "jp": "デュエルオーダーを見れば、{n}どのユニットが参加できるのかが{n}一目で確認できるよ。",
-  "en": "",
-  "status": ""
+  "en": "Look at the Duel Order, and you can see at a glance which units can join in.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0307E",
@@ -1040,8 +1040,8 @@
    1984
   ],
   "jp": "まあ要するに{n}習うより慣れろ、ってことさ。",
-  "en": "",
-  "status": ""
+  "en": "Basically, it's a case of learning by doing.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_030A8",
@@ -1052,8 +1052,8 @@
    2002
   ],
   "jp": "連係攻撃ねぇ…{n}俺ひとりで突っ切った方が{n}手っ取り早いんじゃないか？",
-  "en": "",
-  "status": ""
+  "en": "Combo attacks, huh... Wouldn't it be quicker to just charge through by myself?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_030EB",
@@ -1064,8 +1064,8 @@
    2020
   ],
   "jp": "そんなことしたら{n}『連戦ハンデ』でたちまち{n}追い詰められるよ？",
-  "en": "",
-  "status": ""
+  "en": "Do that, and the \"Streak Handicap\" will soon have you cornered, you know?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03128",
@@ -1076,8 +1076,8 @@
    2038
   ],
   "jp": "『連戦ハンデ』？",
-  "en": "",
-  "status": ""
+  "en": "The \"Streak Handicap\"?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03139",
@@ -1088,8 +1088,8 @@
    2061
   ],
   "jp": "いいかい？　戦闘に参加する{n}ユニット数はフォーメーションで{n}変化するんだけど…",
-  "en": "",
-  "status": ""
+  "en": "Listen. The number of units in a battle changes with the formation...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03186",
@@ -1100,8 +1100,8 @@
    2068
   ],
   "jp": "ユニット数が少ない側は、{n}連戦する事で不足ユニット分を{n}補うんだ。",
-  "en": "",
-  "status": ""
+  "en": "The side with fewer units makes up the shortfall by fighting multiple battles in a row.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_031C7",
@@ -1112,8 +1112,8 @@
    2075
   ],
   "jp": "連戦になるユニットは２戦目以降、{n}初期メンバーが減った状態で{n}戦闘しなくちゃいけないのさ。",
-  "en": "",
-  "status": ""
+  "en": "A unit fighting in a row has to fight from its second battle on with fewer members than it started with.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03220",
@@ -1124,8 +1124,8 @@
    2093
   ],
   "jp": "そうか、少数で多数に挑むと{n}『連戦ハンデ』でどんどん{n}不利になっていくんだな。",
-  "en": "",
-  "status": ""
+  "en": "I see. Take on many with few, and the \"Streak Handicap\" puts you at more and more of a disadvantage.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0326D",
@@ -1136,8 +1136,8 @@
    2111
   ],
   "jp": "だけど逆に、{n}少数相手にデュエルを挑めば{n}『連戦ハンデ』を押し付けられる。",
-  "en": "",
-  "status": ""
+  "en": "But on the other hand, duel a smaller force, and you can force the \"Streak Handicap\" on them.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_032B6",
@@ -1148,8 +1148,8 @@
    2118
   ],
   "jp": "いいかい、{n}僕らが攻撃を仕掛けられる回数は{n}無限じゃない。",
-  "en": "",
-  "status": ""
+  "en": "Listen, the number of attacks we can launch isn't infinite.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_032EF",
@@ -1160,8 +1160,8 @@
    2125
   ],
   "jp": "だからこそ、敵味方の位置関係に{n}気を配りながら戦う事が、{n}重要になってくるわけさ。",
-  "en": "",
-  "status": ""
+  "en": "That's why it's important to fight while paying attention to where the enemies and allies are.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03340",
@@ -1172,8 +1172,8 @@
    2143
   ],
   "jp": "なるほどな。{n}よし、ユニオンで攻撃を有利に{n}進めてやるぜ！",
-  "en": "",
-  "status": ""
+  "en": "I get it. All right, I'll use Unions to press the attack!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03379",
@@ -1184,8 +1184,8 @@
    2289
   ],
   "jp": "よし、連中を早く倒して、{n}ノルンを追わないとな……",
-  "en": "",
-  "status": ""
+  "en": "All right, let's beat those guys quick and chase after Norn...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_033AB",
@@ -1196,8 +1196,8 @@
    2307
   ],
   "jp": "ノルンを追うのが目的だけど、{n}私達にはもう１つ、大事なことが{n}あるでしょう？",
-  "en": "",
-  "status": ""
+  "en": "Our goal is to chase Norn, but we've got one other important thing, right?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_033F6",
@@ -1208,8 +1208,8 @@
    2325
   ],
   "jp": "ここネザー地区の人たちは、{n}街区の連中に喰い物にされて、{n}みんな傷ついている……",
-  "en": "",
-  "status": ""
+  "en": "The people here in the Nether District are all hurting, preyed on by that lot in the quarter...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03445",
@@ -1220,8 +1220,8 @@
    2332
   ],
   "jp": "戦いに余裕があれば、{n}みんなの話も聞いてあげなきゃ。",
-  "en": "",
-  "status": ""
+  "en": "If you have time to spare in battle, we should listen to what they've got to say.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03479",
@@ -1232,8 +1232,8 @@
    2350
   ],
   "jp": "それはそうだけど、{n}どうすればいい…？",
-  "en": "",
-  "status": ""
+  "en": "Sure, but how do I do that...?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0349F",
@@ -1244,8 +1244,8 @@
    2374
   ],
   "jp": "マップ上にあるアイコンが{n}建物や街の位置を示しているわ。",
-  "en": "",
-  "status": ""
+  "en": "The icons on the map show where buildings and towns are.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_034D7",
@@ -1256,8 +1256,8 @@
    2381
   ],
   "jp": "アイコン上で立ち止まれば、{n}その建物や街にいる人達と会話が{n}できるのよ。",
-  "en": "",
-  "status": ""
+  "en": "Stop on an icon, and you can talk to the people in that building or town.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0351E",
@@ -1268,8 +1268,8 @@
    2388
   ],
   "jp": "会話の内容は、訪ねる人や{n}時間帯によって変わってくるの。",
-  "en": "",
-  "status": ""
+  "en": "What they say changes with who you visit and the time of day.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03556",
@@ -1280,8 +1280,8 @@
    2406
   ],
   "jp": "そうか。{n}ひょっとしたら、何か拾い物が{n}あるかもしれないな。",
-  "en": "",
-  "status": ""
+  "en": "I see. Maybe there's something good to be found.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03591",
@@ -1292,8 +1292,8 @@
    2424
   ],
   "jp": "そう！{n}余裕があれば必ず探索すること！",
-  "en": "",
-  "status": ""
+  "en": "Right! If you have time, always go looking!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_035B7",
@@ -1304,8 +1304,8 @@
    2442
   ],
   "jp": "それに、アイコンがない場所にも{n}何か隠されている事があるかもね。",
-  "en": "",
-  "status": ""
+  "en": "And there might be something hidden in places with no icon, too.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_035F7",
@@ -1316,8 +1316,8 @@
    2460
   ],
   "jp": "なるほど…、{n}移動力が余っていたら、あちこち{n}止まってみた方がいいな。",
-  "en": "",
-  "status": ""
+  "en": "I see... If I have movement power left, I should try stopping here and there.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0363C",
@@ -1328,8 +1328,8 @@
    2600
   ],
   "jp": "なんだ、あの女。{n}調子崩されちまうぜ。",
-  "en": "",
-  "status": ""
+  "en": "What's with that woman? She's throwing me off my game.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03662",
@@ -1340,8 +1340,8 @@
    2618
   ],
   "jp": "ガーロット！{n}武器の相性、忘れないでよね！",
-  "en": "",
-  "status": ""
+  "en": "Garlot! Don't forget about weapon matchups!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0368C",
@@ -1352,8 +1352,8 @@
    2625
   ],
   "jp": "武器タイプには{n}それぞれ優劣の相性があるの。",
-  "en": "",
-  "status": ""
+  "en": "Every weapon type has matchups, strong or weak.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_036B8",
@@ -1364,8 +1364,8 @@
    2638
   ],
   "jp": "例えば、槍は剣に強いけれど、{n}その代わり斧に弱い、って具合。",
-  "en": "",
-  "status": ""
+  "en": "For instance, spears are strong against swords, but weak against axes.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_036F4",
@@ -1376,8 +1376,8 @@
    2645
   ],
   "jp": "あなたは槍兵、{n}アイツは斧兵でしょう？",
-  "en": "",
-  "status": ""
+  "en": "You're a spearman, and she's an axe fighter, right?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0371A",
@@ -1388,8 +1388,8 @@
    2663
   ],
   "jp": "なるほど。{n}武器相性から考えると、{n}俺があの女と戦うのは不利だな…",
-  "en": "",
-  "status": ""
+  "en": "I see. Going by weapon matchups, fighting that woman puts me at a disadvantage...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0375B",
@@ -1400,8 +1400,8 @@
    2681
   ],
   "jp": "そういうこと！",
-  "en": "",
-  "status": ""
+  "en": "That's right!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0376A",
@@ -1412,8 +1412,8 @@
    2699
   ],
   "jp": "不利な敵の相手をするより、{n}あなたが得意な剣兵を倒す方が{n}効率的なのよ。",
-  "en": "",
-  "status": ""
+  "en": "Instead of fighting a bad matchup, it's more efficient for you to beat the sword fighters you're good against.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_037B1",
@@ -1424,8 +1424,8 @@
    2722
   ],
   "jp": "おい、待てよ。{n}弓兵も斧兵に弱いんじゃないのか？",
-  "en": "",
-  "status": ""
+  "en": "Hey, wait. Aren't archers weak against axe fighters too?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_037E1",
@@ -1436,8 +1436,8 @@
    2740
   ],
   "jp": "よ、よく気が付いたわね……",
-  "en": "",
-  "status": ""
+  "en": "Y-You noticed...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_037FC",
@@ -1448,8 +1448,8 @@
    2758
   ],
   "jp": "確かに弓兵は、杖兵に強くて{n}槍にも剣にも斧にも弱いけど…",
-  "en": "",
-  "status": ""
+  "en": "Okay, archers are strong against staff users, and weak against spears, swords and axes...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03834",
@@ -1460,8 +1460,8 @@
    2770
   ],
   "jp": "でも！　弓兵の突撃には{n}相手に反撃を許さない、っていう{n}強力なアドバンテージがあるの。",
-  "en": "",
-  "status": ""
+  "en": "But! An archer's charge has a powerful advantage: the enemy can't strike back.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03889",
@@ -1472,8 +1472,8 @@
    2777
   ],
   "jp": "その分、槍兵のガーロットよりは{n}有利に戦えるはずよ！",
-  "en": "",
-  "status": ""
+  "en": "So I should do better than a spearman like you, Garlot!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_038BD",
@@ -1484,8 +1484,8 @@
    2795
   ],
   "jp": "反撃を受けない弓兵は有利。{n}そうなのか……",
-  "en": "",
-  "status": ""
+  "en": "Archers have the edge because they don't get hit back. Is that so...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_038E7",
@@ -1496,8 +1496,8 @@
    2816
   ],
   "jp": "（弓兵は、突撃されると{n}　反撃できない、っていう{n}　欠点も持ってるんだけど…）",
-  "en": "",
-  "status": ""
+  "en": "(Archers have a flaw too: if they get charged, they can't strike back...)",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03934",
@@ -1508,8 +1508,8 @@
    2823
   ],
   "jp": "（長所を活かして戦えば、{n}　きっと勝てるわよ、うん。）",
-  "en": "",
-  "status": ""
+  "en": "(If I fight to my strengths, I'm sure I can win. Yeah.)",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0396A",
@@ -1520,8 +1520,8 @@
    2850
   ],
   "jp": "はぁ…{n}ジェノンがいれば{n}任せたいところなんだけど…",
-  "en": "",
-  "status": ""
+  "en": "Ugh... If Jenon were here, I'd leave this to him...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0399D",
@@ -1532,8 +1532,8 @@
    2868
   ],
   "jp": "あいつが率いるのは剣兵だからな。",
-  "en": "",
-  "status": ""
+  "en": "He's the one who leads the sword fighters.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_039BE",
@@ -1544,8 +1544,8 @@
    2886
   ],
   "jp": "まあ、いない奴のことを言っても{n}始まらないさ。{n}俺達だけでやるしかない！",
-  "en": "",
-  "status": ""
+  "en": "Well, talking about someone who's not here won't get us anywhere. We'll just have to do it ourselves!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03A05",
@@ -1556,8 +1556,8 @@
    3032
   ],
   "jp": "あんな離れたところじゃ{n}『ユニオン』も組めないぜ…{n}どうする気だ？",
-  "en": "",
-  "status": ""
+  "en": "That far apart, you can't form a \"Union\"... What are you going to do?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03A46",
@@ -1568,8 +1568,8 @@
    3050
   ],
   "jp": "この程度の敵勢、{n}『ユニオン』なしでも蹴散らせる…",
-  "en": "",
-  "status": ""
+  "en": "An enemy force this small, I can scatter even without a \"Union\"...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03A78",
@@ -1580,8 +1580,8 @@
    3068
   ],
   "jp": "『スキル』を使えばね！",
-  "en": "",
-  "status": ""
+  "en": "If I use a \"Skill,\" that is!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03A8F",
@@ -1592,8 +1592,8 @@
    3086
   ],
   "jp": "『スキル』？　ひょっとして、{n}『必殺技』のことか？",
-  "en": "",
-  "status": ""
+  "en": "A \"Skill\"? You mean those \"special moves\"?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03AC1",
@@ -1604,8 +1604,8 @@
    3093
   ],
   "jp": "どうやって使うんだよ、それ③",
-  "en": "",
-  "status": ""
+  "en": "How do you use them, anyway!?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03ADE",
@@ -1616,8 +1616,8 @@
    3111
   ],
   "jp": "その前に『スキル』を使う条件を{n}確認するのが先よ。",
-  "en": "",
-  "status": ""
+  "en": "First you need to check the conditions for using a \"Skill.\"",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03B10",
@@ -1628,8 +1628,8 @@
    3124
   ],
   "jp": "まず、ユニオンリーダーの{n}ユニットの『武器タイプ』と…",
-  "en": "",
-  "status": ""
+  "en": "First, the \"Weapon Type\" of your Union Leader unit...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03B46",
@@ -1640,8 +1640,8 @@
    3131
   ],
   "jp": "ターン開始時に、選んだカードの{n}『エースタイプ』が合致しないと、{n}スキルは使えないわ。",
-  "en": "",
-  "status": ""
+  "en": "Has to match the \"Ace Type\" on the card you picked at the start of the turn, or you can't use the Skill.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03B9B",
@@ -1652,8 +1652,8 @@
    3149
   ],
   "jp": "ふーん、となると、{n}カードの『エースタイプ』が{n}『剣』だとしたら…",
-  "en": "",
-  "status": ""
+  "en": "Hmm, so if the card's \"Ace Type\" is \"Sword\"...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03BDC",
@@ -1664,8 +1664,8 @@
    3167
   ],
   "jp": "僕のような剣兵ユニットが{n}ユニオンリーダーにならないと、{n}スキルは使えないんですね。",
-  "en": "",
-  "status": ""
+  "en": "A sword unit like me has to be the Union Leader, or you can't use the Skill.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03C2F",
@@ -1676,8 +1676,8 @@
    3185
   ],
   "jp": "その通り。",
-  "en": "",
-  "status": ""
+  "en": "That's right.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03C3A",
@@ -1688,8 +1688,8 @@
    3203
   ],
   "jp": "次は、実際に戦闘でスキルを{n}使う方法を教えるわね。",
-  "en": "",
-  "status": ""
+  "en": "Next, I'll teach you how to actually use a Skill in battle.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03C6C",
@@ -1700,8 +1700,8 @@
    3215
   ],
   "jp": "まず、『スキルゲージ』を{n}Ｍａｘまで溜めること②",
-  "en": "",
-  "status": ""
+  "en": "First, fill your \"Skill Gauge\" up to Max!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03C9C",
@@ -1712,8 +1712,8 @@
    3222
   ],
   "jp": "Ｐａｓｓｉｖｅを使うのが{n}一番手っ取り早いけど、{n}自然に溜まるのを待ってもいい。",
-  "en": "",
-  "status": ""
+  "en": "Using Passive is the fastest way, but you can also just wait for it to fill by itself.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03CEB",
@@ -1724,8 +1724,8 @@
    3240
   ],
   "jp": "ゲージがＭａｘになったら{n}□ボタンでスキルを使えるわ。",
-  "en": "",
-  "status": ""
+  "en": "Once the gauge is at Max, you can use a Skill with the □ button.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03D21",
@@ -1736,8 +1736,8 @@
    3247
   ],
   "jp": "スキルには大きく分けて{n}２種類あって、使い道が微妙に{n}違うから注意するんだ。",
-  "en": "",
-  "status": ""
+  "en": "Skills come in two broad kinds, and they're used a little differently, so watch out.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03D6C",
@@ -1748,8 +1748,8 @@
    3270
   ],
   "jp": "『Ｃｈａｒｇｅ』型スキルは{n}□ボタンを押すと{n}『チャージゲージ』が現れる。",
-  "en": "",
-  "status": ""
+  "en": "With \"Charge\" type Skills, press the □ button and the \"Charge Gauge\" appears.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03DB5",
@@ -1760,8 +1760,8 @@
    3277
   ],
   "jp": "そのまま□ボタンを押し続けると、{n}『チャージゲージ』が{n}どんどん溜まって……",
-  "en": "",
-  "status": ""
+  "en": "Keep holding the □ button, and the \"Charge Gauge\" fills up more and more...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03E00",
@@ -1772,8 +1772,8 @@
    3295
   ],
   "jp": "これがＭａｘになったら準備ＯＫ。{n}□ボタンを離せば{n}スキルを使って効果が発動するわ。",
-  "en": "",
-  "status": ""
+  "en": "When it hits Max, you're ready. Let go of the □ button to use the Skill and set off its effect.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03E53",
@@ -1784,8 +1784,8 @@
    3313
   ],
   "jp": "□ボタン長押しでゲージを溜めて、{n}溜まったら離せばいいのね。",
-  "en": "",
-  "status": ""
+  "en": "So I hold the □ button to fill the gauge, and let go when it's full.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03E8F",
@@ -1796,8 +1796,8 @@
    3331
   ],
   "jp": "この『Ｃｈａｒｇｅ』型スキルを{n}使うと、スキルゲージは空っぽに{n}なるから、注意しなさい。",
-  "en": "",
-  "status": ""
+  "en": "Use one of these \"Charge\" type Skills, and your Skill Gauge goes empty, so watch out.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03EE6",
@@ -1808,8 +1808,8 @@
    3349
   ],
   "jp": "それと、敵の強攻撃を受けると{n}『チャージ』が中断しちゃうけど…",
-  "en": "",
-  "status": ""
+  "en": "Also, taking a strong enemy attack interrupts your \"Charge,\" but...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03F24",
@@ -1820,8 +1820,8 @@
    3356
   ],
   "jp": "『スキルゲージ』は減らないから{n}焦らずにもう一度『チャージ』{n}するといいわよ。",
-  "en": "",
-  "status": ""
+  "en": "Your \"Skill Gauge\" doesn't drop, so stay calm and \"Charge\" again.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03F71",
@@ -1832,8 +1832,8 @@
    3374
   ],
   "jp": "なるほど……",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03F7E",
@@ -1844,8 +1844,8 @@
    3397
   ],
   "jp": "次に『ＫｅｅｐＯｎ』型スキルね。",
-  "en": "",
-  "status": ""
+  "en": "Next up, \"KeepOn\" type Skills.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03F9F",
@@ -1856,8 +1856,8 @@
    3415
   ],
   "jp": "このタイプのスキルは、{n}□ボタンを押すとすぐに{n}スキル効果が発動する。",
-  "en": "",
-  "status": ""
+  "en": "With this type of Skill, press the □ button and its effect kicks in right away.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_03FE4",
@@ -1868,8 +1868,8 @@
    3422
   ],
   "jp": "ただ、□ボタンを押してる間は{n}スキルゲージがどんどん{n}消費されていくの。",
-  "en": "",
-  "status": ""
+  "en": "But as long as you hold the □ button, your Skill Gauge keeps draining.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0402B",
@@ -1880,8 +1880,8 @@
    3429
   ],
   "jp": "スキルゲージがゼロになったら、{n}その時点でスキルの効果は{n}消えてしまうわ。",
-  "en": "",
-  "status": ""
+  "en": "When your Skill Gauge hits zero, the Skill's effect ends right then.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04074",
@@ -1892,8 +1892,8 @@
    3447
   ],
   "jp": "つまり、ゲージの長さだけ{n}恩恵を受けられる、ってわけか…",
-  "en": "",
-  "status": ""
+  "en": "In other words, you get the benefit for as long as the gauge lasts...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_040AC",
@@ -1904,8 +1904,8 @@
    3465
   ],
   "jp": "待てよ。{n}□ボタンを押してる間だけ{n}スキルの効果が続くんだろ？",
-  "en": "",
-  "status": ""
+  "en": "Wait. The Skill's effect only lasts while I'm holding the □ button, right?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_040E9",
@@ -1916,8 +1916,8 @@
    3472
   ],
   "jp": "途中で□ボタンを離したら{n}どうなるんだ？",
-  "en": "",
-  "status": ""
+  "en": "What happens if I let go of the □ button midway?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04111",
@@ -1928,8 +1928,8 @@
    3490
   ],
   "jp": "その時点でスキル効果はなくなり、{n}スキルゲージの消費も止まるわ。{n}温存したい場合に有効ね。",
-  "en": "",
-  "status": ""
+  "en": "The Skill's effect ends right there, and the Skill Gauge stops draining. Handy for saving it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0416A",
@@ -1940,8 +1940,8 @@
    3502
   ],
   "jp": "あと、とても重要な事だけど…{n}あたし達と同じように{n}敵側も『スキル』を使ってくるわ。",
-  "en": "",
-  "status": ""
+  "en": "One more very important thing... Just like us, the enemy uses \"Skills\" too.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_041BD",
@@ -1952,8 +1952,8 @@
    3520
   ],
   "jp": "敵は、使用条件さえ合えば、{n}エースタイプに縛られずに{n}『スキル』を使ってくるわよ！",
-  "en": "",
-  "status": ""
+  "en": "If the conditions are met, the enemy uses \"Skills\" without being tied to an Ace Type!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0420E",
@@ -1964,8 +1964,8 @@
    3538
   ],
   "jp": "それは厄介ですね……",
-  "en": "",
-  "status": ""
+  "en": "That's a pain...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04223",
@@ -1976,8 +1976,8 @@
    3556
   ],
   "jp": "さぁて、レッスンはここまで…{n}一気に畳み掛けるわよッ②",
-  "en": "",
-  "status": ""
+  "en": "Well then, class dismissed... Now let's finish them in one go!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04259",
@@ -1988,8 +1988,8 @@
    3690
   ],
   "jp": "ウィーック…{n}ん？　なんだか、冷えてきたわね。{n}うーっ、ブルルル…",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... Hm? It's gettin' cold. Oooh, brrr...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0429A",
@@ -2000,8 +2000,8 @@
    3708
   ],
   "jp": "あー、あっしが使った{n}『ダイヤモンドダスト』で{n}水辺地形が凍っちゃったのね…",
-  "en": "",
-  "status": ""
+  "en": "Ah, the \"Diamond Dust\" I used froze the waterside terrain...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_042E5",
@@ -2012,8 +2012,8 @@
    3732
   ],
   "jp": "普段はあっしらウンディーネしか{n}入れない水辺地形だけどね…",
-  "en": "",
-  "status": ""
+  "en": "Normally only us Undines can enter waterside terrain...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0431F",
@@ -2024,8 +2024,8 @@
    3739
   ],
   "jp": "あっしが『ブリザード』を使うと{n}水辺が氷上に変化するのさ。",
-  "en": "",
-  "status": ""
+  "en": "But when I use \"Blizzard,\" the waterside turns to ice.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04359",
@@ -2036,8 +2036,8 @@
    3751
   ],
   "jp": "水辺地形と違って、氷上地形は{n}歩行ユニットでも移動できるわよ、",
-  "en": "",
-  "status": ""
+  "en": "Unlike waterside terrain, walkin' units can cross ice terrain, y'see.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04397",
@@ -2048,8 +2048,8 @@
    3769
   ],
   "jp": "おぅおぅおぅ、{n}いま、安易に「便利！」とか、{n}思ったでしょ？",
-  "en": "",
-  "status": ""
+  "en": "Ooh, ooh, ooh. You just thought \"How handy!\" without thinkin', didn't you?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_043D2",
@@ -2060,8 +2060,8 @@
    3787
   ],
   "jp": "そう世の中甘くないのよ…{n}次のお昼が来てお日様が昇ると、{n}氷が溶けて水辺に戻っちゃうの…",
-  "en": "",
-  "status": ""
+  "en": "The world ain't that sweet... Next noon, when the sun comes up, the ice melts and it's waterside again...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04429",
@@ -2072,8 +2072,8 @@
    3805
   ],
   "jp": "その上にいたユニット？{n}水の底まで水没しちゃうわよー、{n}ブクブク～、ってね、ヒック…！",
-  "en": "",
-  "status": ""
+  "en": "Any unit on it? Sinks right to the bottom, glub glub~, *hic*...!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0447E",
@@ -2084,8 +2084,8 @@
    3823
   ],
   "jp": "ああ、人間って不便だわね…{n}氷の上を歩くのも一苦労だなんて、{n}う、ウゲェェェェッ。",
-  "en": "",
-  "status": ""
+  "en": "Ah, humans sure have it rough... Even walkin' on ice is hard work, u-urrrrp.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_044CF",
@@ -2096,8 +2096,8 @@
    3834
   ],
   "jp": "おっと失礼……",
-  "en": "",
-  "status": ""
+  "en": "Whoops, pardon me...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_044DE",
@@ -2108,8 +2108,8 @@
    3976
   ],
   "jp": "あれが大砲か…{n}実物を見るのは初めてだな。",
-  "en": "",
-  "status": ""
+  "en": "So that's a cannon... First time I've seen a real one.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04508",
@@ -2120,8 +2120,8 @@
    3994
   ],
   "jp": "悠長な事は言ってられないわ。{n}もし頭上から弾が飛んできたら{n}ひとたまりもないわよ。",
-  "en": "",
-  "status": ""
+  "en": "This is no time to be so relaxed. If a shell flies in from overhead, we won't stand a chance.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04559",
@@ -2132,8 +2132,8 @@
    4001
   ],
   "jp": "大砲は、各ターンの初めに{n}範囲内のユニットに砲撃を{n}浴びせる強力な兵器……",
-  "en": "",
-  "status": ""
+  "en": "At the start of each turn, a cannon rains shells on units in range. It's a powerful weapon...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_045A2",
@@ -2144,8 +2144,8 @@
    4019
   ],
   "jp": "砲撃だって？{n}喰らったらどうなる。",
-  "en": "",
-  "status": ""
+  "en": "Shells? What happens if you get hit?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_045C4",
@@ -2156,8 +2156,8 @@
    4043
   ],
   "jp": "あの轟音と振動のせいで{n}兵士達は著しく動揺する…{n}士気の低下は覚悟しないとね。",
-  "en": "",
-  "status": ""
+  "en": "The roar and the shaking rattle the soldiers badly... You have to expect morale to drop.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04611",
@@ -2168,8 +2168,8 @@
    4061
   ],
   "jp": "どうにか防ぐ方法はないのか？",
-  "en": "",
-  "status": ""
+  "en": "Is there no way to stop it?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0462E",
@@ -2180,8 +2180,8 @@
    4079
   ],
   "jp": "砲撃の射程圏で立ち止まらない。{n}それが一番確実な方法よ。",
-  "en": "",
-  "status": ""
+  "en": "Don't stop inside the cannon's range. That's the surest way.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04666",
@@ -2192,8 +2192,8 @@
    4097
   ],
   "jp": "あとは、視界が狭くなる夜中は{n}使用できないはずだから、{n}その間に駆け抜けるのも方法だな。",
-  "en": "",
-  "status": ""
+  "en": "Also, it shouldn't work at night, when you can't see far, so you could run past it then.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_046BD",
@@ -2204,8 +2204,8 @@
    4115
   ],
   "jp": "大砲か…{n}とんでもないものを用意しやがる。",
-  "en": "",
-  "status": ""
+  "en": "A cannon, huh... They've brought out something crazy.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_046E7",
@@ -2216,8 +2216,8 @@
    4133
   ],
   "jp": "逆に言えば、味方につけば{n}どれだけ心強いことか……",
-  "en": "",
-  "status": ""
+  "en": "Then again, if it were on our side, how reassuring that would be...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04719",
@@ -2228,8 +2228,8 @@
    4280
   ],
   "jp": "ガーロット！{n}戦場におかしな装置を発見したわ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot! I found some weird machine on the battlefield.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04747",
@@ -2240,8 +2240,8 @@
    4287
   ],
   "jp": "何あれ？　新手の前衛芸術？",
-  "en": "",
-  "status": ""
+  "en": "What is that? Some new avant-garde art?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04762",
@@ -2252,8 +2252,8 @@
    4305
   ],
   "jp": "ん、あれか…、{n}あれは投石器だな。",
-  "en": "",
-  "status": ""
+  "en": "Hm, that thing... That's a catapult.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04784",
@@ -2264,8 +2264,8 @@
    4323
   ],
   "jp": "トウセキキ？",
-  "en": "",
-  "status": ""
+  "en": "A catapult?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04791",
@@ -2276,8 +2276,8 @@
    4347
   ],
   "jp": "敵に石の雨をお見舞いする兵器さ。{n}突撃と一緒に使えば、{n}攻撃力の底上げができるだろう。",
-  "en": "",
-  "status": ""
+  "en": "A weapon that rains stones on the enemy. Used with a charge, it can boost your attack power.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_047E6",
@@ -2288,8 +2288,8 @@
    4365
   ],
   "jp": "なるほどな。{n}どうやって使えばいい？",
-  "en": "",
-  "status": ""
+  "en": "I see. How do you use it?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0480A",
@@ -2300,8 +2300,8 @@
    4383
   ],
   "jp": "デュエルを組むときに、{n}ユニオンの範囲内に投石器を{n}含めてやれば使えるよ。",
-  "en": "",
-  "status": ""
+  "en": "When you set up a Duel, you can use it by including the catapult in your Union's range.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04853",
@@ -2312,8 +2312,8 @@
    4401
   ],
   "jp": "なるほど。{n}味方ユニットと連係するのと{n}同じ要領だな！",
-  "en": "",
-  "status": ""
+  "en": "I see. Same idea as teaming up with an allied unit!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04888",
@@ -2324,8 +2324,8 @@
    4419
   ],
   "jp": "だが、過信は禁物だ。{n}敵勢も投石器を使ってくるぞ！",
-  "en": "",
-  "status": ""
+  "en": "But don't count on it too much. The enemy uses catapults too!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_048BA",
@@ -2336,8 +2336,8 @@
    4437
   ],
   "jp": "敵でも味方でも使える兵器か…",
-  "en": "",
-  "status": ""
+  "en": "A weapon that either side can use...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_048D7",
@@ -2348,8 +2348,8 @@
    4584
   ],
   "jp": "凄まじい数の軍勢だ…{n}俺達で対処しきれるのか？",
-  "en": "",
-  "status": ""
+  "en": "What a tremendous army... Can we handle this?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04905",
@@ -2360,8 +2360,8 @@
    4602
   ],
   "jp": "ガーロット…{n}以前、戦力差を補う戦術について{n}話し合ったのを覚えているか？",
-  "en": "",
-  "status": ""
+  "en": "Garlot... Remember how we once talked about tactics to make up for a gap in strength?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0494E",
@@ -2372,8 +2372,8 @@
    4620
   ],
   "jp": "ああ、『ユニオン』だよな？",
-  "en": "",
-  "status": ""
+  "en": "Yeah, \"Union,\" right?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04969",
@@ -2384,8 +2384,8 @@
    4638
   ],
   "jp": "そうだ、{n}しかし通常の『ユニオン』では、{n}この敵勢は捌き切れまい…",
-  "en": "",
-  "status": ""
+  "en": "Right, but an ordinary \"Union\" won't handle this enemy force...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_049AA",
@@ -2396,8 +2396,8 @@
    4645
   ],
   "jp": "アレを試してみるしかないな。",
-  "en": "",
-  "status": ""
+  "en": "I guess we have to try that thing.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_049C7",
@@ -2408,8 +2408,8 @@
    4669
   ],
   "jp": "『ユニオン』を拡張した戦術…{n}『リンク展開』かな？",
-  "en": "",
-  "status": ""
+  "en": "A tactic that extends \"Union\"... \"Link Deployment,\" isn't it?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_049F9",
@@ -2420,8 +2420,8 @@
    4687
   ],
   "jp": "『デュエル』が、ユニオンを{n}先鋒と後続の２つに{n}分担する戦術だとしたら…",
-  "en": "",
-  "status": ""
+  "en": "If a \"Duel\" is a tactic that splits a Union into two parts, vanguard and follow-up...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04A40",
@@ -2432,8 +2432,8 @@
    4694
   ],
   "jp": "『リンク展開』は、ユニオンを{n}先鋒・後続・殿軍の３つに{n}分担する戦術と言えるだろうな。",
-  "en": "",
-  "status": ""
+  "en": "\"Link Deployment\" is a tactic that splits a Union into three: vanguard, follow-up and rear guard.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04A95",
@@ -2444,8 +2444,8 @@
    4712
   ],
   "jp": "『リンク展開』を利用すれば、{n}フォーメーション上のユニットが{n}更に連係を拡張できるハズだ…",
-  "en": "",
-  "status": ""
+  "en": "Use \"Link Deployment,\" and the units in the formation can extend the chain further...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04AEE",
@@ -2456,8 +2456,8 @@
    4730
   ],
   "jp": "ふーん…{n}つまり、より広い範囲をカバー{n}できるようになる、ってわけ？",
-  "en": "",
-  "status": ""
+  "en": "Hmm... So you can cover a wider area, you mean?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04B31",
@@ -2468,8 +2468,8 @@
    4748
   ],
   "jp": "そういうこと！",
-  "en": "",
-  "status": ""
+  "en": "That's right!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04B40",
@@ -2480,8 +2480,8 @@
    4771
   ],
   "jp": "『リンク展開』の範囲は{n}フォーメーションと同じ２種類…",
-  "en": "",
-  "status": ""
+  "en": "\"Link Deployment\" ranges come in the same two kinds as formations...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04B76",
@@ -2492,8 +2492,8 @@
    4789
   ],
   "jp": "距離は短いが、形は同じ、{n}『×』と『＋』だ。{n}覚えやすいだろ？",
-  "en": "",
-  "status": ""
+  "en": "Shorter reach, but the same shapes, \"X\" and \"+.\" Easy to remember, right?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04BB3",
@@ -2504,8 +2504,8 @@
    4807
   ],
   "jp": "試してみる価値はあるな。",
-  "en": "",
-  "status": ""
+  "en": "It's worth a try.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04BCC",
@@ -2516,8 +2516,8 @@
    4814
   ],
   "jp": "人数差で圧倒されないよう、{n}陣形を決めていこう。{n}頼んだぜ、みんな！",
-  "en": "",
-  "status": ""
+  "en": "Let's set our formation so their numbers don't overwhelm us. I'm counting on you all!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04C0F",
@@ -2528,8 +2528,8 @@
    4947
   ],
   "jp": "ガーロット、砂漠地形で戦う場合、{n}気をつけるべき事がある……",
-  "en": "",
-  "status": ""
+  "en": "Garlot, there's something to watch out for when fighting on desert terrain...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04C4B",
@@ -2540,8 +2540,8 @@
    4965
   ],
   "jp": "気をつけるべき事？",
-  "en": "",
-  "status": ""
+  "en": "Something to watch out for?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04C5E",
@@ -2552,8 +2552,8 @@
    4989
   ],
   "jp": "過酷な砂漠地形の進軍は困難だ。{n}歩行ユニットは１ターンにつき{n}１歩しか進めなくなる。",
-  "en": "",
-  "status": ""
+  "en": "Marching on harsh desert terrain is hard. Walking units can only go 1 step per turn.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04CB1",
@@ -2564,8 +2564,8 @@
    5007
   ],
   "jp": "なるほど…{n}できるだけ砂漠地形は避けて、{n}進む必要があるな。",
-  "en": "",
-  "status": ""
+  "en": "I see... We need to avoid desert terrain as much as we can.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04CEC",
@@ -2576,8 +2576,8 @@
    5025
   ],
   "jp": "だが、飛行ユニットだけは{n}砂漠のペナルティを無視して{n}進軍できる。",
-  "en": "",
-  "status": ""
+  "en": "But flying units alone can ignore the desert penalty as they march.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04D2D",
@@ -2588,8 +2588,8 @@
    5043
   ],
   "jp": "飛んでいるんだからな、{n}当然と言えば当然だよな……",
-  "en": "",
-  "status": ""
+  "en": "They're flying, so I guess that's only natural...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04D5F",
@@ -2600,8 +2600,8 @@
    5061
   ],
   "jp": "こちらには、飛行タイプの{n}ユニットはいない…",
-  "en": "",
-  "status": ""
+  "en": "We have no flying units...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04D8B",
@@ -2612,8 +2612,8 @@
    5068
   ],
   "jp": "もし敵勢力に、グリフライダーや{n}他の飛行ユニットがいたら、{n}十分に警戒する事だ。",
-  "en": "",
-  "status": ""
+  "en": "If the enemy has Griffon Riders or other flying units, stay on your guard.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04DDA",
@@ -2624,8 +2624,8 @@
    5086
   ],
   "jp": "多少の危険があろうと、{n}一刻も早く潰すのが得策かもな。",
-  "en": "",
-  "status": ""
+  "en": "Even at some risk, it may be best to crush them as soon as possible.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04E10",
@@ -2636,8 +2636,8 @@
    5210
   ],
   "jp": "しかし毒沼の森とは……{n}とんでもない場所に{n}アジトを作るものだねぇ。",
-  "en": "",
-  "status": ""
+  "en": "But a forest of poison swamps... What a crazy place to build a hideout.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04E53",
@@ -2648,8 +2648,8 @@
    5228
   ],
   "jp": "だが、外敵を防ぐには、{n}有効と言えるんじゃないか？",
-  "en": "",
-  "status": ""
+  "en": "Still, I'd say it works for keeping out enemies, wouldn't you?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04E85",
@@ -2660,8 +2660,8 @@
    5246
   ],
   "jp": "確かにな。",
-  "en": "",
-  "status": ""
+  "en": "True enough.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04E90",
@@ -2672,8 +2672,8 @@
    5270
   ],
   "jp": "毒沼の上で待機すると、{n}瘴気によって部隊の士気が{n}間違いなく低下する…",
-  "en": "",
-  "status": ""
+  "en": "Wait on a poison swamp, and the miasma will surely lower your unit's morale...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04ED5",
@@ -3596,8 +3596,8 @@
    7021
   ],
   "jp": "なるほど……",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_060F9",

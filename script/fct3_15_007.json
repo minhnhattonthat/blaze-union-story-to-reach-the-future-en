@@ -6,8 +6,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "…ヘッ…マヌケなヤツだぜ",
-  "en": "",
-  "status": ""
+  "en": "...Heh... What a dope",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_00019",
@@ -16,8 +16,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "そこで頭を冷やしていなさい",
-  "en": "",
-  "status": ""
+  "en": "Cool your head off there",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_00034",
@@ -26,8 +26,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "そこで頭を冷やしていなさい",
-  "en": "",
-  "status": ""
+  "en": "Cool your head off there",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_0004F",
@@ -36,8 +36,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "貴殿の戦いはここまでだ",
-  "en": "",
-  "status": ""
+  "en": "Your battle ends here",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_00066",
@@ -46,8 +46,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "…すごーい！{n}石像になっちゃった……",
-  "en": "",
-  "status": ""
+  "en": "...Wow! They became a statue...",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_0008A",
@@ -56,8 +56,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "…フッ……愚かな",
-  "en": "",
-  "status": ""
+  "en": "...Heh... Fool",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_0009B",
@@ -66,8 +66,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "…少しは懲りたかしら？",
-  "en": "",
-  "status": ""
+  "en": "...Learned yet?",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_000B2",
@@ -76,8 +76,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "カチンコチンに固まってるよ…",
-  "en": "",
-  "status": ""
+  "en": "Frozen stiff...",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_000CF",
@@ -86,8 +86,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "…残念だったな……",
-  "en": "",
-  "status": ""
+  "en": "...Too bad...",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_000E2",
@@ -96,8 +96,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "後で置物にしてやるよ",
-  "en": "",
-  "status": ""
+  "en": "Nice ornament, you",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_000F7",
@@ -106,8 +106,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "油断しましたね…",
-  "en": "",
-  "status": ""
+  "en": "Too careless...",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_00108",
@@ -116,8 +116,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "愚かな…",
-  "en": "",
-  "status": ""
+  "en": "Fool...",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_00111",
@@ -126,8 +126,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "これでもう{n}おイタはできないわね♪",
-  "en": "",
-  "status": ""
+  "en": "No more mischief for you♪",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_00133",
@@ -136,8 +136,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "か、噛み付いたり{n}しないだろうな？",
-  "en": "",
-  "status": ""
+  "en": "Y-You won't bite, will you?",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_00155",
@@ -146,8 +146,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "ふん、神をも恐れぬ不貞の輩め！",
-  "en": "",
-  "status": ""
+  "en": "Hmph, you godless wretch!",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_00174",
@@ -156,8 +156,8 @@
   "kind": "bare",
   "slots": [],
   "jp": "フフ…ザマ無いわね……",
-  "en": "",
-  "status": ""
+  "en": "Heh... What a sight...",
+  "status": "done"
  },
  {
   "id": "fct3_15_007_0018B",
@@ -166,7 +166,7 @@
   "kind": "bare",
   "slots": [],
   "jp": "まぁ！　こんなに{n}硬くなってしまって…",
-  "en": "",
-  "status": ""
+  "en": "My! You have turned to solid stone...",
+  "status": "done"
  }
 ]

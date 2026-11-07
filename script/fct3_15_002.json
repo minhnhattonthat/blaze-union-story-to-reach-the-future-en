@@ -18,8 +18,8 @@
    114
   ],
   "jp": "砲弾充填、完了…{n}それっ、いくわよ！{n}きゃははははは②",
-  "en": "",
-  "status": ""
+  "en": "Shell loaded, all done... Here we go! Kyahahahaha!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_0072D",
@@ -30,8 +30,8 @@
    171
   ],
   "jp": "そうだわ、砲身を冷却しないで{n}何発撃てるかってデータ、{n}欲しくなってきちゃった。",
-  "en": "",
-  "status": ""
+  "en": "Oh, I know, I want data on how many shots I can fire without cooling the barrel.",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_0077C",
@@ -42,8 +42,8 @@
    189
   ],
   "jp": "あぁン、こんな時に私って{n}なんて思いつきするんでしょ。{n}次弾装填しちゃうわよ②",
-  "en": "",
-  "status": ""
+  "en": "Ooh, how do I come up with these ideas at a time like this? Loading the next shell!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_007C9",
@@ -54,8 +54,8 @@
    253
   ],
   "jp": "きゃはははは②{n}連発でも行けるわね！{n}私と私の大砲、うぅン、素敵②",
-  "en": "",
-  "status": ""
+  "en": "Kyahahaha!! It can do rapid fire too! Me and my cannon, mmm, wonderful!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_0080A",
@@ -66,8 +66,8 @@
    271
   ],
   "jp": "さあ、バンバン行くわよ！{n}次弾装填②",
-  "en": "",
-  "status": ""
+  "en": "Now, let's blast away! Next shell loaded!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_0082E",
@@ -78,8 +78,8 @@
    335
   ],
   "jp": "行ける！　行ける②{n}まだまだ全然行けそうね！",
-  "en": "",
-  "status": ""
+  "en": "It works! It works!! It looks like it's got plenty left!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_0085A",
@@ -90,8 +90,8 @@
    353
   ],
   "jp": "もしかして、連発記録達成？{n}いいわ、もっとよ！{n}次弾装填しちゃうんだから。",
-  "en": "",
-  "status": ""
+  "en": "Could this be a rapid-fire record? Fine, more! I'm loading the next shell.",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_008A3",
@@ -102,8 +102,8 @@
    417
   ],
   "jp": "アワワワ…、砲弾の装填って{n}コレでいいの？　いいの？{n}マニュアル、読んだけどさ……",
-  "en": "",
-  "status": ""
+  "en": "Whoa, whoa... Is this how you load a shell? Is it? I read the manual, but...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_008F4",
@@ -114,8 +114,8 @@
    435
   ],
   "jp": "うん、きっと大丈夫よね。{n}ええーい、撃つわよ～ッ②",
-  "en": "",
-  "status": ""
+  "en": "Yeah, it'll be fine. Okay, firiiing!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00926",
@@ -126,8 +126,8 @@
    492
   ],
   "jp": "すっごい威力ね！{n}もしかしてこれって良い買い物？",
-  "en": "",
-  "status": ""
+  "en": "What amazing power! Could this be a good buy?",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00956",
@@ -138,8 +138,8 @@
    499
   ],
   "jp": "それっ、どんどん撃つわよ！",
-  "en": "",
-  "status": ""
+  "en": "Here we go, I'll keep on shooting!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00971",
@@ -150,8 +150,8 @@
    556
   ],
   "jp": "すごい！　メチャすごい！{n}もう誰も近づかせないよー②",
-  "en": "",
-  "status": ""
+  "en": "Amazing! Crazy amazing! Nobody's getting near me now!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_009A5",
@@ -162,8 +162,8 @@
    574
   ],
   "jp": "なんだか興奮してきちゃった…{n}バンバン撃っちゃうもん②",
-  "en": "",
-  "status": ""
+  "en": "I'm getting kind of excited... I'm gonna blast away!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_009DB",
@@ -174,8 +174,8 @@
    631
   ],
   "jp": "イケイケーッ！{n}ドンドン撃っちゃえッ②",
-  "en": "",
-  "status": ""
+  "en": "Go, go, go! Keep on firing!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00A01",
@@ -186,8 +186,8 @@
    688
   ],
   "jp": "せっかく大砲を奪ったんだ、{n}なんとか敵に逆襲したいな……",
-  "en": "",
-  "status": ""
+  "en": "We went to all the trouble of stealing the cannon. I'd like to hit back at the enemy somehow...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00A39",
@@ -198,8 +198,8 @@
    706
   ],
   "jp": "…でもさ、っていうか、{n}コレ、どうやって使うんだ？{n}え～と、こうかな……",
-  "en": "",
-  "status": ""
+  "en": "...But, like, how do you even use this thing? Uh, like this...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00A80",
@@ -210,8 +210,8 @@
    724
   ],
   "jp": "あっ…",
-  "en": "",
-  "status": ""
+  "en": "Oops...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00A87",
@@ -222,8 +222,8 @@
    802
   ],
   "jp": "なんか、勝手に撃っちまったぞ…{n}ん？　結構ダメージ与えてるぜ。",
-  "en": "",
-  "status": ""
+  "en": "It just fired on its own... Hm? It did a lot of damage, though.",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00AC5",
@@ -234,8 +234,8 @@
    820
   ],
   "jp": "ちょっとガーロット！{n}乱暴にしたら暴発しちゃうでしょ！{n}私に貸してみなさいよ。",
-  "en": "",
-  "status": ""
+  "en": "Hey, Garlot! If you're rough with it, it'll go off! Let me have it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00B12",
@@ -246,8 +246,8 @@
    838
   ],
   "jp": "…えーと、ん～？{n}コレってどう使うのかなぁ…",
-  "en": "",
-  "status": ""
+  "en": "...Um, hmm? How does this work...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00B3E",
@@ -258,8 +258,8 @@
    856
   ],
   "jp": "あっ…",
-  "en": "",
-  "status": ""
+  "en": "Oops...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00B45",
@@ -270,8 +270,8 @@
    948
   ],
   "jp": "あはは、いきなり撃っちゃった。{n}ま、結果オーライって感じ？{n}よーし、このまま…",
-  "en": "",
-  "status": ""
+  "en": "Ahaha, it just fired. Well, all's well that ends well, right? All right, let's keep going...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00B92",
@@ -282,8 +282,8 @@
    966
   ],
   "jp": "待てよ、シスキア。{n}大砲なんて無骨な兵器、{n}女の子が扱うものじゃないよ。",
-  "en": "",
-  "status": ""
+  "en": "Wait, Siskier. A brute of a weapon like a cannon isn't for a girl to handle.",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00BD9",
@@ -294,8 +294,8 @@
    984
   ],
   "jp": "以前、大砲の本を読んだから{n}扱い方は一通りわかるよ。{n}えーと、確か…",
-  "en": "",
-  "status": ""
+  "en": "I read a book about cannons once, so I know the basics. Let's see, I think...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00C1C",
@@ -306,8 +306,8 @@
    1002
   ],
   "jp": "あっ…",
-  "en": "",
-  "status": ""
+  "en": "Oops...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00C23",
@@ -318,8 +318,8 @@
    1094
   ],
   "jp": "お前達、何やってんのよ！{n}扱い知らないのに、危険だろ②",
-  "en": "",
-  "status": ""
+  "en": "What are you doing! You don't know how to use it, that's dangerous!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00C59",
@@ -330,8 +330,8 @@
    1112
   ],
   "jp": "危険じゃないって！{n}ほら、メデューテもやってみなよ。{n}気分爽快だよ②",
-  "en": "",
-  "status": ""
+  "en": "It's not dangerous! Here, you try it too, Medoute. It feels great!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00C9C",
@@ -342,8 +342,8 @@
    1130
   ],
   "jp": "あ、あたしはやらないわよ！{n}こらッ、シスキア！　離せッ②",
-  "en": "",
-  "status": ""
+  "en": "I-I'm not doing it! Hey, Siskier! Let go!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00CD4",
@@ -354,8 +354,8 @@
    1148
   ],
   "jp": "あっ…",
-  "en": "",
-  "status": ""
+  "en": "Oops...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00CDB",
@@ -378,8 +378,8 @@
    1258
   ],
   "jp": "（確かに気分爽快ね。{n}　これは、ゾクゾクするわ…）",
-  "en": "",
-  "status": ""
+  "en": "(It does feel great, I admit. This gives me chills...)",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00D18",
@@ -388,8 +388,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "フフフ…、いいじゃない。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh... Not bad at all.",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00D31",
@@ -400,8 +400,8 @@
    1276
   ],
   "jp": "あれ、なにやってんの？{n}グズグズしないで、次弾装填よ！{n}よし、うてーーーッ②",
-  "en": "",
-  "status": ""
+  "en": "Huh, what are you doing? Stop dawdling and load the next shell! All right, fire!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00D7C",
@@ -412,8 +412,8 @@
    1294
   ],
   "jp": "なによ…、{n}メデューテが一番ノッてんじゃん…",
-  "en": "",
-  "status": ""
+  "en": "What... Medoute's the one getting most into it...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00DA8",
@@ -424,8 +424,8 @@
    1433
   ],
   "jp": "あーぁ、{n}もっと精密な砲撃で、直接的に{n}敵を蹴散らしたいわぁ…",
-  "en": "",
-  "status": ""
+  "en": "Ugh, I want to blast the enemy away directly, with more precise shelling...",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00DE5",
@@ -436,8 +436,8 @@
    1451
   ],
   "jp": "ま、でも、市民を巻き込むなって{n}団長の命令だしね。",
-  "en": "",
-  "status": ""
+  "en": "Well, the Captain did order us not to involve civilians.",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00E17",
@@ -448,8 +448,8 @@
    1458
   ],
   "jp": "さぁ、撃つわよ！{n}照準よし、砲弾よし…{n}放てーーーーッ！",
-  "en": "",
-  "status": ""
+  "en": "Now, let's fire! Aim set, shell set... Fiiiire!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00E4E",
@@ -460,8 +460,8 @@
    1522
   ],
   "jp": "移動式だから、{n}精度に不安があったけど、{n}思ったよりもイケてるわね。",
-  "en": "",
-  "status": ""
+  "en": "Being mobile, I worried about its accuracy, but it's better than I thought.",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00E91",
@@ -472,8 +472,8 @@
    1540
   ],
   "jp": "お次は冷却率の実験よ！{n}…さあ、バンバン行くわよ②{n}きゃははははは！",
-  "en": "",
-  "status": ""
+  "en": "Next up, a cooling rate experiment! ...Now, let's blast away!! Kyahahahaha!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00ED4",
@@ -484,8 +484,8 @@
    1604
   ],
   "jp": "あぁーん、快感……{n}さあ、もっと撃ってやるわよ②",
-  "en": "",
-  "status": ""
+  "en": "Aaah, what a thrill... Now, let's fire some more!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00F04",
@@ -496,8 +496,8 @@
    1622
   ],
   "jp": "さぁ、ブッ飛びなさい②",
-  "en": "",
-  "status": ""
+  "en": "Now, blow away!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00F1B",
@@ -508,8 +508,8 @@
    1679
   ],
   "jp": "王都は私達が守るッ！",
-  "en": "",
-  "status": ""
+  "en": "We will protect the royal capital!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00F30",
@@ -520,8 +520,8 @@
    1686
   ],
   "jp": "砲手、用意はいいな！{n}いけッ、放てーッ②",
-  "en": "",
-  "status": ""
+  "en": "Gunners, ready! Go, fire!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00F58",
@@ -532,8 +532,8 @@
    1743
   ],
   "jp": "貴奴らはまだ健在だ！{n}気を緩めるなッ②",
-  "en": "",
-  "status": ""
+  "en": "Those wretches are still standing! Don't let up!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00F7E",
@@ -544,8 +544,8 @@
    1761
   ],
   "jp": "照準合わせッ！{n}放てーーーーーッ②",
-  "en": "",
-  "status": ""
+  "en": "Take aim! Fiiiire!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_002_00FA0",
@@ -556,7 +556,7 @@
    1376
   ],
   "jp": "{voice:00070B}いえーす…、私が改良を重ねた{n}エクセレント・カノンの威力、{n}見せてあげるわ！　きゃははは！",
-  "en": "",
-  "status": ""
+  "en": "Ye-es... I'll show you the power of my much-improved Excellent Cannon! Kyahahaha!",
+  "status": "done"
  }
 ]
