@@ -61,7 +61,7 @@ class Marker:
             tag = f"B{i}"
         self.ids.append((tag, r["id"]))
         self.tag = tag
-        if r["kind"] in ("inline", "bare"):
+        if r["kind"] in ("inline", "bare", "unref"):
             return self.fit(r)
         return marker(r["jp"], tag)
 

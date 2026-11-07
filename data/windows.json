@@ -5,7 +5,7 @@
  {"name": "battle_tip", "callers": ["0x38934"], "font": 1, "px": 420, "rows": 3, "measured": "fill combat_tip: 420 px ends x=457"},
  {"name": "battle_cry", "callers": ["0x478c0"], "font": 1, "px": 380, "rows": 1, "measured": "fill combat_fight: ribbon grows with the text; stars start at x=395"},
  {"name": "win_condition", "callers": ["0x12ff78"], "font": 1, "px": 370, "rows": 3, "measured": "fill prep_wincond: from x=90 to the panel's slant at x=470"},
- {"name": "lose_condition", "callers": ["0x130058", "0x1300c4"], "font": 1, "px": 310, "rows": 2, "measured": "fill prep_wincond: from x=46 to the sprite at x=365"},
+ {"name": "lose_condition", "callers": ["0x130058", "0x1300c4"], "font": 1, "px": 314, "rows": 1, "measured": "fill prep_wincond: from x=46 to the sprite at x=365; the lint counts an icon as 20 px, it draws 14. One row: a wrapped line pushes the last condition off the panel (5_07_BP)"},
  {"name": "game_over_text", "callers": ["0x1169a0"], "font": 1, "px": 288, "rows": 1, "measured": "vwf.install moves it from x=252 to x=190 (0x1161B8), to the screen edge; rows 1: each chain part is one of the window's 5 lines, a wrapped part pushes the last line off"},
  {"name": "battle_news", "callers": ["0x115f18"], "font": 1, "px": 440, "rows": 1, "guess": "from code 0x1157D4: chain +4 of table 0x2B4E58, centred on the 480 px screen at y=168; not shot yet"},
  {"name": "mission_brief", "callers": ["0x84af0", "0x84ba8"], "font": 1, "px": 240, "rows": 3, "guess": "window at 0x84A40 is 15 cols by 3 rows; no scene reaches it yet, 240 is the widest Japanese line"},

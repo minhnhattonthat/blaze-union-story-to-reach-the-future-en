@@ -5468,7 +5468,7 @@
    }
   ],
   "jp": "■敵勢が■ヴェルマン邸に到達すると…",
-  "en": "■ If enemies reach the ■ Velleman Manor...",
+  "en": "■ If foes reach ■ Velleman Manor...",
   "status": "done"
  },
  {
@@ -5496,7 +5496,7 @@
    }
   ],
   "jp": "■反乱軍が■西の関所に到達すると…",
-  "en": "■ If rebels reach the ■ West Checkpoint...",
+  "en": "■ If rebels reach ■ West Checkpoint...",
   "status": "done"
  },
  {
@@ -5510,7 +5510,7 @@
    }
   ],
   "jp": "■敵が■ミネルロードに到達すると…",
-  "en": "■ If enemies reach the ■ Minel Road...",
+  "en": "■ If enemies reach ■ Minel Road...",
   "status": "done"
  },
  {

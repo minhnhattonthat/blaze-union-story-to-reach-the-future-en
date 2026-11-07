@@ -65,8 +65,32 @@ def pack_script(d, recs, text, name):
     return bytes(out) + bytes(tail), done
 
 
+LOSE_TEXT, ICONS, MISSIONS = 0x2B8758, 0x2B87C4, 0x2B8810  # pointers, 19 records (10 win, 9 lose), 8-byte records
+ICON_WIN = 10
+
+
+def goal_icons(eb, recs, text):
+    """The goal panel (0x12F124) draws an icon over one glyph slot of a row: record mission, slot, row, icon. The string has ■
+    there, and the slot is its index in that row, so it has to follow the English."""
+    by_ptr = {r["ptr"]: r for r in recs}
+    for at in range(ICONS, MISSIONS, 4):
+        mission, slot, row, _ = eb.word(at).to_bytes(4, "little")
+        win, lose = eb.word(MISSIONS + mission * 8), eb.word(MISSIONS + mission * 8 + 4).to_bytes(4, "little")[:3]
+        ptrs = [win] if (at - ICONS) // 4 < ICON_WIN else [eb.word(LOSE_TEXT + i * 4) for i in lose if i != 0xFF]
+        jp, en = [], []
+        for r in (by_ptr[p] for p in ptrs):
+            one = text(r, "eboot")
+            jp += r["jp"].split("{n}")
+            en += one.split("{n}")
+            assert len(jp) == len(en), f"{r['id']}: English rows must match the Japanese, the row is in the record"
+        assert jp[row].rindex("■") == slot, (hex(at), jp[row])
+        eb.put(at + 1, bytes([en[row].rindex("■")]))
+
+
 def pack_eboot(eb, recs, text):
     """Move strings to the new segment and repoint them. A lui shared with another target can't move: those strings stay."""
+    if not hasattr(text, "fit"):  # the marker has no icons to place
+        goal_icons(eb, recs, text)
     hi_targets = {}
     for t, s in extract.relocations(bytes(eb.elf)):
         if "hi" in s:

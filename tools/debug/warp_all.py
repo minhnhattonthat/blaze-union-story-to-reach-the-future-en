@@ -1,5 +1,5 @@
 """Warp to every stage from a cold boot, each in its own emulator, and check it reached that stage.
-usage: warp_all.py [--out work/qa/stages] [--jobs 8] [--frames 1200] [--iso ISO] [--states] [NAME..]
+usage: warp_all.py [--out work/qa/stages] [--jobs 8] [--frames 1200] [--iso ISO] [--states] [--mash circle,start] [NAME..]
 A stage passes when the game state holds its index, the mode is one the warp can land in (5/6 chapter or stage card,
 7 event, 9/18-20 into prep) and the final shot is not flat. Shots: OUT/<name>.png; --states also writes work/states/<name>.ppst.
 Exit 1 if any stage fails."""
@@ -23,7 +23,8 @@ def one(name, a):
     """Returns (name, error or ''). Runs in a child process per stage: psp.Run owns one emulator."""
     cmd = [sys.executable, "-X", "utf8", __file__, "--child", name, "--out", a.out, "--frames", str(a.frames), "--iso", a.iso]
     cmd += ["--states"] if a.states else []
-    r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=300)
+    cmd += ["--mash", ",".join(a.mash)] if a.mash else []
+    r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=1800 if a.mash else 300)
     return name, "" if r.returncode == 0 else (r.stdout + r.stderr).strip().splitlines()[-1]
 
 
@@ -36,6 +37,10 @@ def child(name, a):
         warp.boot(run)
         index = names.index(name)
         warp.warp(run, index)
+        if a.mash:  # for the printer log: the run may leave the stage, so only the shot is kept
+            warp.drive(run, run.frame() + a.frames, 0, (), a.mash)
+            shutil.copy(run.shot("final.png"), Path(a.out) / f"{name}.png")
+            return
         run.run_to(run.frame() + a.frames)
         save = warp.u32(run, warp.SAVE_PTR)
         got = struct.unpack("<h", run.ws.mem(save + 0x19A, 2))[0]
@@ -60,6 +65,7 @@ def main():
     ap.add_argument("--frames", type=int, default=1200)
     ap.add_argument("--iso", default=warp.ISO)
     ap.add_argument("--states", action="store_true")
+    ap.add_argument("--mash", type=lambda s: s.split(","), default=[], help="buttons pressed in turn; no stage check")
     ap.add_argument("--child")
     a = ap.parse_args()
     Path(a.out).mkdir(parents=True, exist_ok=True)

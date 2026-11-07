@@ -78,7 +78,9 @@ def log_print(run, pc):
     cols, rows = struct.unpack_from("<2h", w, 0x18)
     Path(PRINTLOG).mkdir(parents=True, exist_ok=True)
     with open(Path(PRINTLOG) / f"{os.getpid()}.tsv", "a", encoding="utf-8") as f:
-        s = run.ws.mem(text, 48).split(b"\0")[0].decode("cp932", "replace").replace("\t", " ").replace("\n", " ")
+        b = run.ws.mem(text, 48)
+        b = b[4:] if b[0] == 2 else b  # voice cue 02 xx lo hi, whose bytes can be 0, opens most event messages
+        s = b.split(b"\0")[0].decode("cp932", "replace").replace("\t", " ").replace("\n", " ")
         f.write(f"{ra:#x}\t{x}\t{y}\t{cols // 4}\t{rows}\t{sp[0]}\t{sp[1]}\t{col}\t{row}\t{font}\t{text:#x}\t{pc:#x}\t{s}\n")
 
 

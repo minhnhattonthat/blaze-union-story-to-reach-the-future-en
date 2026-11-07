@@ -194,6 +194,10 @@ SCENES = {
     "extras_chronicle": (extra_item("right", "right"), (4,)),
     "extras_cards": (extra_item("up"), (4,)),
     "extras_fifth": (extra_item("right", "right", "right"), (4,)),
+    # a few pages deep: item and card text have their own wrap, and only these books show every entry
+    **{f"extras_item_{n}": (extra_item("right", "right", "right") + [(press, *["right"] * (n % 9), *["down"] * n), (wait, 90)], (4,))
+       for n in (5, 13, 22, 31, 47, 64)},
+    **{f"extras_card_{n}": (extra_item("up") + [(press, *["down"] * n), (wait, 90)], (4,)) for n in (12, 40, 77)},
     **{f"recap_{c}": (COLD + [(stage, f"{c}_01_A"), (wait, 420), (press, *["circle"] * 20), (wait, 120)], (5, 6, 7)) for c in range(2, 9)},
     "resume_prompt": (menu_item(9) + [(press, "circle"), (wait, 600), (press, "start"), (wait, 200), (press, "circle"), (wait, 240)], (2, 7, 15)),
     "tutorial_page": (menu_item(7) + [(press, "circle"), (wait, 240)], (7,)),

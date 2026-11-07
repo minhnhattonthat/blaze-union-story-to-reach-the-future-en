@@ -1,6 +1,6 @@
 """Text coverage on PSP: PPSSPP has no Lua, so the log is a BU_PRINTLOG run on the marker build, whose strings carry their id.
-usage: cover.py LOGDIR [--kinds] -> LOGDIR/log.txt (TEXT lines for textcover.py), build/strings.tsv, and what wasn't reached,
-counted per script file. Then: textcover.py LOGDIR build/strings.tsv --waive docs/text_unshown.tsv
+usage: cover.py LOGDIR [--waive] -> LOGDIR/log.txt (TEXT lines for textcover.py), build/strings.tsv, and what wasn't reached,
+counted per script file; --waive rewrites docs/text_unshown.tsv. Then: textcover.py LOGDIR build/strings.tsv --waive docs/text_unshown.tsv
 Limit: a marked string counts once the printer gets it; inline names (codes 03, 04) and strings drawn by the game's own
 layout routines never pass the printer's entry, so they read as not reached."""
 import collections
@@ -21,3 +21,8 @@ left = collections.Counter(ids[t].rsplit("_", 1)[0] for t in ids if t not in see
 print(f"{len(seen)} of {len(ids)} strings reached")
 for name, n in left.most_common():
     print(f"{n}\t{name}")
+if "--waive" in sys.argv:  # PSP's honest waiver: each string left, with why only the lint and the review vouch for it
+    why = {"eboot": "EBOOT table string: own layout or a screen no tour reaches; width lint and review only"}
+    other = "battle or later event line: reached by no warp or scene; width lint and review only"
+    rows = (f"{ids[t]}\t{why.get(ids[t].split('_')[0], other)}\n" for t in ids if t not in seen)
+    (ROOT / "docs/text_unshown.tsv").write_text("".join(rows), encoding="utf-8", newline="\n")
