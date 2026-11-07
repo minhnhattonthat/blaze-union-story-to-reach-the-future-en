@@ -2768,8 +2768,8 @@
    }
   ],
   "jp": "……どうして？",
-  "en": "",
-  "status": ""
+  "en": "...Why?",
+  "status": "done"
  },
  {
   "id": "eboot_1F0E93",
@@ -3538,8 +3538,8 @@
    }
   ],
   "jp": "もらった！",
-  "en": "",
-  "status": ""
+  "en": "You're mine!",
+  "status": "done"
  },
  {
   "id": "eboot_1F1284",
@@ -5232,8 +5232,8 @@
    }
   ],
   "jp": "甘いわ！",
-  "en": "",
-  "status": ""
+  "en": "Too soft!",
+  "status": "done"
  },
  {
   "id": "eboot_1F1711",
@@ -5260,8 +5260,8 @@
    }
   ],
   "jp": "今だ！",
-  "en": "",
-  "status": ""
+  "en": "Now!",
+  "status": "done"
  },
  {
   "id": "eboot_1F1721",
@@ -7416,8 +7416,8 @@
    }
   ],
   "jp": "やってやるぜ！",
-  "en": "",
-  "status": ""
+  "en": "Let's do this!",
+  "status": "done"
  },
  {
   "id": "eboot_1F1EC4",
