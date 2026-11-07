@@ -33,6 +33,7 @@ Minor fixes to make before release (phase 9 gate: no unticked line). Ids are `bN
 - [ ] r06 私兵団邸 has three wordings: "the band's residence" (b099:7), "the residence" (b099:81, b100:15), "the mansion" / "the private army's mansion" (b109:48-60). Pick one.
 - [ ] r06 Pamela's だわさ flattened (b101:126, b102:39-40, b107:43, b110:125), with r07's list; Aegina's contractions (b107:29, b109:16, b109:30) against her strict register.
 - [ ] r01 b046:109-110 Byff's 書庫/車庫 mishearing is "library"/"livery", not a sound-alike in English: find a pair that is. b041:57 セリカの想い "Is Cerica's love not enough!?" may read as romance with David (想い = her feelings, resolve). b043:82 Jenon "That's some incredible force to break through..." is ambiguous (Leon's breakthrough power). Unit labels ジルヴァ暗殺部隊 "Zilva Assassins" (b042:126) vs ジルヴァ暗殺隊 "Zilva Assassin" (b047:95), byte-fixed.
+- [ ] r02 b048:71 Byff's 形勢/威勢 pun "Very tide-y!" is weak. Speaker label 王国輸送隊 "Transport" (b050:3, byte-fixed) drops "Kingdom". b057:96 （仮） "(Temp)" is the game's own placeholder line: check whether it ever shows. Pamela's だわさ is "y'know" throughout b048-b060 (with r06's note).
 - [ ] r12 b030:76 ひとつ覗いてみませんか (care to take a peek?) is "How about a dip?": decide in the story pass whether the content rule covers it (the bath scenes include young characters).
 - [ ] r12 book text cut to 3 rows: b030:97 drops 方伯 "Margrave", b030:110 drops "to friend and foe", b030:121 drops "on his master's orders".
 - [ ] r12 b032:21 これで万事解決× "All Fixed! (Not)" adds a joke the JP lacks (× is an emphasis mark): "All Fixed!!"

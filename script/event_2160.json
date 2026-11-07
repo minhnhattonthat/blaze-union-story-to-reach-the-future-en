@@ -162,7 +162,7 @@
    8221
   ],
   "jp": "{voice:00E503}……私は！",
-  "en": "...I!",
+  "en": "...I...!",
   "status": "done"
  },
  {
@@ -1937,7 +1937,7 @@
    40948
   ],
   "jp": "{voice:000B04}我々は輸送隊の傭兵で、{n}神生教団と名乗る賊どもから{n}積荷を守ったのでございます。",
-  "en": "We are its mercenaries, and we saved the cargo from brigands calling themselves the Blessed Papal Army.",
+  "en": "We are the transport's mercenaries. We saved it from brigands calling themselves the Blessed Papal Army.",
   "status": "done"
  },
  {
@@ -2909,7 +2909,7 @@
    37916
   ],
   "jp": "…お生憎様。{n}そんな脅しで引き下がるほど、{n}お利巧な生き方してないのよ。",
-  "en": "...Too bad. I haven't lived such a clever life that a threat like that would make me back down.",
+  "en": "...Too bad for you. I'm not the type to play it safe and back down over a threat like that.",
   "status": "done"
  },
  {

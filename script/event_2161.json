@@ -8,7 +8,7 @@
    11756
   ],
   "jp": "{voice:002604}……ぅぅぅぅぅ。",
-  "en": "...Mmmmmmm.",
+  "en": "...Brrrrrr.",
   "status": "done"
  },
  {
@@ -92,7 +92,7 @@
    11982
   ],
   "jp": "{voice:002D04}雪の上で戦うのは得意。{n}雪上戦と口上戦なら、{n}バイフーに任せろ。",
-  "en": "Byff is good at fighting on snow. Snow fights and word fights, leave them to Byff.",
+  "en": "Byff is good at fighting on snow. Snow brawls and jaw brawls, leave them to Byff.",
   "status": "done"
  },
  {
@@ -104,7 +104,7 @@
    12000
   ],
   "jp": "{voice:002E04}口上戦が得意って、{n}……ウソつけよ。",
-  "en": "Good at word fights... Liar.",
+  "en": "Good at jaw brawls... Liar.",
   "status": "done"
  },
  {
@@ -1460,7 +1460,7 @@
    15934
   ],
   "jp": "…アンタは勇者じゃの…{n}これを持っていきなされ。",
-  "en": "...You're a brave one... Take this with you.",
+  "en": "...Brave souls, you are... Here, take this with you, dearie.",
   "status": "done"
  },
  {
@@ -1640,7 +1640,7 @@
    36104
   ],
   "jp": "この小屋には誰もおらん…{n}寄らんでもよかったな。{n}なーんつって。",
-  "en": "Nobody is in this hut. What a shack! Ha, just kidding.",
+  "en": "Nobody is in this hut. Byff should have hut the road sooner. Ha, just kidding.",
   "status": "done"
  },
  {
@@ -2072,7 +2072,7 @@
    39608
   ],
   "jp": "千年雪って、暖かい場所に{n}持って行っても溶けないって{n}聞いた事があるけど……",
-  "en": "I've heard thousand-year snow doesn't melt even if you take it somewhere warm...",
+  "en": "I've heard Thousand-Year Snow doesn't melt even if you take it somewhere warm...",
   "status": "done"
  },
  {
