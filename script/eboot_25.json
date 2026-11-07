@@ -890,8 +890,8 @@
    }
   ],
   "jp": "スレイプ",
-  "en": "",
-  "status": ""
+  "en": "Sleip",
+  "status": "done"
  },
  {
   "id": "eboot_259794",
@@ -904,8 +904,8 @@
    }
   ],
   "jp": "アスガーリ",
-  "en": "",
-  "status": ""
+  "en": "Asgari",
+  "status": "done"
  },
  {
   "id": "eboot_2597A0",
@@ -918,8 +918,8 @@
    }
   ],
   "jp": "アルフ",
-  "en": "",
-  "status": ""
+  "en": "Alf",
+  "status": "done"
  },
  {
   "id": "eboot_2597A8",
@@ -932,8 +932,8 @@
    }
   ],
   "jp": "ヴァン",
-  "en": "",
-  "status": ""
+  "en": "Van",
+  "status": "done"
  },
  {
   "id": "eboot_2597B0",
@@ -946,8 +946,8 @@
    }
   ],
   "jp": "ヴェアル",
-  "en": "",
-  "status": ""
+  "en": "Vear",
+  "status": "done"
  },
  {
   "id": "eboot_2597BC",
@@ -960,8 +960,8 @@
    }
   ],
   "jp": "ミズガーリ",
-  "en": "",
-  "status": ""
+  "en": "Mizgari",
+  "status": "done"
  },
  {
   "id": "eboot_2597C8",
@@ -974,8 +974,8 @@
    }
   ],
   "jp": "ヨトゥン",
-  "en": "",
-  "status": ""
+  "en": "Jotun",
+  "status": "done"
  },
  {
   "id": "eboot_2597D4",
@@ -988,8 +988,8 @@
    }
   ],
   "jp": "ニヴァール",
-  "en": "",
-  "status": ""
+  "en": "Nivar",
+  "status": "done"
  },
  {
   "id": "eboot_2597E0",
@@ -1002,8 +1002,8 @@
    }
   ],
   "jp": "ヘルル",
-  "en": "",
-  "status": ""
+  "en": "Hel",
+  "status": "done"
  },
  {
   "id": "eboot_2597E8",
@@ -1016,8 +1016,8 @@
    }
   ],
   "jp": "ムスパー",
-  "en": "",
-  "status": ""
+  "en": "Muspar",
+  "status": "done"
  },
  {
   "id": "eboot_2597F4",
@@ -1030,8 +1030,8 @@
    }
   ],
   "jp": "テシタ",
-  "en": "",
-  "status": ""
+  "en": "Tesita",
+  "status": "done"
  },
  {
   "id": "eboot_2597FC",
@@ -1044,8 +1044,8 @@
    }
   ],
   "jp": "私兵",
-  "en": "",
-  "status": ""
+  "en": "Guard",
+  "status": "done"
  },
  {
   "id": "eboot_259804",
@@ -1061,8 +1061,8 @@
    }
   ],
   "jp": "シ兵",
-  "en": "",
-  "status": ""
+  "en": "Guard",
+  "status": "done"
  },
  {
   "id": "eboot_25980C",
@@ -1075,8 +1075,8 @@
    }
   ],
   "jp": "遊撃兵",
-  "en": "",
-  "status": ""
+  "en": "Ranger",
+  "status": "done"
  },
  {
   "id": "eboot_259814",
@@ -1089,8 +1089,8 @@
    }
   ],
   "jp": "ユウゲキ兵",
-  "en": "",
-  "status": ""
+  "en": "Ranger",
+  "status": "done"
  },
  {
   "id": "eboot_259820",
@@ -1103,8 +1103,8 @@
    }
   ],
   "jp": "傭兵",
-  "en": "",
-  "status": ""
+  "en": "Merc",
+  "status": "done"
  },
  {
   "id": "eboot_259828",
@@ -1117,8 +1117,8 @@
    }
   ],
   "jp": "ヨウ兵",
-  "en": "",
-  "status": ""
+  "en": "Merc",
+  "status": "done"
  },
  {
   "id": "eboot_259830",
@@ -1131,8 +1131,8 @@
    }
   ],
   "jp": "野盗",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "eboot_259838",
@@ -1145,8 +1145,8 @@
    }
   ],
   "jp": "ヤトウ",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "eboot_259840",
@@ -1162,8 +1162,8 @@
    }
   ],
   "jp": "ヤトウ団",
-  "en": "",
-  "status": ""
+  "en": "Bandits",
+  "status": "done"
  },
  {
   "id": "eboot_25984C",
@@ -1176,8 +1176,8 @@
    }
   ],
   "jp": "山賊",
-  "en": "",
-  "status": ""
+  "en": "Brigand",
+  "status": "done"
  },
  {
   "id": "eboot_259854",
@@ -1190,8 +1190,8 @@
    }
   ],
   "jp": "サンゾク",
-  "en": "",
-  "status": ""
+  "en": "Brigand",
+  "status": "done"
  },
  {
   "id": "eboot_259860",
@@ -1207,8 +1207,8 @@
    }
   ],
   "jp": "サンゾク団",
-  "en": "",
-  "status": ""
+  "en": "Brigands",
+  "status": "done"
  },
  {
   "id": "eboot_25986C",
@@ -1221,8 +1221,8 @@
    }
   ],
   "jp": "刺客",
-  "en": "",
-  "status": ""
+  "en": "Killer",
+  "status": "done"
  },
  {
   "id": "eboot_259874",
@@ -1235,8 +1235,8 @@
    }
   ],
   "jp": "シカク",
-  "en": "",
-  "status": ""
+  "en": "Killer",
+  "status": "done"
  },
  {
   "id": "eboot_25987C",
@@ -1249,8 +1249,8 @@
    }
   ],
   "jp": "シカク部隊",
-  "en": "",
-  "status": ""
+  "en": "Killers",
+  "status": "done"
  },
  {
   "id": "eboot_259888",
@@ -1263,8 +1263,8 @@
    }
   ],
   "jp": "暗殺者",
-  "en": "",
-  "status": ""
+  "en": "Assassin",
+  "status": "done"
  },
  {
   "id": "eboot_259890",
@@ -1277,8 +1277,8 @@
    }
   ],
   "jp": "アンサツ者",
-  "en": "",
-  "status": ""
+  "en": "Assassin",
+  "status": "done"
  },
  {
   "id": "eboot_25989C",
@@ -1291,8 +1291,8 @@
    }
   ],
   "jp": "アンサツ者部隊",
-  "en": "",
-  "status": ""
+  "en": "Assassins",
+  "status": "done"
  },
  {
   "id": "eboot_2598AC",
@@ -1305,8 +1305,8 @@
    }
   ],
   "jp": "重騎兵",
-  "en": "",
-  "status": ""
+  "en": "Heavy",
+  "status": "done"
  },
  {
   "id": "eboot_2598B4",
@@ -1319,8 +1319,8 @@
    }
   ],
   "jp": "ジュウキ兵",
-  "en": "",
-  "status": ""
+  "en": "Heavy",
+  "status": "done"
  },
  {
   "id": "eboot_2598C0",
@@ -1333,8 +1333,8 @@
    }
   ],
   "jp": "盗賊",
-  "en": "",
-  "status": ""
+  "en": "Thief",
+  "status": "done"
  },
  {
   "id": "eboot_2598C8",
@@ -1347,8 +1347,8 @@
    }
   ],
   "jp": "トウゾク",
-  "en": "",
-  "status": ""
+  "en": "Thief",
+  "status": "done"
  },
  {
   "id": "eboot_2598D4",
@@ -1364,8 +1364,8 @@
    }
   ],
   "jp": "トウゾク団",
-  "en": "",
-  "status": ""
+  "en": "Thieves",
+  "status": "done"
  },
  {
   "id": "eboot_2598E0",
@@ -1381,8 +1381,8 @@
    }
   ],
   "jp": "教団兵",
-  "en": "",
-  "status": ""
+  "en": "Papal",
+  "status": "done"
  },
  {
   "id": "eboot_2598E8",
@@ -1398,8 +1398,8 @@
    }
   ],
   "jp": "教団部隊",
-  "en": "",
-  "status": ""
+  "en": "Papal",
+  "status": "done"
  },
  {
   "id": "eboot_2598F4",
@@ -1412,8 +1412,8 @@
    }
   ],
   "jp": "王国兵",
-  "en": "",
-  "status": ""
+  "en": "Royal",
+  "status": "done"
  },
  {
   "id": "eboot_2598FC",
@@ -1426,8 +1426,8 @@
    }
   ],
   "jp": "オウコク兵",
-  "en": "",
-  "status": ""
+  "en": "Royal",
+  "status": "done"
  },
  {
   "id": "eboot_259908",
@@ -1440,8 +1440,8 @@
    }
   ],
   "jp": "反乱兵",
-  "en": "",
-  "status": ""
+  "en": "Rebel",
+  "status": "done"
  },
  {
   "id": "eboot_259910",
@@ -1454,8 +1454,8 @@
    }
   ],
   "jp": "ハンラン兵",
-  "en": "",
-  "status": ""
+  "en": "Rebel",
+  "status": "done"
  },
  {
   "id": "eboot_25991C",
@@ -1468,8 +1468,8 @@
    }
   ],
   "jp": "子分",
-  "en": "",
-  "status": ""
+  "en": "Goon",
+  "status": "done"
  },
  {
   "id": "eboot_259924",
@@ -1482,8 +1482,8 @@
    }
   ],
   "jp": "コブン",
-  "en": "",
-  "status": ""
+  "en": "Goon",
+  "status": "done"
  },
  {
   "id": "eboot_25992C",
@@ -1496,8 +1496,8 @@
    }
   ],
   "jp": "コブン部隊",
-  "en": "",
-  "status": ""
+  "en": "Goons",
+  "status": "done"
  },
  {
   "id": "eboot_259938",
@@ -1510,8 +1510,8 @@
    }
   ],
   "jp": "輸送隊長",
-  "en": "",
-  "status": ""
+  "en": "Convoy",
+  "status": "done"
  },
  {
   "id": "eboot_259944",
@@ -1524,8 +1524,8 @@
    }
   ],
   "jp": "ユソウ隊長",
-  "en": "",
-  "status": ""
+  "en": "Convoy",
+  "status": "done"
  },
  {
   "id": "eboot_259950",
@@ -1541,8 +1541,8 @@
    }
   ],
   "jp": "ユソウ部隊",
-  "en": "",
-  "status": ""
+  "en": "Convoys",
+  "status": "done"
  },
  {
   "id": "eboot_25995C",
@@ -1555,8 +1555,8 @@
    }
   ],
   "jp": "民兵",
-  "en": "",
-  "status": ""
+  "en": "Militia",
+  "status": "done"
  },
  {
   "id": "eboot_259964",
@@ -1569,8 +1569,8 @@
    }
   ],
   "jp": "ミン兵",
-  "en": "",
-  "status": ""
+  "en": "Militia",
+  "status": "done"
  },
  {
   "id": "eboot_25996C",
@@ -1583,8 +1583,8 @@
    }
   ],
   "jp": "屍兵",
-  "en": "",
-  "status": ""
+  "en": "Corpse",
+  "status": "done"
  },
  {
   "id": "eboot_259974",
@@ -1597,8 +1597,8 @@
    }
   ],
   "jp": "ゴロツキＡ",
-  "en": "",
-  "status": ""
+  "en": "Thug A",
+  "status": "done"
  },
  {
   "id": "eboot_259980",
@@ -1623,8 +1623,8 @@
    }
   ],
   "jp": "ゴロツキ",
-  "en": "",
-  "status": ""
+  "en": "Thugs",
+  "status": "done"
  },
  {
   "id": "eboot_25998C",
@@ -1637,8 +1637,8 @@
    }
   ],
   "jp": "ゴロツキＢ",
-  "en": "",
-  "status": ""
+  "en": "Thug B",
+  "status": "done"
  },
  {
   "id": "eboot_259998",
@@ -1651,8 +1651,8 @@
    }
   ],
   "jp": "ゴロツキＣ",
-  "en": "",
-  "status": ""
+  "en": "Thug C",
+  "status": "done"
  },
  {
   "id": "eboot_2599A4",
@@ -1665,8 +1665,8 @@
    }
   ],
   "jp": "ゴロツキＤ",
-  "en": "",
-  "status": ""
+  "en": "Thug D",
+  "status": "done"
  },
  {
   "id": "eboot_2599B0",
@@ -1679,8 +1679,8 @@
    }
   ],
   "jp": "ゴロツキＥ",
-  "en": "",
-  "status": ""
+  "en": "Thug E",
+  "status": "done"
  },
  {
   "id": "eboot_2599BC",
@@ -1693,8 +1693,8 @@
    }
   ],
   "jp": "その他",
-  "en": "",
-  "status": ""
+  "en": "Other",
+  "status": "done"
  },
  {
   "id": "eboot_2599C4",
@@ -1707,8 +1707,8 @@
    }
   ],
   "jp": "ソノタ",
-  "en": "",
-  "status": ""
+  "en": "Other",
+  "status": "done"
  },
  {
   "id": "eboot_2599CC",
@@ -1721,8 +1721,8 @@
    }
   ],
   "jp": "親衛隊",
-  "en": "",
-  "status": ""
+  "en": "Guards",
+  "status": "done"
  },
  {
   "id": "eboot_2599D4",
@@ -1738,8 +1738,8 @@
    }
   ],
   "jp": "シンエイ隊",
-  "en": "",
-  "status": ""
+  "en": "Guards",
+  "status": "done"
  },
  {
   "id": "eboot_2599E0",
@@ -1752,8 +1752,8 @@
    }
   ],
   "jp": "鋼鉄騎兵",
-  "en": "",
-  "status": ""
+  "en": "Steel",
+  "status": "done"
  },
  {
   "id": "eboot_2599EC",
@@ -1766,8 +1766,8 @@
    }
   ],
   "jp": "コウテツキ兵",
-  "en": "",
-  "status": ""
+  "en": "Steel",
+  "status": "done"
  },
  {
   "id": "eboot_2599FC",
@@ -1780,8 +1780,8 @@
    }
   ],
   "jp": "帝国兵",
-  "en": "",
-  "status": ""
+  "en": "Imperial",
+  "status": "done"
  },
  {
   "id": "eboot_259A04",
@@ -1794,8 +1794,8 @@
    }
   ],
   "jp": "テイコク兵",
-  "en": "",
-  "status": ""
+  "en": "Imperial",
+  "status": "done"
  },
  {
   "id": "eboot_259A10",
@@ -1811,8 +1811,8 @@
    }
   ],
   "jp": "ミニオン",
-  "en": "",
-  "status": ""
+  "en": "Minion",
+  "status": "done"
  },
  {
   "id": "eboot_259A1C",
@@ -1828,8 +1828,8 @@
    }
   ],
   "jp": "神殿の者",
-  "en": "",
-  "status": ""
+  "en": "Temple",
+  "status": "done"
  },
  {
   "id": "eboot_259A28",
@@ -1845,8 +1845,8 @@
    }
   ],
   "jp": "シンデンノ者",
-  "en": "",
-  "status": ""
+  "en": "Temple",
+  "status": "done"
  },
  {
   "id": "eboot_259A38",
@@ -1859,8 +1859,8 @@
    }
   ],
   "jp": "近衛兵",
-  "en": "",
-  "status": ""
+  "en": "Royals",
+  "status": "done"
  },
  {
   "id": "eboot_259A40",
@@ -1873,8 +1873,8 @@
    }
   ],
   "jp": "コノエ兵",
-  "en": "",
-  "status": ""
+  "en": "Royals",
+  "status": "done"
  },
  {
   "id": "eboot_259A4C",
@@ -1887,8 +1887,8 @@
    }
   ],
   "jp": "コノエ隊",
-  "en": "",
-  "status": ""
+  "en": "Royals",
+  "status": "done"
  },
  {
   "id": "eboot_259A58",
@@ -1901,8 +1901,8 @@
    }
   ],
   "jp": "総隊長",
-  "en": "",
-  "status": ""
+  "en": "Commander",
+  "status": "done"
  },
  {
   "id": "eboot_259A60",
@@ -1918,8 +1918,8 @@
    }
   ],
   "jp": "ソウ隊長",
-  "en": "",
-  "status": ""
+  "en": "Commander",
+  "status": "done"
  },
  {
   "id": "eboot_259A6C",
@@ -1932,8 +1932,8 @@
    }
   ],
   "jp": "カローナ兵",
-  "en": "",
-  "status": ""
+  "en": "Karona",
+  "status": "done"
  },
  {
   "id": "eboot_259A78",
@@ -1946,8 +1946,8 @@
    }
   ],
   "jp": "斥候隊長",
-  "en": "",
-  "status": ""
+  "en": "Scouts",
+  "status": "done"
  },
  {
   "id": "eboot_259A84",
@@ -1960,8 +1960,8 @@
    }
   ],
   "jp": "セッコウ隊長",
-  "en": "",
-  "status": ""
+  "en": "Scouts",
+  "status": "done"
  },
  {
   "id": "eboot_259A94",
@@ -1974,8 +1974,8 @@
    }
   ],
   "jp": "セッコウ部隊",
-  "en": "",
-  "status": ""
+  "en": "Scouts",
+  "status": "done"
  },
  {
   "id": "eboot_259AA4",
@@ -1988,8 +1988,8 @@
    }
   ],
   "jp": "砲撃手",
-  "en": "",
-  "status": ""
+  "en": "Gunner",
+  "status": "done"
  },
  {
   "id": "eboot_259AAC",
@@ -2002,8 +2002,8 @@
    }
   ],
   "jp": "ホウゲキシュ",
-  "en": "",
-  "status": ""
+  "en": "Gunner",
+  "status": "done"
  },
  {
   "id": "eboot_259ABC",
@@ -2016,8 +2016,8 @@
    }
   ],
   "jp": "ホウゲキ部隊",
-  "en": "",
-  "status": ""
+  "en": "Gunners",
+  "status": "done"
  },
  {
   "id": "eboot_259ACC",
@@ -2033,8 +2033,8 @@
    }
   ],
   "jp": "番兵",
-  "en": "",
-  "status": ""
+  "en": "Sentry",
+  "status": "done"
  },
  {
   "id": "eboot_259AD4",
@@ -2047,8 +2047,8 @@
    }
   ],
   "jp": "バン兵",
-  "en": "",
-  "status": ""
+  "en": "Sentry",
+  "status": "done"
  },
  {
   "id": "eboot_259ADC",
@@ -2061,8 +2061,8 @@
    }
   ],
   "jp": "バン兵部隊",
-  "en": "",
-  "status": ""
+  "en": "Sentries",
+  "status": "done"
  },
  {
   "id": "eboot_259AE8",
@@ -2075,8 +2075,8 @@
    }
   ],
   "jp": "門番長",
-  "en": "",
-  "status": ""
+  "en": "Warden",
+  "status": "done"
  },
  {
   "id": "eboot_259AF0",
@@ -2089,8 +2089,8 @@
    }
   ],
   "jp": "モンバン長",
-  "en": "",
-  "status": ""
+  "en": "Warden",
+  "status": "done"
  },
  {
   "id": "eboot_259AFC",
@@ -2103,8 +2103,8 @@
    }
   ],
   "jp": "モンバン部隊",
-  "en": "",
-  "status": ""
+  "en": "Wardens",
+  "status": "done"
  },
  {
   "id": "eboot_259B0C",
@@ -2117,8 +2117,8 @@
    }
   ],
   "jp": "野盗隊長",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "eboot_259B18",
@@ -2131,8 +2131,8 @@
    }
   ],
   "jp": "ヤトウ隊長",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "eboot_259B24",
@@ -2145,8 +2145,8 @@
    }
   ],
   "jp": "山賊団長",
-  "en": "",
-  "status": ""
+  "en": "Brigand",
+  "status": "done"
  },
  {
   "id": "eboot_259B30",
@@ -2159,8 +2159,8 @@
    }
   ],
   "jp": "サンゾク団長",
-  "en": "",
-  "status": ""
+  "en": "Brigand",
+  "status": "done"
  },
  {
   "id": "eboot_259B40",
@@ -2173,8 +2173,8 @@
    }
   ],
   "jp": "盗賊団長",
-  "en": "",
-  "status": ""
+  "en": "Thief",
+  "status": "done"
  },
  {
   "id": "eboot_259B4C",
@@ -2187,8 +2187,8 @@
    }
   ],
   "jp": "トウゾク団長",
-  "en": "",
-  "status": ""
+  "en": "Thief",
+  "status": "done"
  },
  {
   "id": "eboot_259B5C",
@@ -2204,8 +2204,8 @@
    }
   ],
   "jp": "教団兵長",
-  "en": "",
-  "status": ""
+  "en": "Papal",
+  "status": "done"
  },
  {
   "id": "eboot_259B68",
@@ -2218,8 +2218,8 @@
    }
   ],
   "jp": "小隊長",
-  "en": "",
-  "status": ""
+  "en": "Squad",
+  "status": "done"
  },
  {
   "id": "eboot_259B70",
@@ -2232,8 +2232,8 @@
    }
   ],
   "jp": "ハンラン兵隊",
-  "en": "",
-  "status": ""
+  "en": "Rebels",
+  "status": "done"
  },
  {
   "id": "eboot_259B80",
@@ -2246,8 +2246,8 @@
    }
   ],
   "jp": "大隊長",
-  "en": "",
-  "status": ""
+  "en": "Battalion",
+  "status": "done"
  },
  {
   "id": "eboot_259B88",
@@ -2260,8 +2260,8 @@
    }
   ],
   "jp": "オウコク兵隊",
-  "en": "",
-  "status": ""
+  "en": "Royals",
+  "status": "done"
  },
  {
   "id": "eboot_259B98",
@@ -2274,8 +2274,8 @@
    }
   ],
   "jp": "輸送隊員",
-  "en": "",
-  "status": ""
+  "en": "Convoy",
+  "status": "done"
  },
  {
   "id": "eboot_259BA4",
@@ -2288,8 +2288,8 @@
    }
   ],
   "jp": "ユソウ隊員",
-  "en": "",
-  "status": ""
+  "en": "Convoy",
+  "status": "done"
  },
  {
   "id": "eboot_259BB0",
@@ -2302,8 +2302,8 @@
    }
   ],
   "jp": "ゴーレム",
-  "en": "",
-  "status": ""
+  "en": "Golem",
+  "status": "done"
  },
  {
   "id": "eboot_259BBC",
@@ -2319,8 +2319,8 @@
    }
   ],
   "jp": "ルシエナ",
-  "en": "",
-  "status": ""
+  "en": "Luciana",
+  "status": "done"
  },
  {
   "id": "eboot_259BC8",
@@ -2350,8 +2350,8 @@
    }
   ],
   "jp": "金髪の少女",
-  "en": "",
-  "status": ""
+  "en": "Blonde Girl",
+  "status": "done"
  },
  {
   "id": "eboot_259BDC",
@@ -2364,8 +2364,8 @@
    }
   ],
   "jp": "赤毛の幼い子ども",
-  "en": "",
-  "status": ""
+  "en": "Red-Haired Child",
+  "status": "done"
  },
  {
   "id": "eboot_259BF0",
@@ -2378,8 +2378,8 @@
    }
   ],
   "jp": "若い男性",
-  "en": "",
-  "status": ""
+  "en": "Young Man",
+  "status": "done"
  },
  {
   "id": "eboot_259BFC",
@@ -2392,8 +2392,8 @@
    }
   ],
   "jp": "恰幅のいい商人",
-  "en": "",
-  "status": ""
+  "en": "Portly Merchant",
+  "status": "done"
  },
  {
   "id": "eboot_259C0C",
@@ -2406,8 +2406,8 @@
    }
   ],
   "jp": "商人の私兵",
-  "en": "",
-  "status": ""
+  "en": "Merchant's Guard",
+  "status": "done"
  },
  {
   "id": "eboot_259C18",
@@ -2420,8 +2420,8 @@
    }
   ],
   "jp": "色黒の女武芸者",
-  "en": "",
-  "status": ""
+  "en": "Dark-Skinned Swordswoman",
+  "status": "done"
  },
  {
   "id": "eboot_259C28",
@@ -2434,8 +2434,8 @@
    }
   ],
   "jp": "ソバカス女",
-  "en": "",
-  "status": ""
+  "en": "Freckled Woman",
+  "status": "done"
  },
  {
   "id": "eboot_259C34",
@@ -2448,8 +2448,8 @@
    }
   ],
   "jp": "傭兵の一味",
-  "en": "",
-  "status": ""
+  "en": "Mercenary Band",
+  "status": "done"
  },
  {
   "id": "eboot_259C40",
@@ -2462,8 +2462,8 @@
    }
   ],
   "jp": "眼光の鋭い男性",
-  "en": "",
-  "status": ""
+  "en": "Sharp-Eyed Man",
+  "status": "done"
  },
  {
   "id": "eboot_259C50",
@@ -2476,8 +2476,8 @@
    }
   ],
   "jp": "セリカ一味",
-  "en": "",
-  "status": ""
+  "en": "Cerica's Gang",
+  "status": "done"
  },
  {
   "id": "eboot_259C5C",
@@ -2490,8 +2490,8 @@
    }
   ],
   "jp": "親衛隊長",
-  "en": "",
-  "status": ""
+  "en": "Guard Captain",
+  "status": "done"
  },
  {
   "id": "eboot_259C68",
@@ -2504,8 +2504,8 @@
    }
   ],
   "jp": "松葉杖の少女",
-  "en": "",
-  "status": ""
+  "en": "Girl on Crutches",
+  "status": "done"
  },
  {
   "id": "eboot_259C78",
@@ -2518,8 +2518,8 @@
    }
   ],
   "jp": "少女",
-  "en": "",
-  "status": ""
+  "en": "Girl",
+  "status": "done"
  },
  {
   "id": "eboot_259C80",
@@ -2532,8 +2532,8 @@
    }
   ],
   "jp": "将校",
-  "en": "",
-  "status": ""
+  "en": "Officer",
+  "status": "done"
  },
  {
   "id": "eboot_259C88",
@@ -2546,8 +2546,8 @@
    }
   ],
   "jp": "黒衣の総隊長",
-  "en": "",
-  "status": ""
+  "en": "Commander in Black",
+  "status": "done"
  },
  {
   "id": "eboot_259C98",
@@ -2560,8 +2560,8 @@
    }
   ],
   "jp": "一般兵卒",
-  "en": "",
-  "status": ""
+  "en": "Common Soldier",
+  "status": "done"
  },
  {
   "id": "eboot_259CA4",
@@ -2574,8 +2574,8 @@
    }
   ],
   "jp": "女の声",
-  "en": "",
-  "status": ""
+  "en": "Woman's Voice",
+  "status": "done"
  },
  {
   "id": "eboot_259CAC",
@@ -2588,8 +2588,8 @@
    }
   ],
   "jp": "男の声",
-  "en": "",
-  "status": ""
+  "en": "Man's Voice",
+  "status": "done"
  },
  {
   "id": "eboot_259CB4",
@@ -2602,8 +2602,8 @@
    }
   ],
   "jp": "巨躯の獣人",
-  "en": "",
-  "status": ""
+  "en": "Huge Beast-Man",
+  "status": "done"
  },
  {
   "id": "eboot_259CC0",
@@ -2616,8 +2616,8 @@
    }
   ],
   "jp": "盗賊の隊長",
-  "en": "",
-  "status": ""
+  "en": "Thief Captain",
+  "status": "done"
  },
  {
   "id": "eboot_259CCC",
@@ -2630,8 +2630,8 @@
    }
   ],
   "jp": "神生教団兵",
-  "en": "",
-  "status": ""
+  "en": "Papal Soldier",
+  "status": "done"
  },
  {
   "id": "eboot_259CD8",
@@ -2644,8 +2644,8 @@
    }
   ],
   "jp": "メガネの女",
-  "en": "",
-  "status": ""
+  "en": "Woman in Glasses",
+  "status": "done"
  },
  {
   "id": "eboot_259CE4",
@@ -2658,8 +2658,8 @@
    }
   ],
   "jp": "王国の大臣",
-  "en": "",
-  "status": ""
+  "en": "Royal Minister",
+  "status": "done"
  },
  {
   "id": "eboot_259CF0",
@@ -2672,8 +2672,8 @@
    }
   ],
   "jp": "大臣の麾下",
-  "en": "",
-  "status": ""
+  "en": "Minister's Men",
+  "status": "done"
  },
  {
   "id": "eboot_259CFC",
@@ -2686,8 +2686,8 @@
    }
   ],
   "jp": "商人風の青年",
-  "en": "",
-  "status": ""
+  "en": "Merchant-Like Youth",
+  "status": "done"
  },
  {
   "id": "eboot_259D0C",
@@ -2700,8 +2700,8 @@
    }
   ],
   "jp": "盗賊団頭目",
-  "en": "",
-  "status": ""
+  "en": "Thief Leader",
+  "status": "done"
  },
  {
   "id": "eboot_259D18",
@@ -2714,8 +2714,8 @@
    }
   ],
   "jp": "斥候",
-  "en": "",
-  "status": ""
+  "en": "Scout",
+  "status": "done"
  },
  {
   "id": "eboot_259D20",
@@ -2728,8 +2728,8 @@
    }
   ],
   "jp": "私兵団兵",
-  "en": "",
-  "status": ""
+  "en": "Guard Soldier",
+  "status": "done"
  },
  {
   "id": "eboot_259D2C",
@@ -2742,8 +2742,8 @@
    }
   ],
   "jp": "盗賊団伝令",
-  "en": "",
-  "status": ""
+  "en": "Thief Messenger",
+  "status": "done"
  },
  {
   "id": "eboot_259D38",
@@ -2756,8 +2756,8 @@
    }
   ],
   "jp": "ミゼルの子分",
-  "en": "",
-  "status": ""
+  "en": "Mizer's Goon",
+  "status": "done"
  },
  {
   "id": "eboot_259D48",
@@ -2770,8 +2770,8 @@
    }
   ],
   "jp": "生存者",
-  "en": "",
-  "status": ""
+  "en": "Survivor",
+  "status": "done"
  },
  {
   "id": "eboot_259D50",
@@ -2784,8 +2784,8 @@
    }
   ],
   "jp": "いきなり魔女っ娘",
-  "en": "",
-  "status": ""
+  "en": "Sudden Witch Girl",
+  "status": "done"
  },
  {
   "id": "eboot_259D64",
@@ -2798,8 +2798,8 @@
    }
   ],
   "jp": "水夫",
-  "en": "",
-  "status": ""
+  "en": "Sailor",
+  "status": "done"
  },
  {
   "id": "eboot_259D6C",
@@ -2812,8 +2812,8 @@
    }
   ],
   "jp": "領民",
-  "en": "",
-  "status": ""
+  "en": "Villager",
+  "status": "done"
  },
  {
   "id": "eboot_259D74",
@@ -2826,8 +2826,8 @@
    }
   ],
   "jp": "金髪の傭兵",
-  "en": "",
-  "status": ""
+  "en": "Blonde Mercenary",
+  "status": "done"
  },
  {
   "id": "eboot_259D80",
@@ -2840,8 +2840,8 @@
    }
   ],
   "jp": "大将らしき無精男",
-  "en": "",
-  "status": ""
+  "en": "Scruffy Chief-Like Man",
+  "status": "done"
  },
  {
   "id": "eboot_259D94",
@@ -2854,8 +2854,8 @@
    }
   ],
   "jp": "目隠しの男",
-  "en": "",
-  "status": ""
+  "en": "Blindfolded Man",
+  "status": "done"
  },
  {
   "id": "eboot_259DA0",
@@ -2868,8 +2868,8 @@
    }
   ],
   "jp": "黒髪の美少女",
-  "en": "",
-  "status": ""
+  "en": "Black-Haired Beauty",
+  "status": "done"
  },
  {
   "id": "eboot_259DB0",
@@ -2882,8 +2882,8 @@
    }
   ],
   "jp": "山賊の首領",
-  "en": "",
-  "status": ""
+  "en": "Brigand Chief",
+  "status": "done"
  },
  {
   "id": "eboot_259DBC",
@@ -2896,8 +2896,8 @@
    }
   ],
   "jp": "役人",
-  "en": "",
-  "status": ""
+  "en": "Official",
+  "status": "done"
  },
  {
   "id": "eboot_259DC4",
@@ -2910,8 +2910,8 @@
    }
   ],
   "jp": "兵士",
-  "en": "",
-  "status": ""
+  "en": "Soldier",
+  "status": "done"
  },
  {
   "id": "eboot_259DCC",
@@ -2924,8 +2924,8 @@
    }
   ],
   "jp": "鋼鉄騎団兵",
-  "en": "",
-  "status": ""
+  "en": "Steel Knight",
+  "status": "done"
  },
  {
   "id": "eboot_259DD8",
@@ -2938,8 +2938,8 @@
    }
   ],
   "jp": "若い女性",
-  "en": "",
-  "status": ""
+  "en": "Young Woman",
+  "status": "done"
  },
  {
   "id": "eboot_259DE4",
@@ -2952,8 +2952,8 @@
    }
   ],
   "jp": "神秘的な女性",
-  "en": "",
-  "status": ""
+  "en": "Mysterious Woman",
+  "status": "done"
  },
  {
   "id": "eboot_259DF4",
@@ -2966,8 +2966,8 @@
    }
   ],
   "jp": "闇夜に響く声",
-  "en": "",
-  "status": ""
+  "en": "Voice in the Dark",
+  "status": "done"
  },
  {
   "id": "eboot_259E04",
@@ -2980,8 +2980,8 @@
    }
   ],
   "jp": "偵察隊",
-  "en": "",
-  "status": ""
+  "en": "Scouts",
+  "status": "done"
  },
  {
   "id": "eboot_259E0C",
@@ -2994,8 +2994,8 @@
    }
   ],
   "jp": "ガーロット？",
-  "en": "",
-  "status": ""
+  "en": "Garlot?",
+  "status": "done"
  },
  {
   "id": "eboot_259E1C",
@@ -3008,8 +3008,8 @@
    }
   ],
   "jp": "志願兵",
-  "en": "",
-  "status": ""
+  "en": "Volunteer",
+  "status": "done"
  },
  {
   "id": "eboot_259E24",
@@ -3022,8 +3022,8 @@
    }
   ],
   "jp": "伝令",
-  "en": "",
-  "status": ""
+  "en": "Messenger",
+  "status": "done"
  },
  {
   "id": "eboot_259E2C",
@@ -3036,8 +3036,8 @@
    }
   ],
   "jp": "王国軍の将校",
-  "en": "",
-  "status": ""
+  "en": "Royal Officer",
+  "status": "done"
  },
  {
   "id": "eboot_259E3C",
@@ -3050,8 +3050,8 @@
    }
   ],
   "jp": "高貴な服装の男性",
-  "en": "",
-  "status": ""
+  "en": "Noble-Dressed Man",
+  "status": "done"
  },
  {
   "id": "eboot_259E50",
@@ -3064,8 +3064,8 @@
    }
   ],
   "jp": "エイミ",
-  "en": "",
-  "status": ""
+  "en": "Eimi",
+  "status": "done"
  },
  {
   "id": "eboot_259E58",
@@ -3078,8 +3078,8 @@
    }
   ],
   "jp": "エレナ",
-  "en": "",
-  "status": ""
+  "en": "Elena",
+  "status": "done"
  },
  {
   "id": "eboot_259E60",
@@ -3092,8 +3092,8 @@
    }
   ],
   "jp": "ユグドラ",
-  "en": "",
-  "status": ""
+  "en": "Yggdra",
+  "status": "done"
  },
  {
   "id": "eboot_259E6C",
@@ -3106,8 +3106,8 @@
    }
   ],
   "jp": "子供",
-  "en": "",
-  "status": ""
+  "en": "Child",
+  "status": "done"
  },
  {
   "id": "eboot_259E74",
@@ -3120,8 +3120,8 @@
    }
   ],
   "jp": "女性",
-  "en": "",
-  "status": ""
+  "en": "Woman",
+  "status": "done"
  },
  {
   "id": "eboot_259E7C",
@@ -3134,8 +3134,8 @@
    }
   ],
   "jp": "青年",
-  "en": "",
-  "status": ""
+  "en": "Youth",
+  "status": "done"
  },
  {
   "id": "eboot_259E84",
@@ -3148,8 +3148,8 @@
    }
   ],
   "jp": "男性",
-  "en": "",
-  "status": ""
+  "en": "Man",
+  "status": "done"
  },
  {
   "id": "eboot_259E8C",
@@ -3162,8 +3162,8 @@
    }
   ],
   "jp": "老人",
-  "en": "",
-  "status": ""
+  "en": "Old Man",
+  "status": "done"
  },
  {
   "id": "eboot_259E94",
@@ -3176,8 +3176,8 @@
    }
   ],
   "jp": "老婆",
-  "en": "",
-  "status": ""
+  "en": "Old Woman",
+  "status": "done"
  },
  {
   "id": "eboot_259E9C",
@@ -3190,8 +3190,8 @@
    }
   ],
   "jp": "母親",
-  "en": "",
-  "status": ""
+  "en": "Mother",
+  "status": "done"
  },
  {
   "id": "eboot_259EA4",
@@ -3204,8 +3204,8 @@
    }
   ],
   "jp": "商人",
-  "en": "",
-  "status": ""
+  "en": "Merchant",
+  "status": "done"
  },
  {
   "id": "eboot_259EAC",
@@ -3218,8 +3218,8 @@
    }
   ],
   "jp": "負傷兵",
-  "en": "",
-  "status": ""
+  "en": "Wounded Soldier",
+  "status": "done"
  },
  {
   "id": "eboot_259EB4",
@@ -3232,8 +3232,8 @@
    }
   ],
   "jp": "密偵",
-  "en": "",
-  "status": ""
+  "en": "Spy",
+  "status": "done"
  },
  {
   "id": "eboot_259EBC",
@@ -3246,8 +3246,8 @@
    }
   ],
   "jp": "王都住民",
-  "en": "",
-  "status": ""
+  "en": "Royal Capital Resident",
+  "status": "done"
  },
  {
   "id": "eboot_259EC8",
@@ -3260,8 +3260,8 @@
    }
   ],
   "jp": "お姉さん",
-  "en": "",
-  "status": ""
+  "en": "Young Lady",
+  "status": "done"
  },
  {
   "id": "eboot_259ED4",
@@ -3274,8 +3274,8 @@
    }
   ],
   "jp": "帝国軍兵",
-  "en": "",
-  "status": ""
+  "en": "Imperial Soldier",
+  "status": "done"
  },
  {
   "id": "eboot_259EE0",
@@ -3288,8 +3288,8 @@
    }
   ],
   "jp": "帝都住民",
-  "en": "",
-  "status": ""
+  "en": "Imperial Capital Resident",
+  "status": "done"
  },
  {
   "id": "eboot_259EEC",
@@ -3302,8 +3302,8 @@
    }
   ],
   "jp": "ニーベル街区住民",
-  "en": "",
-  "status": ""
+  "en": "Nibel Quarter Resident",
+  "status": "done"
  },
  {
   "id": "eboot_259F00",
@@ -3316,8 +3316,8 @@
    }
   ],
   "jp": "ネザー地区住民",
-  "en": "",
-  "status": ""
+  "en": "Nether District Resident",
+  "status": "done"
  },
  {
   "id": "eboot_259F10",
@@ -3330,8 +3330,8 @@
    }
   ],
   "jp": "反乱軍兵",
-  "en": "",
-  "status": ""
+  "en": "Rebel Soldier",
+  "status": "done"
  },
  {
   "id": "eboot_259F1C",
@@ -3344,8 +3344,8 @@
    }
   ],
   "jp": "妖精",
-  "en": "",
-  "status": ""
+  "en": "Fairy",
+  "status": "done"
  },
  {
   "id": "eboot_259F24",
@@ -3358,8 +3358,8 @@
    }
   ],
   "jp": "神生教団員",
-  "en": "",
-  "status": ""
+  "en": "Papal Army Member",
+  "status": "done"
  },
  {
   "id": "eboot_259F30",
@@ -3372,8 +3372,8 @@
    }
   ],
   "jp": "神父",
-  "en": "",
-  "status": ""
+  "en": "Priest",
+  "status": "done"
  },
  {
   "id": "eboot_259F38",
@@ -3386,8 +3386,8 @@
    }
   ],
   "jp": "男",
-  "en": "",
-  "status": ""
+  "en": "Man",
+  "status": "done"
  },
  {
   "id": "eboot_259F3C",
@@ -3400,8 +3400,8 @@
    }
   ],
   "jp": "魔導師",
-  "en": "",
-  "status": ""
+  "en": "Mage",
+  "status": "done"
  },
  {
   "id": "eboot_259F44",
@@ -3414,8 +3414,8 @@
    }
   ],
   "jp": "遊牧民",
-  "en": "",
-  "status": ""
+  "en": "Nomad",
+  "status": "done"
  },
  {
   "id": "eboot_259F4C",
@@ -3428,8 +3428,8 @@
    }
   ],
   "jp": "地図職人",
-  "en": "",
-  "status": ""
+  "en": "Mapmaker",
+  "status": "done"
  },
  {
   "id": "eboot_259F58",
@@ -3442,8 +3442,8 @@
    }
   ],
   "jp": "オヤカタ",
-  "en": "",
-  "status": ""
+  "en": "Foreman",
+  "status": "done"
  },
  {
   "id": "eboot_259F64",
@@ -3456,8 +3456,8 @@
    }
   ],
   "jp": "デシ",
-  "en": "",
-  "status": ""
+  "en": "Apprentice",
+  "status": "done"
  },
  {
   "id": "eboot_259F6C",
@@ -3470,8 +3470,8 @@
    }
   ],
   "jp": "鉱夫",
-  "en": "",
-  "status": ""
+  "en": "Miner",
+  "status": "done"
  },
  {
   "id": "eboot_259F74",
@@ -3484,8 +3484,8 @@
    }
   ],
   "jp": "旅人",
-  "en": "",
-  "status": ""
+  "en": "Traveler",
+  "status": "done"
  },
  {
   "id": "eboot_259F7C",
@@ -3498,8 +3498,8 @@
    }
   ],
   "jp": "傑士",
-  "en": "",
-  "status": ""
+  "en": "Great Man",
+  "status": "done"
  },
  {
   "id": "eboot_259F84",
@@ -3512,8 +3512,8 @@
    }
   ],
   "jp": "女の子",
-  "en": "",
-  "status": ""
+  "en": "Girl",
+  "status": "done"
  },
  {
   "id": "eboot_259F8C",
@@ -3526,8 +3526,8 @@
    }
   ],
   "jp": "怪しい男",
-  "en": "",
-  "status": ""
+  "en": "Suspicious Man",
+  "status": "done"
  },
  {
   "id": "eboot_259F98",
@@ -3540,8 +3540,8 @@
    }
   ],
   "jp": "骸の青年",
-  "en": "",
-  "status": ""
+  "en": "Skeletal Youth",
+  "status": "done"
  },
  {
   "id": "eboot_259FA4",
@@ -3554,8 +3554,8 @@
    }
   ],
   "jp": "酒場の看板娘",
-  "en": "",
-  "status": ""
+  "en": "Tavern Poster Girl",
+  "status": "done"
  },
  {
   "id": "eboot_259FB4",
@@ -3568,8 +3568,8 @@
    }
   ],
   "jp": "山師",
-  "en": "",
-  "status": ""
+  "en": "Prospector",
+  "status": "done"
  },
  {
   "id": "eboot_259FBC",
@@ -3582,8 +3582,8 @@
    }
   ],
   "jp": "孤児院の少女",
-  "en": "",
-  "status": ""
+  "en": "Orphanage Girl",
+  "status": "done"
  },
  {
   "id": "eboot_259FCC",
@@ -3596,8 +3596,8 @@
    }
   ],
   "jp": "鍛冶屋",
-  "en": "",
-  "status": ""
+  "en": "Blacksmith",
+  "status": "done"
  },
  {
   "id": "eboot_259FD4",
@@ -3610,8 +3610,8 @@
    }
   ],
   "jp": "木こり",
-  "en": "",
-  "status": ""
+  "en": "Woodcutter",
+  "status": "done"
  },
  {
   "id": "eboot_259FDC",
@@ -3624,8 +3624,8 @@
    }
   ],
   "jp": "隠者",
-  "en": "",
-  "status": ""
+  "en": "Hermit",
+  "status": "done"
  },
  {
   "id": "eboot_259FE4",
@@ -3638,8 +3638,8 @@
    }
   ],
   "jp": "露天商",
-  "en": "",
-  "status": ""
+  "en": "Street Vendor",
+  "status": "done"
  },
  {
   "id": "eboot_259FEC",
@@ -3652,8 +3652,8 @@
    }
   ],
   "jp": "警備兵",
-  "en": "",
-  "status": ""
+  "en": "Guard",
+  "status": "done"
  },
  {
   "id": "eboot_259FF4",
@@ -3666,8 +3666,8 @@
    }
   ],
   "jp": "指輪コレクター",
-  "en": "",
-  "status": ""
+  "en": "Ring Collector",
+  "status": "done"
  },
  {
   "id": "eboot_25A004",
@@ -3680,8 +3680,8 @@
    }
   ],
   "jp": "日記マニア",
-  "en": "",
-  "status": ""
+  "en": "Diary Fanatic",
+  "status": "done"
  },
  {
   "id": "eboot_25A010",
@@ -3694,8 +3694,8 @@
    }
   ],
   "jp": "農婦",
-  "en": "",
-  "status": ""
+  "en": "Farm Woman",
+  "status": "done"
  },
  {
   "id": "eboot_25A018",
@@ -3708,8 +3708,8 @@
    }
   ],
   "jp": "毛皮職人",
-  "en": "",
-  "status": ""
+  "en": "Furrier",
+  "status": "done"
  },
  {
   "id": "eboot_25A024",
@@ -3722,8 +3722,8 @@
    }
   ],
   "jp": "軽い態度の妖精",
-  "en": "",
-  "status": ""
+  "en": "Flippant Fairy",
+  "status": "done"
  },
  {
   "id": "eboot_25A034",
@@ -3736,8 +3736,8 @@
    }
   ],
   "jp": "見張りの妖精",
-  "en": "",
-  "status": ""
+  "en": "Lookout Fairy",
+  "status": "done"
  },
  {
   "id": "eboot_25A044",
@@ -3750,8 +3750,8 @@
    }
   ],
   "jp": "給仕のお姉さん",
-  "en": "",
-  "status": ""
+  "en": "Waitress",
+  "status": "done"
  },
  {
   "id": "eboot_25A054",
@@ -3764,8 +3764,8 @@
    }
   ],
   "jp": "魔女",
-  "en": "",
-  "status": ""
+  "en": "Witch",
+  "status": "done"
  },
  {
   "id": "eboot_25A05C",
@@ -3778,8 +3778,8 @@
    }
   ],
   "jp": "工芸職人",
-  "en": "",
-  "status": ""
+  "en": "Craftsman",
+  "status": "done"
  },
  {
   "id": "eboot_25A068",
@@ -3792,8 +3792,8 @@
    }
   ],
   "jp": "ゲンジ",
-  "en": "",
-  "status": ""
+  "en": "Genji",
+  "status": "done"
  },
  {
   "id": "eboot_25A070",
@@ -3806,8 +3806,8 @@
    }
   ],
   "jp": "ゲンゴ",
-  "en": "",
-  "status": ""
+  "en": "Gengo",
+  "status": "done"
  },
  {
   "id": "eboot_25A078",
@@ -3820,8 +3820,8 @@
    }
   ],
   "jp": "ゲンナ",
-  "en": "",
-  "status": ""
+  "en": "Genna",
+  "status": "done"
  },
  {
   "id": "eboot_25A080",
@@ -3834,8 +3834,8 @@
    }
   ],
   "jp": "狩人",
-  "en": "",
-  "status": ""
+  "en": "Hunter",
+  "status": "done"
  },
  {
   "id": "eboot_25A088",
@@ -3848,8 +3848,8 @@
    }
   ],
   "jp": "グルメ少女",
-  "en": "",
-  "status": ""
+  "en": "Gourmet Girl",
+  "status": "done"
  },
  {
   "id": "eboot_25A094",
@@ -3862,8 +3862,8 @@
    }
   ],
   "jp": "飲んだくれ",
-  "en": "",
-  "status": ""
+  "en": "Drunkard",
+  "status": "done"
  },
  {
   "id": "eboot_25A0A0",
@@ -3876,8 +3876,8 @@
    }
   ],
   "jp": "魔術師",
-  "en": "",
-  "status": ""
+  "en": "Sorcerer",
+  "status": "done"
  },
  {
   "id": "eboot_25A0A8",
@@ -3890,8 +3890,8 @@
    }
   ],
   "jp": "錬金術師",
-  "en": "",
-  "status": ""
+  "en": "Alchemist",
+  "status": "done"
  },
  {
   "id": "eboot_25A0B4",
@@ -3904,8 +3904,8 @@
    }
   ],
   "jp": "店主",
-  "en": "",
-  "status": ""
+  "en": "Shopkeeper",
+  "status": "done"
  },
  {
   "id": "eboot_25A0BC",
@@ -3918,8 +3918,8 @@
    }
   ],
   "jp": "武器職人",
-  "en": "",
-  "status": ""
+  "en": "Weaponsmith",
+  "status": "done"
  },
  {
   "id": "eboot_25A0C8",
@@ -3932,8 +3932,8 @@
    }
   ],
   "jp": "貴族",
-  "en": "",
-  "status": ""
+  "en": "Noble",
+  "status": "done"
  },
  {
   "id": "eboot_25A0D0",
@@ -3946,8 +3946,8 @@
    }
   ],
   "jp": "養鶏場のお姉さん",
-  "en": "",
-  "status": ""
+  "en": "Chicken Farm Lady",
+  "status": "done"
  },
  {
   "id": "eboot_25A0E4",
@@ -3960,8 +3960,8 @@
    }
   ],
   "jp": "監視の老婆",
-  "en": "",
-  "status": ""
+  "en": "Lookout Old Woman",
+  "status": "done"
  },
  {
   "id": "eboot_25A0F0",
@@ -3974,8 +3974,8 @@
    }
   ],
   "jp": "橋守り",
-  "en": "",
-  "status": ""
+  "en": "Bridge Keeper",
+  "status": "done"
  },
  {
   "id": "eboot_25A0F8",
@@ -3988,8 +3988,8 @@
    }
   ],
   "jp": "爺さん",
-  "en": "",
-  "status": ""
+  "en": "Old Man",
+  "status": "done"
  },
  {
   "id": "eboot_25A100",
@@ -4002,8 +4002,8 @@
    }
   ],
   "jp": "アセラ湖",
-  "en": "",
-  "status": ""
+  "en": "Lake Asera",
+  "status": "done"
  },
  {
   "id": "eboot_25A10C",
@@ -4016,8 +4016,8 @@
    }
   ],
   "jp": "アッサム通り",
-  "en": "",
-  "status": ""
+  "en": "Assam Avenue",
+  "status": "done"
  },
  {
   "id": "eboot_25A11C",
@@ -4030,8 +4030,8 @@
    }
   ],
   "jp": "アライク孤児院",
-  "en": "",
-  "status": ""
+  "en": "Alaik Orphanage",
+  "status": "done"
  },
  {
   "id": "eboot_25A12C",
@@ -4044,8 +4044,8 @@
    }
   ],
   "jp": "要塞内溝渠",
-  "en": "",
-  "status": ""
+  "en": "Fortress Canal",
+  "status": "done"
  },
  {
   "id": "eboot_25A138",
@@ -4058,8 +4058,8 @@
    }
   ],
   "jp": "ヴェルマン邸",
-  "en": "",
-  "status": ""
+  "en": "Velleman Manor",
+  "status": "done"
  },
  {
   "id": "eboot_25A148",
@@ -4072,8 +4072,8 @@
    }
   ],
   "jp": "ヴェルマン邸脇",
-  "en": "",
-  "status": ""
+  "en": "Beside Velleman's Manor",
+  "status": "done"
  },
  {
   "id": "eboot_25A158",
@@ -4086,8 +4086,8 @@
    }
   ],
   "jp": "エリス居住区",
-  "en": "",
-  "status": ""
+  "en": "Eris Residential Quarter",
+  "status": "done"
  },
  {
   "id": "eboot_25A168",
@@ -4100,8 +4100,8 @@
    }
   ],
   "jp": "オアシス",
-  "en": "",
-  "status": ""
+  "en": "Oasis",
+  "status": "done"
  },
  {
   "id": "eboot_25A174",
@@ -4114,8 +4114,8 @@
    }
   ],
   "jp": "グルメ館",
-  "en": "",
-  "status": ""
+  "en": "Gourmet House",
+  "status": "done"
  },
  {
   "id": "eboot_25A180",
@@ -4128,8 +4128,8 @@
    }
   ],
   "jp": "グロフの町",
-  "en": "",
-  "status": ""
+  "en": "Town of Groff",
+  "status": "done"
  },
  {
   "id": "eboot_25A18C",
@@ -4142,8 +4142,8 @@
    }
   ],
   "jp": "ケルヌガ砦",
-  "en": "",
-  "status": ""
+  "en": "Kernuga Fort",
+  "status": "done"
  },
  {
   "id": "eboot_25A198",
@@ -4156,8 +4156,8 @@
    }
   ],
   "jp": "ケルヌガ市",
-  "en": "",
-  "status": ""
+  "en": "Kernuga City",
+  "status": "done"
  },
  {
   "id": "eboot_25A1A4",
@@ -4170,8 +4170,8 @@
    }
   ],
   "jp": "ゲンゴの小屋",
-  "en": "",
-  "status": ""
+  "en": "Gengo's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A1B4",
@@ -4184,8 +4184,8 @@
    }
   ],
   "jp": "ゲンジの小屋",
-  "en": "",
-  "status": ""
+  "en": "Genji's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A1C4",
@@ -4198,8 +4198,8 @@
    }
   ],
   "jp": "ゲンナの小屋",
-  "en": "",
-  "status": ""
+  "en": "Genna's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A1D4",
@@ -4212,8 +4212,8 @@
    }
   ],
   "jp": "ココリ林",
-  "en": "",
-  "status": ""
+  "en": "Cocori Grove",
+  "status": "done"
  },
  {
   "id": "eboot_25A1E0",
@@ -4226,8 +4226,8 @@
    }
   ],
   "jp": "サルバ市",
-  "en": "",
-  "status": ""
+  "en": "Salva City",
+  "status": "done"
  },
  {
   "id": "eboot_25A1EC",
@@ -4240,8 +4240,8 @@
    }
   ],
   "jp": "ジェノマ砦",
-  "en": "",
-  "status": ""
+  "en": "Genoma Fort",
+  "status": "done"
  },
  {
   "id": "eboot_25A1F8",
@@ -4254,8 +4254,8 @@
    }
   ],
   "jp": "シャーミネル市",
-  "en": "",
-  "status": ""
+  "en": "Sharminel City",
+  "status": "done"
  },
  {
   "id": "eboot_25A208",
@@ -4268,8 +4268,8 @@
    }
   ],
   "jp": "シャーミネル砦",
-  "en": "",
-  "status": ""
+  "en": "Sharminel Fort",
+  "status": "done"
  },
  {
   "id": "eboot_25A218",
@@ -4282,8 +4282,8 @@
    }
   ],
   "jp": "ショップマキナ",
-  "en": "",
-  "status": ""
+  "en": "Shop Machina",
+  "status": "done"
  },
  {
   "id": "eboot_25A228",
@@ -4296,8 +4296,8 @@
    }
   ],
   "jp": "ソネッタの街",
-  "en": "",
-  "status": ""
+  "en": "Town of Sonetta",
+  "status": "done"
  },
  {
   "id": "eboot_25A238",
@@ -4310,8 +4310,8 @@
    }
   ],
   "jp": "デシの家",
-  "en": "",
-  "status": ""
+  "en": "Apprentice's House",
+  "status": "done"
  },
  {
   "id": "eboot_25A244",
@@ -4324,8 +4324,8 @@
    }
   ],
   "jp": "トカニク修道院",
-  "en": "",
-  "status": ""
+  "en": "Tokaniku Monastery",
+  "status": "done"
  },
  {
   "id": "eboot_25A254",
@@ -4338,8 +4338,8 @@
    }
   ],
   "jp": "トキノの関所",
-  "en": "",
-  "status": ""
+  "en": "Tokino Checkpoint",
+  "status": "done"
  },
  {
   "id": "eboot_25A264",
@@ -4352,8 +4352,8 @@
    }
   ],
   "jp": "トキノ中央砦",
-  "en": "",
-  "status": ""
+  "en": "Tokino Central Fort",
+  "status": "done"
  },
  {
   "id": "eboot_25A274",
@@ -4366,8 +4366,8 @@
    }
   ],
   "jp": "トリビデの村",
-  "en": "",
-  "status": ""
+  "en": "Toribide Village",
+  "status": "done"
  },
  {
   "id": "eboot_25A284",
@@ -4380,8 +4380,8 @@
    }
   ],
   "jp": "ぬかるみ",
-  "en": "",
-  "status": ""
+  "en": "The Mud",
+  "status": "done"
  },
  {
   "id": "eboot_25A290",
@@ -4394,8 +4394,8 @@
    }
   ],
   "jp": "ノーセイユ区",
-  "en": "",
-  "status": ""
+  "en": "Norseille Ward",
+  "status": "done"
  },
  {
   "id": "eboot_25A2A0",
@@ -4408,8 +4408,8 @@
    }
   ],
   "jp": "バハラの荘園跡",
-  "en": "",
-  "status": ""
+  "en": "Bahara Manor Ruins",
+  "status": "done"
  },
  {
   "id": "eboot_25A2B0",
@@ -4422,8 +4422,8 @@
    }
   ],
   "jp": "バルーダー市",
-  "en": "",
-  "status": ""
+  "en": "Balder City",
+  "status": "done"
  },
  {
   "id": "eboot_25A2C0",
@@ -4436,8 +4436,8 @@
    }
   ],
   "jp": "パンドラ砦",
-  "en": "",
-  "status": ""
+  "en": "Pandra Fort",
+  "status": "done"
  },
  {
   "id": "eboot_25A2CC",
@@ -4450,8 +4450,8 @@
    }
   ],
   "jp": "ビスタ川の集落",
-  "en": "",
-  "status": ""
+  "en": "Vista River Settlement",
+  "status": "done"
  },
  {
   "id": "eboot_25A2DC",
@@ -4464,8 +4464,8 @@
    }
   ],
   "jp": "ひとけの無い館",
-  "en": "",
-  "status": ""
+  "en": "Deserted Manor",
+  "status": "done"
  },
  {
   "id": "eboot_25A2EC",
@@ -4478,8 +4478,8 @@
    }
   ],
   "jp": "フラウベ村",
-  "en": "",
-  "status": ""
+  "en": "Flaube Village",
+  "status": "done"
  },
  {
   "id": "eboot_25A2F8",
@@ -4492,8 +4492,8 @@
    }
   ],
   "jp": "マロゥの森",
-  "en": "",
-  "status": ""
+  "en": "Marrow Forest",
+  "status": "done"
  },
  {
   "id": "eboot_25A304",
@@ -4506,8 +4506,8 @@
    }
   ],
   "jp": "マーロイの集落",
-  "en": "",
-  "status": ""
+  "en": "Marloy Settlement",
+  "status": "done"
  },
  {
   "id": "eboot_25A314",
@@ -4520,8 +4520,8 @@
    }
   ],
   "jp": "ミゼルの隠れ家",
-  "en": "",
-  "status": ""
+  "en": "Mizer's Hideout",
+  "status": "done"
  },
  {
   "id": "eboot_25A324",
@@ -4534,8 +4534,8 @@
    }
   ],
   "jp": "ミゼル離脱地点",
-  "en": "",
-  "status": ""
+  "en": "Mizer's Exit Point",
+  "status": "done"
  },
  {
   "id": "eboot_25A334",
@@ -4548,8 +4548,8 @@
    }
   ],
   "jp": "ミネルロード",
-  "en": "",
-  "status": ""
+  "en": "Miner Road",
+  "status": "done"
  },
  {
   "id": "eboot_25A344",
@@ -4562,8 +4562,8 @@
    }
   ],
   "jp": "ミリアの廃屋",
-  "en": "",
-  "status": ""
+  "en": "Miria's Ruined House",
+  "status": "done"
  },
  {
   "id": "eboot_25A354",
@@ -4576,8 +4576,8 @@
    }
   ],
   "jp": "ムンバール農村",
-  "en": "",
-  "status": ""
+  "en": "Mumbar Farm Village",
+  "status": "done"
  },
  {
   "id": "eboot_25A364",
@@ -4590,8 +4590,8 @@
    }
   ],
   "jp": "メガネ女の大砲",
-  "en": "",
-  "status": ""
+  "en": "Glasses Woman's Cannon",
+  "status": "done"
  },
  {
   "id": "eboot_25A374",
@@ -4604,8 +4604,8 @@
    }
   ],
   "jp": "メプルの木",
-  "en": "",
-  "status": ""
+  "en": "Mepuru Tree",
+  "status": "done"
  },
  {
   "id": "eboot_25A380",
@@ -4618,8 +4618,8 @@
    }
   ],
   "jp": "メーテ武器工房",
-  "en": "",
-  "status": ""
+  "en": "Mete Weapons Workshop",
+  "status": "done"
  },
  {
   "id": "eboot_25A390",
@@ -4632,8 +4632,8 @@
    }
   ],
   "jp": "モヴの木",
-  "en": "",
-  "status": ""
+  "en": "Mov Tree",
+  "status": "done"
  },
  {
   "id": "eboot_25A39C",
@@ -4646,8 +4646,8 @@
    }
   ],
   "jp": "モザレフの村",
-  "en": "",
-  "status": ""
+  "en": "Mozaref Village",
+  "status": "done"
  },
  {
   "id": "eboot_25A3AC",
@@ -4660,8 +4660,8 @@
    }
   ],
   "jp": "ユーディの大砲",
-  "en": "",
-  "status": ""
+  "en": "Eudy's Cannon",
+  "status": "done"
  },
  {
   "id": "eboot_25A3BC",
@@ -4674,8 +4674,8 @@
    }
   ],
   "jp": "ライネの街",
-  "en": "",
-  "status": ""
+  "en": "Town of Raine",
+  "status": "done"
  },
  {
   "id": "eboot_25A3C8",
@@ -4688,8 +4688,8 @@
    }
   ],
   "jp": "ラネシァ川",
-  "en": "",
-  "status": ""
+  "en": "Ranesha River",
+  "status": "done"
  },
  {
   "id": "eboot_25A3D4",
@@ -4702,8 +4702,8 @@
    }
   ],
   "jp": "ラーゼス廃村",
-  "en": "",
-  "status": ""
+  "en": "Razes Ruined Village",
+  "status": "done"
  },
  {
   "id": "eboot_25A3E4",
@@ -4716,8 +4716,8 @@
    }
   ],
   "jp": "リヴィア市",
-  "en": "",
-  "status": ""
+  "en": "Livia City",
+  "status": "done"
  },
  {
   "id": "eboot_25A3F0",
@@ -4730,8 +4730,8 @@
    }
   ],
   "jp": "リラ市",
-  "en": "",
-  "status": ""
+  "en": "Lila City",
+  "status": "done"
  },
  {
   "id": "eboot_25A3F8",
@@ -4744,8 +4744,8 @@
    }
   ],
   "jp": "りんごの木",
-  "en": "",
-  "status": ""
+  "en": "Apple Tree",
+  "status": "done"
  },
  {
   "id": "eboot_25A404",
@@ -4758,8 +4758,8 @@
    }
   ],
   "jp": "リーブルの町",
-  "en": "",
-  "status": ""
+  "en": "Town of Lieble",
+  "status": "done"
  },
  {
   "id": "eboot_25A414",
@@ -4772,8 +4772,8 @@
    }
   ],
   "jp": "ロドニー街道",
-  "en": "",
-  "status": ""
+  "en": "Rodney Road",
+  "status": "done"
  },
  {
   "id": "eboot_25A424",
@@ -4786,8 +4786,8 @@
    }
   ],
   "jp": "ロナリス砦物置",
-  "en": "",
-  "status": ""
+  "en": "Ronaris Fort Storeroom",
+  "status": "done"
  },
  {
   "id": "eboot_25A434",
@@ -4800,8 +4800,8 @@
    }
   ],
   "jp": "ワドニムの町",
-  "en": "",
-  "status": ""
+  "en": "Town of Wadonim",
+  "status": "done"
  },
  {
   "id": "eboot_25A444",
@@ -4814,8 +4814,8 @@
    }
   ],
   "jp": "飲んだくれ小屋",
-  "en": "",
-  "status": ""
+  "en": "Drunkard's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A454",
@@ -4828,8 +4828,8 @@
    }
   ],
   "jp": "隠者の庵",
-  "en": "",
-  "status": ""
+  "en": "Hermit's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A460",
@@ -4842,8 +4842,8 @@
    }
   ],
   "jp": "奥深くの山小屋",
-  "en": "",
-  "status": ""
+  "en": "Deep Mountain Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A470",
@@ -4856,8 +4856,8 @@
    }
   ],
   "jp": "王都の大砲",
-  "en": "",
-  "status": ""
+  "en": "Royal Capital Cannon",
+  "status": "done"
  },
  {
   "id": "eboot_25A47C",
@@ -4870,8 +4870,8 @@
    }
   ],
   "jp": "花畑",
-  "en": "",
-  "status": ""
+  "en": "Flower Field",
+  "status": "done"
  },
  {
   "id": "eboot_25A484",
@@ -4884,8 +4884,8 @@
    }
   ],
   "jp": "ほの暗い森の只中",
-  "en": "",
-  "status": ""
+  "en": "In the Dim Forest",
+  "status": "done"
  },
  {
   "id": "eboot_25A498",
@@ -4898,8 +4898,8 @@
    }
   ],
   "jp": "崖の下",
-  "en": "",
-  "status": ""
+  "en": "Below the Cliff",
+  "status": "done"
  },
  {
   "id": "eboot_25A4A0",
@@ -4912,8 +4912,8 @@
    }
   ],
   "jp": "街外れの小村",
-  "en": "",
-  "status": ""
+  "en": "Hamlet on the Outskirts",
+  "status": "done"
  },
  {
   "id": "eboot_25A4B0",
@@ -4926,8 +4926,8 @@
    }
   ],
   "jp": "街角の暗がり",
-  "en": "",
-  "status": ""
+  "en": "Dark Street Corner",
+  "status": "done"
  },
  {
   "id": "eboot_25A4C0",
@@ -4940,8 +4940,8 @@
    }
   ],
   "jp": "街道と砂漠の只中",
-  "en": "",
-  "status": ""
+  "en": "Between Road and Desert",
+  "status": "done"
  },
  {
   "id": "eboot_25A4D4",
@@ -4954,8 +4954,8 @@
    }
   ],
   "jp": "寒村エラク",
-  "en": "",
-  "status": ""
+  "en": "Erak, a Poor Village",
+  "status": "done"
  },
  {
   "id": "eboot_25A4E0",
@@ -4968,8 +4968,8 @@
    }
   ],
   "jp": "監視小屋",
-  "en": "",
-  "status": ""
+  "en": "Lookout Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A4EC",
@@ -4982,8 +4982,8 @@
    }
   ],
   "jp": "岩の台地",
-  "en": "",
-  "status": ""
+  "en": "Rocky Plateau",
+  "status": "done"
  },
  {
   "id": "eboot_25A4F8",
@@ -4996,8 +4996,8 @@
    }
   ],
   "jp": "岩場の影",
-  "en": "",
-  "status": ""
+  "en": "Shadow of the Rocks",
+  "status": "done"
  },
  {
   "id": "eboot_25A504",
@@ -5010,8 +5010,8 @@
    }
   ],
   "jp": "朽ち果てた神殿",
-  "en": "",
-  "status": ""
+  "en": "Decayed Temple",
+  "status": "done"
  },
  {
   "id": "eboot_25A514",
@@ -5024,8 +5024,8 @@
    }
   ],
   "jp": "橋のたもと",
-  "en": "",
-  "status": ""
+  "en": "Foot of the Bridge",
+  "status": "done"
  },
  {
   "id": "eboot_25A520",
@@ -5038,8 +5038,8 @@
    }
   ],
   "jp": "橋脚のふもと",
-  "en": "",
-  "status": ""
+  "en": "Base of the Bridge Pier",
+  "status": "done"
  },
  {
   "id": "eboot_25A530",
@@ -5052,8 +5052,8 @@
    }
   ],
   "jp": "橋守りの小屋",
-  "en": "",
-  "status": ""
+  "en": "Bridge Keeper's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A540",
@@ -5066,8 +5066,8 @@
    }
   ],
   "jp": "渓谷の岩壁",
-  "en": "",
-  "status": ""
+  "en": "Gorge Wall",
+  "status": "done"
  },
  {
   "id": "eboot_25A54C",
@@ -5080,8 +5080,8 @@
    }
   ],
   "jp": "傑士の家",
-  "en": "",
-  "status": ""
+  "en": "Great Man's House",
+  "status": "done"
  },
  {
   "id": "eboot_25A558",
@@ -5094,8 +5094,8 @@
    }
   ],
   "jp": "古木の森",
-  "en": "",
-  "status": ""
+  "en": "Old-Growth Forest",
+  "status": "done"
  },
  {
   "id": "eboot_25A564",
@@ -5108,8 +5108,8 @@
    }
   ],
   "jp": "湖畔の村アセラ",
-  "en": "",
-  "status": ""
+  "en": "Lakeside Village Asera",
+  "status": "done"
  },
  {
   "id": "eboot_25A574",
@@ -5122,8 +5122,8 @@
    }
   ],
   "jp": "広場",
-  "en": "",
-  "status": ""
+  "en": "Plaza",
+  "status": "done"
  },
  {
   "id": "eboot_25A57C",
@@ -5136,8 +5136,8 @@
    }
   ],
   "jp": "荒原の岩陰",
-  "en": "",
-  "status": ""
+  "en": "Behind the Wasteland Rocks",
+  "status": "done"
  },
  {
   "id": "eboot_25A588",
@@ -5150,8 +5150,8 @@
    }
   ],
   "jp": "荒野の村",
-  "en": "",
-  "status": ""
+  "en": "Wasteland Village",
+  "status": "done"
  },
  {
   "id": "eboot_25A594",
@@ -5164,8 +5164,8 @@
    }
   ],
   "jp": "鉱夫の安息所",
-  "en": "",
-  "status": ""
+  "en": "Miners' Rest",
+  "status": "done"
  },
  {
   "id": "eboot_25A5A4",
@@ -5178,8 +5178,8 @@
    }
   ],
   "jp": "高床の穀倉",
-  "en": "",
-  "status": ""
+  "en": "Raised Granary",
+  "status": "done"
  },
  {
   "id": "eboot_25A5B0",
@@ -5192,8 +5192,8 @@
    }
   ],
   "jp": "豪奢な屋敷",
-  "en": "",
-  "status": ""
+  "en": "Lavish Mansion",
+  "status": "done"
  },
  {
   "id": "eboot_25A5BC",
@@ -5206,8 +5206,8 @@
    }
   ],
   "jp": "座礁船の傍",
-  "en": "",
-  "status": ""
+  "en": "Beside the Stranded Ship",
+  "status": "done"
  },
  {
   "id": "eboot_25A5C8",
@@ -5220,8 +5220,8 @@
    }
   ],
   "jp": "祭壇",
-  "en": "",
-  "status": ""
+  "en": "Altar",
+  "status": "done"
  },
  {
   "id": "eboot_25A5D0",
@@ -5234,8 +5234,8 @@
    }
   ],
   "jp": "山小屋",
-  "en": "",
-  "status": ""
+  "en": "Mountain Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A5D8",
@@ -5248,8 +5248,8 @@
    }
   ],
   "jp": "桟道",
-  "en": "",
-  "status": ""
+  "en": "Cliff Road",
+  "status": "done"
  },
  {
   "id": "eboot_25A5E0",
@@ -5262,8 +5262,8 @@
    }
   ],
   "jp": "桟道の食事処",
-  "en": "",
-  "status": ""
+  "en": "Cliff Road Diner",
+  "status": "done"
  },
  {
   "id": "eboot_25A5F0",
@@ -5276,8 +5276,8 @@
    }
   ],
   "jp": "私兵団邸入り口",
-  "en": "",
-  "status": ""
+  "en": "Private Army Manor Entrance",
+  "status": "done"
  },
  {
   "id": "eboot_25A600",
@@ -5290,8 +5290,8 @@
    }
   ],
   "jp": "自警組織詰め所",
-  "en": "",
-  "status": ""
+  "en": "Vigilante Post",
+  "status": "done"
  },
  {
   "id": "eboot_25A610",
@@ -5304,8 +5304,8 @@
    }
   ],
   "jp": "狩人の家",
-  "en": "",
-  "status": ""
+  "en": "Hunter's House",
+  "status": "done"
  },
  {
   "id": "eboot_25A61C",
@@ -5318,8 +5318,8 @@
    }
   ],
   "jp": "呪いの巨岩",
-  "en": "",
-  "status": ""
+  "en": "Cursed Boulder",
+  "status": "done"
  },
  {
   "id": "eboot_25A628",
@@ -5332,8 +5332,8 @@
    }
   ],
   "jp": "収容所跡地？",
-  "en": "",
-  "status": ""
+  "en": "Former Camp?",
+  "status": "done"
  },
  {
   "id": "eboot_25A638",
@@ -5346,8 +5346,8 @@
    }
   ],
   "jp": "集合地点の台地",
-  "en": "",
-  "status": ""
+  "en": "Rendezvous Plateau",
+  "status": "done"
  },
  {
   "id": "eboot_25A648",
@@ -5360,8 +5360,8 @@
    }
   ],
   "jp": "柔らかな木立",
-  "en": "",
-  "status": ""
+  "en": "Gentle Grove",
+  "status": "done"
  },
  {
   "id": "eboot_25A658",
@@ -5374,8 +5374,8 @@
    }
   ],
   "jp": "処刑場跡地？",
-  "en": "",
-  "status": ""
+  "en": "Former Execution Ground?",
+  "status": "done"
  },
  {
   "id": "eboot_25A668",
@@ -5388,8 +5388,8 @@
    }
   ],
   "jp": "沼地の片隅",
-  "en": "",
-  "status": ""
+  "en": "Corner of the Swamp",
+  "status": "done"
  },
  {
   "id": "eboot_25A674",
@@ -5402,8 +5402,8 @@
    }
   ],
   "jp": "森の奥の湿地",
-  "en": "",
-  "status": ""
+  "en": "Marsh Deep in the Forest",
+  "status": "done"
  },
  {
   "id": "eboot_25A684",
@@ -5416,8 +5416,8 @@
    }
   ],
   "jp": "森の中の暗がり",
-  "en": "",
-  "status": ""
+  "en": "Dark Spot in the Forest",
+  "status": "done"
  },
  {
   "id": "eboot_25A694",
@@ -5430,8 +5430,8 @@
    }
   ],
   "jp": "森の中の集落",
-  "en": "",
-  "status": ""
+  "en": "Forest Settlement",
+  "status": "done"
  },
  {
   "id": "eboot_25A6A4",
@@ -5444,8 +5444,8 @@
    }
   ],
   "jp": "水面が光る湖",
-  "en": "",
-  "status": ""
+  "en": "Shining Lake",
+  "status": "done"
  },
  {
   "id": "eboot_25A6B4",
@@ -5458,8 +5458,8 @@
    }
   ],
   "jp": "水門の傍",
-  "en": "",
-  "status": ""
+  "en": "Beside the Floodgate",
+  "status": "done"
  },
  {
   "id": "eboot_25A6C0",
@@ -5472,8 +5472,8 @@
    }
   ],
   "jp": "西の往来",
-  "en": "",
-  "status": ""
+  "en": "West Thoroughfare",
+  "status": "done"
  },
  {
   "id": "eboot_25A6CC",
@@ -5486,8 +5486,8 @@
    }
   ],
   "jp": "西マーケット",
-  "en": "",
-  "status": ""
+  "en": "West Market",
+  "status": "done"
  },
  {
   "id": "eboot_25A6DC",
@@ -5500,8 +5500,8 @@
    }
   ],
   "jp": "西仮設街区",
-  "en": "",
-  "status": ""
+  "en": "West Temporary Quarter",
+  "status": "done"
  },
  {
   "id": "eboot_25A6E8",
@@ -5514,8 +5514,8 @@
    }
   ],
   "jp": "西砦",
-  "en": "",
-  "status": ""
+  "en": "West Fort",
+  "status": "done"
  },
  {
   "id": "eboot_25A6F0",
@@ -5528,8 +5528,8 @@
    }
   ],
   "jp": "石窟前",
-  "en": "",
-  "status": ""
+  "en": "Before the Grotto",
+  "status": "done"
  },
  {
   "id": "eboot_25A6F8",
@@ -5542,8 +5542,8 @@
    }
   ],
   "jp": "石組みの小屋",
-  "en": "",
-  "status": ""
+  "en": "Stone Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A708",
@@ -5556,8 +5556,8 @@
    }
   ],
   "jp": "川の流れの淀み",
-  "en": "",
-  "status": ""
+  "en": "Still River Pool",
+  "status": "done"
  },
  {
   "id": "eboot_25A718",
@@ -5570,8 +5570,8 @@
    }
   ],
   "jp": "川辺の草地",
-  "en": "",
-  "status": ""
+  "en": "Riverside Meadow",
+  "status": "done"
  },
  {
   "id": "eboot_25A724",
@@ -5584,8 +5584,8 @@
    }
   ],
   "jp": "船宿の軒下",
-  "en": "",
-  "status": ""
+  "en": "Under the Inn Eaves",
+  "status": "done"
  },
  {
   "id": "eboot_25A730",
@@ -5598,8 +5598,8 @@
    }
   ],
   "jp": "船宿の路地",
-  "en": "",
-  "status": ""
+  "en": "Inn Alley",
+  "status": "done"
  },
  {
   "id": "eboot_25A73C",
@@ -5612,8 +5612,8 @@
    }
   ],
   "jp": "草むら",
-  "en": "",
-  "status": ""
+  "en": "Thicket",
+  "status": "done"
  },
  {
   "id": "eboot_25A744",
@@ -5626,8 +5626,8 @@
    }
   ],
   "jp": "大要塞パンドラ",
-  "en": "",
-  "status": ""
+  "en": "Great Fortress Pandra",
+  "status": "done"
  },
  {
   "id": "eboot_25A754",
@@ -5640,8 +5640,8 @@
    }
   ],
   "jp": "鍛冶屋オヤカタ",
-  "en": "",
-  "status": ""
+  "en": "Blacksmith Foreman",
+  "status": "done"
  },
  {
   "id": "eboot_25A764",
@@ -5654,8 +5654,8 @@
    }
   ],
   "jp": "中枢都市ダーム",
-  "en": "",
-  "status": ""
+  "en": "Central City Dahm",
+  "status": "done"
  },
  {
   "id": "eboot_25A774",
@@ -5668,8 +5668,8 @@
    }
   ],
   "jp": "町外れの小屋",
-  "en": "",
-  "status": ""
+  "en": "Hut on the Outskirts",
+  "status": "done"
  },
  {
   "id": "eboot_25A784",
@@ -5682,8 +5682,8 @@
    }
   ],
   "jp": "町外れの排水路",
-  "en": "",
-  "status": ""
+  "en": "Drain on the Outskirts",
+  "status": "done"
  },
  {
   "id": "eboot_25A794",
@@ -5696,8 +5696,8 @@
    }
   ],
   "jp": "底見えぬ雪の原",
-  "en": "",
-  "status": ""
+  "en": "Bottomless Snowfield",
+  "status": "done"
  },
  {
   "id": "eboot_25A7A4",
@@ -5710,8 +5710,8 @@
    }
   ],
   "jp": "邸宅内部",
-  "en": "",
-  "status": ""
+  "en": "Manor Interior",
+  "status": "done"
  },
  {
   "id": "eboot_25A7B0",
@@ -5724,8 +5724,8 @@
    }
   ],
   "jp": "東マーケット",
-  "en": "",
-  "status": ""
+  "en": "East Market",
+  "status": "done"
  },
  {
   "id": "eboot_25A7C0",
@@ -5738,8 +5738,8 @@
    }
   ],
   "jp": "東仮設街区",
-  "en": "",
-  "status": ""
+  "en": "East Temporary Quarter",
+  "status": "done"
  },
  {
   "id": "eboot_25A7CC",
@@ -5752,8 +5752,8 @@
    }
   ],
   "jp": "東砦",
-  "en": "",
-  "status": ""
+  "en": "East Fort",
+  "status": "done"
  },
  {
   "id": "eboot_25A7D4",
@@ -5766,8 +5766,8 @@
    }
   ],
   "jp": "盗賊団第２砦",
-  "en": "",
-  "status": ""
+  "en": "Thieves' 2nd Fort",
+  "status": "done"
  },
  {
   "id": "eboot_25A7E4",
@@ -5780,8 +5780,8 @@
    }
   ],
   "jp": "盗賊団第１砦",
-  "en": "",
-  "status": ""
+  "en": "Thieves' 1st Fort",
+  "status": "done"
  },
  {
   "id": "eboot_25A7F4",
@@ -5794,8 +5794,8 @@
    }
   ],
   "jp": "盗賊団第３砦",
-  "en": "",
-  "status": ""
+  "en": "Thieves' 3rd Fort",
+  "status": "done"
  },
  {
   "id": "eboot_25A804",
@@ -5808,8 +5808,8 @@
    }
   ],
   "jp": "道具小屋",
-  "en": "",
-  "status": ""
+  "en": "Tool Shed",
+  "status": "done"
  },
  {
   "id": "eboot_25A810",
@@ -5822,8 +5822,8 @@
    }
   ],
   "jp": "突き出た岩の鼻",
-  "en": "",
-  "status": ""
+  "en": "Jutting Rock Point",
+  "status": "done"
  },
  {
   "id": "eboot_25A820",
@@ -5836,8 +5836,8 @@
    }
   ],
   "jp": "南ヴェルク街",
-  "en": "",
-  "status": ""
+  "en": "South Verk Street",
+  "status": "done"
  },
  {
   "id": "eboot_25A830",
@@ -5850,8 +5850,8 @@
    }
   ],
   "jp": "日記マニアの家",
-  "en": "",
-  "status": ""
+  "en": "Diary Fanatic's House",
+  "status": "done"
  },
  {
   "id": "eboot_25A840",
@@ -5864,8 +5864,8 @@
    }
   ],
   "jp": "排水溝",
-  "en": "",
-  "status": ""
+  "en": "Drainage Ditch",
+  "status": "done"
  },
  {
   "id": "eboot_25A848",
@@ -5878,8 +5878,8 @@
    }
   ],
   "jp": "反乱軍の大砲",
-  "en": "",
-  "status": ""
+  "en": "Rebel Cannon",
+  "status": "done"
  },
  {
   "id": "eboot_25A858",
@@ -5892,8 +5892,8 @@
    }
   ],
   "jp": "武器庫",
-  "en": "",
-  "status": ""
+  "en": "Armory",
+  "status": "done"
  },
  {
   "id": "eboot_25A860",
@@ -5906,8 +5906,8 @@
    }
   ],
   "jp": "兵員詰め所",
-  "en": "",
-  "status": ""
+  "en": "Guard Post",
+  "status": "done"
  },
  {
   "id": "eboot_25A86C",
@@ -5920,8 +5920,8 @@
    }
   ],
   "jp": "墓標なき墳墓",
-  "en": "",
-  "status": ""
+  "en": "Unmarked Tomb",
+  "status": "done"
  },
  {
   "id": "eboot_25A87C",
@@ -5934,8 +5934,8 @@
    }
   ],
   "jp": "亡骸の眠る土",
-  "en": "",
-  "status": ""
+  "en": "Earth Where the Dead Sleep",
+  "status": "done"
  },
  {
   "id": "eboot_25A88C",
@@ -5948,8 +5948,8 @@
    }
   ],
   "jp": "北ヴェルク街",
-  "en": "",
-  "status": ""
+  "en": "North Verk Street",
+  "status": "done"
  },
  {
   "id": "eboot_25A89C",
@@ -5962,8 +5962,8 @@
    }
   ],
   "jp": "北の区画",
-  "en": "",
-  "status": ""
+  "en": "Northern Block",
+  "status": "done"
  },
  {
   "id": "eboot_25A8A8",
@@ -5976,8 +5976,8 @@
    }
   ],
   "jp": "北の路傍",
-  "en": "",
-  "status": ""
+  "en": "North Roadside",
+  "status": "done"
  },
  {
   "id": "eboot_25A8B4",
@@ -5990,8 +5990,8 @@
    }
   ],
   "jp": "魔術師の家",
-  "en": "",
-  "status": ""
+  "en": "Mage's House",
+  "status": "done"
  },
  {
   "id": "eboot_25A8C0",
@@ -6004,8 +6004,8 @@
    }
   ],
   "jp": "魔女の庵",
-  "en": "",
-  "status": ""
+  "en": "Witch's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A8CC",
@@ -6018,8 +6018,8 @@
    }
   ],
   "jp": "茂み",
-  "en": "",
-  "status": ""
+  "en": "Bushes",
+  "status": "done"
  },
  {
   "id": "eboot_25A8D4",
@@ -6032,8 +6032,8 @@
    }
   ],
   "jp": "木こりの小屋",
-  "en": "",
-  "status": ""
+  "en": "Woodcutter's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A8E4",
@@ -6046,8 +6046,8 @@
    }
   ],
   "jp": "木組みの小屋",
-  "en": "",
-  "status": ""
+  "en": "Timber Hut",
+  "status": "done"
  },
  {
   "id": "eboot_25A8F4",
@@ -6060,8 +6060,8 @@
    }
   ],
   "jp": "木々の牢獄",
-  "en": "",
-  "status": ""
+  "en": "Prison of Trees",
+  "status": "done"
  },
  {
   "id": "eboot_25A900",
@@ -6074,8 +6074,8 @@
    }
   ],
   "jp": "夜の街",
-  "en": "",
-  "status": ""
+  "en": "Town at Night",
+  "status": "done"
  },
  {
   "id": "eboot_25A908",
@@ -6088,8 +6088,8 @@
    }
   ],
   "jp": "夜の街の片隅",
-  "en": "",
-  "status": ""
+  "en": "Corner of the Night Town",
+  "status": "done"
  },
  {
   "id": "eboot_25A918",
@@ -6102,8 +6102,8 @@
    }
   ],
   "jp": "預言者の館",
-  "en": "",
-  "status": ""
+  "en": "Prophet's Manor",
+  "status": "done"
  },
  {
   "id": "eboot_25A924",
@@ -6116,8 +6116,8 @@
    }
   ],
   "jp": "妖精の集会場",
-  "en": "",
-  "status": ""
+  "en": "Fairy Gathering Place",
+  "status": "done"
  },
  {
   "id": "eboot_25A934",
@@ -6130,8 +6130,8 @@
    }
   ],
   "jp": "妖精の村",
-  "en": "",
-  "status": ""
+  "en": "Fairy Village",
+  "status": "done"
  },
  {
   "id": "eboot_25A940",
@@ -6144,8 +6144,8 @@
    }
   ],
   "jp": "遥か深き雪の町",
-  "en": "",
-  "status": ""
+  "en": "Town in the Deep Snow",
+  "status": "done"
  },
  {
   "id": "eboot_25A950",
@@ -6158,8 +6158,8 @@
    }
   ],
   "jp": "離れの物置き",
-  "en": "",
-  "status": ""
+  "en": "Separate Storeroom",
+  "status": "done"
  },
  {
   "id": "eboot_25A960",
@@ -6172,8 +6172,8 @@
    }
   ],
   "jp": "旅人の宿",
-  "en": "",
-  "status": ""
+  "en": "Traveler's Inn",
+  "status": "done"
  },
  {
   "id": "eboot_25A96C",
@@ -6186,8 +6186,8 @@
    }
   ],
   "jp": "領主の館",
-  "en": "",
-  "status": ""
+  "en": "Lord's Manor",
+  "status": "done"
  },
  {
   "id": "eboot_25A978",
@@ -6200,8 +6200,8 @@
    }
   ],
   "jp": "領主の館前",
-  "en": "",
-  "status": ""
+  "en": "Before the Lord's Manor",
+  "status": "done"
  },
  {
   "id": "eboot_25A984",
@@ -6214,8 +6214,8 @@
    }
   ],
   "jp": "領主の館脇",
-  "en": "",
-  "status": ""
+  "en": "Beside the Lord's Manor",
+  "status": "done"
  },
  {
   "id": "eboot_25A990",
@@ -6228,8 +6228,8 @@
    }
   ],
   "jp": "錬金術師の屋敷",
-  "en": "",
-  "status": ""
+  "en": "Alchemist's Mansion",
+  "status": "done"
  },
  {
   "id": "eboot_25A9A0",
@@ -6242,8 +6242,8 @@
    }
   ],
   "jp": "路地裏",
-  "en": "",
-  "status": ""
+  "en": "Back Alley",
+  "status": "done"
  },
  {
   "id": "eboot_25A9A8",
@@ -6256,8 +6256,8 @@
    }
   ],
   "jp": "路地裏の片隅",
-  "en": "",
-  "status": ""
+  "en": "Corner of the Back Alley",
+  "status": "done"
  },
  {
   "id": "eboot_25A9B8",
@@ -6270,8 +6270,8 @@
    }
   ],
   "jp": "露出した岩肌",
-  "en": "",
-  "status": ""
+  "en": "Exposed Rock Face",
+  "status": "done"
  },
  {
   "id": "eboot_25AD20",
@@ -6309,8 +6309,8 @@
    }
   ],
   "jp": "…ジェノンの支配は解けないのか？",
-  "en": "",
-  "status": ""
+  "en": "...Can't Jenon's control be broken?",
+  "status": "done"
  },
  {
   "id": "eboot_25B714",
@@ -6323,8 +6323,8 @@
    }
   ],
   "jp": "アイギナ、刺客の手により落命！",
-  "en": "",
-  "status": ""
+  "en": "Aegina slain by an assassin!",
+  "status": "done"
  },
  {
   "id": "eboot_25B734",
@@ -6337,8 +6337,8 @@
    }
   ],
   "jp": "アイギナ、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Aegina has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25B748",
@@ -6351,8 +6351,8 @@
    }
   ],
   "jp": "アイギナ、復讐を達成…②",
-  "en": "",
-  "status": ""
+  "en": "Aegina has taken her revenge...!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B764",
@@ -6365,8 +6365,8 @@
    }
   ],
   "jp": "アイギナ、熾烈なる包囲攻撃により落命！",
-  "en": "",
-  "status": ""
+  "en": "Aegina slain by a fierce siege!",
+  "status": "done"
  },
  {
   "id": "eboot_25B78C",
@@ -6379,8 +6379,8 @@
    }
   ],
   "jp": "アイギナが捨て身の特攻…②",
-  "en": "",
-  "status": ""
+  "en": "Aegina's desperate suicide charge...!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B7A8",
@@ -6393,8 +6393,8 @@
    }
   ],
   "jp": "アイギナとの合流に成功②",
-  "en": "",
-  "status": ""
+  "en": "Reunited with Aegina!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B7C4",
@@ -6407,8 +6407,8 @@
    }
   ],
   "jp": "イーザー渓谷の山賊討伐に成功②",
-  "en": "",
-  "status": ""
+  "en": "Brigands of Ether Gorge wiped out!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B7E4",
@@ -6421,8 +6421,8 @@
    }
   ],
   "jp": "インザーギに勝利！　第１回戦を突破②",
-  "en": "",
-  "status": ""
+  "en": "Beat Inzaghi! Round 1 cleared!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B80C",
@@ -6435,8 +6435,8 @@
    }
   ],
   "jp": "インザーギ傭兵部隊を一掃②",
-  "en": "",
-  "status": ""
+  "en": "Inzaghi's mercenaries wiped out!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B828",
@@ -6449,8 +6449,8 @@
    }
   ],
   "jp": "ヴェルマン方伯の防衛に成功②",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman defended!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B848",
@@ -6463,8 +6463,8 @@
    }
   ],
   "jp": "ヴェルマン方伯の友人を保護②",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman's friend protected!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B868",
@@ -6477,8 +6477,8 @@
    }
   ],
   "jp": "ヴェルマン部隊の一部を撃破②",
-  "en": "",
-  "status": ""
+  "en": "Part of Velleman's forces defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B888",
@@ -6491,8 +6491,8 @@
    }
   ],
   "jp": "ヴェルマン方伯、賊の凶刃に堕つ！",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman falls to the outlaws' blades!",
+  "status": "done"
  },
  {
   "id": "eboot_25B8AC",
@@ -6505,8 +6505,8 @@
    }
   ],
   "jp": "うら若き女の子がゴロツキ共の魔手に…",
-  "en": "",
-  "status": ""
+  "en": "A young girl in the clutches of thugs...",
+  "status": "done"
  },
  {
   "id": "eboot_25B8D4",
@@ -6519,8 +6519,8 @@
    }
   ],
   "jp": "エミリオ、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Emilia has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25B8E8",
@@ -6533,8 +6533,8 @@
    }
   ],
   "jp": "エミリオの活躍により苦境を打破②",
-  "en": "",
-  "status": ""
+  "en": "Emilia's efforts break the deadlock!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B90C",
@@ -6547,8 +6547,8 @@
    }
   ],
   "jp": "オルディーンの退路を確保②",
-  "en": "",
-  "status": ""
+  "en": "Ordene's escape route secured!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B928",
@@ -6561,8 +6561,8 @@
    }
   ],
   "jp": "オルディーン王、帝国の姦計により絶命！",
-  "en": "",
-  "status": ""
+  "en": "King Ordene killed by Imperial treachery!",
+  "status": "done"
  },
  {
   "id": "eboot_25B950",
@@ -6575,8 +6575,8 @@
    }
   ],
   "jp": "ガーロット、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Garlot has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25B964",
@@ -6589,8 +6589,8 @@
    }
   ],
   "jp": "かつての雇い主・ヴェルマンを撃破②",
-  "en": "",
-  "status": ""
+  "en": "Former employer Velleman defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B988",
@@ -6603,8 +6603,8 @@
    }
   ],
   "jp": "ガルカーサ、ついに皇帝を打倒②",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa at last topples the Emperor!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B9A8",
@@ -6617,8 +6617,8 @@
    }
   ],
   "jp": "ガルカーサ、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25B9BC",
@@ -6631,8 +6631,8 @@
    }
   ],
   "jp": "カローナ守備部隊の斥候を撃破②",
-  "en": "",
-  "status": ""
+  "en": "Karona Garrison scouts defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B9DC",
@@ -6645,8 +6645,8 @@
    }
   ],
   "jp": "カローナの総隊長を撃破②",
-  "en": "",
-  "status": ""
+  "en": "Karona's Commander defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25B9F8",
@@ -6659,8 +6659,8 @@
    }
   ],
   "jp": "グラムブレイズ団長ガーロット、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze Captain Garlot has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25BA20",
@@ -6673,8 +6673,8 @@
    }
   ],
   "jp": "ケルヌガ解放の拠点を確保②",
-  "en": "",
-  "status": ""
+  "en": "Base for liberating Kernuga secured!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BA3C",
@@ -6687,8 +6687,8 @@
    }
   ],
   "jp": "ケルヌガ農村群を解放②",
-  "en": "",
-  "status": ""
+  "en": "Kernuga farm villages liberated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BA54",
@@ -6701,8 +6701,8 @@
    }
   ],
   "jp": "このまま攻勢を維持せよ②",
-  "en": "",
-  "status": ""
+  "en": "Keep up the offensive!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BA70",
@@ -6715,8 +6715,8 @@
    }
   ],
   "jp": "ゴロツキどもをこらしめた②",
-  "en": "",
-  "status": ""
+  "en": "Taught the thugs a lesson!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BA8C",
@@ -6729,8 +6729,8 @@
    }
   ],
   "jp": "ジェノン、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Jenon has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25BAA0",
@@ -6743,8 +6743,8 @@
    }
   ],
   "jp": "シスキア、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Siskier has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25BAB4",
@@ -6757,8 +6757,8 @@
    }
   ],
   "jp": "シスキアが脱出地点に到着②",
-  "en": "",
-  "status": ""
+  "en": "Siskier reached the escape point!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BAD0",
@@ -6771,8 +6771,8 @@
    }
   ],
   "jp": "シャーミネル解放の拠点を確保②",
-  "en": "",
-  "status": ""
+  "en": "Base for liberating Sharminel secured!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BAF0",
@@ -6785,8 +6785,8 @@
    }
   ],
   "jp": "ジルヴァ、教団の粛清を受けて横死！",
-  "en": "",
-  "status": ""
+  "en": "Zilva dies a violent death, purged by the Order!",
+  "status": "done"
  },
  {
   "id": "eboot_25BB14",
@@ -6799,8 +6799,8 @@
    }
   ],
   "jp": "ジルヴァの救出に成功②",
-  "en": "",
-  "status": ""
+  "en": "Zilva rescued!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BB2C",
@@ -6813,8 +6813,8 @@
    }
   ],
   "jp": "スリ師・はだしのミゼルと遭遇②",
-  "en": "",
-  "status": ""
+  "en": "Encountered pickpocket Barefoot Mizer!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BB4C",
@@ -6827,8 +6827,8 @@
    }
   ],
   "jp": "スリ師・はだしのミゼルの捕縛に成功②",
-  "en": "",
-  "status": ""
+  "en": "Pickpocket Barefoot Mizer captured!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BB74",
@@ -6841,8 +6841,8 @@
    }
   ],
   "jp": "セリカの撃退に成功②",
-  "en": "",
-  "status": ""
+  "en": "Cerica driven off!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BB8C",
@@ -6855,8 +6855,8 @@
    }
   ],
   "jp": "セリカ挟撃部隊を圧倒②",
-  "en": "",
-  "status": ""
+  "en": "Cerica's pincer force overwhelmed!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BBA4",
@@ -6869,8 +6869,8 @@
    }
   ],
   "jp": "ソルティエ、負傷により戦闘不能②",
-  "en": "",
-  "status": ""
+  "en": "Soltier is wounded and can't fight!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BBC8",
@@ -6883,8 +6883,8 @@
    }
   ],
   "jp": "ソルティエへと通ずる道が開いた②",
-  "en": "",
-  "status": ""
+  "en": "The road to Soltier is open!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BBEC",
@@ -6897,8 +6897,8 @@
    }
   ],
   "jp": "ついにパンドラを追い詰めた②",
-  "en": "",
-  "status": ""
+  "en": "Pandra cornered at last!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BC0C",
@@ -6911,8 +6911,8 @@
    }
   ],
   "jp": "ネザー地区の避難民救出に成功②",
-  "en": "",
-  "status": ""
+  "en": "Nether District refugees rescued!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BC2C",
@@ -6925,8 +6925,8 @@
    }
   ],
   "jp": "ネシア、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Nessiah has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25BC3C",
@@ -6939,8 +6939,8 @@
    }
   ],
   "jp": "ネシアに対して優勢②",
-  "en": "",
-  "status": ""
+  "en": "Advantage over Nessiah!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BC54",
@@ -6953,8 +6953,8 @@
    }
   ],
   "jp": "ネシアの尖兵を撃破②",
-  "en": "",
-  "status": ""
+  "en": "Nessiah's vanguard defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BC6C",
@@ -6967,8 +6967,8 @@
    }
   ],
   "jp": "ネシアの肉体が崩壊していく…",
-  "en": "",
-  "status": ""
+  "en": "Nessiah's body is crumbling...",
+  "status": "done"
  },
  {
   "id": "eboot_25BC8C",
@@ -6981,8 +6981,8 @@
    }
   ],
   "jp": "ネシアを撃破②",
-  "en": "",
-  "status": ""
+  "en": "Nessiah defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BC9C",
@@ -6995,8 +6995,8 @@
    }
   ],
   "jp": "はだしのミゼル、戦場を離脱！",
-  "en": "",
-  "status": ""
+  "en": "Barefoot Mizer has left the battlefield!",
+  "status": "done"
  },
  {
   "id": "eboot_25BCBC",
@@ -7009,8 +7009,8 @@
    }
   ],
   "jp": "パルティナ守備部隊を殲滅②",
-  "en": "",
-  "status": ""
+  "en": "Paltina's garrison annihilated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BCD8",
@@ -7023,8 +7023,8 @@
    }
   ],
   "jp": "バルドゥス・ラッセルの連携に苦戦②",
-  "en": "",
-  "status": ""
+  "en": "Baldus and Russell's teamwork is tough!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BCFC",
@@ -7037,8 +7037,8 @@
    }
   ],
   "jp": "バルドゥス防衛部隊、壊滅寸前②",
-  "en": "",
-  "status": ""
+  "en": "Baldus's defense force near collapse!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BD1C",
@@ -7051,8 +7051,8 @@
    }
   ],
   "jp": "バルドゥス防衛部隊、城門を死守②",
-  "en": "",
-  "status": ""
+  "en": "Baldus's defense force holds the gate!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BD40",
@@ -7065,8 +7065,8 @@
    }
   ],
   "jp": "パンドラが砦の奥に籠城②",
-  "en": "",
-  "status": ""
+  "en": "Pandra holes up deep in the fort!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BD5C",
@@ -7079,8 +7079,8 @@
    }
   ],
   "jp": "ベアトリーヌ、落命！",
-  "en": "",
-  "status": ""
+  "en": "Baretreenu has fallen!",
+  "status": "done"
  },
  {
   "id": "eboot_25BD74",
@@ -7093,8 +7093,8 @@
    }
   ],
   "jp": "ベアトリーヌ負傷…②",
-  "en": "",
-  "status": ""
+  "en": "Baretreenu wounded...!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BD8C",
@@ -7107,8 +7107,8 @@
    }
   ],
   "jp": "ミゼルファミリーの撃退に成功②",
-  "en": "",
-  "status": ""
+  "en": "Mizer Family driven off!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BDAC",
@@ -7121,8 +7121,8 @@
    }
   ],
   "jp": "メデューテ、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Medoute has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25BDC0",
@@ -7135,8 +7135,8 @@
    }
   ],
   "jp": "ユーディ、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Eudy has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25BDD4",
@@ -7149,8 +7149,8 @@
    }
   ],
   "jp": "ラピスに勝利！　第２回戦を突破②",
-  "en": "",
-  "status": ""
+  "en": "Beat Lapis! Round 2 cleared!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BDF8",
@@ -7163,8 +7163,8 @@
    }
   ],
   "jp": "ルシエナが避難地点に到着②",
-  "en": "",
-  "status": ""
+  "en": "Luciana reached the evacuation point!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BE14",
@@ -7177,8 +7177,8 @@
    }
   ],
   "jp": "ルシエナの妹・アイギナの救出に成功②",
-  "en": "",
-  "status": ""
+  "en": "Luciana's sister Aegina rescued!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BE3C",
@@ -7191,8 +7191,8 @@
    }
   ],
   "jp": "レオン、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Leon has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25BE4C",
@@ -7205,8 +7205,8 @@
    }
   ],
   "jp": "レオン、反乱軍の攻撃により力尽きる！",
-  "en": "",
-  "status": ""
+  "en": "Leon collapses under rebel attack!",
+  "status": "done"
  },
  {
   "id": "eboot_25BE74",
@@ -7219,8 +7219,8 @@
    }
   ],
   "jp": "レオンとの合流に成功②",
-  "en": "",
-  "status": ""
+  "en": "Reunited with Leon!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BE8C",
@@ -7233,8 +7233,8 @@
    }
   ],
   "jp": "悪徳商人ノルンを撃退②",
-  "en": "",
-  "status": ""
+  "en": "Crooked merchant Norn driven off!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BEA4",
@@ -7247,8 +7247,8 @@
    }
   ],
   "jp": "悪徳商人ノルンを撃破②",
-  "en": "",
-  "status": ""
+  "en": "Crooked merchant Norn defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BEBC",
@@ -7261,8 +7261,8 @@
    }
   ],
   "jp": "暗殺者、ヴェルマン邸に闖入！",
-  "en": "",
-  "status": ""
+  "en": "Assassins burst into Velleman's manor!",
+  "status": "done"
  },
  {
   "id": "eboot_25BEDC",
@@ -7275,8 +7275,8 @@
    }
   ],
   "jp": "暗殺者の一掃に成功②",
-  "en": "",
-  "status": ""
+  "en": "Assassins wiped out!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BEF4",
@@ -7289,8 +7289,8 @@
    }
   ],
   "jp": "王国軍増援部隊が出現②",
-  "en": "",
-  "status": ""
+  "en": "Kingdom reinforcements appear!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BF0C",
@@ -7303,8 +7303,8 @@
    }
   ],
   "jp": "街に火を掛けたパンドラを許すな②",
-  "en": "",
-  "status": ""
+  "en": "Pandra set the town ablaze: no mercy!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BF30",
@@ -7317,8 +7317,8 @@
    }
   ],
   "jp": "覚悟の槍が母を貫いた……",
-  "en": "",
-  "status": ""
+  "en": "The resolved spear pierced her mother...",
+  "status": "done"
  },
  {
   "id": "eboot_25BF4C",
@@ -7334,8 +7334,8 @@
    }
   ],
   "jp": "近衛隊隊長ガーロット、戦死！",
-  "en": "",
-  "status": ""
+  "en": "Royal Guard Captain Garlot has fallen in battle!",
+  "status": "done"
  },
  {
   "id": "eboot_25BF6C",
@@ -7348,8 +7348,8 @@
    }
   ],
   "jp": "軍神バルドゥスに勝利②",
-  "en": "",
-  "status": ""
+  "en": "Beat War God Baldus!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BF84",
@@ -7362,8 +7362,8 @@
    }
   ],
   "jp": "軍神バルドゥスを圧倒②",
-  "en": "",
-  "status": ""
+  "en": "Overwhelmed War God Baldus!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BF9C",
@@ -7376,8 +7376,8 @@
    }
   ],
   "jp": "決勝戦も見事勝利②",
-  "en": "",
-  "status": ""
+  "en": "Won the final too!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BFB0",
@@ -7390,8 +7390,8 @@
    }
   ],
   "jp": "鋼鉄騎団兵の前衛に勝利②",
-  "en": "",
-  "status": ""
+  "en": "Beat the Steel Knights' vanguard!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BFCC",
@@ -7404,8 +7404,8 @@
    }
   ],
   "jp": "黒の狂戦士・レオンに勝利②",
-  "en": "",
-  "status": ""
+  "en": "Beat Black Berserker Leon!!",
+  "status": "done"
  },
  {
   "id": "eboot_25BFE8",
@@ -7418,8 +7418,8 @@
    }
   ],
   "jp": "黒髪の美少女の救出に成功②",
-  "en": "",
-  "status": ""
+  "en": "Black-haired beauty rescued!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C004",
@@ -7432,8 +7432,8 @@
    }
   ],
   "jp": "黒髪の美少女を救出せよ②",
-  "en": "",
-  "status": ""
+  "en": "Rescue the black-haired beauty!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C020",
@@ -7446,8 +7446,8 @@
    }
   ],
   "jp": "再起を懸けたパンドラの勢力を撃退②",
-  "en": "",
-  "status": ""
+  "en": "Pandra's comeback force driven off!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C044",
@@ -7460,8 +7460,8 @@
    }
   ],
   "jp": "作戦失敗…！",
-  "en": "",
-  "status": ""
+  "en": "Operation failed...!",
+  "status": "done"
  },
  {
   "id": "eboot_25C054",
@@ -7474,8 +7474,8 @@
    }
   ],
   "jp": "山岳都市シャーミネルを解放②",
-  "en": "",
-  "status": ""
+  "en": "Mountain city Sharminel liberated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C074",
@@ -7488,8 +7488,8 @@
    }
   ],
   "jp": "山賊の撃滅に成功②",
-  "en": "",
-  "status": ""
+  "en": "Brigands wiped out!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C088",
@@ -7502,8 +7502,8 @@
    }
   ],
   "jp": "姉妹を狙う暗殺者の一団を撃退②",
-  "en": "",
-  "status": ""
+  "en": "Assassins hunting the sisters driven off!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C0A8",
@@ -7516,8 +7516,8 @@
    }
   ],
   "jp": "私兵団邸への退避に成功②",
-  "en": "",
-  "status": ""
+  "en": "Retreated to the private army manor!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C0C4",
@@ -7530,8 +7530,8 @@
    }
   ],
   "jp": "神生教団による包囲網、以前健在②",
-  "en": "",
-  "status": ""
+  "en": "The Papal Army's encirclement still holds!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C0E8",
@@ -7544,8 +7544,8 @@
    }
   ],
   "jp": "神生教団の刺客を撃退…③",
-  "en": "",
-  "status": ""
+  "en": "Papal Army assassin driven off...?!",
+  "status": "done"
  },
  {
   "id": "eboot_25C104",
@@ -7558,8 +7558,8 @@
    }
   ],
   "jp": "神生教団の刺客を捕縛②",
-  "en": "",
-  "status": ""
+  "en": "Papal Army assassin captured!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C11C",
@@ -7572,8 +7572,8 @@
    }
   ],
   "jp": "神生教団への奇襲攻撃に成功②",
-  "en": "",
-  "status": ""
+  "en": "Surprise attack on the Papal Army works!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C13C",
@@ -7586,8 +7586,8 @@
    }
   ],
   "jp": "神生教団を駆逐②　しかし……",
-  "en": "",
-  "status": ""
+  "en": "Papal Army routed!! But...",
+  "status": "done"
  },
  {
   "id": "eboot_25C15C",
@@ -7600,8 +7600,8 @@
    }
   ],
   "jp": "聖剣は砕かれた、人の弱さとともに②",
-  "en": "",
-  "status": ""
+  "en": "The Holy Sword broke, with human weakness!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C180",
@@ -7614,8 +7614,8 @@
    }
   ],
   "jp": "扇動者・インザーギを撃退②",
-  "en": "",
-  "status": ""
+  "en": "Agitator Inzaghi driven off!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C19C",
@@ -7628,8 +7628,8 @@
    }
   ],
   "jp": "全ての元凶・アランゼームを撃破②",
-  "en": "",
-  "status": ""
+  "en": "Alanjame, root of all evil, defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C1C0",
@@ -7642,8 +7642,8 @@
    }
   ],
   "jp": "増援部隊を強襲②",
-  "en": "",
-  "status": ""
+  "en": "Reinforcements attacked!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C1D4",
@@ -7656,8 +7656,8 @@
    }
   ],
   "jp": "態勢の立て直しが完了②",
-  "en": "",
-  "status": ""
+  "en": "Regrouping complete!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C1EC",
@@ -7670,8 +7670,8 @@
    }
   ],
   "jp": "隊長の戦死により盗賊団壊滅②",
-  "en": "",
-  "status": ""
+  "en": "Captain slain, thief gang destroyed!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C20C",
@@ -7684,8 +7684,8 @@
    }
   ],
   "jp": "町を襲う盗賊団を撃退②",
-  "en": "",
-  "status": ""
+  "en": "Thieves raiding the town driven off!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C224",
@@ -7698,8 +7698,8 @@
    }
   ],
   "jp": "帝国軍、依然攻勢を維持②",
-  "en": "",
-  "status": ""
+  "en": "Imperial Army keeps up its offensive!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C240",
@@ -7712,8 +7712,8 @@
    }
   ],
   "jp": "帝都陥落寸前②",
-  "en": "",
-  "status": ""
+  "en": "Imperial capital on the verge of falling!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C250",
@@ -7726,8 +7726,8 @@
    }
   ],
   "jp": "邸宅に向かう暗殺者を撃破せよ②",
-  "en": "",
-  "status": ""
+  "en": "Beat the assassins heading for the manor!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C270",
@@ -7740,8 +7740,8 @@
    }
   ],
   "jp": "邸宅に向かう暗殺者を退けろ②",
-  "en": "",
-  "status": ""
+  "en": "Drive back assassins heading for the manor!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C290",
@@ -7754,8 +7754,8 @@
    }
   ],
   "jp": "倒れるには、まだ早すぎる…！",
-  "en": "",
-  "status": ""
+  "en": "Too soon to fall...!",
+  "status": "done"
  },
  {
   "id": "eboot_25C2B0",
@@ -7768,8 +7768,8 @@
    }
   ],
   "jp": "夜盗がティエラの街に撤退②",
-  "en": "",
-  "status": ""
+  "en": "Night bandits retreat to Tiera!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C2CC",
@@ -7782,8 +7782,8 @@
    }
   ],
   "jp": "盗賊団の第１砦を陥落②",
-  "en": "",
-  "status": ""
+  "en": "Thieves' 1st Fort taken!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C2E4",
@@ -7796,8 +7796,8 @@
    }
   ],
   "jp": "盗賊団の第２砦を陥落②",
-  "en": "",
-  "status": ""
+  "en": "Thieves' 2nd Fort taken!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C2FC",
@@ -7810,8 +7810,8 @@
    }
   ],
   "jp": "盗賊団の第３砦を陥落②",
-  "en": "",
-  "status": ""
+  "en": "Thieves' 3rd Fort taken!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C314",
@@ -7824,8 +7824,8 @@
    }
   ],
   "jp": "反乱軍、カタル・ブリッジに到達！",
-  "en": "",
-  "status": ""
+  "en": "Rebels reach Catal Bridge!",
+  "status": "done"
  },
  {
   "id": "eboot_25C338",
@@ -7838,8 +7838,8 @@
    }
   ],
   "jp": "反乱軍、西の関所に到達！",
-  "en": "",
-  "status": ""
+  "en": "Rebels reach the western checkpoint!",
+  "status": "done"
  },
  {
   "id": "eboot_25C354",
@@ -7852,8 +7852,8 @@
    }
   ],
   "jp": "反乱軍に対して優勢②",
-  "en": "",
-  "status": ""
+  "en": "Advantage over the rebels!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C36C",
@@ -7866,8 +7866,8 @@
    }
   ],
   "jp": "反乱軍の将・パンドラに接近②",
-  "en": "",
-  "status": ""
+  "en": "Closing in on rebel general Pandra!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C38C",
@@ -7880,8 +7880,8 @@
    }
   ],
   "jp": "反乱軍の尖兵隊を撃破②",
-  "en": "",
-  "status": ""
+  "en": "Rebel vanguard defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C3A4",
@@ -7894,8 +7894,8 @@
    }
   ],
   "jp": "反乱軍の将・パンドラを撃退②",
-  "en": "",
-  "status": ""
+  "en": "Rebel general Pandra driven off!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C3C4",
@@ -7908,8 +7908,8 @@
    }
   ],
   "jp": "不意に遭遇したセリカの撃退に成功②",
-  "en": "",
-  "status": ""
+  "en": "Cerica, met by chance, driven off!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C3E8",
@@ -7922,8 +7922,8 @@
    }
   ],
   "jp": "不正をはたらく役人の砦を占拠！",
-  "en": "",
-  "status": ""
+  "en": "Corrupt official's fort taken!",
+  "status": "done"
  },
  {
   "id": "eboot_25C408",
@@ -7936,8 +7936,8 @@
    }
   ],
   "jp": "砲撃援護により刺客の撃退に成功②",
-  "en": "",
-  "status": ""
+  "en": "Cannon support drives off the assassins!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C42C",
@@ -7950,8 +7950,8 @@
    }
   ],
   "jp": "暴走したエミリオを止めた……",
-  "en": "",
-  "status": ""
+  "en": "Stopped the rampaging Emilia...",
+  "status": "done"
  },
  {
   "id": "eboot_25C44C",
@@ -7964,8 +7964,8 @@
    }
   ],
   "jp": "民兵の一部が武装を解除…②",
-  "en": "",
-  "status": ""
+  "en": "Some militia lay down their arms...!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C468",
@@ -7978,8 +7978,8 @@
    }
   ],
   "jp": "輸送部隊隊長の撃破に成功②",
-  "en": "",
-  "status": ""
+  "en": "Convoy captain defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C484",
@@ -7992,8 +7992,8 @@
    }
   ],
   "jp": "輸送部隊の殲滅に成功②",
-  "en": "",
-  "status": ""
+  "en": "Convoy wiped out!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C49C",
@@ -8006,8 +8006,8 @@
    }
   ],
   "jp": "預言者ネシアの試練を達成②",
-  "en": "",
-  "status": ""
+  "en": "Prophet Nessiah's trial completed!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C4B8",
@@ -8020,8 +8020,8 @@
    }
   ],
   "jp": "預言者ネシアの尖兵を撃破②",
-  "en": "",
-  "status": ""
+  "en": "Prophet Nessiah's vanguard defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C4D4",
@@ -8034,8 +8034,8 @@
    }
   ],
   "jp": "傭兵隊長デイヴィドを撃破②",
-  "en": "",
-  "status": ""
+  "en": "Mercenary captain David defeated!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C4F0",
@@ -8048,8 +8048,8 @@
    }
   ],
   "jp": "裏切りのデイヴィドを撃退②",
-  "en": "",
-  "status": ""
+  "en": "Traitorous David driven off!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C50C",
@@ -8062,8 +8062,8 @@
    }
   ],
   "jp": "裏切り者の粛清を達成……",
-  "en": "",
-  "status": ""
+  "en": "The traitors have been purged...",
+  "status": "done"
  },
  {
   "id": "eboot_25C528",
@@ -8076,8 +8076,8 @@
    }
   ],
   "jp": "領主の館を占拠②",
-  "en": "",
-  "status": ""
+  "en": "Lord's manor taken!!",
+  "status": "done"
  },
  {
   "id": "eboot_25C53C",
@@ -8090,8 +8090,8 @@
    }
   ],
   "jp": "アイギナが命を落とす。",
-  "en": "",
-  "status": ""
+  "en": "Aegina has lost her life.",
+  "status": "done"
  },
  {
   "id": "eboot_25C554",
@@ -8104,8 +8104,8 @@
    }
   ],
   "jp": "アイギナ近衛隊は",
-  "en": "",
-  "status": ""
+  "en": "Aegina's Royal Guard",
+  "status": "done"
  },
  {
   "id": "eboot_25C568",
@@ -8118,8 +8118,8 @@
    }
   ],
   "jp": "アニス伯爵領を襲う",
-  "en": "",
-  "status": ""
+  "en": "Raiding Count Anis's lands,",
+  "status": "done"
  },
  {
   "id": "eboot_25C57C",
@@ -8132,8 +8132,8 @@
    }
   ],
   "jp": "イーザー渓谷の桟道を",
-  "en": "",
-  "status": ""
+  "en": "On the Ether Gorge cliff road,",
+  "status": "done"
  },
  {
   "id": "eboot_25C594",
@@ -8146,8 +8146,8 @@
    }
   ],
   "jp": "イシュナート要塞の",
-  "en": "",
-  "status": ""
+  "en": "Within Ishnart Fortress,",
+  "status": "done"
  },
  {
   "id": "eboot_25C5A8",
@@ -8160,8 +8160,8 @@
    }
   ],
   "jp": "いまだ果たせぬ復讐に",
-  "en": "",
-  "status": ""
+  "en": "Her revenge still unfulfilled,",
+  "status": "done"
  },
  {
   "id": "eboot_25C5C0",
@@ -8174,8 +8174,8 @@
    }
   ],
   "jp": "インザーギとの交戦中、",
-  "en": "",
-  "status": ""
+  "en": "While battling Inzaghi,",
+  "status": "done"
  },
  {
   "id": "eboot_25C5D8",
@@ -8188,8 +8188,8 @@
    }
   ],
   "jp": "インザーギとの戦闘中、",
-  "en": "",
-  "status": ""
+  "en": "While fighting Inzaghi,",
+  "status": "done"
  },
  {
   "id": "eboot_25C5F0",
@@ -8202,8 +8202,8 @@
    }
   ],
   "jp": "ヴェルマン邸に向かう",
-  "en": "",
-  "status": ""
+  "en": "Heading for Velleman's manor,",
+  "status": "done"
  },
  {
   "id": "eboot_25C608",
@@ -8216,8 +8216,8 @@
    }
   ],
   "jp": "ヴェルマン方伯が凶刃に",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman fell to",
+  "status": "done"
  },
  {
   "id": "eboot_25C620",
@@ -8230,8 +8230,8 @@
    }
   ],
   "jp": "ウルズ・ティアを求めて",
-  "en": "",
-  "status": ""
+  "en": "Seeking Urd's Tear,",
+  "status": "done"
  },
  {
   "id": "eboot_25C638",
@@ -8244,8 +8244,8 @@
    }
   ],
   "jp": "エミリオが命を落とす。",
-  "en": "",
-  "status": ""
+  "en": "Emilia has lost her life.",
+  "status": "done"
  },
  {
   "id": "eboot_25C650",
@@ -8258,8 +8258,8 @@
    }
   ],
   "jp": "エミリオの凶刃に倒れた",
-  "en": "",
-  "status": ""
+  "en": "Struck down by Emilia's blade,",
+  "status": "done"
  },
  {
   "id": "eboot_25C668",
@@ -8272,8 +8272,8 @@
    }
   ],
   "jp": "オルディーンとの死闘中、",
-  "en": "",
-  "status": ""
+  "en": "In a deadly fight with Ordene,",
+  "status": "done"
  },
  {
   "id": "eboot_25C684",
@@ -8286,8 +8286,8 @@
    }
   ],
   "jp": "オルディーン王が落命。",
-  "en": "",
-  "status": ""
+  "en": "King Ordene has lost his life.",
+  "status": "done"
  },
  {
   "id": "eboot_25C69C",
@@ -8300,8 +8300,8 @@
    }
   ],
   "jp": "お持ち帰りされた…",
-  "en": "",
-  "status": ""
+  "en": "Carried off...",
+  "status": "done"
  },
  {
   "id": "eboot_25C6B0",
@@ -8314,8 +8314,8 @@
    }
   ],
   "jp": "お持ち帰りされた女の子が",
-  "en": "",
-  "status": ""
+  "en": "The girl they carried off",
+  "status": "done"
  },
  {
   "id": "eboot_25C6CC",
@@ -8328,8 +8328,8 @@
    }
   ],
   "jp": "ガーロットが戦死。",
-  "en": "",
-  "status": ""
+  "en": "Garlot has fallen in battle.",
+  "status": "done"
  },
  {
   "id": "eboot_25C6E0",
@@ -8342,8 +8342,8 @@
    }
   ],
   "jp": "ガーロットが不慮の事故で",
-  "en": "",
-  "status": ""
+  "en": "Garlot, in a freak accident,",
+  "status": "done"
  },
  {
   "id": "eboot_25C6FC",
@@ -8356,8 +8356,8 @@
    }
   ],
   "jp": "ガーロットは、疑問の中で",
-  "en": "",
-  "status": ""
+  "en": "Garlot, full of questions,",
+  "status": "done"
  },
  {
   "id": "eboot_25C718",
@@ -8370,8 +8370,8 @@
    }
   ],
   "jp": "ガーロット達だが、",
-  "en": "",
-  "status": ""
+  "en": "Garlot and the others, however,",
+  "status": "done"
  },
  {
   "id": "eboot_25C72C",
@@ -8384,8 +8384,8 @@
    }
   ],
   "jp": "ガーロット部隊は",
-  "en": "",
-  "status": ""
+  "en": "Garlot's unit",
+  "status": "done"
  },
  {
   "id": "eboot_25C740",
@@ -8398,8 +8398,8 @@
    }
   ],
   "jp": "かつての快活な気配は",
-  "en": "",
-  "status": ""
+  "en": "and her old cheerful air",
+  "status": "done"
  },
  {
   "id": "eboot_25C758",
@@ -8412,8 +8412,8 @@
    }
   ],
   "jp": "ガルカーサは戦死。",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa has fallen in battle.",
+  "status": "done"
  },
  {
   "id": "eboot_25C76C",
@@ -8426,8 +8426,8 @@
    }
   ],
   "jp": "ガルカーサ部隊は",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa's unit",
+  "status": "done"
  },
  {
   "id": "eboot_25C780",
@@ -8440,8 +8440,8 @@
    }
   ],
   "jp": "カタル・ブリッジを越えた",
-  "en": "",
-  "status": ""
+  "en": "Having crossed Catal Bridge,",
+  "status": "done"
  },
  {
   "id": "eboot_25C79C",
@@ -8454,8 +8454,8 @@
    }
   ],
   "jp": "グラムブレイズは",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze",
+  "status": "done"
  },
  {
   "id": "eboot_25C7B0",
@@ -8468,8 +8468,8 @@
    }
   ],
   "jp": "グラムブレイズは歴史の",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze, from history's",
+  "status": "done"
  },
  {
   "id": "eboot_25C7C8",
@@ -8482,8 +8482,8 @@
    }
   ],
   "jp": "グラムブレイズもまた",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze too",
+  "status": "done"
  },
  {
   "id": "eboot_25C7E0",
@@ -8496,8 +8496,8 @@
    }
   ],
   "jp": "ケルヌガを占拠する",
-  "en": "",
-  "status": ""
+  "en": "In rebel-held Kernuga,",
+  "status": "done"
  },
  {
   "id": "eboot_25C7F4",
@@ -8510,8 +8510,8 @@
    }
   ],
   "jp": "ここに、帝国と王国の",
-  "en": "",
-  "status": ""
+  "en": "Here, between Empire and Kingdom,",
+  "status": "done"
  },
  {
   "id": "eboot_25C80C",
@@ -8524,8 +8524,8 @@
    }
   ],
   "jp": "ジェノンが命を落とす。",
-  "en": "",
-  "status": ""
+  "en": "Jenon has lost his life.",
+  "status": "done"
  },
  {
   "id": "eboot_25C824",
@@ -8538,8 +8538,8 @@
    }
   ],
   "jp": "シスキアが命を落とす。",
-  "en": "",
-  "status": ""
+  "en": "Siskier has lost her life.",
+  "status": "done"
  },
  {
   "id": "eboot_25C83C",
@@ -8552,8 +8552,8 @@
    }
   ],
   "jp": "シスキアの喪失に",
-  "en": "",
-  "status": ""
+  "en": "At the loss of Siskier,",
+  "status": "done"
  },
  {
   "id": "eboot_25C850",
@@ -8566,8 +8566,8 @@
    }
   ],
   "jp": "シスキアの無念を果たせぬ",
-  "en": "",
-  "status": ""
+  "en": "Without avenging Siskier,",
+  "status": "done"
  },
  {
   "id": "eboot_25C86C",
@@ -8580,8 +8580,8 @@
    }
   ],
   "jp": "シャーミネルを占拠する",
-  "en": "",
-  "status": ""
+  "en": "In rebel-held Sharminel,",
+  "status": "done"
  },
  {
   "id": "eboot_25C884",
@@ -8594,8 +8594,8 @@
    }
   ],
   "jp": "ジルヴァ救出のために",
-  "en": "",
-  "status": ""
+  "en": "To rescue Zilva,",
+  "status": "done"
  },
  {
   "id": "eboot_25C89C",
@@ -8608,8 +8608,8 @@
    }
   ],
   "jp": "しれない…",
-  "en": "",
-  "status": ""
+  "en": "perhaps...",
+  "status": "done"
  },
  {
   "id": "eboot_25C8A8",
@@ -8622,8 +8622,8 @@
    }
   ],
   "jp": "セリカとの衝突の中、",
-  "en": "",
-  "status": ""
+  "en": "in the clash with Cerica,",
+  "status": "done"
  },
  {
   "id": "eboot_25C8C0",
@@ -8636,8 +8636,8 @@
    }
   ],
   "jp": "その結末は、因果によって",
-  "en": "",
-  "status": ""
+  "en": "That ending, by karma,",
+  "status": "done"
  },
  {
   "id": "eboot_25C8DC",
@@ -8650,8 +8650,8 @@
    }
   ],
   "jp": "その双眸には生気がなく、",
-  "en": "",
-  "status": ""
+  "en": "There was no life in her eyes,",
+  "status": "done"
  },
  {
   "id": "eboot_25C8F8",
@@ -8664,8 +8664,8 @@
    }
   ],
   "jp": "その短い生涯を終えた",
-  "en": "",
-  "status": ""
+  "en": "ended his short life.",
+  "status": "done"
  },
  {
   "id": "eboot_25C910",
@@ -8678,8 +8678,8 @@
    }
   ],
   "jp": "その蓄財を手中に収めた…",
-  "en": "",
-  "status": ""
+  "en": "and seized its wealth...",
+  "status": "done"
  },
  {
   "id": "eboot_25C92C",
@@ -8692,8 +8692,8 @@
    }
   ],
   "jp": "ソルティエとの激闘中、",
-  "en": "",
-  "status": ""
+  "en": "In a fierce fight with Soltier,",
+  "status": "done"
  },
  {
   "id": "eboot_25C944",
@@ -8706,8 +8706,8 @@
    }
   ],
   "jp": "デイヴィドの復讐に燃える",
-  "en": "",
-  "status": ""
+  "en": "Burning to avenge David,",
+  "status": "done"
  },
  {
   "id": "eboot_25C960",
@@ -8720,8 +8720,8 @@
    }
   ],
   "jp": "デイヴィドの復讐を掲げる",
-  "en": "",
-  "status": ""
+  "en": "Raising David's revenge,",
+  "status": "done"
  },
  {
   "id": "eboot_25C97C",
@@ -8734,8 +8734,8 @@
    }
   ],
   "jp": "デイヴィド率いる",
-  "en": "",
-  "status": ""
+  "en": "Led by David,",
+  "status": "done"
  },
  {
   "id": "eboot_25C990",
@@ -8748,8 +8748,8 @@
    }
   ],
   "jp": "ティエラ・ネザー地区で",
-  "en": "",
-  "status": ""
+  "en": "In Tiera's Nether District,",
+  "status": "done"
  },
  {
   "id": "eboot_25C9A8",
@@ -8762,8 +8762,8 @@
    }
   ],
   "jp": "ティエラ・ネザー地区での",
-  "en": "",
-  "status": ""
+  "en": "In Tiera's Nether District,",
+  "status": "done"
  },
  {
   "id": "eboot_25C9C4",
@@ -8776,8 +8776,8 @@
    }
   ],
   "jp": "ティエラの治安を守るため",
-  "en": "",
-  "status": ""
+  "en": "To keep the peace in Tiera,",
+  "status": "done"
  },
  {
   "id": "eboot_25C9E0",
@@ -8790,8 +8790,8 @@
    }
   ],
   "jp": "トキノ山に立てこもる",
-  "en": "",
-  "status": ""
+  "en": "Holed up on Mount Tokino,",
+  "status": "done"
  },
  {
   "id": "eboot_25C9F8",
@@ -8804,8 +8804,8 @@
    }
   ],
   "jp": "トキノ山山頂で",
-  "en": "",
-  "status": ""
+  "en": "At the summit of Mount Tokino,",
+  "status": "done"
  },
  {
   "id": "eboot_25CA08",
@@ -8818,8 +8818,8 @@
    }
   ],
   "jp": "ネザー地区避難民の",
-  "en": "",
-  "status": ""
+  "en": "For the Nether District refugees,",
+  "status": "done"
  },
  {
   "id": "eboot_25CA1C",
@@ -8832,8 +8832,8 @@
    }
   ],
   "jp": "ネシアが命を落とす。",
-  "en": "",
-  "status": ""
+  "en": "Nessiah has lost his life.",
+  "status": "done"
  },
  {
   "id": "eboot_25CA34",
@@ -8846,8 +8846,8 @@
    }
   ],
   "jp": "バルドゥスの激闘中、",
-  "en": "",
-  "status": ""
+  "en": "In a fierce fight with Baldus,",
+  "status": "done"
  },
  {
   "id": "eboot_25CA4C",
@@ -8860,8 +8860,8 @@
    }
   ],
   "jp": "パンドラとの戦闘中、",
-  "en": "",
-  "status": ""
+  "en": "While fighting Pandra,",
+  "status": "done"
  },
  {
   "id": "eboot_25CA64",
@@ -8874,8 +8874,8 @@
    }
   ],
   "jp": "パンドラ率いる",
-  "en": "",
-  "status": ""
+  "en": "Led by Pandra,",
+  "status": "done"
  },
  {
   "id": "eboot_25CA74",
@@ -8888,8 +8888,8 @@
    }
   ],
   "jp": "ブレイズ義賊団は",
-  "en": "",
-  "status": ""
+  "en": "The Blaze Justice Corps",
+  "status": "done"
  },
  {
   "id": "eboot_25CA88",
@@ -8902,8 +8902,8 @@
    }
   ],
   "jp": "ベアトリーヌが絶命する。",
-  "en": "",
-  "status": ""
+  "en": "Baretreenu has died.",
+  "status": "done"
  },
  {
   "id": "eboot_25CAA4",
@@ -8916,8 +8916,8 @@
    }
   ],
   "jp": "まま、その生涯を終えた…",
-  "en": "",
-  "status": ""
+  "en": "he ended his life...",
+  "status": "done"
  },
  {
   "id": "eboot_25CAC0",
@@ -8930,8 +8930,8 @@
    }
   ],
   "jp": "ミゼルとの交戦中、",
-  "en": "",
-  "status": ""
+  "en": "While fighting Mizer,",
+  "status": "done"
  },
  {
   "id": "eboot_25CAD4",
@@ -8944,8 +8944,8 @@
    }
   ],
   "jp": "ミゼルの予想外の脚力に",
-  "en": "",
-  "status": ""
+  "en": "With Mizer's unexpected speed,",
+  "status": "done"
  },
  {
   "id": "eboot_25CAEC",
@@ -8958,8 +8958,8 @@
    }
   ],
   "jp": "ミゼルを捕らえるべく",
-  "en": "",
-  "status": ""
+  "en": "To capture Mizer,",
+  "status": "done"
  },
  {
   "id": "eboot_25CB04",
@@ -8972,8 +8972,8 @@
    }
   ],
   "jp": "メデューテが命を落とす。",
-  "en": "",
-  "status": ""
+  "en": "Medoute has lost her life.",
+  "status": "done"
  },
  {
   "id": "eboot_25CB20",
@@ -8986,8 +8986,8 @@
    }
   ],
   "jp": "メデューテは戦術の誤りを",
-  "en": "",
-  "status": ""
+  "en": "Medoute regretted her tactical",
+  "status": "done"
  },
  {
   "id": "eboot_25CB3C",
@@ -9000,8 +9000,8 @@
    }
   ],
   "jp": "ユーディが命を落とす。",
-  "en": "",
-  "status": ""
+  "en": "Eudy has lost her life.",
+  "status": "done"
  },
  {
   "id": "eboot_25CB54",
@@ -9014,8 +9014,8 @@
    }
   ],
   "jp": "ルシエナとアイギナを狙う",
-  "en": "",
-  "status": ""
+  "en": "Hunting Luciana and Aegina,",
+  "status": "done"
  },
  {
   "id": "eboot_25CB70",
@@ -9028,8 +9028,8 @@
    }
   ],
   "jp": "レオンが命を落とす。",
-  "en": "",
-  "status": ""
+  "en": "Leon has lost his life.",
+  "status": "done"
  },
  {
   "id": "eboot_25CB88",
@@ -9042,8 +9042,8 @@
    }
   ],
   "jp": "レオンと共にパンドラへと",
-  "en": "",
-  "status": ""
+  "en": "Together with Leon, at Pandra,",
+  "status": "done"
  },
  {
   "id": "eboot_25CBA4",
@@ -9056,8 +9056,8 @@
    }
   ],
   "jp": "レオンの猛攻の前に、",
-  "en": "",
-  "status": ""
+  "en": "and Leon's fierce attack,",
+  "status": "done"
  },
  {
   "id": "eboot_25CBBC",
@@ -9070,8 +9070,8 @@
    }
   ],
   "jp": "レオン粛清を謀った",
-  "en": "",
-  "status": ""
+  "en": "Plotting to purge Leon,",
+  "status": "done"
  },
  {
   "id": "eboot_25CBD0",
@@ -9084,8 +9084,8 @@
    }
   ],
   "jp": "暗殺者との暗闘の中で、",
-  "en": "",
-  "status": ""
+  "en": "In a secret fight with assassins,",
+  "status": "done"
  },
  {
   "id": "eboot_25CBE8",
@@ -9098,8 +9098,8 @@
    }
   ],
   "jp": "暗殺者の炙り出しに",
-  "en": "",
-  "status": ""
+  "en": "To smoke out the assassins,",
+  "status": "done"
  },
  {
   "id": "eboot_25CBFC",
@@ -9112,8 +9112,8 @@
    }
   ],
   "jp": "因縁の対決の最中、",
-  "en": "",
-  "status": ""
+  "en": "In a fated showdown,",
+  "status": "done"
  },
  {
   "id": "eboot_25CC10",
@@ -9126,8 +9126,8 @@
    }
   ],
   "jp": "永遠にその姿を消した…",
-  "en": "",
-  "status": ""
+  "en": "vanished forever...",
+  "status": "done"
  },
  {
   "id": "eboot_25CC28",
@@ -9140,8 +9140,8 @@
    }
   ],
   "jp": "永劫の汚名を着せられた…",
-  "en": "",
-  "status": ""
+  "en": "were branded forever...",
+  "status": "done"
  },
  {
   "id": "eboot_25CC44",
@@ -9154,8 +9154,8 @@
    }
   ],
   "jp": "遠征に出たエルルク山脈で",
-  "en": "",
-  "status": ""
+  "en": "On campaign in the Erruk Mountains,",
+  "status": "done"
  },
  {
   "id": "eboot_25CC60",
@@ -9168,8 +9168,8 @@
    }
   ],
   "jp": "奥へと進む最中、",
-  "en": "",
-  "status": ""
+  "en": "while pressing deeper,",
+  "status": "done"
  },
  {
   "id": "eboot_25CC74",
@@ -9182,8 +9182,8 @@
    }
   ],
   "jp": "王都守備軍を破るべく",
-  "en": "",
-  "status": ""
+  "en": "To beat the capital's garrison,",
+  "status": "done"
  },
  {
   "id": "eboot_25CC8C",
@@ -9196,8 +9196,8 @@
    }
   ],
   "jp": "壊滅すべく戦うも、",
-  "en": "",
-  "status": ""
+  "en": "they fought to crush it, but",
+  "status": "done"
  },
  {
   "id": "eboot_25CCA0",
@@ -9210,8 +9210,8 @@
    }
   ],
   "jp": "悔い、私兵団の前から",
-  "en": "",
-  "status": ""
+  "en": "error, and from the private army",
+  "status": "done"
  },
  {
   "id": "eboot_25CCB8",
@@ -9224,8 +9224,8 @@
    }
   ],
   "jp": "各個撃破され、壊滅した…",
-  "en": "",
-  "status": ""
+  "en": "fell one by one and was destroyed...",
+  "status": "done"
  },
  {
   "id": "eboot_25CCD4",
@@ -9238,8 +9238,8 @@
    }
   ],
   "jp": "革命は失敗に終わった…",
-  "en": "",
-  "status": ""
+  "en": "and the revolution failed...",
+  "status": "done"
  },
  {
   "id": "eboot_25CCEC",
@@ -9252,8 +9252,8 @@
    }
   ],
   "jp": "完全に失われていた…",
-  "en": "",
-  "status": ""
+  "en": "was completely gone...",
+  "status": "done"
  },
  {
   "id": "eboot_25CD04",
@@ -9266,8 +9266,8 @@
    }
   ],
   "jp": "慣れない雪山での",
-  "en": "",
-  "status": ""
+  "en": "On unfamiliar snowy mountains,",
+  "status": "done"
  },
  {
   "id": "eboot_25CD18",
@@ -9280,8 +9280,8 @@
    }
   ],
   "jp": "関所に殺到するパンドラの",
-  "en": "",
-  "status": ""
+  "en": "Pandra's charge at the checkpoint",
+  "status": "done"
  },
  {
   "id": "eboot_25CD34",
@@ -9294,8 +9294,8 @@
    }
   ],
   "jp": "関所に猛攻をかける最中、",
-  "en": "",
-  "status": ""
+  "en": "In the assault on the checkpoint,",
+  "status": "done"
  },
  {
   "id": "eboot_25CD50",
@@ -9308,8 +9308,8 @@
    }
   ],
   "jp": "許し、ヴェルマン方伯は",
-  "en": "",
-  "status": ""
+  "en": "got in, and Margrave Velleman",
+  "status": "done"
  },
  {
   "id": "eboot_25CD68",
@@ -9322,8 +9322,8 @@
    }
   ],
   "jp": "近衛隊は、侵略者として",
-  "en": "",
-  "status": ""
+  "en": "the Royal Guard, as invaders,",
+  "status": "done"
  },
  {
   "id": "eboot_25CD80",
@@ -9336,8 +9336,8 @@
    }
   ],
   "jp": "近衛隊もまた、壊滅した…",
-  "en": "",
-  "status": ""
+  "en": "the Royal Guard was destroyed too...",
+  "status": "done"
  },
  {
   "id": "eboot_25CD9C",
@@ -9350,8 +9350,8 @@
    }
   ],
   "jp": "金塊のニセ情報により",
-  "en": "",
-  "status": ""
+  "en": "Fooled by false gold reports,",
+  "status": "done"
  },
  {
   "id": "eboot_25CDB4",
@@ -9364,8 +9364,8 @@
    }
   ],
   "jp": "軍事演習の最中、",
-  "en": "",
-  "status": ""
+  "en": "During the war games,",
+  "status": "done"
  },
  {
   "id": "eboot_25CDC8",
@@ -9378,8 +9378,8 @@
    }
   ],
   "jp": "軍神バルドゥスとの",
-  "en": "",
-  "status": ""
+  "en": "With War God Baldus,",
+  "status": "done"
  },
  {
   "id": "eboot_25CDDC",

@@ -1456,8 +1456,8 @@
    }
   ],
   "jp": "エレナ",
-  "en": "",
-  "status": ""
+  "en": "Elena",
+  "status": "done"
  },
  {
   "id": "eboot_260F14",
@@ -1708,8 +1708,8 @@
    }
   ],
   "jp": "ユグドラ",
-  "en": "",
-  "status": ""
+  "en": "Yggdra",
+  "status": "done"
  },
  {
   "id": "eboot_261424",
@@ -2100,8 +2100,8 @@
    }
   ],
   "jp": "ゴーレム",
-  "en": "",
-  "status": ""
+  "en": "Golem",
+  "status": "done"
  },
  {
   "id": "eboot_261974",
@@ -2352,8 +2352,8 @@
    }
   ],
   "jp": "負傷兵",
-  "en": "",
-  "status": ""
+  "en": "Wounded Soldier",
+  "status": "done"
  },
  {
   "id": "eboot_261C74",
@@ -2380,8 +2380,8 @@
    }
   ],
   "jp": "密偵",
-  "en": "",
-  "status": ""
+  "en": "Spy",
+  "status": "done"
  },
  {
   "id": "eboot_261CC0",
@@ -2453,8 +2453,8 @@
    }
   ],
   "jp": "青年",
-  "en": "",
-  "status": ""
+  "en": "Youth",
+  "status": "done"
  },
  {
   "id": "eboot_261D4C",
@@ -2481,8 +2481,8 @@
    }
   ],
   "jp": "お姉さん",
-  "en": "",
-  "status": ""
+  "en": "Young Lady",
+  "status": "done"
  },
  {
   "id": "eboot_261D70",
@@ -2509,8 +2509,8 @@
    }
   ],
   "jp": "老人",
-  "en": "",
-  "status": ""
+  "en": "Old Man",
+  "status": "done"
  },
  {
   "id": "eboot_261D90",
@@ -2537,8 +2537,8 @@
    }
   ],
   "jp": "老婆",
-  "en": "",
-  "status": ""
+  "en": "Old Woman",
+  "status": "done"
  },
  {
   "id": "eboot_261DB8",
@@ -2565,8 +2565,8 @@
    }
   ],
   "jp": "魔導師",
-  "en": "",
-  "status": ""
+  "en": "Mage",
+  "status": "done"
  },
  {
   "id": "eboot_261DDC",
@@ -2593,8 +2593,8 @@
    }
   ],
   "jp": "貴族",
-  "en": "",
-  "status": ""
+  "en": "Noble",
+  "status": "done"
  },
  {
   "id": "eboot_261DF8",
@@ -2621,8 +2621,8 @@
    }
   ],
   "jp": "神父",
-  "en": "",
-  "status": ""
+  "en": "Priest",
+  "status": "done"
  },
  {
   "id": "eboot_261E28",
@@ -2649,8 +2649,8 @@
    }
   ],
   "jp": "商人",
-  "en": "",
-  "status": ""
+  "en": "Merchant",
+  "status": "done"
  },
  {
   "id": "eboot_261E48",
@@ -2677,8 +2677,8 @@
    }
   ],
   "jp": "遊牧民",
-  "en": "",
-  "status": ""
+  "en": "Nomad",
+  "status": "done"
  },
  {
   "id": "eboot_261E98",
@@ -2705,8 +2705,8 @@
    }
   ],
   "jp": "母親",
-  "en": "",
-  "status": ""
+  "en": "Mother",
+  "status": "done"
  },
  {
   "id": "eboot_261EC8",
@@ -2733,8 +2733,8 @@
    }
   ],
   "jp": "子供",
-  "en": "",
-  "status": ""
+  "en": "Child",
+  "status": "done"
  },
  {
   "id": "eboot_261EE4",
@@ -2761,8 +2761,8 @@
    }
   ],
   "jp": "妖精",
-  "en": "",
-  "status": ""
+  "en": "Fairy",
+  "status": "done"
  },
  {
   "id": "eboot_261EFC",
