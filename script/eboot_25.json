@@ -3,91 +3,127 @@
   "id": "eboot_258484",
   "ptr": 2458756,
   "bytes": 85,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806492
+   }
+  ],
   "jp": "%sが入っていません。[0A]削除に失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "No %s inserted.[0A]Deleting failed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_2584DC",
   "ptr": 2458844,
   "bytes": 64,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806504
+   }
+  ],
   "jp": "削除に失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Deleting failed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_25851C",
   "ptr": 2458908,
   "bytes": 76,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806516
+   }
+  ],
   "jp": "スリープモードから復帰しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Returned from sleep mode.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_258568",
   "ptr": 2458984,
   "bytes": 45,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806528
+   }
+  ],
   "jp": "中断データが壊れていました。[0A][0A]削除しますか？",
-  "en": "",
-  "status": ""
+  "en": "The suspend data was corrupted.[0A][0A]Delete it?",
+  "status": "done"
  },
  {
   "id": "eboot_258598",
   "ptr": 2459032,
   "bytes": 51,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806540
+   }
+  ],
   "jp": "ストーリーデータが壊れていました。[0A][0A]削除しますか？",
-  "en": "",
-  "status": ""
+  "en": "The story data was corrupted.[0A][0A]Delete it?",
+  "status": "done"
  },
  {
   "id": "eboot_2585CC",
   "ptr": 2459084,
   "bytes": 74,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806552
+   }
+  ],
   "jp": "スリープモードから復帰しました[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Returned from sleep mode[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_258618",
   "ptr": 2459160,
   "bytes": 87,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806564
+   }
+  ],
   "jp": "%sが入っていません。[0A]ロードに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "No %s inserted.[0A]Loading failed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_258670",
   "ptr": 2459248,
   "bytes": 72,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806576
+   }
+  ],
   "jp": "%sのアクセスに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Could not access the %s.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_2586B8",
   "ptr": 2459320,
   "bytes": 162,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806588
+   }
+  ],
   "jp": "%sの空き容量が不足しています。[0A]このゲームのデータをセーブするには[0A]あとFREKB以上の空き容量が必要です。[0A]空き容量を確保するため、セーブデータを[0A]選び、削除しますか？",
-  "en": "",
-  "status": ""
+  "en": "Not enough free space on the %s.[0A]To save this game's data,[0A]FREKB more free space is needed.[0A]Choose save data to delete,[0A]to make room?",
+  "status": "done"
  },
  {
   "id": "eboot_258B64",
@@ -107,11 +143,15 @@
   "id": "eboot_258B74",
   "ptr": 2460532,
   "bytes": 89,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806608
+   }
+  ],
   "jp": "『BLAZE UNION』のシステムデータです。[0A]このゲームの進行に必要なので削除しないでください。",
-  "en": "",
-  "status": ""
+  "en": "System data for BLAZE UNION.[0A]This game needs it to run, so please do not delete it.",
+  "status": "done"
  },
  {
   "id": "eboot_258BD0",
@@ -257,8 +297,13 @@
   "id": "eboot_258D40",
   "ptr": 2460992,
   "bytes": 42,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 1013576,
+    "lo": 1013596
+   }
+  ],
   "jp": "ユグドラ・ユニオンのシステムデータです。[0A]",
   "en": "Yggdra Union system data.[0A]",
   "status": "done"
@@ -268,7 +313,16 @@
   "ptr": 2461036,
   "bytes": 28,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1014008,
+    "lo": 1014244
+   },
+   {
+    "hi": 1014588,
+    "lo": 1014596
+   }
+  ],
   "jp": "【ユーティリティ強制終了】[0A]",
   "en": "",
   "status": ""
@@ -278,7 +332,16 @@
   "ptr": 2461064,
   "bytes": 30,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1014264,
+    "lo": 1014272
+   },
+   {
+    "hi": 1014616,
+    "lo": 1014624
+   }
+  ],
   "jp": "【でも、処理は完了している】[0A]",
   "en": "",
   "status": ""
@@ -288,7 +351,16 @@
   "ptr": 2461096,
   "bytes": 28,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1014260,
+    "lo": 1014300
+   },
+   {
+    "hi": 1014612,
+    "lo": 1014652
+   }
+  ],
   "jp": "【処理は終わっていません】[0A]",
   "en": "",
   "status": ""
@@ -298,7 +370,12 @@
   "ptr": 2461124,
   "bytes": 57,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1014344,
+    "lo": 1014372
+   }
+  ],
   "jp": "SaveProc::setResult  正常終了しているがMSは抜かれている[0A]",
   "en": "",
   "status": ""
@@ -308,7 +385,12 @@
   "ptr": 2461184,
   "bytes": 31,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1015456,
+    "lo": 1015472
+   }
+  ],
   "jp": "ロードするフォルダ名 = %s(%s)[0A]",
   "en": "",
   "status": ""
@@ -318,7 +400,12 @@
   "ptr": 2461216,
   "bytes": 31,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1015516,
+    "lo": 1015532
+   }
+  ],
   "jp": "セーブするフォルダ名 = %s(%s)[0A]",
   "en": "",
   "status": ""
@@ -343,7 +430,12 @@
   "ptr": 2461448,
   "bytes": 28,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1016716,
+    "lo": 1016724
+   }
+  ],
   "jp": "【メモリーカードチェック】[0A]",
   "en": "",
   "status": ""
@@ -353,7 +445,12 @@
   "ptr": 2461568,
   "bytes": 29,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1017164,
+    "lo": 1017176
+   }
+  ],
   "jp": "上記３つの合計サイズ : %dKB[0A]",
   "en": "",
   "status": ""
@@ -363,7 +460,12 @@
   "ptr": 2461600,
   "bytes": 37,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1017200,
+    "lo": 1017208
+   }
+  ],
   "jp": "メモリースティックの空き容量 : %dKB[0A]",
   "en": "",
   "status": ""
@@ -373,7 +475,12 @@
   "ptr": 2461640,
   "bytes": 22,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1017284,
+    "lo": 1017292
+   }
+  ],
   "jp": "【ファイルチェック】[0A]",
   "en": "",
   "status": ""
@@ -383,7 +490,12 @@
   "ptr": 2461664,
   "bytes": 63,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1017672,
+    "lo": 1017680
+   }
+  ],
   "jp": "【ユグドラ・ユニオン】システムデータは、ありませんでした : %d[0A]",
   "en": "",
   "status": ""
@@ -393,7 +505,12 @@
   "ptr": 2461728,
   "bytes": 49,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1017812,
+    "lo": 1017820
+   }
+  ],
   "jp": "【ユグドラ・ユニオン】システムデータ発見！ : %d[0A]",
   "en": "",
   "status": ""
@@ -403,7 +520,12 @@
   "ptr": 2461780,
   "bytes": 28,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1017916,
+    "lo": 1017924
+   }
+  ],
   "jp": "【システムデータのロード】[0A]",
   "en": "",
   "status": ""
@@ -413,7 +535,12 @@
   "ptr": 2461828,
   "bytes": 48,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1018216,
+    "lo": 1018224
+   }
+  ],
   "jp": "【ユグドラ・ユニオンのシステムデータのロード】[0A]",
   "en": "",
   "status": ""
@@ -423,7 +550,12 @@
   "ptr": 2461876,
   "bytes": 28,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1018576,
+    "lo": 1018584
+   }
+  ],
   "jp": "【システムデータのセーブ】[0A]",
   "en": "",
   "status": ""
@@ -433,7 +565,12 @@
   "ptr": 2461924,
   "bytes": 24,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1018896,
+    "lo": 1018904
+   }
+  ],
   "jp": "【中断データのロード】[0A]",
   "en": "",
   "status": ""
@@ -443,7 +580,12 @@
   "ptr": 2461968,
   "bytes": 24,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1019188,
+    "lo": 1019196
+   }
+  ],
   "jp": "【中断データのセーブ】[0A]",
   "en": "",
   "status": ""
@@ -453,7 +595,12 @@
   "ptr": 2462188,
   "bytes": 34,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1021260,
+    "lo": 1021268
+   }
+  ],
   "jp": "【 サスペンドから復帰しました 】[0A]",
   "en": "",
   "status": ""
@@ -2420,7 +2567,7 @@
    }
   ],
   "jp": "色黒の女武芸者",
-  "en": "Dark-Skinned Swordswoman",
+  "en": "Tanned Fighter",
   "status": "done"
  },
  {
@@ -2686,7 +2833,7 @@
    }
   ],
   "jp": "商人風の青年",
-  "en": "Merchant-Like Youth",
+  "en": "Merchant Youth",
   "status": "done"
  },
  {
@@ -2840,7 +2987,7 @@
    }
   ],
   "jp": "大将らしき無精男",
-  "en": "Scruffy Chief-Like Man",
+  "en": "Scruffy Chief",
   "status": "done"
  },
  {
@@ -3246,7 +3393,7 @@
    }
   ],
   "jp": "王都住民",
-  "en": "Royal Capital Resident",
+  "en": "Royal City Resident",
   "status": "done"
  },
  {
@@ -3288,7 +3435,7 @@
    }
   ],
   "jp": "帝都住民",
-  "en": "Imperial Capital Resident",
+  "en": "Imperial Resident",
   "status": "done"
  },
  {
@@ -3302,7 +3449,7 @@
    }
   ],
   "jp": "ニーベル街区住民",
-  "en": "Nibel Quarter Resident",
+  "en": "Nibel Resident",
   "status": "done"
  },
  {
@@ -3316,7 +3463,7 @@
    }
   ],
   "jp": "ネザー地区住民",
-  "en": "Nether District Resident",
+  "en": "Nether Resident",
   "status": "done"
  },
  {
@@ -4590,7 +4737,7 @@
    }
   ],
   "jp": "メガネ女の大砲",
-  "en": "Glasses Woman's Cannon",
+  "en": "Four-Eyes' Cannon",
   "status": "done"
  },
  {
@@ -4856,7 +5003,7 @@
    }
   ],
   "jp": "王都の大砲",
-  "en": "Royal Capital Cannon",
+  "en": "Capital Cannon",
   "status": "done"
  },
  {
@@ -6293,7 +6440,12 @@
   "ptr": 2469688,
   "bytes": 20,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 1119984,
+    "lo": 1120048
+   }
+  ],
   "jp": "エラー状態から復帰[0A]",
   "en": "",
   "status": ""
@@ -13590,7 +13742,7 @@
    }
   ],
   "jp": "初めて下された指令は{n}帝都上洛の警護だった…",
-  "en": "Their first order was to escort a trip to the Imperial capital...",
+  "en": "Their first order: escort a trip to the Imperial capital...",
   "status": "done"
  },
  {

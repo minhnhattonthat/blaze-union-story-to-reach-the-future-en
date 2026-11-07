@@ -2229,7 +2229,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "クク、面白い！{n}復讐に闘志を燃やす者よ、{n}存分に力をぶつけてみろ！",
-  "en": "Heh heh, interesting! You who burn for revenge, throw all your strength at me!",
+  "en": "Heh heh, interesting! Avenger, throw all your strength at me!",
   "status": "done"
  },
  {
@@ -2239,7 +2239,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "最初から、そのつもりだよ！",
-  "en": "That's what Cerica planned from the start!",
+  "en": "That was Cerica's plan!",
   "status": "done"
  },
  {
@@ -2249,7 +2249,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "復讐…{n}それが散った命に対する{n}せめてもの餞のつもりですか？",
-  "en": "Revenge... Do you mean it as a parting gift to the fallen, at least?",
+  "en": "Revenge... Is that your parting gift to the fallen, then?",
   "status": "done"
  },
  {
@@ -2259,7 +2259,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "な、何を言ってるのよ…",
-  "en": "Wh-what are you talking about...",
+  "en": "Wh-what do you mean...",
   "status": "done"
  },
  {
@@ -3133,7 +3133,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "腕前は未熟だが、{n}闘志の昂りをひとひし感じるな！",
-  "en": "Your skills are raw, but I can feel your fighting spirit in full!",
+  "en": "You're raw, but I feel your fighting spirit!",
   "status": "done"
  },
  {
@@ -3153,7 +3153,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "ホウ！　やるではないか、娘②{n}額の傷が疼くほどだぞ！",
-  "en": "Ho! Not bad, girl! You've got this scar on my forehead throbbing!",
+  "en": "Ho! Not bad, girl! My forehead scar is throbbing!",
   "status": "done"
  },
  {
@@ -3173,7 +3173,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "本当の意味で、{n}散った命にしてやれる事は、{n}何もありません。",
-  "en": "In the true sense, there is nothing one can do for the fallen.",
+  "en": "In truth, there is nothing one can do for the fallen.",
   "status": "done"
  },
  {
@@ -3203,7 +3203,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "だから、何を言ってるんだよ！{n}わけわかんない…",
-  "en": "Like Cerica said, what are you talking about! She doesn't get it...",
+  "en": "Like Cerica said, what do you mean!? Huh...",
   "status": "done"
  }
 ]

@@ -378,7 +378,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "タダの用心棒にしてはやるな！{n}何者だ、お前ら？",
-  "en": "You're pretty good for mere bodyguards! Who are you people?",
+  "en": "Not bad for bodyguards! Who are you people?",
   "status": "done"
  },
  {
@@ -388,7 +388,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "俺達は、グラム・ブレイズ。{n}ヴェルマン方伯の私兵団だ！{n}この名、胸に刻んで地獄へ行け！",
-  "en": "We're Gram Blaze, Margrave Velleman's private army! Carve that name in your heart and go to hell!",
+  "en": "We're Gram Blaze, Velleman's private army! Carve that in your heart and go to hell!",
   "status": "done"
  },
  {
@@ -398,7 +398,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "侮るな！{n}こいつ、手ごわいぞ。",
-  "en": "Don't underestimate him! This one's tough.",
+  "en": "Careful! This one's tough.",
   "status": "done"
  },
  {
@@ -408,7 +408,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "女だからって甘く見ないでよね！",
-  "en": "Don't go easy on me just because I'm a girl!",
+  "en": "I'm a girl? Don't go easy!",
   "status": "done"
  },
  {
@@ -428,7 +428,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "見た目で実力を計る事ほど{n}愚かな事はないっ！",
-  "en": "Nothing is more foolish than judging strength by looks!",
+  "en": "Never judge strength by looks, you fool!",
   "status": "done"
  },
  {
@@ -438,7 +438,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "浅黒い肌に巨大な斧……{n}この女…、まさかメデューテ③",
-  "en": "Dark skin, a huge axe... This woman... She couldn't be Medoute!?",
+  "en": "Dark skin, huge axe... You can't be Medoute!?",
   "status": "done"
  },
  {
@@ -448,7 +448,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "あたしを知ってるとはね。{n}嬉しくも、何ともないけど。",
-  "en": "So you've heard of me. Not that I'm flattered in the least.",
+  "en": "So you've heard of me. I'm not flattered.",
   "status": "done"
  },
  {
@@ -458,7 +458,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "くそっ！{n}詰めが甘かったか③",
-  "en": "Damn it! Did I get careless at the end!?",
+  "en": "Damn! Was I careless!?",
   "status": "done"
  },
  {
@@ -478,7 +478,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "オラオラぁ！{n}盗賊だからって舐めんなよ②",
-  "en": "C'mon, c'mon! Don't look down on us just 'cause we're bandits!",
+  "en": "C'mon! Don't look down on us bandits!",
   "status": "done"
  },
  {
@@ -488,7 +488,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "俺に戦いを挑むとは、{n}命が惜しくないようだな。",
-  "en": "Challenging me? I guess you don't value your life.",
+  "en": "Challenging me? You don't value your life.",
   "status": "done"
  },
  {
@@ -498,7 +498,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "調子に乗ってるね……",
-  "en": "Getting cocky, aren't you...",
+  "en": "You're getting cocky",
   "status": "done"
  },
  {
@@ -508,7 +508,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "なんだ、拍子抜けだ。{n}噂ほどの実力は無いようだな。",
-  "en": "Huh, what a letdown. Not as strong as the rumors say, it seems.",
+  "en": "Huh, a letdown. Not as strong as the rumors.",
   "status": "done"
  },
  {

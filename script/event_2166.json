@@ -1246,7 +1246,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "ミゼルちゃんの仲間は{n}他の盗賊とは違って、{n}村や集落を荒らす事もないわ。",
-  "en": "Mizer-chan's friends aren't like other thieves. They don't raid villages or settlements.",
+  "en": "Mizer-chan's crew isn't like other thieves. They don't raid villages.",
   "status": "done"
  },
  {
@@ -1256,7 +1256,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "その反対に、{n}ミゼルちゃんのおかげで{n}盗賊や乱暴者も減ったのよ。",
-  "en": "On the contrary, thanks to Mizer-chan there are fewer thieves and thugs around.",
+  "en": "In fact, thanks to Mizer-chan there are fewer thugs around.",
   "status": "done"
  },
  {
@@ -1266,7 +1266,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "だから、ケンカはやめて、{n}ミゼルちゃんの話も{n}聞いてあげてね。",
-  "en": "So please stop fighting, and listen to what Mizer-chan has to say.",
+  "en": "So stop fighting, and hear what Mizer-chan has to say.",
   "status": "done"
  },
  {

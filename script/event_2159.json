@@ -1942,7 +1942,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "抵抗は無意味だ、{n}寡黙に死を受け入れよ。",
-  "en": "Resistance is futile. Accept death in silence.",
+  "en": "Resistance is futile. Die in silence.",
   "status": "done"
  },
  {
@@ -1952,7 +1952,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "仮",
-  "en": "Temp",
+  "en": "--",
   "status": "done"
  },
  {

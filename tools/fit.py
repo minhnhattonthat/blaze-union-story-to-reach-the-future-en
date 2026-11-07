@@ -18,6 +18,7 @@ ITEM_TEXT = (0x28C040, 0x28C8E8)  # vwf.WRAPS: the build word-wraps these per sc
 PLACEHOLDER_PX = 60  # shortcut: %s and {sub} measured as 60 px; phase 8 reads the real lines on screen
 SYMBOL_PX = 16  # the kept Shift-JIS symbols keep their game cell, about this wide
 SYMBOLS = "♪☆★■□○●◎"
+STUB = 6  # a wrapped paragraph's last line under this many characters is an orphan
 
 
 @lru_cache(maxsize=None)
@@ -35,6 +36,13 @@ def windows():
 def boxes():
     """{record id: window name} from data/box_ids.tsv."""
     return dict(line.split("\t")[:2] for line in (ROOT / "data/box_ids.tsv").read_text(encoding="utf-8").splitlines())
+
+
+@lru_cache(maxsize=None)
+def also():
+    """{record id: other windows that draw the same string}, the sixth column of data/box_ids.tsv. The first window wraps it; each of these is only linted."""
+    rows = (line.rstrip("\n").split("\t") for line in (ROOT / "data/box_ids.tsv").read_text(encoding="utf-8").splitlines())
+    return {r[0]: r[5].split(",") for r in rows if len(r) > 5 and r[5]}
 
 
 def width(s, font=1):
@@ -57,8 +65,19 @@ def wrap(s, font, px):
                 cur = word
             else:
                 cur = test
+        if lines and lines[-1] and len(cur) < STUB < len(part) and " " in lines[-1]:  # no orphan on the last line: take a word down, if it still fits
+            head, word = lines[-1].rsplit(" ", 1)
+            if width(f"{word} {cur}", font) <= px:
+                lines[-1], cur = head, f"{word} {cur}"
         lines.append(cur)
     return lines
+
+
+def stub(en, font, px):
+    """Last line of a wrapped paragraph, if it is an orphan even after wrap()'s fix."""
+    part = en.split("{n}")[-1]
+    tail = wrap(part, font, px)
+    return tail[-1] if len(tail) > 1 and len(tail[-1]) < STUB else None
 
 
 def jp_cells(jp):
@@ -109,11 +128,24 @@ def problems(r, en):
     wide = max(width(line, font) for line in lines)
     if wide > px:
         out.append(f"{wide} px, limit {px}")
+    if orphan := stub(en, font, px):
+        out.append(f"orphan last line {orphan!r}")
+    last_px = windows().get(boxes().get(r["id"], ""), {}).get("last_px")
+    if last_px and len(lines) == rows and width(lines[-1], font) > last_px:
+        out.append(f"last row {width(lines[-1], font)} px, limit {last_px}")
+    for name in also().get(r["id"], ()):
+        w = windows()[name]
+        if len(wrap(en, w["font"], w["px"])) > w["rows"] or width(en, w["font"]) > w["px"] * w["rows"]:
+            out.append(f"{width(en, w['font'])} px, also drawn in {name} ({w['px']} x {w['rows']})")
     limit = windows().get(boxes().get(r["id"], ""), {}).get("bytes")
     if limit and len(en) > limit:
         out.append(f"{len(en)} bytes, limit {limit}")
     if r["kind"] in ("inline", "bare") and len(lead(r["jp"])) // 2 + len(en) > r["bytes"] - 1:
         out.append(f"{len(en)} bytes, slot holds {r['bytes'] - 1}")
+    if r["kind"] == "unref" and not r["slots"]:  # no pointer to move: the build refuses it. A voice code is its opcode and 3 bytes; {n} is one byte
+        size = (4 if lead(r["jp"]) else 0) + len(en.replace("{n}", " "))
+        if size > r["bytes"] - 1:
+            out.append(f"{size} bytes, unreferenced and holds {r['bytes'] - 1}")
     return (out, []) if known else ([], out)
 
 
@@ -123,6 +155,8 @@ def _selftest():
     lines = wrap(long, 1, 300)
     assert len(lines) > 1 and all(width(x) <= 300 for x in lines) and " ".join(lines) == long
     assert width("%s") == PLACEHOLDER_PX and width("{sub:12}") == PLACEHOLDER_PX
+    assert wrap("one two three", 1, width("one two three") - 1) == ["one", "two three"] and stub("one two three", 1, width("one two three") - 1) is None
+    assert stub("one two three{n}a", 1, 300) is None  # an authored break isn't an orphan
     assert jp_cells("{voice:005000}あa{n}あ") == (30, 2)
     assert lead("{voice:005000}x") == "{voice:005000}" and lead("x") == ""
     item = {"id": "eboot_231858", "slots": [{"word": ITEM_TEXT[0]}], "jp": "あ", "en": long}

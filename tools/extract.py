@@ -21,6 +21,7 @@ RODATA, DATA_END = 0x1B1420, 0x2BFBDF  # .rodata and .data vaddrs, from the ELF 
 BLOCK = 0x10000  # one eboot_*.json per this much of the address space
 # Shift-JIS code tables, not text: the printer's bucket bounds, ASCII to full width, font 4's kana; the digits 0x9FD60 indexes (docs/re/text.md)
 FONT_TABLES = {0x27B1AA, 0x27B1C8, 0x27B29E, 0x22EBB8}
+SYSTEM_DIALOG = {0x237058, 0x2370A4, 0x258B74, 0x258D40}  # the save data's details, taken by code at 0xF249C, 0xF24E8, 0xF775C
 
 
 def table():
@@ -284,7 +285,11 @@ def scan_eboot(elf):
         if not e:  # CRI middleware and debug printf: ASCII newlines and such, which the game's printer can't draw
             e, kind = img.index(0, p) + 1, "debug"
         if not claimed[p]:
-            ents.append(entry("eboot", img, p, e, kind, []))
+            slots = targets.get(p, [])
+            # not debug after all: ASCII newlines, but a data table points at them (the save dialogs at 0x2AD028), or the save data's details show them
+            if kind == "debug" and (any("word" in s for s in slots) or p in SYSTEM_DIALOG):
+                kind = "msg"
+            ents.append(entry("eboot", img, p, e, kind, slots))
             claimed[p:e] = b"\1" * (e - p)
     ents.sort(key=lambda r: r["ptr"])
     return ents

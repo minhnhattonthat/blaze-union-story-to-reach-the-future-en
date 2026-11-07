@@ -5554,7 +5554,7 @@
    }
   ],
   "jp": "　－ＥＸＩデータ更新－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
-  "en": "-Update EXI Data-{n}Check the Memory Stick is{n}inserted and press Confirm",
+  "en": " -Update EXI Data-{n}Check the Memory Stick is{n}inserted and press Confirm",
   "status": "done"
  },
  {
@@ -5569,7 +5569,7 @@
    }
   ],
   "jp": "　　　－背景更新－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
-  "en": "-Update Background-{n}Check the Memory Stick is{n}inserted and press Confirm",
+  "en": " -Update Background-{n}Check the Memory Stick is{n}inserted and press Confirm",
   "status": "done"
  },
  {
@@ -5584,7 +5584,7 @@
    }
   ],
   "jp": "　　－スケール出力－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
-  "en": "-Output Scale-{n}Check the Memory Stick is{n}inserted and press Confirm",
+  "en": " -Output Scale-{n}Check the Memory Stick is{n}inserted and press Confirm",
   "status": "done"
  },
  {
@@ -5599,7 +5599,7 @@
    }
   ],
   "jp": "　－スケール読み込み－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
-  "en": "-Load Scale-{n}Check the Memory Stick is{n}inserted and press Confirm",
+  "en": " -Load Scale-{n}Check the Memory Stick is{n}inserted and press Confirm",
   "status": "done"
  },
  {

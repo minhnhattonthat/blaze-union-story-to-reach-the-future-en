@@ -45,6 +45,9 @@ def speakers():
     return dict(line.split("\t") for line in p.read_text(encoding="utf-8").splitlines()) if p.exists() else {}
 
 
+BLANKS = (" ", "　")
+
+
 def translatable(e, kept):
     """A record whose bytes start with the 0x90 padding overlaps the real message 3 bytes on: leave it to that one."""
     return e["kind"] in TRANSLATED and e["jp"] and e["id"] not in kept and not e["jp"].startswith(("瑞垂", "吹c", "趨C"))
@@ -110,6 +113,8 @@ def problems(e, en, terms):
     want, have = Counter(TOKEN.findall(jp)), Counter(TOKEN.findall(en))
     if want != have:
         out.append(f"control codes differ: JP {dict(want)} EN {dict(have)}")
+    if (jp[:1] in BLANKS, jp[-1:] == "　") != (en[:1] in BLANKS, en[-1:] in BLANKS):  # a trailing half-width blank prints nothing, and read_tsv's callers strip it
+        out.append("leading or trailing blanks differ from the JP")
     if re.search(f"({VARIABLE})(st|nd|rd|th)\\b", en):
         out.append('ordinal suffix after a variable (write "No. %d")')
     jp_plain = TOKEN.sub("", jp)
@@ -278,7 +283,10 @@ def main(argv):
     entries, terms = index(), glossary()
     if cmd == "check" and not names:
         bad, soft = [], 0
+        kept = keep()
         for i, e in entries.items():
+            if translatable(e, kept) and not e.get("en"):
+                bad.append(f"{i}: no English, and not in keep_jp.txt: {e['jp']!r}")
             if e.get("en") and e.get("status") != "auto":
                 bad += [f"{i}: {p}: {e['en']!r}" for p in problems(e, e["en"], terms)]
                 soft += bool(fit.problems(e, e["en"])[1])

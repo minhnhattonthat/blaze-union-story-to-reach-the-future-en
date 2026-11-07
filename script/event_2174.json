@@ -1050,7 +1050,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00B609}おいっ、信じられねぇっす。{n}俺の魅力に、女がなびかない……",
-  "en": "Hey, I can't believe this, man. My charm ain't makin' you girls swoon...",
+  "en": "Hey, I can't believe it. Girls ain't swoonin' for me...",
   "status": "done"
  },
  {
@@ -1060,7 +1060,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00B709}そうか、分かったぞ。{n}力で奪って欲しいんだろ？{n}そう言う趣味か！",
-  "en": "I get it now. You want a guy who can beat you in a fight, right? So that's your type!",
+  "en": "I get it. You want a guy who can beat you? That's your type!",
   "status": "done"
  },
  {
@@ -1070,7 +1070,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00B809}おかしい、何かがおかしい……",
-  "en": "This is weird, something's weird...",
+  "en": "This is weird, it's all off",
   "status": "done"
  },
  {

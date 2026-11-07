@@ -2007,7 +2007,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "…むっ、何か光りましたわね？{n}私の目はごまかせなくてよ。{n}それっ！",
-  "en": "...Hm, did something just flash? You cannot fool these eyes of mine. There!",
+  "en": "...Hm, did something flash? You cannot fool my eyes. There!",
   "status": "done"
  },
  {
@@ -2487,7 +2487,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "…なんでしょうか、この気配。{n}街中だというのに{n}直情的な狂気を感じますわ。",
-  "en": "...What is this presence? In the middle of a town, I sense an unbridled madness.",
+  "en": "...What is this presence? In town, I sense an unbridled madness.",
   "status": "done"
  },
  {
@@ -2497,7 +2497,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "狂気の正体は、このカードか。{n}人間に扱いこなせるものとは{n}思えませんが…",
-  "en": "So the source of the madness is this card. I hardly think it something humans can handle...",
+  "en": "So this card is the madness. I doubt humans can handle it...",
   "status": "done"
  },
  {

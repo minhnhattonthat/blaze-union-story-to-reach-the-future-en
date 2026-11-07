@@ -474,7 +474,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "…キミ達、領主の名代として{n}徴税に来たらしいね。",
-  "en": "...You've come to collect taxes on behalf of the lord, I hear.",
+  "en": "...You're here for the lord's taxes, I hear.",
   "status": "done"
  },
  {
@@ -544,7 +544,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "鍛冶屋失格かもね、ワタシ…",
-  "en": "Maybe that makes me a failure as a blacksmith...",
+  "en": "Some blacksmith I am...",
   "status": "done"
  },
  {
@@ -564,7 +564,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "蜂起したみんなに誘われたけど、{n}私はここに残る事にしたの。",
-  "en": "The others invited me when they rose up, but I decided to stay here.",
+  "en": "The others asked me to rise up, but I'm staying here.",
   "status": "done"
  },
  {
@@ -574,7 +574,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "私、戦うのが嫌い。{n}恐い。",
-  "en": "I hate fighting. It's scary.",
+  "en": "Fighting scares me.",
   "status": "done"
  },
  {
@@ -584,7 +584,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "力がないから、戦えない。{n}力がなければ、虐げられる。{n}仕方のない事だと思う。",
-  "en": "I have no power, so I can't fight. Without power, you get trampled. I think that's just how it is.",
+  "en": "Without power, I can't fight, and I get trampled. It can't be helped.",
   "status": "done"
  },
  {
@@ -594,7 +594,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "だから、抗えない。{n}仕方がないのよ。",
-  "en": "So I can't resist. It can't be helped.",
+  "en": "So I can't resist. It's no use.",
   "status": "done"
  },
  {
@@ -624,7 +624,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "…あなた、優しいのね。{n}今まで見た兵隊とは、どこか違う。",
-  "en": "...You're kind. You're somehow different from the soldiers I've seen before.",
+  "en": "...You're kind. Not like the other soldiers I've seen.",
   "status": "done"
  },
  {
@@ -634,7 +634,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "……何もないけど、{n}コレを持って行って。{n}役に立つとは思えないけど。",
-  "en": "...I don't have much, but take this. I don't think it'll be of use, though.",
+  "en": "...I don't have much, but take this. It may not be of use.",
   "status": "done"
  },
  {
@@ -644,7 +644,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "農作業のとき、私がかぶる帽子。{n}弱い私の精一杯戦った時間を、{n}ともにすごした、帽子よ。",
-  "en": "The hat I wear for farm work. It was with me through the hardest fight I could put up, weak as I am.",
+  "en": "My hat for farm work. It was with me through the best fight I could put up.",
   "status": "done"
  },
  {
@@ -654,7 +654,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "いいの。{n}私のせめてもの強さ、{n}持って行ってほしいから。",
-  "en": "It's all right. I want you to take what little strength I have.",
+  "en": "It's all right. Take what little strength I have.",
   "status": "done"
  },
  {
@@ -674,7 +674,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "できれば、みんなを傷つけないで。",
-  "en": "If you can, please don't hurt anyone.",
+  "en": "Try not to hurt anyone, please.",
   "status": "done"
  },
  {
@@ -1564,7 +1564,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "到達した。",
-  "en": "We've arrived.",
+  "en": "Arrived.",
   "status": "done"
  },
  {

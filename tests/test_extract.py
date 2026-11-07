@@ -75,6 +75,14 @@ def test_no_japanese_left_out(dump):
     assert not [u for u in X.uncovered(img, eboot_records(files)) if u[0] >= X.RODATA]
 
 
+def test_no_live_table_text_filed_as_debug():
+    """A data table pointing at a `debug` record means the game prints it: the save dialogs at 0x2AD028 hid behind that class."""
+    kept = {line.split("\t")[0] for line in (ROOT / "script/keep_jp.txt").read_text(encoding="utf-8").splitlines()}
+    hidden = [r["id"] for f in (ROOT / "script").glob("eboot_*.json") for r in json.loads(f.read_text(encoding="utf-8"))
+              if r["kind"] == "debug" and any(ord(c) > 0x7F for c in r["jp"]) and any("word" in s for s in r["slots"]) and r["id"] not in kept]
+    assert not hidden, hidden
+
+
 def test_scripts_fully_covered(dump):
     """Every byte of a script is header, code, string, padding or a small explained data span with no text in it."""
     _, info, src = dump

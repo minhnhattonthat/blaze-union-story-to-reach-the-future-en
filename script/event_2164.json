@@ -1047,7 +1047,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "大将を捕らえろ、ですって？{n}面倒ねぇ。大砲を撃ち込んで、{n}砦ごとブチ壊した方が早いのに。",
-  "en": "Capture their leader, you say? What a bother. Quicker to fire the cannon and blow up the fort.",
+  "en": "Capture their leader? What a bother. Quicker to fire the cannon and blow up the fort.",
   "status": "done"
  },
  {
@@ -1057,7 +1057,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "おい、大将～。どこ行った～？{n}いないなら「いない」って{n}返事してくれないかな～？",
-  "en": "Hey, boss~ Where'd you go~? If you're not here, could you answer and say \"not here\"~?",
+  "en": "Hey, boss~ Where'd you go~? If you're gone, could you answer and say so~?",
   "status": "done"
  },
  {
@@ -1067,7 +1067,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "…酸素が薄くなったせいかしら？{n}な～んだか、吐き気が……{n}ウップっ②",
-  "en": "...Is the air getting thin? I kinda feel like throwing up... *urp*!",
+  "en": "...Is the air getting thin? I kinda feel sick... *urp*!",
   "status": "done"
  },
  {
@@ -1077,7 +1077,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "…退屈な砦だわさ…{n}パメラ様の知的好奇心を刺激する{n}何か、置いてないの～？",
-  "en": "...What a boring fort, y'know... Isn't there anything to stir Pamela-sama's intellectual curiosity~?",
+  "en": "...What a boring fort... Anything to stir Pamela-sama's curiosity~?",
   "status": "done"
  },
  {
@@ -2857,7 +2857,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "この程度で、帝国を変えられると{n}本気で思っているのか？",
-  "en": "You really think you can change the Empire with this little?",
+  "en": "You think this little can really change the Empire?",
   "status": "done"
  },
  {
@@ -2867,7 +2867,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "アマいんだよ！{n}クソガキどもが②",
-  "en": "You're so naive! You little brats!",
+  "en": "So naive! You little brats!",
   "status": "done"
  },
  {

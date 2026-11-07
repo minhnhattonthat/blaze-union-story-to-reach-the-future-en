@@ -56,7 +56,8 @@ SLOT_TABLES = ((0x2ADE7C, 0x2AEA98, 0, 0, "speaker"), (0x278748, 0x2787D0, 0, 0,
                (0x2AD34C, 0x2AD38C, 0, 0, "memstick"), (0x2B5B30, 0x2B5B80, 0, 0, "unit_intro"), (0x2B604C, 0x2B6480, 0, 0, "dialogue"),
                (0x2B6604, 0x2B6668, 0, 0, "book_text"), (0x2B8758, 0x2B87C4, 0, 0, "lose_condition"), (0x2B8810, 0x2B8B7C, 0, 0, "win_condition"))
 BY_PTR = ((0x1E07B8, 0x1E0830, "morale_message"), (0x22EC4C, 0x22EFF0, "debug_menu"), (0x236690, 0x2369A0, "debug_menu"),
-          (0x237058, 0x2370F1, "not_drawn"), (0x258D40, 0x258D6A, "not_drawn"))  # code slots only; not_drawn here: save details the system dialog shows, kind `debug`
+          (0x237058, 0x2370F1, "not_drawn"), (0x258D40, 0x258D6A, "not_drawn"),  # not_drawn here: text the system dialog shows, kind `debug`
+          (0x237318, 0x23803D, "not_drawn"), (0x258484, 0x25875A, "not_drawn"), (0x258B74, 0x258BCD, "not_drawn"))  # save, load and delete messages (table 0x2AD028, sized by 0xF6C60)
 sys.path.insert(0, str(ROOT / "tools/debug"))
 import defeat_parts
 
@@ -72,7 +73,25 @@ for f in (ROOT / "script").glob("*.json"):
         hits += [named["battle_news"]] * (r["id"] in news) + [named["game_over_text"]] * (r["id"] in game_over)
         if hits:
             out[r["id"]] = min(hits, key=lambda w: w["px"])
-rows = sorted(f"{i}\t{w['name']}\t{w['px']}\t{w['rows']}\t{'seen' if i in seen else 'inferred'}\n" for i, w in out.items())
+# Tables with their own screen, over what the survey saw under the window they used to share: chronicle and sound text, rows of 16 bytes
+OWN_TABLES = ((0x2B65F4, 0x2B6A54, "book_chronicle"), (0x2B7BD4, 0x2B7FA4, "book_sound"))
+# Strings drawn in more than one window: {record id: [windows]}. Linted in each; the first window (out) wraps them
+extra = {}
+UNIT_NAMES = {line.split("\t")[1] for line in (ROOT / "data/unit_names.tsv").read_text(encoding="utf-8").splitlines()}  # tools/debug/charnames.py: the roster, the names union panels draw
+WIDE_TAGS = {line.split("\t")[0] for line in (ROOT / "data/unit_tag_wide.tsv").read_text(encoding="utf-8").splitlines()}  # place captions over the field tag's width: not units
+for f in (ROOT / "script").glob("eboot_*.json"):
+    for r in json.loads(f.read_text(encoding="utf-8")):
+        i = r["id"]
+        for s in r["slots"]:
+            for lo, hi, name in OWN_TABLES:
+                if "word" in s and lo <= s["word"] < hi and (s["word"] - lo) % 16 == 0:
+                    out[i] = named[name]
+                    seen.discard(i)
+            if "word" in s and 0x2ADE7C <= s["word"] < 0x2AEA98:  # 0xE3444 and 0xFF620 read this table for the union panel and the field tag
+                extra[i] = ["union_name"] * (i in UNIT_NAMES) + ["unit_name"] * (i not in WIDE_TAGS)
+        if 0x234AB8 <= r["ptr"] < 0x235760:  # item names: the book's title, then the two equip screens
+            extra[i] = ["item_name_equip", "item_name_status"]
+rows = sorted(f"{i}\t{w['name']}\t{w['px']}\t{w['rows']}\t{'seen' if i in seen else 'inferred'}\t{','.join(extra.get(i, ()))}\n" for i, w in out.items())
 (ROOT / "data/box_ids.tsv").write_text("".join(rows), encoding="utf-8", newline="\n")
 print(f"mapped {len(out)} of {len(ids)} records")
 for ra, t in sorted(missing.items()):

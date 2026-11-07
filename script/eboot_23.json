@@ -9812,7 +9812,12 @@
   "ptr": 2317520,
   "bytes": 34,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 971784,
+    "lo": 971796
+   }
+  ],
   "jp": "ディスクデバイスのアクティベート[0A]",
   "en": "",
   "status": ""
@@ -9822,7 +9827,16 @@
   "ptr": 2317720,
   "bytes": 29,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 972144,
+    "lo": 972152
+   },
+   {
+    "hi": 972144,
+    "lo": 972180
+   }
+  ],
   "jp": "Soundの初期化に失敗しました[0A]",
   "en": "",
   "status": ""
@@ -9832,7 +9846,12 @@
   "ptr": 2317856,
   "bytes": 46,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 972392,
+    "lo": 972436
+   }
+  ],
   "jp": "ＡＤＸＦパーティションファイル読み込み　[%s][0A]",
   "en": "",
   "status": ""
@@ -9842,7 +9861,12 @@
   "ptr": 2318124,
   "bytes": 38,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 975512,
+    "lo": 975520
+   }
+  ],
   "jp": "即時復帰読み込みの登録に失敗しました[0A]",
   "en": "",
   "status": ""
@@ -9852,7 +9876,12 @@
   "ptr": 2318184,
   "bytes": 68,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 975740,
+    "lo": 975756
+   }
+  ],
   "jp": "即時復帰　読み込み開始（キャッシュから読み出し） PtNo.%d, AfsNo.%d[0A]",
   "en": "",
   "status": ""
@@ -9862,7 +9891,12 @@
   "ptr": 2318396,
   "bytes": 42,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 976012,
+    "lo": 976020
+   }
+  ],
   "jp": "即時復帰チェックにて不正な値を渡しました[0A]",
   "en": "",
   "status": ""
@@ -9872,7 +9906,12 @@
   "ptr": 2318440,
   "bytes": 40,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 976024,
+    "lo": 976040
+   }
+  ],
   "jp": "チェックしようとした PtNo.%d, AfsNo.%d[0A]",
   "en": "",
   "status": ""
@@ -9882,7 +9921,12 @@
   "ptr": 2318480,
   "bytes": 58,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 976252,
+    "lo": 976264
+   }
+  ],
   "jp": "即時復帰　予約キャンセル [FEX_RESERVE] PtNo.%d, AfsNo.%d[0A]",
   "en": "",
   "status": ""
@@ -9892,7 +9936,12 @@
   "ptr": 2318540,
   "bytes": 61,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 976296,
+    "lo": 976308
+   }
+  ],
   "jp": "即時復帰　ファイルオープン停止 [FEX_OPEN] PtNo.%d, AfsNo.%d[0A]",
   "en": "",
   "status": ""
@@ -9902,7 +9951,12 @@
   "ptr": 2318704,
   "bytes": 66,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 976460,
+    "lo": 976472
+   }
+  ],
   "jp": "即時復帰　キャッシュセット停止 [FEX_CACHE_SET] PtNo.%d, AfsNo.%d[0A]",
   "en": "",
   "status": ""
@@ -9912,7 +9966,12 @@
   "ptr": 2318772,
   "bytes": 75,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 976500,
+    "lo": 976512
+   }
+  ],
   "jp": "即時復帰　キャッシュからの読み出し停止 [FEX_CACHE_READ] PtNo.%d, AfsNo.%d[0A]",
   "en": "",
   "status": ""
@@ -9922,7 +9981,12 @@
   "ptr": 2318948,
   "bytes": 46,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 974188,
+    "lo": 974200
+   }
+  ],
   "jp": "オープン完了／読み込み開始 PtNo.%d, AfsNo.%d[0A]",
   "en": "",
   "status": ""
@@ -9932,7 +9996,12 @@
   "ptr": 2319076,
   "bytes": 44,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 976840,
+    "lo": 976852
+   }
+  ],
   "jp": "キャッシュメモリ登録完了 PtNo.%d, AfsNo.%d[0A]",
   "en": "",
   "status": ""
@@ -9942,7 +10011,12 @@
   "ptr": 2319120,
   "bytes": 42,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 976888,
+    "lo": 976900
+   }
+  ],
   "jp": "停止指示あったので死亡 PtNo.%d, AfsNo.%d[0A]",
   "en": "",
   "status": ""
@@ -9952,7 +10026,12 @@
   "ptr": 2319164,
   "bytes": 52,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 977084,
+    "lo": 977096
+   }
+  ],
   "jp": "キャッシュメモリから読み出し完了 PtNo.%d, AfsNo.%d[0A]",
   "en": "",
   "status": ""
@@ -9962,7 +10041,12 @@
   "ptr": 2319480,
   "bytes": 30,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 985348,
+    "lo": 985364
+   }
+  ],
   "jp": "CPKファイルのバインド開始 %s[0A]",
   "en": "",
   "status": ""
@@ -9972,7 +10056,12 @@
   "ptr": 2319512,
   "bytes": 15,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 985444,
+    "lo": 985452
+   }
+  ],
   "jp": "バインド完了 [0A]",
   "en": "",
   "status": ""
@@ -9982,7 +10071,12 @@
   "ptr": 2319528,
   "bytes": 15,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 985504,
+    "lo": 985536
+   }
+  ],
   "jp": "バインド失敗 [0A]",
   "en": "",
   "status": ""
@@ -9992,7 +10086,12 @@
   "ptr": 2319640,
   "bytes": 37,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 985660,
+    "lo": 985672
+   }
+  ],
   "jp": "バインド完了／読み込み開始 CpkNo.%d[0A]",
   "en": "",
   "status": ""
@@ -10002,7 +10101,12 @@
   "ptr": 2319784,
   "bytes": 35,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 988076,
+    "lo": 988088
+   }
+  ],
   "jp": "キャッシュメモリ登録完了 CpkNo.%d[0A]",
   "en": "",
   "status": ""
@@ -10012,7 +10116,12 @@
   "ptr": 2319820,
   "bytes": 33,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 988132,
+    "lo": 988144
+   }
+  ],
   "jp": "停止指示あったので死亡 CpkNo.%d[0A]",
   "en": "",
   "status": ""
@@ -10022,7 +10131,12 @@
   "ptr": 2319856,
   "bytes": 43,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 988340,
+    "lo": 988352
+   }
+  ],
   "jp": "キャッシュメモリから読み出し完了 CpkNo.%d[0A]",
   "en": "",
   "status": ""
@@ -10032,7 +10146,12 @@
   "ptr": 2319908,
   "bytes": 38,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 988508,
+    "lo": 988520
+   }
+  ],
   "jp": "FileMagicのワークサイズ [ %8d byte ][0A]",
   "en": "",
   "status": ""
@@ -10042,7 +10161,12 @@
   "ptr": 2319968,
   "bytes": 46,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 988640,
+    "lo": 988648
+   }
+  ],
   "jp": "FileMagicのバインドワークサイズ [ %8d byte ][0A]",
   "en": "",
   "status": ""
@@ -10067,7 +10191,12 @@
   "ptr": 2320136,
   "bytes": 38,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 989912,
+    "lo": 989920
+   }
+  ],
   "jp": "即時復帰読み込みの登録に失敗しました[0A]",
   "en": "",
   "status": ""
@@ -10077,7 +10206,12 @@
   "ptr": 2320188,
   "bytes": 59,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 990128,
+    "lo": 990140
+   }
+  ],
   "jp": "即時復帰　読み込み開始（キャッシュから読み出し） CpkNo.%d[0A]",
   "en": "",
   "status": ""
@@ -10087,7 +10221,12 @@
   "ptr": 2320344,
   "bytes": 42,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 990416,
+    "lo": 990424
+   }
+  ],
   "jp": "即時復帰チェックにて不正な値を渡しました[0A]",
   "en": "",
   "status": ""
@@ -10097,7 +10236,12 @@
   "ptr": 2320388,
   "bytes": 31,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 990428,
+    "lo": 990440
+   }
+  ],
   "jp": "チェックしようとした CpkNo.%d[0A]",
   "en": "",
   "status": ""
@@ -10107,7 +10251,12 @@
   "ptr": 2320420,
   "bytes": 38,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 990500,
+    "lo": 990512
+   }
+  ],
   "jp": "即時復帰チェック:読み込み完了[ %4d ][0A]",
   "en": "",
   "status": ""
@@ -10117,7 +10266,12 @@
   "ptr": 2320460,
   "bytes": 49,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 990692,
+    "lo": 990704
+   }
+  ],
   "jp": "即時復帰　予約キャンセル [FEX_RESERVE] CpkNo.%d[0A]",
   "en": "",
   "status": ""
@@ -10127,7 +10281,12 @@
   "ptr": 2320512,
   "bytes": 52,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 990732,
+    "lo": 990744
+   }
+  ],
   "jp": "即時復帰　ファイルオープン停止 [FEX_OPEN] CpkNo.%d[0A]",
   "en": "",
   "status": ""
@@ -10137,7 +10296,12 @@
   "ptr": 2320644,
   "bytes": 57,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 990948,
+    "lo": 990960
+   }
+  ],
   "jp": "即時復帰　キャッシュセット停止 [FEX_CACHE_SET] CpkNo.%d[0A]",
   "en": "",
   "status": ""
@@ -10147,7 +10311,12 @@
   "ptr": 2320704,
   "bytes": 66,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 990984,
+    "lo": 990996
+   }
+  ],
   "jp": "即時復帰　キャッシュからの読み出し停止 [FEX_CACHE_READ] CpkNo.%d[0A]",
   "en": "",
   "status": ""
@@ -10172,7 +10341,12 @@
   "ptr": 2320820,
   "bytes": 33,
   "kind": "debug",
-  "slots": [],
+  "slots": [
+   {
+    "hi": 991960,
+    "lo": 992104
+   }
+  ],
   "jp": "【 %s は見つかりませんでした 】[0A]",
   "en": "",
   "status": ""
@@ -11091,8 +11265,13 @@
   "id": "eboot_237058",
   "ptr": 2322520,
   "bytes": 73,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 992396,
+    "lo": 992412
+   }
+  ],
   "jp": "Chapter%s[0A]Continue －%s－[0A]ステージクリア数 %2d[0A]プレイ時間 %02d:%02d:%02d",
   "en": "Chapter%s[0A]Continue -%s-[0A]Stages cleared %2d[0A]Play time %02d:%02d:%02d",
   "status": "done"
@@ -11101,8 +11280,13 @@
   "id": "eboot_2370A4",
   "ptr": 2322596,
   "bytes": 77,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "hi": 992472,
+    "lo": 992488
+   }
+  ],
   "jp": "Chapter%s[0A]NextScenario －%s－[0A]ステージクリア数 %2d[0A]プレイ時間 %02d:%02d:%02d",
   "en": "Chapter%s[0A]Next Scenario -%s-[0A]Stages cleared %2d[0A]Play time %02d:%02d:%02d",
   "status": "done"
@@ -11195,330 +11379,510 @@
   "id": "eboot_237318",
   "ptr": 2323224,
   "bytes": 120,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805800
+   }
+  ],
   "jp": "%sが入っていません。[0A]このゲームのデータをセーブするには[0A]ALLKB以上の空き容量が必要です。[0A][0A]このままゲームを開始しますか？",
-  "en": "",
-  "status": ""
+  "en": "No %s inserted.[0A]To save this game's data,[0A]at least ALLKB of free space is needed.[0A][0A]Start the game anyway?",
+  "status": "done"
  },
  {
   "id": "eboot_237390",
   "ptr": 2323344,
   "bytes": 128,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805812
+   }
+  ],
   "jp": "%sのチェックに失敗しました。[0A]このゲームのデータをセーブするには[0A]ALLKB以上の空き容量が必要です。[0A][0A]このままゲームを開始しますか？",
-  "en": "",
-  "status": ""
+  "en": "Could not check the %s.[0A]To save this game's data,[0A]at least ALLKB of free space is needed.[0A][0A]Start the game anyway?",
+  "status": "done"
  },
  {
   "id": "eboot_237410",
   "ptr": 2323472,
   "bytes": 102,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805824
+   }
+  ],
   "jp": "%sの空き容量が不足しています。[0A]このゲームのデータをセーブするには[0A]あとFREKB以上の空き容量が必要です。",
-  "en": "",
-  "status": ""
+  "en": "Not enough free space on the %s.[0A]To save this game's data,[0A]FREKB more free space is needed.",
+  "status": "done"
  },
  {
   "id": "eboot_237478",
   "ptr": 2323576,
   "bytes": 143,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805836
+   }
+  ],
   "jp": "%sが入っていません。[0A]ロードに失敗しました。[0A]このゲームのデータをセーブするには[0A]ALLKB以上の空き容量が必要です。[0A][0A]このままゲームを開始しますか？",
-  "en": "",
-  "status": ""
+  "en": "No %s inserted.[0A]Loading failed.[0A]To save this game's data,[0A]at least ALLKB of free space is needed.[0A][0A]Start the game anyway?",
+  "status": "done"
  },
  {
   "id": "eboot_237508",
   "ptr": 2323720,
   "bytes": 122,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805848
+   }
+  ],
   "jp": "ロードに失敗しました。[0A]このゲームのデータをセーブするには[0A]ALLKB以上の空き容量が必要です。[0A][0A]このままゲームを開始しますか？",
-  "en": "",
-  "status": ""
+  "en": "Loading failed.[0A]To save this game's data,[0A]at least ALLKB of free space is needed.[0A][0A]Start the game anyway?",
+  "status": "done"
  },
  {
   "id": "eboot_237584",
   "ptr": 2323844,
   "bytes": 65,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805860
+   }
+  ],
   "jp": "システムデータが壊れていました。[0A][0A]このままゲームを開始しますか？",
-  "en": "",
-  "status": ""
+  "en": "The system data was corrupted.[0A][0A]Start the game anyway?",
+  "status": "done"
  },
  {
   "id": "eboot_2375C8",
   "ptr": 2323912,
   "bytes": 42,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805872
+   },
+   {
+    "word": 2805956
+   },
+   {
+    "word": 2806076
+   },
+   {
+    "word": 2806256
+   },
+   {
+    "word": 2806328
+   }
+  ],
   "jp": "もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_2375F4",
   "ptr": 2323956,
   "bytes": 93,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805884
+   },
+   {
+    "word": 2806232
+   }
+  ],
   "jp": "%sのチェックに失敗しました。[0A]%sが入っていません。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Could not check the %s.[0A]No %s inserted.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237654",
   "ptr": 2324052,
   "bytes": 72,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805896
+   },
+   {
+    "word": 2805992
+   },
+   {
+    "word": 2806184
+   },
+   {
+    "word": 2806244
+   }
+  ],
   "jp": "%sのチェックに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Could not check the %s.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_23769C",
   "ptr": 2324124,
   "bytes": 87,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805908
+   }
+  ],
   "jp": "ロードに失敗しました。[0A]%sが入っていません。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Loading failed.[0A]No %s inserted.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_2376F4",
   "ptr": 2324212,
   "bytes": 78,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805920
+   }
+  ],
   "jp": "中断データが見つかりませんでした。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "No suspend data was found.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237744",
   "ptr": 2324292,
   "bytes": 66,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805932
+   }
+  ],
   "jp": "ロードに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Loading failed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237788",
   "ptr": 2324360,
   "bytes": 74,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805944
+   }
+  ],
   "jp": "この中断データは壊れています。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "This suspend data is corrupted.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_2377D4",
   "ptr": 2324436,
   "bytes": 142,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805968
+   }
+  ],
   "jp": "%sのチェックに失敗しました。[0A]%sが入っていません。[0A]セーブするには、[0A]SYCKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Could not check the %s.[0A]No %s inserted.[0A]To save,[0A]at least SYCKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237864",
   "ptr": 2324580,
   "bytes": 121,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2805980
+   }
+  ],
   "jp": "%sのチェックに失敗しました。[0A]セーブするには、[0A]SYCKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Could not check the %s.[0A]To save,[0A]at least SYCKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_2378E0",
   "ptr": 2324704,
   "bytes": 113,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806004
+   }
+  ],
   "jp": "%sが入っていません。[0A]セーブするには、[0A]SYCKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "No %s inserted.[0A]To save,[0A]at least SYCKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237954",
   "ptr": 2324820,
   "bytes": 141,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806016
+   }
+  ],
   "jp": "%sの空き容量が不足しています。[0A]セーブするには、[0A]SYCKB以上の空き容量が必要です。[0A][0A]空き容量を確保するため、セーブデータを選び、[0A]削除しますか？",
-  "en": "",
-  "status": ""
+  "en": "Not enough free space on the %s.[0A]To save,[0A]at least SYCKB of free space is needed.[0A][0A]Choose save data to delete,[0A]to make room?",
+  "status": "done"
  },
  {
   "id": "eboot_2379E4",
   "ptr": 2324964,
   "bytes": 141,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806028
+   },
+   {
+    "word": 2806136
+   },
+   {
+    "word": 2806292
+   }
+  ],
   "jp": "%sの空き容量が不足しています。[0A]セーブするには、[0A]SYSKB以上の空き容量が必要です。[0A][0A]空き容量を確保するため、セーブデータを選び、[0A]削除しますか？",
-  "en": "",
-  "status": ""
+  "en": "Not enough free space on the %s.[0A]To save,[0A]at least SYSKB of free space is needed.[0A][0A]Choose save data to delete,[0A]to make room?",
+  "status": "done"
  },
  {
   "id": "eboot_237A74",
   "ptr": 2325108,
   "bytes": 141,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806040
+   }
+  ],
   "jp": "%sの空き容量が不足しています。[0A]セーブするには、[0A]CONKB以上の空き容量が必要です。[0A][0A]空き容量を確保するため、セーブデータを選び、[0A]削除しますか？",
-  "en": "",
-  "status": ""
+  "en": "Not enough free space on the %s.[0A]To save,[0A]at least CONKB of free space is needed.[0A][0A]Choose save data to delete,[0A]to make room?",
+  "status": "done"
  },
  {
   "id": "eboot_237B04",
   "ptr": 2325252,
   "bytes": 136,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806052
+   }
+  ],
   "jp": "セーブに失敗しました。[0A]%sが入っていません。[0A]セーブするには、[0A]SYCKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Saving failed.[0A]No %s inserted.[0A]To save,[0A]at least SYCKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237B8C",
   "ptr": 2325388,
   "bytes": 66,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806064
+   },
+   {
+    "word": 2806172
+   }
+  ],
   "jp": "セーブに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Saving failed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237BD0",
   "ptr": 2325456,
   "bytes": 76,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806088
+   },
+   {
+    "word": 2806196
+   },
+   {
+    "word": 2806340
+   }
+  ],
   "jp": "スリープモードから復帰しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Returned from sleep mode.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237C1C",
   "ptr": 2325532,
   "bytes": 67,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806100
+   },
+   {
+    "word": 2806352
+   }
+  ],
   "jp": "%sがロックされています。[0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "The %s is locked.[0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237C60",
   "ptr": 2325600,
   "bytes": 113,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806112
+   }
+  ],
   "jp": "%sが入っていません。[0A]セーブするには、[0A]SYTKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "No %s inserted.[0A]To save,[0A]at least SYTKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237CD4",
   "ptr": 2325716,
   "bytes": 141,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806124
+   }
+  ],
   "jp": "%sの空き容量が不足しています。[0A]セーブするには、[0A]SYTKB以上の空き容量が必要です。[0A][0A]空き容量を確保するため、セーブデータを選び、[0A]削除しますか？",
-  "en": "",
-  "status": ""
+  "en": "Not enough free space on the %s.[0A]To save,[0A]at least SYTKB of free space is needed.[0A][0A]Choose save data to delete,[0A]to make room?",
+  "status": "done"
  },
  {
   "id": "eboot_237D64",
   "ptr": 2325860,
   "bytes": 141,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806148
+   }
+  ],
   "jp": "%sの空き容量が不足しています。[0A]セーブするには、[0A]STOKB以上の空き容量が必要です。[0A][0A]空き容量を確保するため、セーブデータを選び、[0A]削除しますか？",
-  "en": "",
-  "status": ""
+  "en": "Not enough free space on the %s.[0A]To save,[0A]at least STOKB of free space is needed.[0A][0A]Choose save data to delete,[0A]to make room?",
+  "status": "done"
  },
  {
   "id": "eboot_237DF4",
   "ptr": 2326004,
   "bytes": 136,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806160
+   }
+  ],
   "jp": "セーブに失敗しました。[0A]%sが入っていません。[0A]セーブするには、[0A]SYTKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Saving failed.[0A]No %s inserted.[0A]To save,[0A]at least SYTKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237E7C",
   "ptr": 2326140,
   "bytes": 27,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806208
+   },
+   {
+    "word": 2806364
+   }
+  ],
   "jp": "[0A]セーブが完了いたしました[0A]",
-  "en": "",
-  "status": ""
+  "en": "[0A]Save complete.[0A]",
+  "status": "done"
  },
  {
   "id": "eboot_237E98",
   "ptr": 2326168,
   "bytes": 23,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806220
+   },
+   {
+    "word": 2806376
+   }
+  ],
   "jp": "[0A]セーブを中断しました[0A]",
-  "en": "",
-  "status": ""
+  "en": "[0A]Save cancelled.[0A]",
+  "status": "done"
  },
  {
   "id": "eboot_237EB0",
   "ptr": 2326192,
   "bytes": 80,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806268
+   }
+  ],
   "jp": "このストーリーデータは壊れています。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "This story data is corrupted.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237F00",
   "ptr": 2326272,
   "bytes": 113,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806280
+   }
+  ],
   "jp": "%sが入っていません。[0A]セーブするには、[0A]SYSKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "No %s inserted.[0A]To save,[0A]at least SYSKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237F74",
   "ptr": 2326388,
   "bytes": 136,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806304
+   }
+  ],
   "jp": "セーブに失敗しました。[0A]%sが入っていません。[0A]セーブするには、[0A]SYSKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Saving failed.[0A]No %s inserted.[0A]To save,[0A]at least SYSKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done"
  },
  {
   "id": "eboot_237FFC",
   "ptr": 2326524,
   "bytes": 65,
-  "kind": "debug",
-  "slots": [],
+  "kind": "msg",
+  "slots": [
+   {
+    "word": 2806316
+   }
+  ],
   "jp": "セーブに失敗しました。[0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": ""
+  "en": "Saving failed.[0A]Check the %s[0A]again?",
+  "status": "done"
  }
 ]

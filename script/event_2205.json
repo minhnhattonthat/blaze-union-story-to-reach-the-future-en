@@ -1871,7 +1871,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008619}おや？　メデューテ。{n}勇者ギルの末裔でしたね。",
-  "en": "Oh? Medoute. You are a descendant of the hero Gil, are you not?",
+  "en": "Oh? Medoute. You descend from Gil, no?",
   "status": "done"
  },
  {
@@ -1891,7 +1891,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008819}魔竜ブロンガが邪魔でしたからね。{n}始末するために私が助力し、{n}討たせたのです。",
-  "en": "Brongaa the demon dragon stood in my way. To be rid of it, I lent him aid, and had him slay it.",
+  "en": "Brongaa stood in my way. So I aided him, and had him slay it.",
   "status": "done"
  },
  {
@@ -1901,7 +1901,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008919}いわばあなたは、{n}私の操り人形の血筋なのですよ。",
-  "en": "You might say you come from a bloodline of my puppets.",
+  "en": "You might say you are of my puppets' bloodline.",
   "status": "done"
  },
  {
@@ -1941,7 +1941,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008C19}堕天使、良く聞け！{n}お前に抗うのは、あたしの意志だ。{n}血など関係ないッ②",
-  "en": "Fallen angel, listen well! Standing against you is my will. Blood has nothing to do with it!!",
+  "en": "Fallen angel, listen! I oppose you by my will. Blood means nothing!!",
   "status": "done"
  },
  {
@@ -1951,7 +1951,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008D19}聖剣グラン・センチュリオが{n}お、折れた……、バカな。",
-  "en": "The Holy Sword, Gran Centurio... b-broke... Impossible.",
+  "en": "Holy Sword Gran Centurio... broke... Impossible.",
   "status": "done"
  },
  {

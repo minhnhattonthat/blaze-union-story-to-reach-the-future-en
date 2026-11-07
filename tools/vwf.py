@@ -436,6 +436,15 @@ def install(eb, info):
         eb.hook(site, one(f"lh $a0, 0x18(${win})"), jal(name), R_26)
         eb.hook(site + 4, one(f"mult $a0, ${reg}"), one(f"lh $a0, 0x18(${win})"))
     eb.hook(0x1161B8, one("ori $a0, $zero, 0xfc"), one("ori $a0, $zero, 0xbe"))  # game over text: x=190, so a line of defeat text gets 288 px
+    # Chronicle and Sound Mode text: 2 rows of the window, where the other two book screens have 3, with the list from row 2. Now 3 rows (lay out, colour)
+    # and the list from row 3 (clear, print, cursor colour). The Chronicle's text also moves left, under the picture
+    eb.hook(0x123C04, one("ori $a3, $zero, 0x11e"), one("ori $a3, $zero, 0x10e"))
+    eb.hook(0x1277C8, one("addiu $v1, $zero, -3"), one("addiu $v1, $zero, -5"))  # Sound Mode: three rows inside its dark box, higher and tighter
+    eb.hook(0x1277DC, one("ori $t0, $zero, 0xc2"), one("ori $t0, $zero, 0xbe"))
+    for site, reg in ((0x123C10, "t2"), (0x1277E4, "t2"), (0x123C40, "t0"), (0x127814, "t0"), (0x123CEC, "a2"), (0x1278C0, "a2")):
+        eb.hook(site, one(f"ori ${reg}, $zero, 2"), one(f"ori ${reg}, $zero, 3"))
+    for site, reg in ((0x123D50, "s4"), (0x127928, "s4"), (0x124588, "a1"), (0x128060, "a1")):
+        eb.hook(site, one(f"addiu $a1, ${reg}, 2"), one(f"addiu $a1, ${reg}, 3"))
     # 12f124, the win condition panel, lays its strings out itself: of ASCII it knows only 'o' (+10) and 'r' (+14), other bytes get
     # no position and stay hidden. Every ASCII byte now takes the 'o' path with the glyph's advance; the loop covers all K * 30 slots
     eb.hook(0x12F464, one("ori $a2, $zero, 0x6f"), one("lbu $a2, 0x1F($s0)"))

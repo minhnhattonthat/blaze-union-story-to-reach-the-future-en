@@ -2024,7 +2024,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "何かを拾った！",
-  "en": "Picked something up!",
+  "en": "Found an item!",
   "status": "done"
  },
  {
@@ -2034,7 +2034,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "到達した。",
-  "en": "We've arrived.",
+  "en": "Arrived.",
   "status": "done"
  },
  {

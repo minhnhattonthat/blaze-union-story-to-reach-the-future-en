@@ -174,7 +174,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00460C}これは推測に過ぎませんがね。{n}まあ今回の調査で、{n}全て明らかになるでしょう。",
-  "en": "This is only speculation, mind you. Well, this investigation should bring all to light.",
+  "en": "This is only speculation. Well, this probe should bring it to light.",
   "status": "done"
  },
  {
@@ -1343,7 +1343,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:007D0C}クソッ、なんてこった……",
-  "en": "Damn it, what the hell...",
+  "en": "Damn it, what the...",
   "status": "done"
  },
  {

@@ -2384,7 +2384,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00E213}カローナの街が遠い…{n}なんだよ、これ。{n}目が、霞む……",
-  "en": "Karona's so far... What is this... My eyes, they're going dim...",
+  "en": "Karona's so far... What is this... My eyes...",
   "status": "done"
  },
  {
@@ -2424,7 +2424,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00E613}む、無念……",
-  "en": "A b-bitter end...",
+  "en": "B-bitter end",
   "status": "done"
  },
  {
@@ -2434,7 +2434,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00E713}見てよ②　すごいよ！{n}これならボク、戦えるよ！",
-  "en": "Look at this!! Amazing! With this, I can fight!",
+  "en": "Look!! Amazing! With this, I can fight!",
   "status": "done"
  },
  {
@@ -2444,7 +2444,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00E813}ダンチョーお兄ちゃんの{n}力になれる！",
-  "en": "I can help you, Big Brother Captain!",
+  "en": "I can help, Big Brother Captain!",
   "status": "done"
  },
  {
@@ -2484,7 +2484,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00EC13}正直、驚いたぜ。{n}エイミにあんな力があるなんて。",
-  "en": "Honestly, that shocked me. I had no idea Eimi had power like that.",
+  "en": "Honestly, I'm shocked. Eimi has such power?",
   "status": "done"
  },
  {
@@ -2494,7 +2494,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00ED13}エイミさんがいなければ、{n}敵を退ける事は、難しかったと{n}そう思います。",
-  "en": "Without Eimi-san, I think it would have been hard to drive the enemy back.",
+  "en": "Without Eimi-san, I think driving the enemy back would've been hard.",
   "status": "done"
  },
  {
@@ -2504,7 +2504,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00EE13}でも、{n}これで良かったのでしょうか……",
-  "en": "But I wonder if this was for the best...",
+  "en": "But was this for the best...",
   "status": "done"
  },
  {
@@ -2574,7 +2574,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00F513}その話は、アイギナの一件が{n}片づいた後にしよう。",
-  "en": "Let's talk about that after this business with Aegina is settled.",
+  "en": "Let's talk after this Aegina thing is settled.",
   "status": "done"
  },
  {
@@ -2584,7 +2584,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00F613}今回はエイミ…、{n}いや、エミリオの事だけど。{n}あの子、ちょっと変じゃないか？",
-  "en": "This time it's about Eimi... no, Emilia. Doesn't that child seem a little off to you?",
+  "en": "This is about Eimi... no, Emilia. Doesn't that child seem off to you?",
   "status": "done"
  },
  {
@@ -2614,7 +2614,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00F913}血が昂ぶる？{n}どういう意味だ？",
-  "en": "Your blood stirring? What do you mean?",
+  "en": "Blood stirring? Meaning what?",
   "status": "done"
  },
  {
@@ -2624,7 +2624,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00FA13}実はあたし、{n}竜殺しの勇者ギルの末裔なの。",
-  "en": "The truth is, I'm a descendant of the dragon-slaying hero, Gil.",
+  "en": "I'm descended from the dragon-slayer Gil.",
   "status": "done"
  },
  {
@@ -2634,7 +2634,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00FB13}勇者ギル……{n}あぁ、あの魔竜ブロンガを{n}倒したって言うヤツか？",
-  "en": "The hero Gil... Oh, that guy who's supposed to have beaten the demon dragon Brongaa?",
+  "en": "The hero Gil... Oh, the guy who beat Brongaa?",
   "status": "done"
  },
  {
@@ -2644,7 +2644,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00FC13}分家筋の１つなんだけどね。",
-  "en": "I'm from one of the branch families, though.",
+  "en": "A branch family, though",
   "status": "done"
  },
  {
@@ -2654,7 +2654,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00FD13}生まれてからずっとあたしは、{n}竜殺し、そして勇者の末裔として{n}育てられてきた。",
-  "en": "All my life, I've been raised as a dragon slayer, and a descendant of the hero.",
+  "en": "All my life, I've been raised as a dragon slayer, a descendant of the hero.",
   "status": "done"
  },
  {
@@ -2664,7 +2664,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00FE13}そのあたしが、感じるんだ。{n}エイミは魔竜の力を持っている。",
-  "en": "And I can sense it. Eimi has the power of the demon dragon.",
+  "en": "And I can sense it. Eimi has the demon dragon's power.",
   "status": "done"
  },
  {
@@ -2674,7 +2674,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00FF13}考え過ぎじゃないか？",
-  "en": "Aren't you overthinking it?",
+  "en": "Overthinking it?",
   "status": "done"
  },
  {
@@ -2694,7 +2694,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000114}だが、もしエミリオが、{n}本当に魔竜の血を引いていたら、{n}どうするつもりだ？",
-  "en": "But if Emilia really does carry the demon dragon's blood, what do you plan to do?",
+  "en": "But if Emilia has the demon dragon's blood, what do you plan to do?",
   "status": "done"
  },
  {
@@ -2704,7 +2704,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000214}勇者の末裔だから、殺すのか？",
-  "en": "Kill her, because you're the hero's descendant?",
+  "en": "Kill her, as hero's heir?",
   "status": "done"
  },
  {
@@ -2714,7 +2714,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000314}まさか、それはない。",
-  "en": "No way, I wouldn't do that.",
+  "en": "No way, I wouldn't.",
   "status": "done"
  },
  {
@@ -2724,7 +2724,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000414}勇者の末裔って理由だけで{n}エイミを殺したりはしない。",
-  "en": "I'd never kill Eimi just because I'm the hero's descendant.",
+  "en": "I'd never kill Eimi just for being the hero's heir.",
   "status": "done"
  },
  {
@@ -2734,7 +2734,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000514}血筋なんか、重要じゃない。{n}そう、そうなんだよ。",
-  "en": "Bloodlines don't matter. Yes, that's right, they don't.",
+  "en": "Bloodlines don't matter. Yes, that's right.",
   "status": "done"
  },
  {
@@ -2744,7 +2744,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000614}だったら、その違和感だって{n}気にしなくていいだろ？",
-  "en": "Then you don't need to worry about that odd feeling, right?",
+  "en": "Then you needn't worry about that odd feeling.",
   "status": "done"
  },
  {
@@ -2754,7 +2754,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000714}確かに、その通りだけどな。",
-  "en": "You're right about that, I guess.",
+  "en": "You're right, I guess.",
   "status": "done"
  },
  {
@@ -2764,7 +2764,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000814}魔竜の力は人を変えると聞く。{n}ガーロット、エミリオの事は{n}注意してあげて欲しい。",
-  "en": "They say the demon dragon's power changes people. Garlot, please look out for Emilia.",
+  "en": "They say the demon dragon's power changes people. Garlot, look out for Emilia.",
   "status": "done"
  },
  {
@@ -2774,7 +2774,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000914}メデューテが竜殺しか……{n}知らなかったな。",
-  "en": "So Medoute's a dragon slayer... I had no idea.",
+  "en": "So Medoute's a dragon slayer... Huh.",
   "status": "done"
  },
  {
@@ -2784,7 +2784,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000A14}魔竜の力は人を変える、か……",
-  "en": "The demon dragon's power changes people, huh...",
+  "en": "It changes people, huh...",
   "status": "done"
  },
  {
@@ -2814,7 +2814,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000D14}でもさ、{n}危ないことはもうダメよ？",
-  "en": "But no more dangerous stuff, okay?",
+  "en": "No more dangerous stuff, okay?",
   "status": "done"
  },
  {
@@ -2834,7 +2834,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:000F14}でもね、やっぱり心配なの。{n}だからお姉ちゃんの言うことも{n}聞いてね？",
-  "en": "But you know, I still worry. So listen to your big sis too, all right?",
+  "en": "But you know, I still worry. So listen to your big sis, all right?",
   "status": "done"
  },
  {
@@ -2854,7 +2854,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:001114}気のせいだ。{n}あいつは力を手に入れただけで、{n}変わるわけない。",
-  "en": "It's my imagination. She just got some power. She won't change.",
+  "en": "It's my imagination. She just got power. She won't change.",
   "status": "done"
  },
  {

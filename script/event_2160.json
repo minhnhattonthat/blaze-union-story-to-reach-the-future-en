@@ -54,7 +54,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00DD03}簡単よ、{n}方伯様にこう言っただけ。",
-  "en": "Easy. I just told the Margrave this.",
+  "en": "Easy. I told the Margrave this.",
   "status": "done"
  },
  {
@@ -549,7 +549,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "…あれ？{n}身体の調子が悪いな。{n}ホネの繋ぎ目が緩いのかも…",
-  "en": "...Huh? My body's not feeling right. Maybe my bones have come loose at the joints...",
+  "en": "...Huh? I feel off. Maybe my bones have come loose...",
   "status": "done"
  },
  {
@@ -559,7 +559,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "オレも若い頃はブイブイ{n}言わせていたモンだけどよ…",
-  "en": "I used to be quite the hotshot when I was young, you know...",
+  "en": "I was quite the hotshot in my younger days...",
   "status": "done"
  },
  {

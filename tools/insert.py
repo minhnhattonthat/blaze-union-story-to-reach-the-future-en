@@ -54,10 +54,9 @@ def pack_script(d, recs, text, name):
         if len(b) <= r["bytes"] and r["ptr"] not in overlap:
             out[r["ptr"]:r["ptr"] + len(b)] = b
             continue
-        if not r["slots"]:  # unreferenced and too long: cut. Nothing was seen to draw these
-            cut = b[:r["bytes"] - 1] + b"\0"
-            if r["ptr"] not in overlap:
-                out[r["ptr"]:r["ptr"] + len(cut)] = cut
+        if not r["slots"]:  # no pointer to move: too long is refused (the lint says so first, fit.problems); overlapping, its bytes belong to the other record
+            if len(b) > r["bytes"]:
+                raise ValueError(f"{r['id']}: {len(b)} bytes, unreferenced and holds {r['bytes']}: {s!r}")
             continue
         at = len(d) + len(tail)
         tail += b

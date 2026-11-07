@@ -3660,7 +3660,7 @@
    68591
   ],
   "jp": "{voice:004E18}ウ…、ウウ……{n}ネシア、どうすればよい。",
-  "en": "U... Uuugh... Nessiah, what should I do?",
+  "en": "Uuugh... Nessiah, what should I do?",
   "status": "done"
  },
  {
@@ -3946,7 +3946,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:006618}そうだな、戦いを続け、{n}聖剣に力を蓄えると……",
-  "en": "Yes, keep up the war, and store up power in the Holy Sword...",
+  "en": "Yes, keep up the war, and charge the Sword",
   "status": "done"
  },
  {
