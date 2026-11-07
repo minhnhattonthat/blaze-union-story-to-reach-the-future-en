@@ -100,8 +100,8 @@
    }
   ],
   "jp": "システムデータ",
-  "en": "",
-  "status": ""
+  "en": "System Data",
+  "status": "done"
  },
  {
   "id": "eboot_258B74",
@@ -124,8 +124,8 @@
    }
   ],
   "jp": "中断データ",
-  "en": "",
-  "status": ""
+  "en": "Suspend Data",
+  "status": "done"
  },
  {
   "id": "eboot_258BDC",
@@ -138,8 +138,8 @@
    }
   ],
   "jp": "中断データ【ＨＡＲＤ】",
-  "en": "",
-  "status": ""
+  "en": "Suspend Data [HARD]",
+  "status": "done"
  },
  {
   "id": "eboot_258BF4",
@@ -152,8 +152,8 @@
    }
   ],
   "jp": "ストーリーデータ",
-  "en": "",
-  "status": ""
+  "en": "Story Data",
+  "status": "done"
  },
  {
   "id": "eboot_258C08",
@@ -166,8 +166,8 @@
    }
   ],
   "jp": "ストーリーデータ【ＨＡＲＤ】",
-  "en": "",
-  "status": ""
+  "en": "Story Data [HARD]",
+  "status": "done"
  },
  {
   "id": "eboot_258C28",
@@ -180,8 +180,8 @@
    }
   ],
   "jp": "新規システムデータ",
-  "en": "",
-  "status": ""
+  "en": "New System Data",
+  "status": "done"
  },
  {
   "id": "eboot_258C3C",
@@ -194,8 +194,8 @@
    }
   ],
   "jp": "新規中断データ",
-  "en": "",
-  "status": ""
+  "en": "New Suspend Data",
+  "status": "done"
  },
  {
   "id": "eboot_258C4C",
@@ -208,8 +208,8 @@
    }
   ],
   "jp": "新規ストーリーデータ",
-  "en": "",
-  "status": ""
+  "en": "New Story Data",
+  "status": "done"
  },
  {
   "id": "eboot_258C70",
@@ -222,8 +222,8 @@
    }
   ],
   "jp": "製品版",
-  "en": "",
-  "status": ""
+  "en": "Retail",
+  "status": "done"
  },
  {
   "id": "eboot_258C84",
@@ -236,8 +236,8 @@
    }
   ],
   "jp": "試し焼き",
-  "en": "",
-  "status": ""
+  "en": "Test Burn",
+  "status": "done"
  },
  {
   "id": "eboot_258C9C",
@@ -250,8 +250,8 @@
    }
   ],
   "jp": "デバッグ",
-  "en": "",
-  "status": ""
+  "en": "Debug",
+  "status": "done"
  },
  {
   "id": "eboot_258D40",
@@ -335,8 +335,8 @@
    }
   ],
   "jp": "メモリースティック",
-  "en": "",
-  "status": ""
+  "en": "Memory Stick",
+  "status": "done"
  },
  {
   "id": "eboot_258F08",
@@ -469,8 +469,8 @@
    }
   ],
   "jp": "ガーロット",
-  "en": "",
-  "status": ""
+  "en": "Garlot",
+  "status": "done"
  },
  {
   "id": "eboot_25964C",
@@ -483,8 +483,8 @@
    }
   ],
   "jp": "ガルカーサ",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa",
+  "status": "done"
  },
  {
   "id": "eboot_259658",
@@ -500,8 +500,8 @@
    }
   ],
   "jp": "シスキア",
-  "en": "",
-  "status": ""
+  "en": "Siskier",
+  "status": "done"
  },
  {
   "id": "eboot_259664",
@@ -514,8 +514,8 @@
    }
   ],
   "jp": "ジェノン",
-  "en": "",
-  "status": ""
+  "en": "Jenon",
+  "status": "done"
  },
  {
   "id": "eboot_259670",
@@ -528,8 +528,8 @@
    }
   ],
   "jp": "メデューテ",
-  "en": "",
-  "status": ""
+  "en": "Medoute",
+  "status": "done"
  },
  {
   "id": "eboot_25967C",
@@ -559,8 +559,8 @@
    }
   ],
   "jp": "アイギナ",
-  "en": "",
-  "status": ""
+  "en": "Aegina",
+  "status": "done"
  },
  {
   "id": "eboot_259694",
@@ -590,8 +590,8 @@
    }
   ],
   "jp": "レオン",
-  "en": "",
-  "status": ""
+  "en": "Leon",
+  "status": "done"
  },
  {
   "id": "eboot_2596A8",
@@ -618,8 +618,8 @@
    }
   ],
   "jp": "ヴェルマン",
-  "en": "",
-  "status": ""
+  "en": "Velleman",
+  "status": "done"
  },
  {
   "id": "eboot_2596C0",
@@ -632,8 +632,8 @@
    }
   ],
   "jp": "ソルティエ",
-  "en": "",
-  "status": ""
+  "en": "Soltier",
+  "status": "done"
  },
  {
   "id": "eboot_2596CC",
@@ -660,8 +660,8 @@
    }
   ],
   "jp": "ベアトリーヌ",
-  "en": "",
-  "status": ""
+  "en": "Baretreenu",
+  "status": "done"
  },
  {
   "id": "eboot_2596E4",
@@ -674,8 +674,8 @@
    }
   ],
   "jp": "ジルヴァ",
-  "en": "",
-  "status": ""
+  "en": "Zilva",
+  "status": "done"
  },
  {
   "id": "eboot_2596F0",
@@ -688,8 +688,8 @@
    }
   ],
   "jp": "パンドラ",
-  "en": "",
-  "status": ""
+  "en": "Pandra",
+  "status": "done"
  },
  {
   "id": "eboot_2596FC",
@@ -702,8 +702,8 @@
    }
   ],
   "jp": "ミゼル",
-  "en": "",
-  "status": ""
+  "en": "Mizer",
+  "status": "done"
  },
  {
   "id": "eboot_259704",
@@ -716,8 +716,8 @@
    }
   ],
   "jp": "インザーギ",
-  "en": "",
-  "status": ""
+  "en": "Inzaghi",
+  "status": "done"
  },
  {
   "id": "eboot_259710",
@@ -730,8 +730,8 @@
    }
   ],
   "jp": "ノルン",
-  "en": "",
-  "status": ""
+  "en": "Norn",
+  "status": "done"
  },
  {
   "id": "eboot_259718",
@@ -744,8 +744,8 @@
    }
   ],
   "jp": "デイヴィド",
-  "en": "",
-  "status": ""
+  "en": "David",
+  "status": "done"
  },
  {
   "id": "eboot_259724",
@@ -758,8 +758,8 @@
    }
   ],
   "jp": "パメラ",
-  "en": "",
-  "status": ""
+  "en": "Pamela",
+  "status": "done"
  },
  {
   "id": "eboot_25972C",
@@ -772,8 +772,8 @@
    }
   ],
   "jp": "パメラサマ",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama",
+  "status": "done"
  },
  {
   "id": "eboot_259738",
@@ -786,8 +786,8 @@
    }
   ],
   "jp": "バイフー",
-  "en": "",
-  "status": ""
+  "en": "Byff",
+  "status": "done"
  },
  {
   "id": "eboot_259744",
@@ -800,8 +800,8 @@
    }
   ],
   "jp": "イータ",
-  "en": "",
-  "status": ""
+  "en": "Eater",
+  "status": "done"
  },
  {
   "id": "eboot_25974C",
@@ -814,8 +814,8 @@
    }
   ],
   "jp": "ラッセル",
-  "en": "",
-  "status": ""
+  "en": "Russell",
+  "status": "done"
  },
  {
   "id": "eboot_259758",
@@ -834,8 +834,8 @@
    }
   ],
   "jp": "オルディーン",
-  "en": "",
-  "status": ""
+  "en": "Ordene",
+  "status": "done"
  },
  {
   "id": "eboot_259768",
@@ -848,8 +848,8 @@
    }
   ],
   "jp": "アランゼーム",
-  "en": "",
-  "status": ""
+  "en": "Alanjame",
+  "status": "done"
  },
  {
   "id": "eboot_259778",
@@ -862,8 +862,8 @@
    }
   ],
   "jp": "ラピス",
-  "en": "",
-  "status": ""
+  "en": "Lapis",
+  "status": "done"
  },
  {
   "id": "eboot_259780",
@@ -876,8 +876,8 @@
    }
   ],
   "jp": "セリカ",
-  "en": "",
-  "status": ""
+  "en": "Cerica",
+  "status": "done"
  },
  {
   "id": "eboot_259788",
@@ -13800,8 +13800,8 @@
    }
   ],
   "jp": "それぞれの事情",
-  "en": "",
-  "status": ""
+  "en": "Everyone's Circumstances",
+  "status": "done"
  },
  {
   "id": "eboot_25FBB4",
@@ -13828,8 +13828,8 @@
    }
   ],
   "jp": "帝国の生み出したモノ",
-  "en": "",
-  "status": ""
+  "en": "What the Empire Created",
+  "status": "done"
  },
  {
   "id": "eboot_25FBFC",
@@ -13856,8 +13856,8 @@
    }
   ],
   "jp": "大切な物は何処",
-  "en": "",
-  "status": ""
+  "en": "Where Is What Matters?",
+  "status": "done"
  },
  {
   "id": "eboot_25FC3C",
@@ -13884,8 +13884,8 @@
    }
   ],
   "jp": "はだしのミゼル",
-  "en": "",
-  "status": ""
+  "en": "Barefoot Mizer",
+  "status": "done"
  },
  {
   "id": "eboot_25FC7C",
@@ -13912,8 +13912,8 @@
    }
   ],
   "jp": "輸送船襲撃作戦",
-  "en": "",
-  "status": ""
+  "en": "Raid on the Transport Ships",
+  "status": "done"
  },
  {
   "id": "eboot_25FCB8",
@@ -13940,8 +13940,8 @@
    }
   ],
   "jp": "庇護の対価",
-  "en": "",
-  "status": ""
+  "en": "The Price of Protection",
+  "status": "done"
  },
  {
   "id": "eboot_25FCF0",
@@ -13968,8 +13968,8 @@
    }
   ],
   "jp": "扇げば揺れる麦の穂",
-  "en": "",
-  "status": ""
+  "en": "Wave the Fan, Sway the Wheat",
+  "status": "done"
  },
  {
   "id": "eboot_25FD38",
@@ -13996,8 +13996,8 @@
    }
   ],
   "jp": "懊悩の殉教者",
-  "en": "",
-  "status": ""
+  "en": "The Anguished Martyr",
+  "status": "done"
  },
  {
   "id": "eboot_25FD74",
@@ -14024,8 +14024,8 @@
    }
   ],
   "jp": "終わり無き復讐",
-  "en": "",
-  "status": ""
+  "en": "Endless Revenge",
+  "status": "done"
  },
  {
   "id": "eboot_25FDB8",
@@ -14052,8 +14052,8 @@
    }
   ],
   "jp": "試練は屍を越えて",
-  "en": "",
-  "status": ""
+  "en": "Trials Over Corpses",
+  "status": "done"
  },
  {
   "id": "eboot_25FDF8",
@@ -14080,8 +14080,8 @@
    }
   ],
   "jp": "天意の名の下に",
-  "en": "",
-  "status": ""
+  "en": "In the Name of Heaven's Will",
+  "status": "done"
  },
  {
   "id": "eboot_25FE3C",
@@ -14164,8 +14164,8 @@
    }
   ],
   "jp": "火の粉は集い、大火へと",
-  "en": "",
-  "status": ""
+  "en": "Sparks Gather into a Blaze",
+  "status": "done"
  },
  {
   "id": "eboot_25FF18",
@@ -14192,8 +14192,8 @@
    }
   ],
   "jp": "戦火に立つ修羅",
-  "en": "",
-  "status": ""
+  "en": "Fiend on the Battlefield",
+  "status": "done"
  },
  {
   "id": "eboot_25FF54",
@@ -14220,8 +14220,8 @@
    }
   ],
   "jp": "物欲のなせる罠",
-  "en": "",
-  "status": ""
+  "en": "The Trap of Greed",
+  "status": "done"
  },
  {
   "id": "eboot_25FF90",
@@ -14248,8 +14248,8 @@
    }
   ],
   "jp": "戻ってきた戦士",
-  "en": "",
-  "status": ""
+  "en": "The Warrior Returned",
+  "status": "done"
  },
  {
   "id": "eboot_25FFD0",
@@ -14276,7 +14276,7 @@
    }
   ],
   "jp": "ソルトロード",
-  "en": "",
-  "status": ""
+  "en": "Salt Road",
+  "status": "done"
  }
 ]

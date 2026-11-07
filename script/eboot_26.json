@@ -24,8 +24,8 @@
    }
   ],
   "jp": "帝都軍事演習",
-  "en": "",
-  "status": ""
+  "en": "Imperial Capital War Games",
+  "status": "done"
  },
  {
   "id": "eboot_260044",
@@ -52,8 +52,8 @@
    }
   ],
   "jp": "守るべきもの",
-  "en": "",
-  "status": ""
+  "en": "What Must Be Protected",
+  "status": "done"
  },
  {
   "id": "eboot_260084",
@@ -80,8 +80,8 @@
    }
   ],
   "jp": "ティエラ炎上",
-  "en": "",
-  "status": ""
+  "en": "Tiera in Flames",
+  "status": "done"
  },
  {
   "id": "eboot_2600C0",
@@ -108,8 +108,8 @@
    }
   ],
   "jp": "狂戦士の叫び",
-  "en": "",
-  "status": ""
+  "en": "The Berserker's Cry",
+  "status": "done"
  },
  {
   "id": "eboot_260100",
@@ -136,8 +136,8 @@
    }
   ],
   "jp": "歴史は夜、動く",
-  "en": "",
-  "status": ""
+  "en": "History Moves at Night",
+  "status": "done"
  },
  {
   "id": "eboot_26013C",
@@ -164,8 +164,8 @@
    }
   ],
   "jp": "うつろう時の中で",
-  "en": "",
-  "status": ""
+  "en": "In Fleeting Time",
+  "status": "done"
  },
  {
   "id": "eboot_260180",
@@ -192,8 +192,8 @@
    }
   ],
   "jp": "別離",
-  "en": "",
-  "status": ""
+  "en": "Parting",
+  "status": "done"
  },
  {
   "id": "eboot_2601B8",
@@ -220,8 +220,8 @@
    }
   ],
   "jp": "呼び起こせ、魔竜の血",
-  "en": "",
-  "status": ""
+  "en": "Awaken, Demon Dragon's Blood",
+  "status": "done"
  },
  {
   "id": "eboot_260200",
@@ -248,8 +248,8 @@
    }
   ],
   "jp": "盾を破るのは矛なのか?",
-  "en": "",
-  "status": ""
+  "en": "Does the Spear Break the Shield?",
+  "status": "done"
  },
  {
   "id": "eboot_26024C",
@@ -276,8 +276,8 @@
    }
   ],
   "jp": "双竜激突",
-  "en": "",
-  "status": ""
+  "en": "Twin Dragons Clash",
+  "status": "done"
  },
  {
   "id": "eboot_26028C",
@@ -304,8 +304,8 @@
    }
   ],
   "jp": "焔帝ガルカーサ",
-  "en": "",
-  "status": ""
+  "en": "Flame Emperor Gulcasa",
+  "status": "done"
  },
  {
   "id": "eboot_2602CC",
@@ -332,8 +332,8 @@
    }
   ],
   "jp": "悲劇",
-  "en": "",
-  "status": ""
+  "en": "Tragedy",
+  "status": "done"
  },
  {
   "id": "eboot_260304",
@@ -360,8 +360,8 @@
    }
   ],
   "jp": "復讐",
-  "en": "",
-  "status": ""
+  "en": "Revenge",
+  "status": "done"
  },
  {
   "id": "eboot_260338",
@@ -388,8 +388,8 @@
    }
   ],
   "jp": "覚醒",
-  "en": "",
-  "status": ""
+  "en": "Awakening",
+  "status": "done"
  },
  {
   "id": "eboot_260370",
@@ -416,8 +416,8 @@
    }
   ],
   "jp": "帰郷",
-  "en": "",
-  "status": ""
+  "en": "Homecoming",
+  "status": "done"
  },
  {
   "id": "eboot_2603AC",
@@ -444,8 +444,8 @@
    }
   ],
   "jp": "再会",
-  "en": "",
-  "status": ""
+  "en": "Reunion",
+  "status": "done"
  },
  {
   "id": "eboot_2603E4",
@@ -472,8 +472,8 @@
    }
   ],
   "jp": "血",
-  "en": "",
-  "status": ""
+  "en": "Blood",
+  "status": "done"
  },
  {
   "id": "eboot_260418",
@@ -500,8 +500,8 @@
    }
   ],
   "jp": "はじまりのおわり",
-  "en": "",
-  "status": ""
+  "en": "The End of the Beginning",
+  "status": "done"
  },
  {
   "id": "eboot_26045C",
@@ -528,8 +528,8 @@
    }
   ],
   "jp": "残り火",
-  "en": "",
-  "status": ""
+  "en": "Embers",
+  "status": "done"
  },
  {
   "id": "eboot_260498",
@@ -556,8 +556,8 @@
    }
   ],
   "jp": "暴かれし瞳の奥",
-  "en": "",
-  "status": ""
+  "en": "Behind the Eyes Laid Bare",
+  "status": "done"
  },
  {
   "id": "eboot_2604D4",
@@ -584,8 +584,8 @@
    }
   ],
   "jp": "その火蓋は切らせない",
-  "en": "",
-  "status": ""
+  "en": "Don't Let It Begin",
+  "status": "done"
  },
  {
   "id": "eboot_26051C",
@@ -612,8 +612,8 @@
    }
   ],
   "jp": "死闘、命果てるまで",
-  "en": "",
-  "status": ""
+  "en": "Fight to the Death",
+  "status": "done"
  },
  {
   "id": "eboot_260560",
@@ -640,8 +640,8 @@
    }
   ],
   "jp": "死の舞踏",
-  "en": "",
-  "status": ""
+  "en": "Dance of Death",
+  "status": "done"
  },
  {
   "id": "eboot_26059C",
@@ -668,8 +668,8 @@
    }
   ],
   "jp": "人が勝ち得たもの",
-  "en": "",
-  "status": ""
+  "en": "What People Have Won",
+  "status": "done"
  },
  {
   "id": "eboot_2605E0",
