@@ -63,7 +63,19 @@ weapon tags, short words per D8; weapon rects are 18 px wide, the white `Geograp
 List names 1770@2add0 (large names right-aligned in cells), `フィールド上にオブジェクトは何もありません。` 1770@4fef0, result
 atlas 1771@e0 (item/card headers, MVP and loot prompts, side victory banners), MVP `なし` 1771@1b1e0, the character name
 list 1771@26dc0. Seen in game: mission banner, terrain tags, Unit Deployment, Object List, weapon tags, victory and loot.
-Still Japanese: recap pages 1532-1604, the prep screen's vertical location under the vertical title
+Done 2026-11-07 (fourth session): recap narration, all 54 pages (1532-1581 `@20`, 1582-1585 `@20240`; each a 380 px wide
+texture the game scrolls at 1:1), transcribed from the sprites and translated, style `page` (word-wrapped at the largest
+size up to 17 px that fits the texture; `\n` in the row ends a paragraph). 1532 seen in game (`recap_2`); the rest only in
+preview. 1582-1604 `@20` (240x136 in the index) are CG art with no text. Still Japanese in the recaps: the 58 diagrams
+(240x100 in the index, 480x200 real; list in `work/gfx/diag.txt` from `index.tsv`): white-to-blue gradient lettering
+with a black outline on gradient pills (blue ally, red enemy, green other). Words: グラムブレイズ Gram Blaze, 反乱軍 Rebels,
+盗賊団 Thieves, 賊 Bandit, 山賊 Bandits, 辺境警備軍 Frontier Guard, 輸送隊 Convoy, 輸送船 Transport Ship, 民兵 Militia,
+預言者? Prophet?, 神生教団 Papal Army, はだしのミゼル Barefoot Mizer, 帝国軍 Imperial Army, 王国軍 Kingdom Army,
+ガルカーサ部隊 Gulcasa's Army, アイギナ近衛隊 Aegina's Guard, レオン, シスキア, アイギナ; `？？？` stays. `inpaint` can't
+clear them (it masks only near-white pixels): they need a style that rebuilds the pill per row from its colour either side
+of the lettering. `tools/debug/gfx_pills.py` (white + black outline near a pill) finds too few boxes on this art; boxes
+by hand from `gfx_tight.py` are the fallback.
+Still Japanese: the prep screen's vertical location under the vertical title
 (`ティエラ・ネザー地区中央`: in no chapter file and no text record; not located), 1771@36ad0 (small list), and the rest of
 the survey table below from trait lines on.
 

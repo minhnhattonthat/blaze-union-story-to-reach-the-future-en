@@ -39,6 +39,9 @@ STYLES = {
     "title": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(3, (0, 0, 0)), clear="alpha", align="l"),
     "stripe": dict(font="SourceSans3-Black.ttf", fill=(252, 254, 186), stroke=(2, (31, 27, 38)), clear="stripe", align="c"),
     "over1": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(1, (16, 16, 32)), clear=None, align="l"),
+    # recap narration: whole page in one box, word-wrapped at the largest size that fits; "\n" ends a paragraph
+    "page": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(1, (24, 24, 40)), clear="alpha", align="c",
+                 wrap=True, max=17),
 }
 MIN_X = 0.62  # narrowest horizontal squeeze before the size shrinks instead
 
@@ -100,14 +103,31 @@ def border_colour(img, box):
     return c.most_common(1)[0][0] if c else (0, 0, 0, 0)
 
 
+def wrap(text, width, w):
+    """Greedy word wrap of each paragraph ("\n"-separated) to w; a blank line between paragraphs."""
+    out = []
+    for para in text.split("\n"):
+        line = ""
+        for word in para.split():
+            t = f"{line} {word}".strip()
+            if line and width(t) > w:
+                out.append(line)
+                t = word
+            line = t
+        out += [line, ""]
+    return out[:-1]
+
+
 def text_layer(text, st, w, h):
     """White-on-black-stroke lettering fitted into w x h (ink box), squeezed before shrunk. -> L-mode luma, alpha."""
     sw = st["stroke"][0] if st["stroke"] else 0
     path = str(FONTS / st["font"])
     lines = text.split("\n")
-    for px in range(h * 2, 5, -1):
+    for px in range(min(h * 2, st.get("max", h * 2)), 5, -1):
         f = ImageFont.truetype(path, px)
         d = ImageDraw.Draw(Image.new("L", (1, 1)))
+        if st.get("wrap"):
+            lines = wrap(text, lambda s: d.textlength(s, font=f) + 2 * sw, w)
         bbs = [d.textbbox((0, 0), ln, font=f, stroke_width=sw) for ln in lines]
         ref = d.textbbox((0, 0), "Ag", font=f, stroke_width=sw)  # one size per box height, descender or not
         bbs = [(b[0], ref[1], b[2], ref[3]) for b in bbs]
@@ -115,7 +135,7 @@ def text_layer(text, st, w, h):
         pitch = f.getmetrics()[0] + f.getmetrics()[1] if len(lines) > 1 else lh
         th = pitch * (len(lines) - 1) + lh
         tw = max(b[2] - b[0] for b in bbs)
-        if th <= h and tw * MIN_X <= w:
+        if th <= h and tw * (1 if st.get("wrap") else MIN_X) <= w:
             break
     top = min(b[1] for b in bbs)
     lay = Image.new("RGBA", (tw + 2, th + 2), (0, 0, 0, 0))
