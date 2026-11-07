@@ -10,8 +10,8 @@
    }
   ],
   "jp": "当然の結果だ！",
-  "en": "",
-  "status": ""
+  "en": "Only natural!",
+  "status": "done"
  },
  {
   "id": "eboot_225BE3",
@@ -24,8 +24,8 @@
    }
   ],
   "jp": "この程度なのかよ！",
-  "en": "",
-  "status": ""
+  "en": "Is that all you've got!",
+  "status": "done"
  },
  {
   "id": "eboot_225BF6",
@@ -38,8 +38,8 @@
    }
   ],
   "jp": "俺達の勝ちだな！",
-  "en": "",
-  "status": ""
+  "en": "We win!",
+  "status": "done"
  },
  {
   "id": "eboot_225C07",
@@ -52,8 +52,8 @@
    }
   ],
   "jp": "前に進むだけだ！",
-  "en": "",
-  "status": ""
+  "en": "All I can do is go forward!",
+  "status": "done"
  },
  {
   "id": "eboot_225C18",
@@ -66,8 +66,8 @@
    }
   ],
   "jp": "負けられないんだよ。",
-  "en": "",
-  "status": ""
+  "en": "I can't afford to lose.",
+  "status": "done"
  },
  {
   "id": "eboot_225C2D",
@@ -80,8 +80,8 @@
    }
   ],
   "jp": "勝ちなものか、これが……",
-  "en": "",
-  "status": ""
+  "en": "This doesn't feel like winning...",
+  "status": "done"
  },
  {
   "id": "eboot_225C46",
@@ -94,8 +94,8 @@
    }
   ],
   "jp": "立ち止まることはできん②",
-  "en": "",
-  "status": ""
+  "en": "I cannot stop now!!",
+  "status": "done"
  },
  {
   "id": "eboot_225C5F",
@@ -108,8 +108,8 @@
    }
   ],
   "jp": "何故わからない③",
-  "en": "",
-  "status": ""
+  "en": "Why don't you understand?!",
+  "status": "done"
  },
  {
   "id": "eboot_225C70",
@@ -122,8 +122,8 @@
    }
   ],
   "jp": "好きにはさせないんだから！",
-  "en": "",
-  "status": ""
+  "en": "I won't let you have your way!",
+  "status": "done"
  },
  {
   "id": "eboot_225C8B",
@@ -136,8 +136,8 @@
    }
   ],
   "jp": "これで道が開けるよね。",
-  "en": "",
-  "status": ""
+  "en": "This clears the way, right?",
+  "status": "done"
  },
  {
   "id": "eboot_225CA2",
@@ -150,8 +150,8 @@
    }
   ],
   "jp": "このままじゃ終われない。",
-  "en": "",
-  "status": ""
+  "en": "I can't end things like this.",
+  "status": "done"
  },
  {
   "id": "eboot_225CBB",
@@ -164,8 +164,8 @@
    }
   ],
   "jp": "…勝って、終わらせるんだ！",
-  "en": "",
-  "status": ""
+  "en": "...We'll win, and end this!",
+  "status": "done"
  },
  {
   "id": "eboot_225CD6",
@@ -178,8 +178,8 @@
    }
   ],
   "jp": "こんなのって、ないよ……",
-  "en": "",
-  "status": ""
+  "en": "This isn't right...",
+  "status": "done"
  },
  {
   "id": "eboot_225CEF",
@@ -192,8 +192,8 @@
    }
   ],
   "jp": "立ち止まってはいられないから",
-  "en": "",
-  "status": ""
+  "en": "I can't stand still, that's why",
+  "status": "done"
  },
  {
   "id": "eboot_225D0C",
@@ -206,8 +206,8 @@
    }
   ],
   "jp": "頭だけじゃないってことさ。",
-  "en": "",
-  "status": ""
+  "en": "I've got more than just a brain.",
+  "status": "done"
  },
  {
   "id": "eboot_225D27",
@@ -220,8 +220,8 @@
    }
   ],
   "jp": "さよならだ。",
-  "en": "",
-  "status": ""
+  "en": "Farewell.",
+  "status": "done"
  },
  {
   "id": "eboot_225D34",
@@ -234,8 +234,8 @@
    }
   ],
   "jp": "損害を報告しなさい。",
-  "en": "",
-  "status": ""
+  "en": "Report the damage.",
+  "status": "done"
  },
  {
   "id": "eboot_225D49",
@@ -248,8 +248,8 @@
    }
   ],
   "jp": "これが、運命なのか……",
-  "en": "",
-  "status": ""
+  "en": "So this is fate...",
+  "status": "done"
  },
  {
   "id": "eboot_225D60",
@@ -262,8 +262,8 @@
    }
   ],
   "jp": "これがあたしの戦いだ！",
-  "en": "",
-  "status": ""
+  "en": "This is how I fight!",
+  "status": "done"
  },
  {
   "id": "eboot_225D77",
@@ -276,8 +276,8 @@
    }
   ],
   "jp": "足手まといじゃないもん！",
-  "en": "",
-  "status": ""
+  "en": "I'm not a burden!",
+  "status": "done"
  },
  {
   "id": "eboot_225D90",
@@ -290,8 +290,8 @@
    }
   ],
   "jp": "なに、これっぽっち？",
-  "en": "",
-  "status": ""
+  "en": "What, is that all?",
+  "status": "done"
  },
  {
   "id": "eboot_225DA5",
@@ -304,8 +304,8 @@
    }
   ],
   "jp": "倒れはしません！",
-  "en": "",
-  "status": ""
+  "en": "I will not fall!",
+  "status": "done"
  },
  {
   "id": "eboot_225DB6",
@@ -318,8 +318,8 @@
    }
   ],
   "jp": "敗れるものですか！",
-  "en": "",
-  "status": ""
+  "en": "I will not be defeated!",
+  "status": "done"
  },
  {
   "id": "eboot_225DC9",
@@ -332,8 +332,8 @@
    }
   ],
   "jp": "フフ、当然の結果よ。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh, only natural.",
+  "status": "done"
  },
  {
   "id": "eboot_225DDE",
@@ -346,8 +346,8 @@
    }
   ],
   "jp": "フッ、他愛ないな②",
-  "en": "",
-  "status": ""
+  "en": "Hah, how easy!!",
+  "status": "done"
  },
  {
   "id": "eboot_225DF1",
@@ -360,8 +360,8 @@
    }
   ],
   "jp": "勝負あったな！",
-  "en": "",
-  "status": ""
+  "en": "That settles it!",
+  "status": "done"
  },
  {
   "id": "eboot_225E00",
@@ -374,8 +374,8 @@
    }
   ],
   "jp": "選べ、服従か死か。",
-  "en": "",
-  "status": ""
+  "en": "Choose: obey or die.",
+  "status": "done"
  },
  {
   "id": "eboot_225E13",
@@ -388,8 +388,8 @@
    }
   ],
   "jp": "無様だな。",
-  "en": "",
-  "status": ""
+  "en": "Pathetic.",
+  "status": "done"
  },
  {
   "id": "eboot_225E1E",
@@ -402,8 +402,8 @@
    }
   ],
   "jp": "あなた方の負けですよ。",
-  "en": "",
-  "status": ""
+  "en": "You have lost.",
+  "status": "done"
  },
  {
   "id": "eboot_225E35",
@@ -416,8 +416,8 @@
    }
   ],
   "jp": "無理なのですよ、あなた方には",
-  "en": "",
-  "status": ""
+  "en": "It is impossible for you, you see",
+  "status": "done"
  },
  {
   "id": "eboot_225E52",
@@ -430,8 +430,8 @@
    }
   ],
   "jp": "命は巡るのです……",
-  "en": "",
-  "status": ""
+  "en": "Life goes in circles...",
+  "status": "done"
  },
  {
   "id": "eboot_225E65",
@@ -444,8 +444,8 @@
    }
   ],
   "jp": "……悪く思うな。",
-  "en": "",
-  "status": ""
+  "en": "...Nothing personal.",
+  "status": "done"
  },
  {
   "id": "eboot_225E76",
@@ -458,8 +458,8 @@
    }
   ],
   "jp": "報酬はいくらかな？",
-  "en": "",
-  "status": ""
+  "en": "So how much do I get paid?",
+  "status": "done"
  },
  {
   "id": "eboot_225E89",
@@ -472,8 +472,8 @@
    }
   ],
   "jp": "思い知ったかよ？",
-  "en": "",
-  "status": ""
+  "en": "Learned your lesson?",
+  "status": "done"
  },
  {
   "id": "eboot_225E9A",
@@ -486,8 +486,8 @@
    }
   ],
   "jp": "大人しくしていればよいものを",
-  "en": "",
-  "status": ""
+  "en": "You should've stayed quiet",
+  "status": "done"
  },
  {
   "id": "eboot_225EB7",
@@ -500,8 +500,8 @@
    }
   ],
   "jp": "オトナは楽じゃねぇんだよ。",
-  "en": "",
-  "status": ""
+  "en": "It ain't easy bein' a grown-up.",
+  "status": "done"
  },
  {
   "id": "eboot_225ED2",
@@ -514,8 +514,8 @@
    }
   ],
   "jp": "さすがパメラ様、最強すぎ☆",
-  "en": "",
-  "status": ""
+  "en": "That's Pamela-sama, way too strong☆",
+  "status": "done"
  },
  {
   "id": "eboot_225EED",
@@ -528,8 +528,8 @@
    }
   ],
   "jp": "バイフー、負けない。",
-  "en": "",
-  "status": ""
+  "en": "Byff, won't lose.",
+  "status": "done"
  },
  {
   "id": "eboot_225F02",
@@ -542,8 +542,8 @@
    }
   ],
   "jp": "堪能できまして？",
-  "en": "",
-  "status": ""
+  "en": "Did you enjoy that?",
+  "status": "done"
  },
  {
   "id": "eboot_225F13",
@@ -556,8 +556,8 @@
    }
   ],
   "jp": "剣のサビになるがいい！",
-  "en": "",
-  "status": ""
+  "en": "Become rust on my sword!",
+  "status": "done"
  },
  {
   "id": "eboot_225F2A",
@@ -570,8 +570,8 @@
    }
   ],
   "jp": "敗れるわけにはいかんのだ。",
-  "en": "",
-  "status": ""
+  "en": "I cannot afford defeat.",
+  "status": "done"
  },
  {
   "id": "eboot_225F45",
@@ -584,8 +584,8 @@
    }
   ],
   "jp": "この国、私が貰うぞ！",
-  "en": "",
-  "status": ""
+  "en": "This country is mine!",
+  "status": "done"
  },
  {
   "id": "eboot_225F5A",
@@ -598,8 +598,8 @@
    }
   ],
   "jp": "若気の至りってヤツかぁ？",
-  "en": "",
-  "status": ""
+  "en": "Reckless youth, is it?",
+  "status": "done"
  },
  {
   "id": "eboot_225F73",
@@ -612,8 +612,8 @@
    }
   ],
   "jp": "これが実力ってね！",
-  "en": "",
-  "status": ""
+  "en": "That's what real skill looks like!",
+  "status": "done"
  },
  {
   "id": "eboot_225F86",
@@ -626,8 +626,8 @@
    }
   ],
   "jp": "負けられないんだっつーの②",
-  "en": "",
-  "status": ""
+  "en": "I told you, I can't lose!!",
+  "status": "done"
  },
  {
   "id": "eboot_225FA1",
@@ -640,8 +640,8 @@
    }
   ],
   "jp": "この剣で守り抜く。",
-  "en": "",
-  "status": ""
+  "en": "This sword will protect us.",
+  "status": "done"
  },
  {
   "id": "eboot_225FB4",
@@ -654,8 +654,8 @@
    }
   ],
   "jp": "絶好調だぜ！",
-  "en": "",
-  "status": ""
+  "en": "I'm on fire!",
+  "status": "done"
  },
  {
   "id": "eboot_225FC1",
@@ -668,8 +668,8 @@
    }
   ],
   "jp": "祝杯といこうかしら、ヒック。",
-  "en": "",
-  "status": ""
+  "en": "Time for a toast, *hic*.",
+  "status": "done"
  },
  {
   "id": "eboot_225FDE",
@@ -682,8 +682,8 @@
    }
   ],
   "jp": "まだまだだな！",
-  "en": "",
-  "status": ""
+  "en": "Not good enough!",
+  "status": "done"
  },
  {
   "id": "eboot_225FED",
@@ -696,8 +696,8 @@
    }
   ],
   "jp": "我らの勝利だ②",
-  "en": "",
-  "status": ""
+  "en": "Victory is ours!!",
+  "status": "done"
  },
  {
   "id": "eboot_225FFC",
@@ -710,8 +710,8 @@
    }
   ],
   "jp": "地獄へと誘おう…",
-  "en": "",
-  "status": ""
+  "en": "Let me show you the way to hell...",
+  "status": "done"
  },
  {
   "id": "eboot_22600D",
@@ -738,8 +738,8 @@
    }
   ],
   "jp": "守り抜いてみせる！",
-  "en": "",
-  "status": ""
+  "en": "I'll protect them to the end!",
+  "status": "done"
  },
  {
   "id": "eboot_22602F",
@@ -752,8 +752,8 @@
    }
   ],
   "jp": "出直して来い！",
-  "en": "",
-  "status": ""
+  "en": "Come back when you're ready!",
+  "status": "done"
  },
  {
   "id": "eboot_22603E",
@@ -766,8 +766,8 @@
    }
   ],
   "jp": "命が、欲しい…！",
-  "en": "",
-  "status": ""
+  "en": "I want... life...!",
+  "status": "done"
  },
  {
   "id": "eboot_22604F",
@@ -780,8 +780,8 @@
    }
   ],
   "jp": "力量をわきまえなさい！",
-  "en": "",
-  "status": ""
+  "en": "Know your limits!",
+  "status": "done"
  },
  {
   "id": "eboot_226066",
@@ -794,8 +794,8 @@
    }
   ],
   "jp": "こんなものかしら？",
-  "en": "",
-  "status": ""
+  "en": "Is that all?",
+  "status": "done"
  },
  {
   "id": "eboot_226079",
@@ -808,8 +808,8 @@
    }
   ],
   "jp": "これが天意と知れ！",
-  "en": "",
-  "status": ""
+  "en": "Know this as Heaven's will!",
+  "status": "done"
  },
  {
   "id": "eboot_22608C",
@@ -822,8 +822,8 @@
    }
   ],
   "jp": "負けてられません！",
-  "en": "",
-  "status": ""
+  "en": "I must not lose!",
+  "status": "done"
  },
  {
   "id": "eboot_22609F",
@@ -836,8 +836,8 @@
    }
   ],
   "jp": "やられるものか！",
-  "en": "",
-  "status": ""
+  "en": "I will not fall!",
+  "status": "done"
  },
  {
   "id": "eboot_2260B0",
@@ -850,8 +850,8 @@
    }
   ],
   "jp": "詰めが甘いですね。",
-  "en": "",
-  "status": ""
+  "en": "Careless at the finish.",
+  "status": "done"
  },
  {
   "id": "eboot_2260C3",
@@ -864,8 +864,8 @@
    }
   ],
   "jp": "帝国の誇りにかけて！",
-  "en": "",
-  "status": ""
+  "en": "For the pride of the Empire!",
+  "status": "done"
  },
  {
   "id": "eboot_2260D8",
@@ -878,8 +878,8 @@
    }
   ],
   "jp": "これぞ人馬一体！",
-  "en": "",
-  "status": ""
+  "en": "Horse and rider as one!",
+  "status": "done"
  },
  {
   "id": "eboot_2260E9",
@@ -892,8 +892,8 @@
    }
   ],
   "jp": "傭兵と侮るな！",
-  "en": "",
-  "status": ""
+  "en": "Don't look down on mercenaries!",
+  "status": "done"
  },
  {
   "id": "eboot_2260F8",
@@ -906,8 +906,8 @@
    }
   ],
   "jp": "大したことねぇな！",
-  "en": "",
-  "status": ""
+  "en": "That was nothing!",
+  "status": "done"
  },
  {
   "id": "eboot_22610B",
@@ -920,8 +920,8 @@
    }
   ],
   "jp": "これが訓練の成果だ！",
-  "en": "",
-  "status": ""
+  "en": "Such is the fruit of training!",
+  "status": "done"
  },
  {
   "id": "eboot_226120",
@@ -934,8 +934,8 @@
    }
   ],
   "jp": "勝利だ！",
-  "en": "",
-  "status": ""
+  "en": "Victory!",
+  "status": "done"
  },
  {
   "id": "eboot_226129",
@@ -948,8 +948,8 @@
    }
   ],
   "jp": "呆気ないわね。",
-  "en": "",
-  "status": ""
+  "en": "That was quick.",
+  "status": "done"
  },
  {
   "id": "eboot_226138",
@@ -962,8 +962,8 @@
    }
   ],
   "jp": "まだまだねぇ。",
-  "en": "",
-  "status": ""
+  "en": "You've got a long way to go.",
+  "status": "done"
  },
  {
   "id": "eboot_226147",
@@ -976,8 +976,8 @@
    }
   ],
   "jp": "抗うからよ。",
-  "en": "",
-  "status": ""
+  "en": "That's what you get for resisting.",
+  "status": "done"
  },
  {
   "id": "eboot_226154",
@@ -990,8 +990,8 @@
    }
   ],
   "jp": "こんなものかしら？",
-  "en": "",
-  "status": ""
+  "en": "Is that all?",
+  "status": "done"
  },
  {
   "id": "eboot_226167",
@@ -1004,8 +1004,8 @@
    }
   ],
   "jp": "せめて、殺して。",
-  "en": "",
-  "status": ""
+  "en": "At least... kill me.",
+  "status": "done"
  },
  {
   "id": "eboot_226178",
@@ -1018,8 +1018,8 @@
    }
   ],
   "jp": "これが快勝ってヤツさ！",
-  "en": "",
-  "status": ""
+  "en": "That's what a clean win looks like!",
+  "status": "done"
  },
  {
   "id": "eboot_22618F",
@@ -1032,8 +1032,8 @@
    }
   ],
   "jp": "よっしゃあああ②",
-  "en": "",
-  "status": ""
+  "en": "Yeeeeah!!",
+  "status": "done"
  },
  {
   "id": "eboot_2261A0",
@@ -1046,8 +1046,8 @@
    }
   ],
   "jp": "無駄な足掻きだったな。",
-  "en": "",
-  "status": ""
+  "en": "Your struggle was pointless.",
+  "status": "done"
  },
  {
   "id": "eboot_2261B7",
@@ -1060,8 +1060,8 @@
    }
   ],
   "jp": "おととい来やがれ！",
-  "en": "",
-  "status": ""
+  "en": "Don't come back!",
+  "status": "done"
  },
  {
   "id": "eboot_2261CA",
@@ -1088,8 +1088,8 @@
    }
   ],
   "jp": "空からの攻撃を舐めるな②",
-  "en": "",
-  "status": ""
+  "en": "Don't underestimate an attack from above!!",
+  "status": "done"
  },
  {
   "id": "eboot_2261FA",
@@ -1102,8 +1102,8 @@
    }
   ],
   "jp": "勝てると思ってたの？",
-  "en": "",
-  "status": ""
+  "en": "Thought you could win?",
+  "status": "done"
  },
  {
   "id": "eboot_22620F",
@@ -1116,8 +1116,8 @@
    }
   ],
   "jp": "ホラね。神様はいるのよ。",
-  "en": "",
-  "status": ""
+  "en": "See? There is a god.",
+  "status": "done"
  },
  {
   "id": "eboot_226228",
@@ -1130,8 +1130,8 @@
    }
   ],
   "jp": "素人仕事ね！",
-  "en": "",
-  "status": ""
+  "en": "Amateur work!",
+  "status": "done"
  },
  {
   "id": "eboot_226235",
@@ -1144,8 +1144,8 @@
    }
   ],
   "jp": "道を切り開くのよ！",
-  "en": "",
-  "status": ""
+  "en": "Let's clear the way!",
+  "status": "done"
  },
  {
   "id": "eboot_226248",
@@ -1158,8 +1158,8 @@
    }
   ],
   "jp": "空を制す者、戦いを制す！",
-  "en": "",
-  "status": ""
+  "en": "Who rules the sky rules the battle!",
+  "status": "done"
  },
  {
   "id": "eboot_226261",
@@ -1172,8 +1172,8 @@
    }
   ],
   "jp": "か、カチィィィ！",
-  "en": "",
-  "status": ""
+  "en": "W-winnnnn!",
+  "status": "done"
  },
  {
   "id": "eboot_226272",
@@ -1186,8 +1186,8 @@
    }
   ],
   "jp": "矢を軽んじるから、そうなる。",
-  "en": "",
-  "status": ""
+  "en": "That's what comes of taking arrows lightly.",
+  "status": "done"
  },
  {
   "id": "eboot_22628F",
@@ -1200,8 +1200,8 @@
    }
   ],
   "jp": "弓使いを甘く見るなよ！",
-  "en": "",
-  "status": ""
+  "en": "Don't underestimate an archer!",
+  "status": "done"
  },
  {
   "id": "eboot_2262A6",
@@ -1214,8 +1214,8 @@
    }
   ],
   "jp": "死が恐いのか？",
-  "en": "",
-  "status": ""
+  "en": "Are you afraid of death?",
+  "status": "done"
  },
  {
   "id": "eboot_2262B5",
@@ -1228,8 +1228,8 @@
    }
   ],
   "jp": "これがプロの仕事さ！",
-  "en": "",
-  "status": ""
+  "en": "That's how a pro does it!",
+  "status": "done"
  },
  {
   "id": "eboot_2262CA",
@@ -1242,8 +1242,8 @@
    }
   ],
   "jp": "負けるもんか…！",
-  "en": "",
-  "status": ""
+  "en": "I won't lose...!",
+  "status": "done"
  },
  {
   "id": "eboot_2262DB",
@@ -1256,8 +1256,8 @@
    }
   ],
   "jp": "悪くない戦いだった。",
-  "en": "",
-  "status": ""
+  "en": "Not a bad fight.",
+  "status": "done"
  },
  {
   "id": "eboot_2262F0",
@@ -1270,8 +1270,8 @@
    }
   ],
   "jp": "次の敵は？",
-  "en": "",
-  "status": ""
+  "en": "Next enemy?",
+  "status": "done"
  },
  {
   "id": "eboot_2262FB",
@@ -1284,8 +1284,8 @@
    }
   ],
   "jp": "こんなものか。",
-  "en": "",
-  "status": ""
+  "en": "That's all, then.",
+  "status": "done"
  },
  {
   "id": "eboot_22630A",
@@ -1298,8 +1298,8 @@
    }
   ],
   "jp": "愚かさを棄てよ。",
-  "en": "",
-  "status": ""
+  "en": "Cast off your foolishness.",
+  "status": "done"
  },
  {
   "id": "eboot_22631B",
@@ -1312,8 +1312,8 @@
    }
   ],
   "jp": "勝敗は決したな。",
-  "en": "",
-  "status": ""
+  "en": "The battle is decided.",
+  "status": "done"
  },
  {
   "id": "eboot_22632C",
@@ -1326,8 +1326,8 @@
    }
   ],
   "jp": "勝負ありだ。",
-  "en": "",
-  "status": ""
+  "en": "That settles it.",
+  "status": "done"
  },
  {
   "id": "eboot_226339",
@@ -1340,8 +1340,8 @@
    }
   ],
   "jp": "まだ、生きてる？",
-  "en": "",
-  "status": ""
+  "en": "Still... alive?",
+  "status": "done"
  },
  {
   "id": "eboot_22634A",
@@ -1354,8 +1354,8 @@
    }
   ],
   "jp": "闇が迎えに来た。",
-  "en": "",
-  "status": ""
+  "en": "The dark has come for me.",
+  "status": "done"
  },
  {
   "id": "eboot_22635B",
@@ -1368,8 +1368,8 @@
    }
   ],
   "jp": "勝利など過程に過ぎぬ。",
-  "en": "",
-  "status": ""
+  "en": "Victory is but a step on the way.",
+  "status": "done"
  },
  {
   "id": "eboot_226372",
@@ -1382,8 +1382,8 @@
    }
   ],
   "jp": "好き勝手にさせるものか！",
-  "en": "",
-  "status": ""
+  "en": "I won't let you do as you please!",
+  "status": "done"
  },
  {
   "id": "eboot_22638B",
@@ -1396,8 +1396,8 @@
    }
   ],
   "jp": "さらば。",
-  "en": "",
-  "status": ""
+  "en": "Farewell.",
+  "status": "done"
  },
  {
   "id": "eboot_226394",
@@ -1410,8 +1410,8 @@
    }
   ],
   "jp": "見かけ倒しね。",
-  "en": "",
-  "status": ""
+  "en": "All show, no substance.",
+  "status": "done"
  },
  {
   "id": "eboot_2263A3",
@@ -1424,8 +1424,8 @@
    }
   ],
   "jp": "全然満足できない。",
-  "en": "",
-  "status": ""
+  "en": "Not even close to satisfied.",
+  "status": "done"
  },
  {
   "id": "eboot_2263B6",
@@ -1438,8 +1438,8 @@
    }
   ],
   "jp": "勝つイコールお金、ってね！",
-  "en": "",
-  "status": ""
+  "en": "Winning equals money, you know!",
+  "status": "done"
  },
  {
   "id": "eboot_2263D1",
@@ -1452,8 +1452,8 @@
    }
   ],
   "jp": "この国は汚させない！",
-  "en": "",
-  "status": ""
+  "en": "I won't let this country be defiled!",
+  "status": "done"
  },
  {
   "id": "eboot_2263E6",
@@ -1466,8 +1466,8 @@
    }
   ],
   "jp": "ご覧になりまして？",
-  "en": "",
-  "status": ""
+  "en": "Did you see that?",
+  "status": "done"
  },
  {
   "id": "eboot_2263F9",
@@ -1494,8 +1494,8 @@
    }
   ],
   "jp": "ケケケケケ②",
-  "en": "",
-  "status": ""
+  "en": "Kekekekeke!!",
+  "status": "done"
  },
  {
   "id": "eboot_226419",
@@ -1508,8 +1508,8 @@
    }
   ],
   "jp": "カカカカカ②",
-  "en": "",
-  "status": ""
+  "en": "Kakakakaka!!",
+  "status": "done"
  },
  {
   "id": "eboot_226426",
@@ -1522,8 +1522,8 @@
    }
   ],
   "jp": "グゥー、ワァー、フゥー…",
-  "en": "",
-  "status": ""
+  "en": "Grrr, waaah, fuuh...",
+  "status": "done"
  },
  {
   "id": "eboot_22643F",
@@ -1536,8 +1536,8 @@
    }
   ],
   "jp": "グッグッグ…",
-  "en": "",
-  "status": ""
+  "en": "Guh-guh-guh...",
+  "status": "done"
  },
  {
   "id": "eboot_22644C",
@@ -1550,8 +1550,8 @@
    }
   ],
   "jp": "グウッ、フッ、フッ②",
-  "en": "",
-  "status": ""
+  "en": "Gufu, fu, fu!!",
+  "status": "done"
  },
  {
   "id": "eboot_226461",
@@ -1564,8 +1564,8 @@
    }
   ],
   "jp": "これが正規軍の実力だ！",
-  "en": "",
-  "status": ""
+  "en": "That's the strength of a regular army!",
+  "status": "done"
  },
  {
   "id": "eboot_226478",
@@ -1578,8 +1578,8 @@
    }
   ],
   "jp": "亡者の声を聞け！",
-  "en": "",
-  "status": ""
+  "en": "Hear the voices of the dead!",
+  "status": "done"
  },
  {
   "id": "eboot_226489",
@@ -1592,8 +1592,8 @@
    }
   ],
   "jp": "これが実力なのさ！",
-  "en": "",
-  "status": ""
+  "en": "That's real skill!",
+  "status": "done"
  },
  {
   "id": "eboot_22649C",
@@ -1606,8 +1606,8 @@
    }
   ],
   "jp": "セリカ姉さん、私やりました！",
-  "en": "",
-  "status": ""
+  "en": "Cerica-neesan, I did it!",
+  "status": "done"
  },
  {
   "id": "eboot_2264B9",
@@ -1620,8 +1620,8 @@
    }
   ],
   "jp": "勝負アリ、ってね！",
-  "en": "",
-  "status": ""
+  "en": "That settles it, you know!",
+  "status": "done"
  },
  {
   "id": "eboot_2264CC",
@@ -1634,8 +1634,8 @@
    }
   ],
   "jp": "ば、バカな……",
-  "en": "",
-  "status": ""
+  "en": "I-Impossible...",
+  "status": "done"
  },
  {
   "id": "eboot_2264DB",
@@ -1648,8 +1648,8 @@
    }
   ],
   "jp": "しくじったぜ……",
-  "en": "",
-  "status": ""
+  "en": "I slipped up...",
+  "status": "done"
  },
  {
   "id": "eboot_2264EC",
@@ -1662,8 +1662,8 @@
    }
   ],
   "jp": "まだ、俺は……",
-  "en": "",
-  "status": ""
+  "en": "I'm still...",
+  "status": "done"
  },
  {
   "id": "eboot_2264FB",
@@ -1676,8 +1676,8 @@
    }
   ],
   "jp": "悪い、アイギナ……",
-  "en": "",
-  "status": ""
+  "en": "Sorry, Aegina...",
+  "status": "done"
  },
  {
   "id": "eboot_22650E",
@@ -1690,8 +1690,8 @@
    }
   ],
   "jp": "何度だっ、て……",
-  "en": "",
-  "status": ""
+  "en": "However... many times...",
+  "status": "done"
  },
  {
   "id": "eboot_22651F",
@@ -1704,8 +1704,8 @@
    }
   ],
   "jp": "何のための力だ……",
-  "en": "",
-  "status": ""
+  "en": "What's this power for...",
+  "status": "done"
  },
  {
   "id": "eboot_226532",
@@ -1718,8 +1718,8 @@
    }
   ],
   "jp": "すまない、シスキア、ジェノン",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry, Siskier, Jenon",
+  "status": "done"
  },
  {
   "id": "eboot_22654F",
@@ -1732,8 +1732,8 @@
    }
   ],
   "jp": "何故なのだ…",
-  "en": "",
-  "status": ""
+  "en": "Why...",
+  "status": "done"
  },
  {
   "id": "eboot_22655C",
@@ -1746,8 +1746,8 @@
    }
   ],
   "jp": "どうしてよ……",
-  "en": "",
-  "status": ""
+  "en": "Why...",
+  "status": "done"
  },
  {
   "id": "eboot_22656B",
@@ -1760,8 +1760,8 @@
    }
   ],
   "jp": "ごめん、ガーロット……",
-  "en": "",
-  "status": ""
+  "en": "Sorry, Garlot...",
+  "status": "done"
  },
  {
   "id": "eboot_226582",
@@ -1774,8 +1774,8 @@
    }
   ],
   "jp": "ルシエナ…ごめんね。",
-  "en": "",
-  "status": ""
+  "en": "Luciana... I'm sorry.",
+  "status": "done"
  },
  {
   "id": "eboot_226597",
@@ -1788,8 +1788,8 @@
    }
   ],
   "jp": "ごめん、本当に……",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry, I really am...",
+  "status": "done"
  },
  {
   "id": "eboot_2265AA",
@@ -1802,8 +1802,8 @@
    }
   ],
   "jp": "やっぱり、ムリだよ！",
-  "en": "",
-  "status": ""
+  "en": "I knew it, it's impossible!",
+  "status": "done"
  },
  {
   "id": "eboot_2265BF",
@@ -1816,8 +1816,8 @@
    }
   ],
   "jp": "ジェノン、ごめん…",
-  "en": "",
-  "status": ""
+  "en": "Jenon, I'm sorry...",
+  "status": "done"
  },
  {
   "id": "eboot_2265D2",
@@ -1830,8 +1830,8 @@
    }
   ],
   "jp": "なんてことだ……",
-  "en": "",
-  "status": ""
+  "en": "How could this happen...",
+  "status": "done"
  },
  {
   "id": "eboot_2265E3",
@@ -1844,8 +1844,8 @@
    }
   ],
   "jp": "グワァァアアア！",
-  "en": "",
-  "status": ""
+  "en": "Gwaaaaaah!",
+  "status": "done"
  },
  {
   "id": "eboot_2265F4",
@@ -1858,8 +1858,8 @@
    }
   ],
   "jp": "油断した……！",
-  "en": "",
-  "status": ""
+  "en": "I let my guard down...!",
+  "status": "done"
  },
  {
   "id": "eboot_226603",
@@ -1872,8 +1872,8 @@
    }
   ],
   "jp": "これが、魔竜の……",
-  "en": "",
-  "status": ""
+  "en": "So this is the demon dragon's...",
+  "status": "done"
  },
  {
   "id": "eboot_226616",
@@ -1886,8 +1886,8 @@
    }
   ],
   "jp": "ガルカーサァ②",
-  "en": "",
-  "status": ""
+  "en": "Gulcasaaaa!!",
+  "status": "done"
  },
  {
   "id": "eboot_226625",
@@ -1900,8 +1900,8 @@
    }
   ],
   "jp": "きゃあ②",
-  "en": "",
-  "status": ""
+  "en": "Eek!!",
+  "status": "done"
  },
  {
   "id": "eboot_22662E",
@@ -1914,8 +1914,8 @@
    }
   ],
   "jp": "だ、ダンチョーお兄ちゃん…",
-  "en": "",
-  "status": ""
+  "en": "B-Big Brother Captain...",
+  "status": "done"
  },
  {
   "id": "eboot_226649",
@@ -1928,8 +1928,8 @@
    }
   ],
   "jp": "姉さん…、ごめんなさい…",
-  "en": "",
-  "status": ""
+  "en": "Sister... I am sorry...",
+  "status": "done"
  },
  {
   "id": "eboot_226662",
@@ -1942,8 +1942,8 @@
    }
   ],
   "jp": "ごめんなさい…、姉、さん…",
-  "en": "",
-  "status": ""
+  "en": "I am sorry... Sis... ter...",
+  "status": "done"
  },
  {
   "id": "eboot_22667D",
@@ -1956,8 +1956,8 @@
    }
   ],
   "jp": "こんなはずじゃ……",
-  "en": "",
-  "status": ""
+  "en": "This wasn't supposed to...",
+  "status": "done"
  },
  {
   "id": "eboot_226690",
@@ -1970,8 +1970,8 @@
    }
   ],
   "jp": "おのれ……②",
-  "en": "",
-  "status": ""
+  "en": "Curse you...!!",
+  "status": "done"
  },
  {
   "id": "eboot_22669D",
@@ -1984,8 +1984,8 @@
    }
   ],
   "jp": "その戦い、見届けたぞ……",
-  "en": "",
-  "status": ""
+  "en": "I have witnessed that battle...",
+  "status": "done"
  },
  {
   "id": "eboot_2266B6",
@@ -1998,8 +1998,8 @@
    }
   ],
   "jp": "私が、敗れたのか。",
-  "en": "",
-  "status": ""
+  "en": "Have I been defeated.",
+  "status": "done"
  },
  {
   "id": "eboot_2266C9",
@@ -2012,8 +2012,8 @@
    }
   ],
   "jp": "……無様、だな。",
-  "en": "",
-  "status": ""
+  "en": "...How pathetic.",
+  "status": "done"
  },
  {
   "id": "eboot_2266DA",
@@ -2026,8 +2026,8 @@
    }
   ],
   "jp": "フフフフフ……",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh heh heh...",
+  "status": "done"
  },
  {
   "id": "eboot_2266E9",
@@ -2040,8 +2040,8 @@
    }
   ],
   "jp": "私が、消える…？",
-  "en": "",
-  "status": ""
+  "en": "I'm vanishing...?",
+  "status": "done"
  },
  {
   "id": "eboot_2266FA",
@@ -2054,8 +2054,8 @@
    }
   ],
   "jp": "…答えは、見えましたか？",
-  "en": "",
-  "status": ""
+  "en": "...Have you seen the answer?",
+  "status": "done"
  },
  {
   "id": "eboot_226713",
@@ -2068,8 +2068,8 @@
    }
   ],
   "jp": "失策か……",
-  "en": "",
-  "status": ""
+  "en": "A blunder...",
+  "status": "done"
  },
  {
   "id": "eboot_22671E",
@@ -2082,8 +2082,8 @@
    }
   ],
   "jp": "な、なんだってぇ③",
-  "en": "",
-  "status": ""
+  "en": "Wh-what?!",
+  "status": "done"
  },
  {
   "id": "eboot_226731",
@@ -2096,8 +2096,8 @@
    }
   ],
   "jp": "ヘマ踏んじまったか…！",
-  "en": "",
-  "status": ""
+  "en": "Guess I messed up...!",
+  "status": "done"
  },
  {
   "id": "eboot_226748",
@@ -2110,8 +2110,8 @@
    }
   ],
   "jp": "い…、痛いのはイヤじゃあ～②",
-  "en": "",
-  "status": ""
+  "en": "N-no pain, please~!!",
+  "status": "done"
  },
  {
   "id": "eboot_226765",
@@ -2124,8 +2124,8 @@
    }
   ],
   "jp": "こんな、ガキどもに……？",
-  "en": "",
-  "status": ""
+  "en": "By brats like these...?",
+  "status": "done"
  },
  {
   "id": "eboot_22677E",
@@ -2138,8 +2138,8 @@
    }
   ],
   "jp": "ほにょにょ～②",
-  "en": "",
-  "status": ""
+  "en": "Honyonyo~!!",
+  "status": "done"
  },
  {
   "id": "eboot_22678D",
@@ -2152,8 +2152,8 @@
    }
   ],
   "jp": "バイフー、もう無理……",
-  "en": "",
-  "status": ""
+  "en": "Byff can't go on...",
+  "status": "done"
  },
  {
   "id": "eboot_2267A4",
@@ -2166,8 +2166,8 @@
    }
   ],
   "jp": "私が、美しいからと言って。",
-  "en": "",
-  "status": ""
+  "en": "And just because I am beautiful.",
+  "status": "done"
  },
  {
   "id": "eboot_2267BF",
@@ -2180,8 +2180,8 @@
    }
   ],
   "jp": "……すまない、フローネ…",
-  "en": "",
-  "status": ""
+  "en": "...I'm sorry, Flone...",
+  "status": "done"
  },
  {
   "id": "eboot_2267D8",
@@ -2194,8 +2194,8 @@
    }
   ],
   "jp": "アイギナ…、　まさか？",
-  "en": "",
-  "status": ""
+  "en": "Aegina... could it be?",
+  "status": "done"
  },
  {
   "id": "eboot_2267EF",
@@ -2208,8 +2208,8 @@
    }
   ],
   "jp": "いかん…すべてが、消えるぅ②",
-  "en": "",
-  "status": ""
+  "en": "No... everything's vanishing!!",
+  "status": "done"
  },
  {
   "id": "eboot_22680C",
@@ -2222,8 +2222,8 @@
    }
   ],
   "jp": "クソったれー②",
-  "en": "",
-  "status": ""
+  "en": "Damn it!!",
+  "status": "done"
  },
  {
   "id": "eboot_22681B",
@@ -2236,8 +2236,8 @@
    }
   ],
   "jp": "こ、こんなのって…！",
-  "en": "",
-  "status": ""
+  "en": "Th-this can't be...!",
+  "status": "done"
  },
  {
   "id": "eboot_226830",
@@ -2250,8 +2250,8 @@
    }
   ],
   "jp": "で…、デイヴィド隊長ぉ～！",
-  "en": "",
-  "status": ""
+  "en": "C-Captain David~!",
+  "status": "done"
  },
  {
   "id": "eboot_22684B",
@@ -2264,8 +2264,8 @@
    }
   ],
   "jp": "倒れる、わけには……",
-  "en": "",
-  "status": ""
+  "en": "I can't... fall...",
+  "status": "done"
  },
  {
   "id": "eboot_226860",
@@ -2278,8 +2278,8 @@
    }
   ],
   "jp": "ドジッちまったかヨォ……",
-  "en": "",
-  "status": ""
+  "en": "Guess I screwed up...",
+  "status": "done"
  },
  {
   "id": "eboot_226879",
@@ -2292,8 +2292,8 @@
    }
   ],
   "jp": "…ごめんなさい。",
-  "en": "",
-  "status": ""
+  "en": "...I'm sorry.",
+  "status": "done"
  },
  {
   "id": "eboot_22688A",
@@ -2306,8 +2306,8 @@
    }
   ],
   "jp": "くっ、ここまでか…",
-  "en": "",
-  "status": ""
+  "en": "Gh, this is it...",
+  "status": "done"
  },
  {
   "id": "eboot_22689D",
@@ -2320,8 +2320,8 @@
    }
   ],
   "jp": "ちくしょう…！",
-  "en": "",
-  "status": ""
+  "en": "Damn it...!",
+  "status": "done"
  },
  {
   "id": "eboot_2268AC",
@@ -2334,8 +2334,8 @@
    }
   ],
   "jp": "神の元へ帰るのだ…",
-  "en": "",
-  "status": ""
+  "en": "Return to God's side...",
+  "status": "done"
  },
  {
   "id": "eboot_2268BF",
@@ -2348,8 +2348,8 @@
    }
   ],
   "jp": "こんなハズでは…",
-  "en": "",
-  "status": ""
+  "en": "This wasn't supposed to...",
+  "status": "done"
  },
  {
   "id": "eboot_2268D0",
@@ -2362,8 +2362,8 @@
    }
   ],
   "jp": "守り、抜くのだ…",
-  "en": "",
-  "status": ""
+  "en": "Protect... to the end...",
+  "status": "done"
  },
  {
   "id": "eboot_2268E1",
@@ -2376,8 +2376,8 @@
    }
   ],
   "jp": "なんてことだ…！",
-  "en": "",
-  "status": ""
+  "en": "How could this happen...!",
+  "status": "done"
  },
  {
   "id": "eboot_2268F2",
@@ -2390,8 +2390,8 @@
    }
   ],
   "jp": "安息が得られるなら…",
-  "en": "",
-  "status": ""
+  "en": "If I could find rest...",
+  "status": "done"
  },
  {
   "id": "eboot_226907",
@@ -2404,8 +2404,8 @@
    }
   ],
   "jp": "力及ばず…",
-  "en": "",
-  "status": ""
+  "en": "Not strong enough...",
+  "status": "done"
  },
  {
   "id": "eboot_226912",
@@ -2418,8 +2418,8 @@
    }
   ],
   "jp": "ここで、終わりなの？",
-  "en": "",
-  "status": ""
+  "en": "Is this the end?",
+  "status": "done"
  },
  {
   "id": "eboot_226927",
@@ -2432,8 +2432,8 @@
    }
   ],
   "jp": "さらばです…",
-  "en": "",
-  "status": ""
+  "en": "Farewell...",
+  "status": "done"
  },
  {
   "id": "eboot_226934",
@@ -2446,8 +2446,8 @@
    }
   ],
   "jp": "そんな…！",
-  "en": "",
-  "status": ""
+  "en": "No...!",
+  "status": "done"
  },
  {
   "id": "eboot_22693F",
@@ -2460,8 +2460,8 @@
    }
   ],
   "jp": "止められない、なんて…",
-  "en": "",
-  "status": ""
+  "en": "I couldn't stop them...",
+  "status": "done"
  },
  {
   "id": "eboot_226956",
@@ -2474,8 +2474,8 @@
    }
   ],
   "jp": "くっ…ここまでか。",
-  "en": "",
-  "status": ""
+  "en": "Gh... this is it.",
+  "status": "done"
  },
  {
   "id": "eboot_226969",
@@ -2488,8 +2488,8 @@
    }
   ],
   "jp": "散り際も潔くありたいものだ…",
-  "en": "",
-  "status": ""
+  "en": "I'd like to fall with some grace...",
+  "status": "done"
  },
  {
   "id": "eboot_226986",
@@ -2502,8 +2502,8 @@
    }
   ],
   "jp": "しくじるとは、くそっ…",
-  "en": "",
-  "status": ""
+  "en": "To slip up, damn it...",
+  "status": "done"
  },
  {
   "id": "eboot_22699D",
@@ -2516,8 +2516,8 @@
    }
   ],
   "jp": "そ、そんなバカなッ…！",
-  "en": "",
-  "status": ""
+  "en": "N-no, that's ridiculous...!",
+  "status": "done"
  },
  {
   "id": "eboot_2269B4",
@@ -2530,8 +2530,8 @@
    }
   ],
   "jp": "呆気ないぜぇ…",
-  "en": "",
-  "status": ""
+  "en": "That was quick...",
+  "status": "done"
  },
  {
   "id": "eboot_2269C3",
@@ -2544,8 +2544,8 @@
    }
   ],
   "jp": "不覚…！",
-  "en": "",
-  "status": ""
+  "en": "How careless...!",
+  "status": "done"
  },
  {
   "id": "eboot_2269CC",
@@ -2558,8 +2558,8 @@
    }
   ],
   "jp": "敗れるとは…！",
-  "en": "",
-  "status": ""
+  "en": "To be defeated...!",
+  "status": "done"
  },
  {
   "id": "eboot_2269DB",
@@ -2572,8 +2572,8 @@
    }
   ],
   "jp": "及ばなかったか……",
-  "en": "",
-  "status": ""
+  "en": "So I fell short...",
+  "status": "done"
  },
  {
   "id": "eboot_2269EE",
@@ -2586,8 +2586,8 @@
    }
   ],
   "jp": "こ、こんなのって…！",
-  "en": "",
-  "status": ""
+  "en": "Th-this can't be...!",
+  "status": "done"
  },
  {
   "id": "eboot_226A03",
@@ -2600,8 +2600,8 @@
    }
   ],
   "jp": "嫌だ…まだ、私は…！",
-  "en": "",
-  "status": ""
+  "en": "No... I'm still...!",
+  "status": "done"
  },
  {
   "id": "eboot_226A18",
@@ -2614,8 +2614,8 @@
    }
   ],
   "jp": "身体が、重い……",
-  "en": "",
-  "status": ""
+  "en": "My body's heavy...",
+  "status": "done"
  },
  {
   "id": "eboot_226A29",
@@ -2628,8 +2628,8 @@
    }
   ],
   "jp": "どうせ、また…",
-  "en": "",
-  "status": ""
+  "en": "Again, as always...",
+  "status": "done"
  },
  {
   "id": "eboot_226A38",
@@ -2642,8 +2642,8 @@
    }
   ],
   "jp": "ちくしょぉお②",
-  "en": "",
-  "status": ""
+  "en": "Damn iiiit!!",
+  "status": "done"
  },
  {
   "id": "eboot_226A47",
@@ -2656,8 +2656,8 @@
    }
   ],
   "jp": "ヤられちまうなんてよぉ……",
-  "en": "",
-  "status": ""
+  "en": "Can't believe they got me...",
+  "status": "done"
  },
  {
   "id": "eboot_226A62",
@@ -2670,8 +2670,8 @@
    }
   ],
   "jp": "信じてたのによォ②",
-  "en": "",
-  "status": ""
+  "en": "And I believed in you!!",
+  "status": "done"
  },
  {
   "id": "eboot_226A75",
@@ -2684,8 +2684,8 @@
    }
   ],
   "jp": "ウソだろ、おい…",
-  "en": "",
-  "status": ""
+  "en": "You're kidding me, hey...",
+  "status": "done"
  },
  {
   "id": "eboot_226A86",
@@ -2698,8 +2698,8 @@
    }
   ],
   "jp": "……終わる。",
-  "en": "",
-  "status": ""
+  "en": "...It ends.",
+  "status": "done"
  },
  {
   "id": "eboot_226A93",
@@ -2712,8 +2712,8 @@
    }
   ],
   "jp": "こんな、ザマじゃ…",
-  "en": "",
-  "status": ""
+  "en": "Like this, I'm...",
+  "status": "done"
  },
  {
   "id": "eboot_226AA6",
@@ -2726,8 +2726,8 @@
    }
   ],
   "jp": "落ちていく…！",
-  "en": "",
-  "status": ""
+  "en": "I'm falling...!",
+  "status": "done"
  },
  {
   "id": "eboot_226AB5",
@@ -2740,8 +2740,8 @@
    }
   ],
   "jp": "どうして？　神様…",
-  "en": "",
-  "status": ""
+  "en": "Why? Oh God...",
+  "status": "done"
  },
  {
   "id": "eboot_226AC8",
@@ -2754,8 +2754,8 @@
    }
   ],
   "jp": "飛べないなんて…",
-  "en": "",
-  "status": ""
+  "en": "I can't fly...",
+  "status": "done"
  },
  {
   "id": "eboot_226AD9",
@@ -2768,8 +2768,8 @@
    }
   ],
   "jp": "くっ、倒れてる場合じゃ…！",
-  "en": "",
-  "status": ""
+  "en": "Gh, I can't be down now...!",
+  "status": "done"
  },
  {
   "id": "eboot_226AF4",
@@ -2782,8 +2782,8 @@
    }
   ],
   "jp": "これから、なのに…",
-  "en": "",
-  "status": ""
+  "en": "And it was just starting...",
+  "status": "done"
  },
  {
   "id": "eboot_226B07",
@@ -2796,8 +2796,8 @@
    }
   ],
   "jp": "ソラぁー！",
-  "en": "",
-  "status": ""
+  "en": "The sky!",
+  "status": "done"
  },
  {
   "id": "eboot_226B12",
@@ -2810,8 +2810,8 @@
    }
   ],
   "jp": "やられて、しまうなんて…",
-  "en": "",
-  "status": ""
+  "en": "To be defeated...",
+  "status": "done"
  },
  {
   "id": "eboot_226B2B",
@@ -2824,8 +2824,8 @@
    }
   ],
   "jp": "悔しいな、もう…",
-  "en": "",
-  "status": ""
+  "en": "How frustrating...",
+  "status": "done"
  },
  {
   "id": "eboot_226B3C",
@@ -2838,8 +2838,8 @@
    }
   ],
   "jp": "これも、天意か…③",
-  "en": "",
-  "status": ""
+  "en": "Is this too Heaven's will...?!",
+  "status": "done"
  },
  {
   "id": "eboot_226B4F",
@@ -2852,8 +2852,8 @@
    }
   ],
   "jp": "懐が浅すぎたか…",
-  "en": "",
-  "status": ""
+  "en": "I wasn't deep enough...",
+  "status": "done"
  },
  {
   "id": "eboot_226B60",
@@ -2866,8 +2866,8 @@
    }
   ],
   "jp": "まさか、ここまでなのか？",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me this is it?",
+  "status": "done"
  },
  {
   "id": "eboot_226B79",
@@ -2880,8 +2880,8 @@
    }
   ],
   "jp": "こんなハズじゃ…",
-  "en": "",
-  "status": ""
+  "en": "This wasn't supposed to...",
+  "status": "done"
  },
  {
   "id": "eboot_226B8A",
@@ -2894,8 +2894,8 @@
    }
   ],
   "jp": "遂げられないとはな……",
-  "en": "",
-  "status": ""
+  "en": "So I couldn't see it through...",
+  "status": "done"
  },
  {
   "id": "eboot_226BA1",
@@ -2908,8 +2908,8 @@
    }
   ],
   "jp": "こんなハズじゃ…",
-  "en": "",
-  "status": ""
+  "en": "This wasn't supposed to...",
+  "status": "done"
  },
  {
   "id": "eboot_226BB2",
@@ -2922,8 +2922,8 @@
    }
   ],
   "jp": "天意ならば、受け入れる…",
-  "en": "",
-  "status": ""
+  "en": "If this is Heaven's will, I accept...",
+  "status": "done"
  },
  {
   "id": "eboot_226BCB",
@@ -2936,8 +2936,8 @@
    }
   ],
   "jp": "死んでしまったら…！",
-  "en": "",
-  "status": ""
+  "en": "If I die...!",
+  "status": "done"
  },
  {
   "id": "eboot_226BE0",
@@ -2950,8 +2950,8 @@
    }
   ],
   "jp": "これ以上は…！",
-  "en": "",
-  "status": ""
+  "en": "No more...!",
+  "status": "done"
  },
  {
   "id": "eboot_226BEF",
@@ -2964,8 +2964,8 @@
    }
   ],
   "jp": "殺し、殺され、あとは…",
-  "en": "",
-  "status": ""
+  "en": "Kill, be killed, and then...",
+  "status": "done"
  },
  {
   "id": "eboot_226C06",
@@ -2978,8 +2978,8 @@
    }
   ],
   "jp": "命の火が…！",
-  "en": "",
-  "status": ""
+  "en": "The flame of life...!",
+  "status": "done"
  },
  {
   "id": "eboot_226C13",
@@ -2992,8 +2992,8 @@
    }
   ],
   "jp": "裁きの時は近いッ！",
-  "en": "",
-  "status": ""
+  "en": "The time of judgment is near!",
+  "status": "done"
  },
  {
   "id": "eboot_226C26",
@@ -3006,8 +3006,8 @@
    }
   ],
   "jp": "これが死か…",
-  "en": "",
-  "status": ""
+  "en": "So this is death...",
+  "status": "done"
  },
  {
   "id": "eboot_226C33",
@@ -3020,8 +3020,8 @@
    }
   ],
   "jp": "使われる方に回るか…",
-  "en": "",
-  "status": ""
+  "en": "Now I'm the one being used...",
+  "status": "done"
  },
  {
   "id": "eboot_226C48",
@@ -3034,8 +3034,8 @@
    }
   ],
   "jp": "嫌よ、どうしよう……",
-  "en": "",
-  "status": ""
+  "en": "No, what do I do...",
+  "status": "done"
  },
  {
   "id": "eboot_226C5D",
@@ -3048,8 +3048,8 @@
    }
   ],
   "jp": "約束が違うゥ！",
-  "en": "",
-  "status": ""
+  "en": "This isn't what we agreed!",
+  "status": "done"
  },
  {
   "id": "eboot_226C6C",
@@ -3062,8 +3062,8 @@
    }
   ],
   "jp": "まだ、報酬が…！",
-  "en": "",
-  "status": ""
+  "en": "But my pay...!",
+  "status": "done"
  },
  {
   "id": "eboot_226C7D",
@@ -3076,8 +3076,8 @@
    }
   ],
   "jp": "もっと、力があれば…！",
-  "en": "",
-  "status": ""
+  "en": "If only I had more power...!",
+  "status": "done"
  },
  {
   "id": "eboot_226C94",
@@ -3090,8 +3090,8 @@
    }
   ],
   "jp": "及ばないなんて…！",
-  "en": "",
-  "status": ""
+  "en": "To fall short...!",
+  "status": "done"
  },
  {
   "id": "eboot_226CA7",
@@ -3104,8 +3104,8 @@
    }
   ],
   "jp": "ケケケケ、ケケケ…！",
-  "en": "",
-  "status": ""
+  "en": "Kekekeke, kekeke...!",
+  "status": "done"
  },
  {
   "id": "eboot_226CBC",
@@ -3118,8 +3118,8 @@
    }
   ],
   "jp": "ケー…",
-  "en": "",
-  "status": ""
+  "en": "Keh...",
+  "status": "done"
  },
  {
   "id": "eboot_226CC3",
@@ -3132,8 +3132,8 @@
    }
   ],
   "jp": "クカー…カカカ…カカ……",
-  "en": "",
-  "status": ""
+  "en": "Kukaa... kakaka... kaka...",
+  "status": "done"
  },
  {
   "id": "eboot_226CDC",
@@ -3146,8 +3146,8 @@
    }
   ],
   "jp": "グゥオオオーッ②",
-  "en": "",
-  "status": ""
+  "en": "Guoooooh!!",
+  "status": "done"
  },
  {
   "id": "eboot_226CED",
@@ -3160,8 +3160,8 @@
    }
   ],
   "jp": "グ…グゥーッ②",
-  "en": "",
-  "status": ""
+  "en": "Gu... guuuh!!",
+  "status": "done"
  },
  {
   "id": "eboot_226CFC",
@@ -3174,8 +3174,8 @@
    }
   ],
   "jp": "ギョァァアアア③",
-  "en": "",
-  "status": ""
+  "en": "Gyoaaaaah?!",
+  "status": "done"
  },
  {
   "id": "eboot_226D0D",
@@ -3188,8 +3188,8 @@
    }
   ],
   "jp": "甘かったのか……",
-  "en": "",
-  "status": ""
+  "en": "Was I too soft...",
+  "status": "done"
  },
  {
   "id": "eboot_226D1E",
@@ -3202,8 +3202,8 @@
    }
   ],
   "jp": "敗れても、死は残響する……",
-  "en": "",
-  "status": ""
+  "en": "Even in defeat, death echoes on...",
+  "status": "done"
  },
  {
   "id": "eboot_226D39",
@@ -3216,8 +3216,8 @@
    }
   ],
   "jp": "きゃあっ！",
-  "en": "",
-  "status": ""
+  "en": "Eek!",
+  "status": "done"
  },
  {
   "id": "eboot_226D44",
@@ -3230,8 +3230,8 @@
    }
   ],
   "jp": "セリカ姉さん…ごめんなさい…",
-  "en": "",
-  "status": ""
+  "en": "Cerica-neesan... I'm sorry...",
+  "status": "done"
  },
  {
   "id": "eboot_226D61",
@@ -3244,8 +3244,8 @@
    }
   ],
   "jp": "ミスったなぁ…",
-  "en": "",
-  "status": ""
+  "en": "Messed up...",
+  "status": "done"
  },
  {
   "id": "eboot_2274B0",
@@ -3258,8 +3258,8 @@
    }
   ],
   "jp": "血と魂の契約に従い、刹那の力を",
-  "en": "",
-  "status": ""
+  "en": "Pact of blood and soul, a moment's power",
+  "status": "done"
  },
  {
   "id": "eboot_2274D8",
@@ -3273,8 +3273,8 @@
    }
   ],
   "jp": "＜破損アイテム＞",
-  "en": "",
-  "status": ""
+  "en": "<Broken Item>",
+  "status": "done"
  },
  {
   "id": "eboot_227922",
@@ -3376,8 +3376,8 @@
    }
   ],
   "jp": "【勝敗条件】{n}敵味方どちらかのメンバー数（左右の数字）が{n}０になると戦闘終了となります。",
-  "en": "",
-  "status": ""
+  "en": "[Win and Lose Conditions]{n}The battle ends when either side's Member count (left and right numbers) hits 0.",
+  "status": "done"
  },
  {
   "id": "eboot_228B67",
@@ -3390,8 +3390,8 @@
    }
   ],
   "jp": "最後までメンバーが残っていた方の{n}勝ちとなります。",
-  "en": "",
-  "status": ""
+  "en": "Whichever side still has Members at the end wins.",
+  "status": "done"
  },
  {
   "id": "eboot_228B99",
@@ -3404,8 +3404,8 @@
    }
   ],
   "jp": "【突撃】{n}攻撃を仕掛けた側より突撃が行われます。{n}突撃を受けた側は、メンバーが減少します。",
-  "en": "",
-  "status": ""
+  "en": "[Charge]{n}The attacking side charges first. The side that takes the charge loses Members.",
+  "status": "done"
  },
  {
   "id": "eboot_228BF2",
@@ -3418,8 +3418,8 @@
    }
   ],
   "jp": "【弓兵の突撃】{n}シスキアが率いる弓兵の突撃には、{n}「敵に反撃されない」長所があります。",
-  "en": "",
-  "status": ""
+  "en": "[Archer Charge]{n}The archers Siskier leads have an advantage: \"the enemy can't counterattack\" their charge.",
+  "status": "done"
  },
  {
   "id": "eboot_228C47",
@@ -3432,8 +3432,8 @@
    }
   ],
   "jp": "敵のメンバーを一方的に減らした上で{n}白兵戦を開始できます。",
-  "en": "",
-  "status": ""
+  "en": "They can cut down enemy Members one-sidedly before melee begins.",
+  "status": "done"
  },
  {
   "id": "eboot_228C81",
@@ -3446,8 +3446,8 @@
    }
   ],
   "jp": "【反撃】{n}攻撃を受けた側が反撃を行います。{n}反撃により、メンバーが減少します。",
-  "en": "",
-  "status": ""
+  "en": "[Counterattack]{n}The side under attack counterattacks. Counterattacks reduce Members.",
+  "status": "done"
  },
  {
   "id": "eboot_228CCE",
@@ -3460,8 +3460,8 @@
    }
   ],
   "jp": "【反撃】{n}突撃／反撃が終わると、{n}残ったメンバーで白兵戦に移ります。",
-  "en": "",
-  "status": ""
+  "en": "[Counterattack]{n}When the charge and counterattack are over, the remaining Members move to melee.",
+  "status": "done"
  },
  {
   "id": "eboot_228D11",
@@ -3474,8 +3474,8 @@
    }
   ],
   "jp": "【弓兵の反撃】{n}シスキアが率いる弓兵には{n}「反撃できない」という短所があります。",
-  "en": "",
-  "status": ""
+  "en": "[Archer Counterattack]{n}The archers Siskier leads have a weakness: they \"can't counterattack.\"",
+  "status": "done"
  },
  {
   "id": "eboot_228D60",
@@ -3488,8 +3488,8 @@
    }
   ],
   "jp": "攻撃を仕掛けられると、不利な状況で{n}白兵戦を開始しなければなりません。",
-  "en": "",
-  "status": ""
+  "en": "If attacked, they must start melee at a disadvantage.",
+  "status": "done"
  },
  {
   "id": "eboot_228DA6",
@@ -3502,8 +3502,8 @@
    }
   ],
   "jp": "【戦闘中の相性】{n}ダメージは相性によって決まり{n}相性は９段階で表示されます",
-  "en": "",
-  "status": ""
+  "en": "[Battle Matchups]{n}Damage is decided by matchups, shown in 9 levels.",
+  "status": "done"
  },
  {
   "id": "eboot_228DEF",
@@ -3516,8 +3516,8 @@
    }
   ],
   "jp": "相性良い＞＞＞＞＞＞＞＞＞＞＞＞＞相性悪い",
-  "en": "",
-  "status": ""
+  "en": "Good matchup >>>>>>>>>>>>> Bad matchup",
+  "status": "done"
  },
  {
   "id": "eboot_228E1A",
@@ -3530,8 +3530,8 @@
    }
   ],
   "jp": "相性が良い場合でも相手との能力差に{n}よって、戦況が不利になることもあるため{n}注意が必要です。",
-  "en": "",
-  "status": ""
+  "en": "Even with a good matchup, a gap in ability can turn the battle against you, so be careful.",
+  "status": "done"
  },
  {
   "id": "eboot_228E75",
@@ -3544,8 +3544,8 @@
    }
   ],
   "jp": "【戦闘結果】{n}戦闘内容に応じ敗者側の士気を{n}減らすことができます",
-  "en": "",
-  "status": ""
+  "en": "[Battle Results]{n}Depending on how the battle went, you can lower the loser's morale.",
+  "status": "done"
  },
  {
   "id": "eboot_228EB4",
@@ -3558,8 +3558,8 @@
    }
   ],
   "jp": "【部隊士気減少】{n}戦闘に敗北した部隊は士気が減少します。",
-  "en": "",
-  "status": ""
+  "en": "[Unit Morale Loss]{n}A unit that loses a battle loses morale.",
+  "status": "done"
  },
  {
   "id": "eboot_228EEC",
@@ -3572,8 +3572,8 @@
    }
   ],
   "jp": "部隊士気が０となると、{n}そのユニットがフィールドから{n}いなくなります。",
-  "en": "",
-  "status": ""
+  "en": "When a unit's morale hits 0, it leaves the field.",
+  "status": "done"
  },
  {
   "id": "eboot_228F31",
@@ -3586,8 +3586,8 @@
    }
   ],
   "jp": "敗北条件キャラクターの部隊士気が{n}０になると、ゲームオーバーとなりますので{n}注意が必要です。",
-  "en": "",
-  "status": ""
+  "en": "If the morale of a defeat-condition character hits 0, the game is over, so be careful.",
+  "status": "done"
  },
  {
   "id": "eboot_228F8C",
@@ -3600,8 +3600,8 @@
    }
   ],
   "jp": "【カードＰＯＷＥＲ上昇】{n}敵に与えた士気ダメージに応じ、使用していた{n}カードのＰＯＷＥＲが上昇します。",
-  "en": "",
-  "status": ""
+  "en": "[Card POWER Up]{n}The POWER of the card you used rises with the morale damage dealt to the enemy.",
+  "status": "done"
  },
  {
   "id": "eboot_228FF1",
@@ -3614,8 +3614,8 @@
    }
   ],
   "jp": "カードＰＯＷＥＲを上昇させていくことで{n}戦闘に勝利した際、より多くの士気ダメージを{n}敵に与えることが可能となります。",
-  "en": "",
-  "status": ""
+  "en": "As Card POWER rises, you can deal more morale damage to the enemy when you win a battle.",
+  "status": "done"
  },
  {
   "id": "eboot_229064",
@@ -3628,8 +3628,8 @@
    }
   ],
   "jp": "【スキルゲージ】{n}このステージより、戦闘中にスキルゲージが{n}表示されるようになります。",
-  "en": "",
-  "status": ""
+  "en": "[Skill Gauge]{n}From this stage on, the Skill Gauge appears during battle.",
+  "status": "done"
  },
  {
   "id": "eboot_2290B9",
@@ -3642,8 +3642,8 @@
    }
   ],
   "jp": "また、戦闘中のユニットに{n}方向キーで作戦を指示できます。{n}方向キー右か左を押してみて下さい！",
-  "en": "",
-  "status": ""
+  "en": "You can also give orders to units in battle with the directional buttons. Try pressing right or left!",
+  "status": "done"
  },
  {
   "id": "eboot_229114",
@@ -3656,8 +3656,8 @@
    }
   ],
   "jp": "【Ａｇｇｒｅｓｓｉｖｅ】{n}方向キー右を押している間、{n}部隊は攻撃重視の作戦を採ります。",
-  "en": "",
-  "status": ""
+  "en": "[Aggressive]{n}While you hold right on the directional buttons, the unit follows an attack-focused plan.",
+  "status": "done"
  },
  {
   "id": "eboot_229169",
@@ -3670,8 +3670,8 @@
    }
   ],
   "jp": "作戦中は攻撃力がアップします。{n}また、ユニットの能力によっては{n}攻撃に属性が付加されます。",
-  "en": "",
-  "status": ""
+  "en": "Attack rises during this plan. Depending on the unit's abilities, its attacks may also gain an element.",
+  "status": "done"
  },
  {
   "id": "eboot_2291C2",
@@ -3684,8 +3684,8 @@
    }
   ],
   "jp": "ただし徐々にゲージを消費するため、{n}あらかじめスキルゲージを{n}溜めておく必要があります。",
-  "en": "",
-  "status": ""
+  "en": "It uses up the Gauge little by little, though, so you need to fill the Skill Gauge beforehand.",
+  "status": "done"
  },
  {
   "id": "eboot_229219",
@@ -3698,8 +3698,8 @@
    }
   ],
   "jp": "方向キー右を押している間は、{n}ずっと攻撃力アップの効果が継続します。",
-  "en": "",
-  "status": ""
+  "en": "While you hold right on the directional buttons, the attack boost lasts.",
+  "status": "done"
  },
  {
   "id": "eboot_22925D",
@@ -3712,8 +3712,8 @@
    }
   ],
   "jp": "【Ｐａｓｓｉｖｅ】{n}方向キー左を押している間、{n}部隊は慎重姿勢の作戦を採ります。",
-  "en": "",
-  "status": ""
+  "en": "[Passive]{n}While you hold left on the directional buttons, the unit follows a cautious plan.",
+  "status": "done"
  },
  {
   "id": "eboot_2292AC",
@@ -3726,8 +3726,8 @@
    }
   ],
   "jp": "作戦中は攻撃力がダウンしますが、{n}スキルゲージを徐々に{n}蓄積することができます。",
-  "en": "",
-  "status": ""
+  "en": "Attack drops during this plan, but the Skill Gauge fills little by little.",
+  "status": "done"
  },
  {
   "id": "eboot_2292FB",
@@ -3740,8 +3740,8 @@
    }
   ],
   "jp": "方向キー左を押している間は、{n}ゲージ蓄積の効果が継続します。",
-  "en": "",
-  "status": ""
+  "en": "While you hold left on the directional buttons, the Gauge keeps filling.",
+  "status": "done"
  },
  {
   "id": "eboot_229337",
@@ -3754,8 +3754,8 @@
    }
   ],
   "jp": "【レイジレート】{n}敵側にはレイジレートという{n}ゲージが存在します。",
-  "en": "",
-  "status": ""
+  "en": "[Rage Rate]{n}The enemy side has a gauge called the Rage Rate.",
+  "status": "done"
  },
  {
   "id": "eboot_229378",
@@ -3768,8 +3768,8 @@
    }
   ],
   "jp": "戦闘中徐々に蓄積されていき、{n}蓄積状況により３段階に分かれます。",
-  "en": "",
-  "status": ""
+  "en": "It builds up little by little during battle, and has 3 stages depending on how full it is.",
+  "status": "done"
  },
  {
   "id": "eboot_2293B8",
@@ -3782,8 +3782,8 @@
    }
   ],
   "jp": "【通常状態】{n}ゲージが溜まっていない状態",
-  "en": "",
-  "status": ""
+  "en": "[Normal State]{n}The gauge hasn't built up.",
+  "status": "done"
  },
  {
   "id": "eboot_2293E0",
@@ -3796,8 +3796,8 @@
    }
   ],
   "jp": "【レイジ状態】{n}細いラインが1本溜まった状態です。{n}敵の攻撃力が少しアップします。",
-  "en": "",
-  "status": ""
+  "en": "[Rage State]{n}One thin line has built up. Enemy attack rises a little.",
+  "status": "done"
  },
  {
   "id": "eboot_229430",
@@ -3810,8 +3810,8 @@
    }
   ],
   "jp": "敵ユニットによっては攻撃に{n}属性が付加されます。",
-  "en": "",
-  "status": ""
+  "en": "Depending on the enemy unit, its attacks may gain an element.",
+  "status": "done"
  },
  {
   "id": "eboot_229460",
@@ -3824,8 +3824,8 @@
    }
   ],
   "jp": "【ＭＡＸ状態】{n}太いラインが溜まった状態です。{n}敵の攻撃力が大幅にアップします。",
-  "en": "",
-  "status": ""
+  "en": "[MAX State]{n}A thick line has built up. Enemy attack rises sharply.",
+  "status": "done"
  },
  {
   "id": "eboot_2294AF",
@@ -3838,8 +3838,8 @@
    }
   ],
   "jp": "【クリティカル】{n}突撃時には、強力な攻撃{n}「クリティカル」が稀に発生します。",
-  "en": "",
-  "status": ""
+  "en": "[Critical]{n}When charging, a powerful attack called a \"Critical\" occurs on rare occasions.",
+  "status": "done"
  },
  {
   "id": "eboot_2294FA",
@@ -3852,8 +3852,8 @@
    }
   ],
   "jp": "クリティカルが発生すると{n}ヘッド（部隊のリーダー）が倒れ、{n}部隊がパニックとなります。",
-  "en": "",
-  "status": ""
+  "en": "A Critical takes down the Head (the unit's leader) and throws the unit into panic.",
+  "status": "done"
  },
  {
   "id": "eboot_22954F",
@@ -3866,8 +3866,8 @@
    }
   ],
   "jp": "パニック状態になった部隊は、{n}作戦やスキル使用の指示を出すことが{n}できなくなります。",
-  "en": "",
-  "status": ""
+  "en": "A panicked unit can't be given plans or Skill orders.",
+  "status": "done"
  },
  {
   "id": "eboot_2295A2",
@@ -3880,8 +3880,8 @@
    }
   ],
   "jp": "また、画面上部に表示される{n}チャンスタイムがなくなると、{n}パニック状態から復帰します。",
-  "en": "",
-  "status": ""
+  "en": "It recovers from panic when the Chance Time shown at the top of the screen runs out.",
+  "status": "done"
  },
  {
   "id": "eboot_2295F7",
@@ -3894,8 +3894,8 @@
    }
   ],
   "jp": "【スキルの使用】{n}このステージより戦闘中に{n}スキルを使用できるようになりました。",
-  "en": "",
-  "status": ""
+  "en": "[Using Skills]{n}From this stage on, you can use Skills during battle.",
+  "status": "done"
  },
  {
   "id": "eboot_229646",
@@ -3908,8 +3908,8 @@
    }
   ],
   "jp": "スキルを使用するには、スキルゲージを{n}満タンまで溜める必要があります。",
-  "en": "",
-  "status": ""
+  "en": "To use a Skill, the Skill Gauge must be filled all the way.",
+  "status": "done"
  },
  {
   "id": "eboot_22968C",
@@ -3922,8 +3922,8 @@
    }
   ],
   "jp": "方向キー左を押し続ければ、{n}「Ｐａｓｓｉｖｅ」指示を出して{n}スキルゲージを回復できます。",
-  "en": "",
-  "status": ""
+  "en": "Keep holding left on the directional buttons to give the \"Passive\" order and fill the Skill Gauge.",
+  "status": "done"
  },
  {
   "id": "eboot_2296E3",
@@ -3936,8 +3936,8 @@
    }
   ],
   "jp": "【スキルの使用】{n}スキルゲージが満タンになりました。",
-  "en": "",
-  "status": ""
+  "en": "[Using Skills]{n}The Skill Gauge is now full.",
+  "status": "done"
  },
  {
   "id": "eboot_229717",
@@ -3950,8 +3950,8 @@
    }
   ],
   "jp": "ただし、既に説明があった通り、{n}使用条件とエースタイプを満たしていないと、{n}スキルを使うことはできません。",
-  "en": "",
-  "status": ""
+  "en": "But as explained before, Skills can't be used unless you meet the use conditions and the Ace Type.",
+  "status": "done"
  },
  {
   "id": "eboot_229780",
@@ -3964,8 +3964,8 @@
    }
   ],
   "jp": "条件を満たしている場合、{n}□ボタンでスキル発動です！",
-  "en": "",
-  "status": ""
+  "en": "If you meet the conditions, press the □ button to use the Skill!",
+  "status": "done"
  },
  {
   "id": "eboot_2297B4",
@@ -3978,8 +3978,8 @@
    }
   ],
   "jp": "【Ｃｈａｒｇｅスキル】{n}□ボタンを押し続けて、満タンまで{n}チャージして使う種類のスキルです。",
-  "en": "",
-  "status": ""
+  "en": "[Charge Skill]{n}A type of Skill you use by holding the □ button to charge it up fully.",
+  "status": "done"
  },
  {
   "id": "eboot_22980F",
@@ -3992,8 +3992,8 @@
    }
   ],
   "jp": "途中で□ボタンを離すと、{n}使用中断になるので、注意しましょう。",
-  "en": "",
-  "status": ""
+  "en": "If you release the □ button partway, the Skill is canceled, so be careful.",
+  "status": "done"
  },
  {
   "id": "eboot_22984D",
@@ -4006,8 +4006,8 @@
    }
   ],
   "jp": "【強攻撃】{n}攻撃中、ときどき「強攻撃」という{n}特殊なアタックが発動します。",
-  "en": "",
-  "status": ""
+  "en": "[Strong Attack]{n}While attacking, a special attack called a \"Strong Attack\" sometimes occurs.",
+  "status": "done"
  },
  {
   "id": "eboot_229896",
@@ -4020,8 +4020,8 @@
    }
   ],
   "jp": "「強攻撃」は、通常の攻撃よりも{n}与えるダメージがアップします。",
-  "en": "",
-  "status": ""
+  "en": "A \"Strong Attack\" does more damage than a normal attack.",
+  "status": "done"
  },
  {
   "id": "eboot_2298D4",
@@ -4034,8 +4034,8 @@
    }
   ],
   "jp": "また、スキルのチャージ中に{n}敵の「強攻撃」を受けると、{n}チャージが中断してしまいます。",
-  "en": "",
-  "status": ""
+  "en": "If an enemy \"Strong Attack\" hits you while charging a Skill, the charge is interrupted.",
+  "status": "done"
  },
  {
   "id": "eboot_229929",
@@ -4048,8 +4048,8 @@
    }
   ],
   "jp": "スキルゲージは満タンのままなので、{n}すぐにチャージのやり直しができます。",
-  "en": "",
-  "status": ""
+  "en": "The Skill Gauge stays full, so you can start charging again right away.",
+  "status": "done"
  },
  {
   "id": "eboot_229971",
@@ -4062,8 +4062,8 @@
    }
   ],
   "jp": "【ＫｅｅｐＯｎスキル】{n}□ボタンを押している間、{n}ずっと効果が続く種類のスキルです。",
-  "en": "",
-  "status": ""
+  "en": "[KeepOn Skill]{n}A type of Skill whose effect lasts as long as you hold the □ button.",
+  "status": "done"
  },
  {
   "id": "eboot_2299C4",
@@ -4076,8 +4076,8 @@
    }
   ],
   "jp": "途中で□ボタンを離すか、{n}ゲージが尽きると、効果が終了します。",
-  "en": "",
-  "status": ""
+  "en": "The effect ends when you release the □ button or the Gauge runs out.",
+  "status": "done"
  },
  {
   "id": "eboot_229A1C",
@@ -4174,8 +4174,8 @@
    }
   ],
   "jp": "ゴーレムを召喚する",
-  "en": "",
-  "status": ""
+  "en": "Summon a Golem",
+  "status": "done"
  },
  {
   "id": "eboot_22DACC",
@@ -4191,8 +4191,8 @@
    }
   ],
   "jp": "威力＝★★",
-  "en": "",
-  "status": ""
+  "en": "Power=★★",
+  "status": "done"
  },
  {
   "id": "eboot_22DAD8",
@@ -4205,8 +4205,8 @@
    }
   ],
   "jp": "ウィッチ専用",
-  "en": "",
-  "status": ""
+  "en": "Witch only",
+  "status": "done"
  },
  {
   "id": "eboot_22DAE8",
@@ -4219,8 +4219,8 @@
    }
   ],
   "jp": "スケルトンを召喚する",
-  "en": "",
-  "status": ""
+  "en": "Summon a Skeleton",
+  "status": "done"
  },
  {
   "id": "eboot_22DB00",
@@ -4233,8 +4233,8 @@
    }
   ],
   "jp": "ネシア専用{n}夜間限定",
-  "en": "",
-  "status": ""
+  "en": "Nessiah only{n}Night only",
+  "status": "done"
  },
  {
   "id": "eboot_22DB14",
@@ -4247,8 +4247,8 @@
    }
   ],
   "jp": "敵を石化状態にする",
-  "en": "",
-  "status": ""
+  "en": "Turn the enemy to Stone",
+  "status": "done"
  },
  {
   "id": "eboot_22DB28",
@@ -4261,8 +4261,8 @@
    }
   ],
   "jp": "ハンター専用",
-  "en": "",
-  "status": ""
+  "en": "Hunter only",
+  "status": "done"
  },
  {
   "id": "eboot_22DB38",
@@ -4275,8 +4275,8 @@
    }
   ],
   "jp": "敵を冒毒状態にする",
-  "en": "",
-  "status": ""
+  "en": "Poison the enemy",
+  "status": "done"
  },
  {
   "id": "eboot_22DB4C",
@@ -4289,8 +4289,8 @@
    }
   ],
   "jp": "スケルトン専用",
-  "en": "",
-  "status": ""
+  "en": "Skeleton only",
+  "status": "done"
  },
  {
   "id": "eboot_22DB5C",
@@ -4303,8 +4303,8 @@
    }
   ],
   "jp": "暗黒攻撃でダメージ{n}＋呪縛状態にする",
-  "en": "",
-  "status": ""
+  "en": "Dark attack damage{n}+ Curse",
+  "status": "done"
  },
  {
   "id": "eboot_22DB80",
@@ -4323,8 +4323,8 @@
    }
   ],
   "jp": "威力＝自ＴＥＣ＋１－敵ＧＥＮ{n}自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "",
-  "status": ""
+  "en": "Power=Own TEC+1-Foe GEN{n}Works if own TEC>=Foe GEN",
+  "status": "done"
  },
  {
   "id": "eboot_22DBB8",
@@ -4337,8 +4337,8 @@
    }
   ],
   "jp": "敵の装備アイテムを{n}破壊する",
-  "en": "",
-  "status": ""
+  "en": "Destroy the enemy's{n}equipped item",
+  "status": "done"
  },
  {
   "id": "eboot_22DBD4",
@@ -4351,8 +4351,8 @@
    }
   ],
   "jp": "自ＴＥＣ≧敵ＧＥＮで成功{n}成功時：敵の戦闘力が低下",
-  "en": "",
-  "status": ""
+  "en": "Works if own TEC>=Foe GEN{n}On success: foe's strength drops",
+  "status": "done"
  },
  {
   "id": "eboot_22DC08",
@@ -4365,8 +4365,8 @@
    }
   ],
   "jp": "フェンサー専用",
-  "en": "",
-  "status": ""
+  "en": "Fencer only",
+  "status": "done"
  },
  {
   "id": "eboot_22DC18",
@@ -4379,8 +4379,8 @@
    }
   ],
   "jp": "敵の装備アイテムを{n}盗み獲る",
-  "en": "",
-  "status": ""
+  "en": "Steal the enemy's{n}equipped item",
+  "status": "done"
  },
  {
   "id": "eboot_22DC34",
@@ -4393,8 +4393,8 @@
    }
   ],
   "jp": "シスキア専用",
-  "en": "",
-  "status": ""
+  "en": "Siskier only",
+  "status": "done"
  },
  {
   "id": "eboot_22DC44",
@@ -4407,8 +4407,8 @@
    }
   ],
   "jp": "敵のヘッドを倒す",
-  "en": "",
-  "status": ""
+  "en": "Defeat the enemy Head",
+  "status": "done"
  },
  {
   "id": "eboot_22DC58",
@@ -4421,8 +4421,8 @@
    }
   ],
   "jp": "アサシン専用{n}夜間限定",
-  "en": "",
-  "status": ""
+  "en": "Assassin only{n}Night only",
+  "status": "done"
  },
  {
   "id": "eboot_22DC70",
@@ -4435,8 +4435,8 @@
    }
   ],
   "jp": "敵のメンバー数を{n}自分と同じにする",
-  "en": "",
-  "status": ""
+  "en": "Set enemy Members{n}equal to your own",
+  "status": "done"
  },
  {
   "id": "eboot_22DC94",
@@ -4449,8 +4449,8 @@
    }
   ],
   "jp": "威力＝状況により変化",
-  "en": "",
-  "status": ""
+  "en": "Power=Varies",
+  "status": "done"
  },
  {
   "id": "eboot_22DCAC",
@@ -4463,8 +4463,8 @@
    }
   ],
   "jp": "騎馬タイプのみ",
-  "en": "",
-  "status": ""
+  "en": "Cavalry Types only",
+  "status": "done"
  },
  {
   "id": "eboot_22DCBC",
@@ -4477,8 +4477,8 @@
    }
   ],
   "jp": "発動中、ダメージを{n}受けない",
-  "en": "",
-  "status": ""
+  "en": "No damage{n}while active",
+  "status": "done"
  },
  {
   "id": "eboot_22DCD8",
@@ -4491,8 +4491,8 @@
    }
   ],
   "jp": "火炎攻撃でダメージ{n}＋炎上状態にする",
-  "en": "",
-  "status": ""
+  "en": "Fire attack damage{n}+ Burn",
+  "status": "done"
  },
  {
   "id": "eboot_22DCFC",
@@ -4508,8 +4508,8 @@
    }
   ],
   "jp": "冷気攻撃で敵に{n}ダメージを与える",
-  "en": "",
-  "status": ""
+  "en": "Cold attack damages{n}the enemy",
+  "status": "done"
  },
  {
   "id": "eboot_22DD1C",
@@ -4528,8 +4528,8 @@
    }
   ],
   "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ",
-  "en": "",
-  "status": ""
+  "en": "Power=Own TEC+2-Foe GEN",
+  "status": "done"
  },
  {
   "id": "eboot_22DD3C",
@@ -4542,8 +4542,8 @@
    }
   ],
   "jp": "ウンディーネが使うと…",
-  "en": "",
-  "status": ""
+  "en": "If an Undine uses it...",
+  "status": "done"
  },
  {
   "id": "eboot_22DD54",
@@ -4556,8 +4556,8 @@
    }
   ],
   "jp": "雷撃攻撃でダメージ{n}＋麻痺状態にする",
-  "en": "",
-  "status": ""
+  "en": "Lightning attack damage{n}+ Paralysis",
+  "status": "done"
  },
  {
   "id": "eboot_22DD78",
@@ -4570,8 +4570,8 @@
    }
   ],
   "jp": "神聖攻撃で敵に{n}ダメージを与える",
-  "en": "",
-  "status": ""
+  "en": "Holy attack damages{n}the enemy",
+  "status": "done"
  },
  {
   "id": "eboot_22DD98",
@@ -4584,8 +4584,8 @@
    }
   ],
   "jp": "発動中、ドラゴン系に{n}相性☆で戦える",
-  "en": "",
-  "status": ""
+  "en": "While active, fight{n}Dragons at ☆ matchup",
+  "status": "done"
  },
  {
   "id": "eboot_22DDBC",
@@ -4598,8 +4598,8 @@
    }
   ],
   "jp": "メデューテ専用{n}相手がドラゴン系",
-  "en": "",
-  "status": ""
+  "en": "Medoute only{n}Foe is Dragon type",
+  "status": "done"
  },
  {
   "id": "eboot_22DDDC",
@@ -4612,8 +4612,8 @@
    }
   ],
   "jp": "近辺の石化ユニットや{n}オブジェクトを破壊",
-  "en": "",
-  "status": ""
+  "en": "Destroy nearby Stone{n}units and objects",
+  "status": "done"
  },
  {
   "id": "eboot_22DE04",
@@ -4626,8 +4626,8 @@
    }
   ],
   "jp": "威力＝敵残存戦力の１／２{n}破壊成功率＝１００％",
-  "en": "",
-  "status": ""
+  "en": "Power=1/2 of foe's strength{n}Break rate=100%",
+  "status": "done"
  },
  {
   "id": "eboot_22DE34",
@@ -4640,8 +4640,8 @@
    }
   ],
   "jp": "ゴーレム専用",
-  "en": "",
-  "status": ""
+  "en": "Golem only",
+  "status": "done"
  },
  {
   "id": "eboot_22DE44",
@@ -4654,8 +4654,8 @@
    }
   ],
   "jp": "敵メンバーを裏切らせ{n}自分の戦力にする",
-  "en": "",
-  "status": ""
+  "en": "Enemy Members betray{n}and join your side",
+  "status": "done"
  },
  {
   "id": "eboot_22DE6C",
@@ -4668,8 +4668,8 @@
    }
   ],
   "jp": "効力＝自ＴＥＣ、敵ＧＥＮ依存",
-  "en": "",
-  "status": ""
+  "en": "Effect=Own TEC, foe GEN",
+  "status": "done"
  },
  {
   "id": "eboot_22DE8C",
@@ -4682,8 +4682,8 @@
    }
   ],
   "jp": "相手が同サイズ／同性別",
-  "en": "",
-  "status": ""
+  "en": "Foe same size and gender",
+  "status": "done"
  },
  {
   "id": "eboot_22DEA4",
@@ -4696,8 +4696,8 @@
    }
   ],
   "jp": "敵のヘッド以外を{n}全て倒す",
-  "en": "",
-  "status": ""
+  "en": "Defeat all enemies{n}but the Head",
+  "status": "done"
  },
  {
   "id": "eboot_22DEC0",
@@ -4710,8 +4710,8 @@
    }
   ],
   "jp": "威力＝敵ヘッド以外に∞",
-  "en": "",
-  "status": ""
+  "en": "Power=Infinite, except foe's Head",
+  "status": "done"
  },
  {
   "id": "eboot_22DED8",
@@ -4724,8 +4724,8 @@
    }
   ],
   "jp": "ヴァルキリー専用{n}ヘッドのみが残ったとき",
-  "en": "",
-  "status": ""
+  "en": "Valkyrie only{n}When only the Head is left",
+  "status": "done"
  },
  {
   "id": "eboot_22DF00",
@@ -4738,8 +4738,8 @@
    }
   ],
   "jp": "敵を一人残らず倒す",
-  "en": "",
-  "status": ""
+  "en": "Defeat every last enemy",
+  "status": "done"
  },
  {
   "id": "eboot_22DF14",
@@ -4752,8 +4752,8 @@
    }
   ],
   "jp": "威力＝∞",
-  "en": "",
-  "status": ""
+  "en": "Power=Infinite",
+  "status": "done"
  },
  {
   "id": "eboot_22DF20",
@@ -4766,8 +4766,8 @@
    }
   ],
   "jp": "オルディーン専用{n}ヘッドのみが残ったとき",
-  "en": "",
-  "status": ""
+  "en": "Ordene only{n}When only the Head is left",
+  "status": "done"
  },
  {
   "id": "eboot_22DF48",
@@ -4780,8 +4780,8 @@
    }
   ],
   "jp": "倒れた自分のメンバー{n}を復活させる",
-  "en": "",
-  "status": ""
+  "en": "Revive your fallen{n}Members",
+  "status": "done"
  },
  {
   "id": "eboot_22DF6C",
@@ -4794,8 +4794,8 @@
    }
   ],
   "jp": "効力＝ＴＥＣ依存",
-  "en": "",
-  "status": ""
+  "en": "Effect=Based on TEC",
+  "status": "done"
  },
  {
   "id": "eboot_22DF80",
@@ -4808,8 +4808,8 @@
    }
   ],
   "jp": "ユニオン内の士気と{n}ステータス異常回復",
-  "en": "",
-  "status": ""
+  "en": "Cure morale and status{n}ailments in the Union",
+  "status": "done"
  },
  {
   "id": "eboot_22DFA8",
@@ -4822,8 +4822,8 @@
    }
   ],
   "jp": "成功率＝１００％",
-  "en": "",
-  "status": ""
+  "en": "Success rate=100%",
+  "status": "done"
  },
  {
   "id": "eboot_22DFBC",
@@ -4836,8 +4836,8 @@
    }
   ],
   "jp": "女性ユニオンリーダーのみ",
-  "en": "",
-  "status": ""
+  "en": "Female Union Leaders only",
+  "status": "done"
  },
  {
   "id": "eboot_22DFD8",
@@ -4850,8 +4850,8 @@
    }
   ],
   "jp": "一定時間、敵を弱め{n}自分を強める。が…",
-  "en": "",
-  "status": ""
+  "en": "Weakens the enemy and{n}strengthens you, but...",
+  "status": "done"
  },
  {
   "id": "eboot_22E000",
@@ -4864,8 +4864,8 @@
    }
   ],
   "jp": "効果持続時間=７．７７sec",
-  "en": "",
-  "status": ""
+  "en": "Duration=7.77 sec",
+  "status": "done"
  },
  {
   "id": "eboot_22E01C",
@@ -4878,8 +4878,8 @@
    }
   ],
   "jp": "発動中、自分も敵も{n}ＬＵＫを力に換える",
-  "en": "",
-  "status": ""
+  "en": "While active, you and the{n}foe turn LUK into power",
+  "status": "done"
  },
  {
   "id": "eboot_22E044",
@@ -4892,8 +4892,8 @@
    }
   ],
   "jp": "敵味方の地形を交換{n}＋敵の命中率が低下",
-  "en": "",
-  "status": ""
+  "en": "Swap terrain with enemy{n}+ foe's accuracy drops",
+  "status": "done"
  },
  {
   "id": "eboot_22E06C",
@@ -4906,8 +4906,8 @@
    }
   ],
   "jp": "効力＝同デュエル中ずっと",
-  "en": "",
-  "status": ""
+  "en": "Effect=For this whole Duel",
+  "status": "done"
  },
  {
   "id": "eboot_22E088",
@@ -4920,8 +4920,8 @@
    }
   ],
   "jp": "発動中、敵のＡＴＫを{n}１にする",
-  "en": "",
-  "status": ""
+  "en": "While active, sets{n}enemy ATK to 1",
+  "status": "done"
  },
  {
   "id": "eboot_22E0A8",
@@ -4934,8 +4934,8 @@
    }
   ],
   "jp": "つたを自在に振るい{n}敵にダメージを与える",
-  "en": "",
-  "status": ""
+  "en": "Whip vines freely to{n}damage the enemy",
+  "status": "done"
  },
  {
   "id": "eboot_22E0D0",
@@ -4948,8 +4948,8 @@
    }
   ],
   "jp": "威力＝自ＴＥＣ＋３－敵ＧＥＮ",
-  "en": "",
-  "status": ""
+  "en": "Power=Own TEC+3-Foe GEN",
+  "status": "done"
  },
  {
   "id": "eboot_22E0F0",
@@ -4962,8 +4962,8 @@
    }
   ],
   "jp": "【地形スキル：森林】{n}該当地形の敵に効果大",
-  "en": "",
-  "status": ""
+  "en": "[Terrain Skill: Forest]{n}Strong on that terrain",
+  "status": "done"
  },
  {
   "id": "eboot_22E11C",
@@ -4976,8 +4976,8 @@
    }
   ],
   "jp": "吹きすさぶ砂嵐で{n}敵にダメージを与える",
-  "en": "",
-  "status": ""
+  "en": "A raging sandstorm{n}damages the enemy",
+  "status": "done"
  },
  {
   "id": "eboot_22E144",
@@ -4993,8 +4993,8 @@
    }
   ],
   "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ",
-  "en": "",
-  "status": ""
+  "en": "Power=Own TEC+4-Foe GEN",
+  "status": "done"
  },
  {
   "id": "eboot_22E164",
@@ -5007,8 +5007,8 @@
    }
   ],
   "jp": "【地形スキル：砂漠】{n}該当地形の敵に効果大",
-  "en": "",
-  "status": ""
+  "en": "[Terrain Skill: Desert]{n}Strong on that terrain",
+  "status": "done"
  },
  {
   "id": "eboot_22E190",
@@ -5021,8 +5021,8 @@
    }
   ],
   "jp": "泥沼に引きずりこんで{n}敵にダメージを与える",
-  "en": "",
-  "status": ""
+  "en": "Drag the enemy into{n}the mire for damage",
+  "status": "done"
  },
  {
   "id": "eboot_22E1BC",
@@ -5035,8 +5035,8 @@
    }
   ],
   "jp": "【地形スキル：毒沼】{n}該当地形の敵に効果大",
-  "en": "",
-  "status": ""
+  "en": "[Terrain Skill: Poison Swamp]{n}Strong on that terrain",
+  "status": "done"
  },
  {
   "id": "eboot_22E1E8",
@@ -5049,8 +5049,8 @@
    }
   ],
   "jp": "落石攻撃でダメージ{n}＋鈍足状態にする",
-  "en": "",
-  "status": ""
+  "en": "Falling rock damage{n}+ Slow",
+  "status": "done"
  },
  {
   "id": "eboot_22E20C",
@@ -5063,8 +5063,8 @@
    }
   ],
   "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ{n}自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "",
-  "status": ""
+  "en": "Power=Own TEC+2-Foe GEN{n}Works if own TEC>=Foe GEN",
+  "status": "done"
  },
  {
   "id": "eboot_22E244",
@@ -5077,8 +5077,8 @@
    }
   ],
   "jp": "【地形スキル：荒野】{n}該当地形の敵に効果大",
-  "en": "",
-  "status": ""
+  "en": "[Terrain Skill: Wasteland]{n}Strong on that terrain",
+  "status": "done"
  },
  {
   "id": "eboot_22E270",
@@ -5091,8 +5091,8 @@
    }
   ],
   "jp": "ユニオン内の仲間への{n}突撃と反撃をガード",
-  "en": "",
-  "status": ""
+  "en": "Guards Union allies from{n}charges and counters",
+  "status": "done"
  },
  {
   "id": "eboot_22E298",
@@ -5105,8 +5105,8 @@
    }
   ],
   "jp": "効力＝１００％",
-  "en": "",
-  "status": ""
+  "en": "Effect=100%",
+  "status": "done"
  },
  {
   "id": "eboot_22E2A8",
@@ -5119,8 +5119,8 @@
    }
   ],
   "jp": "男性ユニオンリーダーのみ",
-  "en": "",
-  "status": ""
+  "en": "Male Union Leaders only",
+  "status": "done"
  },
  {
   "id": "eboot_22E2C4",
@@ -5136,8 +5136,8 @@
    }
   ],
   "jp": "メンバーの命を犠牲に{n}戦闘能力が格段に上昇",
-  "en": "",
-  "status": ""
+  "en": "Sacrifice Members' lives{n}to boost fighting power",
+  "status": "done"
  },
  {
   "id": "eboot_22E2F0",
@@ -5150,8 +5150,8 @@
    }
   ],
   "jp": "敵のスキルゲージを破壊",
-  "en": "",
-  "status": ""
+  "en": "Destroy the enemy Skill Gauge",
+  "status": "done"
  },
  {
   "id": "eboot_22E308",
@@ -5164,8 +5164,8 @@
    }
   ],
   "jp": "ガルカーサ専用",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa only",
+  "status": "done"
  },
  {
   "id": "eboot_22E318",
@@ -5178,8 +5178,8 @@
    }
   ],
   "jp": "倒れたメンバーも含め{n}ユニットを転生させる",
-  "en": "",
-  "status": ""
+  "en": "Rebirth units, including{n}fallen Members",
+  "status": "done"
  },
  {
   "id": "eboot_22E348",
@@ -5192,8 +5192,8 @@
    }
   ],
   "jp": "ネシア専用",
-  "en": "",
-  "status": ""
+  "en": "Nessiah only",
+  "status": "done"
  },
  {
   "id": "eboot_22E354",
@@ -5206,8 +5206,8 @@
    }
   ],
   "jp": "発動中、敵のゲージ／{n}レイジレートを減少",
-  "en": "",
-  "status": ""
+  "en": "While active, lowers foe's{n}Gauge and Rage Rate",
+  "status": "done"
  },
  {
   "id": "eboot_22E37C",
@@ -5220,8 +5220,8 @@
    }
   ],
   "jp": "ベアトリーヌ専用",
-  "en": "",
-  "status": ""
+  "en": "Baretreenu only",
+  "status": "done"
  },
  {
   "id": "eboot_22E390",
@@ -5234,8 +5234,8 @@
    }
   ],
   "jp": "敵を昏睡状態にする",
-  "en": "",
-  "status": ""
+  "en": "Put the enemy to Sleep",
+  "status": "done"
  },
  {
   "id": "eboot_22E3A4",
@@ -5248,8 +5248,8 @@
    }
   ],
   "jp": "パメラ専用{n}夜間限定",
-  "en": "",
-  "status": ""
+  "en": "Pamela only{n}Night only",
+  "status": "done"
  },
  {
   "id": "eboot_22E3B8",
@@ -5262,8 +5262,8 @@
    }
   ],
   "jp": "使用者の状態により{n}与えるダメージが変化",
-  "en": "",
-  "status": ""
+  "en": "Damage changes with{n}the user's condition",
+  "status": "done"
  },
  {
   "id": "eboot_22E3E0",
@@ -5276,8 +5276,8 @@
    }
   ],
   "jp": "アランゼーム専用",
-  "en": "",
-  "status": ""
+  "en": "Alanjame only",
+  "status": "done"
  },
  {
   "id": "eboot_22E3F4",
@@ -5290,8 +5290,8 @@
    }
   ],
   "jp": "ユニオン内の男性のみ{n}ＡＴＫとＧＥＮが上昇",
-  "en": "",
-  "status": ""
+  "en": "Only Union's men gain{n}ATK and GEN",
+  "status": "done"
  },
  {
   "id": "eboot_22E420",
@@ -5307,8 +5307,8 @@
    }
   ],
   "jp": "効力＝同ターン内ずっと",
-  "en": "",
-  "status": ""
+  "en": "Effect=For this whole turn",
+  "status": "done"
  },
  {
   "id": "eboot_22E438",
@@ -5321,8 +5321,8 @@
    }
   ],
   "jp": "バイフー専用",
-  "en": "",
-  "status": ""
+  "en": "Byff only",
+  "status": "done"
  },
  {
   "id": "eboot_22E448",
@@ -5335,8 +5335,8 @@
    }
   ],
   "jp": "太刀風による攻撃で{n}ダメージ＋状態異常",
-  "en": "",
-  "status": ""
+  "en": "Sword wind attack{n}damage + ailment",
+  "status": "done"
  },
  {
   "id": "eboot_22E470",
@@ -5349,8 +5349,8 @@
    }
   ],
   "jp": "威力＝自ＴＥＣ★－敵ＧＥＮ★",
-  "en": "",
-  "status": ""
+  "en": "Power=Own TEC★-Foe GEN★",
+  "status": "done"
  },
  {
   "id": "eboot_22E490",
@@ -5363,8 +5363,8 @@
    }
   ],
   "jp": "ソルティエ専用",
-  "en": "",
-  "status": ""
+  "en": "Soltier only",
+  "status": "done"
  },
  {
   "id": "eboot_22E4A0",
@@ -5377,8 +5377,8 @@
    }
   ],
   "jp": "ユニオン内の仲間の{n}ＬＵＫが上昇",
-  "en": "",
-  "status": ""
+  "en": "Union allies' LUK rises",
+  "status": "done"
  },
  {
   "id": "eboot_22E4C0",
@@ -5391,8 +5391,8 @@
    }
   ],
   "jp": "ウンディーネ専用",
-  "en": "",
-  "status": ""
+  "en": "Undine only",
+  "status": "done"
  },
  {
   "id": "eboot_22E4D4",
@@ -5405,8 +5405,8 @@
    }
   ],
   "jp": "－",
-  "en": "",
-  "status": ""
+  "en": "-",
+  "status": "done"
  },
  {
   "id": "eboot_22E4D8",
@@ -5419,8 +5419,8 @@
    }
   ],
   "jp": "エミリオ専用",
-  "en": "",
-  "status": ""
+  "en": "Emilia only",
+  "status": "done"
  },
  {
   "id": "eboot_22EBB8",
@@ -5449,8 +5449,8 @@
    }
   ],
   "jp": "エフェクトテスト",
-  "en": "",
-  "status": ""
+  "en": "Effect Test",
+  "status": "done"
  },
  {
   "id": "eboot_22EC60",
@@ -5464,8 +5464,8 @@
    }
   ],
   "jp": "ＥＸＩデータ更新",
-  "en": "",
-  "status": ""
+  "en": "Update EXI Data",
+  "status": "done"
  },
  {
   "id": "eboot_22EC74",
@@ -5479,8 +5479,8 @@
    }
   ],
   "jp": "背景更新",
-  "en": "",
-  "status": ""
+  "en": "Update Background",
+  "status": "done"
  },
  {
   "id": "eboot_22EC80",
@@ -5494,8 +5494,8 @@
    }
   ],
   "jp": "テクスチャ確認",
-  "en": "",
-  "status": ""
+  "en": "Check Textures",
+  "status": "done"
  },
  {
   "id": "eboot_22EC90",
@@ -5509,8 +5509,8 @@
    }
   ],
   "jp": "スケール出力",
-  "en": "",
-  "status": ""
+  "en": "Output Scale",
+  "status": "done"
  },
  {
   "id": "eboot_22ECA0",
@@ -5524,8 +5524,8 @@
    }
   ],
   "jp": "スケール読み込み",
-  "en": "",
-  "status": ""
+  "en": "Load Scale",
+  "status": "done"
  },
  {
   "id": "eboot_22ECB4",
@@ -5539,8 +5539,8 @@
    }
   ],
   "jp": "ゲームを開始する",
-  "en": "",
-  "status": ""
+  "en": "Start Game",
+  "status": "done"
  },
  {
   "id": "eboot_22EDC4",
@@ -5554,8 +5554,8 @@
    }
   ],
   "jp": "　－ＥＸＩデータ更新－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
-  "en": "",
-  "status": ""
+  "en": "-Update EXI Data-{n}Check the Memory Stick is{n}inserted and press Confirm",
+  "status": "done"
  },
  {
   "id": "eboot_22EE24",
@@ -5569,8 +5569,8 @@
    }
   ],
   "jp": "　　　－背景更新－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
-  "en": "",
-  "status": ""
+  "en": "-Update Background-{n}Check the Memory Stick is{n}inserted and press Confirm",
+  "status": "done"
  },
  {
   "id": "eboot_22EE80",
@@ -5584,8 +5584,8 @@
    }
   ],
   "jp": "　　－スケール出力－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
-  "en": "",
-  "status": ""
+  "en": "-Output Scale-{n}Check the Memory Stick is{n}inserted and press Confirm",
+  "status": "done"
  },
  {
   "id": "eboot_22EEE0",
@@ -5599,8 +5599,8 @@
    }
   ],
   "jp": "　－スケール読み込み－{n}メモリースティックが{n}差さっていることを確認し{n}決定ボタンを押してください",
-  "en": "",
-  "status": ""
+  "en": "-Load Scale-{n}Check the Memory Stick is{n}inserted and press Confirm",
+  "status": "done"
  },
  {
   "id": "eboot_22EF40",
@@ -5614,8 +5614,8 @@
    }
   ],
   "jp": "本当にゲームを開始する場合は{n}決定ボタンを押してください",
-  "en": "",
-  "status": ""
+  "en": "To really start the game,{n}press Confirm",
+  "status": "done"
  },
  {
   "id": "eboot_22EF78",
@@ -5629,8 +5629,8 @@
    }
   ],
   "jp": "データの更新中です{n}メモリースティックを{n}抜かないでください",
-  "en": "",
-  "status": ""
+  "en": "Updating data.{n}Don't remove the Memory Stick",
+  "status": "done"
  },
  {
   "id": "eboot_22EFB4",
@@ -5644,8 +5644,8 @@
    }
   ],
   "jp": "背景の更新中です{n}メモリースティックを{n}抜かないでください",
-  "en": "",
-  "status": ""
+  "en": "Updating background.{n}Don't remove the Memory Stick",
+  "status": "done"
  },
  {
   "id": "eboot_22F208",
@@ -5658,8 +5658,8 @@
    }
   ],
   "jp": "カードの選択",
-  "en": "",
-  "status": ""
+  "en": "Choosing a Card",
+  "status": "done"
  },
  {
   "id": "eboot_22F218",
@@ -5672,8 +5672,8 @@
    }
   ],
   "jp": "移動方法",
-  "en": "",
-  "status": ""
+  "en": "How to Move",
+  "status": "done"
  },
  {
   "id": "eboot_22F224",
@@ -5686,8 +5686,8 @@
    }
   ],
   "jp": "攻撃方法",
-  "en": "",
-  "status": ""
+  "en": "How to Attack",
+  "status": "done"
  },
  {
   "id": "eboot_22F230",
@@ -5700,8 +5700,8 @@
    }
   ],
   "jp": "戦闘後の行動",
-  "en": "",
-  "status": ""
+  "en": "After Battle",
+  "status": "done"
  },
  {
   "id": "eboot_22F240",
@@ -5714,8 +5714,8 @@
    }
   ],
   "jp": "街を訪れてみよう",
-  "en": "",
-  "status": ""
+  "en": "Visit a Town",
+  "status": "done"
  },
  {
   "id": "eboot_22F254",
@@ -5728,8 +5728,8 @@
    }
   ],
   "jp": "武器相性～基本編",
-  "en": "",
-  "status": ""
+  "en": "Weapon Matchups: Basics",
+  "status": "done"
  },
  {
   "id": "eboot_22F268",
@@ -5742,8 +5742,8 @@
    }
   ],
   "jp": "フォーメーション",
-  "en": "",
-  "status": ""
+  "en": "Formations",
+  "status": "done"
  },
  {
   "id": "eboot_22F27C",
@@ -5756,8 +5756,8 @@
    }
   ],
   "jp": "スキルを使うには",
-  "en": "",
-  "status": ""
+  "en": "Using Skills",
+  "status": "done"
  },
  {
   "id": "eboot_22F290",
@@ -5770,8 +5770,8 @@
    }
   ],
   "jp": "ステータス異常",
-  "en": "",
-  "status": ""
+  "en": "Status Ailments",
+  "status": "done"
  },
  {
   "id": "eboot_22F2A0",
@@ -5784,8 +5784,8 @@
    }
   ],
   "jp": "ミッションの選択",
-  "en": "",
-  "status": ""
+  "en": "Choosing a Mission",
+  "status": "done"
  },
  {
   "id": "eboot_22F2B4",
@@ -5798,8 +5798,8 @@
    }
   ],
   "jp": "砲台",
-  "en": "",
-  "status": ""
+  "en": "Cannon",
+  "status": "done"
  },
  {
   "id": "eboot_22F2BC",
@@ -5812,8 +5812,8 @@
    }
   ],
   "jp": "投石器",
-  "en": "",
-  "status": ""
+  "en": "Catapult",
+  "status": "done"
  },
  {
   "id": "eboot_22F2C4",
@@ -5826,8 +5826,8 @@
    }
   ],
   "jp": "水辺地形",
-  "en": "",
-  "status": ""
+  "en": "Waterside Terrain",
+  "status": "done"
  },
  {
   "id": "eboot_22F2D0",
@@ -5840,8 +5840,8 @@
    }
   ],
   "jp": "砂漠地形",
-  "en": "",
-  "status": ""
+  "en": "Desert Terrain",
+  "status": "done"
  },
  {
   "id": "eboot_22F2DC",
@@ -5854,8 +5854,8 @@
    }
   ],
   "jp": "毒沼地形",
-  "en": "",
-  "status": ""
+  "en": "Poison Swamp Terrain",
+  "status": "done"
  },
  {
   "id": "eboot_22F2E8",
@@ -5868,8 +5868,8 @@
    }
   ],
   "jp": "雪原地形",
-  "en": "",
-  "status": ""
+  "en": "Snowfield Terrain",
+  "status": "done"
  },
  {
   "id": "eboot_22F2F4",
@@ -5882,8 +5882,8 @@
    }
   ],
   "jp": "船の利用",
-  "en": "",
-  "status": ""
+  "en": "Using Ships",
+  "status": "done"
  },
  {
   "id": "eboot_22F300",
@@ -5896,8 +5896,8 @@
    }
   ],
   "jp": "リンク展開",
-  "en": "",
-  "status": ""
+  "en": "Link Deployment",
+  "status": "done"
  },
  {
   "id": "eboot_22F30C",
@@ -5910,8 +5910,8 @@
    }
   ],
   "jp": "武器相性～特殊編",
-  "en": "",
-  "status": ""
+  "en": "Weapon Matchups: Special",
+  "status": "done"
  },
  {
   "id": "eboot_22F320",
@@ -5924,8 +5924,8 @@
    }
   ],
   "jp": "イータの特性",
-  "en": "",
-  "status": ""
+  "en": "Eater's Traits",
+  "status": "done"
  },
  {
   "id": "eboot_22F340",
@@ -5939,8 +5939,8 @@
    }
   ],
   "jp": "%s隊",
-  "en": "",
-  "status": ""
+  "en": "%s Unit",
+  "status": "done"
  },
  {
   "id": "eboot_22F468",
@@ -5953,8 +5953,8 @@
    }
   ],
   "jp": "敵陣に岩石を飛ばし、{n}ダメージを与える兵器です。{n}バトルを仕掛けた側が{n}そのユニオン内に投石器を{n}含めることによって、{n}突撃時に投石が発動します。{n}破壊可能オブジェクトです。",
-  "en": "",
-  "status": ""
+  "en": "A weapon that hurls rocks into the enemy camp for damage. If the side that starts a battle has a catapult in its Union, rocks fly when it charges. A destructible object.",
+  "status": "done"
  },
  {
   "id": "eboot_22F514",
@@ -5967,8 +5967,8 @@
    }
   ],
   "jp": "砲台を所有している部隊の{n}ターン開始時に、{n}特定の範囲に対して砲撃を{n}行う兵器です。{n}食らった敵は士気が落ちます。{n}なお、夜間は砲撃できません。",
-  "en": "",
-  "status": ""
+  "en": "A weapon that fires on a set area at the start of its owner's turn. Enemies hit lose morale. It can't fire at night.",
+  "status": "done"
  },
  {
   "id": "eboot_22F5A0",
@@ -5981,8 +5981,8 @@
    }
   ],
   "jp": "人々の生活の要衝である{n}河川に架けられた橋です。{n}石組みから木造まで、{n}様々な種類があります。{n}騎馬タイプのユニットは{n}橋上で強化されます。",
-  "en": "",
-  "status": ""
+  "en": "A bridge over a river, vital to people's lives. They range from stonework to timber. Cavalry Type units are strengthened on bridges.",
+  "status": "done"
  },
  {
   "id": "eboot_22F628",
@@ -5995,8 +5995,8 @@
    }
   ],
   "jp": "大きく開かれた城門です。{n}誰もが、自由に行き来する{n}ことができます。",
-  "en": "",
-  "status": ""
+  "en": "A wide-open castle gate. Anyone can come and go freely.",
+  "status": "done"
  },
  {
   "id": "eboot_22F66C",
@@ -6009,8 +6009,8 @@
    }
   ],
   "jp": "固く閉ざされた城門です。{n}門兵の警戒も厳しく、{n}いかなるユニットの進入も{n}許しません。",
-  "en": "",
-  "status": ""
+  "en": "A tightly shut castle gate. The guards are vigilant and let no unit enter.",
+  "status": "done"
  },
  {
   "id": "eboot_22F6C0",
@@ -6023,8 +6023,8 @@
    }
   ],
   "jp": "木を組んで作られた柵です。{n}飛行タイプのユニットは{n}越えて進軍できますが、{n}それ以外は進入できません。{n}破壊可能オブジェクトで、{n}一度壊してしまえば{n}あとは自由に移動できます。",
-  "en": "",
-  "status": ""
+  "en": "A fence built of timber. Flying Type units can cross it, but others can't enter. A destructible object: once broken, units may move freely.",
+  "status": "done"
  },
  {
   "id": "eboot_22F76C",
@@ -6037,8 +6037,8 @@
    }
   ],
   "jp": "人々が寄り集まった集落、{n}もしくは一軒家です。{n}訪れると、何か情報が{n}得られるかもしれません。{n}破壊可能オブジェクトで、{n}盗賊団麾下のバンディットに{n}破壊されることもあります。",
-  "en": "",
-  "status": ""
+  "en": "A settlement or single house. Visit it to gain information, perhaps. A destructible object, and bandits in thief gangs may destroy it.",
+  "status": "done"
  },
  {
   "id": "eboot_22F818",
@@ -6051,8 +6051,8 @@
    }
   ],
   "jp": "大勢の人々が集住する場所で、{n}各地の風土や歴史によって{n}固有の文化が発達しています。{n}戦略上の重要拠点である{n}場合も多く、訪れると{n}有益な情報が得られるかも{n}しれません。",
-  "en": "",
-  "status": ""
+  "en": "A place many people call home, with its own culture shaped by its land and history. Often a strategic key point. Visit to gain useful information, perhaps.",
+  "status": "done"
  },
  {
   "id": "eboot_22F8C0",
@@ -6065,8 +6065,8 @@
    }
   ],
   "jp": "戦略上の重要拠点で、{n}多くの場合、名だたる敵将が{n}守備を固めています。{n}ここの制圧が勝利条件となる{n}戦局も少なくなく、{n}いかにして陥落させるかが{n}カギになります。",
-  "en": "",
-  "status": ""
+  "en": "A strategic key point, often held by a famous enemy general. Taking it is often a win condition, so how to bring it down is the key.",
+  "status": "done"
  },
  {
   "id": "eboot_22F960",
@@ -6079,8 +6079,8 @@
    }
   ],
   "jp": "倒した敵が装備していた{n}アイテムです。{n}相手よりもＬＵＫの高い{n}ユニットで敵を倒すと、{n}マップ上に出現します。{n}そのまま放置しておくと、{n}敵に奪われてしまうことも…",
-  "en": "",
-  "status": ""
+  "en": "An item a defeated enemy was equipped with. It appears on the map if a unit with higher LUK than the enemy beats them. Left alone, the enemy may take it...",
+  "status": "done"
  },
  {
   "id": "eboot_22FA00",
@@ -6093,8 +6093,8 @@
    }
   ],
   "jp": "川や海を航行する船舶です。{n}現在は岸に停泊しているため、{n}陸伝いに移動して{n}通過することができます。{n}ただし甲板の広さの都合上、{n}船舶のあるスクエア上で{n}待機することはできません。",
-  "en": "",
-  "status": ""
+  "en": "A ship that sails rivers and seas. Now moored, it can be crossed by moving along the shore. The deck is too small, though, to wait on the ship's square.",
+  "status": "done"
  },
  {
   "id": "eboot_22FAB0",
@@ -6107,8 +6107,8 @@
    }
   ],
   "jp": "現在の戦況において、{n}自軍、もしくは敵性部隊が{n}目指すべき場所です。{n}こちらが目指す場合は{n}一刻も早く急行しましょう！{n}また敵性部隊が目指す場合、{n}妨害して阻止しましょう！",
-  "en": "",
-  "status": ""
+  "en": "The place your army or enemy units must head for in the current battle. If it's yours, hurry there! If it's theirs, get in the way and stop them!",
+  "status": "done"
  },
  {
   "id": "eboot_22FB58",
@@ -6121,7 +6121,7 @@
    }
   ],
   "jp": "装備中のアイテムに{n}別の何らかのアイテムが{n}反応したことを示す印です。{n}その場所に行ってみると…",
-  "en": "",
-  "status": ""
+  "en": "A mark showing that some other item is reacting to the item you have equipped. If you go there...",
+  "status": "done"
  }
 ]

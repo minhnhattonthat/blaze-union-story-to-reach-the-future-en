@@ -11,8 +11,8 @@
    }
   ],
   "jp": "この戦いでは、",
-  "en": "",
-  "status": ""
+  "en": "In this battle,",
+  "status": "done"
  },
  {
   "id": "eboot_230128",
@@ -26,8 +26,8 @@
    }
   ],
   "jp": "を出撃メンバーから",
-  "en": "",
-  "status": ""
+  "en": "can't be removed",
+  "status": "done"
  },
  {
   "id": "eboot_23013C",
@@ -41,8 +41,8 @@
    }
   ],
   "jp": "はずすことはできません！",
-  "en": "",
-  "status": ""
+  "en": "from the sortie members!",
+  "status": "done"
  },
  {
   "id": "eboot_230158",
@@ -56,8 +56,8 @@
    }
   ],
   "jp": "このキャラクターは装備アイテムを{n}変更することができません！",
-  "en": "",
-  "status": ""
+  "en": "This character can't change equipped items!",
+  "status": "done"
  },
  {
   "id": "eboot_230194",
@@ -71,8 +71,8 @@
    }
   ],
   "jp": "現在、アイテムを装備中のキャラクターは{n}別のアイテムを装備することができません！",
-  "en": "",
-  "status": ""
+  "en": "A character already equipped with an item can't equip another!",
+  "status": "done"
  },
  {
   "id": "eboot_2301E4",
@@ -86,8 +86,8 @@
    }
   ],
   "jp": "装備可能なレベルに達していないので{n}このアイテムを装備できません！",
-  "en": "",
-  "status": ""
+  "en": "Level too low to equip this item!",
+  "status": "done"
  },
  {
   "id": "eboot_230228",
@@ -101,8 +101,8 @@
    }
   ],
   "jp": "士気はすでに最高まで高まっています。{n}これ以上、士気回復は行えません！",
-  "en": "",
-  "status": ""
+  "en": "Morale is already at maximum. It can't be restored any further!",
+  "status": "done"
  },
  {
   "id": "eboot_230274",
@@ -115,8 +115,8 @@
    }
   ],
   "jp": "任せといて！",
-  "en": "",
-  "status": ""
+  "en": "Leave it to me!",
+  "status": "done"
  },
  {
   "id": "eboot_230284",
@@ -129,8 +129,8 @@
    }
   ],
   "jp": "やれやれだね……",
-  "en": "",
-  "status": ""
+  "en": "Oh, brother...",
+  "status": "done"
  },
  {
   "id": "eboot_230298",
@@ -143,8 +143,8 @@
    }
   ],
   "jp": "やるしかないな！",
-  "en": "",
-  "status": ""
+  "en": "We've got no choice!",
+  "status": "done"
  },
  {
   "id": "eboot_2302AC",
@@ -157,8 +157,8 @@
    }
   ],
   "jp": "しゅっつげーき！",
-  "en": "",
-  "status": ""
+  "en": "Sor-tie!",
+  "status": "done"
  },
  {
   "id": "eboot_2302C0",
@@ -171,8 +171,8 @@
    }
   ],
   "jp": "ご指示を！",
-  "en": "",
-  "status": ""
+  "en": "Your orders!",
+  "status": "done"
  },
  {
   "id": "eboot_2302CC",
@@ -185,8 +185,8 @@
    }
   ],
   "jp": "派手に行くわよ！",
-  "en": "",
-  "status": ""
+  "en": "Let's make it flashy!",
+  "status": "done"
  },
  {
   "id": "eboot_2302E0",
@@ -199,8 +199,8 @@
    }
   ],
   "jp": "道を開けろォ！",
-  "en": "",
-  "status": ""
+  "en": "Clear the way!",
+  "status": "done"
  },
  {
   "id": "eboot_2302F0",
@@ -213,8 +213,8 @@
    }
   ],
   "jp": "ご命令とあらば！",
-  "en": "",
-  "status": ""
+  "en": "If you command it!",
+  "status": "done"
  },
  {
   "id": "eboot_230304",
@@ -227,8 +227,8 @@
    }
   ],
   "jp": "勝利が見えます…",
-  "en": "",
-  "status": ""
+  "en": "I see victory...",
+  "status": "done"
  },
  {
   "id": "eboot_230318",
@@ -241,8 +241,8 @@
    }
   ],
   "jp": "戦いが始まる……",
-  "en": "",
-  "status": ""
+  "en": "The battle begins...",
+  "status": "done"
  },
  {
   "id": "eboot_23032C",
@@ -255,8 +255,8 @@
    }
   ],
   "jp": "……任せて",
-  "en": "",
-  "status": ""
+  "en": "...Leave it to me",
+  "status": "done"
  },
  {
   "id": "eboot_230338",
@@ -269,8 +269,8 @@
    }
   ],
   "jp": "オイラの出番か？",
-  "en": "",
-  "status": ""
+  "en": "My turn?",
+  "status": "done"
  },
  {
   "id": "eboot_23034C",
@@ -283,8 +283,8 @@
    }
   ],
   "jp": "パメラ様ＧｏＧｏ",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama Go Go",
+  "status": "done"
  },
  {
   "id": "eboot_230360",
@@ -297,8 +297,8 @@
    }
   ],
   "jp": "なーんつってぇ！",
-  "en": "",
-  "status": ""
+  "en": "Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "eboot_230374",
@@ -311,8 +311,8 @@
    }
   ],
   "jp": "罪な女ね、私って",
-  "en": "",
-  "status": ""
+  "en": "What a heartbreaker I am",
+  "status": "done"
  },
  {
   "id": "eboot_230388",
@@ -325,8 +325,8 @@
    }
   ],
   "jp": "ヒック、ウィー…",
-  "en": "",
-  "status": ""
+  "en": "*hic*, ooh...",
+  "status": "done"
  },
  {
   "id": "eboot_23039C",
@@ -339,8 +339,8 @@
    }
   ],
   "jp": "出撃準備ＯＫ！",
-  "en": "",
-  "status": ""
+  "en": "Ready to sortie!",
+  "status": "done"
  },
  {
   "id": "eboot_2303AC",
@@ -353,8 +353,8 @@
    }
   ],
   "jp": "やーってやるぜ②",
-  "en": "",
-  "status": ""
+  "en": "Let's do this!!",
+  "status": "done"
  },
  {
   "id": "eboot_230638",
@@ -367,8 +367,8 @@
    }
   ],
   "jp": "最大士気が上昇しました。",
-  "en": "",
-  "status": ""
+  "en": "Maximum morale increased.",
+  "status": "done"
  },
  {
   "id": "eboot_230658",
@@ -381,8 +381,8 @@
    }
   ],
   "jp": "戦利品回収を終了する",
-  "en": "",
-  "status": ""
+  "en": "End spoils collection",
+  "status": "done"
  },
  {
   "id": "eboot_230670",
@@ -395,8 +395,8 @@
    }
   ],
   "jp": "入手カード確認終了",
-  "en": "",
-  "status": ""
+  "en": "Done viewing new cards",
+  "status": "done"
  },
  {
   "id": "eboot_230684",
@@ -409,8 +409,8 @@
    }
   ],
   "jp": "次のカードへ",
-  "en": "",
-  "status": ""
+  "en": "Next card",
+  "status": "done"
  },
  {
   "id": "eboot_230694",
@@ -423,8 +423,8 @@
    }
   ],
   "jp": "カードデータを見る",
-  "en": "",
-  "status": ""
+  "en": "View card data",
+  "status": "done"
  },
  {
   "id": "eboot_2306A8",
@@ -437,8 +437,8 @@
    }
   ],
   "jp": "ＭＶＰの確認を終了",
-  "en": "",
-  "status": ""
+  "en": "Done viewing MVP",
+  "status": "done"
  },
  {
   "id": "eboot_2306BC",
@@ -451,8 +451,8 @@
    }
   ],
   "jp": "未回収の戦利品はありません。",
-  "en": "",
-  "status": ""
+  "en": "No spoils left to collect.",
+  "status": "done"
  },
  {
   "id": "eboot_2306DC",
@@ -465,8 +465,8 @@
    }
   ],
   "jp": "新たなカードはありません。",
-  "en": "",
-  "status": ""
+  "en": "No new cards.",
+  "status": "done"
  },
  {
   "id": "eboot_2306F8",
@@ -479,8 +479,8 @@
    }
   ],
   "jp": "傀儡師の弦先に眠る{n}大いなる破壊者。{n}無言の呼びかけに{n}今、目醒めん…",
-  "en": "",
-  "status": ""
+  "en": "The great destroyer asleep at the puppeteer's strings. At a silent call, it now awakes...",
+  "status": "done"
  },
  {
   "id": "eboot_23073C",
@@ -493,8 +493,8 @@
    }
   ],
   "jp": "憎しみの力を以て{n}冥府の門を叩く死者。{n}我こそは扉を開く者なり…",
-  "en": "",
-  "status": ""
+  "en": "The dead who knock at the gate of the underworld with the power of hate. I am the one who opens the door...",
+  "status": "done"
  },
  {
   "id": "eboot_23077C",
@@ -507,8 +507,8 @@
    }
   ],
   "jp": "時の移ろいとともに{n}消えゆく罪の記憶。{n}石化の断罪を以て{n}ここに留めん…",
-  "en": "",
-  "status": ""
+  "en": "Memories of sin that fade with the passage of time. By stone's judgment, stay here...",
+  "status": "done"
  },
  {
   "id": "eboot_2307C4",
@@ -521,8 +521,8 @@
    }
   ],
   "jp": "毒に冒され{n}非業の死を遂げた探求者。{n}彼の終わりなき復讐が{n}静かに始まる…",
-  "en": "",
-  "status": ""
+  "en": "A seeker poisoned, dead by a cruel fate. His endless revenge quietly begins...",
+  "status": "done"
  },
  {
   "id": "eboot_23080C",
@@ -535,8 +535,8 @@
    }
   ],
   "jp": "光を奪われ{n}翼を封じられた天使。{n}鉄の檻こそが{n}唯一つの空とならん…",
-  "en": "",
-  "status": ""
+  "en": "An angel robbed of light, her wings sealed. The iron cage is her only sky...",
+  "status": "done"
  },
  {
   "id": "eboot_230850",
@@ -549,8 +549,8 @@
    }
   ],
   "jp": "歴戦の中で磨かれた{n}華麗なる剣技。{n}悪鬼魔獣の牙をも砕かん…",
-  "en": "",
-  "status": ""
+  "en": "A dazzling sword skill honed in many battles. It shatters even the fangs of demons...",
+  "status": "done"
  },
  {
   "id": "eboot_23088C",
@@ -563,8 +563,8 @@
    }
   ],
   "jp": "風を裂き、如何なるものも{n}奪い取る影。{n}たとえそれが{n}神の財宝であろうとも…",
-  "en": "",
-  "status": ""
+  "en": "A shadow that splits the wind and steals anything at all. Even the treasures of the gods...",
+  "status": "done"
  },
  {
   "id": "eboot_2308D8",
@@ -577,8 +577,8 @@
    }
   ],
   "jp": "紅の月の夜に現れる{n}狂気の悪魔。{n}その爪から{n}血の雨が降りそそぐ…",
-  "en": "",
-  "status": ""
+  "en": "A mad demon who appears on crimson moonlit nights. A rain of blood falls from its claws...",
+  "status": "done"
  },
  {
   "id": "eboot_230918",
@@ -591,8 +591,8 @@
    }
   ],
   "jp": "戦場を蹂躙する{n}鋼鉄の人馬。{n}その槍は全てを土に還す…",
-  "en": "",
-  "status": ""
+  "en": "Iron cavalry that trample the battlefield. Their spears return all things to the earth...",
+  "status": "done"
  },
  {
   "id": "eboot_230950",
@@ -605,8 +605,8 @@
    }
   ],
   "jp": "戦塵の中に現れる{n}聖杖の賢者。{n}その杖、弱者を照らす{n}光の盾とならん…",
-  "en": "",
-  "status": ""
+  "en": "A sage with a holy staff, appearing in the dust of war. That staff is a shield of light for the weak...",
+  "status": "done"
  },
  {
   "id": "eboot_230994",
@@ -619,8 +619,8 @@
    }
   ],
   "jp": "地獄の業火を纏った{n}紅の魔導師。{n}炎の化身が{n}雄々しく牙をむく…",
-  "en": "",
-  "status": ""
+  "en": "A crimson mage clad in hellfire. An avatar of flame bares its fangs...",
+  "status": "done"
  },
  {
   "id": "eboot_2309D4",
@@ -633,8 +633,8 @@
    }
   ],
   "jp": "幾多の悲しみを閉じ込める{n}氷の柩。{n}冷たき息吹が死を誘う…",
-  "en": "",
-  "status": ""
+  "en": "A coffin of ice locking in countless sorrows. Its cold breath beckons death...",
+  "status": "done"
  },
  {
   "id": "eboot_230A10",
@@ -647,8 +647,8 @@
    }
   ],
   "jp": "閃光と共に天空を駆ける{n}気まぐれな雷神。{n}その指先から迅雷が走る…",
-  "en": "",
-  "status": ""
+  "en": "A whimsical thunder god racing across the sky in a flash. Lightning runs from his fingertips...",
+  "status": "done"
  },
  {
   "id": "eboot_230A54",
@@ -661,8 +661,8 @@
    }
   ],
   "jp": "地に生を受けながら{n}その心は天上にあり。{n}聖光を以て魔を討たん…",
-  "en": "",
-  "status": ""
+  "en": "Born on earth, heart in heaven. With holy light, he smites evil...",
+  "status": "done"
  },
  {
   "id": "eboot_230A94",
@@ -675,8 +675,8 @@
    }
   ],
   "jp": "秘剣と秘技を以て{n}魔竜を倒した男、ギル。{n}英雄死すとも、その刃{n}未だ朽ちるを知らず…",
-  "en": "",
-  "status": ""
+  "en": "Gil, the man who felled the demon dragon with secret sword and art. The hero is dead, but his blade knows no decay...",
+  "status": "done"
  },
  {
   "id": "eboot_230AE8",
@@ -689,8 +689,8 @@
    }
   ],
   "jp": "神に代わりて{n}断罪を行う怒れる巨人。{n}破滅の鉄槌が{n}大地を揺るがす…",
-  "en": "",
-  "status": ""
+  "en": "An angry giant who passes judgment in God's place. His hammer of ruin shakes the earth...",
+  "status": "done"
  },
  {
   "id": "eboot_230B2C",
@@ -703,8 +703,8 @@
    }
   ],
   "jp": "片翼を持って生まれた{n}双生の女神。{n}不完全な身体に{n}少女の心はたゆたう…",
-  "en": "",
-  "status": ""
+  "en": "Twin goddess born with one wing. In her imperfect body, a girl's heart drifts...",
+  "status": "done"
  },
  {
   "id": "eboot_230B74",
@@ -717,8 +717,8 @@
    }
   ],
   "jp": "悲劇的な革命の中に{n}生まれた伝説の戦乙女。{n}絶望の淵に降臨し、{n}勝利を謳う…",
-  "en": "",
-  "status": ""
+  "en": "A legendary war maiden born of tragic revolution. Descending on despair, she sings of victory...",
+  "status": "done"
  },
  {
   "id": "eboot_230BC0",
@@ -731,8 +731,8 @@
    }
   ],
   "jp": "鳳凰ミュルミナムスの{n}慈愛を一身に受けし{n}天来の皇女パルティナ。{n}混沌の闇を光で照らす…",
-  "en": "",
-  "status": ""
+  "en": "Paltina, heaven-sent princess, blessed by the love of Phoenix Myurminamus. She lights the dark of chaos...",
+  "status": "done"
  },
  {
   "id": "eboot_230C18",
@@ -745,8 +745,8 @@
    }
   ],
   "jp": "深き森の中、知られざる{n}聖域に棲む乙女。{n}戦い疲れた兵士に{n}ひと時の安息をもたらす…",
-  "en": "",
-  "status": ""
+  "en": "A maiden in an unknown sanctuary deep in the forest. She brings weary soldiers a moment of rest...",
+  "status": "done"
  },
  {
   "id": "eboot_230C6C",
@@ -759,8 +759,8 @@
    }
   ],
   "jp": "全ての穢れを落とす{n}と云われる聖なる泉。{n}棲まう精霊たちの{n}心地よい歌声が聴こえる…",
-  "en": "",
-  "status": ""
+  "en": "A holy spring said to wash all stains away. The sweet songs of the spirits who live there can be heard...",
+  "status": "done"
  },
  {
   "id": "eboot_230CC0",
@@ -773,8 +773,8 @@
    }
   ],
   "jp": "漆黒の闇より出でる{n}妖艶なる悪魔。{n}赤き瞳に魅せられた者は{n}一夜の快楽に酔いしれる…",
-  "en": "",
-  "status": ""
+  "en": "A bewitching demon from the pitch-dark night. Those charmed by her red eyes lose themselves in one night's delight...",
+  "status": "done"
  },
  {
   "id": "eboot_230D14",
@@ -787,8 +787,8 @@
    }
   ],
   "jp": "光見えぬ目で未来を見、{n}物言わぬ口で語る占師。{n}全ての運命は{n}彼のカードに映る…",
-  "en": "",
-  "status": ""
+  "en": "A seer who sees the future with sightless eyes and speaks with a silent mouth. All fates show in his cards...",
+  "status": "done"
  },
  {
   "id": "eboot_230D64",
@@ -801,8 +801,8 @@
    }
   ],
   "jp": "気まぐれな妖精と{n}虹色の水晶玉。{n}彼女の見る夢は{n}蜃気楼の彼方に現れる…",
-  "en": "",
-  "status": ""
+  "en": "A whimsical fairy and a rainbow crystal ball. The dreams she sees appear beyond the mirage...",
+  "status": "done"
  },
  {
   "id": "eboot_230DAC",
@@ -815,8 +815,8 @@
    }
   ],
   "jp": "死に逝く者を選定し、{n}死を告げる乙女。{n}その悲痛なる叫びが{n}矢のごとく突き刺さる…",
-  "en": "",
-  "status": ""
+  "en": "A maiden who chooses those who die and tells them of death. Her sorrowful cry pierces like an arrow...",
+  "status": "done"
  },
  {
   "id": "eboot_230DFC",
@@ -829,8 +829,8 @@
    }
   ],
   "jp": "樹木とともに生きる{n}気高き精霊。{n}森を守るが為、{n}その茨の蔦で打ちつける…",
-  "en": "",
-  "status": ""
+  "en": "A noble spirit living with the trees. To protect the forest, she lashes out with thorny vines...",
+  "status": "done"
  },
  {
   "id": "eboot_230E44",
@@ -843,8 +843,8 @@
    }
   ],
   "jp": "大いなる砂の海を{n}見守る番人。{n}秩序を乱す者に{n}砂嵐の制裁が下る…",
-  "en": "",
-  "status": ""
+  "en": "A guardian watching over the great sea of sand. A sandstorm's punishment falls on those who disturb the order...",
+  "status": "done"
  },
  {
   "id": "eboot_230E84",
@@ -857,8 +857,8 @@
    }
   ],
   "jp": "その美貌を{n}女神に妬まれた娘。{n}近づく者を底なし沼へと{n}引きずり込む…",
-  "en": "",
-  "status": ""
+  "en": "A girl whose beauty made a goddess jealous. She drags all who approach into a bottomless swamp...",
+  "status": "done"
  },
  {
   "id": "eboot_230EC8",
@@ -871,8 +871,8 @@
    }
   ],
   "jp": "人里離れた荒野に棲む{n}悪戯好きの小悪魔。{n}雲ひとつない空に{n}岩石の雨が降る…",
-  "en": "",
-  "status": ""
+  "en": "A mischievous little devil living in the far wilds. A rain of rocks falls from a cloudless sky...",
+  "status": "done"
  },
  {
   "id": "eboot_230F14",
@@ -885,8 +885,8 @@
    }
   ],
   "jp": "幾多の外敵から祖国を{n}守り抜きし稀代の皇帝。{n}彼の軍旗の下にこそ{n}勝利は在る…",
-  "en": "",
-  "status": ""
+  "en": "A peerless emperor who defended his homeland from many foes. Under his banner lies victory...",
+  "status": "done"
  },
  {
   "id": "eboot_230F60",
@@ -899,8 +899,8 @@
    }
   ],
   "jp": "紅蓮の邪気を纏い{n}大地より出でし魔竜。{n}狂える炎は{n}世界を地獄に変える…",
-  "en": "",
-  "status": ""
+  "en": "A demon dragon rising from the earth, clad in crimson evil. Its mad flames turn the world to hell...",
+  "status": "done"
  },
  {
   "id": "eboot_230FA8",
@@ -913,8 +913,8 @@
    }
   ],
   "jp": "死ぬことも叶わず、{n}生きることも叶わず。{n}その罰、ただ、{n}転生を繰り返すのみ…",
-  "en": "",
-  "status": ""
+  "en": "Unable to die, unable to live. Their penalty is only endless rebirth...",
+  "status": "done"
  },
  {
   "id": "eboot_230FF4",
@@ -927,8 +927,8 @@
    }
   ],
   "jp": "穢れなき神界に{n}鍵をかける大いなる守護者。{n}禁忌を犯す者に{n}天の裁きが下る…",
-  "en": "",
-  "status": ""
+  "en": "The great guardian who locks the pure Heaven. Heaven's judgment falls on those who break the taboo...",
+  "status": "done"
  },
  {
   "id": "eboot_231040",
@@ -941,8 +941,8 @@
    }
   ],
   "jp": "暁を呼ぶ賢者が{n}黎明の鐘を打ち鳴らすとき、{n}乱世に垂れる深き{n}暗雲の帳は引き裂かれる…",
-  "en": "",
-  "status": ""
+  "en": "When the sage who calls the dawn rings the bell of daybreak, the dark clouds over this chaotic age are torn away...",
+  "status": "done"
  },
  {
   "id": "eboot_231094",
@@ -955,8 +955,8 @@
    }
   ],
   "jp": "忌み人の衣を纏い、{n}まどろみに生きる妖魔。{n}彼の者の降らす灰は{n}夢見の雪のごとく…",
-  "en": "",
-  "status": ""
+  "en": "A demon wrapped in the robes of outcasts, living in slumber. The ash it rains is like the snow of dreams...",
+  "status": "done"
  },
  {
   "id": "eboot_2310E4",
@@ -969,8 +969,8 @@
    }
   ],
   "jp": "持たざる者の手によりて{n}紡がれた漆黒の翼。{n}その器に宿す力の本質は、{n}はたして神や否や…",
-  "en": "",
-  "status": ""
+  "en": "Pitch-black wings woven by the hand of one who has nothing. Is the power in that vessel truly divine, or not...",
+  "status": "done"
  },
  {
   "id": "eboot_23113C",
@@ -983,8 +983,8 @@
    }
   ],
   "jp": "契約に籠められた{n}雄雄しい光。{n}獣王の誇り高き叫びは{n}味方を力強く鼓舞する…",
-  "en": "",
-  "status": ""
+  "en": "A valiant light held in a contract. The beast king's proud cry mightily rouses allies...",
+  "status": "done"
  },
  {
   "id": "eboot_231188",
@@ -997,8 +997,8 @@
    }
   ],
   "jp": "人々に災いを運ぶ{n}狂気の悪魔。{n}不幸の風に乗りて{n}苦痛を撒き散らす…",
-  "en": "",
-  "status": ""
+  "en": "A mad demon who brings people disaster. It rides the winds of misfortune, scattering pain...",
+  "status": "done"
  },
  {
   "id": "eboot_2311CC",
@@ -1011,8 +1011,8 @@
    }
   ],
   "jp": "奇跡を引き寄せ{n}逆境を越える不屈の射手。{n}その指が弓の弦を離れた時{n}勝利は必然へと歩み寄る…",
-  "en": "",
-  "status": ""
+  "en": "An indomitable archer who draws miracles and overcomes adversity. When his fingers leave the bowstring, victory becomes certain...",
+  "status": "done"
  },
  {
   "id": "eboot_231318",
@@ -1025,8 +1025,8 @@
    }
   ],
   "jp": "ＴＯＴＡＬＭＯＶＥ：",
-  "en": "",
-  "status": ""
+  "en": "TOTAL MOVE:",
+  "status": "done"
  },
  {
   "id": "eboot_231470",
@@ -1039,8 +1039,8 @@
    }
   ],
   "jp": "アイギナ",
-  "en": "",
-  "status": ""
+  "en": "Aegina",
+  "status": "done"
  },
  {
   "id": "eboot_23147C",
@@ -1053,8 +1053,8 @@
    }
   ],
   "jp": "ルシエナ",
-  "en": "",
-  "status": ""
+  "en": "Luciana",
+  "status": "done"
  },
  {
   "id": "eboot_231488",
@@ -1067,8 +1067,8 @@
    }
   ],
   "jp": "バルドゥス",
-  "en": "",
-  "status": ""
+  "en": "Baldus",
+  "status": "done"
  },
  {
   "id": "eboot_231494",
@@ -1081,8 +1081,8 @@
    }
   ],
   "jp": "エミリオ",
-  "en": "",
-  "status": ""
+  "en": "Emilia",
+  "status": "done"
  },
  {
   "id": "eboot_2314A0",
@@ -1095,8 +1095,8 @@
    }
   ],
   "jp": "レオン",
-  "en": "",
-  "status": ""
+  "en": "Leon",
+  "status": "done"
  },
  {
   "id": "eboot_2314A8",
@@ -1109,8 +1109,8 @@
    }
   ],
   "jp": "ユーディ",
-  "en": "",
-  "status": ""
+  "en": "Eudy",
+  "status": "done"
  },
  {
   "id": "eboot_2314B4",
@@ -1123,8 +1123,8 @@
    }
   ],
   "jp": "ガルカーサ",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa",
+  "status": "done"
  },
  {
   "id": "eboot_2314C0",
@@ -1137,8 +1137,8 @@
    }
   ],
   "jp": "ネシア",
-  "en": "",
-  "status": ""
+  "en": "Nessiah",
+  "status": "done"
  },
  {
   "id": "eboot_2314C8",
@@ -1151,8 +1151,8 @@
    }
   ],
   "jp": "マリエッタ",
-  "en": "",
-  "status": ""
+  "en": "Marietta",
+  "status": "done"
  },
  {
   "id": "eboot_2314D4",
@@ -1165,8 +1165,8 @@
    }
   ],
   "jp": "上級神界兵",
-  "en": "",
-  "status": ""
+  "en": "Senior Heaven Soldier",
+  "status": "done"
  },
  {
   "id": "eboot_2314E0",
@@ -1179,8 +1179,8 @@
    }
   ],
   "jp": "３６７号",
-  "en": "",
-  "status": ""
+  "en": "No. 367",
+  "status": "done"
  },
  {
   "id": "eboot_231600",
@@ -1194,8 +1194,8 @@
    }
   ],
   "jp": "知らん部隊",
-  "en": "",
-  "status": ""
+  "en": "Unknown Unit",
+  "status": "done"
  },
  {
   "id": "eboot_23160C",
@@ -1209,8 +1209,8 @@
    }
   ],
   "jp": "王国軍",
-  "en": "",
-  "status": ""
+  "en": "Army",
+  "status": "done"
  },
  {
   "id": "eboot_231614",
@@ -1224,8 +1224,8 @@
    }
   ],
   "jp": "帝国軍",
-  "en": "",
-  "status": ""
+  "en": "Empire",
+  "status": "done"
  },
  {
   "id": "eboot_23161C",
@@ -1239,8 +1239,8 @@
    }
   ],
   "jp": "ＮＰＣ達",
-  "en": "",
-  "status": ""
+  "en": "NPCs",
+  "status": "done"
  },
  {
   "id": "eboot_231858",
@@ -1256,8 +1256,8 @@
    }
   ],
   "jp": "なし",
-  "en": "",
-  "status": ""
+  "en": "None",
+  "status": "done"
  },
  {
   "id": "eboot_231860",
@@ -1273,8 +1273,8 @@
    }
   ],
   "jp": "風切りの炸裂音とともに敵を貫く非常に強力な弓。",
-  "en": "",
-  "status": ""
+  "en": "A very strong bow that pierces with a whistling blast.",
+  "status": "done"
  },
  {
   "id": "eboot_231890",
@@ -1290,8 +1290,8 @@
    }
   ],
   "jp": "鋼鉄製の兜。頑丈な作りで、頭部をしっかり守ってくれる",
-  "en": "",
-  "status": ""
+  "en": "A steel helmet. Sturdy, it protects the head well.",
+  "status": "done"
  },
  {
   "id": "eboot_2318C8",
@@ -1307,8 +1307,8 @@
    }
   ],
   "jp": "千年雪を練磨して作り出された氷蒼の槍",
-  "en": "",
-  "status": ""
+  "en": "An ice-blue lance forged from Thousand-Year Snow.",
+  "status": "done"
  },
  {
   "id": "eboot_2318F0",
@@ -1324,8 +1324,8 @@
    }
   ],
   "jp": "古今東西のアイテムについて記された大事典",
-  "en": "",
-  "status": ""
+  "en": "A great encyclopedia of items from all times and places.",
+  "status": "done"
  },
  {
   "id": "eboot_23191C",
@@ -1341,8 +1341,8 @@
    }
   ],
   "jp": "毒素成分が含まれているため、鮮やかな青い色をしている",
-  "en": "",
-  "status": ""
+  "en": "Contains toxins, which give it a vivid blue color.",
+  "status": "done"
  },
  {
   "id": "eboot_231954",
@@ -1358,8 +1358,8 @@
    }
   ],
   "jp": "盗賊が盗んだものの、開けられなくて捨てたカバン",
-  "en": "",
-  "status": ""
+  "en": "A bag thieves stole, but couldn't open and threw away.",
+  "status": "done"
  },
  {
   "id": "eboot_231984",
@@ -1375,8 +1375,8 @@
    }
   ],
   "jp": "巻貝の形の宝玉。身につけると水と一体化できるらしい…",
-  "en": "",
-  "status": ""
+  "en": "A shell-shaped gem. Wear it to become one with water, they say...",
+  "status": "done"
  },
  {
   "id": "eboot_2319BC",
@@ -1392,8 +1392,8 @@
    }
   ],
   "jp": "悪魔のシッポをイメージした背徳感溢れるアクセサリ",
-  "en": "",
-  "status": ""
+  "en": "A sinful accessory modeled on a devil's tail.",
+  "status": "done"
  },
  {
   "id": "eboot_2319F0",
@@ -1409,8 +1409,8 @@
    }
   ],
   "jp": "貼ると悪霊が取りつくと云われる呪いの札",
-  "en": "",
-  "status": ""
+  "en": "A cursed charm said to attract evil spirits when posted.",
+  "status": "done"
  },
  {
   "id": "eboot_231A18",
@@ -1426,8 +1426,8 @@
    }
   ],
   "jp": "魔界に存在すると云われる果実。鮮やかな青が毒々しい…",
-  "en": "",
-  "status": ""
+  "en": "A fruit said to exist in the Demon World. Vivid blue, and poisonous-looking...",
+  "status": "done"
  },
  {
   "id": "eboot_231A50",
@@ -1443,8 +1443,8 @@
    }
   ],
   "jp": "守護神アランを象った人形。少し焦げたような匂いがする",
-  "en": "",
-  "status": ""
+  "en": "A doll in the form of the guardian god Alan. It smells slightly burnt.",
+  "status": "done"
  },
  {
   "id": "eboot_231A88",
@@ -1460,8 +1460,8 @@
    }
   ],
   "jp": "可愛らしい装丁の日記。筆跡からして少女のものらしい",
-  "en": "",
-  "status": ""
+  "en": "A cutely bound diary. From the handwriting, it seems to be a girl's.",
+  "status": "done"
  },
  {
   "id": "eboot_231ABC",
@@ -1477,8 +1477,8 @@
    }
   ],
   "jp": "多くの喜びと悲しみをつづる楽曲を記す譜面",
-  "en": "",
-  "status": ""
+  "en": "Sheet music for a song telling of many joys and sorrows.",
+  "status": "done"
  },
  {
   "id": "eboot_231AE8",
@@ -1494,8 +1494,8 @@
    }
   ],
   "jp": "夜会用のドレス。ちょっと大人っぽい感じ",
-  "en": "",
-  "status": ""
+  "en": "An evening gown. A bit of a grown-up look.",
+  "status": "done"
  },
  {
   "id": "eboot_231B10",
@@ -1511,8 +1511,8 @@
    }
   ],
   "jp": "気分をリラックスさせる効果を持つ不思議なハーブ",
-  "en": "",
-  "status": ""
+  "en": "A mysterious herb with a relaxing effect.",
+  "status": "done"
  },
  {
   "id": "eboot_231B40",
@@ -1528,8 +1528,8 @@
    }
   ],
   "jp": "炎の悪魔が宿る大鎌。焼き尽くした相手の命を食らう",
-  "en": "",
-  "status": ""
+  "en": "A great scythe with a flame demon inside. It feeds on the lives of those it burns.",
+  "status": "done"
  },
  {
   "id": "eboot_231B74",
@@ -1545,8 +1545,8 @@
    }
   ],
   "jp": "古に滅んだ砂漠の民ウポラの像。何故こんなところに…",
-  "en": "",
-  "status": ""
+  "en": "Statue of the Upola, a desert people lost long ago. Why is it here...",
+  "status": "done"
  },
  {
   "id": "eboot_231BA8",
@@ -1562,8 +1562,8 @@
    }
   ],
   "jp": "運河の３兄弟から譲り受けた槍。水の抵抗を全く受けない",
-  "en": "",
-  "status": ""
+  "en": "A lance from the Canal Brothers. It meets no resistance in water.",
+  "status": "done"
  },
  {
   "id": "eboot_231BE0",
@@ -1579,8 +1579,8 @@
    }
   ],
   "jp": "あらゆるエネルギーを組み替え、パワーに変換する聖衣",
-  "en": "",
-  "status": ""
+  "en": "Holy garb that turns all kinds of energy into power.",
+  "status": "done"
  },
  {
   "id": "eboot_231C14",
@@ -1596,8 +1596,8 @@
    }
   ],
   "jp": "オリハルコンの持つ力を最大限に引き出して作られた大剣",
-  "en": "",
-  "status": ""
+  "en": "A greatsword made to draw out the full power of Orichalcum.",
+  "status": "done"
  },
  {
   "id": "eboot_231C4C",
@@ -1613,8 +1613,8 @@
    }
   ],
   "jp": "森の民たちが精霊エルフから譲り受けた狩弓",
-  "en": "",
-  "status": ""
+  "en": "A hunting bow the forest people received from Elf spirits.",
+  "status": "done"
  },
  {
   "id": "eboot_231C78",
@@ -1630,8 +1630,8 @@
    }
   ],
   "jp": "武器庫の奥に格納されていた壮麗な宝槍",
-  "en": "",
-  "status": ""
+  "en": "A splendid treasure lance kept deep in the armory.",
+  "status": "done"
  },
  {
   "id": "eboot_231CA0",
@@ -1647,8 +1647,8 @@
    }
   ],
   "jp": "湯船に浮かべると肌がスベスベになるという美容のミント",
-  "en": "",
-  "status": ""
+  "en": "A beauty mint said to make skin silky when floated in the bath.",
+  "status": "done"
  },
  {
   "id": "eboot_231CD8",
@@ -1664,8 +1664,8 @@
    }
   ],
   "jp": "精霊のエネルギーが集まって凝縮したコア",
-  "en": "",
-  "status": ""
+  "en": "A core made of concentrated spirit energy.",
+  "status": "done"
  },
  {
   "id": "eboot_231D00",
@@ -1681,8 +1681,8 @@
    }
   ],
   "jp": "戦乱の世に現れ、時代を終焉に導くと云われる古代の大剣",
-  "en": "",
-  "status": ""
+  "en": "An ancient greatsword said to appear in war and bring the age to an end.",
+  "status": "done"
  },
  {
   "id": "eboot_231D38",
@@ -1698,8 +1698,8 @@
    }
   ],
   "jp": "世界最硬金属物質。武具の素材としては最上位にあたる",
-  "en": "",
-  "status": ""
+  "en": "The hardest metal in the world. Top-grade material for arms.",
+  "status": "done"
  },
  {
   "id": "eboot_231D6C",
@@ -1715,8 +1715,8 @@
    }
   ],
   "jp": "古のオーガ（巨鬼）をも倒す力を秘めた巨大の刃",
-  "en": "",
-  "status": ""
+  "en": "A huge blade with the power to slay even the ogres of old.",
+  "status": "done"
  },
  {
   "id": "eboot_231D9C",
@@ -1732,8 +1732,8 @@
    }
   ],
   "jp": "純粋な気持ちが生んだ涙が結晶として形を成したもの",
-  "en": "",
-  "status": ""
+  "en": "A tear born of pure feeling, crystallized into form.",
+  "status": "done"
  },
  {
   "id": "eboot_231DD0",
@@ -1749,8 +1749,8 @@
    }
   ],
   "jp": "神界にのみ存在すると云われるクリスタル物質",
-  "en": "",
-  "status": ""
+  "en": "A crystal substance said to exist only in Heaven.",
+  "status": "done"
  },
  {
   "id": "eboot_231DFC",
@@ -1766,8 +1766,8 @@
    }
   ],
   "jp": "柄の部分に悪魔ガーゴイルをデザインした杖",
-  "en": "",
-  "status": ""
+  "en": "A staff with a demon gargoyle designed on its handle.",
+  "status": "done"
  },
  {
   "id": "eboot_231E28",
@@ -1783,8 +1783,8 @@
    }
   ],
   "jp": "貝殻で作った胸あて。ちょっぴり恥ずかしい気も…",
-  "en": "",
-  "status": ""
+  "en": "A breastplate of seashells. A little embarrassing...",
+  "status": "done"
  },
  {
   "id": "eboot_231E58",
@@ -1800,8 +1800,8 @@
    }
   ],
   "jp": "白い蝶を捕まえて、カゴの中に入れたもの",
-  "en": "",
-  "status": ""
+  "en": "A white butterfly caught and put in a cage.",
+  "status": "done"
  },
  {
   "id": "eboot_231E80",
@@ -1817,8 +1817,8 @@
    }
   ],
   "jp": "反乱軍の兵士が家族に宛てて書いたらしい手紙",
-  "en": "",
-  "status": ""
+  "en": "A letter a rebel soldier seems to have written to his family.",
+  "status": "done"
  },
  {
   "id": "eboot_231EAC",
@@ -1834,8 +1834,8 @@
    }
   ],
   "jp": "装飾グッズ定番の一品。シンプルなつくりの髪飾り",
-  "en": "",
-  "status": ""
+  "en": "A staple accessory. A simple hair ornament.",
+  "status": "done"
  },
  {
   "id": "eboot_231EDC",
@@ -1851,8 +1851,8 @@
    }
   ],
   "jp": "魔導具。矢が尽きるまで乱射せずにはいられないボウガン",
-  "en": "",
-  "status": ""
+  "en": "A magic tool. A crossbow that can't help but fire wildly until out of bolts.",
+  "status": "done"
  },
  {
   "id": "eboot_231F14",
@@ -1868,8 +1868,8 @@
    }
   ],
   "jp": "透明なガラス製の容器。割れやすいので注意が必要",
-  "en": "",
-  "status": ""
+  "en": "A clear glass container. Fragile, so take care.",
+  "status": "done"
  },
  {
   "id": "eboot_231F44",
@@ -1885,8 +1885,8 @@
    }
   ],
   "jp": "枯れ果てたメイメルの花。色も茶色くなっている…",
-  "en": "",
-  "status": ""
+  "en": "A withered Meimel flower. Its color has turned brown too...",
+  "status": "done"
  },
  {
   "id": "eboot_231F74",
@@ -1902,8 +1902,8 @@
    }
   ],
   "jp": "皮を貼り継いで作られた簡素なヘルメット",
-  "en": "",
-  "status": ""
+  "en": "A simple helmet of stitched leather.",
+  "status": "done"
  },
  {
   "id": "eboot_231F9C",
@@ -1919,8 +1919,8 @@
    }
   ],
   "jp": "ガッチリと腕にはまる鋼鉄のガントレット",
-  "en": "",
-  "status": ""
+  "en": "A steel gauntlet that fits snugly on the arm.",
+  "status": "done"
  },
  {
   "id": "eboot_231FC4",
@@ -1936,8 +1936,8 @@
    }
   ],
   "jp": "髪をすっぽり覆う白絹の頭巾。昔は未婚女性の正装だった",
-  "en": "",
-  "status": ""
+  "en": "A white silk hood that covers the hair. Once formal wear for unmarried women.",
+  "status": "done"
  },
  {
   "id": "eboot_231FFC",
@@ -1953,8 +1953,8 @@
    }
   ],
   "jp": "薄絹をあしらった可憐なコルセット",
-  "en": "",
-  "status": ""
+  "en": "A delicate corset trimmed with fine silk.",
+  "status": "done"
  },
  {
   "id": "eboot_232020",
@@ -1970,8 +1970,8 @@
    }
   ],
   "jp": "熱心な信者だけに与えられる栄誉あるロザリオ",
-  "en": "",
-  "status": ""
+  "en": "An honored rosary given only to devout believers.",
+  "status": "done"
  },
  {
   "id": "eboot_23204C",
@@ -1987,8 +1987,8 @@
    }
   ],
   "jp": "猫の目のようなまんまるな宝石",
-  "en": "",
-  "status": ""
+  "en": "A round gem like a cat's eye.",
+  "status": "done"
  },
  {
   "id": "eboot_23206C",
@@ -2004,8 +2004,8 @@
    }
   ],
   "jp": "血塗られた斧。持つ者を狂気へと駆り立てる",
-  "en": "",
-  "status": ""
+  "en": "A bloodstained axe. It drives its bearer to madness.",
+  "status": "done"
  },
  {
   "id": "eboot_232098",
@@ -2021,8 +2021,8 @@
    }
   ],
   "jp": "神生教団の内部で流通するアンダーグラウンドな硬貨",
-  "en": "",
-  "status": ""
+  "en": "An underground coin that circulates within the Blessed Papal Army.",
+  "status": "done"
  },
  {
   "id": "eboot_2320CC",
@@ -2038,8 +2038,8 @@
    }
   ],
   "jp": "太古から姿を変えず生きている巨獣ロコンの頭蓋骨",
-  "en": "",
-  "status": ""
+  "en": "The skull of Rocon, a giant beast unchanged since ancient times.",
+  "status": "done"
  },
  {
   "id": "eboot_2320FC",
@@ -2055,8 +2055,8 @@
    }
   ],
   "jp": "極めて凶暴な性格と猛毒で知られるキラービーの巣",
-  "en": "",
-  "status": ""
+  "en": "A nest of Killer Bees, known for their savage nature and deadly poison.",
+  "status": "done"
  },
  {
   "id": "eboot_23212C",
@@ -2072,8 +2072,8 @@
    }
   ],
   "jp": "高位に昇り詰めたものがつくらせた嗜好品としての金貨",
-  "en": "",
-  "status": ""
+  "en": "A gold coin made as a luxury by those who rose to high rank.",
+  "status": "done"
  },
  {
   "id": "eboot_232160",
@@ -2089,8 +2089,8 @@
    }
   ],
   "jp": "キルト編みされたスカーフ。保温性に優れる",
-  "en": "",
-  "status": ""
+  "en": "A quilted scarf. It keeps you very warm.",
+  "status": "done"
  },
  {
   "id": "eboot_23218C",
@@ -2106,8 +2106,8 @@
    }
   ],
   "jp": "鋭い曲線を描く刃をもつハンドアックス",
-  "en": "",
-  "status": ""
+  "en": "A hand axe with a sharply curved blade.",
+  "status": "done"
  },
  {
   "id": "eboot_2321B4",
@@ -2123,8 +2123,8 @@
    }
   ],
   "jp": "淡く光を反射するきれいな二枚貝",
-  "en": "",
-  "status": ""
+  "en": "A pretty bivalve that softly reflects the light.",
+  "status": "done"
  },
  {
   "id": "eboot_2321D4",
@@ -2140,8 +2140,8 @@
    }
   ],
   "jp": "祈りを刻み、永遠の約束を誓った指輪",
-  "en": "",
-  "status": ""
+  "en": "A ring engraved with prayers, sworn to an eternal promise.",
+  "status": "done"
  },
  {
   "id": "eboot_2321F8",
@@ -2157,8 +2157,8 @@
    }
   ],
   "jp": "ある武器匠の鬼作。処刑具を応用した残酷な重槍",
-  "en": "",
-  "status": ""
+  "en": "A fearsome work of a certain weaponsmith. A cruel heavy lance based on execution tools.",
+  "status": "done"
  },
  {
   "id": "eboot_232228",
@@ -2174,8 +2174,8 @@
    }
   ],
   "jp": "まばゆいばかりに光り輝くゴールドバー",
-  "en": "",
-  "status": ""
+  "en": "A dazzling gold bar.",
+  "status": "done"
  },
  {
   "id": "eboot_232250",
@@ -2191,8 +2191,8 @@
    }
   ],
   "jp": "邪教の狂信者が隠し持っていた黒石に緋十字のロザリオ",
-  "en": "",
-  "status": ""
+  "en": "A black-stone, scarlet-cross rosary hidden by a heretic fanatic.",
+  "status": "done"
  },
  {
   "id": "eboot_232284",
@@ -2208,8 +2208,8 @@
    }
   ],
   "jp": "神々の楽園にあると云われる禁断の果実",
-  "en": "",
-  "status": ""
+  "en": "The forbidden fruit, said to grow in the paradise of the gods.",
+  "status": "done"
  },
  {
   "id": "eboot_2322AC",
@@ -2225,8 +2225,8 @@
    }
   ],
   "jp": "非常に珍しい金色のドゼウ。見た者は幸運を得るという",
-  "en": "",
-  "status": ""
+  "en": "A very rare golden loach. They say those who see it gain good luck.",
+  "status": "done"
  },
  {
   "id": "eboot_2322E0",
@@ -2242,8 +2242,8 @@
    }
   ],
   "jp": "豪華なとっくり。呑むほどに強くなるが…",
-  "en": "",
-  "status": ""
+  "en": "A fancy sake bottle. The more you drink, the stronger you get, but...",
+  "status": "done"
  },
  {
   "id": "eboot_232308",
@@ -2259,8 +2259,8 @@
    }
   ],
   "jp": "雑草などを刈る農具用の鎌",
-  "en": "",
-  "status": ""
+  "en": "A farming sickle for cutting weeds.",
+  "status": "done"
  },
  {
   "id": "eboot_232324",
@@ -2276,8 +2276,8 @@
    }
   ],
   "jp": "死んだドゼウが腐ったもの。非常にくさい…",
-  "en": "",
-  "status": ""
+  "en": "A dead loach gone rotten. It stinks...",
+  "status": "done"
  },
  {
   "id": "eboot_232350",
@@ -2293,8 +2293,8 @@
    }
   ],
   "jp": "かつての名剣が朽ち果ててボロボロになった物",
-  "en": "",
-  "status": ""
+  "en": "Once a famous sword, now decayed to tatters.",
+  "status": "done"
  },
  {
   "id": "eboot_23237C",
