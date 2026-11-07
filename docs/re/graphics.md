@@ -52,12 +52,20 @@ Done and seen in game (build `f14fdf34`): terrain labels both sets (3@480830-492
 forecast), chapter cards for all 59 files (title + location, title, vertical title; stage card and field strip seen),
 enemy-phase banners 21-68 (preview only: the `enemy_phase` scene shows a mission banner), button help atlas 3@faa20,
 field labels 3@403560 (`非戦闘キャラクターです`, 士気 drawn small in its 16 px box, `メニュー`, `フィールドマップ確認中`,
-`ステータス確認中`), plus the rows done before. Still Japanese and seen in game: prep `ユニット配置`/`ロケーション` banner
-(3@4323e0: cream lettering over a white bar, needs the bar repainted), weapon kanji and 2-kanji terrain/object tags of
-3@4768e0 (about 22x12 px each: too small for English words, decide a form), object names in Object List (`集落`), mission
-banners 2066-2111 (`増援`), chapter title art 1531 (`CHAPTER 2` + `腐敗する帝国に差す光`; English titles at EBOOT
-0x236FC0), and the prep screen's vertical location under the vertical title (`ティエラ・ネザー地区中央`: in no chapter file
-and no text record; not located).
+`ステータス確認中`), plus the rows done before.
+
+Done 2026-11-07 (third session, build `b9010597`): recap chapter titles 1531 (one 368x352 texture; the game cuts the 8 titles
+by the rect table at EBOOT 0x2794E4, 8 bytes each x,y,w,h: 1 2 3 4 5 6a 6b 6c, with 5 and 6b sharing a row; nothing in the
+code references the table by a lui/addiu pair, so the rects are left as they are and short rects get smaller English),
+mission banner words 2066-2111 (the 110x48 kanji; the English line under each is the game's), prep banner 3@4323e0 (style
+`stripe` redraws the white bar per row), result labels 3@373420 and 3@4607a0, the tag atlas 3@4768e0 (terrain, object and
+weapon tags, short words per D8; weapon rects are 18 px wide, the white `Geographical Features` bar starts at x 64), Object
+List names 1770@2add0 (large names right-aligned in cells), `フィールド上にオブジェクトは何もありません。` 1770@4fef0, result
+atlas 1771@e0 (item/card headers, MVP and loot prompts, side victory banners), MVP `なし` 1771@1b1e0, the character name
+list 1771@26dc0. Seen in game: mission banner, terrain tags, Unit Deployment, Object List, weapon tags, victory and loot.
+Still Japanese: recap pages 1532-1604, the prep screen's vertical location under the vertical title
+(`ティエラ・ネザー地区中央`: in no chapter file and no text record; not located), 1771@36ad0 (small list), and the rest of
+the survey table below from trait lines on.
 
 ## Survey (static sweep complete; the in-game tour in phases 5 and 8 adds to it)
 

@@ -408,3 +408,169 @@
 66@270	0,0,201,40	banner-l	ブレイズ義賊団進撃！	Blaze Justice Corps Advances!
 67@270	0,0,259,40	banner-l	アイギナ近衛隊進撃！	Aegina's Royal Guard Advances!
 68@270	0,0,261,40	banner-l	敵部隊進撃！	Enemy Forces Advance!
+# Recap chapter titles (1531, one texture; the game cuts each title by the rect table at EBOOT 0x2794E8, CHAPTER and digits stay)
+1531@20	0,16,256,48	title	希望の名の下に	In the Name of Hope
+1531@20	0,64,368,48	title	腐敗する帝国に差す光	Light on a Rotting Empire
+1531@20	0,112,232,48	title	戦う、という意味	What It Means to Fight
+1531@20	0,160,360,48	title	預言者の瞳は何を見る	What the Prophet's Eyes See
+1531@20	0,208,208,48	title	堕ちたる軍旗	The Fallen Banner
+1531@20	0,256,208,48	title	真実の代償	The Price of Truth
+1531@20	208,208,120,48	title	血と涙	Blood and Tears
+1531@20	0,304,256,48	title	この世界を生きて	Live in This World
+# Mission banners (2066-2111): the kanji word only; the English line under it is the game's own
+2066@8a30	5,0,98,42	banner	増援	Reinforcements
+2067@8a50	7,0,94,42	banner	伏兵	Ambush
+2068@8a20	4,0,98,42	banner	撤退	Withdraw
+2069@8a20	5,0,99,42	banner	砲撃	Bombard
+2070@88b0	6,0,98,42	banner	破壊	Destroyed
+2071@8a20	4,0,100,42	banner	襲撃	Raid
+2072@8a00	4,0,100,42	banner	凍結	Frozen
+2073@8a40	5,0,99,42	banner	氷解	Thaw
+2074@8a30	5,1,98,41	banner	開門	Gate Open
+2075@8a40	4,0,96,42	banner	発見	Discovery
+2076@8a50	4,0,99,42	banner	崩落	Collapse
+2077@8a30	4,0,99,42	banner	制圧	Seized
+2078@8a40	4,0,95,42	banner	炎上	Ablaze
+2079@8a30	7,0,95,42	banner	召喚	Summon
+2080@8a50	6,0,97,42	banner	獲得	Acquired
+2081@8a70	5,0,98,42	banner	裏切	Betrayal
+2082@8a20	4,0,100,42	banner	覚醒	Awakening
+2083@8a40	3,0,100,42	banner	離脱	Escape
+2084@8a30	4,0,99,42	banner	退却	Retreat
+2085@8a30	4,0,98,42	banner	到達	Arrival
+2086@8a40	4,0,100,42	banner	戦死	Slain
+2087@8a50	4,0,98,42	banner	浄化	Purified
+2088@8a00	4,0,99,42	banner	捕縛	Captured
+2089@8a70	4,0,99,42	banner	急襲	Assault
+2090@8a50	5,0,98,42	banner	救援	Rescue
+2091@8a20	6,0,98,42	banner	狙撃	Snipe
+2092@8a40	4,0,100,42	banner	解放	Liberated
+2093@8a30	4,0,99,42	banner	遭遇	Encounter
+2094@8a20	4,0,100,42	banner	出撃	Sortie
+2095@8a20	4,0,99,42	banner	動揺	Shaken
+2096@8a20	5,0,101,42	banner	絶命	Perished
+2097@8a40	6,0,101,42	banner	消滅	Vanished
+2098@8a50	7,0,99,42	banner	自刃	Sacrifice
+2099@8a40	7,0,98,42	banner	奇襲	Surprise
+2100@8c40	9,0,97,42	banner	脅迫	Threat
+2101@8a20	5,0,101,42	banner	撃退	Repelled
+2102@8a70	5,0,101,42	banner	降伏	Surrender
+2103@8a70	5,0,102,42	banner	粛清	Purge
+2104@8a70	6,0,101,41	banner	処刑	Execution
+2105@8a30	5,0,100,41	banner	上陸	Landing
+2106@8c30	6,0,100,41	banner	進発	Advance
+2107@8c40	5,0,102,42	banner	斉射	Volley
+2108@8a30	5,0,102,42	banner	転落	Downfall
+2109@8c50	6,0,99,42	banner	投降	Yield
+2110@8a20	6,0,101,41	banner	逃亡	Desertion
+2111@8a30	5,0,98,42	banner	略奪	Plunder
+# Prep banner atlas (cream lettering over a white bar; the bar is redrawn per row)
+3@4323e0	0,0,190,22	stripe	ユニット配置	Unit Deployment
+3@4323e0	0,22,190,20	stripe	ロケーション	Location
+# Battle result labels (English words on the same atlases stay)
+3@373420	94,12,85,16	menu	生存ユニット	Survivors
+3@373420	92,39,60,17	menu	ボーナス	Bonus
+3@373420	106,58,79,21	menu	部隊士気	Unit Morale
+3@373420	1,88,45,16	menu	能力差	Stat Gap
+3@373420	55,88,60,16	menu	地形効果	Terrain
+3@4607a0	106,1,30,19	menu	士気	Morale
+3@4607a0	136,0,43,17	menu	装備	Equip
+3@4607a0	136,17,43,14	menu	勝率	Win Rate
+# Small tags atlas 3@4768e0: terrain (left) and object (middle) tags of the Terrain and Object List screens, 23x15 each;
+# weapon kanji of the Weapon Types screen (right). Short single words: the full names are on the big terrain labels.
+3@4768e0	0,0,23,15	menu-c	街道	Road
+3@4768e0	0,16,23,15	menu-c	架橋	Bridge
+3@4768e0	0,32,23,15	menu-c	草原	Plains
+3@4768e0	0,48,23,15	menu-c	荒野	Wilds
+3@4768e0	0,64,23,15	menu-c	森林	Forest
+3@4768e0	0,80,23,15	menu-c	砂漠	Desert
+3@4768e0	0,96,23,15	menu-c	毒沼	Swamp
+3@4768e0	0,112,23,15	menu-c	水辺	Shore
+3@4768e0	0,128,23,15	menu-c	氷上	Ice
+3@4768e0	0,144,23,15	menu-c	集落	Village
+3@4768e0	0,160,23,15	menu-c	都市	City
+3@4768e0	0,176,23,15	menu-c	雪道	Snowpath
+3@4768e0	0,192,23,15	menu-c	雪原	Tundra
+3@4768e0	23,0,23,15	menu-c	城砦	Fort
+3@4768e0	23,16,23,15	menu-c	投石	Catapult
+3@4768e0	23,32,23,15	menu-c	砲台	Cannon
+3@4768e0	23,48,23,15	menu-c	門開	Open
+3@4768e0	23,64,23,15	menu-c	門閉	Closed
+3@4768e0	23,80,23,15	menu-c	柵	Fence
+3@4768e0	23,96,23,15	menu-c	財宝	Loot
+3@4768e0	23,112,23,15	menu-c	アンク	Ankh
+3@4768e0	23,128,23,15	menu-c	船	Ship
+3@4768e0	23,144,23,15	menu-c	目標	Goal
+3@4768e0	23,176,23,15	menu-c	路地	Alley
+3@4768e0	23,192,23,15	menu-c	街路	Street
+3@4768e0	46,0,18,19	menu-c	槍	Spear
+3@4768e0	46,23,18,19	menu-c	剣	Sword
+3@4768e0	46,46,18,19	menu-c	斧	Axe
+3@4768e0	46,70,18,18	menu-c	弓	Bow
+3@4768e0	46,92,18,19	menu-c	杖	Staff
+3@4768e0	46,115,18,19	menu-c	塊	Club
+3@4768e0	46,138,18,19	menu-c	鎌	Scythe
+3@4768e0	46,161,18,19	menu-c	書	Tome
+3@4768e0	46,184,18,18	menu-c	琴	Harp
+# Object List atlas 1770@2add0: small names (left, the list) and large names (right-aligned cells, the panel).
+# Boxes are the cells, not the ink: the large names sit right-aligned in fixed cells. The game's own English list stays.
+1770@2add0	1,1,92,23	menu	投石器	Catapult
+1770@2add0	1,27,92,23	menu	砲台	Cannon
+1770@2add0	1,53,92,23	menu	架橋	Bridge
+1770@2add0	1,79,92,23	menu	門(開)	Open Gate
+1770@2add0	1,105,92,23	menu	門(閉)	Closed Gate
+1770@2add0	1,131,92,23	menu	柵	Barricade
+1770@2add0	1,157,92,23	menu	集落	Village
+1770@2add0	1,183,92,23	menu	都市	City
+1770@2add0	1,209,92,23	menu	城砦	Fortress
+1770@2add0	1,236,92,23	menu	アイテム	Item
+1770@2add0	1,261,92,23	menu	船	Ship
+1770@2add0	1,287,92,23	menu	目標地点	Target Point
+1770@2add0	106,1,98,42	banner-r	投石器	Catapult
+1770@2add0	106,45,98,42	banner-r	砲台	Cannon
+1770@2add0	106,89,98,42	banner-r	架橋	Bridge
+1770@2add0	106,134,98,42	banner-r	門(開)	Open Gate
+1770@2add0	106,178,98,42	banner-r	門(閉)	Closed Gate
+1770@2add0	106,221,98,42	banner-r	柵	Barricade
+1770@2add0	106,265,98,42	banner-r	集落	Village
+1770@2add0	206,1,98,42	banner-r	都市	City
+1770@2add0	206,45,98,42	banner-r	城砦	Fortress
+1770@2add0	206,89,98,42	banner-r	アイテム	Item
+1770@2add0	206,133,98,42	banner-r	船	Ship
+1770@2add0	206,177,98,42	banner-r	目標地点	Target Point
+1770@4fef0	0,0,100,23	menu	フィールド上に	There are no
+1770@4fef0	0,24,101,23	menu	オブジェクトは	objects on
+1770@4fef0	0,48,112,23	menu	何もありません。	the field.
+# Result atlas 1771@e0: headers, prompts and side victory banners (the English lines on it stay)
+1771@e0	0,0,280,46	banner	アイテム入手	Item Obtained!
+1771@e0	43,47,237,46	banner	義賊団勝利	Justice Corps Wins!
+1771@e0	45,93,235,38	banner	カード入手	Card Obtained!
+1771@e0	1,180,157,20	menu	ＭＶＰの確認を終了	Done with MVP
+1771@e0	158,182,152,18	menu	戦利品の回収を終了	Done with Loot
+1771@e0	0,200,152,18	menu	入手カード確認終了	Done with Cards
+1771@e0	152,200,191,18	menu	カードステータスを見る	View Card Status
+1771@e0	0,219,188,15	menu	このユニットはこれ以上成長できません	This unit can grow no further
+1771@e0	0,253,343,45	banner-r	ガーロット隊勝利	Garlot's Unit Wins!
+1771@e0	0,299,343,45	banner-r	ガルカーサ隊勝利	Gulcasa's Unit Wins!
+1771@e0	96,345,247,45	banner-r	近衛隊勝利	Royal Guard Wins!
+1771@e0	96,391,247,45	banner-r	私兵団勝利	Private Army Wins!
+1771@1b1e0	236,0,66,32	banner	なし	None
+# Character names 1771@26dc0 (right-aligned in two columns)
+1771@26dc0	31,0,163,32	banner-r	ガーロット	Garlot
+1771@26dc0	257,0,131,32	banner-r	バイフー	Byff
+1771@26dc0	22,33,172,32	banner-r	ガルカーサ	Gulcasa
+1771@26dc0	290,33,98,32	banner-r	イータ	Eater
+1771@26dc0	64,66,130,32	banner-r	シスキア	Siskier
+1771@26dc0	287,66,101,32	banner-r	レオン	Leon
+1771@26dc0	69,99,125,32	banner-r	ジェノン	Jenon
+1771@26dc0	223,99,164,32	banner-r	バルドゥス	Baldus
+1771@26dc0	29,132,165,32	banner-r	メデューテ	Medoute
+1771@26dc0	286,132,101,32	banner-r	ネシア	Nessiah
+1771@26dc0	90,165,106,32	banner-r	パメラ	Pamela
+1771@26dc0	196,165,191,31	banner-r	ベアトリーヌ	Baretreenu
+1771@26dc0	58,198,136,32	banner-r	エミリオ	Emilia
+1771@26dc0	255,198,132,32	banner-r	ジルヴァ	Zilva
+1771@26dc0	63,231,131,32	banner-r	アイギナ	Aegina
+1771@26dc0	283,231,104,32	banner-r	ミゼル	Mizer
+1771@26dc0	63,264,131,32	banner-r	ユーディ	Eudy
+1771@26dc0	253,264,135,32	banner-r	スレイプ	Sleip

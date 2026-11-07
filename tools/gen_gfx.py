@@ -24,6 +24,7 @@ OUT = ROOT / "work/gfx"
 STYLES = {
     "banner": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(2, "dark"), clear="alpha", align="c"),
     "banner-l": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(2, "dark"), clear="alpha", align="l"),
+    "banner-r": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(2, "dark"), clear="alpha", align="r"),
     "vbanner": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(2, "dark"), clear="alpha", align="c", rot=True),
     "menu": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="l"),
     "menu-c": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="c"),
@@ -35,6 +36,8 @@ STYLES = {
     "mirror": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear="mirror", align="l"),
     "over": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear=None, align="l"),
     "over-c": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear=None, align="c"),
+    "title": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(3, (0, 0, 0)), clear="alpha", align="l"),
+    "stripe": dict(font="SourceSans3-Black.ttf", fill=(252, 254, 186), stroke=(2, (31, 27, 38)), clear="stripe", align="c"),
     "over1": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(1, (16, 16, 32)), clear=None, align="l"),
 }
 MIN_X = 0.62  # narrowest horizontal squeeze before the size shrinks instead
@@ -148,6 +151,12 @@ def draw(img, box, style, en, s=1.0):
         img.paste(img.crop((img.width - x - w, y, img.width - x, y + h)).transpose(Image.FLIP_LEFT_RIGHT), (x, y))
     elif st["clear"] == "alpha":
         img.paste(Image.new("RGBA", (w, h), (0, 0, 0, 0)), (x, y))
+    elif st["clear"] == "stripe":  # lettering over a white bar: clear, then redraw each row's bar from its visible ends
+        px = img.load()
+        for j in range(y, y + h):
+            xs = [i for i in range(x, x + w) if px[i, j][3] > 200 and min(px[i, j][:3]) > 245]
+            for i in range(x, x + w):
+                px[i, j] = (253, 252, 252, 255) if len(xs) > w // 4 and xs[0] <= i <= xs[-1] else (0, 0, 0, 0)
     if isinstance(st["fill"], tuple):
         fills, dark = [st["fill"]] * h, st["stroke"][1] if st["stroke"] else (0, 0, 0)
     if not en:
