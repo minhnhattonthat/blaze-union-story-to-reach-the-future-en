@@ -8,8 +8,8 @@
    5583
   ],
   "jp": "{voice:00D116}ずいぶん帝都にも長くいたよね。{n}エイミに怒られるかなぁ……",
-  "en": "",
-  "status": ""
+  "en": "We've been in the capital a long time, huh. I wonder if Eimi's going to be mad...",
+  "status": "done"
  },
  {
   "id": "event_2201_00066",
@@ -20,8 +20,8 @@
    5604
   ],
   "jp": "{voice:00D216}ルシエナ姉さんも一緒です。{n}大丈夫じゃないですか？",
-  "en": "",
-  "status": ""
+  "en": "My sister Luciana is with her. Won't it be all right?",
+  "status": "done"
  },
  {
   "id": "event_2201_0009C",
@@ -32,8 +32,8 @@
    5625
   ],
   "jp": "{voice:00D316}だから余計に心配なの。{n}ルシエナもイタズラ好きでしょ？",
-  "en": "",
-  "status": ""
+  "en": "That's why I'm extra worried. Luciana loves pranks too, you know?",
+  "status": "done"
  },
  {
   "id": "event_2201_000D6",
@@ -44,8 +44,8 @@
    5632
   ],
   "jp": "{voice:00D416}長く空けたからさ、{n}二人でとんでもない事、{n}してなきゃいいんだけどさ。",
-  "en": "",
-  "status": ""
+  "en": "We've been gone so long. I just hope the two of them haven't done something crazy.",
+  "status": "done"
  },
  {
   "id": "event_2201_0011F",
@@ -56,8 +56,8 @@
    5653
   ],
   "jp": "{voice:00D516}雨戸に釘を打ち付けられた{n}例の事件の事ですか？",
-  "en": "",
-  "status": ""
+  "en": "You mean that incident with the shutters being nailed shut?",
+  "status": "done"
  },
  {
   "id": "event_2201_00151",
@@ -68,8 +68,8 @@
    5674
   ],
   "jp": "{voice:00D616}え？　あれって、ルシエナと{n}エイミが犯人だったの？",
-  "en": "",
-  "status": ""
+  "en": "Huh? So Luciana and Eimi were behind that?",
+  "status": "done"
  },
  {
   "id": "event_2201_00187",
@@ -80,8 +80,8 @@
    5681
   ],
   "jp": "{voice:00D716}私はアイギナの靴下にロウを{n}塗った事件の事言ったんだけど。",
-  "en": "",
-  "status": ""
+  "en": "I meant the incident where someone waxed your socks, Aegina.",
+  "status": "done"
  },
  {
   "id": "event_2201_001C5",
@@ -92,8 +92,8 @@
    5702
   ],
   "jp": "{voice:00D816}え？　あれは姉さんとエイミさん{n}が犯人だったんですか？",
-  "en": "",
-  "status": ""
+  "en": "What? My sister and Eimi-san were behind that?",
+  "status": "done"
  },
  {
   "id": "event_2201_001FF",
@@ -104,8 +104,8 @@
    5709
   ],
   "jp": "{voice:00D916}大変だったんですよ！{n}汗が乾かなくて、蒸れて蒸れて！",
-  "en": "",
-  "status": ""
+  "en": "That was awful! The sweat wouldn't dry, and my feet got so stuffy!",
+  "status": "done"
  },
  {
   "id": "event_2201_00237",
@@ -116,8 +116,8 @@
    5815
   ],
   "jp": "{voice:00DA16}本当に、みんな楽しい方ですね。",
-  "en": "",
-  "status": ""
+  "en": "You really are all such fun people.",
+  "status": "done"
  },
  {
   "id": "event_2201_0025A",
@@ -128,8 +128,8 @@
    5836
   ],
   "jp": "{voice:00DB16}あれは騒々しいというのだ。{n}奴らが調子に乗るような言動は{n}控えて頂きたい。",
-  "en": "",
-  "status": ""
+  "en": "That is what we call noisy. I'd ask you not to say things that encourage them.",
+  "status": "done"
  },
  {
   "id": "event_2201_002A7",
@@ -140,8 +140,8 @@
    5857
   ],
   "jp": "{voice:00DC16}しかし、申し訳ありませんでした。{n}私が倒れてしまったばかりに{n}お待たせしてしまいましたね。",
-  "en": "",
-  "status": ""
+  "en": "I do apologize, though. It was my collapsing that kept you waiting.",
+  "status": "done"
  },
  {
   "id": "event_2201_00304",
@@ -152,8 +152,8 @@
    5878
   ],
   "jp": "{voice:00DD16}それより、ベアトリーヌさん。{n}呪手術ってどういう事を{n}するのですか？",
-  "en": "",
-  "status": ""
+  "en": "More to the point, Baretreenu-san, what does arcane surgery actually involve?",
+  "status": "done"
  },
  {
   "id": "event_2201_0034B",
@@ -164,8 +164,8 @@
    5899
   ],
   "jp": "{voice:00DE16}ちょっと、ジェノン！{n}その話はやめてって言ったでしょ！",
-  "en": "",
-  "status": ""
+  "en": "Hey, Jenon! I told you to stop talking about that!",
+  "status": "done"
  },
  {
   "id": "event_2201_00385",
@@ -176,8 +176,8 @@
    5920
   ],
   "jp": "{voice:00DF16}興味があるんだよ。{n}前に人体解剖図の本を読んだから。",
-  "en": "",
-  "status": ""
+  "en": "I'm curious. I read a book of human anatomy charts once.",
+  "status": "done"
  },
  {
   "id": "event_2201_003BD",
@@ -188,8 +188,8 @@
    6011
   ],
   "jp": "{voice:00E016}バイフーも、その本読んだ{n}目の病気の時に、する器具だな。",
-  "en": "",
-  "status": ""
+  "en": "Byff read that book too. It was about Anna and her brother Tommy.",
+  "status": "done"
  },
  {
   "id": "event_2201_003F9",
@@ -200,8 +200,8 @@
    6035
   ],
   "jp": "{voice:00E116}ん？　んんん？{n}それって、眼帯ってコト？{n}眼帯じゃないよ、人体ね。",
-  "en": "",
-  "status": ""
+  "en": "Hm? Hmmm? You mean Anna, Tommy? It's not Anna Tommy, it's anatomy.",
+  "status": "done"
  },
  {
   "id": "event_2201_0043E",
@@ -212,8 +212,8 @@
    6056
   ],
   "jp": "{voice:00E216}ジェノン、いいツッコミ。{n}バイフー、マイッタイ、{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Good comeback, Jenon. Byff is beaten, anatomically. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2201_00481",
@@ -236,8 +236,8 @@
    6135
   ],
   "jp": "{voice:00E316}私がやるのは、医術とは{n}全く違うものですから。{n}もっと魔術めいた儀式ですよ。",
-  "en": "",
-  "status": ""
+  "en": "What I do is entirely different from medicine. It is a ritual, closer to magic.",
+  "status": "done"
  },
  {
   "id": "event_2201_004DB",
@@ -248,8 +248,8 @@
    6191
   ],
   "jp": "{voice:00E416}ん？　スルーか……",
-  "en": "",
-  "status": ""
+  "en": "Hm? Ignored, huh...",
+  "status": "done"
  },
  {
   "id": "event_2201_004F2",
@@ -260,8 +260,8 @@
    6235
   ],
   "jp": "{voice:00E516}へぇ…{n}興味深いな、見学すればよかった。",
-  "en": "",
-  "status": ""
+  "en": "Huh... How interesting. I should've watched.",
+  "status": "done"
  },
  {
   "id": "event_2201_0051E",
@@ -272,8 +272,8 @@
    6291
   ],
   "jp": "{voice:00E616}パメラ様も興味あるわね～。{n}参考までに、聞かせて{n}欲しいだわさ～。",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama's curious too~. Just for reference, I'd like to hear about it~.",
+  "status": "done"
  },
  {
   "id": "event_2201_00563",
@@ -284,8 +284,8 @@
    6356
   ],
   "jp": "{voice:00E716}魔術の心得のないものには{n}見せられません、危険ですから。",
-  "en": "",
-  "status": ""
+  "en": "I cannot show it to those without magical training. It is dangerous.",
+  "status": "done"
  },
  {
   "id": "event_2201_0059F",
@@ -296,8 +296,8 @@
    6363
   ],
   "jp": "{voice:00E816}事実、危うく魔竜の血の力に{n}意識を奪われかけましたし……",
-  "en": "",
-  "status": ""
+  "en": "In fact, the power of the demon dragon's blood nearly stole my mind...",
+  "status": "done"
  },
  {
   "id": "event_2201_005DB",
@@ -308,8 +308,8 @@
    6384
   ],
   "jp": "{voice:00E916}魔竜の血の力が、{n}儀式者の意識を奪うのですか？",
-  "en": "",
-  "status": ""
+  "en": "The power of the demon dragon's blood can steal the mind of the one performing the ritual?",
+  "status": "done"
  },
  {
   "id": "event_2201_0060D",
@@ -320,8 +320,8 @@
    6405
   ],
   "jp": "{voice:00EA16}破壊と犠牲と侵略の力…{n}それが魔竜の血の本質です。",
-  "en": "",
-  "status": ""
+  "en": "The power of destruction, sacrifice and invasion... That is the essence of the demon dragon's blood.",
+  "status": "done"
  },
  {
   "id": "event_2201_00643",
@@ -332,8 +332,8 @@
    6412
   ],
   "jp": "{voice:00EB16}血が、意識に対して働きかけ、{n}破壊と犠牲、侵略を欲するのです。",
-  "en": "",
-  "status": ""
+  "en": "The blood works on the mind, craving destruction, sacrifice and invasion.",
+  "status": "done"
  },
  {
   "id": "event_2201_00685",
@@ -344,8 +344,8 @@
    6419
   ],
   "jp": "{voice:00EC16}自我が弱い者ならば、{n}すぐにその意識を喰い潰され、{n}竜に支配されてしまうでしょう。",
-  "en": "",
-  "status": ""
+  "en": "Those with a weak self would quickly have their minds devoured, and be ruled by the dragon.",
+  "status": "done"
  },
  {
   "id": "event_2201_006DA",
@@ -356,8 +356,8 @@
    6440
   ],
   "jp": "{voice:00ED16}そういえばさ、術中の記憶が{n}曖昧って言ってたけど、{n}それのせい？",
-  "en": "",
-  "status": ""
+  "en": "By the way, you said your memory of the operation's fuzzy. Is that why?",
+  "status": "done"
  },
  {
   "id": "event_2201_0071D",
@@ -368,8 +368,8 @@
    6461
   ],
   "jp": "{voice:00EE16}それは無いと思います。{n}単純な疲労だと、考えています。",
-  "en": "",
-  "status": ""
+  "en": "I don't believe so. I think it was simple fatigue.",
+  "status": "done"
  },
  {
   "id": "event_2201_00757",
@@ -380,8 +380,8 @@
    6482
   ],
   "jp": "{voice:00EF16}魔竜の力を持ってる奴は、{n}誰でも皇帝みたいな人間になる{n}かもしれないのか？",
-  "en": "",
-  "status": ""
+  "en": "So anyone with the demon dragon's power might turn out like the Emperor?",
+  "status": "done"
  },
  {
   "id": "event_2201_007A4",
@@ -392,8 +392,8 @@
    6503
   ],
   "jp": "{voice:00F016}魔竜の力の強弱は、{n}人によって大きく異なります。",
-  "en": "",
-  "status": ""
+  "en": "The strength of the demon dragon's power varies greatly from person to person.",
+  "status": "done"
  },
  {
   "id": "event_2201_007D8",
@@ -404,8 +404,8 @@
    6510
   ],
   "jp": "{voice:00F116}魔竜の力が強いほど{n}支配を受けやすいのですが…{n}自我が強ければ抵抗もできます。",
-  "en": "",
-  "status": ""
+  "en": "The stronger it is, the easier it is to be ruled by it... But a strong self can resist.",
+  "status": "done"
  },
  {
   "id": "event_2201_00829",
@@ -416,8 +416,8 @@
    6531
   ],
   "jp": "{voice:00F216}そうなのか。",
-  "en": "",
-  "status": ""
+  "en": "I see.",
+  "status": "done"
  },
  {
   "id": "event_2201_0083A",
@@ -428,8 +428,8 @@
    6623
   ],
   "jp": "{voice:00F316}私にとっても、{n}手術は興味深いものでしたよ。",
-  "en": "",
-  "status": ""
+  "en": "The surgery was of great interest to me as well.",
+  "status": "done"
  },
  {
   "id": "event_2201_0086A",
@@ -440,8 +440,8 @@
    6630
   ],
   "jp": "{voice:00F416}いや、助手という形とはいえ、{n}付き添わせていただいて光栄です。",
-  "en": "",
-  "status": ""
+  "en": "Indeed, though only as an assistant, I was honored to be at your side.",
+  "status": "done"
  },
  {
   "id": "event_2201_008AC",
@@ -452,8 +452,8 @@
    6651
   ],
   "jp": "{voice:00F516}…ところでネシアさん。",
-  "en": "",
-  "status": ""
+  "en": "...Incidentally, Nessiah-san.",
+  "status": "done"
  },
  {
   "id": "event_2201_008C7",
@@ -464,8 +464,8 @@
    6658
   ],
   "jp": "{voice:00F616}私が術後に意識を失ったあと、{n}皇帝の身体に何かされましたか？",
-  "en": "",
-  "status": ""
+  "en": "After I lost consciousness following the operation, did you do something to the Emperor's body?",
+  "status": "done"
  },
  {
   "id": "event_2201_00907",
@@ -476,8 +476,8 @@
    6682
   ],
   "jp": "{voice:00F716}…どういう意味でしょう？",
-  "en": "",
-  "status": ""
+  "en": "...What do you mean?",
+  "status": "done"
  },
  {
   "id": "event_2201_00924",
@@ -488,8 +488,8 @@
    6703
   ],
   "jp": "{voice:00F816}そのような夢を、{n}私は三日三晩見続けたのですよ。",
-  "en": "",
-  "status": ""
+  "en": "I had such a dream, you see, for three days and three nights.",
+  "status": "done"
  },
  {
   "id": "event_2201_00958",
@@ -500,8 +500,8 @@
    6710
   ],
   "jp": "{voice:00F916}失礼を承知でもう一度聞きます。{n}私が術後に意識を失ったあと、{n}皇帝の身体に何かされましたか？",
-  "en": "",
-  "status": ""
+  "en": "I know this is rude, but I'll ask again. After I lost consciousness, did you do something to the Emperor's body?",
+  "status": "done"
  },
  {
   "id": "event_2201_009B7",
@@ -512,8 +512,8 @@
    6731
   ],
   "jp": "{voice:00FA16}人聞きが悪いですね……{n}私が何かをしたと？",
-  "en": "",
-  "status": ""
+  "en": "How unkind of you... You suggest I did something?",
+  "status": "done"
  },
  {
   "id": "event_2201_009E5",
@@ -524,8 +524,8 @@
    6752
   ],
   "jp": "{voice:00FB16}…え？　なに、どういうこと？",
-  "en": "",
-  "status": ""
+  "en": "...Huh? What, what's going on?",
+  "status": "done"
  },
  {
   "id": "event_2201_00A06",
@@ -536,8 +536,8 @@
    6773
   ],
   "jp": "{voice:00FC16}やましい事が無いのならば、{n}あなたの記憶を、少し探らせて{n}頂けませんか？",
-  "en": "",
-  "status": ""
+  "en": "If you have nothing to hide, would you let me look into your memory a little?",
+  "status": "done"
  },
  {
   "id": "event_2201_00A51",
@@ -548,8 +548,8 @@
    6794
   ],
   "jp": "{voice:00FD16}……これは困りましたね。{n}あなたを過小評価していました。",
-  "en": "",
-  "status": ""
+  "en": "...Now this is a problem. I underestimated you.",
+  "status": "done"
  },
  {
   "id": "event_2201_00A8D",
@@ -560,8 +560,8 @@
    6819
   ],
   "jp": "{voice:00FE16}まさか勘付かれたとは。{n}いや、本当に困りましたよ……",
-  "en": "",
-  "status": ""
+  "en": "To think you would catch on. Dear me, this really is a problem...",
+  "status": "done"
  },
  {
   "id": "event_2201_00AC5",
@@ -572,8 +572,8 @@
    6826
   ],
   "jp": "{voice:00FF16}私としては、{n}もう少し準備の為に時間を{n}稼ぎたかったのですが。",
-  "en": "",
-  "status": ""
+  "en": "For my part, I wanted to buy a little more time for my preparations.",
+  "status": "done"
  },
  {
   "id": "event_2201_00B06",
@@ -584,8 +584,8 @@
    6847
   ],
   "jp": "{voice:000017}ネシア、何を言っている？",
-  "en": "",
-  "status": ""
+  "en": "Nessiah, what are you talking about?",
+  "status": "done"
  },
  {
   "id": "event_2201_00B23",
@@ -596,8 +596,8 @@
    6868
   ],
   "jp": "{voice:000117}仕方ありません。{n}団長、予定より早いですが、{n}ここでお別れです。",
-  "en": "",
-  "status": ""
+  "en": "It can't be helped. Captain, this is sooner than planned, but here we part ways.",
+  "status": "done"
  },
  {
   "id": "event_2201_00B66",
@@ -608,8 +608,8 @@
    7081
   ],
   "jp": "{voice:000217}ネシアの屍兵が③",
-  "en": "",
-  "status": ""
+  "en": "Nessiah's corpse soldiers!?",
+  "status": "done"
  },
  {
   "id": "event_2201_00B7B",
@@ -620,8 +620,8 @@
    7102
   ],
   "jp": "{voice:000317}待て、ネシア！{n}どういう事だ、説明しろ②",
-  "en": "",
-  "status": ""
+  "en": "Wait, Nessiah! What's going on? Explain yourself!!",
+  "status": "done"
  },
  {
   "id": "event_2201_00BA7",
@@ -632,8 +632,8 @@
    7123
   ],
   "jp": "{voice:000417}死に行く者に説明は不要。",
-  "en": "",
-  "status": ""
+  "en": "Those about to die need no explanation.",
+  "status": "done"
  },
  {
   "id": "event_2201_00BC4",
@@ -656,8 +656,8 @@
    7165
   ],
   "jp": "{voice:000617}…ワケがわからない奴だったが、{n}ここまで直接的に裏切るとは。",
-  "en": "",
-  "status": ""
+  "en": "...I never could figure him out, but I didn't think he'd betray us this openly.",
+  "status": "done"
  },
  {
   "id": "event_2201_00C0F",
@@ -668,8 +668,8 @@
    7186
   ],
   "jp": "{voice:000717}誤解なきよう。{n}裏切りではなく、全て私の描いた{n}預言なのですから。",
-  "en": "",
-  "status": ""
+  "en": "Do not misunderstand. This is no betrayal, for all of it is prophecy I have written.",
+  "status": "done"
  },
  {
   "id": "event_2201_00C54",
@@ -680,8 +680,8 @@
    7207
   ],
   "jp": "{voice:000817}しかし、ここに至ってあなたに{n}種明かしをされるとは、{n}思いませんでしたよ。",
-  "en": "",
-  "status": ""
+  "en": "Still, I did not expect you to expose me at this point.",
+  "status": "done"
  },
  {
   "id": "event_2201_00CA1",
@@ -692,8 +692,8 @@
    7228
   ],
   "jp": "{voice:000917}帝都の街中で暴露すれば、{n}住民を人質に取られますから。",
-  "en": "",
-  "status": ""
+  "en": "If I had exposed you in the streets of the capital, you would have taken the people hostage.",
+  "status": "done"
  },
  {
   "id": "event_2201_00CDB",
@@ -704,8 +704,8 @@
    7249
   ],
   "jp": "{voice:000A17}なるほど……{n}敢えて黙っていた訳ですか。{n}あなたもなかなかの策士だ…",
-  "en": "",
-  "status": ""
+  "en": "I see... So you kept silent on purpose. You are quite the schemer yourself...",
+  "status": "done"
  },
  {
   "id": "event_2201_00D22",
@@ -716,8 +716,8 @@
    7256
   ],
   "jp": "{voice:000B17}まあですが、良いでしょう。{n}ここで消えるのですから。{n}ねえ、みなさん。",
-  "en": "",
-  "status": ""
+  "en": "Ah well, no matter. You will vanish here, after all. Won't you, everyone.",
+  "status": "done"
  },
  {
   "id": "event_2201_00D6B",
@@ -728,8 +728,8 @@
    7568
   ],
   "jp": "{voice:000C17}ネシア②{n}お前の目的を言えッ！",
-  "en": "",
-  "status": ""
+  "en": "Nessiah!! Tell me your goal!",
+  "status": "done"
  },
  {
   "id": "event_2201_00D8D",
@@ -752,8 +752,8 @@
    17890
   ],
   "jp": "{voice:000E17}ほう、竜騎兵相手に{n}よくやりますね…",
-  "en": "",
-  "status": ""
+  "en": "Oh, you do well against dragon knights...",
+  "status": "done"
  },
  {
   "id": "event_2201_00DC2",
@@ -764,8 +764,8 @@
    17897
   ],
   "jp": "{voice:000F17}さすがですよ、団長。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Impressive, Captain. Hehehe...",
+  "status": "done"
  },
  {
   "id": "event_2201_00DE4",
@@ -776,8 +776,8 @@
    19470
   ],
   "jp": "{voice:001017}何を企んでいる、ネシア！",
-  "en": "",
-  "status": ""
+  "en": "What are you plotting, Nessiah!",
+  "status": "done"
  },
  {
   "id": "event_2201_00E01",
@@ -788,8 +788,8 @@
    19518
   ],
   "jp": "{voice:001117}フフフ、いいでしょう、{n}ここまで生きてこられた褒美に{n}１つだけ教えてあげましょう。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe, very well. As a reward for surviving this far, I will tell you just one thing.",
+  "status": "done"
  },
  {
   "id": "event_2201_00E56",
@@ -800,8 +800,8 @@
    19525
   ],
   "jp": "{voice:001217}あなたよりも皇帝の方が{n}都合がいいのですよ。{n}戦乱の渦を巻き起こすためにはね。",
-  "en": "",
-  "status": ""
+  "en": "The Emperor is more convenient than you. For stirring up a whirlpool of war, that is.",
+  "status": "done"
  },
  {
   "id": "event_2201_00EA7",
@@ -812,8 +812,8 @@
    19546
   ],
   "jp": "{voice:001317}褒美の話は以上です。{n}さあ、死になさい！",
-  "en": "",
-  "status": ""
+  "en": "That concludes your reward. Now, die!",
+  "status": "done"
  },
  {
   "id": "event_2201_00ED3",
@@ -825,8 +825,8 @@
    7881
   ],
   "jp": "あら？{n}あなた、珍しい武器を{n}使っているのね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? That's an unusual weapon you're using.",
+  "status": "done"
  },
  {
   "id": "event_2201_00F00",
@@ -838,8 +838,8 @@
    7888
   ],
   "jp": "確か、集会場の奥の宝物庫に{n}似たような武器がしまってあった{n}気がするんだけど…",
-  "en": "",
-  "status": ""
+  "en": "I think there was a weapon like that stored in the treasure room at the back of the meeting hall...",
+  "status": "done"
  },
  {
   "id": "event_2201_00F4D",
@@ -851,8 +851,8 @@
    7895
   ],
   "jp": "あっ、あったわ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, here it is!",
+  "status": "done"
  },
  {
   "id": "event_2201_00F5E",
@@ -864,8 +864,8 @@
    7989
   ],
   "jp": "いいのよ、遠慮しないで。{n}こんな武器を使いこなせる人、{n}そうそういないんだから。",
-  "en": "",
-  "status": ""
+  "en": "It's fine, don't be shy. There aren't many who can handle a weapon like this.",
+  "status": "done"
  },
  {
   "id": "event_2201_00FAD",
@@ -877,8 +877,8 @@
    8013
   ],
   "jp": "う～ん。昔、ここいらで{n}妖精を見た事があるんだ。",
-  "en": "",
-  "status": ""
+  "en": "Hmmm. I saw a fairy around here once, long ago.",
+  "status": "done"
  },
  {
   "id": "event_2201_00FDD",
@@ -890,8 +890,8 @@
    8020
   ],
   "jp": "むむむ。いないなぁ…{n}どうしたら会えるんだろう？",
-  "en": "",
-  "status": ""
+  "en": "Hmm-hmm. None around... How can I meet one?",
+  "status": "done"
  },
  {
   "id": "event_2201_0100D",
@@ -903,8 +903,8 @@
    8027
   ],
   "jp": "…え？{n}その時の詳しい状況？{n}そうだなぁ…",
-  "en": "",
-  "status": ""
+  "en": "...Huh? The details of what happened then? Let's see...",
+  "status": "done"
  },
  {
   "id": "event_2201_01036",
@@ -916,8 +916,8 @@
    8034
   ],
   "jp": "あの時は、西に武器を運ぶ途中で{n}かなりの荷物があったんだ。",
-  "en": "",
-  "status": ""
+  "en": "Back then, I was hauling weapons west, with quite a load.",
+  "status": "done"
  },
  {
   "id": "event_2201_01070",
@@ -929,8 +929,8 @@
    8041
   ],
   "jp": "珍しい武器を運んでいたから{n}覚えているよ。{n}アレ、鎌っていうのかな？",
-  "en": "",
-  "status": ""
+  "en": "I remember because they were unusual weapons. Those things, I guess you call them scythes?",
+  "status": "done"
  },
  {
   "id": "event_2201_010B3",
@@ -949,8 +949,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "○○○○を拾ったぞ！",
-  "en": "",
-  "status": ""
+  "en": "Picked up ○○○○!",
+  "status": "done"
  },
  {
   "id": "event_2201_010D9",
@@ -986,8 +986,8 @@
    4450
   ],
   "jp": "ネシア屍兵団",
-  "en": "",
-  "status": ""
+  "en": "Nessiah Army",
+  "status": "done"
  },
  {
   "id": "event_2201_01219",
@@ -1010,8 +1010,8 @@
    28086
   ],
   "jp": "{voice:001417}戦乱の渦を起こすだって？{n}どういう事だ……",
-  "en": "",
-  "status": ""
+  "en": "Stir up a whirlpool of war? What's that supposed to mean...",
+  "status": "done"
  },
  {
   "id": "event_2201_04D0A",
@@ -1022,8 +1022,8 @@
    41586
   ],
   "jp": "{voice:001517}むうっ…、ぐくっ！",
-  "en": "",
-  "status": ""
+  "en": "Mngh... Gnngh!",
+  "status": "done"
  },
  {
   "id": "event_2201_04D21",
@@ -1034,8 +1034,8 @@
    47147
   ],
   "jp": "{voice:001617}団長、貴方は単一の武として、{n}素晴らしいものを持っています…",
-  "en": "",
-  "status": ""
+  "en": "Captain, as a lone warrior, you have something magnificent...",
+  "status": "done"
  },
  {
   "id": "event_2201_04D61",
@@ -1046,8 +1046,8 @@
    47168
   ],
   "jp": "{voice:001717}それだけに実に惜しい！{n}欲がない！　野心がない！{n}自我のために戦いをしない②",
-  "en": "",
-  "status": ""
+  "en": "Which makes it all the more a pity! You have no greed! No ambition! You do not fight for yourself!!",
+  "status": "done"
  },
  {
   "id": "event_2201_04DB0",
@@ -1058,8 +1058,8 @@
    47189
   ],
   "jp": "{voice:001817}ですから、ソルティエ陛下に{n}乗り換えたのですよ。",
-  "en": "",
-  "status": ""
+  "en": "And so I switched to His Majesty Soltier.",
+  "status": "done"
  },
  {
   "id": "event_2201_04DE4",
@@ -1070,8 +1070,8 @@
    47196
   ],
   "jp": "{voice:001917}もう帝国は動き出しています。{n}世界全てを戦乱が覆う日が遂に{n}近づいて来たのです！",
-  "en": "",
-  "status": ""
+  "en": "The Empire is already on the move. The day war covers the whole world is finally at hand!",
+  "status": "done"
  },
  {
   "id": "event_2201_04E37",
@@ -1082,8 +1082,8 @@
    47203
   ],
   "jp": "{voice:001A17}人が、数えきれぬほど死にます！{n}きっと、誰にも止める事は{n}できないでしょう…、フフフ…",
-  "en": "",
-  "status": ""
+  "en": "People will die in numbers beyond counting! Surely no one will be able to stop it... Hehehe...",
+  "status": "done"
  },
  {
   "id": "event_2201_04E90",
@@ -1094,8 +1094,8 @@
    47224
   ],
   "jp": "{voice:001B17}フフフ…{n}アーッハッハッハッハー②",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... Ahahahahahaha!!",
+  "status": "done"
  },
  {
   "id": "event_2201_04EB6",
@@ -1106,8 +1106,8 @@
    47893
   ],
   "jp": "{voice:001C17}何者だったんだ、アイツは…",
-  "en": "",
-  "status": ""
+  "en": "What was he, anyway...",
+  "status": "done"
  },
  {
   "id": "event_2201_04ED5",
@@ -1118,8 +1118,8 @@
    47900
   ],
   "jp": "{voice:001D17}戦乱の渦とか言っていたが、{n}どういう意味なんだ？{n}それに帝国が動き出したって…",
-  "en": "",
-  "status": ""
+  "en": "He was talking about a whirlpool of war, but what did that mean? And the Empire on the move...",
+  "status": "done"
  },
  {
   "id": "event_2201_04F26",
@@ -1130,8 +1130,8 @@
    47921
   ],
   "jp": "{voice:001E17}ベアトリーヌさん。{n}ネシアの不可解な行動に、{n}何か心当たりはありませんか？",
-  "en": "",
-  "status": ""
+  "en": "Baretreenu-san. Do you have any idea what's behind Nessiah's strange behavior?",
+  "status": "done"
  },
  {
   "id": "event_2201_04F73",
@@ -1142,8 +1142,8 @@
    47942
   ],
   "jp": "{voice:001F17}漠然とした予感のようなものが{n}あっただけなので、{n}具体的なところまでは、何も……",
-  "en": "",
-  "status": ""
+  "en": "It was only a vague premonition, so I can't say anything specific...",
+  "status": "done"
  },
  {
   "id": "event_2201_04FC6",
@@ -1154,8 +1154,8 @@
    47949
   ],
   "jp": "{voice:002017}ただ、夢の中で、彼は皇帝の横で{n}不気味に微笑んでいました。",
-  "en": "",
-  "status": ""
+  "en": "However, in my dream, he was smiling eerily at the Emperor's side.",
+  "status": "done"
  },
  {
   "id": "event_2201_05004",
@@ -1166,8 +1166,8 @@
    47970
   ],
   "jp": "{voice:002117}帝都に戻り、何か変化がないか{n}探ってみる事にしよう。",
-  "en": "",
-  "status": ""
+  "en": "Let us return to the capital, and find out whether anything has changed.",
+  "status": "done"
  },
  {
   "id": "event_2201_0503C",
@@ -1178,8 +1178,8 @@
    47977
   ],
   "jp": "{voice:002217}私が陛下に謁見を求める。{n}なに、手術の功績を作った直後だ。{n}嫌とは言わぬはずだ。",
-  "en": "",
-  "status": ""
+  "en": "I will request an audience with His Majesty. Why, after my part in the surgery, he should not refuse.",
+  "status": "done"
  },
  {
   "id": "event_2201_0508F",
@@ -1190,8 +1190,8 @@
    48082
   ],
   "jp": "{voice:002317}いや、それは難しいだろう。",
-  "en": "",
-  "status": ""
+  "en": "No, that would be difficult.",
+  "status": "done"
  },
  {
   "id": "event_2201_050AE",
@@ -1202,8 +1202,8 @@
    48106
   ],
   "jp": "{voice:002417}これは、親衛隊長のラピス殿か。{n}どうされたか？",
-  "en": "",
-  "status": ""
+  "en": "Why, Lapis-dono, the captain of the guard. What is the matter?",
+  "status": "done"
  },
  {
   "id": "event_2201_050E0",
@@ -1214,8 +1214,8 @@
    48127
   ],
   "jp": "{voice:002517}陛下は、もう帝都におらぬ。",
-  "en": "",
-  "status": ""
+  "en": "His Majesty is no longer in the capital.",
+  "status": "done"
  },
  {
   "id": "event_2201_050FF",
@@ -1226,8 +1226,8 @@
    48148
   ],
   "jp": "{voice:002617}それは急な…、どちらへ行かれた？",
-  "en": "",
-  "status": ""
+  "en": "So suddenly... Where has he gone?",
+  "status": "done"
  },
  {
   "id": "event_2201_05124",
@@ -1238,8 +1238,8 @@
    48169
   ],
   "jp": "{voice:002717}イシュナート要塞に向かわれた。",
-  "en": "",
-  "status": ""
+  "en": "He has left for Ishnart Fortress.",
+  "status": "done"
  },
  {
   "id": "event_2201_05147",
@@ -1250,8 +1250,8 @@
    48190
   ],
   "jp": "{voice:002817}イシュナート……{n}ファンタジニア王国との国境にある{n}要塞都市の事か？",
-  "en": "",
-  "status": ""
+  "en": "Ishnart... That fortress city on the border with the Kingdom of Fantasinia?",
+  "status": "done"
  },
  {
   "id": "event_2201_0518E",
@@ -1262,8 +1262,8 @@
    48201
   ],
   "jp": "{voice:002917}何故皇帝自ら前線に……",
-  "en": "",
-  "status": ""
+  "en": "Why would the Emperor go to the front himself...",
+  "status": "done"
  },
  {
   "id": "event_2201_051A9",
@@ -1274,8 +1274,8 @@
    48222
   ],
   "jp": "{voice:002A17}要塞で行われるのは、{n}ソルティエ陛下と国王との{n}２年に１度の首長会談だ。",
-  "en": "",
-  "status": ""
+  "en": "The fortress will host the summit between His Majesty Soltier and the King, held once every two years.",
+  "status": "done"
  },
  {
   "id": "event_2201_051F4",
@@ -1286,8 +1286,8 @@
    48243
   ],
   "jp": "{voice:002B17}ファンタジニア国王との会談……",
-  "en": "",
-  "status": ""
+  "en": "A summit with the King of Fantasinia...",
+  "status": "done"
  },
  {
   "id": "event_2201_05217",
@@ -1298,8 +1298,8 @@
    48264
   ],
   "jp": "{voice:002C17}首長会談は儀礼的なものだ。",
-  "en": "",
-  "status": ""
+  "en": "The summit is a ceremonial affair.",
+  "status": "done"
  },
  {
   "id": "event_2201_05236",
@@ -1310,8 +1310,8 @@
    48271
   ],
   "jp": "{voice:002D17}病明けでお身体に無理が出ても{n}よくない。会談を延期するように{n}提言したのだが……",
-  "en": "",
-  "status": ""
+  "en": "He has only just recovered, and overexertion would not do. I urged him to postpone the summit...",
+  "status": "done"
  },
  {
   "id": "event_2201_05289",
@@ -1322,8 +1322,8 @@
    48292
   ],
   "jp": "{voice:002E17}陛下はなんと？",
-  "en": "",
-  "status": ""
+  "en": "What did His Majesty say?",
+  "status": "done"
  },
  {
   "id": "event_2201_0529C",
@@ -1334,8 +1334,8 @@
    48313
   ],
   "jp": "{voice:002F17}私の提案を退け、そして…{n}私に暇を出された。",
-  "en": "",
-  "status": ""
+  "en": "He rejected my proposal, and then... dismissed me.",
+  "status": "done"
  },
  {
   "id": "event_2201_052CC",
@@ -1346,8 +1346,8 @@
    48405
   ],
   "jp": "{voice:003017}暇を出されたって……{n}え？　クビってこと？",
-  "en": "",
-  "status": ""
+  "en": "Dismissed you... Huh? You mean you got fired?",
+  "status": "done"
  },
  {
   "id": "event_2201_052FA",
@@ -1358,8 +1358,8 @@
    48426
   ],
   "jp": "{voice:003117}…陛下の命令には逆らえん。{n}私は城を出た。",
-  "en": "",
-  "status": ""
+  "en": "...I cannot disobey His Majesty's orders. I left the castle.",
+  "status": "done"
  },
  {
   "id": "event_2201_05328",
@@ -1370,8 +1370,8 @@
    48450
   ],
   "jp": "{voice:003217}バッカ正直ね、{n}それでアンタ、いいワケ？",
-  "en": "",
-  "status": ""
+  "en": "You're so stupidly honest. And you're okay with that?",
+  "status": "done"
  },
  {
   "id": "event_2201_05354",
@@ -1382,8 +1382,8 @@
    48471
   ],
   "jp": "{voice:003317}陛下の命令は、絶対なのだ。{n}何度も言わせるな、娘。",
-  "en": "",
-  "status": ""
+  "en": "His Majesty's orders are absolute. Don't make me repeat myself, girl.",
+  "status": "done"
  },
  {
   "id": "event_2201_0538A",
@@ -1394,8 +1394,8 @@
    48492
   ],
   "jp": "{voice:003417}それでも、おかしいと思ったなら、{n}従うだけが部下じゃないでしょ！",
-  "en": "",
-  "status": ""
+  "en": "Even so, if you think it's wrong, a good subordinate does more than just obey!",
+  "status": "done"
  },
  {
   "id": "event_2201_053CE",
@@ -1406,8 +1406,8 @@
    48513
   ],
   "jp": "{voice:003517}毎度言う娘だ。{n}しかも芯を突いてくる……{n}よく今まで殺されなかったものだ。",
-  "en": "",
-  "status": ""
+  "en": "You always have something to say, girl. And you get right to the core... I'm amazed you've lived this long.",
+  "status": "done"
  },
  {
   "id": "event_2201_0541B",
@@ -1418,8 +1418,8 @@
    48591
   ],
   "jp": "{voice:003617}それで、これから{n}どうするおつもりなのです？",
-  "en": "",
-  "status": ""
+  "en": "And what do you intend to do now?",
+  "status": "done"
  },
  {
   "id": "event_2201_0544B",
@@ -1430,8 +1430,8 @@
    48612
   ],
   "jp": "{voice:003717}暇をだされたとはいえ、{n}陛下の事は気になる。私は{n}イシュナートに向かうつもりだ。",
-  "en": "",
-  "status": ""
+  "en": "Dismissed or not, I am concerned for His Majesty. I intend to go to Ishnart.",
+  "status": "done"
  },
  {
   "id": "event_2201_0549E",
@@ -1442,8 +1442,8 @@
    48619
   ],
   "jp": "{voice:003817}しかしその前に、{n}ベアトリーヌ殿に陛下の{n}変化について伺おうと思ったのだ。",
-  "en": "",
-  "status": ""
+  "en": "But before that, I meant to ask Baretreenu-dono about the change in His Majesty.",
+  "status": "done"
  },
  {
   "id": "event_2201_054EB",
@@ -1454,8 +1454,8 @@
    48697
   ],
   "jp": "{voice:003917}ヴェルマン、ネシアは戦乱の渦を{n}巻き起こすって、言ってたよな…",
-  "en": "",
-  "status": ""
+  "en": "Velleman, Nessiah said he'd stir up a whirlpool of war, right...",
+  "status": "done"
  },
  {
   "id": "event_2201_0552D",
@@ -1466,8 +1466,8 @@
    48718
   ],
   "jp": "{voice:003A17}ああ、ベアトリーヌ殿の予感も{n}合わせると、やはりネシアが{n}仕掛けたと見ていいだろう……",
-  "en": "",
-  "status": ""
+  "en": "Yes. Together with Baretreenu-dono's premonition, it is safe to say Nessiah was behind this...",
+  "status": "done"
  },
  {
   "id": "event_2201_05586",
@@ -1478,8 +1478,8 @@
    48739
   ],
   "jp": "{voice:003B17}なんだ？{n}貴様達、一体何を話している？",
-  "en": "",
-  "status": ""
+  "en": "What? What are you people talking about?",
+  "status": "done"
  },
  {
   "id": "event_2201_055B0",
@@ -1490,8 +1490,8 @@
    48831
   ],
   "jp": "{voice:003C17}端的に申し上げますが、{n}手術に同席したネシアという者が、{n}陛下に一服盛った疑いがあります。",
-  "en": "",
-  "status": ""
+  "en": "To be blunt, we suspect that Nessiah, who attended the surgery, slipped His Majesty something.",
+  "status": "done"
  },
  {
   "id": "event_2201_0560D",
@@ -1502,8 +1502,8 @@
    48855
   ],
   "jp": "{voice:003D17}なんと無礼な……！{n}貴様達も含め、私がこの手で{n}即刻手討ちにしてくれるッ②",
-  "en": "",
-  "status": ""
+  "en": "How dare you...! You too will answer for this. I'll cut you down with my own hand, here and now!!",
+  "status": "done"
  },
  {
   "id": "event_2201_0565A",
@@ -1514,8 +1514,8 @@
    48876
   ],
   "jp": "{voice:003E17}ネシアは既に始末しました。{n}ただ、陛下がイシュナート要塞に{n}向かったのが気になります。",
-  "en": "",
-  "status": ""
+  "en": "Nessiah has already been dealt with. But I am concerned that His Majesty has gone to Ishnart Fortress.",
+  "status": "done"
  },
  {
   "id": "event_2201_056B3",
@@ -1526,8 +1526,8 @@
    48897
   ],
   "jp": "{voice:003F17}貴様達も同罪だ！{n}そこに直れッ②",
-  "en": "",
-  "status": ""
+  "en": "You share his guilt! Kneel, right there!!",
+  "status": "done"
  },
  {
   "id": "event_2201_056D7",
@@ -1538,8 +1538,8 @@
    48918
   ],
   "jp": "{voice:004017}今はそんな事を言ってる{n}場合じゃねぇだろ！",
-  "en": "",
-  "status": ""
+  "en": "This is no time to be talking like that!",
+  "status": "done"
  },
  {
   "id": "event_2201_05705",

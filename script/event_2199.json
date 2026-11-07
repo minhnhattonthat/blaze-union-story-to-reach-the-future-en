@@ -8,8 +8,8 @@
    10170
   ],
   "jp": "{voice:00FD15}うーん……{n}どうもさ、納得いかないのよね。",
-  "en": "",
-  "status": ""
+  "en": "Hmmm... I just can't feel right about this.",
+  "status": "done"
  },
  {
   "id": "event_2199_00056",
@@ -20,8 +20,8 @@
    10191
   ],
   "jp": "{voice:00FE15}皇帝の病を治療する事がかい？",
-  "en": "",
-  "status": ""
+  "en": "About curing the Emperor's illness?",
+  "status": "done"
  },
  {
   "id": "event_2199_00077",
@@ -32,8 +32,8 @@
    10198
   ],
   "jp": "{voice:00FF15}だけど、皇帝が死ねば、{n}内戦になってしまいかねないよ。",
-  "en": "",
-  "status": ""
+  "en": "But if the Emperor dies, it could turn into civil war.",
+  "status": "done"
  },
  {
   "id": "event_2199_000B1",
@@ -44,8 +44,8 @@
    10219
   ],
   "jp": "{voice:000016}でも、この国が混乱しているのは{n}皇帝のせいでもあるワケじゃん。",
-  "en": "",
-  "status": ""
+  "en": "But the Emperor's part of why this country's in chaos, you know.",
+  "status": "done"
  },
  {
   "id": "event_2199_000F3",
@@ -56,8 +56,8 @@
    10226
   ],
   "jp": "{voice:000116}それなのに治療するなんてさ…",
-  "en": "",
-  "status": ""
+  "en": "And we're going to cure him anyway...",
+  "status": "done"
  },
  {
   "id": "event_2199_00114",
@@ -68,8 +68,8 @@
    10247
   ],
   "jp": "{voice:000216}その気持ちもわかります。",
-  "en": "",
-  "status": ""
+  "en": "I understand how you feel.",
+  "status": "done"
  },
  {
   "id": "event_2199_00131",
@@ -80,8 +80,8 @@
    10254
   ],
   "jp": "{voice:000316}しかし、{n}皇帝の覇権を求める意思は{n}魔竜との契約がもたらしたもの…",
-  "en": "",
-  "status": ""
+  "en": "However, the Emperor's will to dominate comes from the pact with the demon dragon...",
+  "status": "done"
  },
  {
   "id": "event_2199_00176",
@@ -92,8 +92,8 @@
    10261
   ],
   "jp": "{voice:000416}代々皇族は魔竜の血を飲み、{n}儀式を行って契約を行います。",
-  "en": "",
-  "status": ""
+  "en": "For generations the imperial family has drunk the demon dragon's blood and made the pact through ritual.",
+  "status": "done"
  },
  {
   "id": "event_2199_001B2",
@@ -104,8 +104,8 @@
    10282
   ],
   "jp": "{voice:000516}魔竜の血なんて、あるんだ？",
-  "en": "",
-  "status": ""
+  "en": "There's such a thing as demon dragon blood?",
+  "status": "done"
  },
  {
   "id": "event_2199_001D1",
@@ -116,8 +116,8 @@
    10303
   ],
   "jp": "{voice:000616}魔竜ブロンガは、勿論死んでいる。{n}残された魔竜の骨髄を削り、{n}口にするのだ。",
-  "en": "",
-  "status": ""
+  "en": "The demon dragon Brongaa is dead, of course. They shave off its remaining marrow and swallow it.",
+  "status": "done"
  },
  {
   "id": "event_2199_00220",
@@ -128,8 +128,8 @@
    10327
   ],
   "jp": "{voice:000716}げげっ……",
-  "en": "",
-  "status": ""
+  "en": "Ewww...",
+  "status": "done"
  },
  {
   "id": "event_2199_0022F",
@@ -140,8 +140,8 @@
    10348
   ],
   "jp": "{voice:000816}血と儀式に耐性のない者は、{n}即座に死に至る強力な契約です。",
-  "en": "",
-  "status": ""
+  "en": "It is a powerful pact. Those with no tolerance for the blood and the ritual die at once.",
+  "status": "done"
  },
  {
   "id": "event_2199_0026D",
@@ -152,8 +152,8 @@
    10355
   ],
   "jp": "{voice:000916}多分、ソルティエ帝の身体は、{n}徐々にですが魔竜の血と儀式に{n}蝕まれていったのです。",
-  "en": "",
-  "status": ""
+  "en": "Most likely, the blood and the ritual have slowly been eating away at Emperor Soltier's body.",
+  "status": "done"
  },
  {
   "id": "event_2199_002C2",
@@ -164,8 +164,8 @@
    10446
   ],
   "jp": "{voice:000A16}魔竜の血が、生きた人間に{n}影響を与えるってコトか。{n}…おぞましいなぁ。",
-  "en": "",
-  "status": ""
+  "en": "So the demon dragon's blood affects a livin' person, huh. ...That's gross.",
+  "status": "done"
  },
  {
   "id": "event_2199_0030B",
@@ -176,8 +176,8 @@
    10362
   ],
   "jp": "{voice:000B16}決して、彼自身の業だけが{n}もたらしたものではないのです。",
-  "en": "",
-  "status": ""
+  "en": "It did not come only from his own misdeeds.",
+  "status": "done"
  },
  {
   "id": "event_2199_00347",
@@ -188,8 +188,8 @@
    10522
   ],
   "jp": "{voice:000C16}えー、そうなんだ。{n}でもさ、そう言われてもねぇ……",
-  "en": "",
-  "status": ""
+  "en": "Huh, is that so. But even if you tell me that...",
+  "status": "done"
  },
  {
   "id": "event_2199_0037D",
@@ -200,8 +200,8 @@
    10543
   ],
   "jp": "{voice:000D16}魔竜の血と契約の副作用？",
-  "en": "",
-  "status": ""
+  "en": "A side effect of the demon dragon's blood and the pact?",
+  "status": "done"
  },
  {
   "id": "event_2199_0039A",
@@ -212,8 +212,8 @@
    10564
   ],
   "jp": "{voice:000E16}魔竜の血の本質は、{n}破壊と犠牲、そして侵略の力です。",
-  "en": "",
-  "status": ""
+  "en": "The essence of the demon dragon's blood is the power of destruction, sacrifice and invasion.",
+  "status": "done"
  },
  {
   "id": "event_2199_003D2",
@@ -224,8 +224,8 @@
    10571
   ],
   "jp": "{voice:000F16}力を行使すればするほど、{n}人間性は失われていく……{n}そういうものなのです。",
-  "en": "",
-  "status": ""
+  "en": "The more you use that power, the more humanity you lose... That is how it works.",
+  "status": "done"
  },
  {
   "id": "event_2199_0041F",
@@ -236,8 +236,8 @@
    10592
   ],
   "jp": "{voice:001016}……そうか、魔竜か。",
-  "en": "",
-  "status": ""
+  "en": "...I see. The demon dragon.",
+  "status": "done"
  },
  {
   "id": "event_2199_00438",
@@ -248,8 +248,8 @@
    10613
   ],
   "jp": "{voice:001116}私の研究の成果が、{n}彼を苦しみから解き放てれば{n}幸いだと考えます。",
-  "en": "",
-  "status": ""
+  "en": "I would count it a blessing if the fruits of my research could free him from his suffering.",
+  "status": "done"
  },
  {
   "id": "event_2199_0047D",
@@ -260,8 +260,8 @@
    10634
   ],
   "jp": "{voice:001216}……なるほど。",
-  "en": "",
-  "status": ""
+  "en": "...I see.",
+  "status": "done"
  },
  {
   "id": "event_2199_00490",
@@ -272,8 +272,8 @@
    10685
   ],
   "jp": "{voice:001316}もし今回の治療が成功すれば、{n}皇帝との関係も変わるのかも…",
-  "en": "",
-  "status": ""
+  "en": "If this treatment works, things might change between us and the Emperor...",
+  "status": "done"
  },
  {
   "id": "event_2199_004CE",
@@ -284,8 +284,8 @@
    10706
   ],
   "jp": "{voice:001416}ヴェルマン方伯の変革の手助けを{n}してくれるかもしれませんね。",
-  "en": "",
-  "status": ""
+  "en": "He might help Margrave Velleman with his reforms.",
+  "status": "done"
  },
  {
   "id": "event_2199_0050E",
@@ -296,8 +296,8 @@
    10727
   ],
   "jp": "{voice:001516}ヴェルマンが国政に関わるの？{n}で、私達は帝国のために今よりも{n}コキ使われるワケか……",
-  "en": "",
-  "status": ""
+  "en": "So Velleman gets involved in running the country? And we get worked even harder for the Empire...",
+  "status": "done"
  },
  {
   "id": "event_2199_00565",
@@ -308,8 +308,8 @@
    10748
   ],
   "jp": "{voice:001616}仮定の話をいくらしても、{n}それは無駄というものです。",
-  "en": "",
-  "status": ""
+  "en": "Going on about what-ifs is a waste of breath.",
+  "status": "done"
  },
  {
   "id": "event_2199_0059D",
@@ -320,8 +320,8 @@
    10832
   ],
   "jp": "{voice:001716}仮定の話も許さないとは、{n}ネシアも頭がかてぇな。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "No what-ifs? Nessiah has a stiff head. That is what-iff. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2199_005E0",
@@ -332,8 +332,8 @@
    10769
   ],
   "jp": "{voice:001816}そうだな…、{n}早く上洛の準備を進めよう。",
-  "en": "",
-  "status": ""
+  "en": "Right... Let's hurry up and get ready to head for the capital.",
+  "status": "done"
  },
  {
   "id": "event_2199_0060C",
@@ -344,8 +344,8 @@
    10876
   ],
   "jp": "{voice:001916}しかし、{n}ブロンキア帝国と魔竜とは{n}やはり関係が深いのだな。",
-  "en": "",
-  "status": ""
+  "en": "Still, the Bronquia Empire really is deeply tied to the demon dragon.",
+  "status": "done"
  },
  {
   "id": "event_2199_0064B",
@@ -356,8 +356,8 @@
    10983
   ],
   "jp": "{voice:001A16}うわっ！{n}なに？　なによ、これっ②",
-  "en": "",
-  "status": ""
+  "en": "Whoa! What? What is this!!",
+  "status": "done"
  },
  {
   "id": "event_2199_00671",
@@ -368,8 +368,8 @@
    11004
   ],
   "jp": "{voice:001B16}敵襲だ！{n}シスキア、早く邸宅に入って②",
-  "en": "",
-  "status": ""
+  "en": "An enemy attack! Siskier, get in the mansion, quick!!",
+  "status": "done"
  },
  {
   "id": "event_2199_0069B",
@@ -380,8 +380,8 @@
    11190
   ],
   "jp": "{voice:001C16}でてこーい、ガーロット②{n}今日こそ絶対の絶対に{n}決着をつけてやるんだから！",
-  "en": "",
-  "status": ""
+  "en": "Come out, Garlot!! Today Cerica's gonna settle this, absolutely, positively!",
+  "status": "done"
  },
  {
   "id": "event_2199_006E8",
@@ -392,8 +392,8 @@
    11718
   ],
   "jp": "{voice:001D16}なんだよ、こんな時に。{n}しばらく会わないから、{n}諦めたと思ってたのに……",
-  "en": "",
-  "status": ""
+  "en": "What, at a time like this? Haven't seen her in a while, I figured she'd given up...",
+  "status": "done"
  },
  {
   "id": "event_2199_00733",
@@ -404,8 +404,8 @@
    11739
   ],
   "jp": "{voice:001E16}彼女は？",
-  "en": "",
-  "status": ""
+  "en": "Who is she?",
+  "status": "done"
  },
  {
   "id": "event_2199_00740",
@@ -416,8 +416,8 @@
    11760
   ],
   "jp": "{voice:001F16}話せば長くなるんだけど…{n}私達が退治した悪党の部下で、{n}それ以来付け狙われているの。",
-  "en": "",
-  "status": ""
+  "en": "It's a long story... She worked for a crook we took down, and she's been after us ever since.",
+  "status": "done"
  },
  {
   "id": "event_2199_00797",
@@ -428,8 +428,8 @@
    11781
   ],
   "jp": "{voice:002016}…なるほど。{n}では、戦いになるのですね。",
-  "en": "",
-  "status": ""
+  "en": "...I see. Then there will be a battle.",
+  "status": "done"
  },
  {
   "id": "event_2199_007C3",
@@ -440,8 +440,8 @@
    11788
   ],
   "jp": "{voice:002116}このカードを使ってください。{n}相手の力を無力化できるはずです。",
-  "en": "",
-  "status": ""
+  "en": "Please use this card. It should nullify her power.",
+  "status": "done"
  },
  {
   "id": "event_2199_00805",
@@ -452,8 +452,8 @@
    11895
   ],
   "jp": "{voice:002216}チョー時間掛かったけど、やっと{n}秘密基地を見つけたんだから！{n}さぁ、勝負しろーー！",
-  "en": "",
-  "status": ""
+  "en": "It took, like, forever, but Cerica finally found your secret base! Now, fight meee!",
+  "status": "done"
  },
  {
   "id": "event_2199_0085A",
@@ -464,8 +464,8 @@
    11943
   ],
   "jp": "{voice:002316}アイツ、ほんとに諦めが悪いな。{n}やるしか、ないのか……",
-  "en": "",
-  "status": ""
+  "en": "That girl really doesn't know when to quit. I guess we've got no choice...",
+  "status": "done"
  },
  {
   "id": "event_2199_00894",
@@ -476,8 +476,8 @@
    12148
   ],
   "jp": "{voice:002416}…悪いな。{n}出発前から、俺達の都合に{n}巻き込んでしまって。",
-  "en": "",
-  "status": ""
+  "en": "...Sorry. Dragging you into our problems before we've even left.",
+  "status": "done"
  },
  {
   "id": "event_2199_008D1",
@@ -488,8 +488,8 @@
    12169
   ],
   "jp": "{voice:002516}仕方のない事情だと思います。",
-  "en": "",
-  "status": ""
+  "en": "It seems to be unavoidable.",
+  "status": "done"
  },
  {
   "id": "event_2199_008F2",
@@ -500,8 +500,8 @@
    12176
   ],
   "jp": "{voice:002616}しかし、ご配慮は無用です。{n}私も自分の身くらいは守れます。",
-  "en": "",
-  "status": ""
+  "en": "But there is no need to worry about me. I can at least protect myself.",
+  "status": "done"
  },
  {
   "id": "event_2199_00930",
@@ -512,8 +512,8 @@
    15915
   ],
   "jp": "{voice:002716}あああっ！",
-  "en": "",
-  "status": ""
+  "en": "Aaaah!",
+  "status": "done"
  },
  {
   "id": "event_2199_0093F",
@@ -524,8 +524,8 @@
    22352
   ],
   "jp": "{voice:002816}うぅぅぅぅ…、どうしてなの…{n}どうしてセリカの想いは届かない…",
-  "en": "",
-  "status": ""
+  "en": "Uuuugh... Why... Why won't Cerica's feelings reach him...",
+  "status": "done"
  },
  {
   "id": "event_2199_00981",
@@ -536,8 +536,8 @@
    22373
   ],
   "jp": "{voice:002916}セリカ、もうやめにしよう。",
-  "en": "",
-  "status": ""
+  "en": "Cerica, let's end this.",
+  "status": "done"
  },
  {
   "id": "event_2199_009A0",
@@ -548,8 +548,8 @@
    22394
   ],
   "jp": "{voice:002A16}イヤだっつーのッ②{n}敵討ちは諦めないっつーの！",
-  "en": "",
-  "status": ""
+  "en": "No way, I said!! Cerica's not giving up on revenge!",
+  "status": "done"
  },
  {
   "id": "event_2199_009D2",
@@ -560,8 +560,8 @@
    22415
   ],
   "jp": "{voice:002B16}グラムブレイズはもう{n}軍程の大きな組織だ。{n}お前達じゃ絶対に勝てない。",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze is an organization the size of an army now. You guys can't win.",
+  "status": "done"
  },
  {
   "id": "event_2199_00A1B",
@@ -572,8 +572,8 @@
    22436
   ],
   "jp": "{voice:002C16}ヤだって言ってんだろ！{n}誰が言っても諦めないもんねー！",
-  "en": "",
-  "status": ""
+  "en": "I said no way! Cerica won't give up, no matter who says it!",
+  "status": "done"
  },
  {
   "id": "event_2199_00A55",
@@ -584,8 +584,8 @@
    22457
   ],
   "jp": "{voice:002D16}ならば、俺はお前をいつか本当に{n}殺さなきゃいけない……",
-  "en": "",
-  "status": ""
+  "en": "Then someday I'm really going to have to kill you...",
+  "status": "done"
  },
  {
   "id": "event_2199_00A8F",
@@ -596,8 +596,8 @@
    22478
   ],
   "jp": "{voice:002E16}上等じゃん、やってみなさいよ！{n}来なさい！　差し違えてやる②",
-  "en": "",
-  "status": ""
+  "en": "Fine by Cerica, try it! Come on! Cerica'll take you down with her!!",
+  "status": "done"
  },
  {
   "id": "event_2199_00ACF",
@@ -608,8 +608,8 @@
    22526
   ],
   "jp": "{voice:002F16}セリカさん。{n}あなたは何故戦うのです？",
-  "en": "",
-  "status": ""
+  "en": "Cerica-san. Why do you fight?",
+  "status": "done"
  },
  {
   "id": "event_2199_00AF9",
@@ -620,8 +620,8 @@
    22547
   ],
   "jp": "{voice:003016}だからさっきも言ったろ！{n}デイヴィド隊長の仇を討つんだよ②",
-  "en": "",
-  "status": ""
+  "en": "Cerica told you already! To avenge Captain David!!",
+  "status": "done"
  },
  {
   "id": "event_2199_00B37",
@@ -632,8 +632,8 @@
    22568
   ],
   "jp": "{voice:003116}その方が、グラムブレイズに{n}なぜ討たれたのか……{n}理由を考えた事がありますか？",
-  "en": "",
-  "status": ""
+  "en": "Have you ever considered why he was struck down by Gram Blaze...?",
+  "status": "done"
  },
  {
   "id": "event_2199_00B88",
@@ -644,8 +644,8 @@
    22575
   ],
   "jp": "{voice:003216}討たれるだけの何かを、{n}彼が行ったからではないですか？",
-  "en": "",
-  "status": ""
+  "en": "Isn't it because he did something that deserved it?",
+  "status": "done"
  },
  {
   "id": "event_2199_00BC2",
@@ -656,8 +656,8 @@
    22596
   ],
   "jp": "{voice:003316}そんなの関係ねぇっつーの！",
-  "en": "",
-  "status": ""
+  "en": "Like Cerica cares about that!",
+  "status": "done"
  },
  {
   "id": "event_2199_00BE1",
@@ -668,8 +668,8 @@
    22617
   ],
   "jp": "{voice:003416}関係ないはずがありません。",
-  "en": "",
-  "status": ""
+  "en": "It can't be nothing to do with it.",
+  "status": "done"
  },
  {
   "id": "event_2199_00C00",
@@ -678,8 +678,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:003516}戦いに身を投じる者は、{n}傷つき、傷つけられる覚悟を{n}しなければなりません。",
-  "en": "",
-  "status": ""
+  "en": "Those who throw themselves into battle must be ready to be hurt, and to hurt others.",
+  "status": "done"
  },
  {
   "id": "event_2199_00C4D",
@@ -690,8 +690,8 @@
    22635
   ],
   "jp": "{voice:003616}死者を悼み、悲しむのが悪いとは、{n}決して言いません……",
-  "en": "",
-  "status": ""
+  "en": "I will never say it is wrong to mourn and grieve for the dead...",
+  "status": "done"
  },
  {
   "id": "event_2199_00C87",
@@ -702,8 +702,8 @@
    22642
   ],
   "jp": "{voice:003716}ですが、一人で悲しみを受け切れ{n}ないからと言って、それを敵意に{n}置き換えてよいのですか？",
-  "en": "",
-  "status": ""
+  "en": "But because you can't bear the grief alone, is it right to turn it into hatred?",
+  "status": "done"
  },
  {
   "id": "event_2199_00CE2",
@@ -714,8 +714,8 @@
    22690
   ],
   "jp": "{voice:003816}な、なによそれ……",
-  "en": "",
-  "status": ""
+  "en": "Wh-What's that supposed to mean...",
+  "status": "done"
  },
  {
   "id": "event_2199_00CF9",
@@ -726,8 +726,8 @@
    22711
   ],
   "jp": "{voice:003916}認めなさい。{n}あなたは悲しみに付き合わせて、{n}何人の部下を失ったのですか？",
-  "en": "",
-  "status": ""
+  "en": "Admit it. How many of your men have you lost, dragging them along in your grief?",
+  "status": "done"
  },
  {
   "id": "event_2199_00D46",
@@ -738,8 +738,8 @@
    22718
   ],
   "jp": "{voice:003A16}あなたの悲しみは、{n}他人を不幸にしています。",
-  "en": "",
-  "status": ""
+  "en": "Your grief is making others miserable.",
+  "status": "done"
  },
  {
   "id": "event_2199_00D76",
@@ -750,8 +750,8 @@
    22742
   ],
   "jp": "{voice:003B16}……そ、それを言うなーっ！",
-  "en": "",
-  "status": ""
+  "en": "...D-Don't you say that!",
+  "status": "done"
  },
  {
   "id": "event_2199_00D95",
@@ -762,8 +762,8 @@
    22763
   ],
   "jp": "{voice:003C16}乗り越えなさい、仲間の死を。{n}ただ悼みつつ……",
-  "en": "",
-  "status": ""
+  "en": "Get past your comrade's death. Simply mourn him...",
+  "status": "done"
  },
  {
   "id": "event_2199_00DC7",
@@ -774,8 +774,8 @@
    22784
   ],
   "jp": "{voice:003D16}でも、どうしようもなく{n}悲しいんだよ……",
-  "en": "",
-  "status": ""
+  "en": "But it hurts so much and Cerica can't do anything about it...",
+  "status": "done"
  },
  {
   "id": "event_2199_00DF3",
@@ -786,8 +786,8 @@
    22791
   ],
   "jp": "{voice:003E16}デイヴィド隊長は{n}私を拾って育ててくれたのよ……",
-  "en": "",
-  "status": ""
+  "en": "Captain David picked me up and raised me...",
+  "status": "done"
  },
  {
   "id": "event_2199_00E27",
@@ -798,8 +798,8 @@
    22798
   ],
   "jp": "{voice:003F16}私はこれから、どうやって{n}生きていけばいいのよ……",
-  "en": "",
-  "status": ""
+  "en": "How am I supposed to go on living now...",
+  "status": "done"
  },
  {
   "id": "event_2199_00E5D",
@@ -822,8 +822,8 @@
    22870
   ],
   "jp": "{voice:004116}もう何も言うなー！",
-  "en": "",
-  "status": ""
+  "en": "Don't say anything else!",
+  "status": "done"
  },
  {
   "id": "event_2199_00E83",
@@ -834,8 +834,8 @@
    22891
   ],
   "jp": "{voice:004216}わかってんだよ、{n}だけどどうにもならないんだよ。",
-  "en": "",
-  "status": ""
+  "en": "I know, but I can't help it.",
+  "status": "done"
  },
  {
   "id": "event_2199_00EB7",
@@ -846,8 +846,8 @@
    22912
   ],
   "jp": "{voice:004316}セリカ、後ろを見て。{n}あなたに付いてきている部下を。",
-  "en": "",
-  "status": ""
+  "en": "Cerica, look behind you. At the men who follow you.",
+  "status": "done"
  },
  {
   "id": "event_2199_00EEF",
@@ -858,8 +858,8 @@
    23278
   ],
   "jp": "{voice:004416}あなたを失えば、{n}あの人達はどうなるの？",
-  "en": "",
-  "status": ""
+  "en": "If they lose you, what will become of them?",
+  "status": "done"
  },
  {
   "id": "event_2199_00F1B",
@@ -870,8 +870,8 @@
    23285
   ],
   "jp": "{voice:004516}これ以上不幸の連鎖を繋げては{n}なにも生まれないわ。",
-  "en": "",
-  "status": ""
+  "en": "If you keep this chain of misery going, nothing will come of it.",
+  "status": "done"
  },
  {
   "id": "event_2199_00F51",
@@ -882,8 +882,8 @@
    23337
   ],
   "jp": "{voice:004616}生きなさいセリカ。{n}そして、好きな人を見つけて、{n}子を産み、育てるのです。",
-  "en": "",
-  "status": ""
+  "en": "Live, Cerica. And find someone you love, and have children, and raise them.",
+  "status": "done"
  },
  {
   "id": "event_2199_00F9E",
@@ -894,8 +894,8 @@
    23344
   ],
   "jp": "{voice:004716}部下にもそう望みなさい。{n}それが、生の連鎖。",
-  "en": "",
-  "status": ""
+  "en": "Wish the same for your men. That is the chain of life.",
+  "status": "done"
  },
  {
   "id": "event_2199_00FCE",
@@ -906,8 +906,8 @@
    23412
   ],
   "jp": "{voice:004816}……今は引く、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "...Cerica's backing off for now, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2199_00FED",
@@ -918,8 +918,8 @@
    23419
   ],
   "jp": "{voice:004916}怨みは決して消さない。",
-  "en": "",
-  "status": ""
+  "en": "The grudge will never go away.",
+  "status": "done"
  },
  {
   "id": "event_2199_01008",
@@ -930,8 +930,8 @@
    23440
   ],
   "jp": "{voice:004A16}分かってる。",
-  "en": "",
-  "status": ""
+  "en": "I know.",
+  "status": "done"
  },
  {
   "id": "event_2199_01019",
@@ -942,8 +942,8 @@
    23461
   ],
   "jp": "{voice:004B16}だけど、アンタの顔はもう見ない。{n}悲しみが止められないから。",
-  "en": "",
-  "status": ""
+  "en": "But Cerica won't look at your face anymore. Because then the grief won't stop.",
+  "status": "done"
  },
  {
   "id": "event_2199_01059",
@@ -954,8 +954,8 @@
    23748
   ],
   "jp": "{voice:004C16}すごいな…、あのセリカを{n}引き下がらせるなんて。",
-  "en": "",
-  "status": ""
+  "en": "Amazing... Getting that Cerica to back down.",
+  "status": "done"
  },
  {
   "id": "event_2199_0108D",
@@ -966,8 +966,8 @@
    23769
   ],
   "jp": "{voice:004D16}自分の感情に素直過ぎるのです。{n}彼女はきっと乗り越えてくれます。{n}そして、生きる事を選ぶでしょう。",
-  "en": "",
-  "status": ""
+  "en": "She is too honest with her feelings. She will get past this, I'm sure. And she will choose to live.",
+  "status": "done"
  },
  {
   "id": "event_2199_010F2",
@@ -978,8 +978,8 @@
    24274
   ],
   "jp": "{voice:004E16}なんか…、ふぅー{n}ちょっと涙が出ちゃったよ。",
-  "en": "",
-  "status": ""
+  "en": "Somehow... Whew. I got a little teary.",
+  "status": "done"
  },
  {
   "id": "event_2199_01122",
@@ -990,8 +990,8 @@
    24295
   ],
   "jp": "{voice:004F16}温かい、言葉だったな。",
-  "en": "",
-  "status": ""
+  "en": "Those were warm words.",
+  "status": "done"
  },
  {
   "id": "event_2199_0113D",
@@ -1002,8 +1002,8 @@
    24316
   ],
   "jp": "{voice:005016}そして、独特の迫力があった。{n}なんか母親みたいな感じだった。",
-  "en": "",
-  "status": ""
+  "en": "And she had a presence all her own. She came across kind of like a mother.",
+  "status": "done"
  },
  {
   "id": "event_2199_0117D",
@@ -1014,8 +1014,8 @@
    24337
   ],
   "jp": "{voice:005116}そっか…、お母さんって{n}あんな感じなのか。",
-  "en": "",
-  "status": ""
+  "en": "I see... So that's what moms are like.",
+  "status": "done"
  },
  {
   "id": "event_2199_011AB",
@@ -1026,8 +1026,8 @@
    24385
   ],
   "jp": "{voice:005216}ねぇ、ベアトリーヌさんに{n}子供っているの？",
-  "en": "",
-  "status": ""
+  "en": "Hey, Baretreenu-san, do you have kids?",
+  "status": "done"
  },
  {
   "id": "event_2199_011D9",
@@ -1038,8 +1038,8 @@
    24406
   ],
   "jp": "{voice:005316}ええ、一人だけ。{n}しかし、物心つく前に離れ離れに{n}なってしまいました……",
-  "en": "",
-  "status": ""
+  "en": "Yes, just one. But we were separated before the child was old enough to remember...",
+  "status": "done"
  },
  {
   "id": "event_2199_01224",
@@ -1050,8 +1050,8 @@
    24427
   ],
   "jp": "{voice:005416}あの私…、ごめんなさい、{n}なんだか悪いこと聞いちゃった。",
-  "en": "",
-  "status": ""
+  "en": "Um, I... I'm sorry, I shouldn't have asked.",
+  "status": "done"
  },
  {
   "id": "event_2199_01260",
@@ -1062,8 +1062,8 @@
    24448
   ],
   "jp": "{voice:005516}……気にする事はないですよ。",
-  "en": "",
-  "status": ""
+  "en": "...Please don't worry about it.",
+  "status": "done"
  },
  {
   "id": "event_2199_01281",
@@ -1074,8 +1074,8 @@
    24595
   ],
   "jp": "{voice:005616}ふわぁ～あ、よく寝た…",
-  "en": "",
-  "status": ""
+  "en": "Fwaaah, that was a good nap...",
+  "status": "done"
  },
  {
   "id": "event_2199_0129C",
@@ -1086,8 +1086,8 @@
    24616
   ],
   "jp": "{voice:005716}エイミ…、ねぇ、ひょっとして{n}今までお昼寝してたの？",
-  "en": "",
-  "status": ""
+  "en": "Eimi... Hey, have you been napping this whole time?",
+  "status": "done"
  },
  {
   "id": "event_2199_012D4",
@@ -1098,8 +1098,8 @@
    24637
   ],
   "jp": "{voice:005816}…うん、そうだけど。{n}何かあったの？",
-  "en": "",
-  "status": ""
+  "en": "...Yeah, I have. Did something happen?",
+  "status": "done"
  },
  {
   "id": "event_2199_012FC",
@@ -1110,8 +1110,8 @@
    24661
   ],
   "jp": "{voice:005916}あれ、ベアトリーヌさんだ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, it's Baretreenu-san!",
+  "status": "done"
  },
  {
   "id": "event_2199_0131B",
@@ -1122,8 +1122,8 @@
    24725
   ],
   "jp": "{voice:005A16}おや、懐かしいですね、{n}エイミさん…、でしたか？",
-  "en": "",
-  "status": ""
+  "en": "My, how nostalgic. Eimi-san... wasn't it?",
+  "status": "done"
  },
  {
   "id": "event_2199_0134F",
@@ -1134,8 +1134,8 @@
    24746
   ],
   "jp": "{voice:005B16}…うん、エイミだよ。",
-  "en": "",
-  "status": ""
+  "en": "...Yeah, I'm Eimi.",
+  "status": "done"
  },
  {
   "id": "event_2199_01368",
@@ -1146,8 +1146,8 @@
    24767
   ],
   "jp": "{voice:005C16}なんだ、二人は知り合いか？",
-  "en": "",
-  "status": ""
+  "en": "What, you two know each other?",
+  "status": "done"
  },
  {
   "id": "event_2199_01387",
@@ -1158,8 +1158,8 @@
    24788
   ],
   "jp": "{voice:005D16}エイミさんがもっともっと{n}小さな頃に少々……",
-  "en": "",
-  "status": ""
+  "en": "A little, from when Eimi-san was much, much smaller...",
+  "status": "done"
  },
  {
   "id": "event_2199_013B7",
@@ -1170,8 +1170,8 @@
    24880
   ],
   "jp": "{voice:005E16}そうなの、ボクにおまじないを{n}掛けてくれたんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Yeah, she put a charm on me!",
+  "status": "done"
  },
  {
   "id": "event_2199_013ED",
@@ -1182,8 +1182,8 @@
    24901
   ],
   "jp": "{voice:005F16}へぇ、偶然ってあるんだね。",
-  "en": "",
-  "status": ""
+  "en": "Huh, what a coincidence.",
+  "status": "done"
  },
  {
   "id": "event_2199_0140C",
@@ -1194,8 +1194,8 @@
    24922
   ],
   "jp": "{voice:006016}そうだ、ねえエイミ。{n}お姉ちゃん達はしばらく帰って{n}こないから、留守番をお願いね。",
-  "en": "",
-  "status": ""
+  "en": "Oh right, hey Eimi. Your big sis and the others will be gone for a while, so keep an eye on the house, okay?",
+  "status": "done"
  },
  {
   "id": "event_2199_01461",
@@ -1206,8 +1206,8 @@
    24943
   ],
   "jp": "{voice:006116}うん！　わかったー。{n}いい子でお留守番してるよ！",
-  "en": "",
-  "status": ""
+  "en": "Yeah! Okay. I'll be good and stay home!",
+  "status": "done"
  },
  {
   "id": "event_2199_01495",
@@ -1218,8 +1218,8 @@
    25025
   ],
   "jp": "{voice:006216}なかなか複雑な展開になって{n}来てしまったようですね…",
-  "en": "",
-  "status": ""
+  "en": "Things have taken quite a complicated turn, it seems...",
+  "status": "done"
  },
  {
   "id": "event_2199_014CD",
@@ -1230,8 +1230,8 @@
    12489
   ],
   "jp": "今日こそ！{n}絶対に決着を付けてやる②",
-  "en": "",
-  "status": ""
+  "en": "Today's the day! Cerica's gonna settle this, absolutely!!",
+  "status": "done"
  },
  {
   "id": "event_2199_014F1",
@@ -1242,8 +1242,8 @@
    12510
   ],
   "jp": "諦めたんじゃなかったのか？",
-  "en": "",
-  "status": ""
+  "en": "Didn't you give up?",
+  "status": "done"
  },
  {
   "id": "event_2199_0150C",
@@ -1254,8 +1254,8 @@
    12531
   ],
   "jp": "誰がッ②",
-  "en": "",
-  "status": ""
+  "en": "Who, Cerica!?",
+  "status": "done"
  },
  {
   "id": "event_2199_01515",
@@ -1266,8 +1266,8 @@
    12732
   ],
   "jp": "復讐をして、心が晴れると。{n}本当にそう思っているの？",
-  "en": "",
-  "status": ""
+  "en": "You really think revenge will clear your heart?",
+  "status": "done"
  },
  {
   "id": "event_2199_01549",
@@ -1278,8 +1278,8 @@
    12753
   ],
   "jp": "思ってるよ！{n}だから、だからッ②",
-  "en": "",
-  "status": ""
+  "en": "Cerica does! That's why, that's why!!",
+  "status": "done"
  },
  {
   "id": "event_2199_01569",
@@ -1290,8 +1290,8 @@
    12954
   ],
   "jp": "戦う度に、君の痛みは{n}増していくばかりじゃないのか？",
-  "en": "",
-  "status": ""
+  "en": "Doesn't your pain only grow, every time you fight?",
+  "status": "done"
  },
  {
   "id": "event_2199_0159D",
@@ -1302,8 +1302,8 @@
    12975
   ],
   "jp": "はん！　毎回毎回！{n}知ったような口聞いて②{n}それがムカツクんだっつーの！",
-  "en": "",
-  "status": ""
+  "en": "Hah! Every single time! Talking like you know it all!! That's what makes Cerica so mad!",
+  "status": "done"
  },
  {
   "id": "event_2199_015E4",
@@ -1314,8 +1314,8 @@
    13176
   ],
   "jp": "そんな軍勢で、{n}勝てると思っているのか？",
-  "en": "",
-  "status": ""
+  "en": "You think you can win with an army like that?",
+  "status": "done"
  },
  {
   "id": "event_2199_0160C",
@@ -1326,8 +1326,8 @@
    13197
   ],
   "jp": "うるさいうるさーい！{n}セリカはね、勝つんだよ②",
-  "en": "",
-  "status": ""
+  "en": "Shut up, shut up! Cerica's gonna win, so there!!",
+  "status": "done"
  },
  {
   "id": "event_2199_0163A",
@@ -1338,8 +1338,8 @@
    13398
   ],
   "jp": "仇を求める気持ち、心の穴。{n}それは理解します。",
-  "en": "",
-  "status": ""
+  "en": "Wanting revenge, the hole in your heart. I understand that.",
+  "status": "done"
  },
  {
   "id": "event_2199_01668",
@@ -1350,8 +1350,8 @@
    13405
   ],
   "jp": "私が、相手になりましょう。",
-  "en": "",
-  "status": ""
+  "en": "I will be your opponent.",
+  "status": "done"
  },
  {
   "id": "event_2199_01683",
@@ -1362,8 +1362,8 @@
    13426
   ],
   "jp": "なーに、ワケの分かんないこと{n}ぶつくさ言ってんのよ！{n}気持ち悪いっつーの②",
-  "en": "",
-  "status": ""
+  "en": "Whaaat, what are you muttering about, it makes no sense! You're creeping Cerica out!!",
+  "status": "done"
  },
  {
   "id": "event_2199_016CC",
@@ -1374,8 +1374,8 @@
    13634
   ],
   "jp": "まだ復讐復讐って…{n}ン？　ムズムズするな…{n}くしゃみがでそうだ………",
-  "en": "",
-  "status": ""
+  "en": "Still \"revenge, revenge\"... Hm? It tickles... Byff feels a sneeze coming on...",
+  "status": "done"
  },
  {
   "id": "event_2199_0170F",
@@ -1410,8 +1410,8 @@
    13884
   ],
   "jp": "事情は知らないけどさ、{n}面倒くさい女ね、あなた。",
-  "en": "",
-  "status": ""
+  "en": "I don't know the story, but you're a real pain, aren't you.",
+  "status": "done"
  },
  {
   "id": "event_2199_01779",
@@ -1422,8 +1422,8 @@
    13905
   ],
   "jp": "上から、人を見やがって！",
-  "en": "",
-  "status": ""
+  "en": "Looking down on Cerica like that!",
+  "status": "done"
  },
  {
   "id": "event_2199_01792",
@@ -1434,8 +1434,8 @@
    14106
   ],
   "jp": "邪魔だ！　どけーっ②",
-  "en": "",
-  "status": ""
+  "en": "You're in the way! Move it!!",
+  "status": "done"
  },
  {
   "id": "event_2199_017A7",
@@ -1446,8 +1446,8 @@
    14127
   ],
   "jp": "物騒だなぁ、相変わらずさ。",
-  "en": "",
-  "status": ""
+  "en": "Violent as ever, huh.",
+  "status": "done"
  },
  {
   "id": "event_2199_017C2",
@@ -1458,8 +1458,8 @@
    14328
   ],
   "jp": "うーわ、だめ…、吐きそう…",
-  "en": "",
-  "status": ""
+  "en": "Ugh, no good... I'm gonna throw up...",
+  "status": "done"
  },
  {
   "id": "event_2199_017DD",
@@ -1470,8 +1470,8 @@
    14349
   ],
   "jp": "ちょ、ちょっと！{n}こっち向いて吐かないでよね②",
-  "en": "",
-  "status": ""
+  "en": "H-Hey! Don't throw up facing this way!!",
+  "status": "done"
  },
  {
   "id": "event_2199_0180B",
@@ -1482,8 +1482,8 @@
    14550
   ],
   "jp": "あーぁ、飽きないよねぇ…{n}死んじゃったんだから、{n}すっぱり諦めたらいいんだわさ。",
-  "en": "",
-  "status": ""
+  "en": "Sheesh, you never get tired of this... He's dead, so just give it up already.",
+  "status": "done"
  },
  {
   "id": "event_2199_0185A",
@@ -1494,8 +1494,8 @@
    14571
   ],
   "jp": "デイヴィド隊長の夢を、{n}毎晩見るんだよ……{n}だから、だから……",
-  "en": "",
-  "status": ""
+  "en": "Cerica dreams of Captain David every night... So that's why, that's why...",
+  "status": "done"
  },
  {
   "id": "event_2199_01897",
@@ -1506,8 +1506,8 @@
    14779
   ],
   "jp": "もうあなたの役目は、{n}とうに終わっているのですよ。{n}消えなさい……",
-  "en": "",
-  "status": ""
+  "en": "Your role ended long ago. Be gone...",
+  "status": "done"
  },
  {
   "id": "event_2199_018D8",
@@ -1518,8 +1518,8 @@
    14800
   ],
   "jp": "役目ってなんだよ！",
-  "en": "",
-  "status": ""
+  "en": "What's that about a role!",
+  "status": "done"
  },
  {
   "id": "event_2199_018EB",
@@ -1542,8 +1542,8 @@
    15060
   ],
   "jp": "あらあら、偉くお怒りのご様子。{n}そんなオーラでは、ゲットできる{n}男もゲットできませんわよ。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, you seem awfully angry. With that aura, you'll scare off anyone you might have won.",
+  "status": "done"
  },
  {
   "id": "event_2199_01953",
@@ -1554,8 +1554,8 @@
    15081
   ],
   "jp": "な、な、なに言ってるのよ！",
-  "en": "",
-  "status": ""
+  "en": "Wh-Wh-What are you talking about!",
+  "status": "done"
  },
  {
   "id": "event_2199_0196E",
@@ -1566,8 +1566,8 @@
    15275
   ],
   "jp": "……復讐か。",
-  "en": "",
-  "status": ""
+  "en": "...Revenge.",
+  "status": "done"
  },
  {
   "id": "event_2199_0197B",
@@ -1578,8 +1578,8 @@
    15469
   ],
   "jp": "ククク、面白い！{n}復讐に闘志を燃やす者よ、{n}存分に力をぶつけてみろ②",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh, how interesting! You who burn with fighting spirit for revenge, hit me with all you've got!!",
+  "status": "done"
  },
  {
   "id": "event_2199_019BE",
@@ -1590,8 +1590,8 @@
    15490
   ],
   "jp": "最初から、そのつもりだよ！",
-  "en": "",
-  "status": ""
+  "en": "That's what Cerica meant to do from the start!",
+  "status": "done"
  },
  {
   "id": "event_2199_019D9",
@@ -1602,8 +1602,8 @@
    15691
   ],
   "jp": "あなたの目は、悲しい……",
-  "en": "",
-  "status": ""
+  "en": "Your eyes are so sad...",
+  "status": "done"
  },
  {
   "id": "event_2199_019F2",
@@ -1614,8 +1614,8 @@
    15712
   ],
   "jp": "悲しいに決まってるだろ！",
-  "en": "",
-  "status": ""
+  "en": "Of course they're sad!",
+  "status": "done"
  },
  {
   "id": "event_2199_01A0B",
@@ -1626,8 +1626,8 @@
    16796
   ],
   "jp": "まだだ、ガーロット！{n}刺し違えても、殺す②",
-  "en": "",
-  "status": ""
+  "en": "Not yet, Garlot! Cerica will kill you, even if it kills Cerica!!",
+  "status": "done"
  },
  {
   "id": "event_2199_01A35",
@@ -1638,8 +1638,8 @@
    16817
   ],
   "jp": "セリカの気持ちは変わらない。{n}ならば、いっそここで……",
-  "en": "",
-  "status": ""
+  "en": "Cerica's mind won't change. Then maybe here and now...",
+  "status": "done"
  },
  {
   "id": "event_2199_01A6B",
@@ -1650,8 +1650,8 @@
    16889
   ],
   "jp": "さあ死ね！　ガーロット②",
-  "en": "",
-  "status": ""
+  "en": "Now die! Garlot!!",
+  "status": "done"
  },
  {
   "id": "event_2199_01A84",
@@ -1662,8 +1662,8 @@
    16910
   ],
   "jp": "くそっ…、{n}俺が気迫に押されてるのか？",
-  "en": "",
-  "status": ""
+  "en": "Damn it... Is her spirit pushing me back?",
+  "status": "done"
  },
  {
   "id": "event_2199_01AAA",
@@ -1674,8 +1674,8 @@
    17095
   ],
   "jp": "デイヴィドは倒されて当然。{n}報いをうけたんだから！",
-  "en": "",
-  "status": ""
+  "en": "David got what he deserved. He paid for what he did!",
+  "status": "done"
  },
  {
   "id": "event_2199_01ADC",
@@ -1686,8 +1686,8 @@
    17116
   ],
   "jp": "罪を決めるのは、{n}アンタ達じゃない②",
-  "en": "",
-  "status": ""
+  "en": "You're not the ones who get to decide his crimes!!",
+  "status": "done"
  },
  {
   "id": "event_2199_01B00",
@@ -1710,8 +1710,8 @@
    17209
   ],
   "jp": "私が押されてる？",
-  "en": "",
-  "status": ""
+  "en": "Am I being pushed back?",
+  "status": "done"
  },
  {
   "id": "event_2199_01B58",
@@ -1722,8 +1722,8 @@
    17394
   ],
   "jp": "戦い続けるのは、辛い。{n}僕は、その事を知ってる……",
-  "en": "",
-  "status": ""
+  "en": "Fighting on and on is hard. I know that...",
+  "status": "done"
  },
  {
   "id": "event_2199_01B8A",
@@ -1734,8 +1734,8 @@
    17415
   ],
   "jp": "大切な人がいない夜を、{n}１人で過ごす方が辛いんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Getting through the night alone, without the one who mattered, hurts more!",
+  "status": "done"
  },
  {
   "id": "event_2199_01BBE",
@@ -1746,8 +1746,8 @@
    17487
   ],
   "jp": "凄い気迫だね……{n}余裕は、無いって事か。",
-  "en": "",
-  "status": ""
+  "en": "What spirit... She can't afford anything else, I guess.",
+  "status": "done"
  },
  {
   "id": "event_2199_01BE6",
@@ -1758,8 +1758,8 @@
    17508
   ],
   "jp": "セリカ様の実力、思い知ったか②",
-  "en": "",
-  "status": ""
+  "en": "Now you know what Cerica-sama can do!!",
+  "status": "done"
  },
  {
   "id": "event_2199_01C05",
@@ -1770,8 +1770,8 @@
    17693
   ],
   "jp": "何故、そうまでしてこだわる？{n}生きる意味を何故見つけない？",
-  "en": "",
-  "status": ""
+  "en": "Why cling to this so hard? Why not find a reason to live?",
+  "status": "done"
  },
  {
   "id": "event_2199_01C3F",
@@ -1782,8 +1782,8 @@
    17714
   ],
   "jp": "生きる意味を与えてくれた人を{n}殺されたからだよ②",
-  "en": "",
-  "status": ""
+  "en": "'Cause you killed the one who gave Cerica a reason to live!!",
+  "status": "done"
  },
  {
   "id": "event_2199_01C6F",
@@ -1806,8 +1806,8 @@
    17807
   ],
   "jp": "亡者の念に、{n}完全に支配されているな……",
-  "en": "",
-  "status": ""
+  "en": "She's completely in the grip of a dead man's will...",
+  "status": "done"
  },
  {
   "id": "event_2199_01CBD",
@@ -1818,8 +1818,8 @@
    17814
   ],
   "jp": "デイヴィド、{n}死しても罪を重ねるつもりらしい。",
-  "en": "",
-  "status": ""
+  "en": "David, it seems you mean to keep sinning even in death.",
+  "status": "done"
  },
  {
   "id": "event_2199_01CEB",
@@ -1830,8 +1830,8 @@
    17999
   ],
   "jp": "あなたのその意志は、{n}どこから来るのでしょうか……",
-  "en": "",
-  "status": ""
+  "en": "I wonder where that will of yours comes from...",
+  "status": "done"
  },
  {
   "id": "event_2199_01D1D",
@@ -1842,8 +1842,8 @@
    18020
   ],
   "jp": "そんなの、しらないっつーの！",
-  "en": "",
-  "status": ""
+  "en": "Like Cerica knows!",
+  "status": "done"
  },
  {
   "id": "event_2199_01D3A",
@@ -1854,8 +1854,8 @@
    18092
   ],
   "jp": "今度こそ、殺してやる！",
-  "en": "",
-  "status": ""
+  "en": "This time, Cerica's gonna kill you!",
+  "status": "done"
  },
  {
   "id": "event_2199_01D51",
@@ -1866,8 +1866,8 @@
    18113
   ],
   "jp": "私は、死ぬわけにはいかない！",
-  "en": "",
-  "status": ""
+  "en": "I cannot die here!",
+  "status": "done"
  },
  {
   "id": "event_2199_01D6E",
@@ -1878,8 +1878,8 @@
    18298
   ],
   "jp": "うっ……",
-  "en": "",
-  "status": ""
+  "en": "Ugh...",
+  "status": "done"
  },
  {
   "id": "event_2199_01D77",
@@ -1890,8 +1890,8 @@
    18319
   ],
   "jp": "復讐の意志、間違ってる。{n}路上に石、転がってる。{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Revenge is a rocky road. Byff thinks you are stone cold. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2199_01DB6",
@@ -1902,8 +1902,8 @@
    18391
   ],
   "jp": "凄まじい攻勢！　だが隙も見える。{n}その攻勢はもっと、こうせい！{n}なーんつって②",
-  "en": "",
-  "status": ""
+  "en": "A fierce assault! But Byff sees gaps. Byff would add a pinch of a-salt. Ha, just kidding!!",
+  "status": "done"
  },
  {
   "id": "event_2199_01E03",
@@ -1914,8 +1914,8 @@
    18412
   ],
   "jp": "黙れっつーの！",
-  "en": "",
-  "status": ""
+  "en": "Shut up, already!",
+  "status": "done"
  },
  {
   "id": "event_2199_01E12",
@@ -1926,8 +1926,8 @@
    18597
   ],
   "jp": "もう息の根を止めちゃった方が{n}いい気がするわ。",
-  "en": "",
-  "status": ""
+  "en": "I feel like we'd better just finish her off.",
+  "status": "done"
  },
  {
   "id": "event_2199_01E40",
@@ -1938,8 +1938,8 @@
    18618
   ],
   "jp": "できるもんなら、{n}やってみろってーの！",
-  "en": "",
-  "status": ""
+  "en": "Go ahead and try it, if you can!",
+  "status": "done"
  },
  {
   "id": "event_2199_01E66",
@@ -1950,8 +1950,8 @@
    18690
   ],
   "jp": "消えろ！{n}狙うはガーロットの首ひとつ②",
-  "en": "",
-  "status": ""
+  "en": "Get lost! Cerica's only after Garlot's head!!",
+  "status": "done"
  },
  {
   "id": "event_2199_01E8C",
@@ -1962,8 +1962,8 @@
    18711
   ],
   "jp": "私を甘く見てるようね。{n}いい加減にしないと、{n}ヤケドすることになるわよ？",
-  "en": "",
-  "status": ""
+  "en": "Seems you're taking me lightly. Knock it off, or you're going to get burned.",
+  "status": "done"
  },
  {
   "id": "event_2199_01ED3",
@@ -1974,8 +1974,8 @@
    18896
   ],
   "jp": "もう君とは、{n}分かり合えないのかな？",
-  "en": "",
-  "status": ""
+  "en": "So you and I can't ever understand each other?",
+  "status": "done"
  },
  {
   "id": "event_2199_01EF7",
@@ -1986,8 +1986,8 @@
    18917
   ],
   "jp": "当然でしょ！",
-  "en": "",
-  "status": ""
+  "en": "Obviously!",
+  "status": "done"
  },
  {
   "id": "event_2199_01F04",
@@ -2010,8 +2010,8 @@
    19010
   ],
   "jp": "待ったは、なしだっつーの！",
-  "en": "",
-  "status": ""
+  "en": "No do-overs, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2199_01F43",
@@ -2022,8 +2022,8 @@
    19188
   ],
   "jp": "グゥウエップ、{n}危ない危ない、{n}吐きそうだったワ……",
-  "en": "",
-  "status": ""
+  "en": "Gwuuurp, close one, close one, I nearly threw up...",
+  "status": "done"
  },
  {
   "id": "event_2199_01F76",
@@ -2034,8 +2034,8 @@
    19253
   ],
   "jp": "ゲロゲロゲロ……{n}うげっ、あんまり攻撃するから{n}吐いちゃったわ。",
-  "en": "",
-  "status": ""
+  "en": "Blaaargh... Ugh, you kept hitting me, so I threw up.",
+  "status": "done"
  },
  {
   "id": "event_2199_01FB5",
@@ -2046,8 +2046,8 @@
    19274
   ],
   "jp": "ゲゲッ、き、汚い！",
-  "en": "",
-  "status": ""
+  "en": "Eww, g-gross!",
+  "status": "done"
  },
  {
   "id": "event_2199_01FC8",
@@ -2058,8 +2058,8 @@
    19459
   ],
   "jp": "アンタ、バカねぇ！{n}若いんだから、他に男作って{n}よろしくやっちゃえばいいのに。",
-  "en": "",
-  "status": ""
+  "en": "Silly girl! You're young, so just find somebody new and be happy.",
+  "status": "done"
  },
  {
   "id": "event_2199_02015",
@@ -2070,8 +2070,8 @@
    19477
   ],
   "jp": "くぅ～♪　このセリフ！{n}一度言ってみたかったんだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Oooh♪ That line! I always wanted to say it once!",
+  "status": "done"
  },
  {
   "id": "event_2199_0204B",
@@ -2094,8 +2094,8 @@
    19570
   ],
   "jp": "だったらガーロットの首、{n}早く渡しな！",
-  "en": "",
-  "status": ""
+  "en": "Then hurry up and hand over Garlot's head!",
+  "status": "done"
  },
  {
   "id": "event_2199_020B8",
@@ -2118,8 +2118,8 @@
    19762
   ],
   "jp": "だから、{n}人間という存在は美しい。{n}まるで堕天使のようだ。",
-  "en": "",
-  "status": ""
+  "en": "That is why humans are beautiful. Just like fallen angels.",
+  "status": "done"
  },
  {
   "id": "event_2199_0213C",
@@ -2130,8 +2130,8 @@
    19783
   ],
   "jp": "何が言いたいのよ、アンタ。",
-  "en": "",
-  "status": ""
+  "en": "What are you trying to say?",
+  "status": "done"
  },
  {
   "id": "event_2199_02157",
@@ -2142,8 +2142,8 @@
    19855
   ],
   "jp": "人間風情が……",
-  "en": "",
-  "status": ""
+  "en": "A mere human...",
+  "status": "done"
  },
  {
   "id": "event_2199_02166",
@@ -2154,8 +2154,8 @@
    19876
   ],
   "jp": "はぁ？　何わけわかんないこと{n}言ってるワケ！",
-  "en": "",
-  "status": ""
+  "en": "Huh? What's this nonsense you're spouting!",
+  "status": "done"
  },
  {
   "id": "event_2199_02192",
@@ -2166,8 +2166,8 @@
    20092
   ],
   "jp": "あらあら、復讐を口にする割には{n}どうもそれ程強くないご様子。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, for all your talk of revenge, you don't seem so strong.",
+  "status": "done"
  },
  {
   "id": "event_2199_021CE",
@@ -2178,8 +2178,8 @@
    20099
   ],
   "jp": "これはまるで無鉄砲。{n}いい歌には、なりませんわよ。",
-  "en": "",
-  "status": ""
+  "en": "This is simply reckless. It will never make a good song.",
+  "status": "done"
  },
  {
   "id": "event_2199_02200",
@@ -2190,8 +2190,8 @@
    20120
   ],
   "jp": "黙れ！　黙れよ②",
-  "en": "",
-  "status": ""
+  "en": "Shut up! Shut up!!",
+  "status": "done"
  },
  {
   "id": "event_2199_02211",
@@ -2202,8 +2202,8 @@
    20223
   ],
   "jp": "さてさて、{n}同情はここまでですわ。",
-  "en": "",
-  "status": ""
+  "en": "Now, now, that is enough sympathy.",
+  "status": "done"
  },
  {
   "id": "event_2199_02233",
@@ -2214,8 +2214,8 @@
    20244
   ],
   "jp": "負け惜しみ言っちゃって。",
-  "en": "",
-  "status": ""
+  "en": "Sore loser.",
+  "status": "done"
  },
  {
   "id": "event_2199_0224C",
@@ -2226,8 +2226,8 @@
    20429
   ],
   "jp": "何故団長を狙う。",
-  "en": "",
-  "status": ""
+  "en": "Why do you target the Captain?",
+  "status": "done"
  },
  {
   "id": "event_2199_0225D",
@@ -2250,8 +2250,8 @@
    20471
   ],
   "jp": "…そうか。{n}人は普通、そういう理由で{n}別の人間を殺すのだな。",
-  "en": "",
-  "status": ""
+  "en": "...I see. So people usually kill each other for reasons like that.",
+  "status": "done"
  },
  {
   "id": "event_2199_022D2",
@@ -2262,8 +2262,8 @@
    20543
   ],
   "jp": "さあ、死にな！",
-  "en": "",
-  "status": ""
+  "en": "Now, die!",
+  "status": "done"
  },
  {
   "id": "event_2199_022E1",
@@ -2274,8 +2274,8 @@
    20564
   ],
   "jp": "力を感じる。{n}これが復讐の思念……",
-  "en": "",
-  "status": ""
+  "en": "I feel its power. So this is the will to revenge...",
+  "status": "done"
  },
  {
   "id": "event_2199_02303",
@@ -2286,8 +2286,8 @@
    20749
   ],
   "jp": "腕前は未熟だが、{n}闘志の昂りをひしひし感じるな！",
-  "en": "",
-  "status": ""
+  "en": "Your skill's still green, but I can really feel your fighting spirit!",
+  "status": "done"
  },
  {
   "id": "event_2199_02333",
@@ -2298,8 +2298,8 @@
    20770
   ],
   "jp": "くっそー！{n}騎馬隊、うっとうしすぎ②",
-  "en": "",
-  "status": ""
+  "en": "Damn it! These cavalry are so annoying!!",
+  "status": "done"
  },
  {
   "id": "event_2199_02357",
@@ -2310,8 +2310,8 @@
    20842
   ],
   "jp": "ほぅ…、やるな、女②{n}額の傷が疼きやがるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Well... Not bad, woman!! The scar on my forehead's aching.",
+  "status": "done"
  },
  {
   "id": "event_2199_02383",
@@ -2322,8 +2322,8 @@
    20863
   ],
   "jp": "だったならその頭、{n}傷ごと斧で割ってやるよ！",
-  "en": "",
-  "status": ""
+  "en": "Then Cerica'll split that head of yours with an axe, scar and all!",
+  "status": "done"
  },
  {
   "id": "event_2199_023AF",
@@ -2334,8 +2334,8 @@
    21041
   ],
   "jp": "本当の意味で、{n}散った命にしてやれる事は、{n}何もありません。",
-  "en": "",
-  "status": ""
+  "en": "In truth, there is nothing you can do for a life that has been lost.",
+  "status": "done"
  },
  {
   "id": "event_2199_023EA",
@@ -2346,8 +2346,8 @@
    21106
   ],
   "jp": "勝ちを収めて、それからあなたは{n}どうするつもりなのです？",
-  "en": "",
-  "status": ""
+  "en": "Once you have won, what do you intend to do then?",
+  "status": "done"
  },
  {
   "id": "event_2199_02422",
@@ -2358,8 +2358,8 @@
    21127
   ],
   "jp": "は？　ワケ分かんない！",
-  "en": "",
-  "status": ""
+  "en": "Huh? Cerica doesn't get you!",
+  "status": "done"
  },
  {
   "id": "event_2199_02463",

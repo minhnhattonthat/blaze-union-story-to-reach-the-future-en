@@ -8,8 +8,8 @@
    5604
   ],
   "jp": "{voice:001814}ガーロット！{n}城外に布陣する部隊を捕捉したわ！",
-  "en": "",
-  "status": ""
+  "en": "Garlot! I've spotted units deployed outside the walls!",
+  "status": "done"
  },
  {
   "id": "event_2195_0005A",
@@ -20,8 +20,8 @@
    5622
   ],
   "jp": "{voice:001914}部隊の数が少ないね。{n}少数精鋭って感じもしないし。",
-  "en": "",
-  "status": ""
+  "en": "Not many of them. And they don't look like a small elite force either.",
+  "status": "done"
  },
  {
   "id": "event_2195_00090",
@@ -32,8 +32,8 @@
    5640
   ],
   "jp": "{voice:001A14}なんとなく浮き足立っているな。{n}カローナの軍とは大違いだ。",
-  "en": "",
-  "status": ""
+  "en": "They seem kind of jumpy. Nothing like Karona's army.",
+  "status": "done"
  },
  {
   "id": "event_2195_000CE",
@@ -44,8 +44,8 @@
    5658
   ],
   "jp": "{voice:001B14}電撃戦で虚を衝けたせいか？",
-  "en": "",
-  "status": ""
+  "en": "Maybe our lightning strike caught them off guard?",
+  "status": "done"
  },
  {
   "id": "event_2195_000ED",
@@ -56,8 +56,8 @@
    5676
   ],
   "jp": "{voice:001C14}いえ、それらを踏まえても状況は{n}合理的ではありませんね。{n}警戒は怠らぬように。",
-  "en": "",
-  "status": ""
+  "en": "No, even allowing for that, the situation is not rational. Do not let your guard down.",
+  "status": "done"
  },
  {
   "id": "event_2195_0013E",
@@ -68,8 +68,8 @@
    5683
   ],
   "jp": "{voice:001D14}それはさておき、{n}手前の柵が問題ですね。{n}あれらを取り除かなければ……",
-  "en": "",
-  "status": ""
+  "en": "That aside, the fences in front are a problem. We must remove them...",
+  "status": "done"
  },
  {
   "id": "event_2195_00187",
@@ -80,8 +80,8 @@
    5804
   ],
   "jp": "{voice:001E14}これが王都パルティナ…",
-  "en": "",
-  "status": ""
+  "en": "So this is the royal capital, Paltina...",
+  "status": "done"
  },
  {
   "id": "event_2195_001A2",
@@ -92,8 +92,8 @@
    5822
   ],
   "jp": "{voice:001F14}姉さん、もうすぐです……",
-  "en": "",
-  "status": ""
+  "en": "Sister, we are almost there...",
+  "status": "done"
  },
  {
   "id": "event_2195_001BF",
@@ -104,8 +104,8 @@
    5867
   ],
   "jp": "{voice:002014}ねえ、ダンチョーお兄ちゃん。{n}まだ戦いは始めないの？",
-  "en": "",
-  "status": ""
+  "en": "Hey, Big Brother Captain. Aren't we starting the battle yet?",
+  "status": "done"
  },
  {
   "id": "event_2195_001F7",
@@ -116,8 +116,8 @@
    5885
   ],
   "jp": "{voice:002114}もうすぐだ。{n}増援が出てきたら{n}手に負えなくなるからな。",
-  "en": "",
-  "status": ""
+  "en": "Soon. If reinforcements come out, we won't be able to handle it.",
+  "status": "done"
  },
  {
   "id": "event_2195_00232",
@@ -128,8 +128,8 @@
    5903
   ],
   "jp": "{voice:002214}早く戦いたいな。{n}敵を倒せばいいんだよね？",
-  "en": "",
-  "status": ""
+  "en": "I want to fight soon. I just have to beat the enemies, right?",
+  "status": "done"
  },
  {
   "id": "event_2195_00260",
@@ -140,8 +140,8 @@
    5921
   ],
   "jp": "{voice:002314}だからさ、早く始めようよ！{n}ねえ、ダンチョーお兄ちゃん、{n}早く早く～！",
-  "en": "",
-  "status": ""
+  "en": "So, y'know, let's hurry and start! Hey, Big Brother Captain, hurry, hurry~!",
+  "status": "done"
  },
  {
   "id": "event_2195_002A9",
@@ -164,8 +164,8 @@
    6218
   ],
   "jp": "{voice:002414}あら？{n}城門の上に出てきた人……{n}以前会っているわね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? That person who came out on top of the castle gate... I've met him before.",
+  "status": "done"
  },
  {
   "id": "event_2195_002ED",
@@ -176,8 +176,8 @@
    6236
   ],
   "jp": "{voice:002514}ウルズ・ティアを強奪した時に{n}出てきた大臣じゃないか？",
-  "en": "",
-  "status": ""
+  "en": "Isn't that the minister who showed up when we stole Urd's Tear?",
+  "status": "done"
  },
  {
   "id": "event_2195_00327",
@@ -188,8 +188,8 @@
    6254
   ],
   "jp": "{voice:002614}あの男は、神生教団の教祖だ。",
-  "en": "",
-  "status": ""
+  "en": "That man is the Pontiff of the Blessed Papal Army.",
+  "status": "done"
  },
  {
   "id": "event_2195_00348",
@@ -200,8 +200,8 @@
    6272
   ],
   "jp": "{voice:002714}本当か？",
-  "en": "",
-  "status": ""
+  "en": "Really?",
+  "status": "done"
  },
  {
   "id": "event_2195_00355",
@@ -212,8 +212,8 @@
    6290
   ],
   "jp": "{voice:002814}ああ、普段顔は見せないが、{n}あの雰囲気、そうだと感じる。",
-  "en": "",
-  "status": ""
+  "en": "Yes. He does not usually show his face, but that air about him. I sense it is him.",
+  "status": "done"
  },
  {
   "id": "event_2195_00391",
@@ -224,8 +224,8 @@
    6411
   ],
   "jp": "{voice:002914}あれが、黒幕！",
-  "en": "",
-  "status": ""
+  "en": "So that is the mastermind!",
+  "status": "done"
  },
  {
   "id": "event_2195_003A4",
@@ -236,8 +236,8 @@
    6429
   ],
   "jp": "{voice:002A14}もう１人は、誰かな？{n}女の子みたいだけど、{n}アイギナに少し似てるね……",
-  "en": "",
-  "status": ""
+  "en": "Who's the other one, I wonder? Looks like a girl, and she looks a little like Aegina...",
+  "status": "done"
  },
  {
   "id": "event_2195_003ED",
@@ -248,8 +248,8 @@
    6447
   ],
   "jp": "{voice:002B14}まさか、王女ユグドラか②",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me that's Princess Yggdra!!",
+  "status": "done"
  },
  {
   "id": "event_2195_0040A",
@@ -260,8 +260,8 @@
    6465
   ],
   "jp": "{voice:002C14}って事は…、{n}ルシエナとアイギナの妹？",
-  "en": "",
-  "status": ""
+  "en": "So that means... She's Luciana and Aegina's little sister?",
+  "status": "done"
  },
  {
   "id": "event_2195_00434",
@@ -272,8 +272,8 @@
    6483
   ],
   "jp": "{voice:002D14}妹とは思いません！{n}私達の犠牲の上に王家の寵愛を{n}一身に受けて育った、嫌な女です②",
-  "en": "",
-  "status": ""
+  "en": "She is no sister of mine! A hateful girl, raised on all the royal favor at the price of our sacrifice!!",
+  "status": "done"
  },
  {
   "id": "event_2195_00489",
@@ -284,8 +284,8 @@
    6501
   ],
   "jp": "{voice:002E14}そんなに怒鳴らなくても……",
-  "en": "",
-  "status": ""
+  "en": "You don't have to yell about it...",
+  "status": "done"
  },
  {
   "id": "event_2195_004A8",
@@ -296,8 +296,8 @@
    6650
   ],
   "jp": "{voice:002F14}あの軍勢は一体？",
-  "en": "",
-  "status": ""
+  "en": "Who is that army?",
+  "status": "done"
  },
  {
   "id": "event_2195_004BD",
@@ -308,8 +308,8 @@
    6668
   ],
   "jp": "{voice:003014}帝国の軍でございますよ、姫様。",
-  "en": "",
-  "status": ""
+  "en": "That is an army of the Empire, Princess.",
+  "status": "done"
  },
  {
   "id": "event_2195_004E0",
@@ -320,8 +320,8 @@
    6675
   ],
   "jp": "{voice:003114}とは言っても、どこかの正規軍{n}ではなく、荒くれ者の徒党。{n}つまり賊軍でございます。",
-  "en": "",
-  "status": ""
+  "en": "Though not anyone's regular army, but a gang of ruffians. In short, an army of bandits.",
+  "status": "done"
  },
  {
   "id": "event_2195_00535",
@@ -332,8 +332,8 @@
    6693
   ],
   "jp": "{voice:003214}まったく……{n}暴れるなら自分の国で暴れれば{n}よいものを。",
-  "en": "",
-  "status": ""
+  "en": "Honestly... If they wish to run wild, they could do it in their own country.",
+  "status": "done"
  },
  {
   "id": "event_2195_00570",
@@ -344,8 +344,8 @@
    6711
   ],
   "jp": "{voice:003314}つまりあの軍勢は、王国に{n}戦争を仕掛けてきたのですね？{n}なんてひどいことを！",
-  "en": "",
-  "status": ""
+  "en": "So that army has come to wage war on the Kingdom? How terrible!",
+  "status": "done"
  },
  {
   "id": "event_2195_005BF",
@@ -356,8 +356,8 @@
    6729
   ],
   "jp": "{voice:003414}さらに連中、言うにこと欠いて…{n}いや、さすがに私の口から{n}これを言うのは、恐れ多い。",
-  "en": "",
-  "status": ""
+  "en": "What's more, those people have the gall to... No, this is too dreadful for me to say.",
+  "status": "done"
  },
  {
   "id": "event_2195_00616",
@@ -368,8 +368,8 @@
    6747
   ],
   "jp": "{voice:003514}なんですか？{n}言ってください、アランゼーム。",
-  "en": "",
-  "status": ""
+  "en": "What is it? Please tell me, Alanjame.",
+  "status": "done"
  },
  {
   "id": "event_2195_00646",
@@ -380,8 +380,8 @@
    6765
   ],
   "jp": "{voice:003614}実はその…、姫様の姉と名乗り、{n}あろうことか、我が王家の{n}王位継承権を主張しているのです。",
-  "en": "",
-  "status": ""
+  "en": "Well, the truth is... They call one of them your sister, and she dares to claim the throne of our royal house.",
+  "status": "done"
  },
  {
   "id": "event_2195_006A3",
@@ -392,8 +392,8 @@
    6783
   ],
   "jp": "{voice:003714}そんな言いがかり…{n}ひどい……",
-  "en": "",
-  "status": ""
+  "en": "Such a false accusation... How terrible...",
+  "status": "done"
  },
  {
   "id": "event_2195_006C5",
@@ -404,8 +404,8 @@
    6790
   ],
   "jp": "{voice:003814}それは成敗されるべきです。{n}聖剣の義の名の下に……",
-  "en": "",
-  "status": ""
+  "en": "They must be punished. In the name of the Holy Sword's justice...",
+  "status": "done"
  },
  {
   "id": "event_2195_006FB",
@@ -416,8 +416,8 @@
    6808
   ],
   "jp": "{voice:003914}姫様……{n}そろそろお城に戻りましょう。",
-  "en": "",
-  "status": ""
+  "en": "Princess... Let us return to the castle now.",
+  "status": "done"
  },
  {
   "id": "event_2195_00725",
@@ -428,8 +428,8 @@
    6815
   ],
   "jp": "{voice:003A14}戦闘が始まります。{n}姫様に矢傷でもつきましたら、{n}陛下に申し訳が立ちませぬゆえ。",
-  "en": "",
-  "status": ""
+  "en": "The battle is about to begin. If an arrow were to graze you, I could never face His Majesty.",
+  "status": "done"
  },
  {
   "id": "event_2195_00778",
@@ -440,8 +440,8 @@
    6833
   ],
   "jp": "{voice:003B14}わかりました……{n}平穏な日々が一刻も早く戻るよう、{n}尽力をお願いします。",
-  "en": "",
-  "status": ""
+  "en": "Very well... Please do your utmost, so that peaceful days return as soon as possible.",
+  "status": "done"
  },
  {
   "id": "event_2195_007C3",
@@ -452,8 +452,8 @@
    6942
   ],
   "jp": "{voice:003C14}よし、大砲の用意を！{n}軽くあしらってやれ、軽～くな②",
-  "en": "",
-  "status": ""
+  "en": "Very well, ready the cannons! Give them a light brushing off, nice and light!!",
+  "status": "done"
  },
  {
   "id": "event_2195_007FB",
@@ -464,8 +464,8 @@
    7217
   ],
   "jp": "{voice:003D14}おいおい、{n}大砲の用意を始めやがった②",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey, they've started readying cannons!!",
+  "status": "done"
  },
  {
   "id": "event_2195_00825",
@@ -476,8 +476,8 @@
    7235
   ],
   "jp": "{voice:003E14}あら？　あの大砲……{n}結構な上物を使っているわね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? Those cannons... They're using some pretty fine goods.",
+  "status": "done"
  },
  {
   "id": "event_2195_0085B",
@@ -488,8 +488,8 @@
    7253
   ],
   "jp": "{voice:003F14}羨ましい！　王国は、火器武装に{n}理解があっていいわね。{n}帝国とは大違いね。",
-  "en": "",
-  "status": ""
+  "en": "I'm so jealous! The Kingdom really gets firearms, how nice. So unlike the Empire.",
+  "status": "done"
  },
  {
   "id": "event_2195_008A8",
@@ -500,8 +500,8 @@
    7271
   ],
   "jp": "{voice:004014}そんな暢気な事、{n}言ってる場合じゃないだろ！{n}城壁の上じゃ攻撃もできない。",
-  "en": "",
-  "status": ""
+  "en": "This is no time to be so laid-back! We can't even attack them on top of the wall.",
+  "status": "done"
  },
  {
   "id": "event_2195_008F5",
@@ -512,8 +512,8 @@
    7289
   ],
   "jp": "{voice:004114}ボクが行くよ！{n}ボクなら城壁の上だって、{n}カンタンに越えて行けるから②",
-  "en": "",
-  "status": ""
+  "en": "I'll go! I can fly over the castle wall, no problem!!",
+  "status": "done"
  },
  {
   "id": "event_2195_0093E",
@@ -524,8 +524,8 @@
    7452
   ],
   "jp": "{voice:004214}あ、コラ！　指示を聞け②",
-  "en": "",
-  "status": ""
+  "en": "Ah, hey! Listen to orders!!",
+  "status": "done"
  },
  {
   "id": "event_2195_0095B",
@@ -536,8 +536,8 @@
    7470
   ],
   "jp": "{voice:004314}でもさ、正直助かるわ。{n}上から大砲で狙い撃ちされたら、{n}対処できないじゃん？",
-  "en": "",
-  "status": ""
+  "en": "But honestly, that's a big help. If they pick us off with cannons from up there, we can't do a thing, right?",
+  "status": "done"
  },
  {
   "id": "event_2195_009AA",
@@ -548,8 +548,8 @@
    7488
   ],
   "jp": "{voice:004414}そうだね。{n}大砲はエミリオに任せて、{n}僕らは城門の突破に集中しよう！",
-  "en": "",
-  "status": ""
+  "en": "True. Leave the cannons to Emilia, and we'll focus on breaking through the gate!",
+  "status": "done"
  },
  {
   "id": "event_2195_009F1",
@@ -560,8 +560,8 @@
    7663
   ],
   "jp": "{voice:004514}エミリオさんは、{n}大丈夫でしょうか……",
-  "en": "",
-  "status": ""
+  "en": "Will Emilia-san be all right...",
+  "status": "done"
  },
  {
   "id": "event_2195_00A1B",
@@ -572,8 +572,8 @@
    7681
   ],
   "jp": "{voice:004614}信じるしかねぇよ。{n}俺達は、増援が来る前に地上軍を{n}撃破させないとな②",
-  "en": "",
-  "status": ""
+  "en": "We just have to trust her. We need to smash the ground troops before reinforcements come!!",
+  "status": "done"
  },
  {
   "id": "event_2195_00A64",
@@ -584,8 +584,8 @@
    9358
   ],
   "jp": "{voice:004714}よいしょ、到着～。",
-  "en": "",
-  "status": ""
+  "en": "Oof, I'm here~.",
+  "status": "done"
  },
  {
   "id": "event_2195_00A7B",
@@ -596,8 +596,8 @@
    9376
   ],
   "jp": "{voice:004814}んっ…！　敵がこんな所に！{n}狙いは大砲なの？",
-  "en": "",
-  "status": ""
+  "en": "Huh...! An enemy, up here! Is she after the cannons?",
+  "status": "done"
  },
  {
   "id": "event_2195_00AAB",
@@ -608,8 +608,8 @@
    9492
   ],
   "jp": "{voice:004914}……予期した通りだ。{n}これもまた天意。",
-  "en": "",
-  "status": ""
+  "en": "...Just as foreseen. This too is Heaven's will.",
+  "status": "done"
  },
  {
   "id": "event_2195_00AD5",
@@ -620,8 +620,8 @@
    9534
   ],
   "jp": "{voice:004A14}しまった、伏兵か！{n}大砲はエミリオを誘き出す{n}罠だったのか②",
-  "en": "",
-  "status": ""
+  "en": "Damn it, an ambush! So the cannons were a trap to lure Emilia out!!",
+  "status": "done"
  },
  {
   "id": "event_2195_00B14",
@@ -632,8 +632,8 @@
    9568
   ],
   "jp": "{voice:004B14}うほっ②{n}してやられた、って感じだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa!! Looks like they got one over on us!",
+  "status": "done"
  },
  {
   "id": "event_2195_00B40",
@@ -644,8 +644,8 @@
    9586
   ],
   "jp": "{voice:004C14}あれは、神生教団の兵士……",
-  "en": "",
-  "status": ""
+  "en": "Those are Blessed Papal Army soldiers...",
+  "status": "done"
  },
  {
   "id": "event_2195_00B5F",
@@ -656,8 +656,8 @@
    9593
   ],
   "jp": "{voice:004D14}私も知らされていなかったが、{n}やはり王国と神生教団は{n}結びついていたようだな……",
-  "en": "",
-  "status": ""
+  "en": "I was not told, but it seems the Kingdom and the Blessed Papal Army are indeed connected...",
+  "status": "done"
  },
  {
   "id": "event_2195_00BB2",
@@ -668,8 +668,8 @@
    9661
   ],
   "jp": "{voice:004E14}なーんだ。{n}人数が少ないんだね。{n}ガッカリしちゃったよ。",
-  "en": "",
-  "status": ""
+  "en": "Aw, is that all. There aren't many of you. How boring.",
+  "status": "done"
  },
  {
   "id": "event_2195_00BED",
@@ -692,8 +692,8 @@
    9697
   ],
   "jp": "{voice:004F14}手応えなさそうだから、{n}ガッカリしてるの……{n}さっさと片付けちゃおーっと。",
-  "en": "",
-  "status": ""
+  "en": "You don't look like much fun, so I'm bored... I'll just finish this up quick.",
+  "status": "done"
  },
  {
   "id": "event_2195_00C43",
@@ -704,8 +704,8 @@
    8024
   ],
   "jp": "{voice:005014}なんなのよ、この小娘……{n}こんな子供に、どうしろって……",
-  "en": "",
-  "status": ""
+  "en": "What's with this little girl... What am I supposed to do against a child like this...",
+  "status": "done"
  },
  {
   "id": "event_2195_00C7F",
@@ -716,8 +716,8 @@
    8049
   ],
   "jp": "{voice:005114}キャァァァァァァァァァァ②",
-  "en": "",
-  "status": ""
+  "en": "Eeeeeeeeeeeek!!",
+  "status": "done"
  },
  {
   "id": "event_2195_00C9E",
@@ -728,8 +728,8 @@
    8137
   ],
   "jp": "{voice:005214}大砲、いただきまーす。",
-  "en": "",
-  "status": ""
+  "en": "I'll take these cannons, thanks.",
+  "status": "done"
  },
  {
   "id": "event_2195_00CB9",
@@ -740,8 +740,8 @@
    8171
   ],
   "jp": "{voice:005314}エミリオはやはり強い。{n}あんな幼い子供なのに……",
-  "en": "",
-  "status": ""
+  "en": "Emilia really is strong. And she's such a little kid...",
+  "status": "done"
  },
  {
   "id": "event_2195_00CED",
@@ -752,8 +752,8 @@
    8189
   ],
   "jp": "{voice:005414}ダンチョーお兄ちゃん！{n}大砲を奪ったよ？",
-  "en": "",
-  "status": ""
+  "en": "Big Brother Captain! I took the cannons, okay?",
+  "status": "done"
  },
  {
   "id": "event_2195_00D19",
@@ -764,8 +764,8 @@
    8207
   ],
   "jp": "{voice:005514}でかしたぜ、エミリオ②{n}あとは俺達に任せとけよ！",
-  "en": "",
-  "status": ""
+  "en": "Nice going, Emilia!! Leave the rest to us!",
+  "status": "done"
  },
  {
   "id": "event_2195_00D4D",
@@ -776,8 +776,8 @@
    8225
   ],
   "jp": "{voice:005614}は～い。",
-  "en": "",
-  "status": ""
+  "en": "Oka~y.",
+  "status": "done"
  },
  {
   "id": "event_2195_00D5A",
@@ -788,8 +788,8 @@
    11479
   ],
   "jp": "{voice:005714}全員片付いたか？",
-  "en": "",
-  "status": ""
+  "en": "Did we take care of all of them?",
+  "status": "done"
  },
  {
   "id": "event_2195_00D6F",
@@ -800,8 +800,8 @@
    11497
   ],
   "jp": "{voice:005814}増援の気配もありません。{n}門を破るなら今です！",
-  "en": "",
-  "status": ""
+  "en": "There is no sign of reinforcements either. If we are to break the gate, it must be now!",
+  "status": "done"
  },
  {
   "id": "event_2195_00DA1",
@@ -812,8 +812,8 @@
    11515
   ],
   "jp": "{voice:005914}よしッ、力ずくでブチ破るぞ②",
-  "en": "",
-  "status": ""
+  "en": "All right, we're smashing it down by force!!",
+  "status": "done"
  },
  {
   "id": "event_2195_00DC2",
@@ -824,8 +824,8 @@
    11653
   ],
   "jp": "{voice:005A14}開いた！　ここから城内に②",
-  "en": "",
-  "status": ""
+  "en": "It's open! We go into the castle from here!!",
+  "status": "done"
  },
  {
   "id": "event_2195_00DE1",
@@ -836,8 +836,8 @@
    11671
   ],
   "jp": "{voice:005B14}待て、アイギナ！{n}一度城外で隊列を整えるんだ！",
-  "en": "",
-  "status": ""
+  "en": "Wait, Aegina! We're forming up outside the walls first!",
+  "status": "done"
  },
  {
   "id": "event_2195_00E13",
@@ -848,8 +848,8 @@
    11689
   ],
   "jp": "{voice:005C14}そうだね。{n}城内は奴らの居城なんだ。{n}警戒し過ぎる事はないよ。",
-  "en": "",
-  "status": ""
+  "en": "That's right. Inside's their home ground. We can't be too careful.",
+  "status": "done"
  },
  {
   "id": "event_2195_00E54",
@@ -860,8 +860,8 @@
    11707
   ],
   "jp": "{voice:005D14}…はい。",
-  "en": "",
-  "status": ""
+  "en": "...Yes.",
+  "status": "done"
  },
  {
   "id": "event_2195_00E61",
@@ -872,8 +872,8 @@
    12229
   ],
   "jp": "{voice:005E14}みんなー、ボク頑張ったよぉ！{n}褒めて褒めて～！",
-  "en": "",
-  "status": ""
+  "en": "Everyone~, I did my best! Praise me, praise me~!",
+  "status": "done"
  },
  {
   "id": "event_2195_00E93",
@@ -884,8 +884,8 @@
    12247
   ],
   "jp": "{voice:005F14}よく頑張ったわね、エミリオ。{n}あなたのおかげで、{n}被害は最小限に食い止められたわ。",
-  "en": "",
-  "status": ""
+  "en": "You did great, Emilia. Thanks to you, we kept our losses to a minimum.",
+  "status": "done"
  },
  {
   "id": "event_2195_00EE8",
@@ -896,8 +896,8 @@
    12265
   ],
   "jp": "{voice:006014}えへへ～。{n}ボク、まだまだやれるよー。",
-  "en": "",
-  "status": ""
+  "en": "Hehe~. I can still keep going, you know.",
+  "status": "done"
  },
  {
   "id": "event_2195_00F12",
@@ -908,8 +908,8 @@
    12326
   ],
   "jp": "{voice:006114}なんとかここまで来れたな。{n}ネシアの戦略とジェノンの戦術が{n}上手くいっている。",
-  "en": "",
-  "status": ""
+  "en": "We somehow made it this far. Nessiah's strategy and Jenon's tactics are working out.",
+  "status": "done"
  },
  {
   "id": "event_2195_00F63",
@@ -920,8 +920,8 @@
    12344
   ],
   "jp": "{voice:006214}僕もこんなにうまく事が運ぶとは{n}正直思ってなかったよ。",
-  "en": "",
-  "status": ""
+  "en": "Honestly, I never thought things would go this well either.",
+  "status": "done"
  },
  {
   "id": "event_2195_00F9D",
@@ -932,8 +932,8 @@
    12362
   ],
   "jp": "{voice:006314}らしくないじゃん。{n}せっかく褒められてんだから、{n}いつもみたいに調子に乗ったら？",
-  "en": "",
-  "status": ""
+  "en": "That's not like you. Now that someone's praising you, why not get carried away like usual?",
+  "status": "done"
  },
  {
   "id": "event_2195_00FF0",
@@ -944,8 +944,8 @@
    12380
   ],
   "jp": "{voice:006414}驚いているのさ。{n}ただの一計で国が覆るなんて、{n}俄かには信じられない。",
-  "en": "",
-  "status": ""
+  "en": "I'm surprised, is all. A whole country flipping over just one scheme, it's hard to believe.",
+  "status": "done"
  },
  {
   "id": "event_2195_01039",
@@ -956,8 +956,8 @@
    12440
   ],
   "jp": "{voice:006514}確かにそうね～{n}ま、パメラ様が成功率を底上げ{n}してるのは間違いないけどね♪",
-  "en": "",
-  "status": ""
+  "en": "True enough~. Well, there's no doubt Pamela-sama is boosting our odds of success, though♪",
+  "status": "done"
  },
  {
   "id": "event_2195_01086",
@@ -968,8 +968,8 @@
    12527
   ],
   "jp": "{voice:006614}私もそれが気になっていました。{n}いくらなんでも、脆過ぎる。",
-  "en": "",
-  "status": ""
+  "en": "That has been bothering me as well. No matter how you look at it, it was too fragile.",
+  "status": "done"
  },
  {
   "id": "event_2195_010C4",
@@ -980,8 +980,8 @@
    12534
   ],
   "jp": "{voice:006714}これほど単純に城門を突破できる{n}など、通常は考えられません。",
-  "en": "",
-  "status": ""
+  "en": "Breaking through a castle gate this simply would ordinarily be unthinkable.",
+  "status": "done"
  },
  {
   "id": "event_2195_01104",
@@ -992,8 +992,8 @@
    12552
   ],
   "jp": "{voice:006814}確かにそう言われれば、{n}防衛の兵力も常識から考えると{n}少なかった。",
-  "en": "",
-  "status": ""
+  "en": "Now that you mention it, they did have fewer defenders than you'd expect.",
+  "status": "done"
  },
  {
   "id": "event_2195_01149",
@@ -1004,8 +1004,8 @@
    12570
   ],
   "jp": "{voice:006914}俺達を侮っていただけじゃ{n}ないのか？",
-  "en": "",
-  "status": ""
+  "en": "Weren't they just underestimating us?",
+  "status": "done"
  },
  {
   "id": "event_2195_01171",
@@ -1016,8 +1016,8 @@
    12588
   ],
   "jp": "{voice:006A14}もしくは、何かの誘いか？",
-  "en": "",
-  "status": ""
+  "en": "Or is it some kind of lure?",
+  "status": "done"
  },
  {
   "id": "event_2195_0118E",
@@ -1028,8 +1028,8 @@
    12738
   ],
   "jp": "{voice:006B14}……団長。",
-  "en": "",
-  "status": ""
+  "en": "...Captain.",
+  "status": "done"
  },
  {
   "id": "event_2195_0119D",
@@ -1040,8 +1040,8 @@
    12756
   ],
   "jp": "{voice:006C14}どうした、ジルヴァ？",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, Zilva?",
+  "status": "done"
  },
  {
   "id": "event_2195_011B6",
@@ -1052,8 +1052,8 @@
    12774
   ],
   "jp": "{voice:006D14}アイギナの姿が見当たらない。",
-  "en": "",
-  "status": ""
+  "en": "I cannot find Aegina.",
+  "status": "done"
  },
  {
   "id": "event_2195_011D7",
@@ -1064,8 +1064,8 @@
    12792
   ],
   "jp": "{voice:006E14}アイギナが？{n}まさかアイツ、１人で…！",
-  "en": "",
-  "status": ""
+  "en": "Aegina? Don't tell me she's gone in alone...!",
+  "status": "done"
  },
  {
   "id": "event_2195_01257",
@@ -1088,8 +1088,8 @@
    4759
   ],
   "jp": "王国軍",
-  "en": "",
-  "status": ""
+  "en": "Army",
+  "status": "done"
  },
  {
   "id": "event_2195_01380",
@@ -1100,8 +1100,8 @@
    4989
   ],
   "jp": "王国軍",
-  "en": "",
-  "status": ""
+  "en": "Army",
+  "status": "done"
  },
  {
   "id": "event_2195_013B6",

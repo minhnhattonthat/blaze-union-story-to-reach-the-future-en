@@ -20,8 +20,8 @@
    7116
   ],
   "jp": "{voice:006815}お姉様…{n}眠れないのですか？",
-  "en": "",
-  "status": ""
+  "en": "Elder sister... Can't you sleep?",
+  "status": "done"
  },
  {
   "id": "event_2198_00053",
@@ -32,8 +32,8 @@
    7134
   ],
   "jp": "{voice:006915}ちょっとね……",
-  "en": "",
-  "status": ""
+  "en": "Not really...",
+  "status": "done"
  },
  {
   "id": "event_2198_00066",
@@ -44,8 +44,8 @@
    7152
   ],
   "jp": "{voice:006A15}そちらに行っても？",
-  "en": "",
-  "status": ""
+  "en": "May I come over there?",
+  "status": "done"
  },
  {
   "id": "event_2198_0007D",
@@ -56,8 +56,8 @@
    7170
   ],
   "jp": "{voice:006B15}……ええ。",
-  "en": "",
-  "status": ""
+  "en": "...Yes.",
+  "status": "done"
  },
  {
   "id": "event_2198_0008C",
@@ -104,8 +104,8 @@
    7311
   ],
   "jp": "{voice:006C15}お姉様…",
-  "en": "",
-  "status": ""
+  "en": "Elder sister...",
+  "status": "done"
  },
  {
   "id": "event_2198_000BA",
@@ -116,8 +116,8 @@
    7329
   ],
   "jp": "{voice:006D15}お姉様はやめて、ユグドラ。{n}姉さんでいいわよ。",
-  "en": "",
-  "status": ""
+  "en": "Don't call me \"elder sister,\" Yggdra. \"Sister\" is fine.",
+  "status": "done"
  },
  {
   "id": "event_2198_000EC",
@@ -128,8 +128,8 @@
    7336
   ],
   "jp": "{voice:006E15}私、ルシエナ姉さんを{n}そう呼んでいたから……",
-  "en": "",
-  "status": ""
+  "en": "That is what I called my sister Luciana...",
+  "status": "done"
  },
  {
   "id": "event_2198_0011C",
@@ -140,8 +140,8 @@
    7354
   ],
   "jp": "{voice:006F15}では、アイギナ姉さんですね。",
-  "en": "",
-  "status": ""
+  "en": "Then you are Sister Aegina.",
+  "status": "done"
  },
  {
   "id": "event_2198_0013D",
@@ -152,8 +152,8 @@
    7372
   ],
   "jp": "{voice:007015}そう呼んでと言ったけれど、{n}呼ばれてみると、{n}なんだか、くすぐったいものね。",
-  "en": "",
-  "status": ""
+  "en": "I told you to call me that, but hearing it, it feels a little ticklish.",
+  "status": "done"
  },
  {
   "id": "event_2198_0018C",
@@ -164,8 +164,8 @@
    7390
   ],
   "jp": "{voice:007115}でも、悪くないわ。",
-  "en": "",
-  "status": ""
+  "en": "But it isn't bad.",
+  "status": "done"
  },
  {
   "id": "event_2198_001A3",
@@ -176,8 +176,8 @@
    7408
   ],
   "jp": "{voice:007215}私も、悪くないです。",
-  "en": "",
-  "status": ""
+  "en": "It isn't bad for me either.",
+  "status": "done"
  },
  {
   "id": "event_2198_001BC",
@@ -188,8 +188,8 @@
    7487
   ],
   "jp": "{voice:007315}姉さん。{n}この地で私と共に生き、{n}王国を支えてくれますか？",
-  "en": "",
-  "status": ""
+  "en": "Sister. Will you live here with me, and support the Kingdom?",
+  "status": "done"
  },
  {
   "id": "event_2198_001F9",
@@ -200,8 +200,8 @@
    7505
   ],
   "jp": "{voice:007415}私は、この国で生きたい。{n}ユグドラと共に、生きたい……",
-  "en": "",
-  "status": ""
+  "en": "I want to live in this country. I want to live with Yggdra...",
+  "status": "done"
  },
  {
   "id": "event_2198_00233",
@@ -212,8 +212,8 @@
    7512
   ],
   "jp": "{voice:007515}でもね、ルシエナ姉さん。{n}時々不安になるの。{n}こんな幸せが、許されるのかと…",
-  "en": "",
-  "status": ""
+  "en": "But you know, Sister Luciana. Sometimes I get anxious. Whether such happiness can be allowed...",
+  "status": "done"
  },
  {
   "id": "event_2198_00282",
@@ -224,8 +224,8 @@
    7530
   ],
   "jp": "{voice:007615}許してくれるかな。{n}姉さん……",
-  "en": "",
-  "status": ""
+  "en": "Would you forgive me? Sister...",
+  "status": "done"
  },
  {
   "id": "event_2198_002A4",
@@ -236,8 +236,8 @@
    7548
   ],
   "jp": "{voice:007715}お母様も{n}言っていたじゃないですか。{n}家族の絆と幸せは、時を超えると。",
-  "en": "",
-  "status": ""
+  "en": "Mother said it too, didn't she? The bonds and happiness of a family reach beyond time.",
+  "status": "done"
  },
  {
   "id": "event_2198_002ED",
@@ -248,8 +248,8 @@
    7555
   ],
   "jp": "{voice:007815}私達が幸せになれば、{n}きっとルシエナ姉さんも……",
-  "en": "",
-  "status": ""
+  "en": "If we become happy, I'm sure Sister Luciana will too...",
+  "status": "done"
  },
  {
   "id": "event_2198_00321",
@@ -260,8 +260,8 @@
    7713
   ],
   "jp": "{voice:007915}みんな言うんだ。{n}戦いが無いと幸せだって……",
-  "en": "",
-  "status": ""
+  "en": "Everybody says that. That it's happy when there's no fighting...",
+  "status": "done"
  },
  {
   "id": "event_2198_00351",
@@ -272,8 +272,8 @@
    7731
   ],
   "jp": "{voice:007A15}あら、エミリオさん。{n}どうしたのですか？",
-  "en": "",
-  "status": ""
+  "en": "Oh, Emilia-san. What is it?",
+  "status": "done"
  },
  {
   "id": "event_2198_0037D",
@@ -284,8 +284,8 @@
    7749
   ],
   "jp": "{voice:007B15}戦いが始まるから、{n}だから、知らせに来たの。",
-  "en": "",
-  "status": ""
+  "en": "A battle's going to start, so I came to tell you.",
+  "status": "done"
  },
  {
   "id": "event_2198_003AD",
@@ -296,8 +296,8 @@
    7767
   ],
   "jp": "{voice:007C15}戦い？{n}もう戦いは終わったのでは……",
-  "en": "",
-  "status": ""
+  "en": "A battle? But the fighting is already over...",
+  "status": "done"
  },
  {
   "id": "event_2198_003D5",
@@ -308,8 +308,8 @@
    7785
   ],
   "jp": "{voice:007D15}終わらないよ、戦いは。",
-  "en": "",
-  "status": ""
+  "en": "It's not over, the fighting.",
+  "status": "done"
  },
  {
   "id": "event_2198_003F0",
@@ -320,8 +320,8 @@
    7792
   ],
   "jp": "{voice:007E15}だって……",
-  "en": "",
-  "status": ""
+  "en": "'Cause...",
+  "status": "done"
  },
  {
   "id": "event_2198_003FF",
@@ -332,8 +332,8 @@
    7810
   ],
   "jp": "{voice:007F15}ボクが始めるんだから②",
-  "en": "",
-  "status": ""
+  "en": "I'm the one starting it!!",
+  "status": "done"
  },
  {
   "id": "event_2198_0041A",
@@ -344,8 +344,8 @@
    7920
   ],
   "jp": "{voice:008015}あっ…",
-  "en": "",
-  "status": ""
+  "en": "Ah...",
+  "status": "done"
  },
  {
   "id": "event_2198_00425",
@@ -356,8 +356,8 @@
    7938
   ],
   "jp": "{voice:008115}ユグドラっ③",
-  "en": "",
-  "status": ""
+  "en": "Yggdra!?",
+  "status": "done"
  },
  {
   "id": "event_2198_00436",
@@ -368,8 +368,8 @@
    7956
   ],
   "jp": "{voice:008215}ああっ…、ね、ねえさん…",
-  "en": "",
-  "status": ""
+  "en": "Ahh... S-Sister...",
+  "status": "done"
  },
  {
   "id": "event_2198_00453",
@@ -380,8 +380,8 @@
    8094
   ],
   "jp": "{voice:008315}エミリオさん！{n}どうしてユグドラを…！",
-  "en": "",
-  "status": ""
+  "en": "Emilia-san! Why would you do that to Yggdra...!",
+  "status": "done"
  },
  {
   "id": "event_2198_0047D",
@@ -392,8 +392,8 @@
    8112
   ],
   "jp": "{voice:008415}くすくす…{n}ホラ、これで戦いは続くよ。",
-  "en": "",
-  "status": ""
+  "en": "Tee hee... See, now the fighting keeps going.",
+  "status": "done"
  },
  {
   "id": "event_2198_004A7",
@@ -404,8 +404,8 @@
    8130
   ],
   "jp": "{voice:008515}エミリオ、さん？",
-  "en": "",
-  "status": ""
+  "en": "Emilia... san?",
+  "status": "done"
  },
  {
   "id": "event_2198_004BC",
@@ -416,8 +416,8 @@
    8275
   ],
   "jp": "{voice:008615}アイギナ！　どうした②",
-  "en": "",
-  "status": ""
+  "en": "Aegina! What happened!!",
+  "status": "done"
  },
  {
   "id": "event_2198_004D7",
@@ -428,8 +428,8 @@
    8293
   ],
   "jp": "{voice:008715}ガ、ガーロット様…{n}エミリオさんが、ユグドラを…！",
-  "en": "",
-  "status": ""
+  "en": "G-Garlot-sama... Emilia-san, she did that to Yggdra...!",
+  "status": "done"
  },
  {
   "id": "event_2198_0050D",
@@ -440,8 +440,8 @@
    8311
   ],
   "jp": "{voice:008815}なにッ？",
-  "en": "",
-  "status": ""
+  "en": "What?",
+  "status": "done"
  },
  {
   "id": "event_2198_0051A",
@@ -452,8 +452,8 @@
    8404
   ],
   "jp": "{voice:008915}あ、ダンチョーお兄ちゃん。{n}また戦いが始まるよ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, Big Brother Captain. There's going to be another battle!",
+  "status": "done"
  },
  {
   "id": "event_2198_0054E",
@@ -464,8 +464,8 @@
    8411
   ],
   "jp": "{voice:008A15}もっとやろうよぉ、戦い。{n}そうしたらボクは、{n}もっともっと役に立てるよ。",
-  "en": "",
-  "status": ""
+  "en": "Let's do more of it, more fighting. Then I can be even more and more useful.",
+  "status": "done"
  },
  {
   "id": "event_2198_00599",
@@ -476,8 +476,8 @@
    8429
   ],
   "jp": "{voice:008B15}お前、どうしたんだ！",
-  "en": "",
-  "status": ""
+  "en": "What's gotten into you!",
+  "status": "done"
  },
  {
   "id": "event_2198_005B2",
@@ -488,8 +488,8 @@
    8447
   ],
   "jp": "{voice:008C15}戦い戦い！　やろうよ！{n}もっともっともっともっと②",
-  "en": "",
-  "status": ""
+  "en": "Fight, fight! Let's fight! More and more and more and more!!",
+  "status": "done"
  },
  {
   "id": "event_2198_005E8",
@@ -500,8 +500,8 @@
    8465
   ],
   "jp": "{voice:008D15}もっともっともっともっともっと{n}もっともっともっともっともっと{n}もっともっともっともっともっと",
-  "en": "",
-  "status": ""
+  "en": "More more more more more more more more more more more more more more more",
+  "status": "done"
  },
  {
   "id": "event_2198_00649",
@@ -512,8 +512,8 @@
    8535
   ],
   "jp": "{voice:008E15}もっと、戦いたいんだよ～②",
-  "en": "",
-  "status": ""
+  "en": "I want to fight mo~re!!",
+  "status": "done"
  },
  {
   "id": "event_2198_00668",
@@ -524,8 +524,8 @@
    8766
   ],
   "jp": "{voice:008F15}ほう、これは……",
-  "en": "",
-  "status": ""
+  "en": "Oh, now this is...",
+  "status": "done"
  },
  {
   "id": "event_2198_0067D",
@@ -536,8 +536,8 @@
    8784
   ],
   "jp": "{voice:009015}エミリオ？{n}どうしたんだよ、お前は…",
-  "en": "",
-  "status": ""
+  "en": "Emilia? What's wrong with you...",
+  "status": "done"
  },
  {
   "id": "event_2198_006A5",
@@ -548,8 +548,8 @@
    8802
   ],
   "jp": "{voice:009115}ガーロット！　魔竜の血だ②{n}血の力が、本格的に覚醒したんだ！",
-  "en": "",
-  "status": ""
+  "en": "Garlot! It's the demon dragon's blood!! The blood's power has fully awakened!",
+  "status": "done"
  },
  {
   "id": "event_2198_006E5",
@@ -560,8 +560,8 @@
    8809
   ],
   "jp": "{voice:009215}いま戦いが終われば、{n}役立たずの子供に戻ってしまう…",
-  "en": "",
-  "status": ""
+  "en": "If the fighting ends now, she goes back to being a useless kid...",
+  "status": "done"
  },
  {
   "id": "event_2198_0071D",
@@ -572,8 +572,8 @@
    8816
   ],
   "jp": "{voice:009315}その恐怖が、侵略を糧にする{n}魔竜の血と同調したんだ。",
-  "en": "",
-  "status": ""
+  "en": "That fear is in tune with the demon dragon's blood, which feeds on invasion.",
+  "status": "done"
  },
  {
   "id": "event_2198_00755",
@@ -584,8 +584,8 @@
    8834
   ],
   "jp": "{voice:009415}だからって、ユグドラ王女を{n}殺さなくたって！",
-  "en": "",
-  "status": ""
+  "en": "But that's no reason to kill Princess Yggdra!",
+  "status": "done"
  },
  {
   "id": "event_2198_00785",
@@ -596,8 +596,8 @@
    8852
   ],
   "jp": "{voice:009515}いや、オルディーン王を失った{n}王国を保つには、国民に知られた{n}ユグドラ王女が絶対に必要だ…",
-  "en": "",
-  "status": ""
+  "en": "No, with King Ordene gone, the Kingdom can't hold without Princess Yggdra, whom the people know...",
+  "status": "done"
  },
  {
   "id": "event_2198_007E2",
@@ -608,8 +608,8 @@
    8859
   ],
   "jp": "{voice:009615}戦乱を起こすために{n}ユグドラ王女を襲ったというなら、{n}その行動は的確過ぎる……",
-  "en": "",
-  "status": ""
+  "en": "If she attacked Princess Yggdra to start a war, then that move was far too well chosen...",
+  "status": "done"
  },
  {
   "id": "event_2198_00833",
@@ -620,8 +620,8 @@
    8966
   ],
   "jp": "{voice:009715}ユグドラ、ユグドラぁ……",
-  "en": "",
-  "status": ""
+  "en": "Yggdra, Yggdra...",
+  "status": "done"
  },
  {
   "id": "event_2198_00850",
@@ -632,8 +632,8 @@
    8994
   ],
   "jp": "{voice:009815}…ねえ、さん…",
-  "en": "",
-  "status": ""
+  "en": "...Sis... ter...",
+  "status": "done"
  },
  {
   "id": "event_2198_00863",
@@ -644,8 +644,8 @@
    9012
   ],
   "jp": "{voice:009915}ユグドラっ②",
-  "en": "",
-  "status": ""
+  "en": "Yggdra!!",
+  "status": "done"
  },
  {
   "id": "event_2198_00874",
@@ -656,8 +656,8 @@
    9030
   ],
   "jp": "{voice:009A15}…ウソでしょう？{n}ウソよ②",
-  "en": "",
-  "status": ""
+  "en": "...You're kidding, right? You're kidding!!",
+  "status": "done"
  },
  {
   "id": "event_2198_00892",
@@ -668,8 +668,8 @@
    9139
   ],
   "jp": "{voice:009B15}あはははは！{n}もっともっと～②",
-  "en": "",
-  "status": ""
+  "en": "Ahahahaha! More and more~!!",
+  "status": "done"
  },
  {
   "id": "event_2198_008B4",
@@ -680,8 +680,8 @@
    9205
   ],
   "jp": "{voice:009C15}これが、魔竜の血を{n}身体に流す者の末路なのか……",
-  "en": "",
-  "status": ""
+  "en": "So this is how it ends for someone with the demon dragon's blood in their veins...",
+  "status": "done"
  },
  {
   "id": "event_2198_008E8",
@@ -692,8 +692,8 @@
    9223
   ],
   "jp": "{voice:009D15}エミリオ、こんなの……",
-  "en": "",
-  "status": ""
+  "en": "Emilia, this is...",
+  "status": "done"
  },
  {
   "id": "event_2198_00903",
@@ -704,8 +704,8 @@
    9241
   ],
   "jp": "{voice:009E15}ガーロット。{n}もうエミリオは止まらない。{n}死ぬまで破壊を続けるだけだよ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot. Emilia won't stop now. She'll just keep destroying until she dies.",
+  "status": "done"
  },
  {
   "id": "event_2198_0094E",
@@ -716,8 +716,8 @@
    9248
   ],
   "jp": "{voice:009F15}もう、元には戻らない。{n}止めるには、倒すしかない。",
-  "en": "",
-  "status": ""
+  "en": "She won't go back to how she was. The only way to stop her is to beat her.",
+  "status": "done"
  },
  {
   "id": "event_2198_00984",
@@ -728,8 +728,8 @@
    9266
   ],
   "jp": "{voice:00A015}……それしか、ないのか？",
-  "en": "",
-  "status": ""
+  "en": "...That's the only way?",
+  "status": "done"
  },
  {
   "id": "event_2198_009A1",
@@ -740,8 +740,8 @@
    9284
   ],
   "jp": "{voice:00A115}ええ、残念だけど……",
-  "en": "",
-  "status": ""
+  "en": "Yes, I'm afraid so...",
+  "status": "done"
  },
  {
   "id": "event_2198_009BA",
@@ -752,8 +752,8 @@
    9466
   ],
   "jp": "{voice:00A215}もっともっと戦おうよ！{n}あっはっはっはっ！",
-  "en": "",
-  "status": ""
+  "en": "Let's fight more and more! Ahahahaha!",
+  "status": "done"
  },
  {
   "id": "event_2198_009E8",
@@ -764,8 +764,8 @@
    9527
   ],
   "jp": "{voice:00A315}エミリオ…{n}そんなに力が欲しかったのか？",
-  "en": "",
-  "status": ""
+  "en": "Emilia... Did you want power that badly?",
+  "status": "done"
  },
  {
   "id": "event_2198_00A14",
@@ -776,8 +776,8 @@
    9534
   ],
   "jp": "{voice:00A415}俺だって力が欲しかった。{n}けどそれは、打ち勝てない{n}理不尽が目の前にあったからだ…",
-  "en": "",
-  "status": ""
+  "en": "I wanted power too. But that's because there was an injustice in front of me I couldn't beat...",
+  "status": "done"
  },
  {
   "id": "event_2198_00A69",
@@ -788,8 +788,8 @@
    9552
   ],
   "jp": "{voice:00A515}ただ俺達と一緒にいるだけじゃ、{n}ダメだったのか？",
-  "en": "",
-  "status": ""
+  "en": "Wasn't just being with us enough?",
+  "status": "done"
  },
  {
   "id": "event_2198_00A9D",
@@ -800,8 +800,8 @@
    9559
   ],
   "jp": "{voice:00A615}俺には、わからない……",
-  "en": "",
-  "status": ""
+  "en": "I don't understand...",
+  "status": "done"
  },
  {
   "id": "event_2198_00AB8",
@@ -812,8 +812,8 @@
    9835
   ],
   "jp": "{voice:00A715}ああああああああーっ②",
-  "en": "",
-  "status": ""
+  "en": "Aaaaaaaaaaaaah!!",
+  "status": "done"
  },
  {
   "id": "event_2198_00AD3",
@@ -824,8 +824,8 @@
    11183
   ],
   "jp": "{voice:00A815}戦ったなら、そして勝てたなら、{n}みんなの役に立てる…{n}そう信じていたのにッ②",
-  "en": "",
-  "status": ""
+  "en": "If I fought, and if I won, I could be useful to everyone... That's what I believed!!",
+  "status": "done"
  },
  {
   "id": "event_2198_00B22",
@@ -836,8 +836,8 @@
    11201
   ],
   "jp": "{voice:00A915}すまなかった、エミリオ……",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry, Emilia...",
+  "status": "done"
  },
  {
   "id": "event_2198_00B41",
@@ -848,8 +848,8 @@
    11219
   ],
   "jp": "{voice:00AA15}お前の封印を解いてしまったのは{n}お前の苦しみに、気付いて{n}やれなかった俺の責任だ……",
-  "en": "",
-  "status": ""
+  "en": "Your seal came undone because I didn't notice how much you were hurting. That's on me...",
+  "status": "done"
  },
  {
   "id": "event_2198_00B98",
@@ -860,8 +860,8 @@
    11247
   ],
   "jp": "{voice:00AB15}あああああーっ②{n}おにい、ちゃん…",
-  "en": "",
-  "status": ""
+  "en": "Aaaaaaaah!! Big... brother...",
+  "status": "done"
  },
  {
   "id": "event_2198_00BBE",
@@ -884,8 +884,8 @@
    11898
   ],
   "jp": "{voice:00AC15}シスキア。{n}アイギナの様子、どうだった？",
-  "en": "",
-  "status": ""
+  "en": "Siskier. How's Aegina doing?",
+  "status": "done"
  },
  {
   "id": "event_2198_00BF5",
@@ -896,8 +896,8 @@
    11916
   ],
   "jp": "{voice:00AD15}今はダメ……",
-  "en": "",
-  "status": ""
+  "en": "It's no good right now...",
+  "status": "done"
  },
  {
   "id": "event_2198_00C06",
@@ -908,8 +908,8 @@
    11934
   ],
   "jp": "{voice:00AE15}無理もないよ。{n}再会し、分かり合えたばかりの{n}妹を失ってしまったんだもの。",
-  "en": "",
-  "status": ""
+  "en": "No wonder. She lost the little sister she'd just found and only just come to understand.",
+  "status": "done"
  },
  {
   "id": "event_2198_00C53",
@@ -920,8 +920,8 @@
    11941
   ],
   "jp": "{voice:00AF15}しかも目の前で、{n}エミリオの手によって……",
-  "en": "",
-  "status": ""
+  "en": "Right in front of her, too, by Emilia's hand...",
+  "status": "done"
  },
  {
   "id": "event_2198_00C81",
@@ -932,8 +932,8 @@
    11959
   ],
   "jp": "{voice:00B015}ファンタジニア王国は、{n}一体どうなってしまうんだろう？",
-  "en": "",
-  "status": ""
+  "en": "What's going to become of the Kingdom of Fantasinia?",
+  "status": "done"
  },
  {
   "id": "event_2198_00CBB",
@@ -944,8 +944,8 @@
    11977
   ],
   "jp": "{voice:00B115}王位継承権を持つのは、{n}アイギナだけになってしまった。",
-  "en": "",
-  "status": ""
+  "en": "Aegina's the only one left with a claim to the throne.",
+  "status": "done"
  },
  {
   "id": "event_2198_00CF5",
@@ -956,8 +956,8 @@
    11995
   ],
   "jp": "{voice:00B215}王国の民にすれぱ、{n}アイギナや私達は外の人間だ。",
-  "en": "",
-  "status": ""
+  "en": "To the people of the Kingdom, Aegina and the rest of us are outsiders.",
+  "status": "done"
  },
  {
   "id": "event_2198_00D29",
@@ -968,8 +968,8 @@
    12002
   ],
   "jp": "{voice:00B315}そのわだかまりを解消する前に、{n}ユグドラは死んでしまった……",
-  "en": "",
-  "status": ""
+  "en": "And Yggdra died before that bad feeling could be cleared up...",
+  "status": "done"
  },
  {
   "id": "event_2198_00D69",
@@ -980,8 +980,8 @@
    12020
   ],
   "jp": "{voice:00B415}どうすればいいのかな。",
-  "en": "",
-  "status": ""
+  "en": "What are we supposed to do?",
+  "status": "done"
  },
  {
   "id": "event_2198_00D84",
@@ -1004,8 +1004,8 @@
    12201
   ],
   "jp": "{voice:00B515}アイギナ、もういいの？",
-  "en": "",
-  "status": ""
+  "en": "Aegina, are you all right now?",
+  "status": "done"
  },
  {
   "id": "event_2198_00DAA",
@@ -1016,8 +1016,8 @@
    12219
   ],
   "jp": "{voice:00B615}辛さに閉じ篭もっても、{n}そこにあるのは悲しみだけ。",
-  "en": "",
-  "status": ""
+  "en": "If I shut myself up in my pain, all that's there is sorrow.",
+  "status": "done"
  },
  {
   "id": "event_2198_00DE0",
@@ -1028,8 +1028,8 @@
    12237
   ],
   "jp": "{voice:00B715}ルシエナ姉さんも、ユグドラも、{n}決して喜ばないでしょう。",
-  "en": "",
-  "status": ""
+  "en": "Neither my sister Luciana nor Yggdra would ever be glad of that.",
+  "status": "done"
  },
  {
   "id": "event_2198_00E1C",
@@ -1040,8 +1040,8 @@
    12244
   ],
   "jp": "{voice:00B815}私の決意を、{n}皆さんに伝えに来ました。",
-  "en": "",
-  "status": ""
+  "en": "I have come to tell everyone what I've resolved.",
+  "status": "done"
  },
  {
   "id": "event_2198_00E46",
@@ -1052,8 +1052,8 @@
    12251
   ],
   "jp": "{voice:00B915}ユグドラと約束したのです。{n}この地で生き、王国を支えると。",
-  "en": "",
-  "status": ""
+  "en": "I promised Yggdra. To live in this land, and support the Kingdom.",
+  "status": "done"
  },
  {
   "id": "event_2198_00E84",
@@ -1064,8 +1064,8 @@
    12258
   ],
   "jp": "{voice:00BA15}私は、この国の王女になります。",
-  "en": "",
-  "status": ""
+  "en": "I will become the princess of this country.",
+  "status": "done"
  },
  {
   "id": "event_2198_00EA7",
@@ -1076,8 +1076,8 @@
    12265
   ],
   "jp": "{voice:00BB15}決して楽な道ではないでしょう。{n}しかし、グラムブレイズの理想を{n}私は王国で実現させたいのです。",
-  "en": "",
-  "status": ""
+  "en": "It will surely be no easy road. But I want to make the ideals of Gram Blaze real in the Kingdom.",
+  "status": "done"
  },
  {
   "id": "event_2198_00F08",
@@ -1088,8 +1088,8 @@
    12272
   ],
   "jp": "{voice:00BC15}皆さん、どうか私に、{n}力を貸して頂けないでしょうか。",
-  "en": "",
-  "status": ""
+  "en": "Everyone, won't you please lend me your strength?",
+  "status": "done"
  },
  {
   "id": "event_2198_00F40",
@@ -1100,8 +1100,8 @@
    12361
   ],
   "jp": "{voice:00BD15}アイギナ、私も決めた。{n}あなたとここで生きるって。",
-  "en": "",
-  "status": ""
+  "en": "Aegina, I've decided too. I'm living here with you.",
+  "status": "done"
  },
  {
   "id": "event_2198_00F76",
@@ -1112,8 +1112,8 @@
    12379
   ],
   "jp": "{voice:00BE15}どのくらい力になれるか、{n}わからないけど。{n}アイギナがいいって言うなら…",
-  "en": "",
-  "status": ""
+  "en": "I don't know how much help I can be. But if it's okay with Aegina...",
+  "status": "done"
  },
  {
   "id": "event_2198_00FC1",
@@ -1124,8 +1124,8 @@
    12397
   ],
   "jp": "{voice:00BF15}シスキア、ジェノンさん、{n}ありがとうございます。",
-  "en": "",
-  "status": ""
+  "en": "Siskier, Jenon-san, thank you.",
+  "status": "done"
  },
  {
   "id": "event_2198_00FF5",
@@ -1136,8 +1136,8 @@
    12476
   ],
   "jp": "{voice:00C015}私にも、できる事はあるか？",
-  "en": "",
-  "status": ""
+  "en": "Is there something I can do as well?",
+  "status": "done"
  },
  {
   "id": "event_2198_01014",
@@ -1148,8 +1148,8 @@
    12494
   ],
   "jp": "{voice:00C115}もちろんよ、ジルヴァ。{n}あなたもいたら、心強いわ。",
-  "en": "",
-  "status": ""
+  "en": "Of course, Zilva. Having you here would be reassuring.",
+  "status": "done"
  },
  {
   "id": "event_2198_0104A",
@@ -1160,8 +1160,8 @@
    12587
   ],
   "jp": "{voice:00C215}エレナと共に、この地で生きよう。{n}戦いを忘れられるかは、{n}分からないけどな。",
-  "en": "",
-  "status": ""
+  "en": "I'll live in this land with Elena. Whether I can forget about fighting, I don't know.",
+  "status": "done"
  },
  {
   "id": "event_2198_01099",
@@ -1172,8 +1172,8 @@
    12680
   ],
   "jp": "{voice:00C315}大砲の研究費を出してくれるなら{n}私の力を貸しますわ。",
-  "en": "",
-  "status": ""
+  "en": "If you fund my cannon research, I'll lend you my strength.",
+  "status": "done"
  },
  {
   "id": "event_2198_010D1",
@@ -1184,8 +1184,8 @@
    12698
   ],
   "jp": "{voice:00C415}誰もそこまで言ってないでしょ……",
-  "en": "",
-  "status": ""
+  "en": "Nobody went that far, you know...",
+  "status": "done"
  },
  {
   "id": "event_2198_010F6",
@@ -1196,8 +1196,8 @@
    12861
   ],
   "jp": "{voice:00C515}オイラも協力するよ。",
-  "en": "",
-  "status": ""
+  "en": "I'll help out too.",
+  "status": "done"
  },
  {
   "id": "event_2198_0110F",
@@ -1208,8 +1208,8 @@
    13060
   ],
   "jp": "{voice:00C615}私もよくってよ。{n}但し、１００年ぐらいだけね。",
-  "en": "",
-  "status": ""
+  "en": "That is fine by me as well. Though only for a hundred years or so.",
+  "status": "done"
  },
  {
   "id": "event_2198_01141",
@@ -1220,8 +1220,8 @@
    13239
   ],
   "jp": "{voice:00C715}うぉぉぉぉ！{n}熱い②　熱すぎるぜ②",
-  "en": "",
-  "status": ""
+  "en": "Whoooa! Hot!! Way too hot!!",
+  "status": "done"
  },
  {
   "id": "event_2198_01167",
@@ -1232,8 +1232,8 @@
    13379
   ],
   "jp": "{voice:00C815}ヒック、王国には美味い酒が{n}あるのかい？　ウェップ……",
-  "en": "",
-  "status": ""
+  "en": "*Hic*, has the Kingdom got good booze? Urp...",
+  "status": "done"
  },
  {
   "id": "event_2198_011A1",
@@ -1244,8 +1244,8 @@
    13517
   ],
   "jp": "{voice:00C915}バイフー、アイギナと一緒にいる！{n}それでも、いいっしょ？{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Byff stays with Aegina! It will be Byff-you-tiful. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2198_011EC",
@@ -1256,8 +1256,8 @@
    13636
   ],
   "jp": "{voice:00CA15}…たしか王国の傍に、{n}ウンディーネの国があったわね…{n}それだったら……",
-  "en": "",
-  "status": ""
+  "en": "...I do believe there's a land of Undines near the Kingdom... In that case...",
+  "status": "done"
  },
  {
   "id": "event_2198_01235",
@@ -1268,8 +1268,8 @@
    13654
   ],
   "jp": "{voice:00CB15}ムフフのフ♪　このパメラ様も{n}偉大なる力を貸したげるわ！{n}ありがたく思うことね！",
-  "en": "",
-  "status": ""
+  "en": "Mufufufu♪ This Pamela-sama will lend you her great power too! You better be grateful!",
+  "status": "done"
  },
  {
   "id": "event_2198_01288",
@@ -1280,8 +1280,8 @@
    13747
   ],
   "jp": "{voice:00CC15}アイギナ、{n}俺も決めた事があるんだ。{n}聞いてくれるか？",
-  "en": "",
-  "status": ""
+  "en": "Aegina, I've decided on something too. Will you hear me out?",
+  "status": "done"
  },
  {
   "id": "event_2198_012C1",
@@ -1292,8 +1292,8 @@
    13765
   ],
   "jp": "{voice:00CD15}ええ、もちろんです。",
-  "en": "",
-  "status": ""
+  "en": "Yes, of course.",
+  "status": "done"
  },
  {
   "id": "event_2198_012DA",
@@ -1304,8 +1304,8 @@
    14217
   ],
   "jp": "{voice:00CE15}…おっと。{n}なに？　急に立ち止まっちゃって？",
-  "en": "",
-  "status": ""
+  "en": "...Whoa. What? Why'd you suddenly stop?",
+  "status": "done"
  },
  {
   "id": "event_2198_0130A",
@@ -1328,8 +1328,8 @@
    14242
   ],
   "jp": "{voice:00CF15}…ああ、悪い。{n}ちょっと、思い出しててさ。",
-  "en": "",
-  "status": ""
+  "en": "...Ah, sorry. I was just remembering something.",
+  "status": "done"
  },
  {
   "id": "event_2198_01343",
@@ -1340,8 +1340,8 @@
    14249
   ],
   "jp": "{voice:00D015}旅に出たきっかけの事をさ。",
-  "en": "",
-  "status": ""
+  "en": "About why I set out on this journey.",
+  "status": "done"
  },
  {
   "id": "event_2198_01362",
@@ -1352,8 +1352,8 @@
    14256
   ],
   "jp": "{voice:00D115}あの頃の俺は、{n}力を手に入れて、何かができる{n}手応えを感じていた。",
-  "en": "",
-  "status": ""
+  "en": "Back then, I got my hands on power and felt I could really do something.",
+  "status": "done"
  },
  {
   "id": "event_2198_013A7",
@@ -1364,8 +1364,8 @@
    14263
   ],
   "jp": "{voice:00D215}だけど結局は、{n}仲間の血と涙が流されてしまった。",
-  "en": "",
-  "status": ""
+  "en": "But in the end, my comrades' blood and tears were shed.",
+  "status": "done"
  },
  {
   "id": "event_2198_013DB",
@@ -1376,8 +1376,8 @@
    14270
   ],
   "jp": "{voice:00D315}手に入れた力で、{n}俺は何をしたっていうんだ……",
-  "en": "",
-  "status": ""
+  "en": "What did I ever do with the power I got...",
+  "status": "done"
  },
  {
   "id": "event_2198_0140D",
@@ -1388,8 +1388,8 @@
    14288
   ],
   "jp": "{voice:00D415}力ってのが何か、{n}よくわからなくなったと{n}言っていたね。",
-  "en": "",
-  "status": ""
+  "en": "You said you weren't so sure anymore what power is.",
+  "status": "done"
  },
  {
   "id": "event_2198_01448",
@@ -1400,8 +1400,8 @@
    14306
   ],
   "jp": "{voice:00D515}ああ、それまで力が意味する事を{n}考えた事は、一度もなかった{n}気がするよ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah. I don't think I'd ever once thought about what power means until then.",
+  "status": "done"
  },
  {
   "id": "event_2198_01493",
@@ -1412,8 +1412,8 @@
    14313
   ],
   "jp": "{voice:00D615}なあ、メデューテ。{n}力って、なんなんだろうな？",
-  "en": "",
-  "status": ""
+  "en": "Hey, Medoute. What is power, anyway?",
+  "status": "done"
  },
  {
   "id": "event_2198_014C5",
@@ -1424,8 +1424,8 @@
    14331
   ],
   "jp": "{voice:00D715}知らないよ、あたしに聞くなよ。",
-  "en": "",
-  "status": ""
+  "en": "How should I know? Don't ask me.",
+  "status": "done"
  },
  {
   "id": "event_2198_014E8",
@@ -1436,8 +1436,8 @@
    14349
   ],
   "jp": "{voice:00D815}いつもそれだな……",
-  "en": "",
-  "status": ""
+  "en": "You always say that...",
+  "status": "done"
  },
  {
   "id": "event_2198_014FF",
@@ -1448,8 +1448,8 @@
    14367
   ],
   "jp": "{voice:00D915}楽しようとするなよ。",
-  "en": "",
-  "status": ""
+  "en": "Don't take the easy way out.",
+  "status": "done"
  },
  {
   "id": "event_2198_01518",
@@ -1460,8 +1460,8 @@
    14374
   ],
   "jp": "{voice:00DA15}あたしは哲学者じゃないし、{n}何かの教祖様でもないんだ、{n}意味は自分で探しなよ！",
-  "en": "",
-  "status": ""
+  "en": "I'm no philosopher, and I'm no Pontiff of anything. Find the meaning yourself!",
+  "status": "done"
  },
  {
   "id": "event_2198_01569",
@@ -1472,8 +1472,8 @@
    14392
   ],
   "jp": "{voice:00DB15}へいへい。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, yeah.",
+  "status": "done"
  },
  {
   "id": "event_2198_01578",
@@ -1484,8 +1484,8 @@
    14410
   ],
   "jp": "{voice:00DC15}あたしだってさ、探してるんだ。",
-  "en": "",
-  "status": ""
+  "en": "I'm looking too, you know.",
+  "status": "done"
  },
  {
   "id": "event_2198_0159B",
@@ -1496,8 +1496,8 @@
    14428
   ],
   "jp": "{voice:00DD15}ん？　何をだ？",
-  "en": "",
-  "status": ""
+  "en": "Hm? For what?",
+  "status": "done"
  },
  {
   "id": "event_2198_015AE",
@@ -1508,8 +1508,8 @@
    14446
   ],
   "jp": "{voice:00DE15}あたしの血の意味。",
-  "en": "",
-  "status": ""
+  "en": "The meaning of my blood.",
+  "status": "done"
  },
  {
   "id": "event_2198_015C5",
@@ -1520,8 +1520,8 @@
    14464
   ],
   "jp": "{voice:00DF15}そうか、見つかりそうか？",
-  "en": "",
-  "status": ""
+  "en": "I see. Think you'll find it?",
+  "status": "done"
  },
  {
   "id": "event_2198_015E2",
@@ -1532,8 +1532,8 @@
    14482
   ],
   "jp": "{voice:00E015}最近ね、思うようになった。",
-  "en": "",
-  "status": ""
+  "en": "Lately, I've started to think.",
+  "status": "done"
  },
  {
   "id": "event_2198_01601",
@@ -1544,8 +1544,8 @@
    14489
   ],
   "jp": "{voice:00E115}実は、結論は重要ではなくて、{n}見つける努力と過程が重要{n}なんじゃないかってさ。",
-  "en": "",
-  "status": ""
+  "en": "Maybe the answer doesn't matter. Maybe what matters is the effort and the process of looking.",
+  "status": "done"
  },
  {
   "id": "event_2198_01652",
@@ -1556,8 +1556,8 @@
    14507
   ],
   "jp": "{voice:00E215}ん……",
-  "en": "",
-  "status": ""
+  "en": "Hm...",
+  "status": "done"
  },
  {
   "id": "event_2198_0165D",
@@ -1568,8 +1568,8 @@
    14514
   ],
   "jp": "{voice:00E315}あのさ、メデューテ。{n}もしも俺に、エイミと同じように{n}竜の血が流れていたらどうする？",
-  "en": "",
-  "status": ""
+  "en": "Hey, Medoute. What if I had dragon blood in me, the same as Eimi?",
+  "status": "done"
  },
  {
   "id": "event_2198_016B4",
@@ -1580,8 +1580,8 @@
    14521
   ],
   "jp": "{voice:00E415}竜の力に目覚めたら、{n}俺を殺すか？{n}その、竜殺しの末裔として。",
-  "en": "",
-  "status": ""
+  "en": "If I woke to the dragon's power, would you kill me? Y'know, as a dragon slayer's descendant.",
+  "status": "done"
  },
  {
   "id": "event_2198_016F5",
@@ -1592,8 +1592,8 @@
    14539
   ],
   "jp": "{voice:00E515}竜殺しかどうかは関係ない。{n}それを決めるのは、人として、{n}そして友人としてだ。",
-  "en": "",
-  "status": ""
+  "en": "Being a dragon slayer has nothing to do with it. I'd decide that as a person, and as a friend.",
+  "status": "done"
  },
  {
   "id": "event_2198_01746",
@@ -1604,8 +1604,8 @@
    14557
   ],
   "jp": "{voice:00E615}もう、囚われていないんだな……{n}メデューテは。",
-  "en": "",
-  "status": ""
+  "en": "You're not trapped by it anymore, are you... Medoute.",
+  "status": "done"
  },
  {
   "id": "event_2198_01778",
@@ -1616,8 +1616,8 @@
    14575
   ],
   "jp": "{voice:00E715}さあ、どうだろう。",
-  "en": "",
-  "status": ""
+  "en": "Well, who knows.",
+  "status": "done"
  },
  {
   "id": "event_2198_0178F",
@@ -1628,8 +1628,8 @@
    14593
   ],
   "jp": "{voice:00E815}気付けば俺は、{n}がむしゃらに突き進んできた。",
-  "en": "",
-  "status": ""
+  "en": "I realize now, I've just been charging ahead blindly.",
+  "status": "done"
  },
  {
   "id": "event_2198_017BF",
@@ -1640,8 +1640,8 @@
    14600
   ],
   "jp": "{voice:00E915}それも重要な事だけど、{n}一度解放されないと見えてこない{n}部分もあるのかもしれないな。",
-  "en": "",
-  "status": ""
+  "en": "That matters too, but maybe there are things you can't see until you've been set free.",
+  "status": "done"
  },
  {
   "id": "event_2198_01816",
@@ -1652,8 +1652,8 @@
    14618
   ],
   "jp": "{voice:00EA15}そうだな。{n}だから旅をしよう。",
-  "en": "",
-  "status": ""
+  "en": "Yeah. So let's travel.",
+  "status": "done"
  },
  {
   "id": "event_2198_01838",
@@ -1664,8 +1664,8 @@
    14625
   ],
   "jp": "{voice:00EB15}でも、{n}早めに帰ってやらないとな。",
-  "en": "",
-  "status": ""
+  "en": "But we'd better get back soon, you know.",
+  "status": "done"
  },
  {
   "id": "event_2198_0185E",
@@ -1676,8 +1676,8 @@
    14632
   ],
   "jp": "{voice:00EC15}シスキアに怨まれる。",
-  "en": "",
-  "status": ""
+  "en": "Siskier will hate me for it.",
+  "status": "done"
  },
  {
   "id": "event_2198_01877",
@@ -1688,8 +1688,8 @@
    14650
   ],
   "jp": "{voice:00ED15}なんでそこでシスキアなんだよ。",
-  "en": "",
-  "status": ""
+  "en": "Why does Siskier come into it?",
+  "status": "done"
  },
  {
   "id": "event_2198_0189A",
@@ -1700,8 +1700,8 @@
    14668
   ],
   "jp": "{voice:00EE15}君って奴は、本当に…",
-  "en": "",
-  "status": ""
+  "en": "You really are something...",
+  "status": "done"
  },
  {
   "id": "event_2198_018B3",
@@ -1736,7 +1736,7 @@
    6410
   ],
   "jp": "キディ・ブロンガ",
-  "en": "",
-  "status": ""
+  "en": "Kiddy Brongaa",
+  "status": "done"
  }
 ]

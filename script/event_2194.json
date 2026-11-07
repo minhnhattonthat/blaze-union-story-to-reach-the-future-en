@@ -4510,8 +4510,8 @@
    93589
   ],
   "jp": "逃がすな…{n}等距離を保ちつつ、斉射を続けろ。",
-  "en": "",
-  "status": ""
+  "en": "Do not let them escape... Keep your distance and continue the volleys.",
+  "status": "done"
  },
  {
   "id": "event_2194_0EAC2",
@@ -4522,8 +4522,8 @@
    93654
   ],
   "jp": "正確な射撃だが、{n}この間合いでは我らの方が有利！",
-  "en": "",
-  "status": ""
+  "en": "Accurate fire, but at this range, the advantage is ours!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EAF2",
@@ -4534,8 +4534,8 @@
    93832
   ],
   "jp": "クッ、魔剣士の異名か。{n}名が泣いているぜ……",
-  "en": "",
-  "status": ""
+  "en": "Heh, the Magic Swordsman, huh. That name must be weeping...",
+  "status": "done"
  },
  {
   "id": "event_2194_0EB1E",
@@ -4546,8 +4546,8 @@
    93853
   ],
   "jp": "お、おのれぇ……",
-  "en": "",
-  "status": ""
+  "en": "Y-You wretch...",
+  "status": "done"
  },
  {
   "id": "event_2194_0EB2F",
@@ -4558,8 +4558,8 @@
    93925
   ],
   "jp": "くっ、{n}魔剣士の名は伊達じゃないって？",
-  "en": "",
-  "status": ""
+  "en": "Tch, so the name of Magic Swordsman ain't just for show?",
+  "status": "done"
  },
  {
   "id": "event_2194_0EB55",
@@ -4570,8 +4570,8 @@
    93932
   ],
   "jp": "だが、次は無い！",
-  "en": "",
-  "status": ""
+  "en": "But there won't be a next time!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EB66",
@@ -4582,8 +4582,8 @@
    93953
   ],
   "jp": "何度来ても同じさ。{n}その実力ではね！",
-  "en": "",
-  "status": ""
+  "en": "Come as often as you like, it's the same. Not with that skill!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EB8A",
@@ -4594,8 +4594,8 @@
    94138
   ],
   "jp": "な、なんだこの力は③",
-  "en": "",
-  "status": ""
+  "en": "Wh-What is this power!?",
+  "status": "done"
  },
  {
   "id": "event_2194_0EB9F",
@@ -4606,8 +4606,8 @@
    94159
   ],
   "jp": "へっへ～！{n}だからみくびらないでって{n}言ったんだよ♪",
-  "en": "",
-  "status": ""
+  "en": "Hee hee~! I told you, don't underestimate me♪",
+  "status": "done"
  },
  {
   "id": "event_2194_0EBD2",
@@ -4618,8 +4618,8 @@
    94231
   ],
   "jp": "い、いたぁーぃ！",
-  "en": "",
-  "status": ""
+  "en": "O-Owwww!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EBE3",
@@ -4630,8 +4630,8 @@
    94252
   ],
   "jp": "次はこうは行かないよ～、だ！",
-  "en": "",
-  "status": ""
+  "en": "It won't go like this next time~, so there!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EC00",
@@ -4642,8 +4642,8 @@
    84854
   ],
   "jp": "帝国には関係のない戦いだ！{n}お前達は引っ込んでいてくれ②",
-  "en": "",
-  "status": ""
+  "en": "This fight's got nothing to do with the Empire! You guys stay out of it!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EC38",
@@ -4654,8 +4654,8 @@
    84875
   ],
   "jp": "帝国の民であるお前達が動く事が{n}どういう意味か判っていない{n}ようだな。",
-  "en": "",
-  "status": ""
+  "en": "It seems you don't grasp what it means when people of the Empire such as you take action.",
+  "status": "done"
  },
  {
   "id": "event_2194_0EC7D",
@@ -4666,8 +4666,8 @@
    84882
   ],
   "jp": "ヴェルマンも相当の処断を受ける。{n}彼に詫びて、死ぬがよい②",
-  "en": "",
-  "status": ""
+  "en": "Velleman will face a harsh sentence as well. Apologize to him, and die!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0ECB7",
@@ -4678,8 +4678,8 @@
    85090
   ],
   "jp": "ちょっと！{n}なんでアンタ達が出てくるわけ？",
-  "en": "",
-  "status": ""
+  "en": "Hey! What are you people doing here?",
+  "status": "done"
  },
  {
   "id": "event_2194_0ECE1",
@@ -4690,8 +4690,8 @@
    85111
   ],
   "jp": "口数の多い逆賊共め！{n}このバルドゥス、{n}必ずおぬしらを止めて見せよう②",
-  "en": "",
-  "status": ""
+  "en": "Mouthy traitors! I, Baldus, shall stop you without fail!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0ED26",
@@ -4702,8 +4702,8 @@
    85319
   ],
   "jp": "やれやれ、{n}帝国軍までお出ましとはね。{n}僕達も有名になったものだよ。",
-  "en": "",
-  "status": ""
+  "en": "Dear me, now even the Imperial Army's showing up. We've gotten famous.",
+  "status": "done"
  },
  {
   "id": "event_2194_0ED69",
@@ -4714,8 +4714,8 @@
    85340
   ],
   "jp": "この気迫、無鉄砲な若さとは違う。{n}並々ならぬ決意を感じる……",
-  "en": "",
-  "status": ""
+  "en": "This spirit is no mere reckless youth. I sense an uncommon resolve...",
+  "status": "done"
  },
  {
   "id": "event_2194_0EDA5",
@@ -4726,8 +4726,8 @@
    85548
   ],
   "jp": "相手は手練れの騎馬隊……{n}勢いを乗せて攻めてくるはず。",
-  "en": "",
-  "status": ""
+  "en": "We're up against skilled cavalry... They'll come at us with momentum behind them.",
+  "status": "done"
  },
  {
   "id": "event_2194_0EDDB",
@@ -4738,8 +4738,8 @@
    85569
   ],
   "jp": "各員、密集隊形！{n}突撃の勢いを受け流すぞ！",
-  "en": "",
-  "status": ""
+  "en": "All of you, tight formation! We'll deflect the force of their charge!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EE05",
@@ -4750,8 +4750,8 @@
    85770
   ],
   "jp": "姉さん、私に力を貸して……",
-  "en": "",
-  "status": ""
+  "en": "Sister, lend me your strength...",
+  "status": "done"
  },
  {
   "id": "event_2194_0EE20",
@@ -4762,8 +4762,8 @@
    85971
   ],
   "jp": "おっては、馬にのってきた。{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "The pursuers ride in on a high horse. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EE4A",
@@ -4774,8 +4774,8 @@
    85992
   ],
   "jp": "ん？　な、なんだ…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Wh-What...",
+  "status": "done"
  },
  {
   "id": "event_2194_0EE5D",
@@ -4786,8 +4786,8 @@
    86200
   ],
   "jp": "この状況、生き残れるかしら？",
-  "en": "",
-  "status": ""
+  "en": "I wonder if we can survive this?",
+  "status": "done"
  },
  {
   "id": "event_2194_0EE7A",
@@ -4798,8 +4798,8 @@
    86221
   ],
   "jp": "その答えは、否だ！",
-  "en": "",
-  "status": ""
+  "en": "The answer is no!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EE8D",
@@ -4810,8 +4810,8 @@
    86429
   ],
   "jp": "ここが死線と心得よ！",
-  "en": "",
-  "status": ""
+  "en": "Know that this is the line of death!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EEA2",
@@ -4822,8 +4822,8 @@
    86450
   ],
   "jp": "たとえ戦況が不利だって、{n}諦めてたまるかよ！",
-  "en": "",
-  "status": ""
+  "en": "Even if the battle's goin' badly, like hell I'm givin' up!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EECE",
@@ -4834,8 +4834,8 @@
    86658
   ],
   "jp": "ウぃック……{n}おや？　アンタ誰？",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... Oh? Who're you?",
+  "status": "done"
  },
  {
   "id": "event_2194_0EEEE",
@@ -4846,8 +4846,8 @@
    86679
   ],
   "jp": "ふざけた口を聞く！",
-  "en": "",
-  "status": ""
+  "en": "You dare mock me!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EF01",
@@ -4858,8 +4858,8 @@
    86887
   ],
   "jp": "『パメラ様、本気モ～ド♪』{n}九死に一生をゲぇ～ット②②",
-  "en": "",
-  "status": ""
+  "en": "\"Pamela-sama, serious mo~de♪\" A narrow escape, get~!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0EF37",
@@ -4870,8 +4870,8 @@
    86908
   ],
   "jp": "な、何だ③",
-  "en": "",
-  "status": ""
+  "en": "Wh-What!?",
+  "status": "done"
  },
  {
   "id": "event_2194_0EF42",
@@ -4882,8 +4882,8 @@
    87116
   ],
   "jp": "ネシア…、{n}人心を惑わすエセ預言者と聞く。",
-  "en": "",
-  "status": ""
+  "en": "Nessiah... I hear you are a false prophet who leads men's hearts astray.",
+  "status": "done"
  },
  {
   "id": "event_2194_0EF6C",
@@ -4894,8 +4894,8 @@
    87137
   ],
   "jp": "人心を惑わすという部分には、{n}十分同意できますが、{n}エセと呼ばれるのは心外ですね。",
-  "en": "",
-  "status": ""
+  "en": "I quite agree with the part about leading hearts astray, but I do resent being called false.",
+  "status": "done"
  },
  {
   "id": "event_2194_0EFBD",
@@ -4906,8 +4906,8 @@
    87144
   ],
   "jp": "軍神と呼ばれたあなたの力、{n}見て差し上げましょう",
-  "en": "",
-  "status": ""
+  "en": "Let me have a look at the strength of the man they call the War God.",
+  "status": "done"
  },
  {
   "id": "event_2194_0EFED",
@@ -4918,8 +4918,8 @@
    87366
   ],
   "jp": "渋さは感じますが、{n}どうも歳をとりすぎていて、{n}触手が伸びて来ませんわ。",
-  "en": "",
-  "status": ""
+  "en": "He has a certain mature air, but he's rather too old to tempt me.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F034",
@@ -4930,8 +4930,8 @@
    87373
   ],
   "jp": "これはできればチェンジを{n}お願いしたいところ。",
-  "en": "",
-  "status": ""
+  "en": "I would so like to ask for a different one, if I may.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F062",
@@ -4942,8 +4942,8 @@
    87394
   ],
   "jp": "グラムブレイズは道化の集団か…",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze is a troupe of clowns...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F081",
@@ -4954,8 +4954,8 @@
    87465
   ],
   "jp": "軍神が相手か。{n}燃える、燃える、燃えてくるぜ②",
-  "en": "",
-  "status": ""
+  "en": "The War God's my opponent, huh. I'm burnin', burnin', gettin' fired up!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F0AF",
@@ -4966,8 +4966,8 @@
    87472
   ],
   "jp": "全身全霊で掛かってこい②{n}受け止めてやるぜッ！",
-  "en": "",
-  "status": ""
+  "en": "Come at me with all ya got!! I'll take it head on!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F0DD",
@@ -4978,8 +4978,8 @@
    87493
   ],
   "jp": "戦場で相対す以上、{n}己の全力を振り絞るのみ！{n}いざッ②",
-  "en": "",
-  "status": ""
+  "en": "When we meet on the battlefield, I can only give my all! Have at you!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F112",
@@ -4990,8 +4990,8 @@
    87701
   ],
   "jp": "アイギナの為に、私は戦う……",
-  "en": "",
-  "status": ""
+  "en": "For Aegina, I fight...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F12F",
@@ -5002,8 +5002,8 @@
    87722
   ],
   "jp": "この女の目、覇気が漲っておる②",
-  "en": "",
-  "status": ""
+  "en": "This woman's eyes are brimming with fighting spirit!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F14E",
@@ -5014,8 +5014,8 @@
    87937
   ],
   "jp": "ブロンキアの盾か。{n}自らお出ましとは驚きだぜ。",
-  "en": "",
-  "status": ""
+  "en": "The Shield of Bronquia, huh. I'm surprised you came out yourself.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F17C",
@@ -5026,8 +5026,8 @@
    87944
   ],
   "jp": "アンタと刃を交えられる事、{n}正直、喜びを感じるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Honestly, I'm glad to cross blades with you.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F1AE",
@@ -5038,8 +5038,8 @@
    87965
   ],
   "jp": "武人レオン！　いざ参る②",
-  "en": "",
-  "status": ""
+  "en": "Leon the warrior! Here I come!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F1C7",
@@ -5050,8 +5050,8 @@
    87986
   ],
   "jp": "その意気やよし！",
-  "en": "",
-  "status": ""
+  "en": "Well said!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F1D8",
@@ -5062,8 +5062,8 @@
    88201
   ],
   "jp": "わーい！　空から見ると{n}敵が地上に這いつくばる虫みたい！{n}よーし、攻撃だー②",
-  "en": "",
-  "status": ""
+  "en": "Yay! From up in the sky, the enemies look like bugs crawling on the ground! Okay, attack!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F223",
@@ -5074,8 +5074,8 @@
    88222
   ],
   "jp": "グリフォン！{n}いかん！　空に注意せよッ②",
-  "en": "",
-  "status": ""
+  "en": "A griffon! This won't do! Watch the skies!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F24B",
@@ -5086,8 +5086,8 @@
    94439
   ],
   "jp": "ガーロット、{n}まさに獅子が如き進軍……",
-  "en": "",
-  "status": ""
+  "en": "Garlot, a march truly like a lion's...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F271",
@@ -5098,8 +5098,8 @@
    94460
   ],
   "jp": "俺達はもう帝国とは関係ない！{n}自分の道は、自分で決める②",
-  "en": "",
-  "status": ""
+  "en": "We've got nothing to do with the Empire now! I decide my own road!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F2A9",
@@ -5110,8 +5110,8 @@
    94481
   ],
   "jp": "その若さ、羨ましい。{n}だが、拙者はそなた達を{n}止めねばならん。",
-  "en": "",
-  "status": ""
+  "en": "I envy your youth. But I must stop you.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F2E6",
@@ -5122,8 +5122,8 @@
    94553
   ],
   "jp": "着実に力を付けてきたようだな。{n}だが、ここまでだ②",
-  "en": "",
-  "status": ""
+  "en": "You have steadily grown in strength, it seems. But this is as far as you go!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F318",
@@ -5134,8 +5134,8 @@
    94574
   ],
   "jp": "負けられるかよ、ここで！",
-  "en": "",
-  "status": ""
+  "en": "Like hell I'm losing here!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F331",
@@ -5146,8 +5146,8 @@
    94773
   ],
   "jp": "いける！　今の私達なら②",
-  "en": "",
-  "status": ""
+  "en": "We can do this! The way we are now!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F34A",
@@ -5158,8 +5158,8 @@
    94794
   ],
   "jp": "右翼が崩されただと②{n}……いかん！",
-  "en": "",
-  "status": ""
+  "en": "The right wing has collapsed!? ...This won't do!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F36C",
@@ -5170,8 +5170,8 @@
    94859
   ],
   "jp": "ここで倒れるもんか…{n}アイギナのためにも{n}道を開くんだ！",
-  "en": "",
-  "status": ""
+  "en": "I'm not falling here... I'm opening the road, for Aegina's sake too!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F3A3",
@@ -5182,8 +5182,8 @@
    95037
   ],
   "jp": "よし、持ちこたえている。{n}ここで力を振り絞るんだ！",
-  "en": "",
-  "status": ""
+  "en": "Good, we're holding. Now's the time to give it everything!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F3D5",
@@ -5194,8 +5194,8 @@
    95058
   ],
   "jp": "やはり若さか……",
-  "en": "",
-  "status": ""
+  "en": "Youth, as I thought...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F3E6",
@@ -5206,8 +5206,8 @@
    95130
   ],
   "jp": "我が隊が優勢だが…{n}気迫の強さは変わらぬな。{n}よく訓練された兵だ。",
-  "en": "",
-  "status": ""
+  "en": "My unit has the upper hand... yet their spirit is as strong as ever. Well-trained soldiers.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F427",
@@ -5218,8 +5218,8 @@
    95151
   ],
   "jp": "今の僕達には決意がある！{n}だから、負けない②",
-  "en": "",
-  "status": ""
+  "en": "We've got resolve now! So we won't lose!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F453",
@@ -5230,8 +5230,8 @@
    95329
   ],
   "jp": "用兵の妙が、{n}数の少なさを補っている……{n}なんという戦巧者か。",
-  "en": "",
-  "status": ""
+  "en": "His brilliant tactics make up for their small numbers... What a master of war.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F490",
@@ -5242,8 +5242,8 @@
    95387
   ],
   "jp": "やはり小細工だけでは{n}動きを止められないね……",
-  "en": "",
-  "status": ""
+  "en": "So little tricks alone won't stop him, huh...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F4BE",
@@ -5254,8 +5254,8 @@
    95558
   ],
   "jp": "私は負けられない……",
-  "en": "",
-  "status": ""
+  "en": "I cannot lose...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F4D3",
@@ -5266,8 +5266,8 @@
    95623
   ],
   "jp": "帝国への裏切り、万死に値する！",
-  "en": "",
-  "status": ""
+  "en": "Betraying the Empire deserves ten thousand deaths!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F4F2",
@@ -5278,8 +5278,8 @@
    95644
   ],
   "jp": "負けられない、{n}私は絶対に負けられない……",
-  "en": "",
-  "status": ""
+  "en": "I cannot lose, I absolutely cannot lose...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F51C",
@@ -5290,8 +5290,8 @@
    95829
   ],
   "jp": "やるな、老将！{n}もう朗笑せずにマジメにやるよ。{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Not bad, old soldier! You soldier on. Now Byff gets serious. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F559",
@@ -5302,8 +5302,8 @@
    95850
   ],
   "jp": "バ、バカにしておるのかッ②",
-  "en": "",
-  "status": ""
+  "en": "A-Are you mocking me!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F574",
@@ -5314,8 +5314,8 @@
    95922
   ],
   "jp": "ぐぬぬ、やるな老将…{n}ちょっと冗談ヌキでヤバイぞ？",
-  "en": "",
-  "status": ""
+  "en": "Grrr, not bad, old soldier... No joke, this is bad, Byff thinks.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F5A6",
@@ -5326,8 +5326,8 @@
    95943
   ],
   "jp": "ブロンキアの盾の力、{n}守りのみと侮るなかれ②",
-  "en": "",
-  "status": ""
+  "en": "The strength of the Shield of Bronquia is more than defense. Do not underestimate it!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F5D2",
@@ -5338,8 +5338,8 @@
    96121
   ],
   "jp": "ふう…{n}こういう戦い、苦手なのよね。",
-  "en": "",
-  "status": ""
+  "en": "Whew... I'm no good at this kind of battle.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F5F6",
@@ -5350,8 +5350,8 @@
    96186
   ],
   "jp": "だから、{n}こう言うのって苦手なのよね。",
-  "en": "",
-  "status": ""
+  "en": "Like I said, I'm no good at this sort of thing.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F61C",
@@ -5362,8 +5362,8 @@
    96207
   ],
   "jp": "逃がすな！{n}一気に追い、殲滅せよ②",
-  "en": "",
-  "status": ""
+  "en": "Don't let them escape! Chase them down and wipe them out!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F63E",
@@ -5374,8 +5374,8 @@
    96392
   ],
   "jp": "身の軽さを最大の武器にしておる。{n}拙者の血が熱くたぎりおるわ…！",
-  "en": "",
-  "status": ""
+  "en": "Using his light step as his greatest weapon. My blood is boiling...!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F67E",
@@ -5386,8 +5386,8 @@
    96413
   ],
   "jp": "よしっ、まだやれるぜ！",
-  "en": "",
-  "status": ""
+  "en": "All right, I can still go!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F695",
@@ -5398,8 +5398,8 @@
    96485
   ],
   "jp": "うがっ、あぶねッ②",
-  "en": "",
-  "status": ""
+  "en": "Ugah, that was close!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F6A8",
@@ -5410,8 +5410,8 @@
    96506
   ],
   "jp": "手応えは確かにあったが、{n}深手は負っていぬようだな……",
-  "en": "",
-  "status": ""
+  "en": "I did feel my blow land, but it seems the wound is not deep...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F6DE",
@@ -5422,8 +5422,8 @@
    96684
   ],
   "jp": "陸に上がったウンディーネが、{n}これほどまでに強いなど、{n}聞いた事が無い③",
-  "en": "",
-  "status": ""
+  "en": "Never have I heard of an Undine so strong after coming on land!?",
+  "status": "done"
  },
  {
   "id": "event_2194_0F725",
@@ -5434,8 +5434,8 @@
    96691
   ],
   "jp": "しかも、酒臭いではないか……{n}どうなっているのだ、この軍団は！",
-  "en": "",
-  "status": ""
+  "en": "And she reeks of drink, too... What is going on with this army!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F763",
@@ -5446,8 +5446,8 @@
    96756
   ],
   "jp": "うわっ！{n}うう～、危ないじゃない、もう。{n}危うく戻しかけて…、ウェッ②",
-  "en": "",
-  "status": ""
+  "en": "Whoa! Ugh, that was dangerous, sheesh. I nearly lost my lunch... Urp!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F7A8",
@@ -5458,8 +5458,8 @@
    96777
   ],
   "jp": "な、なんと暴力的な……",
-  "en": "",
-  "status": ""
+  "en": "Wh-What violence...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F7BF",
@@ -5470,8 +5470,8 @@
    96962
   ],
   "jp": "ぐっ……",
-  "en": "",
-  "status": ""
+  "en": "Gah...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F7C8",
@@ -5482,8 +5482,8 @@
    96983
   ],
   "jp": "うほっ②　大戦果じゃない！{n}ま、パメラ様にかかれば{n}この程度ラクショウっていうか？",
-  "en": "",
-  "status": ""
+  "en": "Whoa!! What a triumph! Then again, this much is a piece of cake for Pamela-sama, y'know?",
+  "status": "done"
  },
  {
   "id": "event_2194_0F819",
@@ -5494,8 +5494,8 @@
    97055
   ],
   "jp": "口ほどにも無い……",
-  "en": "",
-  "status": ""
+  "en": "All talk...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F82C",
@@ -5506,8 +5506,8 @@
    97076
   ],
   "jp": "コホン！　コホン！{n}あー、ちょい風邪気味みたいねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Kaff! Kaff! Ah, I think I'm catching a bit of a cold.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F860",
@@ -5518,8 +5518,8 @@
    97083
   ],
   "jp": "『パメラ様本気モードッ☆』も{n}体調不良じゃ威力半減だわさ。",
-  "en": "",
-  "status": ""
+  "en": "Even \"Pamela-sama's serious mode☆\" loses half its punch when you're under the weather.",
+  "status": "done"
  },
  {
   "id": "event_2194_0F89A",
@@ -5530,8 +5530,8 @@
    97268
   ],
   "jp": "私をエセ呼ばわりした事、{n}後悔しましたか？",
-  "en": "",
-  "status": ""
+  "en": "Do you regret calling me a fraud?",
+  "status": "done"
  },
  {
   "id": "event_2194_0F8C4",
@@ -5542,8 +5542,8 @@
    97289
   ],
   "jp": "ぐぬぬっ②",
-  "en": "",
-  "status": ""
+  "en": "Grrrgh!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F8CF",
@@ -5554,8 +5554,8 @@
    97361
   ],
   "jp": "まるで手応えが、無い……",
-  "en": "",
-  "status": ""
+  "en": "It's as if my blows land on nothing...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F8E8",
@@ -5566,8 +5566,8 @@
    97382
   ],
   "jp": "この突破力、流石ですね。{n}フフフ……",
-  "en": "",
-  "status": ""
+  "en": "Such breakthrough power, impressive. Hehehe...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F90C",
@@ -5578,8 +5578,8 @@
    97581
   ],
   "jp": "なんと奇怪な攻撃か！{n}将兵が翻弄されておるではないか…",
-  "en": "",
-  "status": ""
+  "en": "What bizarre attacks! My officers and men are being toyed with...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F942",
@@ -5590,8 +5590,8 @@
    97602
   ],
   "jp": "あーぁ、年寄り相手は{n}どうも気が入りませんわ……",
-  "en": "",
-  "status": ""
+  "en": "Ah, I just can't get into it against old men...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F972",
@@ -5602,8 +5602,8 @@
    97673
   ],
   "jp": "おっしゃあ！{n}見たか、オレの力をよッ②",
-  "en": "",
-  "status": ""
+  "en": "Yeah! See that, my power!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0F998",
@@ -5614,8 +5614,8 @@
    97694
   ],
   "jp": "無謀な突撃、無謀な攻撃。{n}だが、恐るべきはその力……",
-  "en": "",
-  "status": ""
+  "en": "Reckless charges, reckless attacks. But the power behind them is fearsome...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F9CC",
@@ -5626,8 +5626,8 @@
    97773
   ],
   "jp": "あらあら、やられましたわ…",
-  "en": "",
-  "status": ""
+  "en": "Oh my, I've been beaten...",
+  "status": "done"
  },
  {
   "id": "event_2194_0F9E7",
@@ -5638,8 +5638,8 @@
    97780
   ],
   "jp": "ま、やる気があまりでませんから{n}しょうがないですわよね。",
-  "en": "",
-  "status": ""
+  "en": "Well, I wasn't feeling very motivated, so it can't be helped.",
+  "status": "done"
  },
  {
   "id": "event_2194_0FA1F",
@@ -5650,8 +5650,8 @@
    97844
   ],
   "jp": "ちっ、仕損じたかよ！{n}だが二度はないぜ②",
-  "en": "",
-  "status": ""
+  "en": "Tch, I botched it! But there won't be a second time!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0FA47",
@@ -5662,8 +5662,8 @@
    97865
   ],
   "jp": "加減はせぬ…{n}次はその首、貰い受けよう。",
-  "en": "",
-  "status": ""
+  "en": "I shall not hold back... Next time, I will have your head.",
+  "status": "done"
  },
  {
   "id": "event_2194_0FA6F",
@@ -5674,8 +5674,8 @@
    98050
   ],
   "jp": "突出した部分のみを取捨し、{n}次々と射落とすとは…",
-  "en": "",
-  "status": ""
+  "en": "Picking out only those who push ahead, and shooting them down one after another...",
+  "status": "done"
  },
  {
   "id": "event_2194_0FA9F",
@@ -5686,8 +5686,8 @@
    98071
   ],
   "jp": "鋭利な腕前と冷静さがあって{n}初めて為しえる妙技！{n}敵ながら見事よ②",
-  "en": "",
-  "status": ""
+  "en": "A marvelous feat, only possible with razor-sharp skill and a cool head! Enemy or not, well done!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0FAE0",
@@ -5698,8 +5698,8 @@
    98143
   ],
   "jp": "素早い……",
-  "en": "",
-  "status": ""
+  "en": "So fast...",
+  "status": "done"
  },
  {
   "id": "event_2194_0FAEB",
@@ -5710,8 +5710,8 @@
    98164
   ],
   "jp": "その程度の力では、{n}我が軍団を抜けぬぞ！",
-  "en": "",
-  "status": ""
+  "en": "Strength like that will not get you past my army!",
+  "status": "done"
  },
  {
   "id": "event_2194_0FB13",
@@ -5722,8 +5722,8 @@
    98349
   ],
   "jp": "どうだ、軍神！",
-  "en": "",
-  "status": ""
+  "en": "How's that, War God!",
+  "status": "done"
  },
  {
   "id": "event_2194_0FB22",
@@ -5734,8 +5734,8 @@
    98370
   ],
   "jp": "なんと真っ直ぐな武か！{n}胸の高鳴りまで感じるぞ②",
-  "en": "",
-  "status": ""
+  "en": "Such straightforward martial skill! I can feel my heart pounding!!",
+  "status": "done"
  },
  {
   "id": "event_2194_0FB52",
@@ -5746,8 +5746,8 @@
    98442
   ],
   "jp": "ちいッ②　仕損じたか…！",
-  "en": "",
-  "status": ""
+  "en": "Tch!! I botched it...!",
+  "status": "done"
  },
  {
   "id": "event_2194_0FB6B",
@@ -5758,8 +5758,8 @@
    98463
   ],
   "jp": "勝利への執念は認める。{n}この勝敗の差は、{n}経験の差だと知るがよい。",
-  "en": "",
-  "status": ""
+  "en": "I acknowledge your will to win. Know that the difference here is the difference in experience.",
+  "status": "done"
  },
  {
   "id": "event_2194_0FBAC",
@@ -5770,8 +5770,8 @@
    98655
   ],
   "jp": "あははっ、楽勝だね～！",
-  "en": "",
-  "status": ""
+  "en": "Ahaha, this is easy~!",
+  "status": "done"
  },
  {
   "id": "event_2194_0FBC3",
@@ -5782,8 +5782,8 @@
    98676
   ],
   "jp": "いかにも軽快なる攻撃…{n}だが、暴勇と呼ぶにふさわしい{n}爆発力がある！",
-  "en": "",
-  "status": ""
+  "en": "A nimble attack indeed... Yet it has an explosive power that deserves the name of reckless valor!",
+  "status": "done"
  },
  {
   "id": "event_2194_0FC06",
@@ -5794,8 +5794,8 @@
    98697
   ],
   "jp": "あの小娘、何者だ…？",
-  "en": "",
-  "status": ""
+  "en": "That little girl, what is she...?",
+  "status": "done"
  },
  {
   "id": "event_2194_0FC1B",
@@ -5806,8 +5806,8 @@
    98776
   ],
   "jp": "退けたか…{n}しかし、末恐ろしい小娘よ。",
-  "en": "",
-  "status": ""
+  "en": "I drove her off... But what a frightening girl she may grow into.",
+  "status": "done"
  },
  {
   "id": "event_2194_0FC41",
@@ -5818,7 +5818,7 @@
    98797
   ],
   "jp": "うぐぅ、やられちゃった…{n}でもでも！　次こそは②",
-  "en": "",
-  "status": ""
+  "en": "Ugh, I got beat... But still! Next time for sure!!",
+  "status": "done"
  }
 ]

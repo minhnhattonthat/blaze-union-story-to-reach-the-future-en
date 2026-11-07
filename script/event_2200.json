@@ -8,8 +8,8 @@
    10607
   ],
   "jp": "{voice:006916}しかし、パンドラが{n}生きていたとはね……",
-  "en": "",
-  "status": ""
+  "en": "So Pandra was alive, huh...",
+  "status": "done"
  },
  {
   "id": "event_2200_00054",
@@ -20,8 +20,8 @@
    10628
   ],
   "jp": "{voice:006A16}あのパンドラだよ。{n}崖から落ちたぐらいで死なないよ。",
-  "en": "",
-  "status": ""
+  "en": "He's Pandra. He won't die just from falling off a cliff.",
+  "status": "done"
  },
  {
   "id": "event_2200_0008C",
@@ -32,8 +32,8 @@
    10649
   ],
   "jp": "{voice:006B16}あーぁ、セリカみたいに、{n}ベアトリーヌさんに怒られて{n}引き下がればいいんだけどなぁ……",
-  "en": "",
-  "status": ""
+  "en": "Ugh, if only he'd back down like Cerica, after getting scolded by Baretreenu-san...",
+  "status": "done"
  },
  {
   "id": "event_2200_000E5",
@@ -44,8 +44,8 @@
    10670
   ],
   "jp": "{voice:006C16}それは面白い考えだが、{n}まぁ無いだろうな。",
-  "en": "",
-  "status": ""
+  "en": "That's an interesting idea, but it's not going to happen.",
+  "status": "done"
  },
  {
   "id": "event_2200_00113",
@@ -56,8 +56,8 @@
    10721
   ],
   "jp": "{voice:006D16}しかし彼、よく立ち直れたよね。{n}反乱軍を壊滅させてから、{n}それほど日も経っていないのに。",
-  "en": "",
-  "status": ""
+  "en": "But he sure bounced back fast. It hasn't been that long since we wiped out the rebels.",
+  "status": "done"
  },
  {
   "id": "event_2200_0016E",
@@ -68,8 +68,8 @@
    10742
   ],
   "jp": "{voice:006E16}あの口の巧さ、調子の良さは{n}やはり相当だったわけですね。",
-  "en": "",
-  "status": ""
+  "en": "Such a smooth tongue and easy charm truly must be something.",
+  "status": "done"
  },
  {
   "id": "event_2200_001AA",
@@ -80,8 +80,8 @@
    10763
   ],
   "jp": "{voice:006F16}多分、皇帝の重病を喧伝して{n}不満分子を再度集めたんだろう。",
-  "en": "",
-  "status": ""
+  "en": "He probably spread word of the Emperor's illness to gather the malcontents again.",
+  "status": "done"
  },
  {
   "id": "event_2200_001E8",
@@ -92,8 +92,8 @@
    10784
   ],
   "jp": "{voice:007016}ソルティエ皇帝は軍事の人…{n}蜂起したら、一軍を率いて{n}討伐に来るかもしれない。",
-  "en": "",
-  "status": ""
+  "en": "Emperor Soltier is a military man... If they rise up, he may lead an army to put them down.",
+  "status": "done"
  },
  {
   "id": "event_2200_00239",
@@ -104,8 +104,8 @@
    10791
   ],
   "jp": "{voice:007116}ところが、皇帝が病となれば、{n}状況が変わるわけです。",
-  "en": "",
-  "status": ""
+  "en": "But if the Emperor falls ill, the situation changes.",
+  "status": "done"
  },
  {
   "id": "event_2200_00271",
@@ -116,8 +116,8 @@
    10812
   ],
   "jp": "{voice:007216}なるほど…{n}人の心を掴むのが得意な{n}パンドラらしいやり方って訳か。",
-  "en": "",
-  "status": ""
+  "en": "I see... Winning people over is Pandra's specialty, so that's just his style.",
+  "status": "done"
  },
  {
   "id": "event_2200_002B6",
@@ -128,8 +128,8 @@
    10867
   ],
   "jp": "{voice:007316}ですが、パンドラはどこから{n}皇帝の病の情報を、手に入れた{n}のでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "But where did Pandra get word of the Emperor's illness?",
+  "status": "done"
  },
  {
   "id": "event_2200_00301",
@@ -140,8 +140,8 @@
    10888
   ],
   "jp": "{voice:007416}それはわからない。{n}もしかすると、いい加減な嘘を{n}ついているだけかもな。",
-  "en": "",
-  "status": ""
+  "en": "That I do not know. Perhaps he is merely telling a careless lie.",
+  "status": "done"
  },
  {
   "id": "event_2200_0034C",
@@ -152,8 +152,8 @@
    10982
   ],
   "jp": "{voice:007516}ヴェルマン方伯、{n}お願いがあるのですが……",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman, I have a request...",
+  "status": "done"
  },
  {
   "id": "event_2200_0037A",
@@ -164,8 +164,8 @@
    11003
   ],
   "jp": "{voice:007616}おや、ベアトリーヌ殿。{n}どうされた？",
-  "en": "",
-  "status": ""
+  "en": "Oh, Baretreenu-dono. What is it?",
+  "status": "done"
  },
  {
   "id": "event_2200_003A2",
@@ -176,8 +176,8 @@
    11024
   ],
   "jp": "{voice:007716}今回の呪手術は難度が高く、{n}私一人では少々不安があります。{n}助手をお貸し頂きたいのです。",
-  "en": "",
-  "status": ""
+  "en": "This arcane surgery is very difficult, and I am uneasy doing it alone. I would like an assistant.",
+  "status": "done"
  },
  {
   "id": "event_2200_003FD",
@@ -188,8 +188,8 @@
    11031
   ],
   "jp": "{voice:007816}ただ、誰でもいいという{n}わけではありません。",
-  "en": "",
-  "status": ""
+  "en": "However, not just anyone will do.",
+  "status": "done"
  },
  {
   "id": "event_2200_0042D",
@@ -200,8 +200,8 @@
    11038
   ],
   "jp": "{voice:007916}魔術の心得を持つ方に{n}お願いしたいのです。{n}できれば能力の高い方に……",
-  "en": "",
-  "status": ""
+  "en": "I would like someone versed in magic. If possible, someone of high ability...",
+  "status": "done"
  },
  {
   "id": "event_2200_00476",
@@ -224,8 +224,8 @@
    11122
   ],
   "jp": "{voice:007B16}呪術系はどうもね……{n}ネシアの方が向いてると思うわ。",
-  "en": "",
-  "status": ""
+  "en": "Curses aren't really my thing... I think Nessiah's better suited.",
+  "status": "done"
  },
  {
   "id": "event_2200_004BF",
@@ -236,8 +236,8 @@
    11185
   ],
   "jp": "{voice:007C16}このパメラ様の名前を{n}忘れないように！",
-  "en": "",
-  "status": ""
+  "en": "Don't you forget the name of Pamela-sama!",
+  "status": "done"
  },
  {
   "id": "event_2200_004E9",
@@ -248,8 +248,8 @@
    11229
   ],
   "jp": "{voice:007D16}私にやらせて頂けませんか？{n}魔竜については少々学もあります。",
-  "en": "",
-  "status": ""
+  "en": "Will you let me do it? I have some learning on the subject of the demon dragon.",
+  "status": "done"
  },
  {
   "id": "event_2200_00529",
@@ -260,8 +260,8 @@
    11250
   ],
   "jp": "{voice:007E16}そうだな……{n}ならばネシアに頼もう。",
-  "en": "",
-  "status": ""
+  "en": "Let me see... Very well, I shall ask Nessiah.",
+  "status": "done"
  },
  {
   "id": "event_2200_00551",
@@ -272,8 +272,8 @@
    11401
   ],
   "jp": "{voice:007F16}ぶ～！{n}別に手術なんかやりたくないけど、{n}なんだか負けた気分だわさ！",
-  "en": "",
-  "status": ""
+  "en": "Boo! It's not like I wanted to do some surgery, but I feel like I lost somehow!",
+  "status": "done"
  },
  {
   "id": "event_2200_00598",
@@ -284,8 +284,8 @@
    11452
   ],
   "jp": "{voice:008016}全力で助手を務めます。",
-  "en": "",
-  "status": ""
+  "en": "I shall assist you with all my strength.",
+  "status": "done"
  },
  {
   "id": "event_2200_005B3",
@@ -296,8 +296,8 @@
    11500
   ],
   "jp": "{voice:008116}よろしくお願いします。{n}ネシアさん。",
-  "en": "",
-  "status": ""
+  "en": "I am in your hands, Nessiah-san.",
+  "status": "done"
  },
  {
   "id": "event_2200_005DB",
@@ -308,8 +308,8 @@
    11521
   ],
   "jp": "{voice:008216}では、参りましょうか……",
-  "en": "",
-  "status": ""
+  "en": "Then, shall we go...",
+  "status": "done"
  },
  {
   "id": "event_2200_005F8",
@@ -320,8 +320,8 @@
    11692
   ],
   "jp": "{voice:008316}呪手術って、{n}どういうこと、するんだろ？",
-  "en": "",
-  "status": ""
+  "en": "Arcane surgery. I wonder what that even involves?",
+  "status": "done"
  },
  {
   "id": "event_2200_00624",
@@ -332,8 +332,8 @@
    11713
   ],
   "jp": "{voice:008416}身体に刃物を入れて、{n}切り開いたりするのかな？",
-  "en": "",
-  "status": ""
+  "en": "Maybe they put blades into the body and cut it open?",
+  "status": "done"
  },
  {
   "id": "event_2200_00656",
@@ -344,8 +344,8 @@
    11737
   ],
   "jp": "{voice:008516}えええっ③{n}ジェノン、聞いてるだけで{n}痛くなること、言わないでよ！",
-  "en": "",
-  "status": ""
+  "en": "Whaaat!? Jenon, don't say stuff that hurts just to hear it!",
+  "status": "done"
  },
  {
   "id": "event_2200_0069B",
@@ -356,8 +356,8 @@
    11758
   ],
   "jp": "{voice:008616}手術って普通そうだろ。",
-  "en": "",
-  "status": ""
+  "en": "That's normally how surgery works.",
+  "status": "done"
  },
  {
   "id": "event_2200_006B6",
@@ -380,8 +380,8 @@
    11800
   ],
   "jp": "{voice:008716}ガーロット、どうかしたのか？",
-  "en": "",
-  "status": ""
+  "en": "Garlot, is something wrong?",
+  "status": "done"
  },
  {
   "id": "event_2200_006E2",
@@ -392,8 +392,8 @@
    11821
   ],
   "jp": "{voice:008816}いや、俺、{n}やっぱりベアトリーヌをどこかで{n}見た事がある気がするんだ……",
-  "en": "",
-  "status": ""
+  "en": "No... I just feel like I've seen Baretreenu somewhere before after all...",
+  "status": "done"
  },
  {
   "id": "event_2200_0072D",
@@ -404,8 +404,8 @@
    11842
   ],
   "jp": "{voice:008916}そうなの？{n}エイミとは面識があったみたい{n}だったけど……",
-  "en": "",
-  "status": ""
+  "en": "Really? It seemed like she knew Eimi, at least...",
+  "status": "done"
  },
  {
   "id": "event_2200_00768",
@@ -416,8 +416,8 @@
    11863
   ],
   "jp": "{voice:008A16}話は終わりだ、奴らが来たぜ。",
-  "en": "",
-  "status": ""
+  "en": "That's enough talk. Here they come.",
+  "status": "done"
  },
  {
   "id": "event_2200_00789",
@@ -428,8 +428,8 @@
    13353
   ],
   "jp": "{voice:008B16}懐かしいな、凱旋門だ……",
-  "en": "",
-  "status": ""
+  "en": "How nostalgic, the triumphal gate...",
+  "status": "done"
  },
  {
   "id": "event_2200_007A6",
@@ -440,8 +440,8 @@
    13417
   ],
   "jp": "{voice:008C16}かなりの部隊数だな……{n}集められるだけ、集めたって{n}感じだ。",
-  "en": "",
-  "status": ""
+  "en": "That's a lot of units... Looks like they gathered everything they could.",
+  "status": "done"
  },
  {
   "id": "event_2200_007E5",
@@ -452,8 +452,8 @@
    13424
   ],
   "jp": "{voice:008D16}だけど、なぜか…{n}恐れはない、驚きもしない。{n}これが経験を積むという事なのか？",
-  "en": "",
-  "status": ""
+  "en": "But somehow... I'm not scared, and I'm not surprised. Is this what experience does?",
+  "status": "done"
  },
  {
   "id": "event_2200_00836",
@@ -464,8 +464,8 @@
    13488
   ],
   "jp": "{voice:008E16}ありゃ、グラムブレイズか……",
-  "en": "",
-  "status": ""
+  "en": "Oh, it's Gram Blaze...",
+  "status": "done"
  },
  {
   "id": "event_2200_00857",
@@ -476,8 +476,8 @@
    13552
   ],
   "jp": "{voice:008F16}パンドラ、貴様も懲りないな。{n}今回もちゃんと逃げ道は{n}用意しているか？",
-  "en": "",
-  "status": ""
+  "en": "Pandra, you never learn. Got your escape route all ready again this time?",
+  "status": "done"
  },
  {
   "id": "event_2200_008A0",
@@ -488,8 +488,8 @@
    13573
   ],
   "jp": "{voice:009016}俺は逃げた事はねぇよ。{n}あれは撤退という作戦の一つだ。",
-  "en": "",
-  "status": ""
+  "en": "I've never run away. That was a strategy called a withdrawal.",
+  "status": "done"
  },
  {
   "id": "event_2200_008DA",
@@ -500,8 +500,8 @@
    13594
   ],
   "jp": "{voice:009116}相変わらずだな、{n}屁理屈ばかり抜かしやがるぜ……",
-  "en": "",
-  "status": ""
+  "en": "Same as ever, always spouting your twisted logic...",
+  "status": "done"
  },
  {
   "id": "event_2200_0090E",
@@ -512,8 +512,8 @@
    13644
   ],
   "jp": "{voice:009216}ん？　レオン、何やってんだ？{n}もしかして、俺の為に諜報活動か？",
-  "en": "",
-  "status": ""
+  "en": "Hm? Leon, what're you up to? Don't tell me you're spying for me?",
+  "status": "done"
  },
  {
   "id": "event_2200_00950",
@@ -524,8 +524,8 @@
    13665
   ],
   "jp": "{voice:009316}言ってろ。{n}グラムブレイズには、{n}貴様の戯れ言を信じる奴はいねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Keep talking. Nobody in Gram Blaze believes your garbage.",
+  "status": "done"
  },
  {
   "id": "event_2200_00995",
@@ -536,8 +536,8 @@
    13686
   ],
   "jp": "{voice:009416}ケッ、もしかしてお友達ゴッコか？{n}やだやだ、牙をもがれたのか……",
-  "en": "",
-  "status": ""
+  "en": "Heh, what, playing at friends? Oh dear, did they pull your fangs...",
+  "status": "done"
  },
  {
   "id": "event_2200_009D9",
@@ -548,8 +548,8 @@
    13750
   ],
   "jp": "{voice:009516}全軍戦闘態勢だ！{n}反乱軍を迎え撃つぜ②",
-  "en": "",
-  "status": ""
+  "en": "All troops, battle stations! We're taking on the rebels!!",
+  "status": "done"
  },
  {
   "id": "event_2200_00A03",
@@ -560,8 +560,8 @@
    13948
   ],
   "jp": "{voice:009616}どうせ一度は棄てた命なんだ…{n}恐れる事はねぇさ。",
-  "en": "",
-  "status": ""
+  "en": "This life's one I already threw away once... Nothing to fear.",
+  "status": "done"
  },
  {
   "id": "event_2200_00A37",
@@ -572,8 +572,8 @@
    13969
   ],
   "jp": "{voice:009716}お前ら！{n}隊列なんてどうでもいい！{n}凱旋門に向かって雪崩れ込め②",
-  "en": "",
-  "status": ""
+  "en": "You lot! Forget the ranks! Pour through at the triumphal gate!!",
+  "status": "done"
  },
  {
   "id": "event_2200_00A7A",
@@ -584,8 +584,8 @@
    17374
   ],
   "jp": "{voice:009816}ちッ！　ここまでか……",
-  "en": "",
-  "status": ""
+  "en": "Tch! So this is as far as I go...",
+  "status": "done"
  },
  {
   "id": "event_2200_00A95",
@@ -596,8 +596,8 @@
    17395
   ],
   "jp": "{voice:009916}逃げないのか、パンドラ？",
-  "en": "",
-  "status": ""
+  "en": "You're not running, Pandra?",
+  "status": "done"
  },
  {
   "id": "event_2200_00AB2",
@@ -608,8 +608,8 @@
    17416
   ],
   "jp": "{voice:009A16}…鍛錬を積んだ前の軍とは違う。{n}俺が突っ込まなきゃ、{n}つく勢いもつきゃしねぇ。",
-  "en": "",
-  "status": ""
+  "en": "...These aren't the drilled troops from before. If I don't charge in, there's no momentum at all.",
+  "status": "done"
  },
  {
   "id": "event_2200_00B03",
@@ -620,8 +620,8 @@
    17423
   ],
   "jp": "{voice:009B16}今回は、退路を残しておく{n}余裕なんてなかったしな。",
-  "en": "",
-  "status": ""
+  "en": "And this time, I couldn't afford to save myself a way out.",
+  "status": "done"
  },
  {
   "id": "event_2200_00B39",
@@ -632,8 +632,8 @@
    17444
   ],
   "jp": "{voice:009C16}なんだ、今回はどういう冗談だ？",
-  "en": "",
-  "status": ""
+  "en": "What, what kind of joke is this?",
+  "status": "done"
  },
  {
   "id": "event_2200_00B5C",
@@ -644,8 +644,8 @@
    17499
   ],
   "jp": "{voice:009D16}パ、パンドラさん……",
-  "en": "",
-  "status": ""
+  "en": "P-Pandra-san...",
+  "status": "done"
  },
  {
   "id": "event_2200_00B75",
@@ -656,8 +656,8 @@
    17520
   ],
   "jp": "{voice:009E16}俺の部隊はもう無理だ……{n}何やってる！　突っ込め②",
-  "en": "",
-  "status": ""
+  "en": "My unit's done for... What're you doing! Charge in!!",
+  "status": "done"
  },
  {
   "id": "event_2200_00BAB",
@@ -668,8 +668,8 @@
    17541
   ],
   "jp": "{voice:009F16}この国を変えるんだろ③{n}お前らの心意気を見せてやれ②",
-  "en": "",
-  "status": ""
+  "en": "You want to change this country, don't you!? Show 'em your guts!!",
+  "status": "done"
  },
  {
   "id": "event_2200_00BE3",
@@ -680,8 +680,8 @@
    17562
   ],
   "jp": "{voice:00A016}へ、へへへ……、俺は英雄だ！{n}後世に語り継がれる英雄だ②",
-  "en": "",
-  "status": ""
+  "en": "H-Heh heh heh... I'm a hero! A hero they'll tell tales about for ages!!",
+  "status": "done"
  },
  {
   "id": "event_2200_00C1F",
@@ -692,8 +692,8 @@
    17822
   ],
   "jp": "{voice:00A116}パンドラが、{n}最後の最後で見せた底力か……",
-  "en": "",
-  "status": ""
+  "en": "So Pandra showed what he was made of, at the very end...",
+  "status": "done"
  },
  {
   "id": "event_2200_00C4D",
@@ -704,8 +704,8 @@
    24423
   ],
   "jp": "{voice:00A216}うわっ…{n}やっぱりダメだ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa... It's no good after all!",
+  "status": "done"
  },
  {
   "id": "event_2200_00C6B",
@@ -716,8 +716,8 @@
    24444
   ],
   "jp": "{voice:00A316}帝都の軍になんか、{n}勝てる訳がなかったんだ…{n}逃げるぞ②",
-  "en": "",
-  "status": ""
+  "en": "We never had a chance against the capital's army... Run for it!!",
+  "status": "done"
  },
  {
   "id": "event_2200_00CA6",
@@ -728,8 +728,8 @@
    24465
   ],
   "jp": "{voice:00A416}くそっ！{n}パンドラさんに騙されたのか……",
-  "en": "",
-  "status": ""
+  "en": "Damn it! Did Pandra-san trick us...",
+  "status": "done"
  },
  {
   "id": "event_2200_00CD2",
@@ -740,8 +740,8 @@
    24599
   ],
   "jp": "{voice:00A516}追うか、ガーロット？",
-  "en": "",
-  "status": ""
+  "en": "Should we chase them, Garlot?",
+  "status": "done"
  },
  {
   "id": "event_2200_00CEB",
@@ -752,8 +752,8 @@
    24620
   ],
   "jp": "{voice:00A616}いや、構わないだろう。",
-  "en": "",
-  "status": ""
+  "en": "No, it's fine.",
+  "status": "done"
  },
  {
   "id": "event_2200_00D06",
@@ -764,8 +764,8 @@
    24627
   ],
   "jp": "{voice:00A716}パンドラは討ったんだ。{n}もう同じ反乱の旗が、{n}掲げられる事はないだろう。",
-  "en": "",
-  "status": ""
+  "en": "Pandra's dead. Nobody's going to raise that same rebel flag again.",
+  "status": "done"
  },
  {
   "id": "event_2200_00D51",
@@ -776,8 +776,8 @@
    25131
   ],
   "jp": "{voice:00A816}パンドラの奴、なんだか{n}今までと印象が違ってたな。",
-  "en": "",
-  "status": ""
+  "en": "Pandra seemed kind of different from how he's been.",
+  "status": "done"
  },
  {
   "id": "event_2200_00D87",
@@ -788,8 +788,8 @@
    25152
   ],
   "jp": "{voice:00A916}旗揚げした頃のパンドラは、{n}しっかりした志があったのかもね。",
-  "en": "",
-  "status": ""
+  "en": "When he first raised his flag, maybe Pandra really had a proper goal.",
+  "status": "done"
  },
  {
   "id": "event_2200_00DC7",
@@ -800,8 +800,8 @@
    25173
   ],
   "jp": "{voice:00AA16}今回ばかりは、パンドラの野郎は{n}本気だった。それは確かだな。",
-  "en": "",
-  "status": ""
+  "en": "This one time, that bastard Pandra was serious. That's for sure.",
+  "status": "done"
  },
  {
   "id": "event_2200_00E07",
@@ -812,8 +812,8 @@
    25194
   ],
   "jp": "{voice:00AB16}あいつともっと早く会っていたら、{n}違う関係になれたかもな……",
-  "en": "",
-  "status": ""
+  "en": "If I'd met him sooner, maybe we could've been something else to each other...",
+  "status": "done"
  },
  {
   "id": "event_2200_00E47",
@@ -824,8 +824,8 @@
    25455
   ],
   "jp": "{voice:00AC16}片付いたようだな。",
-  "en": "",
-  "status": ""
+  "en": "So it's over, I see.",
+  "status": "done"
  },
  {
   "id": "event_2200_00E5E",
@@ -836,8 +836,8 @@
    25476
   ],
   "jp": "{voice:00AD16}ヴェルマン方伯。{n}手術の方はどうなりましたか？",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman. How did the surgery go?",
+  "status": "done"
  },
  {
   "id": "event_2200_00E90",
@@ -848,8 +848,8 @@
    25497
   ],
   "jp": "{voice:00AE16}無事終了したようだ。",
-  "en": "",
-  "status": ""
+  "en": "It seems to have finished safely.",
+  "status": "done"
  },
  {
   "id": "event_2200_00EA9",
@@ -860,8 +860,8 @@
    25518
   ],
   "jp": "{voice:00AF16}ベアトリーヌ殿は疲労が著しく、{n}宿でお休みになっています。",
-  "en": "",
-  "status": ""
+  "en": "Baretreenu-dono is badly exhausted, and resting at the inn.",
+  "status": "done"
  },
  {
   "id": "event_2200_00EE7",
@@ -872,8 +872,8 @@
    25596
   ],
   "jp": "{voice:00B016}ヴェルマン。{n}これから、どうするんだ？",
-  "en": "",
-  "status": ""
+  "en": "Velleman. What happens now?",
+  "status": "done"
  },
  {
   "id": "event_2200_00F11",
@@ -884,8 +884,8 @@
    25617
   ],
   "jp": "{voice:00B116}陛下の経過を見て、{n}無事なようならばティエラに戻る。",
-  "en": "",
-  "status": ""
+  "en": "I shall watch His Majesty's progress, and return to Tiera if all is well.",
+  "status": "done"
  },
  {
   "id": "event_2200_00F49",
@@ -896,8 +896,8 @@
    25624
   ],
   "jp": "{voice:00B216}もっとも、ベアトリーヌ殿が{n}起きるのを待たねばなるまいが…",
-  "en": "",
-  "status": ""
+  "en": "Though we must wait for Baretreenu-dono to wake...",
+  "status": "done"
  },
  {
   "id": "event_2200_00F87",
@@ -908,8 +908,8 @@
    25645
   ],
   "jp": "{voice:00B316}そんなに体力を酷使したのですか？",
-  "en": "",
-  "status": ""
+  "en": "Did it wear her out that badly?",
+  "status": "done"
  },
  {
   "id": "event_2200_00FAC",
@@ -920,8 +920,8 @@
    25666
   ],
   "jp": "{voice:00B416}わからぬ。{n}ネシアの話では、術後に突然{n}倒れたそうだ。",
-  "en": "",
-  "status": ""
+  "en": "I don't know. By Nessiah's account, she suddenly collapsed after the operation.",
+  "status": "done"
  },
  {
   "id": "event_2200_00FE5",
@@ -932,8 +932,8 @@
    25687
   ],
   "jp": "{voice:00B516}緊張の糸が切れたように、{n}フラリと身体が揺れたのですよ。",
-  "en": "",
-  "status": ""
+  "en": "Her body swayed all of a sudden, as if the tension had snapped.",
+  "status": "done"
  },
  {
   "id": "event_2200_01021",
@@ -944,8 +944,8 @@
    25694
   ],
   "jp": "{voice:00B616}とっさに支えましたが…{n}私が見ていたより、遥かに疲労が{n}溜まっていたようですね。",
-  "en": "",
-  "status": ""
+  "en": "I caught her at once... She had far more fatigue built up than I had realized, it seems.",
+  "status": "done"
  },
  {
   "id": "event_2200_01074",
@@ -956,8 +956,8 @@
    25701
   ],
   "jp": "{voice:00B716}少し休めば、{n}大丈夫かと思うのですが。",
-  "en": "",
-  "status": ""
+  "en": "A little rest should set her right, I would think.",
+  "status": "done"
  },
  {
   "id": "event_2200_0109E",
@@ -968,8 +968,8 @@
    25722
   ],
   "jp": "{voice:00B816}それじゃあベアトリーヌが{n}起き出すまで、帝都に滞在か…",
-  "en": "",
-  "status": ""
+  "en": "So we stay in the capital until Baretreenu's up...",
+  "status": "done"
  },
  {
   "id": "event_2200_010D8",
@@ -980,8 +980,8 @@
    25800
   ],
   "jp": "{voice:00B916}ヴェルマン…、あのさ、{n}私達って、世界を変えるために{n}戦っているんだよね？",
-  "en": "",
-  "status": ""
+  "en": "Velleman... Hey, we're fighting to change the world, right?",
+  "status": "done"
  },
  {
   "id": "event_2200_01125",
@@ -992,8 +992,8 @@
    25821
   ],
   "jp": "{voice:00BA16}その通りだが、今更どうした？",
-  "en": "",
-  "status": ""
+  "en": "That's right, but why ask now?",
+  "status": "done"
  },
  {
   "id": "event_2200_01146",
@@ -1004,8 +1004,8 @@
    25842
   ],
   "jp": "{voice:00BB16}パンドラ軍だって、帝政に対する{n}気持ちを持っていたんだよ。",
-  "en": "",
-  "status": ""
+  "en": "Pandra's army had their own feelings about the imperial regime too.",
+  "status": "done"
  },
  {
   "id": "event_2200_01184",
@@ -1016,8 +1016,8 @@
    25849
   ],
   "jp": "{voice:00BC16}戦うのにも抵抗があるよ……",
-  "en": "",
-  "status": ""
+  "en": "It's hard to fight them...",
+  "status": "done"
  },
  {
   "id": "event_2200_011A3",
@@ -1028,8 +1028,8 @@
    25870
   ],
   "jp": "{voice:00BD16}その気持ちは分かる。",
-  "en": "",
-  "status": ""
+  "en": "I understand how you feel.",
+  "status": "done"
  },
  {
   "id": "event_2200_011BC",
@@ -1040,8 +1040,8 @@
    25891
   ],
   "jp": "{voice:00BE16}本当かしら？",
-  "en": "",
-  "status": ""
+  "en": "Do you, really?",
+  "status": "done"
  },
  {
   "id": "event_2200_011CD",
@@ -1052,8 +1052,8 @@
    25912
   ],
   "jp": "{voice:00BF16}シスキア、それ以上は……",
-  "en": "",
-  "status": ""
+  "en": "Siskier, that's enough...",
+  "status": "done"
  },
  {
   "id": "event_2200_011EA",
@@ -1064,8 +1064,8 @@
    25933
   ],
   "jp": "{voice:00C016}いや、いいんだジェノン。",
-  "en": "",
-  "status": ""
+  "en": "No, it's all right, Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2200_01207",
@@ -1076,8 +1076,8 @@
    26011
   ],
   "jp": "{voice:00C116}シスキア、悪いからと言って{n}力だけでそれを倒すのは、愚かだ。",
-  "en": "",
-  "status": ""
+  "en": "Siskier, to bring something down by force alone, simply because it is bad, is foolish.",
+  "status": "done"
  },
  {
   "id": "event_2200_01247",
@@ -1088,8 +1088,8 @@
    26018
   ],
   "jp": "{voice:00C216}力のみで立てた旗は、力に溺れ、{n}遠からず力によって倒される。",
-  "en": "",
-  "status": ""
+  "en": "A flag raised by force alone drowns in force, and before long, force brings it down.",
+  "status": "done"
  },
  {
   "id": "event_2200_01287",
@@ -1100,8 +1100,8 @@
    26025
   ],
   "jp": "{voice:00C316}陛下の問題が、{n}病のせいであったとそう信じよう。",
-  "en": "",
-  "status": ""
+  "en": "Let us believe that His Majesty's problems were due to his illness.",
+  "status": "done"
  },
  {
   "id": "event_2200_012BB",
@@ -1112,8 +1112,8 @@
    26046
   ],
   "jp": "{voice:00C416}そして陛下が回復されたら、{n}共によりよき国を作ろう。",
-  "en": "",
-  "status": ""
+  "en": "And when His Majesty recovers, let us build a better country together.",
+  "status": "done"
  },
  {
   "id": "event_2200_012F3",
@@ -1124,8 +1124,8 @@
    26067
   ],
   "jp": "{voice:00C516}なんかさ、変わったね。{n}そんな事言われたら、{n}文句が言えなくなっちゃうよ。",
-  "en": "",
-  "status": ""
+  "en": "You've kind of changed. When you put it like that, I can't even complain.",
+  "status": "done"
  },
  {
   "id": "event_2200_01340",
@@ -1136,8 +1136,8 @@
    26159
   ],
   "jp": "{voice:00C616}ヴェルマン。{n}いや、ヴェルマン方伯。{n}シスキアを許してやってくれ。",
-  "en": "",
-  "status": ""
+  "en": "Velleman. No, Margrave Velleman. Please forgive Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2200_01385",
@@ -1160,8 +1160,8 @@
    26201
   ],
   "jp": "{voice:00C816}こいつ、貴族嫌いなんだ。{n}だからこういう風になるんだ。",
-  "en": "",
-  "status": ""
+  "en": "She hates nobles. That's why she gets like this.",
+  "status": "done"
  },
  {
   "id": "event_2200_013C8",
@@ -1172,8 +1172,8 @@
    26225
   ],
   "jp": "{voice:00C916}余計なこと言わないでよ！{n}貴族嫌いは関係ないって②",
-  "en": "",
-  "status": ""
+  "en": "Don't say unnecessary things! Hating nobles has nothing to do with it!!",
+  "status": "done"
  },
  {
   "id": "event_2200_013FE",
@@ -1184,8 +1184,8 @@
    26273
   ],
   "jp": "{voice:00CA16}はっきり言うものだ。{n}私も貴族だというのに……",
-  "en": "",
-  "status": ""
+  "en": "How bluntly you say so. And I, a noble myself...",
+  "status": "done"
  },
  {
   "id": "event_2200_01430",
@@ -1196,8 +1196,8 @@
    26294
   ],
   "jp": "{voice:00CB16}いや、ヴェルマンは、{n}貴族だけど、ええっとその……",
-  "en": "",
-  "status": ""
+  "en": "No, I mean, you're a noble, Velleman, but, um, well...",
+  "status": "done"
  },
  {
   "id": "event_2200_01466",
@@ -1208,8 +1208,8 @@
    26315
   ],
   "jp": "{voice:00CC16}うむ、冗談だ。",
-  "en": "",
-  "status": ""
+  "en": "Mm, that was a joke.",
+  "status": "done"
  },
  {
   "id": "event_2200_01479",
@@ -1220,8 +1220,8 @@
    26398
   ],
   "jp": "{voice:00CD16}…やっぱり嫌い。",
-  "en": "",
-  "status": ""
+  "en": "...I knew it, I hate you.",
+  "status": "done"
  },
  {
   "id": "event_2200_0148E",
@@ -1232,8 +1232,8 @@
    14282
   ],
   "jp": "聞け、野郎ども！{n}あの赤髪が総大将だ！",
-  "en": "",
-  "status": ""
+  "en": "Listen up, you lot! That redhead's their commander!",
+  "status": "done"
  },
  {
   "id": "event_2200_014B4",
@@ -1244,8 +1244,8 @@
    14289
   ],
   "jp": "あいつの首を取れば{n}この戦は勝った事になる！{n}死ぬ気で、取りに行くぜ②",
-  "en": "",
-  "status": ""
+  "en": "Take his head and this battle's ours! We're going for it like our lives depend on it!!",
+  "status": "done"
  },
  {
   "id": "event_2200_014F9",
@@ -1256,8 +1256,8 @@
    14310
   ],
   "jp": "死ぬ気で取りにいくか。{n}覚悟を、決めたようだな。",
-  "en": "",
-  "status": ""
+  "en": "Going for it like your lives depend on it, huh. Looks like you've made up your mind.",
+  "status": "done"
  },
  {
   "id": "event_2200_01529",
@@ -1268,8 +1268,8 @@
    14525
   ],
   "jp": "今度は何で兵士を釣ったの？{n}お金？　食べ物？　要職？{n}まさか女の子？",
-  "en": "",
-  "status": ""
+  "en": "What did you bait your soldiers with this time? Money? Food? High posts? Don't tell me, girls?",
+  "status": "done"
  },
  {
   "id": "event_2200_0156C",
@@ -1280,8 +1280,8 @@
    14546
   ],
   "jp": "俺、そして志。",
-  "en": "",
-  "status": ""
+  "en": "Me, and my cause.",
+  "status": "done"
  },
  {
   "id": "event_2200_0157B",
@@ -1304,8 +1304,8 @@
    14588
   ],
   "jp": "俺の素をぶちまけたんだよ。{n}そしたら付いてくるってよ。{n}気持ちいいもんだぜ！",
-  "en": "",
-  "status": ""
+  "en": "I just spilled my guts to them. And they said they'd follow me. Feels great!",
+  "status": "done"
  },
  {
   "id": "event_2200_015CD",
@@ -1316,8 +1316,8 @@
    14803
   ],
   "jp": "小細工は無用だ！{n}大兵力で押し潰すぜ②",
-  "en": "",
-  "status": ""
+  "en": "No need for tricks! We'll crush them with big numbers!!",
+  "status": "done"
  },
  {
   "id": "event_2200_015F3",
@@ -1328,8 +1328,8 @@
    14824
   ],
   "jp": "パンドラが前線に立っている。{n}なにか裏があるのか？{n}それとも捨て身なのか……",
-  "en": "",
-  "status": ""
+  "en": "Pandra's out on the front line. Is there something behind this? Or is he throwing himself away...",
+  "status": "done"
  },
  {
   "id": "event_2200_0163E",
@@ -1340,8 +1340,8 @@
    15025
   ],
   "jp": "奴ら、手強いぜ！{n}気を抜いて勝てるとは思うな。{n}いいな！",
-  "en": "",
-  "status": ""
+  "en": "These guys are tough! Don't think you can win by slacking off. Got that!",
+  "status": "done"
  },
  {
   "id": "event_2200_01675",
@@ -1352,8 +1352,8 @@
    15046
   ],
   "jp": "そうか、覚悟を決めたようだな、{n}パンドラ……",
-  "en": "",
-  "status": ""
+  "en": "I see. You've made up your mind, Pandra...",
+  "status": "done"
  },
  {
   "id": "event_2200_016A1",
@@ -1364,8 +1364,8 @@
    15247
   ],
   "jp": "私が相手となりましょう！{n}いざ、勝負です②",
-  "en": "",
-  "status": ""
+  "en": "I will be your opponent! Have at you!!",
+  "status": "done"
  },
  {
   "id": "event_2200_016CB",
@@ -1376,8 +1376,8 @@
    15268
   ],
   "jp": "行くぜ！{n}俺達の力、見せてやるんだ。",
-  "en": "",
-  "status": ""
+  "en": "Let's go! Let's show 'em what we've got.",
+  "status": "done"
  },
  {
   "id": "event_2200_016EF",
@@ -1388,8 +1388,8 @@
    15469
   ],
   "jp": "またでたな、パンドラ。{n}軍をぐんぐん集めてるな。{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Pandra again. Your troops keep trooping in. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2200_0172E",
@@ -1400,8 +1400,8 @@
    15490
   ],
   "jp": "なんだよ、ギャグか？{n}それは笑えないだろ？",
-  "en": "",
-  "status": ""
+  "en": "What's that, a gag? That's not funny, is it?",
+  "status": "done"
  },
  {
   "id": "event_2200_01758",
@@ -1412,8 +1412,8 @@
    15684
   ],
   "jp": "あーぁ、大砲撃てば一瞬で{n}片付くのにね……",
-  "en": "",
-  "status": ""
+  "en": "Ugh, if I fired a cannon, this would be over in a second...",
+  "status": "done"
  },
  {
   "id": "event_2200_01782",
@@ -1424,8 +1424,8 @@
    15691
   ],
   "jp": "ま、被害は大きくなるけど。",
-  "en": "",
-  "status": ""
+  "en": "Well, there'd be a lot more damage, though.",
+  "status": "done"
  },
  {
   "id": "event_2200_0179D",
@@ -1436,8 +1436,8 @@
    15885
   ],
   "jp": "またこんなに数を集めるなんて{n}ホントに凄い才能だよね。",
-  "en": "",
-  "status": ""
+  "en": "Gatherin' this many again, that's a real talent.",
+  "status": "done"
  },
  {
   "id": "event_2200_017D3",
@@ -1448,8 +1448,8 @@
    15906
   ],
   "jp": "ま、{n}それだけ帝国に不満を持つヤツが、{n}多いって事じゃねぇの？",
-  "en": "",
-  "status": ""
+  "en": "Well, I guess that just means a lot of people have a beef with the Empire, huh?",
+  "status": "done"
  },
  {
   "id": "event_2200_01810",
@@ -1460,8 +1460,8 @@
    16107
   ],
   "jp": "ヒック……{n}元気いいじゃない。{n}うぐぐ、吐きそう……",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... Aren't you lively. Urk, I'm gonna throw up...",
+  "status": "done"
  },
  {
   "id": "event_2200_01843",
@@ -1472,8 +1472,8 @@
    16128
   ],
   "jp": "汚ねぇ人魚だぜ、全くよ……",
-  "en": "",
-  "status": ""
+  "en": "What a disgusting mermaid, honestly...",
+  "status": "done"
  },
  {
   "id": "event_2200_0185E",
@@ -1484,8 +1484,8 @@
    16329
   ],
   "jp": "ま～た数だけ並べて、{n}お山の大将やってんの？",
-  "en": "",
-  "status": ""
+  "en": "Lined up all those numbers again, playing king of the hill?",
+  "status": "done"
  },
  {
   "id": "event_2200_0188A",
@@ -1496,8 +1496,8 @@
    16350
   ],
   "jp": "フッ、ま、そんなところだ。{n}覚悟はいつもと違うがなッ！",
-  "en": "",
-  "status": ""
+  "en": "Heh, something like that. But I'm a whole lot more serious this time!",
+  "status": "done"
  },
  {
   "id": "event_2200_018C0",
@@ -1508,8 +1508,8 @@
    16565
   ],
   "jp": "あらあら、勇壮な軍勢！{n}でも、少し頼りなさげのようで。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, what a gallant army! Though they do look a little unreliable.",
+  "status": "done"
  },
  {
   "id": "event_2200_018F6",
@@ -1520,8 +1520,8 @@
    16586
   ],
   "jp": "ま、寄せ集めだからな。{n}でもよ、士気は高いぜ！",
-  "en": "",
-  "status": ""
+  "en": "Well, they're a motley bunch. But hey, their morale's high!",
+  "status": "done"
  },
  {
   "id": "event_2200_01924",
@@ -1532,8 +1532,8 @@
    16664
   ],
   "jp": "お前、軍を潰したばかりなのに{n}よくこんだけ集めたな。{n}もしかして熱いのか？",
-  "en": "",
-  "status": ""
+  "en": "You just had your army crushed, and you still got this many together. Could it be you're hot-blooded?",
+  "status": "done"
  },
  {
   "id": "event_2200_0196D",
@@ -1544,8 +1544,8 @@
    16685
   ],
   "jp": "熱いぜ、今回はよ！{n}志で、燃えてるぜ②",
-  "en": "",
-  "status": ""
+  "en": "I'm hot, all right, this time! I'm burning with my cause!!",
+  "status": "done"
  },
  {
   "id": "event_2200_01993",
@@ -1556,8 +1556,8 @@
    16706
   ],
   "jp": "おおーーっ！{n}なんだよ、燃えてるじゃんか！{n}いいぜ、一緒に燃えようぜ②",
-  "en": "",
-  "status": ""
+  "en": "Whoaaa! Hey, you're on fire! All right, let's burn together!!",
+  "status": "done"
  },
  {
   "id": "event_2200_019D8",
@@ -1568,8 +1568,8 @@
    16914
   ],
   "jp": "よしっ、行くぜ！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's go!",
+  "status": "done"
  },
  {
   "id": "event_2200_019E9",
@@ -1580,8 +1580,8 @@
    16935
   ],
   "jp": "突撃か……、無謀な。{n}だが、気迫は十分に感じる。",
-  "en": "",
-  "status": ""
+  "en": "A charge... Reckless. But I feel spirit enough.",
+  "status": "done"
  },
  {
   "id": "event_2200_01A19",
@@ -1592,8 +1592,8 @@
    17136
   ],
   "jp": "決着をつけようぜ、パンドラ！{n}ククッ、逃げるなよ③",
-  "en": "",
-  "status": ""
+  "en": "Let's settle this, Pandra! Heh heh, don't you run!?",
+  "status": "done"
  },
  {
   "id": "event_2200_01A4B",
@@ -1604,8 +1604,8 @@
    17157
   ],
   "jp": "もう、逃げる場所はねぇ。{n}だからよ、結構思い切ってんだぜ。{n}決着つけようぜ、レオン②",
-  "en": "",
-  "status": ""
+  "en": "There's nowhere left to run. So I'm going all in. Let's settle this, Leon!!",
+  "status": "done"
  },
  {
   "id": "event_2200_01A9E",
@@ -1616,8 +1616,8 @@
    18723
   ],
   "jp": "相変わらず、スゲー突撃力だぜ。",
-  "en": "",
-  "status": ""
+  "en": "What a crazy charge you've got, same as ever.",
+  "status": "done"
  },
  {
   "id": "event_2200_01ABD",
@@ -1628,8 +1628,8 @@
    18744
   ],
   "jp": "だがよ、負けてたまるかよ！",
-  "en": "",
-  "status": ""
+  "en": "But like hell I'm losing!",
+  "status": "done"
  },
  {
   "id": "event_2200_01AD8",
@@ -1640,8 +1640,8 @@
    18765
   ],
   "jp": "今回のパンドラは、闘志が違う。{n}本当にやる気なのかよ……",
-  "en": "",
-  "status": ""
+  "en": "Pandra's fighting spirit is different this time. Is he really serious...",
+  "status": "done"
  },
  {
   "id": "event_2200_01B10",
@@ -1652,8 +1652,8 @@
    18844
   ],
   "jp": "よし、今だ！{n}一気に畳み掛けてぶっ潰すぜ！",
-  "en": "",
-  "status": ""
+  "en": "All right, now! We pile on and smash them in one go!",
+  "status": "done"
  },
  {
   "id": "event_2200_01B3A",
@@ -1664,8 +1664,8 @@
    18865
   ],
   "jp": "いい覚悟だな、パンドラ！",
-  "en": "",
-  "status": ""
+  "en": "You've got some resolve, Pandra!",
+  "status": "done"
  },
  {
   "id": "event_2200_01B53",
@@ -1676,8 +1676,8 @@
    19050
   ],
   "jp": "まだまだ！{n}かかって来いよ②",
-  "en": "",
-  "status": ""
+  "en": "Not done yet! Come on!!",
+  "status": "done"
  },
  {
   "id": "event_2200_01B6F",
@@ -1688,8 +1688,8 @@
    19071
   ],
   "jp": "な、なによ！{n}全然堪えてないってこと？",
-  "en": "",
-  "status": ""
+  "en": "Wh-What! You mean that didn't even faze you?",
+  "status": "done"
  },
  {
   "id": "event_2200_01B95",
@@ -1700,8 +1700,8 @@
    19143
   ],
   "jp": "勢いがある……{n}弓兵じゃ抵抗しづらいわね。",
-  "en": "",
-  "status": ""
+  "en": "They've got momentum... Hard for archers to hold them off.",
+  "status": "done"
  },
  {
   "id": "event_2200_01BBF",
@@ -1712,8 +1712,8 @@
    19164
   ],
   "jp": "よし、この勢いを借りて突撃だ！{n}行くぜッ②",
-  "en": "",
-  "status": ""
+  "en": "All right, ride this wave and charge! Let's go!!",
+  "status": "done"
  },
  {
   "id": "event_2200_01BE9",
@@ -1724,8 +1724,8 @@
    19349
   ],
   "jp": "まさか優男にすら、{n}やられちまうとはな……{n}練度低いなぁ、俺の部隊はよ。",
-  "en": "",
-  "status": ""
+  "en": "Getting beat even by a pretty boy... My unit's pretty green, huh.",
+  "status": "done"
  },
  {
   "id": "event_2200_01C30",
@@ -1736,8 +1736,8 @@
    19356
   ],
   "jp": "でもよ、{n}今日ばかりは引けないんだよ！",
-  "en": "",
-  "status": ""
+  "en": "But today, of all days, I can't back down!",
+  "status": "done"
  },
  {
   "id": "event_2200_01C56",
@@ -1748,8 +1748,8 @@
    19377
   ],
   "jp": "おいおい、どうなってるんだ？{n}いつものパンドラと違うぞ……",
-  "en": "",
-  "status": ""
+  "en": "Hey now, what's going on? This isn't the usual Pandra...",
+  "status": "done"
  },
  {
   "id": "event_2200_01C90",
@@ -1760,8 +1760,8 @@
    19449
   ],
   "jp": "パンドラに押し切られた③{n}兵力では劣ってるし、{n}このままじゃマズイな……",
-  "en": "",
-  "status": ""
+  "en": "Pandra pushed us back!? We're outnumbered, and this is looking bad...",
+  "status": "done"
  },
  {
   "id": "event_2200_01CD7",
@@ -1772,8 +1772,8 @@
    19470
   ],
   "jp": "押せ、押せっ②{n}敵陣をブチ抜いてやろうぜ！",
-  "en": "",
-  "status": ""
+  "en": "Push, push!! Let's blast through their lines!",
+  "status": "done"
  },
  {
   "id": "event_2200_01D01",
@@ -1784,8 +1784,8 @@
    19662
   ],
   "jp": "ちぃッ！{n}相変わらず、やりやがるぜ…！",
-  "en": "",
-  "status": ""
+  "en": "Tch! Good as ever, you guys...!",
+  "status": "done"
  },
  {
   "id": "event_2200_01D27",
@@ -1796,8 +1796,8 @@
    19683
   ],
   "jp": "だが、諦めてたまるかよ！{n}立て直すぜ、俺に続け！",
-  "en": "",
-  "status": ""
+  "en": "But like hell I'm giving up! Regroup, follow me!",
+  "status": "done"
  },
  {
   "id": "event_2200_01D57",
@@ -1808,8 +1808,8 @@
    19704
   ],
   "jp": "勇ましさを得たパンドラか。{n}だが、遅すぎたな。",
-  "en": "",
-  "status": ""
+  "en": "So Pandra's found his courage. But it's too late.",
+  "status": "done"
  },
  {
   "id": "event_2200_01D85",
@@ -1820,8 +1820,8 @@
    19783
   ],
   "jp": "よし、いいぞっ！{n}このまま行けば勝てるぜ②",
-  "en": "",
-  "status": ""
+  "en": "All right, good! Keep this up and we win!!",
+  "status": "done"
  },
  {
   "id": "event_2200_01DAF",
@@ -1832,8 +1832,8 @@
    19804
   ],
   "jp": "油断できないって事か……",
-  "en": "",
-  "status": ""
+  "en": "So I can't get careless...",
+  "status": "done"
  },
  {
   "id": "event_2200_01DC8",
@@ -1844,8 +1844,8 @@
    19996
   ],
   "jp": "ちっ、劣勢か……",
-  "en": "",
-  "status": ""
+  "en": "Tch, we're losing ground...",
+  "status": "done"
  },
  {
   "id": "event_2200_01DD9",
@@ -1856,8 +1856,8 @@
    20017
   ],
   "jp": "へこたれてる場合じゃねぇぜ！{n}死ぬ気で前に出るんだ！{n}国を変えるのは俺達なんだよ②",
-  "en": "",
-  "status": ""
+  "en": "No time to mope! Move up like your lives depend on it! We're the ones changing this country!!",
+  "status": "done"
  },
  {
   "id": "event_2200_01E2A",
@@ -1868,8 +1868,8 @@
    20038
   ],
   "jp": "すごい気迫を、感じる……",
-  "en": "",
-  "status": ""
+  "en": "I can feel such spirit...",
+  "status": "done"
  },
  {
   "id": "event_2200_01E43",
@@ -1880,8 +1880,8 @@
    20117
   ],
   "jp": "いけない、押されています！",
-  "en": "",
-  "status": ""
+  "en": "This is bad, they are pushing us back!",
+  "status": "done"
  },
  {
   "id": "event_2200_01E5E",
@@ -1892,8 +1892,8 @@
    20138
   ],
   "jp": "よしっ、相手は怯んでるぜ！{n}突っ込むぜ②",
-  "en": "",
-  "status": ""
+  "en": "All right, they're flinching! Charge in!!",
+  "status": "done"
  },
  {
   "id": "event_2200_01E86",
@@ -1904,8 +1904,8 @@
    20316
   ],
   "jp": "おい、野郎ども。{n}見てくれはデカイが、{n}あの獣を恐れるな。",
-  "en": "",
-  "status": ""
+  "en": "Hey, you lot. He looks big, but don't be scared of that beast.",
+  "status": "done"
  },
  {
   "id": "event_2200_01EBF",
@@ -1916,8 +1916,8 @@
    20323
   ],
   "jp": "見ろ、アイツ獣のくせに{n}剣を使ってるんだぜ？{n}恐るるに足らず、だ。",
-  "en": "",
-  "status": ""
+  "en": "Look, he's a beast and he's using a sword, see? Nothing to fear.",
+  "status": "done"
  },
  {
   "id": "event_2200_01F00",
@@ -1928,8 +1928,8 @@
    20388
   ],
   "jp": "いいぞ！{n}このまま力押しだ②",
-  "en": "",
-  "status": ""
+  "en": "Good! Keep up the pressure!!",
+  "status": "done"
  },
  {
   "id": "event_2200_01F1C",
@@ -1940,8 +1940,8 @@
    20409
   ],
   "jp": "バイフー、つっこまれた、{n}なんでやねん！",
-  "en": "",
-  "status": ""
+  "en": "Byff got charged! Who is paying the bill?!",
+  "status": "done"
  },
  {
   "id": "event_2200_01F44",
@@ -1952,8 +1952,8 @@
    20601
   ],
   "jp": "この程度の相手なら{n}大砲なしでも余裕かしら？",
-  "en": "",
-  "status": ""
+  "en": "With an opponent like this, I could manage without a cannon, I guess?",
+  "status": "done"
  },
  {
   "id": "event_2200_01F70",
@@ -1964,8 +1964,8 @@
    20622
   ],
   "jp": "ちっ、{n}やはり兵の練度が低いな……",
-  "en": "",
-  "status": ""
+  "en": "Tch, my soldiers really are green...",
+  "status": "done"
  },
  {
   "id": "event_2200_01F92",
@@ -1976,8 +1976,8 @@
    20643
   ],
   "jp": "いや、そんなの言い訳だな。{n}やれる事、やるだけだ。",
-  "en": "",
-  "status": ""
+  "en": "No, that's just an excuse. I'll do what I can.",
+  "status": "done"
  },
  {
   "id": "event_2200_01FC4",
@@ -1988,8 +1988,8 @@
    20722
   ],
   "jp": "くぅッ、やられたわね。",
-  "en": "",
-  "status": ""
+  "en": "Ngh, you got me.",
+  "status": "done"
  },
  {
   "id": "event_2200_01FDB",
@@ -2000,8 +2000,8 @@
    20743
   ],
   "jp": "いけるぜ！{n}各隊、攻勢に出るぜ②",
-  "en": "",
-  "status": ""
+  "en": "We can do this! All units, go on the attack!!",
+  "status": "done"
  },
  {
   "id": "event_2200_01FFB",
@@ -2012,8 +2012,8 @@
    20921
   ],
   "jp": "まだまだッ②",
-  "en": "",
-  "status": ""
+  "en": "Not done yet!!",
+  "status": "done"
  },
  {
   "id": "event_2200_02008",
@@ -2024,8 +2024,8 @@
    20986
   ],
   "jp": "なんて勢いだ……{n}こいつ、本当にパンドラか？",
-  "en": "",
-  "status": ""
+  "en": "What momentum... Is this guy really Pandra?",
+  "status": "done"
  },
  {
   "id": "event_2200_02034",
@@ -2036,8 +2036,8 @@
    21007
   ],
   "jp": "もう後に引く場所が無いんでね！",
-  "en": "",
-  "status": ""
+  "en": "I've got nowhere left to back down to!",
+  "status": "done"
  },
  {
   "id": "event_2200_02053",
@@ -2048,8 +2048,8 @@
    21192
   ],
   "jp": "エロエロエロ～、{n}うげっ、吐いちゃったわ……",
-  "en": "",
-  "status": ""
+  "en": "Blaaargh~, urk, I threw up...",
+  "status": "done"
  },
  {
   "id": "event_2200_0207F",
@@ -2060,8 +2060,8 @@
    21213
   ],
   "jp": "くそっ、なんなんだよ、{n}調子狂っちまうぜ……",
-  "en": "",
-  "status": ""
+  "en": "Damn it, what the hell, you're throwing me off my game...",
+  "status": "done"
  },
  {
   "id": "event_2200_020AB",
@@ -2072,8 +2072,8 @@
    21285
   ],
   "jp": "ングっ…、{n}うわぁ、飲んじゃったよ……",
-  "en": "",
-  "status": ""
+  "en": "Nngh... Ugh, I swallowed it...",
+  "status": "done"
  },
  {
   "id": "event_2200_020D1",
@@ -2084,8 +2084,8 @@
    21306
   ],
   "jp": "ホント汚い人魚だぜ……",
-  "en": "",
-  "status": ""
+  "en": "What a really disgusting mermaid...",
+  "status": "done"
  },
  {
   "id": "event_2200_020E8",
@@ -2096,8 +2096,8 @@
    21491
   ],
   "jp": "さすがパメラ様！{n}烏合の衆なんて{n}歯牙にもかけないわ②",
-  "en": "",
-  "status": ""
+  "en": "As expected of Pamela-sama! A rabble like this isn't even worth a glance!!",
+  "status": "done"
  },
  {
   "id": "event_2200_0211D",
@@ -2108,8 +2108,8 @@
    21512
   ],
   "jp": "まだだ！{n}立て直せば、まだ戦えるぜ！",
-  "en": "",
-  "status": ""
+  "en": "Not yet! If we regroup, we can still fight!",
+  "status": "done"
  },
  {
   "id": "event_2200_02141",
@@ -2120,8 +2120,8 @@
    21584
   ],
   "jp": "むむむのむ…{n}案外手強いわねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Hmm-hmm-hmm... They're tougher than I thought.",
+  "status": "done"
  },
  {
   "id": "event_2200_02161",
@@ -2132,8 +2132,8 @@
    21605
   ],
   "jp": "行くしかねぇぞ、パンドラ！",
-  "en": "",
-  "status": ""
+  "en": "Gotta go, Pandra, no choice!",
+  "status": "done"
  },
  {
   "id": "event_2200_0217C",
@@ -2144,8 +2144,8 @@
    21828
   ],
   "jp": "頼りなさげがまた、母性本能を{n}少しくすぐられますわね。",
-  "en": "",
-  "status": ""
+  "en": "That unreliable look does rather tickle my maternal instinct.",
+  "status": "done"
  },
  {
   "id": "event_2200_021B2",
@@ -2156,8 +2156,8 @@
    21835
   ],
   "jp": "ですが、{n}圧倒的に弱いのは如何かと……",
-  "en": "",
-  "status": ""
+  "en": "However, being overwhelmingly weak is hardly desirable...",
+  "status": "done"
  },
  {
   "id": "event_2200_021D8",
@@ -2168,8 +2168,8 @@
    22037
   ],
   "jp": "今が押し時だ！{n}いいか、付いて来いよ②",
-  "en": "",
-  "status": ""
+  "en": "Now's the time to push! All right, follow me!!",
+  "status": "done"
  },
  {
   "id": "event_2200_021FE",
@@ -2180,8 +2180,8 @@
    22089
   ],
   "jp": "あら、思いのほか力のある様子。{n}あぁ…、歌が、生まれそう……",
-  "en": "",
-  "status": ""
+  "en": "Oh my, you seem stronger than I expected. Ah... A song is about to be born...",
+  "status": "done"
  },
  {
   "id": "event_2200_0223A",
@@ -2192,8 +2192,8 @@
    21899
   ],
   "jp": "くうっ…！{n}ここで倒れるわけには{n}いかねぇんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Gah...! I can't fall here!",
+  "status": "done"
  },
  {
   "id": "event_2200_0226B",
@@ -2204,8 +2204,8 @@
    21951
   ],
   "jp": "気合入ってるな！{n}燃えるぜっ、そのセリフ②{n}次も手加減せずに行くぜぇ！",
-  "en": "",
-  "status": ""
+  "en": "You've got guts! That line gets me fired up!! Next time I'm not holdin' back either!",
+  "status": "done"
  },
  {
   "id": "event_2200_022B0",
@@ -2216,8 +2216,8 @@
    22160
   ],
   "jp": "野郎ども、勝利はすぐそこだ②",
-  "en": "",
-  "status": ""
+  "en": "You lot, victory's right there!!",
+  "status": "done"
  },
  {
   "id": "event_2200_022CD",
@@ -2228,8 +2228,8 @@
    22212
   ],
   "jp": "屈辱を背負って戻ってくる。{n}燃えるストーリー展開じゃねぇか。",
-  "en": "",
-  "status": ""
+  "en": "Comin' back with humiliation on your back. That's one hot story.",
+  "status": "done"
  },
  {
   "id": "event_2200_02309",
@@ -2240,8 +2240,8 @@
    22397
   ],
   "jp": "負傷者を下げろ！{n}盾を前面に構えろッ②",
-  "en": "",
-  "status": ""
+  "en": "Pull back the wounded! Shields to the front!!",
+  "status": "done"
  },
  {
   "id": "event_2200_0232F",
@@ -2252,8 +2252,8 @@
    22418
   ],
   "jp": "動きが良くなっている③",
-  "en": "",
-  "status": ""
+  "en": "Their movements have improved!?",
+  "status": "done"
  },
  {
   "id": "event_2200_02346",
@@ -2264,8 +2264,8 @@
    22483
   ],
   "jp": "突破力が、読めない……",
-  "en": "",
-  "status": ""
+  "en": "I cannot read their breakthrough...",
+  "status": "done"
  },
  {
   "id": "event_2200_0235D",
@@ -2276,8 +2276,8 @@
    22661
   ],
   "jp": "やっぱ弱いな、パンドラ。",
-  "en": "",
-  "status": ""
+  "en": "Weak as ever, Pandra.",
+  "status": "done"
  },
  {
   "id": "event_2200_02376",
@@ -2288,8 +2288,8 @@
    22682
   ],
   "jp": "まったく、{n}お前が強すぎるんだよ……",
-  "en": "",
-  "status": ""
+  "en": "Honestly, you're just too strong...",
+  "status": "done"
  },
  {
   "id": "event_2200_0239A",
@@ -2300,8 +2300,8 @@
    22754
   ],
   "jp": "なんだよ、見直したぜ。{n}やればできるじゃねぇかよ②",
-  "en": "",
-  "status": ""
+  "en": "What the hell, I take it back. You can do it if you try!!",
+  "status": "done"
  },
  {
   "id": "event_2200_023CC",
@@ -2312,8 +2312,8 @@
    22775
   ],
   "jp": "ま、余裕はないけどよ。{n}捨て身でやればこれぐらいはな……",
-  "en": "",
-  "status": ""
+  "en": "Well, I don't have any room to spare. If you throw yourself into it, you can do at least this much...",
+  "status": "done"
  },
  {
   "id": "event_2200_0242E",
@@ -2348,8 +2348,8 @@
    9562
   ],
   "jp": "反乱軍B",
-  "en": "",
-  "status": ""
+  "en": "Rebel B",
+  "status": "done"
  },
  {
   "id": "event_2200_0260C",
@@ -2360,7 +2360,7 @@
    9737
   ],
   "jp": "反乱軍C",
-  "en": "",
-  "status": ""
+  "en": "Rebel C",
+  "status": "done"
  }
 ]

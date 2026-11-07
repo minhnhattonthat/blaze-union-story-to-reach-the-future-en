@@ -8,8 +8,8 @@
    3545
   ],
   "jp": "{voice:007314}パルティナ王城。{n}私と姉さんが生まれ、{n}そして追い出された城……",
-  "en": "",
-  "status": ""
+  "en": "Paltina Castle. The castle where my sister and I were born, and from which we were driven out...",
+  "status": "done"
  },
  {
   "id": "event_2196_0006B",
@@ -20,8 +20,8 @@
    3552
   ],
   "jp": "{voice:007414}私達が生きるはずだった城。",
-  "en": "",
-  "status": ""
+  "en": "The castle where we should have lived.",
+  "status": "done"
  },
  {
   "id": "event_2196_0008A",
@@ -32,8 +32,8 @@
    3570
   ],
   "jp": "{voice:007514}姉さん、私は帰ってきた！",
-  "en": "",
-  "status": ""
+  "en": "Sister, I have come back!",
+  "status": "done"
  },
  {
   "id": "event_2196_000A7",
@@ -44,8 +44,8 @@
    3588
   ],
   "jp": "{voice:007614}冠を戴くためではない！{n}ただ復讐を果たすために②",
-  "en": "",
-  "status": ""
+  "en": "Not to wear a crown! Only to have my revenge!!",
+  "status": "done"
  },
  {
   "id": "event_2196_000DB",
@@ -56,8 +56,8 @@
    3609
   ],
   "jp": "{voice:007714}王女ユグドラ！{n}聞こえているのだろう！",
-  "en": "",
-  "status": ""
+  "en": "Princess Yggdra! I know you can hear me!",
+  "status": "done"
  },
  {
   "id": "event_2196_00105",
@@ -68,8 +68,8 @@
    3619
   ],
   "jp": "{voice:007814}お前がドレスで着飾っていた頃、{n}私達は復讐を遂げたい一心で{n}ひたすらに剣を振っていた。",
-  "en": "",
-  "status": ""
+  "en": "While you were dressing up in your gowns, we swung our swords without rest, thinking only of revenge.",
+  "status": "done"
  },
  {
   "id": "event_2196_0015E",
@@ -80,8 +80,8 @@
    3626
   ],
   "jp": "{voice:007914}お前が寵愛を受けていた頃、{n}私達は、自分達の不遇さを、{n}憎しむ事で紛らわしていた。",
-  "en": "",
-  "status": ""
+  "en": "While you were doted on, we numbed our misfortune with hatred.",
+  "status": "done"
  },
  {
   "id": "event_2196_001B3",
@@ -92,8 +92,8 @@
    3636
   ],
   "jp": "{voice:007A14}私達の『代わり』として{n}ぬくぬくと生きてきたお前を、{n}殺したいほど憎んでいた！",
-  "en": "",
-  "status": ""
+  "en": "You lived in comfort as our \"substitute,\" and we hated you enough to kill you!",
+  "status": "done"
  },
  {
   "id": "event_2196_00204",
@@ -104,8 +104,8 @@
    3646
   ],
   "jp": "{voice:007B14}もう耐えるものか！{n}お前を斬り殺すこの瞬間のために、{n}私達はこれまで耐えてきたんだ！",
-  "en": "",
-  "status": ""
+  "en": "I will endure no more! We have endured all this for the moment I cut you down!",
+  "status": "done"
  },
  {
   "id": "event_2196_0025B",
@@ -116,8 +116,8 @@
    3656
   ],
   "jp": "{voice:007C14}どこにいるユグドラ！{n}今ここで、殺してやる！",
-  "en": "",
-  "status": ""
+  "en": "Where are you, Yggdra! I will kill you, here and now!",
+  "status": "done"
  },
  {
   "id": "event_2196_0028B",
@@ -128,8 +128,8 @@
    3802
   ],
   "jp": "{voice:007D14}物騒なもの言いだな、侵略者よ。",
-  "en": "",
-  "status": ""
+  "en": "Such violent words, invader.",
+  "status": "done"
  },
  {
   "id": "event_2196_002AE",
@@ -140,8 +140,8 @@
    3823
   ],
   "jp": "{voice:007E14}お前は……",
-  "en": "",
-  "status": ""
+  "en": "Who are you...",
+  "status": "done"
  },
  {
   "id": "event_2196_002BD",
@@ -152,8 +152,8 @@
    3841
   ],
   "jp": "{voice:007F14}ファンタジニア王国31代国王{n}オルディーンだ。",
-  "en": "",
-  "status": ""
+  "en": "I am Ordene, the 31st King of the Kingdom of Fantasinia.",
+  "status": "done"
  },
  {
   "id": "event_2196_002ED",
@@ -164,8 +164,8 @@
    3862
   ],
   "jp": "{voice:008014}オルディーンだと③{n}という事は、私の……",
-  "en": "",
-  "status": ""
+  "en": "Ordene!? Which means, you are my...",
+  "status": "done"
  },
  {
   "id": "event_2196_00319",
@@ -176,8 +176,8 @@
    3880
   ],
   "jp": "{voice:008114}ここまで敵の侵入を許すとは……{n}防衛の任、アランゼームには{n}少々荷が重かったようだな。",
-  "en": "",
-  "status": ""
+  "en": "To let the enemy come this far... It seems the duty of defense was a little too heavy for Alanjame.",
+  "status": "done"
  },
  {
   "id": "event_2196_00372",
@@ -188,8 +188,8 @@
    3887
   ],
   "jp": "{voice:008214}ブライがおれば、ここで私が{n}出る必要もなかったであろうが……",
-  "en": "",
-  "status": ""
+  "en": "If Bly were here, I would have had no need to come out myself...",
+  "status": "done"
  },
  {
   "id": "event_2196_003B2",
@@ -200,8 +200,8 @@
    3908
   ],
   "jp": "{voice:008314}国王オルディーン。{n}私は……",
-  "en": "",
-  "status": ""
+  "en": "King Ordene. I am...",
+  "status": "done"
  },
  {
   "id": "event_2196_003D2",
@@ -212,8 +212,8 @@
    3926
   ],
   "jp": "{voice:008414}よせ、侵略者よ。{n}武力での侵略は、どのような理由{n}であっても許すわけにはいかぬ。",
-  "en": "",
-  "status": ""
+  "en": "Stop, invader. Armed invasion cannot be allowed, whatever the reason.",
+  "status": "done"
  },
  {
   "id": "event_2196_00425",
@@ -224,8 +224,8 @@
    3936
   ],
   "jp": "{voice:008514}王として国を守り、{n}父として娘を守らねばならん。",
-  "en": "",
-  "status": ""
+  "en": "As King I must protect my country, and as a father I must protect my daughter.",
+  "status": "done"
  },
  {
   "id": "event_2196_00459",
@@ -236,8 +236,8 @@
    3957
   ],
   "jp": "{voice:008614}王として、父として……",
-  "en": "",
-  "status": ""
+  "en": "As King, as a father...",
+  "status": "done"
  },
  {
   "id": "event_2196_00474",
@@ -248,8 +248,8 @@
    3978
   ],
   "jp": "{voice:008714}来い、侵略者よ。{n}私が直々に相手をしてやろう。",
-  "en": "",
-  "status": ""
+  "en": "Come, invader. I will face you myself.",
+  "status": "done"
  },
  {
   "id": "event_2196_004A6",
@@ -260,8 +260,8 @@
    4165
   ],
   "jp": "{voice:008814}…そうだ！{n}私はお前の事も憎んでいた②",
-  "en": "",
-  "status": ""
+  "en": "...That's right! I hated you too!!",
+  "status": "done"
  },
  {
   "id": "event_2196_004D0",
@@ -272,8 +272,8 @@
    4186
   ],
   "jp": "{voice:008914}何故、私達を棄てた！{n}何故守ってくれなかった②",
-  "en": "",
-  "status": ""
+  "en": "Why did you cast us out! Why didn't you protect us!!",
+  "status": "done"
  },
  {
   "id": "event_2196_00502",
@@ -284,8 +284,8 @@
    4193
   ],
   "jp": "{voice:008A14}古い慣習によって、{n}私達を殺そうとしたのは、{n}お前だったのか！",
-  "en": "",
-  "status": ""
+  "en": "Was it you who tried to kill us, for the sake of some old custom!",
+  "status": "done"
  },
  {
   "id": "event_2196_00543",
@@ -296,8 +296,8 @@
    4211
   ],
   "jp": "{voice:008B14}なんの話だ？",
-  "en": "",
-  "status": ""
+  "en": "What are you talking about?",
+  "status": "done"
  },
  {
   "id": "event_2196_00554",
@@ -308,8 +308,8 @@
    4229
   ],
   "jp": "{voice:008C14}知らぬふりか！　あざといぞ②",
-  "en": "",
-  "status": ""
+  "en": "Pretending not to know! How shameless!!",
+  "status": "done"
  },
  {
   "id": "event_2196_00575",
@@ -320,8 +320,8 @@
    4247
   ],
   "jp": "{voice:008D14}もう、剣は既に引き抜かれた。{n}納める必要はない……",
-  "en": "",
-  "status": ""
+  "en": "The sword is already drawn. I have no need to sheathe it...",
+  "status": "done"
  },
  {
   "id": "event_2196_005AB",
@@ -332,8 +332,8 @@
    4268
   ],
   "jp": "{voice:008E14}行くぞ、オルディーン！{n}この私の剣、その身に刻め②",
-  "en": "",
-  "status": ""
+  "en": "Here I come, Ordene! Let my blade carve itself into you!!",
+  "status": "done"
  },
  {
   "id": "event_2196_005E1",
@@ -344,8 +344,8 @@
    5220
   ],
   "jp": "{voice:008F14}グラン・センチュリオと{n}打ち合うとは、なんと重い剣だ…{n}ただの長剣とは思えぬ。",
-  "en": "",
-  "status": ""
+  "en": "What a heavy sword, to cross with the Gran Centurio... This can be no mere longsword.",
+  "status": "done"
  },
  {
   "id": "event_2196_00632",
@@ -356,8 +356,8 @@
    5241
   ],
   "jp": "{voice:009014}私はいつでも姉と共にある。{n}剣の重みは、私達姉妹の怨嗟だ。",
-  "en": "",
-  "status": ""
+  "en": "My sister is always with me. The weight of this sword is our resentment, the two of us sisters.",
+  "status": "done"
  },
  {
   "id": "event_2196_00670",
@@ -368,8 +368,8 @@
    5262
   ],
   "jp": "{voice:009114}聞こう、娘よ！",
-  "en": "",
-  "status": ""
+  "en": "Tell me, girl!",
+  "status": "done"
  },
  {
   "id": "event_2196_00683",
@@ -380,8 +380,8 @@
    5269
   ],
   "jp": "{voice:009214}王国の王である私に、{n}帝国の者であるそなたが、{n}いかなる怨みを持つというのだ？",
-  "en": "",
-  "status": ""
+  "en": "What grudge can you, a person of the Empire, hold against me, the King of the Kingdom?",
+  "status": "done"
  },
  {
   "id": "event_2196_006D4",
@@ -392,8 +392,8 @@
    5290
   ],
   "jp": "{voice:009314}帝国の者、だと……",
-  "en": "",
-  "status": ""
+  "en": "A person of the Empire...",
+  "status": "done"
  },
  {
   "id": "event_2196_006EB",
@@ -404,8 +404,8 @@
    5311
   ],
   "jp": "{voice:009414}違う！{n}私は帝国の人間じゃない②",
-  "en": "",
-  "status": ""
+  "en": "No! I am no person of the Empire!!",
+  "status": "done"
  },
  {
   "id": "event_2196_0070F",
@@ -416,8 +416,8 @@
    5329
   ],
   "jp": "{voice:009514}ん？",
-  "en": "",
-  "status": ""
+  "en": "Hm?",
+  "status": "done"
  },
  {
   "id": "event_2196_00718",
@@ -428,8 +428,8 @@
    5533
   ],
   "jp": "{voice:009614}聞かせてくれ。{n}何故、私を、王国を怨む？",
-  "en": "",
-  "status": ""
+  "en": "Let me hear it. Why do you resent me, and the Kingdom?",
+  "status": "done"
  },
  {
   "id": "event_2196_00744",
@@ -440,8 +440,8 @@
    5554
   ],
   "jp": "{voice:009714}今度は、懐柔するつもり！{n}今更何をッ！",
-  "en": "",
-  "status": ""
+  "en": "Now you're trying to win me over! What's the point now!",
+  "status": "done"
  },
  {
   "id": "event_2196_0076E",
@@ -452,8 +452,8 @@
    5575
   ],
   "jp": "{voice:009814}懐柔などではない②{n}わけを知りたいだけだ！",
-  "en": "",
-  "status": ""
+  "en": "I am not trying to win you over!! I only want to know why!",
+  "status": "done"
  },
  {
   "id": "event_2196_0079C",
@@ -464,8 +464,8 @@
    5596
   ],
   "jp": "{voice:009914}姉さんを、返せ②",
-  "en": "",
-  "status": ""
+  "en": "Give me back my sister!!",
+  "status": "done"
  },
  {
   "id": "event_2196_007B1",
@@ -476,8 +476,8 @@
    5786
   ],
   "jp": "{voice:009A14}同じ姉妹なのに、{n}私達とユグドラの違いは{n}なんなんだ！",
-  "en": "",
-  "status": ""
+  "en": "We are sisters just the same, so what is the difference between us and Yggdra!",
+  "status": "done"
  },
  {
   "id": "event_2196_007EA",
@@ -488,8 +488,8 @@
    5796
   ],
   "jp": "{voice:009B14}何故私達だけが、{n}つらい思いをしなければ{n}ならなかったんだ！",
-  "en": "",
-  "status": ""
+  "en": "Why were we the only ones who had to suffer!",
+  "status": "done"
  },
  {
   "id": "event_2196_00829",
@@ -500,8 +500,8 @@
    5817
   ],
   "jp": "{voice:009C14}ユグドラと同じ姉妹だと？",
-  "en": "",
-  "status": ""
+  "en": "Sisters to Yggdra, you say?",
+  "status": "done"
  },
  {
   "id": "event_2196_00846",
@@ -512,8 +512,8 @@
    5838
   ],
   "jp": "{voice:009D14}答えろ、オルディーン！{n}何故なんだ②",
-  "en": "",
-  "status": ""
+  "en": "Answer me, Ordene! Why!!",
+  "status": "done"
  },
  {
   "id": "event_2196_0086E",
@@ -524,8 +524,8 @@
    5856
   ],
   "jp": "{voice:009E14}まさか、そなたは……",
-  "en": "",
-  "status": ""
+  "en": "Could it be, you are...",
+  "status": "done"
  },
  {
   "id": "event_2196_00887",
@@ -536,8 +536,8 @@
    7029
   ],
   "jp": "{voice:009F14}アイギナ、無事か③",
-  "en": "",
-  "status": ""
+  "en": "Aegina, are you safe!?",
+  "status": "done"
  },
  {
   "id": "event_2196_0089E",
@@ -548,8 +548,8 @@
    7050
   ],
   "jp": "{voice:00A014}ガーロット様…",
-  "en": "",
-  "status": ""
+  "en": "Garlot-sama...",
+  "status": "done"
  },
  {
   "id": "event_2196_008B1",
@@ -560,8 +560,8 @@
    7253
   ],
   "jp": "{voice:00A114}オルディーン陛下！{n}今、お助けいたします②",
-  "en": "",
-  "status": ""
+  "en": "King Ordene! We're coming to help you!!",
+  "status": "done"
  },
  {
   "id": "event_2196_008DF",
@@ -572,8 +572,8 @@
    7888
   ],
   "jp": "{voice:00A214}アイギナだと③",
-  "en": "",
-  "status": ""
+  "en": "Aegina, you say!?",
+  "status": "done"
  },
  {
   "id": "event_2196_008F2",
@@ -584,8 +584,8 @@
    7906
   ],
   "jp": "{voice:00A314}アイギナ…？　いや、まさか……{n}まさか、そんなはずは……",
-  "en": "",
-  "status": ""
+  "en": "Aegina...? No, it can't be... It can't be, that's impossible...",
+  "status": "done"
  },
  {
   "id": "event_2196_0092E",
@@ -594,8 +594,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "ネシ・ラピの回復コマンド仮追加{n}アイギナ士気１０００加算{n}９月１８日バージョンで仮追加",
-  "en": "",
-  "status": ""
+  "en": "Nessiah/Lapis recovery command added for now / Aegina morale +1000 / added for now in Sept. 18 version",
+  "status": "done"
  },
  {
   "id": "event_2196_0099D",
@@ -630,8 +630,8 @@
    2619
   ],
   "jp": "オルディーン国王隊",
-  "en": "",
-  "status": ""
+  "en": "King Ordene Unit",
+  "status": "done"
  },
  {
   "id": "event_2196_00A88",
@@ -642,8 +642,8 @@
    2693
   ],
   "jp": "王国軍",
-  "en": "",
-  "status": ""
+  "en": "Army",
+  "status": "done"
  },
  {
   "id": "event_2196_01F6C",
@@ -654,8 +654,8 @@
    13151
   ],
   "jp": "{voice:00A414}ぐうっ……",
-  "en": "",
-  "status": ""
+  "en": "Ugh...",
+  "status": "done"
  },
  {
   "id": "event_2196_01F7B",
@@ -666,8 +666,8 @@
    13169
   ],
   "jp": "{voice:00A514}陛下ーッ！",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty!",
+  "status": "done"
  },
  {
   "id": "event_2196_01F8A",
@@ -678,8 +678,8 @@
    13187
   ],
   "jp": "{voice:00A614}下がれっ②",
-  "en": "",
-  "status": ""
+  "en": "Stand back!!",
+  "status": "done"
  },
  {
   "id": "event_2196_01F99",
@@ -690,8 +690,8 @@
    13205
   ],
   "jp": "{voice:00A714}既に勝敗は決したのだ……{n}手出しは、無用！",
-  "en": "",
-  "status": ""
+  "en": "The outcome is already decided... Do not interfere!",
+  "status": "done"
  },
  {
   "id": "event_2196_01FC7",
@@ -702,8 +702,8 @@
    13223
   ],
   "jp": "{voice:00A814}し、しかし…",
-  "en": "",
-  "status": ""
+  "en": "B-But...",
+  "status": "done"
  },
  {
   "id": "event_2196_01FD8",
@@ -714,8 +714,8 @@
    13241
   ],
   "jp": "{voice:00A914}下がれと言っている！{n}私は、この娘に…、ぐふっ……{n}確かめねば、ならぬ事がある…",
-  "en": "",
-  "status": ""
+  "en": "I said stand back! I must... gfh... I must ask this girl something...",
+  "status": "done"
  },
  {
   "id": "event_2196_0202B",
@@ -726,8 +726,8 @@
    13259
   ],
   "jp": "{voice:00AA14}オルディーン……",
-  "en": "",
-  "status": ""
+  "en": "Ordene...",
+  "status": "done"
  },
  {
   "id": "event_2196_02040",
@@ -738,8 +738,8 @@
    13788
   ],
   "jp": "{voice:00AB14}私は…、{n}勝ったと言えるのでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Can I... say that I won?",
+  "status": "done"
  },
  {
   "id": "event_2196_0206A",
@@ -750,8 +750,8 @@
    13795
   ],
   "jp": "{voice:00AC14}自分を棄てた父を斬る。{n}それも私達の復讐の１つでした。",
-  "en": "",
-  "status": ""
+  "en": "To strike down the father who cast me out. That too was part of our revenge.",
+  "status": "done"
  },
  {
   "id": "event_2196_020A4",
@@ -762,8 +762,8 @@
    13802
   ],
   "jp": "{voice:00AD14}ですが、成し遂げた今は、{n}ただ虚しい気持ちだけが残ります。",
-  "en": "",
-  "status": ""
+  "en": "But now that it is done, only an empty feeling remains.",
+  "status": "done"
  },
  {
   "id": "event_2196_020E2",
@@ -774,8 +774,8 @@
    13809
   ],
   "jp": "{voice:00AE14}私は何を得たのですか？{n}教えて、ルシエナ姉さん……",
-  "en": "",
-  "status": ""
+  "en": "What have I gained? Tell me, Sister Luciana...",
+  "status": "done"
  },
  {
   "id": "event_2196_02118",
@@ -786,8 +786,8 @@
    13830
   ],
   "jp": "{voice:00AF14}……ルシエナ、アイギナ。{n}久しく聞かなかった名だ。",
-  "en": "",
-  "status": ""
+  "en": "...Luciana, Aegina. Names I have not heard in a long time.",
+  "status": "done"
  },
  {
   "id": "event_2196_0214E",
@@ -810,8 +810,8 @@
    13866
   ],
   "jp": "{voice:00B014}ルシエナ、アイギナ。{n}私の遠征中に生まれ、{n}そして死した２人の王女の名……",
-  "en": "",
-  "status": ""
+  "en": "Luciana, Aegina. The names of two princesses born while I was away on campaign, and who died...",
+  "status": "done"
  },
  {
   "id": "event_2196_021A4",
@@ -822,8 +822,8 @@
    13873
   ],
   "jp": "{voice:00B114}しかし、話を聞けば聞くほど、{n}そなたがアイギナのように{n}感じられるのだ……",
-  "en": "",
-  "status": ""
+  "en": "But the more I hear you speak, the more you seem to me like Aegina...",
+  "status": "done"
  },
  {
   "id": "event_2196_021F1",
@@ -834,8 +834,8 @@
    13880
   ],
   "jp": "{voice:00B214}そなたは…、亡霊なのか？",
-  "en": "",
-  "status": ""
+  "en": "Are you... a ghost?",
+  "status": "done"
  },
  {
   "id": "event_2196_0220E",
@@ -846,8 +846,8 @@
    13887
   ],
   "jp": "{voice:00B314}幼く死したアイギナが蘇り{n}怨みを晴らすために{n}父の前に現れたと言うのか…？",
-  "en": "",
-  "status": ""
+  "en": "Has Aegina, who died so young, come back to life and appeared before her father to settle her grudge...?",
+  "status": "done"
  },
  {
   "id": "event_2196_0225B",
@@ -858,8 +858,8 @@
    13976
   ],
   "jp": "{voice:00B414}待て、事情が読めないぞ。",
-  "en": "",
-  "status": ""
+  "en": "Hold on, I'm not following this.",
+  "status": "done"
  },
  {
   "id": "event_2196_02278",
@@ -870,8 +870,8 @@
    13994
   ],
   "jp": "{voice:00B514}２人は、生まれたばかりの頃に{n}暗殺されそうになって、{n}帝国に逃げた、って話だけど……",
-  "en": "",
-  "status": ""
+  "en": "We heard that right after they were born, someone tried to assassinate them and they fled to the Empire...",
+  "status": "done"
  },
  {
   "id": "event_2196_022CF",
@@ -882,8 +882,8 @@
    14012
   ],
   "jp": "{voice:00B614}暗殺？",
-  "en": "",
-  "status": ""
+  "en": "Assassinate?",
+  "status": "done"
  },
  {
   "id": "event_2196_022DA",
@@ -894,8 +894,8 @@
    14030
   ],
   "jp": "{voice:00B714}違う。{n}身体の弱かった２人は{n}生まれてすぐに命を落としたのだ。",
-  "en": "",
-  "status": ""
+  "en": "No. Those two were frail, and lost their lives soon after birth.",
+  "status": "done"
  },
  {
   "id": "event_2196_0231B",
@@ -906,8 +906,8 @@
    14048
   ],
   "jp": "{voice:00B814}嘘を言うな！{n}双子は忌み子だからという理由で{n}殺そうとしたんじゃないの③",
-  "en": "",
-  "status": ""
+  "en": "Don't lie! You tried to kill us because twins are children of ill omen, didn't you!?",
+  "status": "done"
  },
  {
   "id": "event_2196_02366",
@@ -918,8 +918,8 @@
    14066
   ],
   "jp": "{voice:00B914}話が食い違っている。{n}どちらかが、もしくは別の誰かが{n}嘘をついているんだ。",
-  "en": "",
-  "status": ""
+  "en": "The stories don't match. One side, or somebody else, is lying.",
+  "status": "done"
  },
  {
   "id": "event_2196_023B3",
@@ -930,8 +930,8 @@
    14084
   ],
   "jp": "{voice:00BA14}オルディーン陛下……{n}ルシエナとアイギナの死について、{n}詳しく聞かせていただけますか？",
-  "en": "",
-  "status": ""
+  "en": "King Ordene... Would you tell us in detail about the deaths of Luciana and Aegina?",
+  "status": "done"
  },
  {
   "id": "event_2196_0240C",
@@ -942,8 +942,8 @@
    14191
   ],
   "jp": "{voice:00BB14}……妃の出産が近づいた頃、{n}東の蛮族の乱を鎮圧するために、{n}私は遠征に出かけていた。",
-  "en": "",
-  "status": ""
+  "en": "...As the Queen's delivery drew near, I went out on campaign to put down a barbarian uprising in the east.",
+  "status": "done"
  },
  {
   "id": "event_2196_02463",
@@ -954,8 +954,8 @@
    14198
   ],
   "jp": "{voice:00BC14}遠征先の戦陣で、出産と夭折の{n}報告を立て続けに受けたのだ。",
-  "en": "",
-  "status": ""
+  "en": "In my camp, I received word of the birth and of the early deaths, one right after the other.",
+  "status": "done"
  },
  {
   "id": "event_2196_024A1",
@@ -966,8 +966,8 @@
    14205
   ],
   "jp": "{voice:00BD14}帰還した私が抱いたのは、{n}冷たくなった２人の赤子だけ…",
-  "en": "",
-  "status": ""
+  "en": "When I returned, all I could hold were two cold babies...",
+  "status": "done"
  },
  {
   "id": "event_2196_024DB",
@@ -978,8 +978,8 @@
    14223
   ],
   "jp": "{voice:00BE14}ルシエナとアイギナは、{n}一度死んでる、ってこと？",
-  "en": "",
-  "status": ""
+  "en": "So Luciana and Aegina died once before, you mean?",
+  "status": "done"
  },
  {
   "id": "event_2196_0250F",
@@ -990,8 +990,8 @@
    14241
   ],
   "jp": "{voice:00BF14}そんなはずは、ありません…",
-  "en": "",
-  "status": ""
+  "en": "That can't be...",
+  "status": "done"
  },
  {
   "id": "event_2196_0252E",
@@ -1002,8 +1002,8 @@
    14259
   ],
   "jp": "{voice:00C014}だって私は、生きています！{n}姉さんだって、先日までは……",
-  "en": "",
-  "status": ""
+  "en": "Because I am alive! And my sister, up until the other day...",
+  "status": "done"
  },
  {
   "id": "event_2196_0256A",
@@ -1014,8 +1014,8 @@
    14280
   ],
   "jp": "{voice:00C114}そんな、そんな嘘をついて…{n}私達を混乱させようとしても無駄！",
-  "en": "",
-  "status": ""
+  "en": "Such, such lies... Trying to confuse us won't work!",
+  "status": "done"
  },
  {
   "id": "event_2196_025AA",
@@ -1026,8 +1026,8 @@
    14298
   ],
   "jp": "{voice:00C214}落ち着いてアイギナ。{n}話は最後まで聞こうよ。",
-  "en": "",
-  "status": ""
+  "en": "Calm down, Aegina. Let's hear the whole story.",
+  "status": "done"
  },
  {
   "id": "event_2196_025DA",
@@ -1050,8 +1050,8 @@
    14419
   ],
   "jp": "{voice:00C314}さっきも言ったけど、{n}別の誰かが嘘をついているんだ。",
-  "en": "",
-  "status": ""
+  "en": "Like I said, somebody else is lying.",
+  "status": "done"
  },
  {
   "id": "event_2196_0261D",
@@ -1062,8 +1062,8 @@
    14437
   ],
   "jp": "{voice:00C414}そうなるとすると、{n}姉妹が死んだ報告をしたやつか。",
-  "en": "",
-  "status": ""
+  "en": "In that case, it's whoever reported the sisters dead.",
+  "status": "done"
  },
  {
   "id": "event_2196_02653",
@@ -1074,8 +1074,8 @@
    14455
   ],
   "jp": "{voice:00C514}そうですね。{n}アイギナが嘘をついている{n}可能性は限りなく低いですからね。",
-  "en": "",
-  "status": ""
+  "en": "Indeed. The chance of Aegina lying is vanishingly small.",
+  "status": "done"
  },
  {
   "id": "event_2196_0269E",
@@ -1086,8 +1086,8 @@
    14462
   ],
   "jp": "{voice:00C614}何故かというと、王国の尖兵たる{n}神生教団に、執拗に命を狙われ{n}続けていたわけですから。",
-  "en": "",
-  "status": ""
+  "en": "You see, the Blessed Papal Army, the Kingdom's vanguard, has been relentlessly after their lives.",
+  "status": "done"
  },
  {
   "id": "event_2196_026F7",
@@ -1098,8 +1098,8 @@
    14480
   ],
   "jp": "{voice:00C714}そして、ルシエナ姉さんは{n}殺された。",
-  "en": "",
-  "status": ""
+  "en": "And my sister Luciana was killed.",
+  "status": "done"
  },
  {
   "id": "event_2196_0271F",
@@ -1110,8 +1110,8 @@
    14498
   ],
   "jp": "{voice:00C814}どういう事だ…？{n}では、あの時私が抱いた{n}死した赤子たちは……？",
-  "en": "",
-  "status": ""
+  "en": "What does this mean...? Then the dead babies I held that day were...?",
+  "status": "done"
  },
  {
   "id": "event_2196_02762",
@@ -1122,8 +1122,8 @@
    14516
   ],
   "jp": "{voice:00C914}恐らく、替え玉だと思います。{n}国王が遠征で不在だったからこそ、{n}用意できたものでしょうね。",
-  "en": "",
-  "status": ""
+  "en": "They were likely decoys, I think. It was only possible to arrange because the King was away on campaign.",
+  "status": "done"
  },
  {
   "id": "event_2196_027BF",
@@ -1134,8 +1134,8 @@
    14534
   ],
   "jp": "{voice:00CA14}けど、双子の替え玉なんて{n}探すのも一苦労だわ。{n}よほど力のある人間でないと…",
-  "en": "",
-  "status": ""
+  "en": "But finding twin decoys is hard work. It'd take someone with a lot of power...",
+  "status": "done"
  },
  {
   "id": "event_2196_0280E",
@@ -1146,8 +1146,8 @@
    14552
   ],
   "jp": "{voice:00CB14}そして、そいつが神生教団の……",
-  "en": "",
-  "status": ""
+  "en": "And that person is from the Blessed Papal Army...",
+  "status": "done"
  },
  {
   "id": "event_2196_02831",
@@ -1158,8 +1158,8 @@
    14604
   ],
   "jp": "{voice:00CC14}そう、神生教団の教主。{n}アランゼーム！",
-  "en": "",
-  "status": ""
+  "en": "Yes, the Pontiff of the Blessed Papal Army. Alanjame!",
+  "status": "done"
  },
  {
   "id": "event_2196_0285B",
@@ -1170,8 +1170,8 @@
    14729
   ],
   "jp": "{voice:00CD14}うぐっ…②",
-  "en": "",
-  "status": ""
+  "en": "Urgh...!!",
+  "status": "done"
  },
  {
   "id": "event_2196_0286A",
@@ -1182,8 +1182,8 @@
    14747
   ],
   "jp": "{voice:00CE14}オルディーン王③",
-  "en": "",
-  "status": ""
+  "en": "King Ordene!?",
+  "status": "done"
  },
  {
   "id": "event_2196_0287F",
@@ -1194,8 +1194,8 @@
    14810
   ],
   "jp": "{voice:00CF14}狙撃だ！　みんな屈め②{n}シスキア、索敵②",
-  "en": "",
-  "status": ""
+  "en": "A sniper! Everyone, get down!! Siskier, look for them!!",
+  "status": "done"
  },
  {
   "id": "event_2196_028AB",
@@ -1206,7 +1206,7 @@
    14828
   ],
   "jp": "{voice:00D014}黒幕の登場か……",
-  "en": "",
-  "status": ""
+  "en": "So the mastermind shows up...",
+  "status": "done"
  }
 ]

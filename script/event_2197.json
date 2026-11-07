@@ -21,8 +21,8 @@
    13074
   ],
   "jp": "{voice:00D114}みんな、無事③",
-  "en": "",
-  "status": ""
+  "en": "Everyone, are you safe!?",
+  "status": "done"
  },
  {
   "id": "event_2197_00046",
@@ -33,8 +33,8 @@
    13095
   ],
   "jp": "{voice:00D214}オルディーン王！{n}しっかりしてください…②",
-  "en": "",
-  "status": ""
+  "en": "King Ordene! Hang in there...!!",
+  "status": "done"
  },
  {
   "id": "event_2197_00074",
@@ -45,8 +45,8 @@
    13143
   ],
   "jp": "{voice:00D314}ぐく…！",
-  "en": "",
-  "status": ""
+  "en": "Gnngh...!",
+  "status": "done"
  },
  {
   "id": "event_2197_00081",
@@ -57,8 +57,8 @@
    13164
   ],
   "jp": "{voice:00D414}矢が…、こんなに……",
-  "en": "",
-  "status": ""
+  "en": "The arrows... So many...",
+  "status": "done"
  },
  {
   "id": "event_2197_0009A",
@@ -69,8 +69,8 @@
    13182
   ],
   "jp": "{voice:00D514}駄目だ！　動かすな②",
-  "en": "",
-  "status": ""
+  "en": "No! Don't move him!!",
+  "status": "done"
  },
  {
   "id": "event_2197_000B3",
@@ -81,8 +81,8 @@
    13861
   ],
   "jp": "{voice:00D614}おやおや、陛下以外の者には{n}かわされてしまいましたか。",
-  "en": "",
-  "status": ""
+  "en": "Dear, dear, everyone but His Majesty dodged them.",
+  "status": "done"
  },
  {
   "id": "event_2197_000ED",
@@ -93,8 +93,8 @@
    13871
   ],
   "jp": "{voice:00D714}しかし、この剛剣使いも、{n}手負いでは矢も避けられませんか。",
-  "en": "",
-  "status": ""
+  "en": "Even this master of the great sword, once wounded, can't avoid arrows, it seems.",
+  "status": "done"
  },
  {
   "id": "event_2197_0012B",
@@ -105,8 +105,8 @@
    13892
   ],
   "jp": "{voice:00D814}貴様だったのか、アランゼーム…{n}何故に、このような暴挙を……？",
-  "en": "",
-  "status": ""
+  "en": "So it was you, Alanjame... Why such an outrage...?",
+  "status": "done"
  },
  {
   "id": "event_2197_0016D",
@@ -117,8 +117,8 @@
    13910
   ],
   "jp": "{voice:00D914}二十年来の計画を、{n}実行したまでです。",
-  "en": "",
-  "status": ""
+  "en": "I merely carried out a plan twenty years in the making.",
+  "status": "done"
  },
  {
   "id": "event_2197_00197",
@@ -129,8 +129,8 @@
    13917
   ],
   "jp": "{voice:00DA14}本来ならば、この計画の準備には{n}もう少し時間がかかるはず{n}だったのですが……",
-  "en": "",
-  "status": ""
+  "en": "Properly speaking, preparing this plan should have taken somewhat longer...",
+  "status": "done"
  },
  {
   "id": "event_2197_001E6",
@@ -141,8 +141,8 @@
    13938
   ],
   "jp": "{voice:00DB14}諸君ら私兵団のおかげでそれを{n}短縮する事ができたのです！{n}いや、礼を言わせて頂きたい。",
-  "en": "",
-  "status": ""
+  "en": "Thanks to you people of the private army, I was able to shorten it! Why, allow me to thank you.",
+  "status": "done"
  },
  {
   "id": "event_2197_0023F",
@@ -153,8 +153,8 @@
    13959
   ],
   "jp": "{voice:00DC14}では、幼子だった私達姉妹に{n}暗殺の手を差し向けたのは……",
-  "en": "",
-  "status": ""
+  "en": "Then the one who sent assassins after us sisters when we were babies...",
+  "status": "done"
  },
  {
   "id": "event_2197_0027B",
@@ -165,8 +165,8 @@
    13977
   ],
   "jp": "{voice:00DD14}そう、私ですよ。{n}計画の邪魔なので、{n}消えて頂こうと思ったのです。",
-  "en": "",
-  "status": ""
+  "en": "Yes, that was me. You stood in the way of my plan, so I thought you should disappear.",
+  "status": "done"
  },
  {
   "id": "event_2197_002C0",
@@ -177,8 +177,8 @@
    13998
   ],
   "jp": "{voice:00DE14}邪魔だって③",
-  "en": "",
-  "status": ""
+  "en": "Stood in the way!?",
+  "status": "done"
  },
  {
   "id": "event_2197_002D1",
@@ -189,8 +189,8 @@
    14016
   ],
   "jp": "{voice:00DF14}表向きは王に忠実な大臣として…{n}そして裏では神生教団の主として{n}邪魔者どもを排斥する……",
-  "en": "",
-  "status": ""
+  "en": "To the world, a loyal minister... In secret, master of the Blessed Papal Army, purging obstacles...",
+  "status": "done"
  },
  {
   "id": "event_2197_0032C",
@@ -201,8 +201,8 @@
    14023
   ],
   "jp": "{voice:00E014}計画は実にうまく進みましたよ。{n}陛下が愚直だったおかげでね。",
-  "en": "",
-  "status": ""
+  "en": "The plan went wonderfully. Thanks to His Majesty's simple-mindedness.",
+  "status": "done"
  },
  {
   "id": "event_2197_0036C",
@@ -225,8 +225,8 @@
    14062
   ],
   "jp": "{voice:00E114}実はね、跡取りが生まれても、{n}殺す必要はなかったんです。",
-  "en": "",
-  "status": ""
+  "en": "In truth, there was no need to kill an heir once one was born.",
+  "status": "done"
  },
  {
   "id": "event_2197_003B3",
@@ -237,8 +237,8 @@
    14069
   ],
   "jp": "{voice:00E214}ただ、双子なのが問題でした……{n}後継問題がややこしくなるのは、{n}目に見えてますから。",
-  "en": "",
-  "status": ""
+  "en": "The trouble was only that you were twins... Anyone could see the succession would get complicated.",
+  "status": "done"
  },
  {
   "id": "event_2197_0040A",
@@ -249,8 +249,8 @@
    14087
   ],
   "jp": "{voice:00E314}双子の後継者によって{n}派閥争いが起こってご覧なさい、{n}最悪国が分裂しかねないでしょう？",
-  "en": "",
-  "status": ""
+  "en": "Imagine, twin heirs setting off a factional struggle. At worst the country could split apart, you see?",
+  "status": "done"
  },
  {
   "id": "event_2197_00463",
@@ -261,8 +261,8 @@
    14108
   ],
   "jp": "{voice:00E414}そんなふざけた理由で、{n}暗殺しようとしたのか！{n}姉さんを殺したのか②",
-  "en": "",
-  "status": ""
+  "en": "You tried to assassinate us for such a ridiculous reason! You killed my sister for that!!",
+  "status": "done"
  },
  {
   "id": "event_2197_004AA",
@@ -273,8 +273,8 @@
    14126
   ],
   "jp": "{voice:00E514}ふざけた理由、ですと？{n}私の崇高な計画が理解できない…{n}いかにも雑食の王女だ。",
-  "en": "",
-  "status": ""
+  "en": "Ridiculous reason, you say? You can't grasp my noble plan... Truly, a princess raised on scraps.",
+  "status": "done"
  },
  {
   "id": "event_2197_004FB",
@@ -285,8 +285,8 @@
    14144
   ],
   "jp": "{voice:00E614}その点、ユグドラ王女は立派です。{n}周りに甘やかされて育ち、{n}私の言葉を疑う事も知りません。",
-  "en": "",
-  "status": ""
+  "en": "Princess Yggdra is admirable in that respect. Pampered all her life, she doesn't know to doubt my words.",
+  "status": "done"
  },
  {
   "id": "event_2197_00558",
@@ -297,8 +297,8 @@
    14154
   ],
   "jp": "{voice:00E714}今では私のお人形さんですよ。{n}ヒッヒッヒッ！",
-  "en": "",
-  "status": ""
+  "en": "These days she's my little doll. Hee hee hee!",
+  "status": "done"
  },
  {
   "id": "event_2197_00588",
@@ -321,8 +321,8 @@
    14295
   ],
   "jp": "{voice:00E814}ヘドが出るぜ。",
-  "en": "",
-  "status": ""
+  "en": "You make me sick.",
+  "status": "done"
  },
  {
   "id": "event_2197_005A6",
@@ -333,8 +333,8 @@
    14316
   ],
   "jp": "{voice:00E914}人の命を弄ぶ、とんだ教祖だ。{n}自分がそんな者の下にいた事が{n}恥ずかしくてしょうがない……",
-  "en": "",
-  "status": ""
+  "en": "Toying with people's lives, what a Pontiff. I am ashamed beyond words that I served under such a man...",
+  "status": "done"
  },
  {
   "id": "event_2197_00601",
@@ -345,8 +345,8 @@
    14334
   ],
   "jp": "{voice:00EA14}ホウ…{n}あなたは確か、天意に背いて{n}神生教団を抜けた裏切り者ですね。",
-  "en": "",
-  "status": ""
+  "en": "Oho... You are, as I recall, the traitor who defied Heaven's will and left the Blessed Papal Army.",
+  "status": "done"
  },
  {
   "id": "event_2197_00648",
@@ -357,8 +357,8 @@
    14426
   ],
   "jp": "{voice:00EB14}天意？　関係ない！{n}私は私だ！",
-  "en": "",
-  "status": ""
+  "en": "Heaven's will? It does not matter! I am who I am!",
+  "status": "done"
  },
  {
   "id": "event_2197_0066A",
@@ -369,8 +369,8 @@
    14444
   ],
   "jp": "{voice:00EC14}あなたも不出来な人形ですね。{n}つまらぬ反抗をする……",
-  "en": "",
-  "status": ""
+  "en": "You too are a badly made doll. Such petty defiance...",
+  "status": "done"
  },
  {
   "id": "event_2197_006A2",
@@ -381,8 +381,8 @@
    14465
   ],
   "jp": "{voice:00ED14}人形は人形らしく、{n}おとなしく私のやり方に{n}従っていればいいのです！",
-  "en": "",
-  "status": ""
+  "en": "Dolls should act like dolls, and meekly follow my way of doing things!",
+  "status": "done"
  },
  {
   "id": "event_2197_006E9",
@@ -393,8 +393,8 @@
    14513
   ],
   "jp": "{voice:00EE14}私達は人形じゃない！{n}天や、ましてやお前に必要と{n}されなくても、生き抜いてみせる②",
-  "en": "",
-  "status": ""
+  "en": "We are not dolls! Even if Heaven doesn't need us, let alone you, we will live on!!",
+  "status": "done"
  },
  {
   "id": "event_2197_0073E",
@@ -405,8 +405,8 @@
    14531
   ],
   "jp": "{voice:00EF14}それもここまでです。{n}今すぐに姉君のところに{n}送ってあげましょう！",
-  "en": "",
-  "status": ""
+  "en": "That ends here too. I shall send you to your sister right away!",
+  "status": "done"
  },
  {
   "id": "event_2197_00783",
@@ -417,8 +417,8 @@
    14637
   ],
   "jp": "{voice:00F014}人形のように利用される……{n}そんな生き方、アリなのか？",
-  "en": "",
-  "status": ""
+  "en": "Used like a doll... Is that any way to live?",
+  "status": "done"
  },
  {
   "id": "event_2197_007BD",
@@ -429,8 +429,8 @@
    14658
   ],
   "jp": "{voice:00F114}そんな理不尽、許せるか！",
-  "en": "",
-  "status": ""
+  "en": "Like hell I'll forgive an injustice like that!",
+  "status": "done"
  },
  {
   "id": "event_2197_007DA",
@@ -441,8 +441,8 @@
    14668
   ],
   "jp": "{voice:00F214}絶対に許さない！{n}お前は生きる価値がない②",
-  "en": "",
-  "status": ""
+  "en": "I will never forgive you! You don't deserve to live!!",
+  "status": "done"
  },
  {
   "id": "event_2197_00808",
@@ -453,8 +453,8 @@
    14686
   ],
   "jp": "{voice:00F314}なんとでも言うがいい！{n}私のこの壮大な計画は{n}あと一歩で結実するのですから！",
-  "en": "",
-  "status": ""
+  "en": "Say what you like! My grand plan is one step from fruition!",
+  "status": "done"
  },
  {
   "id": "event_2197_00857",
@@ -465,8 +465,8 @@
    14693
   ],
   "jp": "{voice:00F414}あなた達をすべて始末すれば、{n}国王と賊徒が共倒れしたとして{n}全ての説明が付きます！",
-  "en": "",
-  "status": ""
+  "en": "Once I dispose of you all, it can be explained as the King and the bandits killing each other!",
+  "status": "done"
  },
  {
   "id": "event_2197_008AC",
@@ -477,8 +477,8 @@
    14714
   ],
   "jp": "{voice:00F514}だから、城の守りが薄かったんだ。{n}僕達を使って、クーデターを{n}成功させる為に②",
-  "en": "",
-  "status": ""
+  "en": "So that's why the castle was so lightly guarded. You used us to pull off a coup!!",
+  "status": "done"
  },
  {
   "id": "event_2197_008FD",
@@ -489,8 +489,8 @@
    14735
   ],
   "jp": "{voice:00F614}どこまでも卑怯なヤツだぜ②",
-  "en": "",
-  "status": ""
+  "en": "You're a coward through and through!!",
+  "status": "done"
  },
  {
   "id": "event_2197_0091C",
@@ -501,8 +501,8 @@
    14756
   ],
   "jp": "{voice:00F714}王家の血筋で唯一生き残った{n}ユグドラ王女とともに、{n}この国は私のものとなるのです②",
-  "en": "",
-  "status": ""
+  "en": "With Princess Yggdra, sole survivor of the royal bloodline, this country will be mine!!",
+  "status": "done"
  },
  {
   "id": "event_2197_00971",
@@ -513,8 +513,8 @@
    15021
   ],
   "jp": "{voice:00F814}終わらせてやる！{n}お前を討って、全てを②",
-  "en": "",
-  "status": ""
+  "en": "I'll end it! I'll strike you down, and end it all!!",
+  "status": "done"
  },
  {
   "id": "event_2197_0099D",
@@ -525,8 +525,8 @@
    15085
   ],
   "jp": "{voice:00F914}ほざけ、人形どもめ！{n}私が育て上げた神生教団が{n}八つ裂きにしてあげますよ！",
-  "en": "",
-  "status": ""
+  "en": "Babble on, you dolls! The Blessed Papal Army that I raised will tear you to pieces!",
+  "status": "done"
  },
  {
   "id": "event_2197_009EA",
@@ -537,8 +537,8 @@
    25074
   ],
   "jp": "{voice:00FA14}ぐぼぁっ②",
-  "en": "",
-  "status": ""
+  "en": "Gwuhaah!!",
+  "status": "done"
  },
  {
   "id": "event_2197_009F9",
@@ -549,8 +549,8 @@
    25081
   ],
   "jp": "{voice:00FB14}ば、バカな…！{n}私の野望が、私の理想が…{n}ここで終わるというのか…！",
-  "en": "",
-  "status": ""
+  "en": "N-No...! My ambition, my ideal... ending here...!",
+  "status": "done"
  },
  {
   "id": "event_2197_00A40",
@@ -561,8 +561,8 @@
    25102
   ],
   "jp": "{voice:00FC14}い、イヤだ…{n}死にたく、ない…②",
-  "en": "",
-  "status": ""
+  "en": "N-No... I don't want... to die...!!",
+  "status": "done"
  },
  {
   "id": "event_2197_00A64",
@@ -573,8 +573,8 @@
    25123
   ],
   "jp": "{voice:00FD14}人を何人も殺しておきながら、{n}自分は死を怖がるなんて……",
-  "en": "",
-  "status": ""
+  "en": "After killing so many people, you're afraid of death yourself...",
+  "status": "done"
  },
  {
   "id": "event_2197_00AA0",
@@ -585,8 +585,8 @@
    25141
   ],
   "jp": "{voice:00FE14}戦い、誰かを傷つける限り、{n}誰かに傷つけられる覚悟も{n}一緒に背負ってなきゃいけない…",
-  "en": "",
-  "status": ""
+  "en": "As long as you fight and hurt people, you have to carry the resolve to get hurt in turn...",
+  "status": "done"
  },
  {
   "id": "event_2197_00AF7",
@@ -597,8 +597,8 @@
    25162
   ],
   "jp": "{voice:00FF14}お前にはそれがない！{n}傷つけられるのが{n}どういう事か、その身に刻め！",
-  "en": "",
-  "status": ""
+  "en": "You don't have that! Learn what it means to be hurt, and feel it in your bones!",
+  "status": "done"
  },
  {
   "id": "event_2197_00B3E",
@@ -609,8 +609,8 @@
    25183
   ],
   "jp": "{voice:000015}天意は、天意はどこだぁぁぁっ！",
-  "en": "",
-  "status": ""
+  "en": "Heaven's will, where is Heaven's wiiiill!",
+  "status": "done"
  },
  {
   "id": "event_2197_00B61",
@@ -633,8 +633,8 @@
    25371
   ],
   "jp": "{voice:000115}これで、終わったのかしら。",
-  "en": "",
-  "status": ""
+  "en": "Is this the end of it, then?",
+  "status": "done"
  },
  {
   "id": "event_2197_00B8B",
@@ -645,8 +645,8 @@
    25389
   ],
   "jp": "{voice:000215}そう、思います。{n}戦いも、私の復讐も、すべて…",
-  "en": "",
-  "status": ""
+  "en": "I believe it is. The fighting, my revenge, all of it...",
+  "status": "done"
  },
  {
   "id": "event_2197_00BBD",
@@ -657,8 +657,8 @@
    25890
   ],
   "jp": "{voice:000315}…ぐくっ②",
-  "en": "",
-  "status": ""
+  "en": "...Gnngh!!",
+  "status": "done"
  },
  {
   "id": "event_2197_00BCC",
@@ -669,8 +669,8 @@
    25908
   ],
   "jp": "{voice:000415}オルディーン王！{n}しっかりしてください、{n}今、医者を呼んできます②",
-  "en": "",
-  "status": ""
+  "en": "King Ordene! Hang in there, I'll get a doctor right now!!",
+  "status": "done"
  },
  {
   "id": "event_2197_00C11",
@@ -681,8 +681,8 @@
    25926
   ],
   "jp": "{voice:000515}わ、私ちょっと探してくる！{n}お城なんだもの、{n}お医者さんぐらいいるでしょ？",
-  "en": "",
-  "status": ""
+  "en": "I-I'll go look for one! It's a castle, so there's got to be a doctor, right?",
+  "status": "done"
  },
  {
   "id": "event_2197_00C5E",
@@ -693,8 +693,8 @@
    25944
   ],
   "jp": "{voice:000615}いい、私はもうこれでいい……",
-  "en": "",
-  "status": ""
+  "en": "No, this is enough for me now...",
+  "status": "done"
  },
  {
   "id": "event_2197_00C7F",
@@ -705,8 +705,8 @@
    25962
   ],
   "jp": "{voice:000715}しかし、今治療すれば{n}助かるかも……",
-  "en": "",
-  "status": ""
+  "en": "But if we treat you now, you might live...",
+  "status": "done"
  },
  {
   "id": "event_2197_00CA7",
@@ -717,8 +717,8 @@
    25983
   ],
   "jp": "{voice:000815}アイギナよ……",
-  "en": "",
-  "status": ""
+  "en": "Aegina...",
+  "status": "done"
  },
  {
   "id": "event_2197_00CBA",
@@ -729,8 +729,8 @@
    26001
   ],
   "jp": "{voice:000915}え、私……？",
-  "en": "",
-  "status": ""
+  "en": "Huh, me...?",
+  "status": "done"
  },
  {
   "id": "event_2197_00CCB",
@@ -741,8 +741,8 @@
    26026
   ],
   "jp": "{voice:000A15}アイギナよ、詫びをしたい……{n}知らぬこととはいえ、{n}全ては私が招いた不始末だ。",
-  "en": "",
-  "status": ""
+  "en": "Aegina, I wish to apologize... Though I did not know it, all of this was my own failing.",
+  "status": "done"
  },
  {
   "id": "event_2197_00D1C",
@@ -753,8 +753,8 @@
    26036
   ],
   "jp": "{voice:000B15}アランゼームの目論見を{n}見破れなかった私が愚かだった…",
-  "en": "",
-  "status": ""
+  "en": "I was a fool, not to see through Alanjame's scheme...",
+  "status": "done"
  },
  {
   "id": "event_2197_00D56",
@@ -765,8 +765,8 @@
    26046
   ],
   "jp": "{voice:000C15}私は罰を受けるべきなのだ。",
-  "en": "",
-  "status": ""
+  "en": "I should be punished.",
+  "status": "done"
  },
  {
   "id": "event_2197_00D75",
@@ -777,8 +777,8 @@
    26064
   ],
   "jp": "{voice:000D15}だから治療しないって言うのか？{n}そんなのバカげている！",
-  "en": "",
-  "status": ""
+  "en": "So you won't get treated? That's ridiculous!",
+  "status": "done"
  },
  {
   "id": "event_2197_00DAF",
@@ -789,8 +789,8 @@
    26082
   ],
   "jp": "{voice:000E15}そうだよ！{n}悪いのはあの大臣でしょ？",
-  "en": "",
-  "status": ""
+  "en": "Yeah! The bad guy is that minister, isn't he?",
+  "status": "done"
  },
  {
   "id": "event_2197_00DD7",
@@ -801,8 +801,8 @@
    26103
   ],
   "jp": "{voice:000F15}私は臣下を束ねる王である前に、{n}１人の父親であるべきだった。",
-  "en": "",
-  "status": ""
+  "en": "Before I was a King ruling over my subjects, I should have been a father.",
+  "status": "done"
  },
  {
   "id": "event_2197_00E17",
@@ -813,8 +813,8 @@
    26110
   ],
   "jp": "{voice:001015}それが、娘を想う事を、棄てた。{n}もう父親とは呼べないだろう。",
-  "en": "",
-  "status": ""
+  "en": "And yet I threw away my thoughts for my daughters. I can no longer call myself a father.",
+  "status": "done"
  },
  {
   "id": "event_2197_00E57",
@@ -837,8 +837,8 @@
    26149
   ],
   "jp": "{voice:001115}君達姉妹を棄て、ユグドラまで{n}アランゼームの傀儡とさせて、{n}不幸にするところだったのだ。",
-  "en": "",
-  "status": ""
+  "en": "I cast you sisters out, and nearly made Yggdra miserable too, as Alanjame's puppet.",
+  "status": "done"
  },
  {
   "id": "event_2197_00EBD",
@@ -849,8 +849,8 @@
    26170
   ],
   "jp": "{voice:001215}私は報いを受けるべきだ……",
-  "en": "",
-  "status": ""
+  "en": "I should pay for this...",
+  "status": "done"
  },
  {
   "id": "event_2197_00EDC",
@@ -861,8 +861,8 @@
    26177
   ],
   "jp": "{voice:001315}このような男が、父であるなど…{n}決して許されるべきではない。",
-  "en": "",
-  "status": ""
+  "en": "That such a man should be a father... It must never be forgiven.",
+  "status": "done"
  },
  {
   "id": "event_2197_00F1C",
@@ -885,8 +885,8 @@
    26236
   ],
   "jp": "{voice:001415}許される、許されないって{n}話じゃないだろ。",
-  "en": "",
-  "status": ""
+  "en": "It's not about being forgiven or not.",
+  "status": "done"
  },
  {
   "id": "event_2197_00F55",
@@ -897,8 +897,8 @@
    26243
   ],
   "jp": "{voice:001515}アイギナはお前を憎んでない。{n}もう復讐は終わったんだよ。",
-  "en": "",
-  "status": ""
+  "en": "Aegina doesn't hate you. Her revenge is over now.",
+  "status": "done"
  },
  {
   "id": "event_2197_00F91",
@@ -921,8 +921,8 @@
    26282
   ],
   "jp": "{voice:001715}…私は……",
-  "en": "",
-  "status": ""
+  "en": "...I...",
+  "status": "done"
  },
  {
   "id": "event_2197_00FB5",
@@ -945,8 +945,8 @@
    26469
   ],
   "jp": "{voice:001815}お、お父様③",
-  "en": "",
-  "status": ""
+  "en": "F-Father!?",
+  "status": "done"
  },
  {
   "id": "event_2197_00FD1",
@@ -969,8 +969,8 @@
    26505
   ],
   "jp": "{voice:001915}あなた方は、まさか賊軍の…？",
-  "en": "",
-  "status": ""
+  "en": "You people, could you be the bandit army...?",
+  "status": "done"
  },
  {
   "id": "event_2197_00FFB",
@@ -981,8 +981,8 @@
    26523
   ],
   "jp": "{voice:001A15}無礼者！　お父様から離れなさい！{n}さもなくば……",
-  "en": "",
-  "status": ""
+  "en": "How dare you! Get away from my father! Or else...",
+  "status": "done"
  },
  {
   "id": "event_2197_0102F",
@@ -993,8 +993,8 @@
    26571
   ],
   "jp": "{voice:001B15}よせ、ユグドラ……",
-  "en": "",
-  "status": ""
+  "en": "Stop, Yggdra...",
+  "status": "done"
  },
  {
   "id": "event_2197_01046",
@@ -1005,8 +1005,8 @@
    26589
   ],
   "jp": "{voice:001C15}お父様、しかし！",
-  "en": "",
-  "status": ""
+  "en": "But, Father!",
+  "status": "done"
  },
  {
   "id": "event_2197_0105B",
@@ -1017,8 +1017,8 @@
    26610
   ],
   "jp": "{voice:001D15}ユグドラ…、彼らは敵ではない。",
-  "en": "",
-  "status": ""
+  "en": "Yggdra... They are not the enemy.",
+  "status": "done"
  },
  {
   "id": "event_2197_0107E",
@@ -1029,8 +1029,8 @@
    26617
   ],
   "jp": "{voice:001E15}いつか話して聞かせただろう？{n}お前の、姉君だ。",
-  "en": "",
-  "status": ""
+  "en": "I told you once, didn't I? She is your elder sister.",
+  "status": "done"
  },
  {
   "id": "event_2197_010B0",
@@ -1041,8 +1041,8 @@
    26635
   ],
   "jp": "{voice:001F15}お、お姉様……？",
-  "en": "",
-  "status": ""
+  "en": "E-Elder sister...?",
+  "status": "done"
  },
  {
   "id": "event_2197_010C5",
@@ -1053,8 +1053,8 @@
    26656
   ],
   "jp": "{voice:002015}生きていたのだ…{n}暗殺の魔手から逃れていた。",
-  "en": "",
-  "status": ""
+  "en": "She was alive... She escaped the clutches of the assassins.",
+  "status": "done"
  },
  {
   "id": "event_2197_010F5",
@@ -1065,8 +1065,8 @@
    26677
   ],
   "jp": "{voice:002115}アランゼームが王国を奪い取ろう{n}として、暗殺を仕組んだのだ…{n}全ての元凶は、あの…",
-  "en": "",
-  "status": ""
+  "en": "Alanjame plotted the assassination to steal the Kingdom... The source of it all is that...",
+  "status": "done"
  },
  {
   "id": "event_2197_0114A",
@@ -1077,8 +1077,8 @@
    26731
   ],
   "jp": "{voice:002215}うごぉぉぉぉぉぉぉぉ②",
-  "en": "",
-  "status": ""
+  "en": "Ugoooooooooh!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01165",
@@ -1089,8 +1089,8 @@
    26903
   ],
   "jp": "{voice:002315}しまった！{n}まだ息があったのか③",
-  "en": "",
-  "status": ""
+  "en": "Damn it! He's still breathing!?",
+  "status": "done"
  },
  {
   "id": "event_2197_01189",
@@ -1101,8 +1101,8 @@
    26940
   ],
   "jp": "{voice:002415}王女が２人揃ったのだ！{n}まとめて殺す絶好の機会だ②",
-  "en": "",
-  "status": ""
+  "en": "Two princesses, side by side! The perfect chance to kill you together!!",
+  "status": "done"
  },
  {
   "id": "event_2197_011BF",
@@ -1113,8 +1113,8 @@
    26966
   ],
   "jp": "{voice:002515}この国は私のものだ！{n}そうでないなら誰にも渡さん②{n}ハハハハハハ②",
-  "en": "",
-  "status": ""
+  "en": "This country is mine! If not, then no one shall have it!! Hahahahahaha!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01204",
@@ -1125,8 +1125,8 @@
    27003
   ],
   "jp": "{voice:002615}え…、なに？{n}どういう事なのですか？",
-  "en": "",
-  "status": ""
+  "en": "Huh... What? What's going on?",
+  "status": "done"
  },
  {
   "id": "event_2197_0122C",
@@ -1137,8 +1137,8 @@
    27021
   ],
   "jp": "{voice:002715}きゃぁぁぁぁ……",
-  "en": "",
-  "status": ""
+  "en": "Eeeeeek...",
+  "status": "done"
  },
  {
   "id": "event_2197_01241",
@@ -1149,8 +1149,8 @@
    27165
   ],
   "jp": "{voice:002815}ぐぅッ…②",
-  "en": "",
-  "status": ""
+  "en": "Gngh...!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01250",
@@ -1161,8 +1161,8 @@
    27183
   ],
   "jp": "{voice:002915}お、お父様！　お父様ぁ②",
-  "en": "",
-  "status": ""
+  "en": "F-Father! Fatherrr!!",
+  "status": "done"
  },
  {
   "id": "event_2197_0126D",
@@ -1173,8 +1173,8 @@
    27201
   ],
   "jp": "{voice:002A15}私達を庇って、そんな…！",
-  "en": "",
-  "status": ""
+  "en": "You shielded us, no...!",
+  "status": "done"
  },
  {
   "id": "event_2197_0128A",
@@ -1185,8 +1185,8 @@
    27265
   ],
   "jp": "{voice:002B15}が、わ、私の最後の力が……{n}うごごぉぉぉぉぉぉ②",
-  "en": "",
-  "status": ""
+  "en": "Gah, m-my last strength... Ugoooooooh!!",
+  "status": "done"
  },
  {
   "id": "event_2197_012BE",
@@ -1197,8 +1197,8 @@
    27394
   ],
   "jp": "{voice:002C15}くそっ、もう死んでいやがる。",
-  "en": "",
-  "status": ""
+  "en": "Damn, he's dead already.",
+  "status": "done"
  },
  {
   "id": "event_2197_012DF",
@@ -1209,8 +1209,8 @@
    27412
   ],
   "jp": "{voice:002D15}最後の力を振り絞ったのですね。{n}人の執念とは、恐ろしく、{n}そして、侮れぬものですね。",
-  "en": "",
-  "status": ""
+  "en": "He wrung out the last of his strength. Human obsession is a frightening thing, and not to be underestimated.",
+  "status": "done"
  },
  {
   "id": "event_2197_01336",
@@ -1221,8 +1221,8 @@
    27522
   ],
   "jp": "{voice:002E15}ぐ、ぐく……②",
-  "en": "",
-  "status": ""
+  "en": "Gh, gnngh...!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01349",
@@ -1233,8 +1233,8 @@
    27540
   ],
   "jp": "{voice:002F15}どうしてそこまでして…！",
-  "en": "",
-  "status": ""
+  "en": "Why go that far...!",
+  "status": "done"
  },
  {
   "id": "event_2197_01366",
@@ -1245,8 +1245,8 @@
    27562
   ],
   "jp": "{voice:003015}……娘達を守りたかった。{n}それだけなのだ…",
-  "en": "",
-  "status": ""
+  "en": "...I wanted to protect my daughters. That is all...",
+  "status": "done"
  },
  {
   "id": "event_2197_01394",
@@ -1257,8 +1257,8 @@
    27580
   ],
   "jp": "{voice:003115}娘…？",
-  "en": "",
-  "status": ""
+  "en": "Daughters...?",
+  "status": "done"
  },
  {
   "id": "event_2197_0139F",
@@ -1269,8 +1269,8 @@
    27598
   ],
   "jp": "{voice:003215}聞け、ユグドラ…{n}国を富ませ、そして守るのだ…{n}それが、王家に生きる者の責務だ。",
-  "en": "",
-  "status": ""
+  "en": "Hear me, Yggdra... Enrich this country, and protect it... That is the duty of the royal house.",
+  "status": "done"
  },
  {
   "id": "event_2197_013F2",
@@ -1281,8 +1281,8 @@
    27605
   ],
   "jp": "{voice:003315}第２のアランゼームが現れぬよう、{n}目を光らせねばならん。",
-  "en": "",
-  "status": ""
+  "en": "You must keep watch, so that no second Alanjame appears.",
+  "status": "done"
  },
  {
   "id": "event_2197_0142E",
@@ -1293,8 +1293,8 @@
    27623
   ],
   "jp": "{voice:003415}…よいな？",
-  "en": "",
-  "status": ""
+  "en": "...Understood?",
+  "status": "done"
  },
  {
   "id": "event_2197_0143D",
@@ -1305,8 +1305,8 @@
    27641
   ],
   "jp": "{voice:003515}はい、お父様…",
-  "en": "",
-  "status": ""
+  "en": "Yes, Father...",
+  "status": "done"
  },
  {
   "id": "event_2197_01450",
@@ -1317,8 +1317,8 @@
    27659
   ],
   "jp": "{voice:003615}アイギナよ……",
-  "en": "",
-  "status": ""
+  "en": "Aegina...",
+  "status": "done"
  },
  {
   "id": "event_2197_01463",
@@ -1329,8 +1329,8 @@
    27677
   ],
   "jp": "{voice:003715}は、はいっ。",
-  "en": "",
-  "status": ""
+  "en": "Y-Yes.",
+  "status": "done"
  },
  {
   "id": "event_2197_01474",
@@ -1341,8 +1341,8 @@
    27695
   ],
   "jp": "{voice:003815}王家以外で時を過ごしたお前には、{n}別の生き方があるはずだ。{n}この国に残れと、強要はできない。",
-  "en": "",
-  "status": ""
+  "en": "You spent your time outside the royal house, so you must have another way to live. I cannot force you to stay.",
+  "status": "done"
  },
  {
   "id": "event_2197_014D3",
@@ -1353,8 +1353,8 @@
    27713
   ],
   "jp": "{voice:003915}だが、国に残るのも止めはしない。{n}ユグドラとともに、国のために{n}力を尽くしてくれれば、嬉しい。",
-  "en": "",
-  "status": ""
+  "en": "But I won't stop you from staying either. If you'd work for the country with Yggdra, I would be glad.",
+  "status": "done"
  },
  {
   "id": "event_2197_01534",
@@ -1377,8 +1377,8 @@
    27749
   ],
   "jp": "{voice:003A15}お前には仲間がいる…{n}戸惑い、迷ったとき、{n}彼らが助けとなってくれるだろう。",
-  "en": "",
-  "status": ""
+  "en": "You have your comrades... When you are lost and unsure, they will help you.",
+  "status": "done"
  },
  {
   "id": "event_2197_0158E",
@@ -1389,8 +1389,8 @@
    27824
   ],
   "jp": "{voice:003B15}ガーロットと言ったか。{n}どうかアイギナを、娘を、頼む……",
-  "en": "",
-  "status": ""
+  "en": "Garlot, was it. Please, take care of Aegina, of my daughter...",
+  "status": "done"
  },
  {
   "id": "event_2197_015CA",
@@ -1401,8 +1401,8 @@
    27842
   ],
   "jp": "{voice:003C15}言われなくてもわかっているよ。{n}アイギナは仲間なんだ。",
-  "en": "",
-  "status": ""
+  "en": "You don't have to tell me that. Aegina's my comrade.",
+  "status": "done"
  },
  {
   "id": "event_2197_01604",
@@ -1413,8 +1413,8 @@
    27860
   ],
   "jp": "{voice:003D15}伝えるべき事は、伝えた。",
-  "en": "",
-  "status": ""
+  "en": "I have said what I needed to say.",
+  "status": "done"
  },
  {
   "id": "event_2197_01621",
@@ -1425,8 +1425,8 @@
    27963
   ],
   "jp": "{voice:003E15}お父様、{n}どうか治療を受けて下さい。",
-  "en": "",
-  "status": ""
+  "en": "Father, please, get treatment.",
+  "status": "done"
  },
  {
   "id": "event_2197_01649",
@@ -1437,8 +1437,8 @@
    27981
   ],
   "jp": "{voice:003F15}そうです！",
-  "en": "",
-  "status": ""
+  "en": "Yes, please!",
+  "status": "done"
  },
  {
   "id": "event_2197_01658",
@@ -1449,8 +1449,8 @@
    27999
   ],
   "jp": "{voice:004015}いや、既に手遅れだ、{n}既にな……",
-  "en": "",
-  "status": ""
+  "en": "No, it's already too late, already...",
+  "status": "done"
  },
  {
   "id": "event_2197_0167C",
@@ -1461,8 +1461,8 @@
    28017
   ],
   "jp": "{voice:004115}お父様……",
-  "en": "",
-  "status": ""
+  "en": "Father...",
+  "status": "done"
  },
  {
   "id": "event_2197_0168B",
@@ -1473,8 +1473,8 @@
    28035
   ],
   "jp": "{voice:004215}それに、もう１人の娘に、{n}寂しい想いをさせたくないからな。",
-  "en": "",
-  "status": ""
+  "en": "Besides, I don't want my other daughter to be lonely.",
+  "status": "done"
  },
  {
   "id": "event_2197_016C9",
@@ -1485,8 +1485,8 @@
    28053
   ],
   "jp": "{voice:004315}ルシエナ姉さんを…？",
-  "en": "",
-  "status": ""
+  "en": "You mean my sister Luciana...?",
+  "status": "done"
  },
  {
   "id": "event_2197_016E2",
@@ -1497,8 +1497,8 @@
    28071
   ],
   "jp": "{voice:004415}アイギナよ、仲間を信じ{n}そして信じられ、生きよ！",
-  "en": "",
-  "status": ""
+  "en": "Aegina, trust in your comrades, and be trusted, and live!",
+  "status": "done"
  },
  {
   "id": "event_2197_01716",
@@ -1509,8 +1509,8 @@
    28089
   ],
   "jp": "{voice:004515}お、お父様……",
-  "en": "",
-  "status": ""
+  "en": "F-Father...",
+  "status": "done"
  },
  {
   "id": "event_2197_01729",
@@ -1521,8 +1521,8 @@
    28107
   ],
   "jp": "{voice:004615}さらばだ、私を父と呼ぶ{n}美しく気高き娘たちよ……",
-  "en": "",
-  "status": ""
+  "en": "Farewell, my beautiful and noble daughters who call me father...",
+  "status": "done"
  },
  {
   "id": "event_2197_0175D",
@@ -1533,8 +1533,8 @@
    28281
   ],
   "jp": "{voice:004715}お、お父様……",
-  "en": "",
-  "status": ""
+  "en": "F-Father...",
+  "status": "done"
  },
  {
   "id": "event_2197_01770",
@@ -1545,8 +1545,8 @@
    28299
   ],
   "jp": "{voice:004815}お、お父様②",
-  "en": "",
-  "status": ""
+  "en": "F-Father!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01781",
@@ -1581,8 +1581,8 @@
    28452
   ],
   "jp": "{voice:004915}……悲しい戦いだったね。",
-  "en": "",
-  "status": ""
+  "en": "...What a sad battle.",
+  "status": "done"
  },
  {
   "id": "event_2197_017B4",
@@ -1605,8 +1605,8 @@
    28477
   ],
   "jp": "{voice:004B15}だが、アイギナの戦いは{n}これから始まる。",
-  "en": "",
-  "status": ""
+  "en": "But Aegina's fight starts now.",
+  "status": "done"
  },
  {
   "id": "event_2197_017F1",
@@ -1617,8 +1617,8 @@
    28495
   ],
   "jp": "{voice:004C15}俺達がアイギナを支えてやろう。",
-  "en": "",
-  "status": ""
+  "en": "Let's stand behind Aegina.",
+  "status": "done"
  },
  {
   "id": "event_2197_01814",
@@ -1629,8 +1629,8 @@
    28513
   ],
   "jp": "{voice:004D15}そうだな。希望がなければ、{n}戦い続けるのは難しい。",
-  "en": "",
-  "status": ""
+  "en": "You're right. Without hope, it's hard to keep fighting.",
+  "status": "done"
  },
  {
   "id": "event_2197_0184A",
@@ -1641,8 +1641,8 @@
    28531
   ],
   "jp": "{voice:004E15}アイギナは、希望を掴み取れた。{n}ルシエナも喜んでいるはずだ。",
-  "en": "",
-  "status": ""
+  "en": "Aegina managed to grasp hope. Luciana must be glad.",
+  "status": "done"
  },
  {
   "id": "event_2197_0188A",
@@ -1653,8 +1653,8 @@
    28549
   ],
   "jp": "{voice:004F15}あとは、アイギナの気持ちか…{n}大丈夫。きっと大丈夫だよ。",
-  "en": "",
-  "status": ""
+  "en": "The rest is how Aegina feels... She'll be fine. I'm sure she'll be fine.",
+  "status": "done"
  },
  {
   "id": "event_2197_018C6",
@@ -1677,8 +1677,8 @@
    28769
   ],
   "jp": "{voice:005015}……お父様は逝ってしまわれた。{n}もういないのだわ。",
-  "en": "",
-  "status": ""
+  "en": "...Father has passed away. He is gone now.",
+  "status": "done"
  },
  {
   "id": "event_2197_01907",
@@ -1689,8 +1689,8 @@
    28776
   ],
   "jp": "{voice:005115}私はどうすればいいの？",
-  "en": "",
-  "status": ""
+  "en": "What should I do?",
+  "status": "done"
  },
  {
   "id": "event_2197_01922",
@@ -1713,8 +1713,8 @@
    28820
   ],
   "jp": "{voice:005215}お姉様、行かないで！",
-  "en": "",
-  "status": ""
+  "en": "Elder sister, don't go!",
+  "status": "done"
  },
  {
   "id": "event_2197_01946",
@@ -1725,8 +1725,8 @@
    28865
   ],
   "jp": "{voice:005315}よせ、お前を殺そうとした女が、{n}姉でなど、あるはずがない。",
-  "en": "",
-  "status": ""
+  "en": "Stop. The woman who tried to kill you can't be your sister.",
+  "status": "done"
  },
  {
   "id": "event_2197_01984",
@@ -1737,8 +1737,8 @@
    28887
   ],
   "jp": "{voice:005415}姉とは、もっと優しいものだ。{n}私が言うんだ、間違いない。",
-  "en": "",
-  "status": ""
+  "en": "A sister is someone much kinder. I should know, believe me.",
+  "status": "done"
  },
  {
   "id": "event_2197_019C0",
@@ -1749,8 +1749,8 @@
    28905
   ],
   "jp": "{voice:005515}父は、あなたを娘と呼びました。{n}ですから、あなたは私のお姉様に{n}違いありません。",
-  "en": "",
-  "status": ""
+  "en": "Father called you his daughter. So you must surely be my elder sister.",
+  "status": "done"
  },
  {
   "id": "event_2197_01A13",
@@ -1761,8 +1761,8 @@
    28912
   ],
   "jp": "{voice:005615}私は、お姉様のことを知らず{n}今まで生きてきたのです……",
-  "en": "",
-  "status": ""
+  "en": "I have lived until now without knowing about you...",
+  "status": "done"
  },
  {
   "id": "event_2197_01A4D",
@@ -1773,8 +1773,8 @@
    28919
   ],
   "jp": "{voice:005715}さぞお辛かったでしょう。{n}許されるとは、思えません……",
-  "en": "",
-  "status": ""
+  "en": "It must have been so painful. I can't imagine being forgiven...",
+  "status": "done"
  },
  {
   "id": "event_2197_01A87",
@@ -1785,8 +1785,8 @@
    28937
   ],
   "jp": "{voice:005815}バカな……{n}許されないのは、私の方だ。",
-  "en": "",
-  "status": ""
+  "en": "Nonsense... I'm the one who can't be forgiven.",
+  "status": "done"
  },
  {
   "id": "event_2197_01AB1",
@@ -1797,8 +1797,8 @@
    28944
   ],
   "jp": "{voice:005915}復讐したい一心で、{n}お前の全てを壊してしまった。{n}罰せられるべきは、私の方……",
-  "en": "",
-  "status": ""
+  "en": "Thinking only of revenge, I destroyed everything you had. I'm the one who should be punished...",
+  "status": "done"
  },
  {
   "id": "event_2197_01B02",
@@ -1809,8 +1809,8 @@
    28962
   ],
   "jp": "{voice:005A15}ですが、このままお姉様と{n}お別れなんて、寂し過ぎます。",
-  "en": "",
-  "status": ""
+  "en": "But to part from you like this, elder sister, would be far too lonely.",
+  "status": "done"
  },
  {
   "id": "event_2197_01B3C",
@@ -1821,8 +1821,8 @@
    28969
   ],
   "jp": "{voice:005B15}お母様だって、きっと……",
-  "en": "",
-  "status": ""
+  "en": "Mother would surely feel the same...",
+  "status": "done"
  },
  {
   "id": "event_2197_01B59",
@@ -1833,8 +1833,8 @@
    29017
   ],
   "jp": "{voice:005C15}母上だと？{n}母が、母さんがいるのか③",
-  "en": "",
-  "status": ""
+  "en": "Mother? I have a mother... She's alive!?",
+  "status": "done"
  },
  {
   "id": "event_2197_01B81",
@@ -1845,8 +1845,8 @@
    29035
   ],
   "jp": "{voice:005D15}そうです、お母様に会いましょう。",
-  "en": "",
-  "status": ""
+  "en": "Yes, let's go and see Mother.",
+  "status": "done"
  },
  {
   "id": "event_2197_01BA6",
@@ -1857,8 +1857,8 @@
    29053
   ],
   "jp": "{voice:005E15}母上か……",
-  "en": "",
-  "status": ""
+  "en": "My mother...",
+  "status": "done"
  },
  {
   "id": "event_2197_01BB5",
@@ -1869,8 +1869,8 @@
    15363
   ],
   "jp": "卑賤なる蛮族、頭が高い！{n}私は神生教団の現人神にして、{n}王国新王のアランゼームなるぞ②",
-  "en": "",
-  "status": ""
+  "en": "Bow, base barbarians! I am Alanjame, living god of the Blessed Papal Army and new King of this land!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01C0A",
@@ -1881,8 +1881,8 @@
    15384
   ],
   "jp": "なにワケのわからない事、{n}抜かしてんだよ②",
-  "en": "",
-  "status": ""
+  "en": "What the hell are you babbling about!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01C34",
@@ -1893,8 +1893,8 @@
    15582
   ],
   "jp": "ルシエナと、アイギナに、{n}命を以て償いな②",
-  "en": "",
-  "status": ""
+  "en": "Atone to Luciana and Aegina with your life!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01C5E",
@@ -1905,8 +1905,8 @@
    15603
   ],
   "jp": "命で過去が償えると、{n}本気で思っているのですか？{n}笑い話にもなりませんね。",
-  "en": "",
-  "status": ""
+  "en": "You seriously think a life can atone for the past? That's not even funny.",
+  "status": "done"
  },
  {
   "id": "event_2197_01CA7",
@@ -1917,8 +1917,8 @@
    15801
   ],
   "jp": "人を人形呼ばわりするなんて、{n}許せないよ！",
-  "en": "",
-  "status": ""
+  "en": "Calling people dolls, I can't forgive that!",
+  "status": "done"
  },
  {
   "id": "event_2197_01CD1",
@@ -1929,8 +1929,8 @@
    15822
   ],
   "jp": "皆思っている事でしょう？{n}私は正直に口にしているだけ。{n}それが分からんとは……",
-  "en": "",
-  "status": ""
+  "en": "Isn't that what everyone thinks? I merely say it honestly. And you can't see that...",
+  "status": "done"
  },
  {
   "id": "event_2197_01D1E",
@@ -1941,8 +1941,8 @@
    16020
   ],
   "jp": "お前のような奴は、{n}絶対に生かしておけない②",
-  "en": "",
-  "status": ""
+  "en": "I can't let someone like you live!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01D4A",
@@ -1953,8 +1953,8 @@
    16038
   ],
   "jp": "人の生き死にを決めようなどと、{n}あなたこそ何様のつもりですか？",
-  "en": "",
-  "status": ""
+  "en": "You presume to decide who lives and dies? Just who do you think you are?",
+  "status": "done"
  },
  {
   "id": "event_2197_01D88",
@@ -1965,8 +1965,8 @@
    16236
   ],
   "jp": "姉さんの仇、アランゼーム②{n}私の手で、必ず斬ります！",
-  "en": "",
-  "status": ""
+  "en": "My sister's killer, Alanjame!! I will cut you down with my own hand!",
+  "status": "done"
  },
  {
   "id": "event_2197_01DBC",
@@ -1977,8 +1977,8 @@
    16257
   ],
   "jp": "私を斬ると？　ククク……{n}天意がそれを許しますかな？",
-  "en": "",
-  "status": ""
+  "en": "You will cut me down? Heh heh heh... Will Heaven's will allow it?",
+  "status": "done"
  },
  {
   "id": "event_2197_01DF0",
@@ -1989,8 +1989,8 @@
    16275
   ],
   "jp": "例え天意があったとしても、{n}許す、許さぬ以前に{n}お前など気にかけるわけがない②",
-  "en": "",
-  "status": ""
+  "en": "Even if there is a Heaven's will, it would never care about the likes of you, let alone allow anything!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01E3D",
@@ -2001,8 +2001,8 @@
    16480
   ],
   "jp": "神でもあり、王でもある男、か…",
-  "en": "",
-  "status": ""
+  "en": "A man who is both a god and a king, huh...",
+  "status": "done"
  },
  {
   "id": "event_2197_01E5C",
@@ -2013,8 +2013,8 @@
    16501
   ],
   "jp": "おや、あなたは獣のくせに{n}話がわかるようですね……{n}私を崇めてもよいぞ？",
-  "en": "",
-  "status": ""
+  "en": "Oh my, you seem to understand, for a beast... You may worship me.",
+  "status": "done"
  },
  {
   "id": "event_2197_01EA3",
@@ -2025,8 +2025,8 @@
    16519
   ],
   "jp": "いやー。{n}信用ねぇし、遠慮するよ。{n}なーんつって②",
-  "en": "",
-  "status": ""
+  "en": "Nah. Byff says \"no go.\" Ha, just kidding!!",
+  "status": "done"
  },
  {
   "id": "event_2197_01ED4",
@@ -2037,8 +2037,8 @@
    16537
   ],
   "jp": "…今のはな、神の『シン』と{n}王の『オウ』をかけて{n}『信用』と言ったわけだ。どう？",
-  "en": "",
-  "status": ""
+  "en": "...See, \"King\" and \"God\" make \"King-Go,\" and Byff said \"no go.\" Get it?",
+  "status": "done"
  },
  {
   "id": "event_2197_01F23",
@@ -2061,8 +2061,8 @@
    16763
   ],
   "jp": "アンタが全部の黒幕だったとはね。{n}世の中広くないわねぇ。",
-  "en": "",
-  "status": ""
+  "en": "So you were behind it all. What a small world.",
+  "status": "done"
  },
  {
   "id": "event_2197_01F66",
@@ -2073,8 +2073,8 @@
    16784
   ],
   "jp": "あなたは、砂漠で出会った女！{n}よくも、よくもッ……",
-  "en": "",
-  "status": ""
+  "en": "You're the woman from the desert! How dare you, how dare you...",
+  "status": "done"
  },
  {
   "id": "event_2197_01F98",
@@ -2085,8 +2085,8 @@
    16805
   ],
   "jp": "あら、{n}細かい事を根に持つ神とは、{n}底が知れてるわね。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, a god who holds grudges over little things. You're not very deep, are you.",
+  "status": "done"
  },
  {
   "id": "event_2197_01FCD",
@@ -2097,8 +2097,8 @@
    17010
   ],
   "jp": "自分を神様呼ばわりかよ。{n}呆れるっていうかさ、{n}しらけちまったぜ……",
-  "en": "",
-  "status": ""
+  "en": "Callin' yourself a god, huh. It's beyond ridiculous. I'm over it...",
+  "status": "done"
  },
  {
   "id": "event_2197_02010",
@@ -2109,8 +2109,8 @@
    17031
   ],
   "jp": "凡人以下の人間には、{n}理解できなくて当然。",
-  "en": "",
-  "status": ""
+  "en": "Those below even the common run of men can't be expected to understand.",
+  "status": "done"
  },
  {
   "id": "event_2197_0203A",
@@ -2121,8 +2121,8 @@
    17049
   ],
   "jp": "何だよ！　腹立つッ②",
-  "en": "",
-  "status": ""
+  "en": "What's that! You're makin' me mad!!",
+  "status": "done"
  },
  {
   "id": "event_2197_0204F",
@@ -2133,8 +2133,8 @@
    17254
   ],
   "jp": "ヒック……{n}またワケわかんねぇのが{n}出てきたって言うワケね……",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... So now another crazy one's turned up, is that it...",
+  "status": "done"
  },
  {
   "id": "event_2197_0208C",
@@ -2145,8 +2145,8 @@
    17272
   ],
   "jp": "そう言えるのは、{n}今日でおしまいですよ……",
-  "en": "",
-  "status": ""
+  "en": "Today is the last day you'll be able to say that...",
+  "status": "done"
  },
  {
   "id": "event_2197_020B6",
@@ -2157,8 +2157,8 @@
    17480
   ],
   "jp": "ねぇねぇ、{n}コイツ、もう倒していいわけ？",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey, can I go ahead and beat this guy now?",
+  "status": "done"
  },
  {
   "id": "event_2197_020DE",
@@ -2169,8 +2169,8 @@
    17501
   ],
   "jp": "無礼なり、魔法使いめ！{n}私は現人神であり……",
-  "en": "",
-  "status": ""
+  "en": "Insolent mage! I am a living god and...",
+  "status": "done"
  },
  {
   "id": "event_2197_0210A",
@@ -2181,8 +2181,8 @@
    17522
   ],
   "jp": "いや、{n}もうそういうの、いいから。",
-  "en": "",
-  "status": ""
+  "en": "Nah, enough of that already.",
+  "status": "done"
  },
  {
   "id": "event_2197_0212C",
@@ -2193,8 +2193,8 @@
    17727
   ],
   "jp": "神を名乗るとは、{n}不遜な人間もいたものですね。",
-  "en": "",
-  "status": ""
+  "en": "Calling yourself a god. What an insolent human.",
+  "status": "done"
  },
  {
   "id": "event_2197_0215A",
@@ -2205,8 +2205,8 @@
    17748
   ],
   "jp": "なんとでも吠えるがいい。{n}あなたのような凡人に、{n}私の崇高さは理解できぬ。",
-  "en": "",
-  "status": ""
+  "en": "Howl all you like. A commoner like you cannot grasp my nobility.",
+  "status": "done"
  },
  {
   "id": "event_2197_021A3",
@@ -2217,8 +2217,8 @@
    17766
   ],
   "jp": "フフフフフ…………",
-  "en": "",
-  "status": ""
+  "en": "Hehehehehehe...",
+  "status": "done"
  },
  {
   "id": "event_2197_021B6",
@@ -2229,8 +2229,8 @@
    17998
   ],
   "jp": "オイ、クズ！{n}ケンカしようぜ、ケンカ！",
-  "en": "",
-  "status": ""
+  "en": "Hey, scumbag! Let's fight, c'mon, a fight!",
+  "status": "done"
  },
  {
   "id": "event_2197_021DC",
@@ -2241,8 +2241,8 @@
    18016
   ],
   "jp": "クズ？{n}なんと不遜な連中だ……",
-  "en": "",
-  "status": ""
+  "en": "Scumbag? What insolent people...",
+  "status": "done"
  },
  {
   "id": "event_2197_021FA",
@@ -2253,8 +2253,8 @@
    18065
   ],
   "jp": "おい、覚悟しろよ。{n}全身全霊を込めたハープを、{n}お見舞いしてやるぜッ②",
-  "en": "",
-  "status": ""
+  "en": "Hey, get ready. I'm gonna let ya have my harp with all my heart and soul!!",
+  "status": "done"
  },
  {
   "id": "event_2197_0223F",
@@ -2265,8 +2265,8 @@
    18263
   ],
   "jp": "いつ教祖から神になった……",
-  "en": "",
-  "status": ""
+  "en": "When did you go from Pontiff to god...",
+  "status": "done"
  },
  {
   "id": "event_2197_0225A",
@@ -2277,8 +2277,8 @@
    18281
   ],
   "jp": "神と対話していたら、{n}気付いてしまったのですよ。{n}神の声は自身の内から出ていると。",
-  "en": "",
-  "status": ""
+  "en": "As I spoke with God, I came to realize. The voice of God was coming from inside me.",
+  "status": "done"
  },
  {
   "id": "event_2197_022AB",
@@ -2289,8 +2289,8 @@
    18288
   ],
   "jp": "そう、つまり、{n}私自身が神だったのです！",
-  "en": "",
-  "status": ""
+  "en": "Yes, in other words, I myself was God!",
+  "status": "done"
  },
  {
   "id": "event_2197_022D3",
@@ -2301,8 +2301,8 @@
    18306
   ],
   "jp": "そうか、私はお前の妄想に{n}今まで付き合わされてきた、{n}という事か……",
-  "en": "",
-  "status": ""
+  "en": "I see. So all this time, I was made to play along with your delusion...",
+  "status": "done"
  },
  {
   "id": "event_2197_02316",
@@ -2313,8 +2313,8 @@
    18504
   ],
   "jp": "神の名の下、裁きを下す！{n}逆らう者は前に出よ②",
-  "en": "",
-  "status": ""
+  "en": "In the name of God, I pass judgment! Those who defy me, step forward!!",
+  "status": "done"
  },
  {
   "id": "event_2197_02344",
@@ -2325,8 +2325,8 @@
    18522
   ],
   "jp": "いくらでも前に出てやるぜ！{n}さぁ、裁きって言うヤツを{n}下して貰おうじゃないか。",
-  "en": "",
-  "status": ""
+  "en": "I'll step forward as many times as you want! Come on, let's have this judgment of yours.",
+  "status": "done"
  },
  {
   "id": "event_2197_02391",
@@ -2337,8 +2337,8 @@
    18727
   ],
   "jp": "あなた、本当に神様なの？",
-  "en": "",
-  "status": ""
+  "en": "Are you really a god?",
+  "status": "done"
  },
  {
   "id": "event_2197_023AA",
@@ -2349,8 +2349,8 @@
    18745
   ],
   "jp": "全ての事象が、{n}事実だと述べている。",
-  "en": "",
-  "status": ""
+  "en": "All phenomena attest that it is fact.",
+  "status": "done"
  },
  {
   "id": "event_2197_023CE",
@@ -2361,8 +2361,8 @@
    18763
   ],
   "jp": "おっかし～い！",
-  "en": "",
-  "status": ""
+  "en": "That's so funny~!",
+  "status": "done"
  },
  {
   "id": "event_2197_023DD",
@@ -2373,8 +2373,8 @@
    19107
   ],
   "jp": "あぐぅぅぅ……②",
-  "en": "",
-  "status": ""
+  "en": "Ughhhh...!!",
+  "status": "done"
  },
  {
   "id": "event_2197_023EE",
@@ -2385,8 +2385,8 @@
    19125
   ],
   "jp": "何が神だ……{n}ただの勘違いした人間だろうが②",
-  "en": "",
-  "status": ""
+  "en": "What god... You're just some deluded human!!",
+  "status": "done"
  },
  {
   "id": "event_2197_0241A",
@@ -2397,8 +2397,8 @@
    19143
   ],
   "jp": "次は、次は無いぞ……",
-  "en": "",
-  "status": ""
+  "en": "Next time, there won't be a next time...",
+  "status": "done"
  },
  {
   "id": "event_2197_0242F",
@@ -2409,8 +2409,8 @@
    19168
   ],
   "jp": "どうだ？{n}これが神たる私の裁きだ！",
-  "en": "",
-  "status": ""
+  "en": "How's that? This is my judgment, as God!",
+  "status": "done"
  },
  {
   "id": "event_2197_02451",
@@ -2421,8 +2421,8 @@
    19175
   ],
   "jp": "さぁ、私の前にひれ伏し、{n}従属を誓うが良い！{n}さすれば、命は助けてやろう。",
-  "en": "",
-  "status": ""
+  "en": "Now, prostrate yourself before me and swear obedience! Then I shall spare your life.",
+  "status": "done"
  },
  {
   "id": "event_2197_0249A",
@@ -2433,8 +2433,8 @@
    19193
   ],
   "jp": "言ってろよ……",
-  "en": "",
-  "status": ""
+  "en": "Keep talking...",
+  "status": "done"
  },
  {
   "id": "event_2197_024A9",
@@ -2445,8 +2445,8 @@
    19389
   ],
   "jp": "アンタみたいな奴は、{n}絶対に許さない……",
-  "en": "",
-  "status": ""
+  "en": "I'll never forgive someone like you...",
+  "status": "done"
  },
  {
   "id": "event_2197_024D1",
@@ -2457,8 +2457,8 @@
    19407
   ],
   "jp": "おのれぇ…{n}下らぬ情に流されて、{n}私の崇高なる野望を汚すとは。",
-  "en": "",
-  "status": ""
+  "en": "Curse you... Swept away by petty feelings, you defile my noble ambition.",
+  "status": "done"
  },
  {
   "id": "event_2197_0250E",
@@ -2469,8 +2469,8 @@
    19467
   ],
   "jp": "そうだ！{n}そうやって床に這いつくばれ②",
-  "en": "",
-  "status": ""
+  "en": "Yes! Crawl on the floor just like that!!",
+  "status": "done"
  },
  {
   "id": "event_2197_02534",
@@ -2481,8 +2481,8 @@
    19485
   ],
   "jp": "クッ、思ったよりも強い……",
-  "en": "",
-  "status": ""
+  "en": "Tch, he's stronger than I thought...",
+  "status": "done"
  },
  {
   "id": "event_2197_0254F",
@@ -2493,8 +2493,8 @@
    19681
   ],
   "jp": "周りの人間が自分と同じなんて、{n}思わない事だね！",
-  "en": "",
-  "status": ""
+  "en": "Don't go thinking the people around you are like you!",
+  "status": "done"
  },
  {
   "id": "event_2197_0257F",
@@ -2505,8 +2505,8 @@
    19699
   ],
   "jp": "そうだな、{n}私は神、周りはクズだ……",
-  "en": "",
-  "status": ""
+  "en": "Quite so. I am God, and those around me are scum...",
+  "status": "done"
  },
  {
   "id": "event_2197_025A3",
@@ -2517,8 +2517,8 @@
    19717
   ],
   "jp": "これは本格的に、{n}どうかしてるみたいだね……",
-  "en": "",
-  "status": ""
+  "en": "Looks like this guy really has lost it...",
+  "status": "done"
  },
  {
   "id": "event_2197_025CF",
@@ -2529,8 +2529,8 @@
    19742
   ],
   "jp": "しまった……",
-  "en": "",
-  "status": ""
+  "en": "Damn it...",
+  "status": "done"
  },
  {
   "id": "event_2197_025DC",
@@ -2541,8 +2541,8 @@
    19760
   ],
   "jp": "私に盾突く愚さを知ったか？{n}さぁ、神に逆らった後悔を抱き{n}死んでいきなさい！",
-  "en": "",
-  "status": ""
+  "en": "Do you know now the folly of opposing me? Now die, with your regret for defying God!",
+  "status": "done"
  },
  {
   "id": "event_2197_02627",
@@ -2553,8 +2553,8 @@
    19949
   ],
   "jp": "罪を償え②",
-  "en": "",
-  "status": ""
+  "en": "Atone for your sins!!",
+  "status": "done"
  },
  {
   "id": "event_2197_02632",
@@ -2565,8 +2565,8 @@
    19967
   ],
   "jp": "今度は断罪ですか……{n}下らぬ人間め！",
-  "en": "",
-  "status": ""
+  "en": "So now you condemn me... Worthless human!",
+  "status": "done"
  },
  {
   "id": "event_2197_02656",
@@ -2577,8 +2577,8 @@
    20036
   ],
   "jp": "くくっ………",
-  "en": "",
-  "status": ""
+  "en": "Nngh...",
+  "status": "done"
  },
  {
   "id": "event_2197_02663",
@@ -2589,8 +2589,8 @@
    20054
   ],
   "jp": "おやおや？{n}もう抵抗は終わりですか？{n}大言が過ぎたのですかな……",
-  "en": "",
-  "status": ""
+  "en": "Oh dear? Is your resistance over already? Perhaps your big talk went too far...",
+  "status": "done"
  },
  {
   "id": "event_2197_026A2",
@@ -2601,8 +2601,8 @@
    20257
   ],
   "jp": "いいい痛いッ！　痛いィィィ②",
-  "en": "",
-  "status": ""
+  "en": "Oww, it hurts! It huuuurts!!",
+  "status": "done"
  },
  {
   "id": "event_2197_026BF",
@@ -2613,8 +2613,8 @@
    20275
   ],
   "jp": "姉さんの痛みは、{n}きっとそんなものじゃない！{n}覚悟しろッ②",
-  "en": "",
-  "status": ""
+  "en": "My sister's pain was surely no such small thing! Prepare yourself!!",
+  "status": "done"
  },
  {
   "id": "event_2197_026F8",
@@ -2625,8 +2625,8 @@
    20335
   ],
   "jp": "お、おのれぇ……②",
-  "en": "",
-  "status": ""
+  "en": "C-Curse you...!!",
+  "status": "done"
  },
  {
   "id": "event_2197_0270B",
@@ -2637,8 +2637,8 @@
    20353
   ],
   "jp": "いかがです、裁きの光は！{n}あなた達のような愚者を焼く{n}天罰の力なのですよ！",
-  "en": "",
-  "status": ""
+  "en": "How do you like it, the light of judgment! The power of divine punishment that burns fools like you!",
+  "status": "done"
  },
  {
   "id": "event_2197_02754",
@@ -2649,8 +2649,8 @@
    20360
   ],
   "jp": "さあ、大人しく、{n}姉の元へと逝くがいい②",
-  "en": "",
-  "status": ""
+  "en": "Now, quietly go join your sister!!",
+  "status": "done"
  },
  {
   "id": "event_2197_0277C",
@@ -2661,8 +2661,8 @@
    20549
   ],
   "jp": "薄い存在だ。{n}神ではなく、紙だな。{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "You are flimsy. No god, just a wad of paper. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2197_027AD",
@@ -2673,8 +2673,8 @@
    20567
   ],
   "jp": "こ、この私を侮辱するとは……",
-  "en": "",
-  "status": ""
+  "en": "T-To insult me like this...",
+  "status": "done"
  },
  {
   "id": "event_2197_027CA",
@@ -2685,8 +2685,8 @@
    20620
   ],
   "jp": "無礼なる獣に裁きを下したぞ！{n}これぞ王道！　これぞ神道！",
-  "en": "",
-  "status": ""
+  "en": "I have judged the insolent beast! This is the way of kings! This is the way of gods!",
+  "status": "done"
  },
  {
   "id": "event_2197_02802",
@@ -2697,8 +2697,8 @@
    20638
   ],
   "jp": "これが裁きか…{n}身体裁きで、裁けなかったな。{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "So this is judgment... Byff's own judgment was poor, and Byff did not dodge. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2197_0283D",
@@ -2709,8 +2709,8 @@
    20827
   ],
   "jp": "ギェェエエエ！",
-  "en": "",
-  "status": ""
+  "en": "Gyeeeaaaah!",
+  "status": "done"
  },
  {
   "id": "event_2197_0284C",
@@ -2721,8 +2721,8 @@
    20845
   ],
   "jp": "品のない鳴き声……{n}嫌だわ、下品な存在ね。",
-  "en": "",
-  "status": ""
+  "en": "What an unrefined squeal... Ugh, what a vulgar creature.",
+  "status": "done"
  },
  {
   "id": "event_2197_02876",
@@ -2733,8 +2733,8 @@
    20870
   ],
   "jp": "決して消えぬ神の怒りで{n}未来永劫苦しむがよい！",
-  "en": "",
-  "status": ""
+  "en": "Suffer for all eternity under the unending wrath of God!",
+  "status": "done"
  },
  {
   "id": "event_2197_028A4",
@@ -2745,8 +2745,8 @@
    20888
   ],
   "jp": "ま、{n}大口叩くのも今のうちだけよ。",
-  "en": "",
-  "status": ""
+  "en": "Well, talk big while you still can.",
+  "status": "done"
  },
  {
   "id": "event_2197_028C6",
@@ -2757,8 +2757,8 @@
    21084
   ],
   "jp": "人を苦しめて、陥れて…{n}そこまでして王様や神様になって、{n}誰が幸せになるんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Hurtin' people, trappin' them... Who's happier if you go that far to be King and God!",
+  "status": "done"
  },
  {
   "id": "event_2197_02915",
@@ -2769,8 +2769,8 @@
    21102
   ],
   "jp": "私と私を信ずる者全てが、{n}幸せになるのです。",
-  "en": "",
-  "status": ""
+  "en": "I shall be happy, and so shall all who believe in me.",
+  "status": "done"
  },
  {
   "id": "event_2197_02941",
@@ -2781,8 +2781,8 @@
    21120
   ],
   "jp": "この、俗物がッ！",
-  "en": "",
-  "status": ""
+  "en": "Why, you shallow creep!",
+  "status": "done"
  },
  {
   "id": "event_2197_02952",
@@ -2793,8 +2793,8 @@
    21145
   ],
   "jp": "おっとっと……{n}ちょっと失敗しちまったぜ。",
-  "en": "",
-  "status": ""
+  "en": "Whoopsie... Messed that one up a bit.",
+  "status": "done"
  },
  {
   "id": "event_2197_0297C",
@@ -2805,8 +2805,8 @@
    21163
   ],
   "jp": "言い訳は、それだけですかな？",
-  "en": "",
-  "status": ""
+  "en": "Is that all you have by way of excuses?",
+  "status": "done"
  },
  {
   "id": "event_2197_02999",
@@ -2817,8 +2817,8 @@
    21359
   ],
   "jp": "酒がねぇと、バカらしくて、{n}あんたとは戦えないね、ヒック。",
-  "en": "",
-  "status": ""
+  "en": "Without booze, you're too dumb to fight, *hic*.",
+  "status": "done"
  },
  {
   "id": "event_2197_029D3",
@@ -2829,8 +2829,8 @@
    21377
   ],
   "jp": "魚人風情が、言わせておけば…",
-  "en": "",
-  "status": ""
+  "en": "A mere fish-person, and you dare speak so...",
+  "status": "done"
  },
  {
   "id": "event_2197_029F0",
@@ -2841,8 +2841,8 @@
    21395
   ],
   "jp": "魚人じゃなくて、人魚！{n}ウィッ、ヒック……",
-  "en": "",
-  "status": ""
+  "en": "Not a fish-person, a mermaid! *Hic*, *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2197_02A1A",
@@ -2853,8 +2853,8 @@
    21478
   ],
   "jp": "やはり陸に上がった人魚など、{n}恐れるに値しませんね。",
-  "en": "",
-  "status": ""
+  "en": "As I thought, a mermaid on land is nothing to fear.",
+  "status": "done"
  },
  {
   "id": "event_2197_02A4E",
@@ -2865,8 +2865,8 @@
    21496
   ],
   "jp": "んあ？　なんだ？{n}地面が回ってるよ……{n}う、う、うえっっぷ……",
-  "en": "",
-  "status": ""
+  "en": "Huh? What's this? The ground's spinnin'... Ugh, ugh, urrrp...",
+  "status": "done"
  },
  {
   "id": "event_2197_02A8B",
@@ -2877,8 +2877,8 @@
    21514
   ],
   "jp": "ひぃ、き、汚いッ②",
-  "en": "",
-  "status": ""
+  "en": "Eek, f-filthy!!",
+  "status": "done"
  },
  {
   "id": "event_2197_02A9E",
@@ -2889,8 +2889,8 @@
    21710
   ],
   "jp": "か、神に手を上げるとは……{n}なんたる不遜な存在よ②",
-  "en": "",
-  "status": ""
+  "en": "R-Raising your hand against God... What insolence!!",
+  "status": "done"
  },
  {
   "id": "event_2197_02AD0",
@@ -2901,8 +2901,8 @@
    21728
   ],
   "jp": "うわぁ、本格的ねぇ！{n}それよりあんたこそ、大丈夫？",
-  "en": "",
-  "status": ""
+  "en": "Wow, you're really going all out! More to the point, are YOU okay?",
+  "status": "done"
  },
  {
   "id": "event_2197_02B02",
@@ -2913,8 +2913,8 @@
    21746
   ],
   "jp": "そんな事言ったら、１億万人の{n}パメラ様ファンクラブ会員達が{n}黙っちゃいないんだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Say that, and the hundred zillion members of the Pamela-sama fan club won't keep quiet!",
+  "status": "done"
  },
  {
   "id": "event_2197_02B55",
@@ -2937,8 +2937,8 @@
    21789
   ],
   "jp": "これが神の力です！{n}さあ、ひれ伏しなさい②",
-  "en": "",
-  "status": ""
+  "en": "This is the power of God! Now, prostrate yourself!!",
+  "status": "done"
  },
  {
   "id": "event_2197_02B8C",
@@ -2949,8 +2949,8 @@
    21807
   ],
   "jp": "おい、調子に乗ってると{n}八つ裂きにするわよ。",
-  "en": "",
-  "status": ""
+  "en": "Hey, get carried away and I'll tear you to pieces.",
+  "status": "done"
  },
  {
   "id": "event_2197_02BB8",
@@ -2961,8 +2961,8 @@
    22003
   ],
   "jp": "どうですか、神よ。{n}これがただの人間の力ですよ。",
-  "en": "",
-  "status": ""
+  "en": "How is it, O God? This is the strength of a mere human.",
+  "status": "done"
  },
  {
   "id": "event_2197_02BE8",
@@ -2973,8 +2973,8 @@
    22021
   ],
   "jp": "ぐぎぎ…{n}い、痛い、痛い……",
-  "en": "",
-  "status": ""
+  "en": "Gngh... I-It hurts, it hurts...",
+  "status": "done"
  },
  {
   "id": "event_2197_02C04",
@@ -2985,8 +2985,8 @@
    22046
   ],
   "jp": "そのタクティクスカード…",
-  "en": "",
-  "status": ""
+  "en": "That Tactics Card...",
+  "status": "done"
  },
  {
   "id": "event_2197_02C1D",
@@ -2997,8 +2997,8 @@
    22064
   ],
   "jp": "私が神の啓示を受けたときに{n}授かったものだ！{n}神へと到った道標とも言える…",
-  "en": "",
-  "status": ""
+  "en": "I received it when God's revelation came to me! You could call it the signpost that led me to godhood...",
+  "status": "done"
  },
  {
   "id": "event_2197_02C66",
@@ -3009,8 +3009,8 @@
    22082
   ],
   "jp": "レプリカですね、これは。{n}いやはや、物好きもいたものだ。",
-  "en": "",
-  "status": ""
+  "en": "This is a replica. Dear me, what an odd fancy.",
+  "status": "done"
  },
  {
   "id": "event_2197_02C9E",
@@ -3021,8 +3021,8 @@
    22100
   ],
   "jp": "レ、レプリカだとぉ③",
-  "en": "",
-  "status": ""
+  "en": "A r-replica!?",
+  "status": "done"
  },
  {
   "id": "event_2197_02CB3",
@@ -3033,8 +3033,8 @@
    22289
   ],
   "jp": "う、うごぼっ……",
-  "en": "",
-  "status": ""
+  "en": "U-Ugobuh...",
+  "status": "done"
  },
  {
   "id": "event_2197_02CC4",
@@ -3045,8 +3045,8 @@
    22338
   ],
   "jp": "ケッ、この程度かよ。{n}そんなんじゃ、燃えねぇよ！",
-  "en": "",
-  "status": ""
+  "en": "Heh, that all you got? That won't get me fired up!",
+  "status": "done"
  },
  {
   "id": "event_2197_02CF4",
@@ -3057,8 +3057,8 @@
    22414
   ],
   "jp": "ど、どうだ！　これが神の…",
-  "en": "",
-  "status": ""
+  "en": "H-How's that! This is God's...",
+  "status": "done"
  },
  {
   "id": "event_2197_02D0F",
@@ -3069,8 +3069,8 @@
    22463
   ],
   "jp": "……ぬるい。",
-  "en": "",
-  "status": ""
+  "en": "...Lukewarm.",
+  "status": "done"
  },
  {
   "id": "event_2197_02D1C",
@@ -3081,8 +3081,8 @@
    22481
   ],
   "jp": "む？",
-  "en": "",
-  "status": ""
+  "en": "Hm?",
+  "status": "done"
  },
  {
   "id": "event_2197_02D21",
@@ -3093,8 +3093,8 @@
    22530
   ],
   "jp": "ぬるいんだよ！　もっと俺を！{n}俺を燃えさせろよ②",
-  "en": "",
-  "status": ""
+  "en": "I said it's lukewarm! Give me more! Get me fired up!!",
+  "status": "done"
  },
  {
   "id": "event_2197_02D51",
@@ -3105,8 +3105,8 @@
    22548
   ],
   "jp": "な、なんだこの人間は……",
-  "en": "",
-  "status": ""
+  "en": "Wh-What is this human...",
+  "status": "done"
  },
  {
   "id": "event_2197_02D6A",
@@ -3117,8 +3117,8 @@
    22744
   ],
   "jp": "ぬ、ぬおぉ……",
-  "en": "",
-  "status": ""
+  "en": "Nnh, nnngh...",
+  "status": "done"
  },
  {
   "id": "event_2197_02D79",
@@ -3129,8 +3129,8 @@
    22762
   ],
   "jp": "私の過去よ、さらば……",
-  "en": "",
-  "status": ""
+  "en": "My past, farewell...",
+  "status": "done"
  },
  {
   "id": "event_2197_02D90",
@@ -3141,8 +3141,8 @@
    22787
   ],
   "jp": "人形めェ！{n}私の僕として戦っていれば{n}不幸にならずに済んだものを…",
-  "en": "",
-  "status": ""
+  "en": "You doll! If you'd fought as my servant, you wouldn't have come to such misery...",
+  "status": "done"
  },
  {
   "id": "event_2197_02DD1",
@@ -3153,8 +3153,8 @@
    22805
   ],
   "jp": "……ん？",
-  "en": "",
-  "status": ""
+  "en": "...Hm?",
+  "status": "done"
  },
  {
   "id": "event_2197_02DDA",
@@ -3177,8 +3177,8 @@
    22841
   ],
   "jp": "反抗的なその目、{n}気に入りませんねぇ……{n}まだお仕置が必要なようです！",
-  "en": "",
-  "status": ""
+  "en": "That rebellious look in your eyes, I don't care for it... You still need punishing, it seems!",
+  "status": "done"
  },
  {
   "id": "event_2197_02E2C",
@@ -3189,8 +3189,8 @@
    23037
   ],
   "jp": "おいおい、これが裁きかよ？",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey, this is your judgment?",
+  "status": "done"
  },
  {
   "id": "event_2197_02E47",
@@ -3201,8 +3201,8 @@
    23055
   ],
   "jp": "ま、まだ終わってはいない……",
-  "en": "",
-  "status": ""
+  "en": "I-It's not over yet...",
+  "status": "done"
  },
  {
   "id": "event_2197_02E64",
@@ -3213,8 +3213,8 @@
    23080
   ],
   "jp": "ケッ！{n}つまんねぇ戦い方だな……",
-  "en": "",
-  "status": ""
+  "en": "Heh! What a boring way to fight...",
+  "status": "done"
  },
  {
   "id": "event_2197_02E84",
@@ -3225,8 +3225,8 @@
    23098
   ],
   "jp": "負け惜しみは、{n}その程度にしておきなさい……",
-  "en": "",
-  "status": ""
+  "en": "Keep your sour grapes to that much, if you please...",
+  "status": "done"
  },
  {
   "id": "event_2197_02EB0",
@@ -3237,8 +3237,8 @@
    23116
   ],
   "jp": "ケッ……",
-  "en": "",
-  "status": ""
+  "en": "Heh...",
+  "status": "done"
  },
  {
   "id": "event_2197_02EB9",
@@ -3249,8 +3249,8 @@
    23305
   ],
   "jp": "うわぁ、神様ってよわ～い！",
-  "en": "",
-  "status": ""
+  "en": "Wow, gods sure are we~ak!",
+  "status": "done"
  },
  {
   "id": "event_2197_02ED4",
@@ -3261,8 +3261,8 @@
    23330
   ],
   "jp": "あれ？　おっかしいなぁ～。{n}負けちゃったよ。",
-  "en": "",
-  "status": ""
+  "en": "Huh? That's so weird~. I lost.",
+  "status": "done"
  },
  {
   "id": "event_2197_02F00",
@@ -3273,8 +3273,8 @@
    23348
   ],
   "jp": "しょうがないなぁ。{n}次は本気でやろおっと。",
-  "en": "",
-  "status": ""
+  "en": "Oh well. Next time I'll try for real.",
+  "status": "done"
  },
  {
   "id": "event_2197_02F3B",
