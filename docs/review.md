@@ -1,0 +1,9 @@
+# Phase 6 review verdict
+
+**Verdict: no Critical or Important issue found in what was read. This is a sampled self-review, not the independent per-batch pass the skill describes.**
+
+- **Who:** the same worker that translated b001 to b034, after a context reset. The dispatch brief forbids subagents and allows a self-review or `codex exec`. `codex exec` failed on all 12 chunks: usage limit, resets 2026-11-11 13:07.
+- **Read in full:** 1,263 of the 18,525 unique lines (6.8%): b038-b039, b045, b051, b057-b058, b064 (part), b089, b095-b096, b101-b102, b107-b108, b113-b114, b120-b121, b007, b012, b017-b018, b023, b028, b032-b033. Not sampled: b130 to b146 and most EBOOT item and map text.
+- **Checked by script on every line:** digits kept, length against the Japanese, one Japanese line with several Englishes, questions turned into statements, Japanese left in English, doubled words, stray spacing, Soltier's "we", tutorial terms against the menus, place-name spelling. Hits read by hand: rhetorical questions rendered as statements and numbers spelled out, all fine.
+- **Fixed from this pass:** Soltier's royal "We" in b041 68, 77, 78; "Nether Quarter" to "Nether District" in b033 137; a period outside a quote in b038 103; the two Warriors' Rest chronicle titles were swapped (read off font 2's custom glyphs).
+- **Still to do:** when codex is available again, `python -X utf8 tools/pairs.py --size 1500 --out work/qa/review` then `bash tools/review.sh`; reports land in `work/qa/review/`. The story pass in phase 9 reads every chapter regardless.

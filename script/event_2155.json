@@ -802,7 +802,7 @@
    18344
   ],
   "jp": "{voice:000602}おお、ヴェルマンか。{n}どうした、争う音がしたが？",
-  "en": "Ah, Velleman. What is it? We heard fighting.",
+  "en": "Ah, Velleman. What is it? I heard fighting.",
   "status": "done"
  },
  {
@@ -910,7 +910,7 @@
    18506
   ],
   "jp": "{voice:000F02}どうせ賊上がりの男だろう。{n}名乗らぬなら、あえて問いただす{n}事もない。",
-  "en": "A former bandit, no doubt. If he will not give his name, We need not press the question.",
+  "en": "A former bandit, no doubt. If he will not give his name, I need not press the question.",
   "status": "done"
  },
  {
@@ -922,7 +922,7 @@
    18524
   ],
   "jp": "{voice:001002}もうよい。{n}さがれ、ヴェルマン。{n}俺は西部の巡察で忙しいのだ。",
-  "en": "Enough. Withdraw, Velleman. We are busy with Our inspection of the west.",
+  "en": "Enough. Withdraw, Velleman. I am busy with my inspection of the west.",
   "status": "done"
  },
  {
