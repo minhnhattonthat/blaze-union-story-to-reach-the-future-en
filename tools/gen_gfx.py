@@ -42,6 +42,9 @@ STYLES = {
     # recap narration: whole page in one box, word-wrapped at the largest size that fits; "\n" ends a paragraph
     "page": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(1, (24, 24, 40)), clear="alpha", align="c",
                  wrap=True, max=17),
+    # recap diagram words over a gradient pill: the lettering (outline, halo, fill) is inpainted from the pill around
+    # it, then English is drawn white-to-pill-colour with a black outline and a white halo, as the Japanese
+    "pill": dict(font="SourceSans3-Black.ttf", fill="pill", stroke=(2, (8, 8, 16)), clear="pill", align="c", halo=True),
 }
 MIN_X = 0.62  # narrowest horizontal squeeze before the size shrinks instead
 
@@ -167,6 +170,14 @@ def draw(img, box, style, en, s=1.0):
         img.paste(Image.new("RGBA", (w, h), bgc), (x, y))
     elif st["clear"] == "inpaint":
         inpaint(img, box)
+    elif st["clear"] == "pill":
+        import numpy as np
+        a = np.array(img.crop((x, y, x + w, y + h))).astype(int)
+        sat = (a[..., :3].max(axis=2) - a[..., :3].min(axis=2) > 90) & (a[..., 3] > 200)
+        pc = tuple(int(v) for v in a[sat][:, :3].mean(axis=0)) if sat.any() else (60, 90, 255)
+        fills, dark = [tuple(int(255 + (pc[k] - 255) * j / max(h - 1, 1)) for k in range(3)) for j in range(h)], \
+            st["stroke"][1]
+        inpaint(img, box, letters=True)
     elif st["clear"] == "mirror":  # symmetric art (terrain diamonds): the box takes the mirror of the other side
         img.paste(img.crop((img.width - x - w, y, img.width - x, y + h)).transpose(Image.FLIP_LEFT_RIGHT), (x, y))
     elif st["clear"] == "alpha":
@@ -181,42 +192,65 @@ def draw(img, box, style, en, s=1.0):
         fills, dark = [st["fill"]] * h, st["stroke"][1] if st["stroke"] else (0, 0, 0)
     if not en:
         return
-    tw, th = max(int(w * s), 1), max(int(h * s), 6)
+    hw = 2 if st.get("halo") else 0
+    tw, th = max(int(w * s) - hw, 1), max(int(h * s) - hw, 6)
     if st.get("rot"):  # vertical Japanese: English reads top to bottom, turned 90 degrees clockwise
         lay = text_layer(en, st, th, tw).transpose(Image.ROTATE_270)
     else:
         lay = text_layer(en, st, tw, th)
     ox =x + {"l": 0, "c": (w - lay.width) // 2, "r": w - lay.width}[st["align"]]
     oy = y if st.get("rot") else y + (h - lay.height) // 2  # vertical titles hang from the top, as the Japanese
+    halo = None
+    if st.get("halo"):  # 1 px white ring outside the stroke
+        from PIL import ImageFilter
+        big = Image.new("RGBA", (lay.width + 2, lay.height + 2), (0, 0, 0, 0))
+        big.paste(lay, (1, 1))
+        lay, ox, oy = big, ox - 1, oy - 1
+        halo = lay.split()[3].filter(ImageFilter.MaxFilter(3)).load()
     src = lay.load()
     dst = img.load()
     for j in range(lay.height):
         f = fills[min(max(oy + j - y, 0), h - 1)]
         for i in range(lay.width):
             r, g, b, a = src[i, j]
+            white = halo is not None and not a and halo[i, j]
+            if white:
+                a = halo[i, j]
             if not a or not (y <= oy + j < min(y + h, img.height) and x <= ox + i < min(x + w, img.width)):
                 continue
             t = r / 255
-            c = tuple(int(dark[k] + (f[k] - dark[k]) * t) for k in range(3))
+            c = (255, 255, 255) if white else tuple(int(dark[k] + (f[k] - dark[k]) * t) for k in range(3))
             bg = dst[ox + i, oy + j]
             al = a / 255
             dst[ox + i, oy + j] = tuple(int(c[k] * al + bg[k] * (1 - al)) for k in range(3)) + (max(a, bg[3]),)
 
 
-def inpaint(img, box):
+def inpaint(img, box, letters=False):
     """Remove white outlined lettering in box: mask its fill plus 3 px of outline, then fill the mask from what is
-    around it (premultiplied RGBA, 4-neighbour mean), so art and transparency outside the letters stay."""
+    around it (premultiplied RGBA, 4-neighbour mean), so art and transparency outside the letters stay.
+    letters=True (pill words, any fill colour): mask the black outline, the white halo and what they enclose, then
+    snap the box's alpha to 0 or 255 (the fill blends transparency and pill at the pill's edge)."""
     import numpy as np
     x, y, w, h = box
     X0, Y0, X1, Y1 = max(x - 1, 0), max(y - 1, 0), min(x + w + 1, img.width), min(y + h + 1, img.height)
     a = np.array(img.crop((X0, Y0, X1, Y1))).astype(float)
     inbox = np.zeros(a.shape[:2], bool)
     inbox[y - Y0:y - Y0 + h, x - X0:x - X0 + w] = True
-    m = (a[..., :3].min(axis=2) > 170) & (a[..., 3] > 60) & inbox
-    for _ in range(3):
-        g = m.copy()
-        g[1:] |= m[:-1]; g[:-1] |= m[1:]; g[:, 1:] |= m[:, :-1]; g[:, :-1] |= m[:, 1:]
-        m = g & inbox
+    if letters:
+        from scipy import ndimage as ndi
+        rgb, op = a[..., :3], a[..., 3] > 60
+        # the pill is the saturated colour that reaches outside the box; every other opaque pixel in it is lettering
+        sat = (rgb.max(axis=2) - rgb.min(axis=2) > 90) & op
+        lab, _ = ndi.label(sat)
+        pill = np.isin(lab, np.unique(lab[sat & ~inbox]))
+        m = op & inbox & ~pill
+        m = ndi.binary_dilation(m, iterations=1) & inbox & (a[..., 3] > 0)  # clear pixels stay clear: no new ink
+    else:
+        m = (a[..., :3].min(axis=2) > 170) & (a[..., 3] > 60) & inbox
+        for _ in range(3):
+            g = m.copy()
+            g[1:] |= m[:-1]; g[:-1] |= m[1:]; g[:, 1:] |= m[:, :-1]; g[:, :-1] |= m[:, 1:]
+            m = g & inbox
     a[..., :3] *= a[..., 3:] / 255
     known = ~m
     while not known.all():
@@ -228,8 +262,15 @@ def inpaint(img, box):
         new = ~known & (n > 0)
         a[new] = acc[new] / n[new][:, None]
         known |= new
+    if letters:  # the peel above streaks along its fronts over wide masks: smooth toward the harmonic fill
+        for _ in range(80):
+            s = sum(np.roll(a, d, (0, 1)) for d in ((1, 0), (-1, 0), (0, 1), (0, -1))) / 4
+            a[m] = s[m]
     al = a[..., 3:]
     a[..., :3] = np.where(al > 0, a[..., :3] * 255 / np.maximum(al, 1e-6), 0)
+    if letters:
+        # pills are convex: under the letters the fill's edge cuts inside them, so lean to transparent
+        a[..., 3] = np.where(m, np.where(a[..., 3] >= 200, 255, 0), a[..., 3])
     img.paste(Image.fromarray(a.round().clip(0, 255).astype("uint8")), (X0, Y0))
 
 

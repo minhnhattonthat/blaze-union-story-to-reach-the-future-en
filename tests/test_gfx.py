@@ -41,6 +41,26 @@ def test_repack_draws_the_same(fct3):
         assert seen(new) == seen(img), hex(off)
 
 
+def test_repack_joins_gaps_when_clearing_splits_runs():
+    """Clearing the recap diagram's lettering splits ink runs past the cell count at every fixed gap; the narrowest-gap
+    join must still lay it out, drawing the same pixels."""
+    import gen_gfx
+    import sprite
+    d, kind, off = sprite.load("1554@cdf0")
+    img = sprite.image("1554@cdf0").copy()
+    for box in [(219, 54, 82, 40), (61, 141, 144, 38), (300, 142, 83, 40)]:
+        gen_gfx.draw(img, box, "pill", "")
+    pal = gfx.group_palette(d, off)
+    cols, idx = [gfx.rgba(c) for c in pal], gfx.quantize(img, pal)
+    for gap in (64, 24, 8, 3, 1):
+        with pytest.raises(ValueError):
+            gfx._lay(bytearray(d), off, idx, img.size, cols, gap)
+    buf = bytearray(d)
+    gfx.repack(buf, off, img, pal=pal)
+    new = ptg.render(bytes(buf), off, pal=pal).crop((0, 0) + img.size)
+    assert seen(new) == seen(gfx.snapped(img, pal))
+
+
 def seen(img):
     """Pixels with fully transparent ones normalised: a clear pixel's colour never shows."""
     return bytes(b for p in img.getdata() for b in (p if p[3] else (0, 0, 0, 0)))

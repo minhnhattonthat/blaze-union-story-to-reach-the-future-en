@@ -66,15 +66,18 @@ list 1771@26dc0. Seen in game: mission banner, terrain tags, Unit Deployment, Ob
 Done 2026-11-07 (fourth session): recap narration, all 54 pages (1532-1581 `@20`, 1582-1585 `@20240`; each a 380 px wide
 texture the game scrolls at 1:1), transcribed from the sprites and translated, style `page` (word-wrapped at the largest
 size up to 17 px that fits the texture; `\n` in the row ends a paragraph). 1532 seen in game (`recap_2`); the rest only in
-preview. 1582-1604 `@20` (240x136 in the index) are CG art with no text. Still Japanese in the recaps: the 58 diagrams
-(240x100 in the index, 480x200 real; list in `work/gfx/diag.txt` from `index.tsv`): white-to-blue gradient lettering
-with a black outline on gradient pills (blue ally, red enemy, green other). Words: グラムブレイズ Gram Blaze, 反乱軍 Rebels,
-盗賊団 Thieves, 賊 Bandit, 山賊 Bandits, 辺境警備軍 Frontier Guard, 輸送隊 Convoy, 輸送船 Transport Ship, 民兵 Militia,
-預言者? Prophet?, 神生教団 Papal Army, はだしのミゼル Barefoot Mizer, 帝国軍 Imperial Army, 王国軍 Kingdom Army,
-ガルカーサ部隊 Gulcasa's Army, アイギナ近衛隊 Aegina's Guard, レオン, シスキア, アイギナ; `？？？` stays. `inpaint` can't
-clear them (it masks only near-white pixels): they need a style that rebuilds the pill per row from its colour either side
-of the lettering. `tools/debug/gfx_pills.py` (white + black outline near a pill) finds too few boxes on this art; boxes
-by hand from `gfx_tight.py` are the fallback.
+preview. 1582-1604 `@20` (240x136 in the index) are CG art with no text.
+Done 2026-11-07 (fifth session): the 58 recap diagrams (1532-1577, 480x200; list `work/gfx/diag.txt`), 98 words, style
+`pill`: the pill is the saturated colour that reaches outside the box, every other opaque pixel in the box is lettering
+and is inpainted from the pill (alpha snapped, leaning clear), then English white-to-pill-colour with a black outline
+and a 1 px white halo. Words: グラムブレイズ Gram Blaze, 反乱軍 Rebels, 盗賊団 Thieves, 賊 Bandit, 山賊 Brigands (the
+script's word), 辺境警備軍 Frontier Guard, 輸送隊 Convoy, 輸送船 Transport Ship, 民兵 Militia, 預言者? Prophet?, 神生教団
+Papal Army, はだしのミゼル Barefoot Mizer, 帝国軍 Imperial Army, 王国軍 Royal Army, ガルカーサ部隊 Gulcasa's Unit,
+アイギナ近衛隊 Aegina's Guard, レオン, シスキア, アイギナ; `？？？` stays. Boxes: black outline next to white halo, cut
+below the portrait frame (a long black run); short kanji (賊, 山賊, 帝国軍, 王国軍, 輸送船) widened to the pill. A box must
+take the whole lettering, extrusion included: what is left at its edge seeds the fill. Clearing can split ink runs past a
+group's cell count: `gfx.repack` then joins the narrowest gaps first (`tests/test_gfx.py`). Seen in game: `recap_2`'s
+Gram Blaze diagram (warp `2_01_A --route "900 -;6 circle" --frames 5400`); the rest in preview.
 Still Japanese: the prep screen's vertical location under the vertical title
 (`ティエラ・ネザー地区中央`: in no chapter file and no text record; not located), 1771@36ad0 (small list), and the rest of
 the survey table below from trait lines on.

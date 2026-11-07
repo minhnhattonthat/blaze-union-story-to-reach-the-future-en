@@ -152,14 +152,30 @@ def repack(d, goff, img, pal=None):
             return _lay(d, goff, idx, img.size, cols, gap)
         except ValueError as e:
             err = e
+    # neither fits (ink a clear split into more runs than cells, yet too wide to merge whole): join the narrowest gaps
+    # one at a time, so each cell saved costs the least stream width
+    base = _runs(idx, *img.size, lambda i: cols[i][3] > 0, 1)
+    order = sorted((base[i + 1][1] - base[i][2], i) for i in range(len(base) - 1) if base[i + 1][0] == base[i][0])
+    for k in range(1, len(order) + 1):
+        join = {i for _, i in order[:k]}
+        runs = []
+        for i, r in enumerate(base):
+            if i - 1 in join:
+                runs[-1] = (r[0], runs[-1][1], r[2])
+            else:
+                runs.append(r)
+        try:
+            return _lay(d, goff, idx, img.size, cols, 1, runs)
+        except ValueError:
+            pass
     raise err
 
 
-def _lay(d, goff, idx, size, cols, gap):
+def _lay(d, goff, idx, size, cols, gap, runs=None):
     g = ptg.parse(d, goff)
     clear = min(range(len(cols)), key=lambda i: cols[i][3])
     W, H = size
-    runs = _runs(idx, W, H, lambda i: cols[i][3] > 0, gap)
+    runs = runs or _runs(idx, W, H, lambda i: cols[i][3] > 0, gap)
     heads = [ptx.parse(d, s) for s in g["slices"]]
     slots = [(si, row) for si, h in enumerate(heads) for row in range(0, h["h"], 8)]
     bufs = [[[clear] * h["w"] for _ in range(h["h"])] for h in heads]

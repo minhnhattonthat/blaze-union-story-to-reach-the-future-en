@@ -629,3 +629,102 @@
 1583@20240	0,0,380,300	page	この後、ユグドラ王女は…	Afterwards, Princess Yggdra told the people everything: that her twin sister was alive, of her father the King's death, and of the plot of Chancellor Alanjame...\nAnd she declared that the two princesses would support the Kingdom from now on.\nThe two princesses were met with the people's wild cheers.\nPrincess Aegina and Princess Yggdra. And at the two princesses' side stood Gram Blaze, as their Royal Guard.\nWith hope in their hearts!
 1584@20240	0,0,380,360	page	ガーロットとメデューテは旅を続ける…	Garlot and Medoute travel on.\nTheir destination is not a place.\nGarlot's purpose, Medoute's purpose.\nWhat power means, what blood means; what an end is, and what is the road there...\nNo doubt they will travel on, their thoughts crossing as they go.\nWhat they met along the way may be told some other time.\nFor now, let it be written only that the two of them have just begun their journey.
 1585@20240	0,0,380,440	page	宰相ヴェルマンの主導の元…	Led by Chancellor Velleman, the Bronquia Empire took a new step forward, together with the Kingdom of Fantasinia, with which it signed a pact of non-aggression.\nGarlot, who fought on battlefield after battlefield as captain of Velleman's private army, Gram Blaze, will become a young general of the Empire, and surely go on giving his all for its stability.\nI decided to leave the Empire, and my friends.\nI'd be lying if I said I had no regrets.\nBut life is a long journey. The day will come when I see everyone again.\nAnd when it does, they'll welcome me back with the same old smiles and racket.\nWhat I gained in the Bronquia Empire: how important it is to believe in something and help it grow. Yes, the seeds of hope.
+# Recap diagrams (1532-1577, style pill; boxes from the outline+halo detector, ？？？ pills stay)
+1532@cbc0	41,132,139,35	pill	グラムブレイズ	Gram Blaze
+1532@11140	41,132,139,35	pill	グラムブレイズ	Gram Blaze
+1533@125d0	68,55,139,36	pill	グラムブレイズ	Gram Blaze
+1533@16920	68,55,139,36	pill	グラムブレイズ	Gram Blaze
+1534@18010	47,62,130,43	pill	辺境警備軍	Frontier Guard
+1534@1b6d0	47,62,130,43	pill	辺境警備軍	Frontier Guard
+1534@1b6d0	313,117,139,36	pill	グラムブレイズ	Gram Blaze
+1535@10800	235,74,69,31	pill	盗賊団	Thieves
+1535@10800	318,153,66,31	pill	盗賊団	Thieves
+1535@14e60	235,74,68,31	pill	盗賊団	Thieves
+1535@14e60	71,118,142,36	pill	グラムブレイズ	Gram Blaze
+1535@14e60	318,153,67,31	pill	盗賊団	Thieves
+1536@d4a0	164,104,142,36	pill	グラムブレイズ	Gram Blaze
+1536@11970	164,104,142,36	pill	グラムブレイズ	Gram Blaze
+1537@10890	92,143,81,35	pill	輸送隊	Convoy
+1537@15950	28,57,130,35	pill	グラムブレイズ	Gram Blaze
+1537@15950	92,143,81,35	pill	輸送隊	Convoy
+1538@cd00	163,53,56,26	pill	賊	Bandit
+1538@cd00	306,63,56,27	pill	賊	Bandit
+1538@cd00	116,130,56,27	pill	賊	Bandit
+1538@13240	163,53,56,26	pill	賊	Bandit
+1538@13240	306,63,56,27	pill	賊	Bandit
+1538@13240	116,130,56,27	pill	賊	Bandit
+1538@13240	266,149,139,38	pill	グラムブレイズ	Gram Blaze
+1539@ae40	114,56,62,31	pill	盗賊団	Thieves
+1539@ae40	24,134,80,34	pill	盗賊団	Thieves
+1539@10200	115,56,61,31	pill	盗賊団	Thieves
+1539@10200	24,134,80,34	pill	盗賊団	Thieves
+1539@10200	324,135,143,37	pill	グラムブレイズ	Gram Blaze
+1540@f4e0	108,79,56,26	pill	盗賊団	Thieves
+1540@f4e0	300,130,144,36	pill	グラムブレイズ	Gram Blaze
+1541@16ea0	97,79,79,33	pill	反乱軍	Rebels
+1541@16ea0	300,130,144,36	pill	グラムブレイズ	Gram Blaze
+1542@10a00	241,95,139,38	pill	はだしのミゼル	Barefoot Mizer
+1542@10a00	24,130,143,37	pill	グラムブレイズ	Gram Blaze
+1543@108e0	337,55,142,38	pill	グラムブレイズ	Gram Blaze
+1543@108e0	166,120,139,38	pill	はだしのミゼル	Barefoot Mizer
+1544@f520	301,61,124,36	pill	輸送船	Transport Ship
+1544@f520	35,130,145,37	pill	グラムブレイズ	Gram Blaze
+1545@b680	157,130,139,36	pill	グラムブレイズ	Gram Blaze
+1546@d6e0	94,60,72,26	pill	民兵	Militia
+1546@d6e0	328,83,72,26	pill	民兵	Militia
+1546@d6e0	178,138,144,38	pill	グラムブレイズ	Gram Blaze
+1547@cdd0	119,121,98,29	pill	グラムブレイズ	Gram Blaze
+1548@f2b0	329,122,139,38	pill	グラムブレイズ	Gram Blaze
+1549@b7f0	102,64,94,40	pill	預言者?	Prophet?
+1549@b7f0	324,129,144,37	pill	グラムブレイズ	Gram Blaze
+1550@18160	202,76,110,40	pill	神生教団	Papal Army
+1550@18160	13,109,139,36	pill	グラムブレイズ	Gram Blaze
+1553@f5c0	35,55,80,37	pill	反乱軍	Rebels
+1553@f5c0	301,130,144,37	pill	グラムブレイズ	Gram Blaze
+1553@f5c0	136,137,80,34	pill	反乱軍	Rebels
+1554@cdf0	219,54,82,40	pill	反乱軍	Rebels
+1554@cdf0	61,141,144,38	pill	グラムブレイズ	Gram Blaze
+1554@cdf0	300,142,83,40	pill	反乱軍	Rebels
+1555@ec80	168,133,139,37	pill	グラムブレイズ	Gram Blaze
+1555@ec80	24,145,69,26	pill	山賊	Brigands
+1555@ec80	377,145,69,26	pill	山賊	Brigands
+1556@b650	328,108,140,37	pill	グラムブレイズ	Gram Blaze
+1556@ed30	328,108,139,37	pill	グラムブレイズ	Gram Blaze
+1557@d4a0	333,117,143,38	pill	グラムブレイズ	Gram Blaze
+1558@10870	88,56,105,35	pill	帝国軍	Imperial Army
+1558@10870	202,140,139,36	pill	グラムブレイズ	Gram Blaze
+1560@cd50	160,54,81,40	pill	反乱軍	Rebels
+1560@cd50	35,115,101,47	pill	反乱軍	Rebels
+1560@15380	160,54,81,40	pill	反乱軍	Rebels
+1560@15380	35,115,101,47	pill	反乱軍	Rebels
+1560@15380	327,132,139,38	pill	グラムブレイズ	Gram Blaze
+1561@e8b0	47,56,58,30	pill	反乱軍	Rebels
+1561@10f60	46,56,59,30	pill	反乱軍	Rebels
+1561@10f60	163,102,69,24	pill	レオン	Leon
+1561@10f60	301,130,144,38	pill	グラムブレイズ	Gram Blaze
+1562@10710	104,57,139,36	pill	グラムブレイズ	Gram Blaze
+1562@13d30	104,57,139,36	pill	グラムブレイズ	Gram Blaze
+1564@aee0	194,87,70,23	pill	シスキア	Siskier
+1564@aee0	333,133,144,37	pill	グラムブレイズ	Gram Blaze
+1564@110d0	333,133,144,37	pill	グラムブレイズ	Gram Blaze
+1566@f1e0	89,56,104,35	pill	帝国軍	Imperial Army
+1566@122f0	88,56,105,35	pill	帝国軍	Imperial Army
+1566@122f0	190,140,161,41	pill	ガルカーサ部隊	Gulcasa's Unit
+1567@f2c0	262,111,208,44	pill	ガルカーサ部隊	Gulcasa's Unit
+1567@14b90	257,111,212,50	pill	ガルカーサ部隊	Gulcasa's Unit
+1567@14b90	33,118,125,46	pill	帝国軍	Imperial Army
+1567@1e990	156,58,105,35	pill	帝国軍	Imperial Army
+1567@1e990	257,111,212,50	pill	ガルカーサ部隊	Gulcasa's Unit
+1567@1e990	33,118,125,46	pill	帝国軍	Imperial Army
+1571@10780	294,137,159,41	pill	アイギナ近衛隊	Aegina's Guard
+1571@149d0	198,57,124,34	pill	王国軍	Royal Army
+1571@149d0	294,137,159,41	pill	アイギナ近衛隊	Aegina's Guard
+1572@110b0	96,56,154,39	pill	アイギナ近衛隊	Aegina's Guard
+1572@14ae0	96,56,154,39	pill	アイギナ近衛隊	Aegina's Guard
+1572@14ae0	231,145,105,34	pill	王国軍	Royal Army
+1573@d3d0	205,153,59,27	pill	アイギナ	Aegina
+1573@f900	205,153,59,27	pill	アイギナ	Aegina
+1576@16100	227,140,81,40	pill	反乱軍	Rebels
+1576@19010	77,55,139,38	pill	グラムブレイズ	Gram Blaze
+1576@19010	227,140,81,40	pill	反乱軍	Rebels
+1577@98b0	100,131,144,37	pill	グラムブレイズ	Gram Blaze
