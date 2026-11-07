@@ -8,8 +8,8 @@
    11573
   ],
   "jp": "{voice:00CB0B}ダメだね、{n}ガーロットはまだ見つかってない。",
-  "en": "",
-  "status": ""
+  "en": "No good, Garlot still hasn't been found.",
+  "status": "done"
  },
  {
   "id": "event_2179_00058",
@@ -20,8 +20,8 @@
    11594
   ],
   "jp": "{voice:00CC0B}谷底に落ちても死ぬようなタマ{n}じゃないが、さすがに心配だな。",
-  "en": "",
-  "status": ""
+  "en": "Falling down a gorge won't kill a guy like him, but I'm a bit worried.",
+  "status": "done"
  },
  {
   "id": "event_2179_00098",
@@ -32,8 +32,8 @@
    11615
   ],
   "jp": "{voice:00CD0B}…縁起でもないこと言わないでよ！",
-  "en": "",
-  "status": ""
+  "en": "...Don't say such awful things!",
+  "status": "done"
  },
  {
   "id": "event_2179_000BD",
@@ -44,8 +44,8 @@
    11636
   ],
   "jp": "{voice:00CE0B}ん？",
-  "en": "",
-  "status": ""
+  "en": "Hm?",
+  "status": "done"
  },
  {
   "id": "event_2179_000C6",
@@ -56,8 +56,8 @@
    11657
   ],
   "jp": "{voice:00CF0B}僕、もう一度ヴェルマン方伯に{n}伝令を出してくるね。",
-  "en": "",
-  "status": ""
+  "en": "I'll send another messenger to Margrave Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2179_000FC",
@@ -68,8 +68,8 @@
    11678
   ],
   "jp": "{voice:00D00B}大丈夫だって、シスキア。{n}ガーロットはヤワじゃないって。",
-  "en": "",
-  "status": ""
+  "en": "It'll be fine, Siskier. Garlot's no softie.",
+  "status": "done"
  },
  {
   "id": "event_2179_00138",
@@ -92,8 +92,8 @@
    11819
   ],
   "jp": "{voice:00D10B}シスキア、ちょっと気を揉み過ぎ{n}じゃないか？",
-  "en": "",
-  "status": ""
+  "en": "Siskier, aren't you fretting a bit too much?",
+  "status": "done"
  },
  {
   "id": "event_2179_00173",
@@ -104,8 +104,8 @@
    11840
   ],
   "jp": "{voice:00D20B}…ふぅ、ごめん。{n}セリカの事も気になってさ。",
-  "en": "",
-  "status": ""
+  "en": "...Sigh, sorry. I'm worried about the Cerica thing too.",
+  "status": "done"
  },
  {
   "id": "event_2179_001A3",
@@ -116,8 +116,8 @@
    11864
   ],
   "jp": "{voice:00D30B}なんでアイツ、{n}あんな女を助ける為に{n}谷底に飛び込むかな……",
-  "en": "",
-  "status": ""
+  "en": "Why would that guy jump down a gorge to save a girl like that...",
+  "status": "done"
  },
  {
   "id": "event_2179_001E2",
@@ -128,8 +128,8 @@
    11871
   ],
   "jp": "{voice:00D40B}もし私だったら…{n}いや、でも…、うーん…",
-  "en": "",
-  "status": ""
+  "en": "If it was me... No, but... Hmm...",
+  "status": "done"
  },
  {
   "id": "event_2179_0020E",
@@ -140,8 +140,8 @@
    12000
   ],
   "jp": "{voice:00D50B}メデューテ様。{n}ガーロット様が戻られるまで、{n}我々はどうすれば……",
-  "en": "",
-  "status": ""
+  "en": "Medoute-sama. Until Garlot-sama returns, what should we do...",
+  "status": "done"
  },
  {
   "id": "event_2179_00253",
@@ -152,8 +152,8 @@
    12021
   ],
   "jp": "{voice:00D60B}ん…、そうだな。{n}食料の確保でもしてきて貰おうか。",
-  "en": "",
-  "status": ""
+  "en": "Hm... Right. Maybe you could go get some food.",
+  "status": "done"
  },
  {
   "id": "event_2179_00289",
@@ -164,8 +164,8 @@
    12042
   ],
   "jp": "{voice:00D70B}狩りですか？",
-  "en": "",
-  "status": ""
+  "en": "A hunt?",
+  "status": "done"
  },
  {
   "id": "event_2179_0029A",
@@ -176,8 +176,8 @@
    12063
   ],
   "jp": "{voice:00D80B}そういう事だ。滞在はもう少し{n}長くなりそうだからな。",
-  "en": "",
-  "status": ""
+  "en": "That's right. Looks like we'll be staying a little longer.",
+  "status": "done"
  },
  {
   "id": "event_2179_002D2",
@@ -188,8 +188,8 @@
    12084
   ],
   "jp": "{voice:00D90B}かしこまりました。",
-  "en": "",
-  "status": ""
+  "en": "Understood.",
+  "status": "done"
  },
  {
   "id": "event_2179_002E9",
@@ -200,8 +200,8 @@
    12195
   ],
   "jp": "{voice:00DA0B}しかし、団長を捜索する時間が{n}長引けば長引くほど、{n}問題が膨れ上がっていきますね。",
-  "en": "",
-  "status": ""
+  "en": "However, the longer the search for the Captain drags on, the more our problems will swell.",
+  "status": "done"
  },
  {
   "id": "event_2179_0033E",
@@ -212,8 +212,8 @@
    12216
   ],
   "jp": "{voice:00DB0B}……どういう事？",
-  "en": "",
-  "status": ""
+  "en": "...What do you mean?",
+  "status": "done"
  },
  {
   "id": "event_2179_00353",
@@ -224,8 +224,8 @@
    12237
   ],
   "jp": "{voice:00DC0B}食料や軍費の問題もありますが、{n}金塊狙いのならず者が、来襲する{n}可能性もありますから。",
-  "en": "",
-  "status": ""
+  "en": "There is the matter of food and funds, and thugs after the gold bars may also attack.",
+  "status": "done"
  },
  {
   "id": "event_2179_003AC",
@@ -236,8 +236,8 @@
    12258
   ],
   "jp": "{voice:00DD0B}第二、第三の賊か……",
-  "en": "",
-  "status": ""
+  "en": "A second, a third group of bandits...",
+  "status": "done"
  },
  {
   "id": "event_2179_003C5",
@@ -248,8 +248,8 @@
    12279
   ],
   "jp": "{voice:00DE0B}しかも、ガーロット様の捜索に{n}少なからず兵を割いています。",
-  "en": "",
-  "status": ""
+  "en": "And we have split off quite a few soldiers to search for Garlot-sama.",
+  "status": "done"
  },
  {
   "id": "event_2179_00403",
@@ -260,8 +260,8 @@
    12300
   ],
   "jp": "{voice:00DF0B}なにより、ガーロットという{n}中心を欠いているしな…",
-  "en": "",
-  "status": ""
+  "en": "On top of all that, we've lost our center, Garlot...",
+  "status": "done"
  },
  {
   "id": "event_2179_00439",
@@ -272,8 +272,8 @@
    12460
   ],
   "jp": "{voice:00E00B}シスキア！　メデューテ②{n}相当数の軍勢が、{n}こちらに向かって来ているよ！",
-  "en": "",
-  "status": ""
+  "en": "Siskier! Medoute! A sizable force is heading this way!",
+  "status": "done"
  },
  {
   "id": "event_2179_00484",
@@ -284,8 +284,8 @@
    12481
   ],
   "jp": "{voice:00E10B}恐れていた事態が{n}現実になってしまいましたね……",
-  "en": "",
-  "status": ""
+  "en": "What we feared has come to pass...",
+  "status": "done"
  },
  {
   "id": "event_2179_004B8",
@@ -296,8 +296,8 @@
    12506
   ],
   "jp": "{voice:00E20B}あれは見た感じ山賊じゃない。{n}装備は整っていたし、{n}まさか例の反乱軍なんじゃ…！",
-  "en": "",
-  "status": ""
+  "en": "They don't look like mountain bandits. They're well-equipped... Could they be those rebels...!",
+  "status": "done"
  },
  {
   "id": "event_2179_0050B",
@@ -308,8 +308,8 @@
    13035
   ],
   "jp": "{voice:00E30B}緊急事態ね…、仕方がない。{n}あたしが指揮を執る！{n}二人とも、サポートを頼む②",
-  "en": "",
-  "status": ""
+  "en": "It's an emergency... No choice. I'll take command! You two, back me up!",
+  "status": "done"
  },
  {
   "id": "event_2179_0055A",
@@ -320,8 +320,8 @@
    13056
   ],
   "jp": "{voice:00E40B}わかった！",
-  "en": "",
-  "status": ""
+  "en": "Got it!",
+  "status": "done"
  },
  {
   "id": "event_2179_00569",
@@ -332,8 +332,8 @@
    13077
   ],
   "jp": "{voice:00E50B}まったく……{n}これは１つ貸しだよ、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "Honestly... You owe me one, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2179_0059B",
@@ -344,8 +344,8 @@
    13282
   ],
   "jp": "{voice:00E60B}装備から見て、{n}あれはやはり反乱軍だな。",
-  "en": "",
-  "status": ""
+  "en": "Judging from their gear, they're the rebel army, all right.",
+  "status": "done"
  },
  {
   "id": "event_2179_005C7",
@@ -356,8 +356,8 @@
    13330
   ],
   "jp": "{voice:00E70B}金塊を運ぶ隊商とはあれだな。{n}しかし、流石に厳重な護衛だぜ。",
-  "en": "",
-  "status": ""
+  "en": "So that's the caravan carrying gold bars. But they've got a heavy escort, just as you'd expect.",
+  "status": "done"
  },
  {
   "id": "event_2179_00607",
@@ -368,8 +368,8 @@
    13348
   ],
   "jp": "{voice:00E80B}よっぽど沢山の金塊を{n}運んでいるに違いないぜ。",
-  "en": "",
-  "status": ""
+  "en": "They must be carrying a whole lot of gold bars.",
+  "status": "done"
  },
  {
   "id": "event_2179_00639",
@@ -380,8 +380,8 @@
    13396
   ],
   "jp": "{voice:00E90B}金塊目当てに軍を動かすとは。{n}愚かにも程がある。",
-  "en": "",
-  "status": ""
+  "en": "Moving an army just for gold bars. The stupidity of it.",
+  "status": "done"
  },
  {
   "id": "event_2179_0066D",
@@ -392,8 +392,8 @@
    55430
   ],
   "jp": "{voice:00EA0B}この程度ならば、ガーロットが{n}いなくても何とかなる。",
-  "en": "",
-  "status": ""
+  "en": "At this level, we can manage without Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2179_006A5",
@@ -404,8 +404,8 @@
    59285
   ],
   "jp": "{voice:00EB0B}周囲の警戒を怠らぬように。{n}この程度の攻撃で済むとは{n}思えませんから……",
-  "en": "",
-  "status": ""
+  "en": "Keep alert all around. I doubt this will be the extent of the attack...",
+  "status": "done"
  },
  {
   "id": "event_2179_006F0",
@@ -416,8 +416,8 @@
    59306
   ],
   "jp": "{voice:00EC0B}メデューテ！　川に船が②{n}あの大型船は、ひょっとして……",
-  "en": "",
-  "status": ""
+  "en": "Medoute! A ship on the river! That big ship, could it be...",
+  "status": "done"
  },
  {
   "id": "event_2179_0072C",
@@ -429,8 +429,8 @@
    60553
   ],
   "jp": "{voice:00ED0B}よーし、強襲揚陸作戦は成功だ。{n}やっぱ奇襲ってのは、{n}こう鮮やかでないとな！",
-  "en": "",
-  "status": ""
+  "en": "All right, the surprise landing worked. A surprise attack's gotta be slick like that!",
+  "status": "done"
  },
  {
   "id": "event_2179_0077B",
@@ -441,8 +441,8 @@
    60574
   ],
   "jp": "{voice:00EE0B}お？　どこかで見た顔だな。{n}以前砦に攻めてきた連中か？",
-  "en": "",
-  "status": ""
+  "en": "Oh? I've seen that face somewhere. You lot who attacked the fort before?",
+  "status": "done"
  },
  {
   "id": "event_2179_007B5",
@@ -453,8 +453,8 @@
    60581
   ],
   "jp": "{voice:00EF0B}金塊運搬の護送をしてるとはな。{n}ご苦労なこったぜ。{n}大義うんたらはどうした？",
-  "en": "",
-  "status": ""
+  "en": "So you're escorting gold bars. Hard work, huh. What happened to your great cause or whatever?",
+  "status": "done"
  },
  {
   "id": "event_2179_00804",
@@ -465,8 +465,8 @@
    60629
   ],
   "jp": "{voice:00F00B}金塊？　あれは虚言だ。{n}お前のような欲丸出しの{n}小悪党を呼び寄せるためのな。",
-  "en": "",
-  "status": ""
+  "en": "Gold bars? That was a lie. To lure petty crooks like you, greed on full display.",
+  "status": "done"
  },
  {
   "id": "event_2179_00853",
@@ -477,8 +477,8 @@
    60677
   ],
   "jp": "{voice:00F10B}あーあ、ウソ言いやがってよ。{n}そんな話で引く俺じゃないぜ。",
-  "en": "",
-  "status": ""
+  "en": "Aah, more lies. A story like that won't make me back off.",
+  "status": "done"
  },
  {
   "id": "event_2179_00891",
@@ -489,8 +489,8 @@
    60416
   ],
   "jp": "{voice:00F20B}お前らが金塊を運ぶ隊商だな。{n}おとなしく俺達に積荷をよこしな！",
-  "en": "",
-  "status": ""
+  "en": "So you're the caravan with the gold bars. Hand over the cargo and don't make trouble!",
+  "status": "done"
  },
  {
   "id": "event_2179_008D3",
@@ -501,8 +501,8 @@
    60423
   ],
   "jp": "{voice:00F30B}悪いようには使わねぇぜ。{n}反乱のための軍資金にするからよ。",
-  "en": "",
-  "status": ""
+  "en": "We won't use it for anything bad. It's going to fund the rebellion.",
+  "status": "done"
  },
  {
   "id": "event_2179_00911",
@@ -513,8 +513,8 @@
    60471
   ],
   "jp": "{voice:00F40B}金塊？　あれは虚言だ。{n}お前のような欲丸出しの{n}小悪党を呼び寄せるためのな。",
-  "en": "",
-  "status": ""
+  "en": "Gold bars? That was a lie. To lure petty crooks like you, greed on full display.",
+  "status": "done"
  },
  {
   "id": "event_2179_00960",
@@ -525,8 +525,8 @@
    60478
   ],
   "jp": "{voice:00F50B}反乱軍ならそれらしく、{n}軍の倉庫でも襲ったらどうだ？",
-  "en": "",
-  "status": ""
+  "en": "If you're a rebel army, act like one and raid an army storehouse or something.",
+  "status": "done"
  },
  {
   "id": "event_2179_00998",
@@ -537,8 +537,8 @@
    60526
   ],
   "jp": "{voice:00F60B}あーあ、ウソ言いやがってよ。{n}そんな話で引く俺じゃないぜ。",
-  "en": "",
-  "status": ""
+  "en": "Aah, more lies. A story like that won't make me back off.",
+  "status": "done"
  },
  {
   "id": "event_2179_009D6",
@@ -549,8 +549,8 @@
    60769
   ],
   "jp": "{voice:00F70B}おい、パンドラ！{n}話がゴチャゴチャ長ぇんだよ。{n}さっさと始めようぜ②",
-  "en": "",
-  "status": ""
+  "en": "Hey, Pandra! You talk too damn much. Let's get started already!",
+  "status": "done"
  },
  {
   "id": "event_2179_00A1D",
@@ -573,8 +573,8 @@
    60868
   ],
   "jp": "{voice:00F90B}あいつは…、レオン③",
-  "en": "",
-  "status": ""
+  "en": "That's... Leon?!",
+  "status": "done"
  },
  {
   "id": "event_2179_00A87",
@@ -585,8 +585,8 @@
    60960
   ],
   "jp": "{voice:00FA0B}なんだ？{n}お前達、知り合いなのかよ。",
-  "en": "",
-  "status": ""
+  "en": "What's this? You know each other?",
+  "status": "done"
  },
  {
   "id": "event_2179_00AAF",
@@ -597,8 +597,8 @@
    60981
   ],
   "jp": "{voice:00FB0B}ああ…、くだらねぇ縁の仲さ。{n}グラムブレイズ……{n}奴らに受けた屈辱、忘れるものか。",
-  "en": "",
-  "status": ""
+  "en": "Yeah... We've got a stupid history. Gram Blaze... I won't forget the humiliation they gave me.",
+  "status": "done"
  },
  {
   "id": "event_2179_00B04",
@@ -609,8 +609,8 @@
    61002
   ],
   "jp": "{voice:00FC0B}屈辱…？",
-  "en": "",
-  "status": ""
+  "en": "Humiliation...?",
+  "status": "done"
  },
  {
   "id": "event_2179_00B11",
@@ -621,8 +621,8 @@
    61023
   ],
   "jp": "{voice:00FD0B}ははーん、{n}お前が以前言ってた奴らか。{n}手加減なしでブッ潰してやれよ。",
-  "en": "",
-  "status": ""
+  "en": "Aha, so these are the ones you were talking about. Crush them, no holding back.",
+  "status": "done"
  },
  {
   "id": "event_2179_00B5A",
@@ -633,8 +633,8 @@
    61071
   ],
   "jp": "{voice:00FE0B}貴様に言われるまでもねぇ。{n}ククク…、血祭に上げてやる。",
-  "en": "",
-  "status": ""
+  "en": "I don't need you to tell me that. Heh heh heh... I'll make an example of them.",
+  "status": "done"
  },
  {
   "id": "event_2179_00B96",
@@ -645,8 +645,8 @@
    61092
   ],
   "jp": "{voice:00FF0B}ん…、赤髪の姿が見えないが…{n}くたばっちまったのか？",
-  "en": "",
-  "status": ""
+  "en": "Hm... I don't see the redhead... Did he croak?",
+  "status": "done"
  },
  {
   "id": "event_2179_00BCE",
@@ -657,8 +657,8 @@
    61099
   ],
   "jp": "{voice:00000C}…まあいい。{n}さてと、暴れてやるか。",
-  "en": "",
-  "status": ""
+  "en": "...Whatever. Now then, time to run wild.",
+  "status": "done"
  },
  {
   "id": "event_2179_00BF6",
@@ -670,8 +670,8 @@
    13668
   ],
   "jp": "おや？{n}君達、なかなかいい貝殻を{n}持っているじゃないか。",
-  "en": "",
-  "status": ""
+  "en": "Oh? You kids have some rather nice shells.",
+  "status": "done"
  },
  {
   "id": "event_2179_00C2D",
@@ -683,8 +683,8 @@
    13675
   ],
   "jp": "形も崩れていないし、{n}なにより色合いがとても美しい。{n}加工してみたいな…",
-  "en": "",
-  "status": ""
+  "en": "Nothing broken, and above all, what lovely colors. I'd love to work on them...",
+  "status": "done"
  },
  {
   "id": "event_2179_00C74",
@@ -696,8 +696,8 @@
    13682
   ],
   "jp": "…僕にそれを預けてみないか？{n}セクシーなやつに{n}仕上げてみせるからさ。",
-  "en": "",
-  "status": ""
+  "en": "...Won't you leave them with me? I'll make something stylish out of them.",
+  "status": "done"
  },
  {
   "id": "event_2179_00CB9",
@@ -709,8 +709,8 @@
    13755
   ],
   "jp": "…ありがとう！{n}丹精こめて作業するよ！",
-  "en": "",
-  "status": ""
+  "en": "...Thank you! I'll put my heart into the work!",
+  "status": "done"
  },
  {
   "id": "event_2179_00CDF",
@@ -722,8 +722,8 @@
    13807
   ],
   "jp": "完成したよ！{n}うん、我ながらなかなかのデキだ。",
-  "en": "",
-  "status": ""
+  "en": "It's done! Yes, even I must say it's rather good.",
+  "status": "done"
  },
  {
   "id": "event_2179_00D0D",
@@ -735,8 +735,8 @@
    13892
   ],
   "jp": "さ、持っていってよ。{n}お代なんていらないからさ！",
-  "en": "",
-  "status": ""
+  "en": "Go on, take it. No charge!",
+  "status": "done"
  },
  {
   "id": "event_2179_00D3D",
@@ -748,8 +748,8 @@
    13954
   ],
   "jp": "運河の三兄弟には会ったかい？",
-  "en": "",
-  "status": ""
+  "en": "Have you met the three Canal Brothers?",
+  "status": "done"
  },
  {
   "id": "event_2179_00D5A",
@@ -761,8 +761,8 @@
    13961
   ],
   "jp": "水路の合流地点に当たる{n}丁字路の３つの陸地に、{n}１つずつ小屋を建てているんだ。",
-  "en": "",
-  "status": ""
+  "en": "On the three land corners of the T-junction where the channels meet, they each built a hut.",
+  "status": "done"
  },
  {
   "id": "event_2179_00DA7",
@@ -774,8 +774,8 @@
    13968
   ],
   "jp": "運河の川幅は、船が通れるよう{n}かなり広めにしてある。{n}つまり、橋が架けにくいんだ。",
-  "en": "",
-  "status": ""
+  "en": "The canal's quite wide so ships can pass. Which means it's hard to build a bridge.",
+  "status": "done"
  },
  {
   "id": "event_2179_00DF8",
@@ -787,8 +787,8 @@
    13975
   ],
   "jp": "そこで三兄弟は、{n}小舟で向こう岸に人と荷を運ぶ{n}商売を始めた、ってわけさ。",
-  "en": "",
-  "status": ""
+  "en": "So the three brothers started a business ferrying people and cargo across in little boats.",
+  "status": "done"
  },
  {
   "id": "event_2179_00E41",
@@ -800,8 +800,8 @@
    13982
   ],
   "jp": "なかなか気さくな連中だし、{n}会ってみるのも面白いと思うよ。",
-  "en": "",
-  "status": ""
+  "en": "They're a friendly bunch, it'd be fun to meet them.",
+  "status": "done"
  },
  {
   "id": "event_2179_00E7B",
@@ -813,8 +813,8 @@
    13916
   ],
   "jp": "この村の傍にあるアセラ湖では{n}良質な貝殻が多く取れるんだ。",
-  "en": "",
-  "status": ""
+  "en": "At Lake Asera near this village, they harvest plenty of fine shells.",
+  "status": "done"
  },
  {
   "id": "event_2179_00EB5",
@@ -826,8 +826,8 @@
    13923
   ],
   "jp": "その貝殻を利用した物産を施策{n}するうちに、工芸にたどり着いた、{n}というわけさ。",
-  "en": "",
-  "status": ""
+  "en": "While trying out ways to make local goods from those shells, I landed on handicrafts.",
+  "status": "done"
  },
  {
   "id": "event_2179_00F02",
@@ -839,8 +839,8 @@
    13930
   ],
   "jp": "もし貝殻を持ってきてくれれば{n}工芸品に加工してみるよ。",
-  "en": "",
-  "status": ""
+  "en": "If you bring me shells, I'll work them into handicrafts.",
+  "status": "done"
  },
  {
   "id": "event_2179_00F38",
@@ -852,8 +852,8 @@
    24479
   ],
   "jp": "お、兵隊さんじゃんか。{n}こんな僻地まで、お勤めご苦労様！",
-  "en": "",
-  "status": ""
+  "en": "Oh, soldiers! Thanks for your service, out here in the sticks!",
+  "status": "done"
  },
  {
   "id": "event_2179_00F70",
@@ -865,8 +865,8 @@
    24486
   ],
   "jp": "でも、その装備品…{n}帝国軍じゃないみたいだね。{n}まさか、いま話題の反乱軍かい？",
-  "en": "",
-  "status": ""
+  "en": "But that gear... It's not the Imperial Army. Don't tell me you're those rebels everyone's talking about?",
+  "status": "done"
  },
  {
   "id": "event_2179_00FBD",
@@ -878,8 +878,8 @@
    24504
   ],
   "jp": "…ああ、グラムブレイズか！{n}いけ好かない連中を相手に{n}転戦してるって部隊だろ？",
-  "en": "",
-  "status": ""
+  "en": "...Oh, Gram Blaze! The unit that goes around fighting all those nasty types, right?",
+  "status": "done"
  },
  {
   "id": "event_2179_0100A",
@@ -891,8 +891,8 @@
    24511
   ],
   "jp": "君達、人気者だよ？{n}ま、本人達はそんな自覚、{n}ないかもしれないけどさ。",
-  "en": "",
-  "status": ""
+  "en": "You kids are popular, y'know? Though you might not realize it yourselves.",
+  "status": "done"
  },
  {
   "id": "event_2179_0104F",
@@ -904,8 +904,8 @@
    24529
   ],
   "jp": "あ、そうだ！{n}君達にいいものをあげるよ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, right! I'll give you something good!",
+  "status": "done"
  },
  {
   "id": "event_2179_01077",
@@ -917,8 +917,8 @@
    24536
   ],
   "jp": "私が採ってきた鉱石と木材で{n}作られた銛だよ。{n}武器としてもかなり優秀だよ。",
-  "en": "",
-  "status": ""
+  "en": "It's a harpoon, made with ore and wood I gathered. Works pretty great as a weapon too.",
+  "status": "done"
  },
  {
   "id": "event_2179_010C0",
@@ -1008,8 +1008,8 @@
    24679
   ],
   "jp": "お、兵隊さんじゃんか。{n}こんな僻地まで、お勤めご苦労様！",
-  "en": "",
-  "status": ""
+  "en": "Oh, soldiers! Thanks for your service, out here in the sticks!",
+  "status": "done"
  },
  {
   "id": "event_2179_01272",
@@ -1021,8 +1021,8 @@
    24686
   ],
   "jp": "でも、その装備品…{n}帝国軍じゃないみたいだね。{n}まさか、いま話題の反乱軍かい？",
-  "en": "",
-  "status": ""
+  "en": "But that gear... It's not the Imperial Army. Don't tell me you're those rebels everyone's talking about?",
+  "status": "done"
  },
  {
   "id": "event_2179_012BF",
@@ -1034,8 +1034,8 @@
    24704
   ],
   "jp": "…ああ、グラムブレイズか！{n}いけ好かない連中を相手に{n}転戦してるって部隊だろ？",
-  "en": "",
-  "status": ""
+  "en": "...Oh, Gram Blaze! The unit that goes around fighting all those nasty types, right?",
+  "status": "done"
  },
  {
   "id": "event_2179_0130C",
@@ -1047,8 +1047,8 @@
    24711
   ],
   "jp": "君達、人気者だよ？{n}ま、本人達はそんな自覚、{n}ないかもしれないけどさ。",
-  "en": "",
-  "status": ""
+  "en": "You kids are popular, y'know? Though you might not realize it yourselves.",
+  "status": "done"
  },
  {
   "id": "event_2179_01351",
@@ -1112,8 +1112,8 @@
    24812
   ],
   "jp": "お、兵隊さんじゃんか。{n}こんな僻地まで、お勤めご苦労様！",
-  "en": "",
-  "status": ""
+  "en": "Oh, soldiers! Thanks for your service, out here in the sticks!",
+  "status": "done"
  },
  {
   "id": "event_2179_01474",
@@ -1125,8 +1125,8 @@
    24819
   ],
   "jp": "でも、その装備品…{n}帝国軍じゃないみたいだね。{n}まさか、いま話題の反乱軍かい？",
-  "en": "",
-  "status": ""
+  "en": "But that gear... It's not the Imperial Army. Don't tell me you're those rebels everyone's talking about?",
+  "status": "done"
  },
  {
   "id": "event_2179_014C1",
@@ -1138,8 +1138,8 @@
    24837
   ],
   "jp": "…ああ、グラムブレイズか！{n}いけ好かない連中を相手に{n}転戦してるって部隊だろ？",
-  "en": "",
-  "status": ""
+  "en": "...Oh, Gram Blaze! The unit that goes around fighting all those nasty types, right?",
+  "status": "done"
  },
  {
   "id": "event_2179_0150E",
@@ -1151,8 +1151,8 @@
    24844
   ],
   "jp": "君達、人気者だよ？{n}ま、本人達はそんな自覚、{n}ないかもしれないけどさ。",
-  "en": "",
-  "status": ""
+  "en": "You kids are popular, y'know? Though you might not realize it yourselves.",
+  "status": "done"
  },
  {
   "id": "event_2179_01553",
@@ -2266,8 +2266,8 @@
    10413
   ],
   "jp": "パンドラ反乱本隊",
-  "en": "",
-  "status": ""
+  "en": "Pandra Main",
+  "status": "done"
  },
  {
   "id": "event_2179_02970",

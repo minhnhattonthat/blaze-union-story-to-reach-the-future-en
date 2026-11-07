@@ -8,8 +8,8 @@
    9538
   ],
   "jp": "{voice:00EC0A}見えてきた！{n}あれがシャーミネルね。",
-  "en": "",
-  "status": ""
+  "en": "There it is! That's Sharminel.",
+  "status": "done"
  },
  {
   "id": "event_2177_00050",
@@ -20,8 +20,8 @@
    9556
   ],
   "jp": "{voice:00ED0A}前線の砦に、奥の市街地…{n}山道にも敵の部隊が見えるね。",
-  "en": "",
-  "status": ""
+  "en": "Forts on the front line, the town behind... I can see enemy units on the mountain road too.",
+  "status": "done"
  },
  {
   "id": "event_2177_0008A",
@@ -32,8 +32,8 @@
    9574
   ],
   "jp": "{voice:00EE0A}確かに、あれは攻めづらいな。{n}まるで要塞のような街だ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, that won't be easy to attack. The town's like a fortress.",
+  "status": "done"
  },
  {
   "id": "event_2177_000C4",
@@ -44,8 +44,8 @@
    9592
   ],
   "jp": "{voice:00EF0A}現実問題として、{n}パンドラよりもレオンが厄介だね。",
-  "en": "",
-  "status": ""
+  "en": "As a practical matter, Leon's more trouble than Pandra.",
+  "status": "done"
  },
  {
   "id": "event_2177_000FA",
@@ -56,8 +56,8 @@
    9599
   ],
   "jp": "{voice:00F00A}奴が城砦内に陣取って待ち構える{n}ような性格には思えない。{n}どこかで仕掛けてくるはずだ。",
-  "en": "",
-  "status": ""
+  "en": "He's not the type to sit inside the walls and wait. He'll strike somewhere.",
+  "status": "done"
  },
  {
   "id": "event_2177_00153",
@@ -68,8 +68,8 @@
    9674
   ],
   "jp": "{voice:00F10A}どうした貴族の子飼いども！{n}さては俺達に恐れをなしたな？{n}退却するなら今のうちだぜ②",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, you noble's lapdogs! Scared of us, are you? You'd better run while you can!",
+  "status": "done"
  },
  {
   "id": "event_2177_001AA",
@@ -80,8 +80,8 @@
    9692
   ],
   "jp": "{voice:00F20A}…そんなに言うなら、{n}引っ込んでないで出てこいよ！",
-  "en": "",
-  "status": ""
+  "en": "...If you're so tough, quit hiding and come out here!",
+  "status": "done"
  },
  {
   "id": "event_2177_001E0",
@@ -92,8 +92,8 @@
    9710
   ],
   "jp": "{voice:00F30A}俺は反乱軍のリーダーだ！{n}この街を守る義務と使命がある！{n}俺の命は、反乱軍のそれだ！",
-  "en": "",
-  "status": ""
+  "en": "I'm the leader of the rebel army! I've got a duty and a mission to protect this town! My life is the rebels' life!",
+  "status": "done"
  },
  {
   "id": "event_2177_00237",
@@ -104,8 +104,8 @@
    9728
   ],
   "jp": "{voice:00F40A}さあ、来いよ！{n}今度こそ血祭に上げてやる！",
-  "en": "",
-  "status": ""
+  "en": "Now, come on! This time I'll make an example of you!",
+  "status": "done"
  },
  {
   "id": "event_2177_00265",
@@ -116,8 +116,8 @@
    9810
   ],
   "jp": "{voice:00F50A}ところでネシア、{n}ユーディの姿が見えないが…{n}いつ戻ってくるんだ？",
-  "en": "",
-  "status": ""
+  "en": "By the way, Nessiah, I don't see Eudy... When's she coming back?",
+  "status": "done"
  },
  {
   "id": "event_2177_002AA",
@@ -128,8 +128,8 @@
    9828
   ],
   "jp": "{voice:00F60A}ご安心ください、もうすぐです。{n}彼女が戻ってきた時、{n}敵の防衛線は崩れ去りますよ。",
-  "en": "",
-  "status": ""
+  "en": "Have no fear, it will be soon. When she returns, the enemy's defenses will crumble.",
+  "status": "done"
  },
  {
   "id": "event_2177_002FF",
@@ -140,8 +140,8 @@
    9989
   ],
   "jp": "{voice:00F70A}レオンの気配が感じられない。{n}アイツはどこで仕掛けてくる③",
-  "en": "",
-  "status": ""
+  "en": "I can't sense Leon anywhere. Where's he going to strike from?!",
+  "status": "done"
  },
  {
   "id": "event_2177_0033D",
@@ -152,8 +152,8 @@
    36935
   ],
   "jp": "{voice:00F80A}一気に進めーッ！",
-  "en": "",
-  "status": ""
+  "en": "Push on, all at once!",
+  "status": "done"
  },
  {
   "id": "event_2177_00352",
@@ -164,8 +164,8 @@
    37010
   ],
   "jp": "{voice:00F90A}くそっ、相変わらず{n}勢いだけは立派な連中だぜ！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, these guys are all momentum, same as ever!",
+  "status": "done"
  },
  {
   "id": "event_2177_00384",
@@ -176,8 +176,8 @@
    37028
   ],
   "jp": "{voice:00FA0A}にしても、あの野郎遅いぞ。{n}なにしてんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Even so, that bastard's late. What's he doing!",
+  "status": "done"
  },
  {
   "id": "event_2177_003B4",
@@ -188,8 +188,8 @@
    37076
   ],
   "jp": "{voice:00FB0A}よし今だ！　突撃ーッ！",
-  "en": "",
-  "status": ""
+  "en": "All right, now! Chaaarge!",
+  "status": "done"
  },
  {
   "id": "event_2177_003CF",
@@ -200,8 +200,8 @@
    37434
   ],
   "jp": "{voice:00FC0A}来たな、レオン！{n}全軍、レオンの突撃に備えろ②",
-  "en": "",
-  "status": ""
+  "en": "Here he comes, Leon! All forces, get ready for Leon's charge!",
+  "status": "done"
  },
  {
   "id": "event_2177_00401",
@@ -212,8 +212,8 @@
    37452
   ],
   "jp": "{voice:00FD0A}おいおい、やっと来たのかよ…{n}逃げたかと思ったぜ、レオン！",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey, you finally showed up... I thought you ran away, Leon!",
+  "status": "done"
  },
  {
   "id": "event_2177_0043F",
@@ -224,8 +224,8 @@
    37470
   ],
   "jp": "{voice:00FE0A}くくくっ、慌てる大将の姿、{n}たっぷり拝ませてもらったぜ。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh, I got a good long look at the boss in a panic.",
+  "status": "done"
  },
  {
   "id": "event_2177_0047B",
@@ -236,8 +236,8 @@
    37488
   ],
   "jp": "{voice:00FF0A}…兵の前では黙ってろよ。{n}いいからお前は、さっさと{n}負け犬の汚名を返上しやがれ！",
-  "en": "",
-  "status": ""
+  "en": "...Keep your mouth shut in front of the men. You just hurry up and clear your name as a loser!",
+  "status": "done"
  },
  {
   "id": "event_2177_004CE",
@@ -248,8 +248,8 @@
    37509
   ],
   "jp": "{voice:00000B}貴様に言われるまでもねぇぜ。{n}覚悟しやがれ、赤髪！",
-  "en": "",
-  "status": ""
+  "en": "I don't need you to tell me that. Get ready, redhead!",
+  "status": "done"
  },
  {
   "id": "event_2177_00504",
@@ -260,8 +260,8 @@
    37940
   ],
   "jp": "{voice:00010B}やはりプレッシャーが凄い！{n}どうにか劣勢を覆さないと……",
-  "en": "",
-  "status": ""
+  "en": "The pressure's as fierce as ever! I've got to turn this around somehow...",
+  "status": "done"
  },
  {
   "id": "event_2177_00540",
@@ -272,8 +272,8 @@
    37958
   ],
   "jp": "{voice:00020B}甘かったな！{n}無策で来た愚かさを呪うんだな！",
-  "en": "",
-  "status": ""
+  "en": "You were naive! Curse your stupidity for coming without a plan!",
+  "status": "done"
  },
  {
   "id": "event_2177_00570",
@@ -284,8 +284,8 @@
    38081
   ],
   "jp": "{voice:00030B}それじゃあ一発、キツ～イのを{n}お見舞いしてあげようかしら？",
-  "en": "",
-  "status": ""
+  "en": "Well then, shall I treat you to a good hard one?",
+  "status": "done"
  },
  {
   "id": "event_2177_005AE",
@@ -296,8 +296,8 @@
    38099
   ],
   "jp": "{voice:00040B}なにっ③",
-  "en": "",
-  "status": ""
+  "en": "What?!",
+  "status": "done"
  },
  {
   "id": "event_2177_005BB",
@@ -308,8 +308,8 @@
    38285
   ],
   "jp": "{voice:00050B}ユーディ、やっと来たか！",
-  "en": "",
-  "status": ""
+  "en": "Eudy, you finally made it!",
+  "status": "done"
  },
  {
   "id": "event_2177_005D8",
@@ -320,8 +320,8 @@
    38303
   ],
   "jp": "{voice:00060B}あれは…、大砲か？",
-  "en": "",
-  "status": ""
+  "en": "Is that... a cannon?",
+  "status": "done"
  },
  {
   "id": "event_2177_005EF",
@@ -332,8 +332,8 @@
    38687
   ],
   "jp": "{voice:00080B}ぐおおっ！",
-  "en": "",
-  "status": ""
+  "en": "Gwaaagh!",
+  "status": "done"
  },
  {
   "id": "event_2177_005FE",
@@ -344,8 +344,8 @@
    38708
   ],
   "jp": "{voice:00090B}冗談だろ③　なんだあの威力は②{n}山の一角が崩れたぞ？",
-  "en": "",
-  "status": ""
+  "en": "You've gotta be kidding?! What power! It took a chunk off the mountain!",
+  "status": "done"
  },
  {
   "id": "event_2177_00636",
@@ -356,8 +356,8 @@
    38726
   ],
   "jp": "{voice:000A0B}…おい、射程を計算しろ！{n}ここまで届かないだろうな③",
-  "en": "",
-  "status": ""
+  "en": "...Hey, work out the range! It won't reach here, will it?!",
+  "status": "done"
  },
  {
   "id": "event_2177_0066E",
@@ -368,8 +368,8 @@
    38791
   ],
   "jp": "{voice:000B0B}私の長年の研究をナメないでよ。{n}アンタの顔面に、砲弾ブチ込んで{n}あげようか？",
-  "en": "",
-  "status": ""
+  "en": "Don't you underestimate my years of research. Shall I put a shell in your face?",
+  "status": "done"
  },
  {
   "id": "event_2177_006BD",
@@ -380,8 +380,8 @@
    38809
   ],
   "jp": "{voice:000C0B}ダメだ、ユーディ！{n}市民が巻き込まれる可能性がある！",
-  "en": "",
-  "status": ""
+  "en": "No, Eudy! Civilians could get caught in it!",
+  "status": "done"
  },
  {
   "id": "event_2177_006F5",
@@ -392,8 +392,8 @@
    38827
   ],
   "jp": "{voice:000D0B}いいじゃない別に。{n}ウチの団長、変なところで{n}頭が固いのよね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, who cares. Our Captain's so hard-headed about the strangest things.",
+  "status": "done"
  },
  {
   "id": "event_2177_00736",
@@ -404,8 +404,8 @@
    38845
   ],
   "jp": "{voice:000E0B}仕方ない、砦にブチ込むだけで{n}我慢するか…",
-  "en": "",
-  "status": ""
+  "en": "Oh well, I'll settle for blasting the forts...",
+  "status": "done"
  },
  {
   "id": "event_2177_00764",
@@ -416,8 +416,8 @@
    38866
   ],
   "jp": "{voice:000F0B}ほーら、ドンドン行くわよ。{n}きゃははははは☆",
-  "en": "",
-  "status": ""
+  "en": "Here we go, keep 'em coming. Kyahahahaha ☆",
+  "status": "done"
  },
  {
   "id": "event_2177_00794",
@@ -428,8 +428,8 @@
    40182
   ],
   "jp": "{voice:00100B}砦は落とした！{n}いいな、目標はパンドラの首だ！",
-  "en": "",
-  "status": ""
+  "en": "The fort's down! All right, our target is Pandra's head!",
+  "status": "done"
  },
  {
   "id": "event_2177_007C6",
@@ -440,8 +440,8 @@
    40238
   ],
   "jp": "{voice:00110B}待て、俺との決着はどうした③",
-  "en": "",
-  "status": ""
+  "en": "Wait, what about settling things with me?!",
+  "status": "done"
  },
  {
   "id": "event_2177_007E7",
@@ -452,8 +452,8 @@
    10211
   ],
   "jp": "城砦は占拠した！{n}ここからなら、パンドラの本陣を{n}一直線に衝けるぜ！",
-  "en": "",
-  "status": ""
+  "en": "The fortress is ours! From here, we can go straight for Pandra's camp!",
+  "status": "done"
  },
  {
   "id": "event_2177_0082A",
@@ -464,8 +464,8 @@
    10284
   ],
   "jp": "制圧したわね。{n}警戒を怠らないで！",
-  "en": "",
-  "status": ""
+  "en": "We've got it. Don't let your guard down!",
+  "status": "done"
  },
  {
   "id": "event_2177_0084C",
@@ -476,8 +476,8 @@
    10357
   ],
   "jp": "ここは僕が制したよ。{n}さあ、第二段階に移るよ！",
-  "en": "",
-  "status": ""
+  "en": "I've taken this one. Now, on to the second stage!",
+  "status": "done"
  },
  {
   "id": "event_2177_0087A",
@@ -488,8 +488,8 @@
    10430
   ],
   "jp": "城砦は制圧した！{n}ここを維持しつつ、後続を待つ！",
-  "en": "",
-  "status": ""
+  "en": "The fortress is taken! Hold here and wait for the rest!",
+  "status": "done"
  },
  {
   "id": "event_2177_008AA",
@@ -500,8 +500,8 @@
    10503
   ],
   "jp": "城砦が陥落しました！",
-  "en": "",
-  "status": ""
+  "en": "The fortress has fallen!",
+  "status": "done"
  },
  {
   "id": "event_2177_008BF",
@@ -512,8 +512,8 @@
    10583
   ],
   "jp": "城砦、陥落した！{n}こうなった以上、{n}最後まで全力で攻めるだけ！",
-  "en": "",
-  "status": ""
+  "en": "The fortress has fallen! Now, all that is left is to attack with all Byff's might until the end!",
+  "status": "done"
  },
  {
   "id": "event_2177_008FC",
@@ -524,8 +524,8 @@
    10601
   ],
   "jp": "…なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "...Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2177_0090D",
@@ -536,8 +536,8 @@
    10639
   ],
   "jp": "ん？　わかりづらかったか？{n}じゃあ、もう１回だけ…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Was that too hard to get? Then, one more time...",
+  "status": "done"
  },
  {
   "id": "event_2177_0093F",
@@ -548,8 +548,8 @@
    10660
   ],
   "jp": "ジョウサイ、陥落した！{n}こうなった以ジョウ、{n}サイ後まで全力で攻めるだけ！",
-  "en": "",
-  "status": ""
+  "en": "The FORTress has fallen! Now Byff will go FORTh with all Byff's might to the end!",
+  "status": "done"
  },
  {
   "id": "event_2177_00988",
@@ -572,8 +572,8 @@
    10984
   ],
   "jp": "制圧したわよ！{n}私の大砲のおかげね！",
-  "en": "",
-  "status": ""
+  "en": "It's ours! Thanks to my cannon!",
+  "status": "done"
  },
  {
   "id": "event_2177_009BB",
@@ -584,8 +584,8 @@
    11002
   ],
   "jp": "この功績は大きいわよ？{n}研究資金アップを嘆願しなきゃ。",
-  "en": "",
-  "status": ""
+  "en": "This is a big achievement, you know? I'll have to petition for more research funds.",
+  "status": "done"
  },
  {
   "id": "event_2177_009F1",
@@ -596,8 +596,8 @@
    10758
   ],
   "jp": "よっしゃ！{n}制圧完了したぜ～！",
-  "en": "",
-  "status": ""
+  "en": "All right! It's ours now~!",
+  "status": "done"
  },
  {
   "id": "event_2177_00A0F",
@@ -608,8 +608,8 @@
    10904
   ],
   "jp": "この城砦、制圧したわよ～。{n}でも、ここからが本番みたいね…{n}ウィック！",
-  "en": "",
-  "status": ""
+  "en": "This fortress is taken~. But looks like this is where it really starts... *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2177_00A54",
@@ -620,8 +620,8 @@
    10831
   ],
   "jp": "制圧完了だわさ！{n}さあさあ、飛ばして行くわよ～！",
-  "en": "",
-  "status": ""
+  "en": "It's taken, y'know! Now then, let's keep it going~!",
+  "status": "done"
  },
  {
   "id": "event_2177_00A84",
@@ -632,8 +632,8 @@
    11082
   ],
   "jp": "ここは制圧しました。{n}ですが、ここからが本番ですよ…",
-  "en": "",
-  "status": ""
+  "en": "This place is taken. But this is where it truly begins...",
+  "status": "done"
  },
  {
   "id": "event_2177_00AB8",
@@ -644,8 +644,8 @@
    11242
   ],
   "jp": "制圧完了ですわ。{n}まだまだ行けますわよ～！",
-  "en": "",
-  "status": ""
+  "en": "The conquest is complete. And I have plenty left in me~!",
+  "status": "done"
  },
  {
   "id": "event_2177_00AE2",
@@ -656,8 +656,8 @@
    11299
   ],
   "jp": "堅牢な砦が聞いて呆れるな！{n}オレの手に掛かれば{n}朝飯前だぜ！　今は夜だけどな！",
-  "en": "",
-  "status": ""
+  "en": "Sturdy fort, my ass! In my hands it's a breakfast snack! Even if it's nighttime!",
+  "status": "done"
  },
  {
   "id": "event_2177_00B2F",
@@ -668,8 +668,8 @@
    11155
   ],
   "jp": "制圧した。ここを維持しつつ、{n}後続の軍を待つ事にする。",
-  "en": "",
-  "status": ""
+  "en": "Taken. I will hold here and wait for the force behind me.",
+  "status": "done"
  },
  {
   "id": "event_2177_00B65",
@@ -681,8 +681,8 @@
    11503
   ],
   "jp": "おや？{n}キミ、毛皮を持っているネ。",
-  "en": "",
-  "status": ""
+  "en": "Oh? You've got a fur there, ne.",
+  "status": "done"
  },
  {
   "id": "event_2177_00B87",
@@ -694,8 +694,8 @@
    11510
   ],
   "jp": "雪山の寒さは辛い。{n}せっかくじゃ、{n}その毛皮を貸してみてほしいネ。",
-  "en": "",
-  "status": ""
+  "en": "The cold of the snowy mountains is harsh. Since you're here, lend me that fur, ne.",
+  "status": "done"
  },
  {
   "id": "event_2177_00BC8",
@@ -707,8 +707,8 @@
    11521
   ],
   "jp": "なに、悪いようにはしないネ。{n}時間もお金もとらないからネ。",
-  "en": "",
-  "status": ""
+  "en": "Don't worry, I won't do you wrong. No time, no money, ne.",
+  "status": "done"
  },
  {
   "id": "event_2177_00C02",
@@ -720,8 +720,8 @@
    11596
   ],
   "jp": "ホラネ！{n}防寒コートのできあがりだネ！",
-  "en": "",
-  "status": ""
+  "en": "See there! One winter coat, all done, ne!",
+  "status": "done"
  },
  {
   "id": "event_2177_00C28",
@@ -733,8 +733,8 @@
    11603
   ],
   "jp": "老いてますます盛んとはネ、{n}ワッチのような名人の事を{n}言うんだネ、きっと。シェシェ！",
-  "en": "",
-  "status": ""
+  "en": "'Even livelier with age', ne, that's what they say of a master like me, surely. Xie xie!",
+  "status": "done"
  },
  {
   "id": "event_2177_00C7B",
@@ -746,8 +746,8 @@
    11627
   ],
   "jp": "反乱軍の事かネ？",
-  "en": "",
-  "status": ""
+  "en": "You mean the rebel army, ne?",
+  "status": "done"
  },
  {
   "id": "event_2177_00C8C",
@@ -759,8 +759,8 @@
    11634
   ],
   "jp": "帝国を悪と断じて、若い連中を{n}兵に取ってるみたいだが…{n}ワッチは気に食わんネェ。",
-  "en": "",
-  "status": ""
+  "en": "They call the Empire evil and take the young folks for soldiers... I don't care for it, ne.",
+  "status": "done"
  },
  {
   "id": "event_2177_00CDB",
@@ -772,8 +772,8 @@
    11641
   ],
   "jp": "シャーミネルは帝都からも遠く、{n}国の支配なしにやってきたのネ。{n}ずっとそうだったネ。",
-  "en": "",
-  "status": ""
+  "en": "Sharminel's far from the capital, so we've always gotten by without the country's rule, ne.",
+  "status": "done"
  },
  {
   "id": "event_2177_00D2E",
@@ -785,8 +785,8 @@
    11648
   ],
   "jp": "ワッチらは、今までも十分なほど{n}幸せにやってきたんだからネ。",
-  "en": "",
-  "status": ""
+  "en": "We've been plenty happy all along, ne.",
+  "status": "done"
  },
  {
   "id": "event_2177_00D6A",
@@ -798,8 +798,8 @@
    11655
   ],
   "jp": "その幸せを侵す権利なんて、{n}あるはずがないんだネ。{n}帝国にも、反乱軍にも、ネ…",
-  "en": "",
-  "status": ""
+  "en": "Nobody has the right to trample that happiness. Not the Empire, not the rebels, ne...",
+  "status": "done"
  },
  {
   "id": "event_2177_00DB7",
@@ -811,8 +811,8 @@
    11662
   ],
   "jp": "まあワッチとしてはネ、{n}毛皮加工品が求められる限り、{n}ただ作るだけだがネ。シェシェ！",
-  "en": "",
-  "status": ""
+  "en": "Well, as for me, ne, so long as folks want furs, I just make them. Xie xie!",
+  "status": "done"
  },
  {
   "id": "event_2177_00E0A",
@@ -824,8 +824,8 @@
    11776
   ],
   "jp": "…くんくん…{n}ん？　この匂いって、まさか…",
-  "en": "",
-  "status": ""
+  "en": "...Sniff, sniff... Hm? This smell, could it be...",
+  "status": "done"
  },
  {
   "id": "event_2177_00E34",
@@ -837,8 +837,8 @@
    11783
   ],
   "jp": "…兵隊さん、ひょっとして{n}『エレミナミント』を{n}持っているんじゃない？",
-  "en": "",
-  "status": ""
+  "en": "...Mister soldier, you wouldn't happen to have some 'Elemina Mint', would you?",
+  "status": "done"
  },
  {
   "id": "event_2177_00E79",
@@ -850,8 +850,8 @@
    11790
   ],
   "jp": "それね、東の雪地に住んでる{n}あたしらの仲間の妖精族が、{n}集めてるみたいなのよ。",
-  "en": "",
-  "status": ""
+  "en": "See, some fairy friends of ours who live in the snowy land to the east are collecting it.",
+  "status": "done"
  },
  {
   "id": "event_2177_00EC6",
@@ -863,8 +863,8 @@
    11797
   ],
   "jp": "もしそれを譲ってくれるなら、{n}あたしのとっておきのアイテムと{n}交換してもいいよ～、なんて…",
-  "en": "",
-  "status": ""
+  "en": "If you'd let me have it, I could swap you my best item~, or something...",
+  "status": "done"
  },
  {
   "id": "event_2177_00F1F",
@@ -876,8 +876,8 @@
    11808
   ],
   "jp": "…え？　交換してくれる？{n}やったぁ！{n}話がわかる人間は大好きよ～！",
-  "en": "",
-  "status": ""
+  "en": "...Huh? You'll trade? Yay! I love humans who get it~!",
+  "status": "done"
  },
  {
   "id": "event_2177_00F60",
@@ -889,8 +889,8 @@
    11883
   ],
   "jp": "この鐘の音色は、敵の戦意を削ぐ{n}特殊な効果があるの。",
-  "en": "",
-  "status": ""
+  "en": "This bell's tone has a special effect that saps the enemy's will to fight.",
+  "status": "done"
  },
  {
   "id": "event_2177_00F94",
@@ -902,8 +902,8 @@
    11890
   ],
   "jp": "楽器ができる人に持たせれば、{n}効果を存分に発揮できるハズよ！",
-  "en": "",
-  "status": ""
+  "en": "Give it to someone who can play an instrument and it should work like a charm!",
+  "status": "done"
  },
  {
   "id": "event_2177_00FD0",
@@ -915,8 +915,8 @@
    11914
   ],
   "jp": "…ん？　さっき話した、{n}東の雪地に住んでる妖精族の話？",
-  "en": "",
-  "status": ""
+  "en": "...Hm? What I said before, about the fairies in the snowy land to the east?",
+  "status": "done"
  },
  {
   "id": "event_2177_01006",
@@ -928,8 +928,8 @@
    11921
   ],
   "jp": "厳密には種族は違うんだけど、{n}まあ同じ妖精だし、{n}仲良くしてるというか…",
-  "en": "",
-  "status": ""
+  "en": "Strictly speaking, they're a different race, but we're all fairies, so we kinda get along...",
+  "status": "done"
  },
  {
   "id": "event_2177_0104D",
@@ -941,8 +941,8 @@
    11928
   ],
   "jp": "奥深い雪の街で、{n}人間相手に商売してるのよ。{n}俗っぽいわよね～、妖精なのに。",
-  "en": "",
-  "status": ""
+  "en": "They do business with humans in a town deep in the snow. So worldly~, for fairies.",
+  "status": "done"
  },
  {
   "id": "event_2177_01098",
@@ -954,8 +954,8 @@
    11935
   ],
   "jp": "人間って、熱したお湯に浸かって{n}喜ぶ習性があるじゃない？",
-  "en": "",
-  "status": ""
+  "en": "Humans have this habit of soaking in heated water and being happy about it, right?",
+  "status": "done"
  },
  {
   "id": "event_2177_010D0",
@@ -967,8 +967,8 @@
    11942
   ],
   "jp": "東の連中は、そのお湯を提供して{n}商売にしてるらしいわ。",
-  "en": "",
-  "status": ""
+  "en": "The ones in the east provide that water, and make a business of it.",
+  "status": "done"
  },
  {
   "id": "event_2177_01106",
@@ -980,8 +980,8 @@
    11949
   ],
   "jp": "別にお湯なんて、水さえ沸かせば{n}どこだって用意できるのに、{n}それが商売になるなんて…",
-  "en": "",
-  "status": ""
+  "en": "You can get hot water anywhere, just boil some, and they make a business of it...",
+  "status": "done"
  },
  {
   "id": "event_2177_01159",
@@ -993,8 +993,8 @@
    11956
   ],
   "jp": "人間ってのも不思議な生き物ね～。{n}アタマが幸せ、っていうかサ。",
-  "en": "",
-  "status": ""
+  "en": "Humans really are strange creatures~. Happy in the head, you might say.",
+  "status": "done"
  },
  {
   "id": "event_2177_01197",
@@ -1006,8 +1006,8 @@
    11963
   ],
   "jp": "…あっ、兵隊さんも人間だっけ？{n}ゴメンゴメン、今のはひとつ{n}聞かなかったことにして～。",
-  "en": "",
-  "status": ""
+  "en": "...Oh, wait, you're human too, mister soldier? Sorry, sorry, pretend you didn't hear that~.",
+  "status": "done"
  },
  {
   "id": "event_2177_011EC",
@@ -1019,8 +1019,8 @@
    11987
   ],
   "jp": "あら？　あなた兵隊さんかしら。{n}それにその軍旗…{n}反乱軍とは別の部隊みたいね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? Are you a soldier? And that banner... You look like a different unit from the rebels.",
+  "status": "done"
  },
  {
   "id": "event_2177_01239",
@@ -1032,8 +1032,8 @@
    11994
   ],
   "jp": "あのさー、相談があるんだけど、{n}ちょっと聞いてくれない？",
-  "en": "",
-  "status": ""
+  "en": "Hey, I've got a favor to discuss, could you hear me out?",
+  "status": "done"
  },
  {
   "id": "event_2177_01271",
@@ -1045,8 +1045,8 @@
    12001
   ],
   "jp": "実はね、反乱軍がこの大樹を{n}切り倒そうとしてるのよ。{n}木材が必要とかナントカで。",
-  "en": "",
-  "status": ""
+  "en": "See, the rebels want to cut down this great tree. They need lumber or whatever.",
+  "status": "done"
  },
  {
   "id": "event_2177_012C0",
@@ -1058,8 +1058,8 @@
    12008
   ],
   "jp": "でも、この妖精樹は{n}あたしら妖精族の住処なのよ？{n}切り倒されたら迷惑だわ！",
-  "en": "",
-  "status": ""
+  "en": "But this Fairy Tree is home to us fairies! It'd be awful if they cut it down!",
+  "status": "done"
  },
  {
   "id": "event_2177_01309",
@@ -1071,8 +1071,8 @@
    12015
   ],
   "jp": "で、あたしらとしては{n}反乱軍を追っ払って欲しいな～、{n}なんて思ってるんだけど…",
-  "en": "",
-  "status": ""
+  "en": "So we were sort of hoping you might chase the rebels away~...",
+  "status": "done"
  },
  {
   "id": "event_2177_01356",
@@ -1084,8 +1084,8 @@
    12022
   ],
   "jp": "…え？　元々そのつもりだった？",
-  "en": "",
-  "status": ""
+  "en": "...Huh? You were going to do that anyway?",
+  "status": "done"
  },
  {
   "id": "event_2177_01375",
@@ -1097,8 +1097,8 @@
    12029
   ],
   "jp": "なーんだ、だったら問題ナシね！{n}思う存分やっちゃって！",
-  "en": "",
-  "status": ""
+  "en": "Oh, well then, no problem! Go at it as much as you like!",
+  "status": "done"
  },
  {
   "id": "event_2177_013AB",
@@ -1110,8 +1110,8 @@
    30979
   ],
   "jp": "ん？{n}地面に木の実が落ちてるな…{n}この木が親か…",
-  "en": "",
-  "status": ""
+  "en": "Hm? There's nuts on the ground... This tree must be where they came from...",
+  "status": "done"
  },
  {
   "id": "event_2177_013DA",
@@ -1123,8 +1123,8 @@
    31065
   ],
   "jp": "食えるかもしれない。{n}持って帰るぜ。",
-  "en": "",
-  "status": ""
+  "en": "Might be edible. I'll take them back.",
+  "status": "done"
  },
  {
   "id": "event_2177_013FE",
@@ -1136,8 +1136,8 @@
    31146
   ],
   "jp": "あら、木の実がたくさん…",
-  "en": "",
-  "status": ""
+  "en": "Oh, so many nuts...",
+  "status": "done"
  },
  {
   "id": "event_2177_01417",
@@ -1149,8 +1149,8 @@
    31232
   ],
   "jp": "落ちっぱなしじゃ勿体ないわね。{n}ゲットしちゃいましょう。",
-  "en": "",
-  "status": ""
+  "en": "Would be a waste to leave them lying around. Let's grab them.",
+  "status": "done"
  },
  {
   "id": "event_2177_0144F",
@@ -1162,8 +1162,8 @@
    31313
   ],
   "jp": "大量に木の実が落ちてるね…",
-  "en": "",
-  "status": ""
+  "en": "There are loads of nuts on the ground...",
+  "status": "done"
  },
  {
   "id": "event_2177_0146A",
@@ -1175,8 +1175,8 @@
    31399
   ],
   "jp": "せっかくだ、貰っておこう。{n}健康そうな色をしているし、{n}食べれるよ、きっと。",
-  "en": "",
-  "status": ""
+  "en": "Since we're here, let's take some. They're a healthy color, so they must be edible.",
+  "status": "done"
  },
  {
   "id": "event_2177_014B5",
@@ -1188,8 +1188,8 @@
    31487
   ],
   "jp": "これは確か『ペペスの実』だな…{n}栄養、かなりあるんだ。",
-  "en": "",
-  "status": ""
+  "en": "These are 'Pepes Nuts', I think... They're very nourishing.",
+  "status": "done"
  },
  {
   "id": "event_2177_014EB",
@@ -1201,8 +1201,8 @@
    31573
   ],
   "jp": "たくさん落ちてるし、少しくらい{n}拾ってもバチは当たるまい。",
-  "en": "",
-  "status": ""
+  "en": "There's plenty on the ground, so it can't hurt to pick up a few.",
+  "status": "done"
  },
  {
   "id": "event_2177_01525",
@@ -1214,8 +1214,8 @@
    31661
   ],
   "jp": "木の実がたくさん落ちてますね。{n}食べられそうなものですが…",
-  "en": "",
-  "status": ""
+  "en": "There are many nuts on the ground. They look edible, but...",
+  "status": "done"
  },
  {
   "id": "event_2177_0155F",
@@ -1227,8 +1227,8 @@
    31747
   ],
   "jp": "メデューテさんなら{n}どんな木の実だか知っているかも。{n}あとで聞いてみましょう。",
-  "en": "",
-  "status": ""
+  "en": "Medoute-san might know what kind they are. I will ask her later.",
+  "status": "done"
  },
  {
   "id": "event_2177_015AC",
@@ -1240,8 +1240,8 @@
    31835
   ],
   "jp": "木の実、ごろごろ落ちとるな…",
-  "en": "",
-  "status": ""
+  "en": "Nuts, rolling all over the place...",
+  "status": "done"
  },
  {
   "id": "event_2177_015C9",
@@ -1253,8 +1253,8 @@
    31921
   ],
   "jp": "バイフー、木の実拾う。{n}着の身着のまま、拾う。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Byff picks up nuts. Byff is dressed in a nutshell. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2177_01606",
@@ -1266,8 +1266,8 @@
    31939
   ],
   "jp": "でもバイフー服まともに着てない。{n}着の身着のまま木の実拾えない！{n}これは、悔しいッ②",
-  "en": "",
-  "status": ""
+  "en": "But Byff hardly wears clothes. Byff can not be dressed in a nutshell! This is frustrating!",
+  "status": "done"
  },
  {
   "id": "event_2177_01659",
@@ -1279,8 +1279,8 @@
    32556
   ],
   "jp": "あら、木の実じゃない。{n}確かこれ、栄養があるのよね…",
-  "en": "",
-  "status": ""
+  "en": "Oh, nuts. I think these are nutritious...",
+  "status": "done"
  },
  {
   "id": "event_2177_0168D",
@@ -1292,8 +1292,8 @@
    32642
   ],
   "jp": "いくつか拾っておきましょう。",
-  "en": "",
-  "status": ""
+  "en": "Let's pick up a few.",
+  "status": "done"
  },
  {
   "id": "event_2177_016AA",
@@ -1305,8 +1305,8 @@
    32027
   ],
   "jp": "ん？　この木の実って確か…",
-  "en": "",
-  "status": ""
+  "en": "Hm? These nuts are...",
+  "status": "done"
  },
  {
   "id": "event_2177_016C5",
@@ -1318,8 +1318,8 @@
    32113
   ],
   "jp": "やっぱりね、『ペペスの実』だ。{n}ウマイんだぜ、この木の実！",
-  "en": "",
-  "status": ""
+  "en": "I knew it, 'Pepes Nuts'. These things are tasty!",
+  "status": "done"
  },
  {
   "id": "event_2177_016FF",
@@ -1331,8 +1331,8 @@
    32375
   ],
   "jp": "うぃ～っく。{n}…イタッ！{n}頭の上に何か降ってきた…",
-  "en": "",
-  "status": ""
+  "en": "Ooh~. ...Ow! Somethin' fell on my head...",
+  "status": "done"
  },
  {
   "id": "event_2177_01730",
@@ -1344,8 +1344,8 @@
    32461
   ],
   "jp": "なんだ、木の実か…{n}あたし海住まいだったから、{n}あまり陸上食好きじゃないのよね。",
-  "en": "",
-  "status": ""
+  "en": "What, a nut... I lived in the sea, so I ain't too fond of land food.",
+  "status": "done"
  },
  {
   "id": "event_2177_0177F",
@@ -1357,8 +1357,8 @@
    32468
   ],
   "jp": "まあでも、他の連中は好きかも{n}しれないし、持って帰るかぁ…{n}ヒック②",
-  "en": "",
-  "status": ""
+  "en": "Well, the others might like 'em, so guess I'll bring 'em back... *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2177_017C2",
@@ -1370,8 +1370,8 @@
    32201
   ],
   "jp": "木の実がゴロゴロ転がってるわ。{n}…おいしいのかしら？",
-  "en": "",
-  "status": ""
+  "en": "Nuts rolling all around. ...Are they tasty?",
+  "status": "done"
  },
  {
   "id": "event_2177_017F6",
@@ -1383,8 +1383,8 @@
    32287
   ],
   "jp": "うほっ！{n}これ、全然イケるじゃない！{n}お持ち帰りしちゃいましょ②",
-  "en": "",
-  "status": ""
+  "en": "Ooh! These are totally good! Pamela-sama's taking some home!",
+  "status": "done"
  },
  {
   "id": "event_2177_01835",
@@ -1396,8 +1396,8 @@
    32730
   ],
   "jp": "…おや？{n}足元に転がっているのは、{n}ふむ、木の実ですか。",
-  "en": "",
-  "status": ""
+  "en": "...Oh? Rolling at my feet, I see, are nuts.",
+  "status": "done"
  },
  {
   "id": "event_2177_0186C",
@@ -1409,8 +1409,8 @@
    32816
   ],
   "jp": "確か、滋養強壮の効果がある{n}『ペペスの実』ですね。{n}いただいておきましょうか。",
-  "en": "",
-  "status": ""
+  "en": "'Pepes Nuts', I believe, known for their nourishing effects. I shall take them.",
+  "status": "done"
  },
  {
   "id": "event_2177_018B9",
@@ -1422,8 +1422,8 @@
    33092
   ],
   "jp": "あらあら…{n}これが地上の木の実ですか？",
-  "en": "",
-  "status": ""
+  "en": "Oh my... So these are the nuts of the earth?",
+  "status": "done"
  },
  {
   "id": "event_2177_018DF",
@@ -1435,8 +1435,8 @@
    33178
   ],
   "jp": "…粒が小さいんですのね。{n}でも、大きさと味は直結しません。{n}食べたらおいしいかも、ですわ。",
-  "en": "",
-  "status": ""
+  "en": "...Their grains are small. But size has no bearing on flavor. They might well taste good.",
+  "status": "done"
  },
  {
   "id": "event_2177_01938",
@@ -1448,8 +1448,8 @@
    33266
   ],
   "jp": "ん～？{n}これ、木の実じゃねぇか。{n}喰えんのか？",
-  "en": "",
-  "status": ""
+  "en": "Hm~? These are nuts, aren't they? Can you eat 'em?",
+  "status": "done"
  },
  {
   "id": "event_2177_01965",
@@ -1461,8 +1461,8 @@
    33352
   ],
   "jp": "どれ、一口。ムグムグ…{n}うっ②{n}…ううっ、うっ……",
-  "en": "",
-  "status": ""
+  "en": "Lemme try one. Munch, munch... Ugh! ...Ugh, ugh...",
+  "status": "done"
  },
  {
   "id": "event_2177_01996",
@@ -1474,8 +1474,8 @@
    33370
   ],
   "jp": "うまいッ②",
-  "en": "",
-  "status": ""
+  "en": "Delicious!",
+  "status": "done"
  },
  {
   "id": "event_2177_019A1",
@@ -1487,8 +1487,8 @@
    32904
   ],
   "jp": "木の実だな。{n}食用にも耐え得るものだったハズ。",
-  "en": "",
-  "status": ""
+  "en": "Nuts. They should be fit for eating.",
+  "status": "done"
  },
  {
   "id": "event_2177_019CF",
@@ -1500,8 +1500,8 @@
    32990
   ],
   "jp": "拾得しておこう。",
-  "en": "",
-  "status": ""
+  "en": "I will collect them.",
+  "status": "done"
  },
  {
   "id": "event_2177_019E0",
@@ -1513,8 +1513,8 @@
    33519
   ],
   "jp": "ん？　あそこの岩に、{n}何かぶらさがっているな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? There's something hanging on that rock over there...",
+  "status": "done"
  },
  {
   "id": "event_2177_01A0E",
@@ -1526,8 +1526,8 @@
    33605
   ],
   "jp": "ロザリオだ…{n}けど、なんであんな場所に？",
-  "en": "",
-  "status": ""
+  "en": "A rosary... But why's it way up there?",
+  "status": "done"
  },
  {
   "id": "event_2177_01A36",
@@ -1539,8 +1539,8 @@
    33730
   ],
   "jp": "岩の鼻先で何かが光ったわね。{n}何かしら…",
-  "en": "",
-  "status": ""
+  "en": "Something glinted on the tip of that rock. I wonder what...",
+  "status": "done"
  },
  {
   "id": "event_2177_01A5E",
@@ -1552,8 +1552,8 @@
    33816
   ],
   "jp": "十字架のアクセサリだわ。{n}誰かの忘れ物かしら？",
-  "en": "",
-  "status": ""
+  "en": "It's a cross charm. Did someone leave it behind?",
+  "status": "done"
  },
  {
   "id": "event_2177_01A8C",
@@ -1565,8 +1565,8 @@
    33941
   ],
   "jp": "おや、なんだろう？{n}岩の先端あたりで、{n}光が照ったように見えたけど…",
-  "en": "",
-  "status": ""
+  "en": "Oh, what's this? I thought I saw a light flash at the tip of the rock...",
+  "status": "done"
  },
  {
   "id": "event_2177_01ACF",
@@ -1578,8 +1578,8 @@
    34027
   ],
   "jp": "このロザリオか。{n}ボロボロだけど、元々は結構な{n}高級品じゃないのかな？",
-  "en": "",
-  "status": ""
+  "en": "This rosary, then. It's in tatters, but I'd bet it was quite the luxury item once.",
+  "status": "done"
  },
  {
   "id": "event_2177_01B14",
@@ -1591,8 +1591,8 @@
    34152
   ],
   "jp": "あの岩の鼻先…{n}何か、ぶら下がっていないか？",
-  "en": "",
-  "status": ""
+  "en": "The tip of that rock... Isn't something hanging there?",
+  "status": "done"
  },
  {
   "id": "event_2177_01B40",
@@ -1604,8 +1604,8 @@
    34238
   ],
   "jp": "十字のアクセサリ、か。{n}年代物のようだが…",
-  "en": "",
-  "status": ""
+  "en": "A cross charm, huh. Looks old...",
+  "status": "done"
  },
  {
   "id": "event_2177_01B6A",
@@ -1617,8 +1617,8 @@
    34363
   ],
   "jp": "………？{n}岩の先端で、何か光りましたね。{n}一体なんでしょう…",
-  "en": "",
-  "status": ""
+  "en": ".........? Something glinted at the tip of the rock. What might it be...",
+  "status": "done"
  },
  {
   "id": "event_2177_01BA5",
@@ -1630,8 +1630,8 @@
    34449
   ],
   "jp": "ロザリオですね…{n}何かの、祈りなのでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "A rosary... Was it left as some kind of prayer?",
+  "status": "done"
  },
  {
   "id": "event_2177_01BD3",
@@ -1643,8 +1643,8 @@
    34574
   ],
   "jp": "お？　何か光ったな…{n}行ってみよう！",
-  "en": "",
-  "status": ""
+  "en": "Oh? Something glinted... Byff will go see!",
+  "status": "done"
  },
  {
   "id": "event_2177_01BF7",
@@ -1656,8 +1656,8 @@
    34660
   ],
   "jp": "十字架のアクセだ！{n}ん、早いな。もう１０時か…{n}なーんつって②",
-  "en": "",
-  "status": ""
+  "en": "A cross charm! Hm, no need to get cross. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2177_01C34",
@@ -1669,8 +1669,8 @@
    35418
   ],
   "jp": "なにかしら。{n}岩山の鼻先に、何かあるわね…",
-  "en": "",
-  "status": ""
+  "en": "What's that? There's something on the tip of the rocky mountain...",
+  "status": "done"
  },
  {
   "id": "event_2177_01C5E",
@@ -1682,8 +1682,8 @@
    35504
   ],
   "jp": "…一見ボロっちいロザリオだけど、{n}モノ自体はとてもキレイね。{n}一体、なんなのかしら…",
-  "en": "",
-  "status": ""
+  "en": "...A shabby-looking rosary at first glance, but the thing itself is quite lovely. What is it, I wonder...",
+  "status": "done"
  },
  {
   "id": "event_2177_01CB1",
@@ -1695,8 +1695,8 @@
    34785
   ],
   "jp": "お？　あそこ、何か光ったぜ！",
-  "en": "",
-  "status": ""
+  "en": "Oh? Something glinted over there!",
+  "status": "done"
  },
  {
   "id": "event_2177_01CCE",
@@ -1708,8 +1708,8 @@
    34871
   ],
   "jp": "十字架のアクセサリだ！{n}…でも、ちょっとボロっちいな。{n}値打ちはつかないかもな～。",
-  "en": "",
-  "status": ""
+  "en": "A cross charm! ...But it's kinda shabby. Might not fetch much~.",
+  "status": "done"
  },
  {
   "id": "event_2177_01D1F",
@@ -1721,8 +1721,8 @@
    35207
   ],
   "jp": "ウィ～ック…{n}ん？　なんか、ぶら下がってるわ。{n}ほれ、あそこよ、あそこ。",
-  "en": "",
-  "status": ""
+  "en": "Ooh~... Hm? Somethin's hangin' there. Lookit, over there, there.",
+  "status": "done"
  },
  {
   "id": "event_2177_01D66",
@@ -1734,8 +1734,8 @@
    35293
   ],
   "jp": "十字架のアクセサリね…{n}信心深い人には大切だけど、{n}あっしには価値がわかんないわね。",
-  "en": "",
-  "status": ""
+  "en": "A cross charm... Means a lot to the faithful, but I can't tell what it's worth, y'hear.",
+  "status": "done"
  },
  {
   "id": "event_2177_01DB9",
@@ -1747,8 +1747,8 @@
    34996
   ],
   "jp": "うほっ②{n}なんかあそこ、超光ってるわよ！{n}早速調べてくるわッ②",
-  "en": "",
-  "status": ""
+  "en": "Ooh! Something over there's super shiny! Pamela-sama's checking it out right now!",
+  "status": "done"
  },
  {
   "id": "event_2177_01DF6",
@@ -1760,8 +1760,8 @@
    35082
   ],
   "jp": "古ぼけたロザリオねぇ。{n}…年季は入ってるけど、{n}こめられた祈りは本物だわさ…",
-  "en": "",
-  "status": ""
+  "en": "A worn-out old rosary, huh. ...It's seen a lot of years, but the prayer in it is real, y'know...",
+  "status": "done"
  },
  {
   "id": "event_2177_01E41",
@@ -1773,8 +1773,8 @@
    35629
   ],
   "jp": "おや？{n}あそこにぶら下がっているのは…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What is that hanging there...",
+  "status": "done"
  },
  {
   "id": "event_2177_01E67",
@@ -1786,8 +1786,8 @@
    35715
   ],
   "jp": "強い祈りが込められていますね。{n}一体、どちら様のもの{n}なのでしょうね？",
-  "en": "",
-  "status": ""
+  "en": "A strong prayer has been placed in this. I wonder whose it might be?",
+  "status": "done"
  },
  {
   "id": "event_2177_01EAC",
@@ -1799,8 +1799,8 @@
    36065
   ],
   "jp": "あらまぁ。{n}あの岩の鼻先に見えるのは…",
-  "en": "",
-  "status": ""
+  "en": "My goodness. What I see at the tip of that rock...",
+  "status": "done"
  },
  {
   "id": "event_2177_01ED2",
@@ -1812,8 +1812,8 @@
    36151
   ],
   "jp": "すごい…{n}切実な祈りの力を感じますわ。{n}信心深い方の持ち物だったのね。",
-  "en": "",
-  "status": ""
+  "en": "Amazing... I feel the power of an earnest prayer. It must have belonged to someone devout.",
+  "status": "done"
  },
  {
   "id": "event_2177_01F17",
@@ -1825,8 +1825,8 @@
    36276
   ],
   "jp": "ん～？{n}なんかピカッと光ったぜ、{n}ピカッとよ！",
-  "en": "",
-  "status": ""
+  "en": "Hm~? Something flashed, a real flash!",
+  "status": "done"
  },
  {
   "id": "event_2177_01F44",
@@ -1838,8 +1838,8 @@
    36362
   ],
   "jp": "コイツが光の正体だぜ。{n}へっ、可愛らしいじゃないか。{n}なぁ？　そう思うだろ？",
-  "en": "",
-  "status": ""
+  "en": "So this is what was shining. Heh, kinda cute. Right? Don't you think so?",
+  "status": "done"
  },
  {
   "id": "event_2177_01F8F",
@@ -1851,8 +1851,8 @@
    35840
   ],
   "jp": "む？{n}あそこにあるのは…",
-  "en": "",
-  "status": ""
+  "en": "Hm? What is that there...",
+  "status": "done"
  },
  {
   "id": "event_2177_01FA7",
@@ -1864,8 +1864,8 @@
    35926
   ],
   "jp": "十字架のアクセサリか。{n}…年代物だな。",
-  "en": "",
-  "status": ""
+  "en": "A cross charm. ...It is old.",
+  "status": "done"
  },
  {
   "id": "event_2177_01FCD",
@@ -1876,8 +1876,8 @@
    10064
   ],
   "jp": "部隊の維持も限界だ…！",
-  "en": "",
-  "status": ""
+  "en": "I can't keep the unit together any longer...!",
+  "status": "done"
  },
  {
   "id": "event_2177_01FE4",
@@ -1888,8 +1888,8 @@
    10082
   ],
   "jp": "赤髪！　この勝負、預けるぜ！{n}いつか殺してやるからなッ②",
-  "en": "",
-  "status": ""
+  "en": "Redhead! We'll finish this another day! I'll kill you someday!",
+  "status": "done"
  },
  {
   "id": "event_2177_020AA",
@@ -1912,8 +1912,8 @@
    8434
   ],
   "jp": "パンドラ反乱本隊",
-  "en": "",
-  "status": ""
+  "en": "Pandra Main",
+  "status": "done"
  },
  {
   "id": "event_2177_021C1",
@@ -1948,8 +1948,8 @@
    55721
   ],
   "jp": "{voice:00120B}くそっ、何故だ？{n}どうして計画通りにいかない③",
-  "en": "",
-  "status": ""
+  "en": "Damn it, why? Why doesn't anything go according to plan?!",
+  "status": "done"
  },
  {
   "id": "event_2177_09DE2",
@@ -1960,8 +1960,8 @@
    55739
   ],
   "jp": "{voice:00130B}おい、お前達！{n}シャーミネルを帝国の圧政から{n}守り抜くんだ！",
-  "en": "",
-  "status": ""
+  "en": "Hey, you lot! Defend Sharminel from the Empire's tyranny to the end!",
+  "status": "done"
  },
  {
   "id": "event_2177_09E21",
@@ -1972,8 +1972,8 @@
    55746
   ],
   "jp": "{voice:00140B}いいな、気合い入れろ！{n}死守するんだ②",
-  "en": "",
-  "status": ""
+  "en": "Understand? Get fired up! Hold this place to the death!",
+  "status": "done"
  },
  {
   "id": "event_2177_09E4B",
@@ -1984,8 +1984,8 @@
    55767
   ],
   "jp": "{voice:00150B}おおーっ②",
-  "en": "",
-  "status": ""
+  "en": "Yeah!",
+  "status": "done"
  },
  {
   "id": "event_2177_09E5A",
@@ -1996,8 +1996,8 @@
    55788
   ],
   "jp": "{voice:00160B}（とはいえ、奴らの勢いは{n}　簡単には止まらないだろう…{n}　退路は確保しておくか。）",
-  "en": "",
-  "status": ""
+  "en": "(Though those guys won't be easy to stop, not with that momentum... Better secure a way out.)",
+  "status": "done"
  },
  {
   "id": "event_2177_09EAF",
@@ -2008,8 +2008,8 @@
    81210
   ],
   "jp": "{voice:00170B}熱っ！{n}すごい熱気。何かあるのかしら？",
-  "en": "",
-  "status": ""
+  "en": "Hot! So much heat. Is there something here?",
+  "status": "done"
  },
  {
   "id": "event_2177_09ED9",
@@ -2020,8 +2020,8 @@
    81228
   ],
   "jp": "{voice:00180B}…ひょっとして{n}シャーミネル名物の温泉？{n}これが全部天然のお湯なの③",
-  "en": "",
-  "status": ""
+  "en": "...Could this be Sharminel's famous hot spring? All this is natural hot water?!",
+  "status": "done"
  },
  {
   "id": "event_2177_09F20",
@@ -2032,8 +2032,8 @@
    81246
   ],
   "jp": "{voice:00190B}うーん、浸かっていきたいなぁ。{n}けどさ、戦闘中だしなぁ……",
-  "en": "",
-  "status": ""
+  "en": "Mmm, I want to soak in it. But we're in the middle of a battle...",
+  "status": "done"
  },
  {
   "id": "event_2177_09F5E",
@@ -2056,8 +2056,8 @@
    81271
   ],
   "jp": "{voice:001A0B}…誰も見てないし、{n}ちょっとだけ入っちゃおうっと！",
-  "en": "",
-  "status": ""
+  "en": "...Nobody's looking, so just a quick dip!",
+  "status": "done"
  },
  {
   "id": "event_2177_09F9F",
@@ -2068,8 +2068,8 @@
    81527
   ],
   "jp": "{voice:001B0B}あーっ、気持ちいいッ！{n}なんか、身体が熱くなってきた。{n}ふー…",
-  "en": "",
-  "status": ""
+  "en": "Aah, that feels great! I'm getting nice and warm. Phew...",
+  "status": "done"
  },
  {
   "id": "event_2177_09FE0",
@@ -2080,8 +2080,8 @@
    81534
   ],
   "jp": "{voice:001C0B}ふふ。みんなには悪いけど、{n}１人だけ贅沢するのって{n}最高に楽しい！　クセになりそう。",
-  "en": "",
-  "status": ""
+  "en": "Hee hee. Sorry, everyone, but treating myself all alone is the best! I could get used to this.",
+  "status": "done"
  },
  {
   "id": "event_2177_0A037",
@@ -2092,8 +2092,8 @@
    81552
   ],
   "jp": "{voice:001D0B}…うおおおっ！{n}なんて手強い連中だ…②{n}誰か、手を貸せぇ！",
-  "en": "",
-  "status": ""
+  "en": "...Whoooa! These guys are tough...! Somebody, give me a hand!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A074",
@@ -2116,8 +2116,8 @@
    81577
   ],
   "jp": "{voice:001E0B}そろそろ上がっておこう、っと…",
-  "en": "",
-  "status": ""
+  "en": "Guess I'd better get out now...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A0A2",
@@ -2128,8 +2128,8 @@
    82315
   ],
   "jp": "{voice:001F0B}これって、噂に聞いた温泉かな？{n}気持ちいいらしいけど……",
-  "en": "",
-  "status": ""
+  "en": "Is this that hot spring I've heard so much about? They say it feels good...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A0DE",
@@ -2140,8 +2140,8 @@
    82333
   ],
   "jp": "{voice:00200B}いや、待った待った。{n}みんな必死になって戦ってるのよ。{n}あたしだけ、こんな極楽気分を…",
-  "en": "",
-  "status": ""
+  "en": "No, wait, wait. Everyone's fighting for their lives. How could I, of all people, enjoy such bliss...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A137",
@@ -2164,8 +2164,8 @@
    82362
   ],
   "jp": "{voice:00210B}…すぐ入って、すぐに出れば、{n}多分バレないわよね。{n}それなら……",
-  "en": "",
-  "status": ""
+  "en": "...In quick, out quick, and probably no one finds out. In that case...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A185",
@@ -2176,8 +2176,8 @@
    82622
   ],
   "jp": "{voice:00220B}…ああん、肌に優しい。{n}まるで全身を愛撫されているよう…",
-  "en": "",
-  "status": ""
+  "en": "...Aah, this is so gentle on the skin. Like getting a massage all over...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A1C1",
@@ -2188,8 +2188,8 @@
    82629
   ],
   "jp": "{voice:00230B}いいわ、{n}身体が、芯から火照ってくる……",
-  "en": "",
-  "status": ""
+  "en": "Nice. I'm warming up, right down to my core...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A1ED",
@@ -2200,8 +2200,8 @@
    82651
   ],
   "jp": "{voice:001D0B}…うおおおっ！{n}なんて手強い連中だ…②{n}誰か、手を貸せぇ！",
-  "en": "",
-  "status": ""
+  "en": "...Whoooa! These guys are tough...! Somebody, give me a hand!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A22A",
@@ -2224,8 +2224,8 @@
    82680
   ],
   "jp": "{voice:00240B}さすがにそろそろ戻らないと……",
-  "en": "",
-  "status": ""
+  "en": "I really should get back now...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A258",
@@ -2236,8 +2236,8 @@
    83223
   ],
   "jp": "{voice:00250B}…すごい湯気。{n}これがシャーミネル名物温泉！",
-  "en": "",
-  "status": ""
+  "en": "...So much steam. This must be Sharminel's famous hot spring!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A288",
@@ -2248,8 +2248,8 @@
    83241
   ],
   "jp": "{voice:00260B}一度入ってみたいですけど…{n}みなさんが戦っている時に、{n}そんな事できるはずが…",
-  "en": "",
-  "status": ""
+  "en": "I would love to try it once... But I could never, while everyone is fighting...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A2D9",
@@ -2260,8 +2260,8 @@
    83372
   ],
   "jp": "{voice:00270B}あら？　アイギナじゃない！{n}ちょうどよかった、{n}一緒に入りましょうよ～。",
-  "en": "",
-  "status": ""
+  "en": "Oh? If it isn't Aegina! Perfect timing, let's get in together~.",
+  "status": "done"
  },
  {
   "id": "event_2177_0A324",
@@ -2272,8 +2272,8 @@
    83390
   ],
   "jp": "{voice:00280B}ね、姉さん？{n}どうしてここに…{n}きゃあっ②",
-  "en": "",
-  "status": ""
+  "en": "S-sister? Why are you here... Eek!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A351",
@@ -2284,8 +2284,8 @@
    83653
   ],
   "jp": "{voice:00290B}どうしてここに、って…{n}可愛い妹と温泉に入りたいからに{n}決まっているじゃない！",
-  "en": "",
-  "status": ""
+  "en": "Why am I here? Why, to take a hot spring with my darling sister, of course!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A3A2",
@@ -2296,8 +2296,8 @@
    83671
   ],
   "jp": "{voice:002A0B}そ、そうではなくて…{n}邸宅で留守番をしていたはずじゃ{n}なかったんですか？",
-  "en": "",
-  "status": ""
+  "en": "Th-that is not what I meant... Were you not supposed to be minding the house?",
+  "status": "done"
  },
  {
   "id": "event_2177_0A3ED",
@@ -2308,8 +2308,8 @@
    83689
   ],
   "jp": "{voice:002B0B}脚のケガにいいらしいのよ、{n}ここの温泉。それで、つい、ね。{n}あぁ、きもちいい……",
-  "en": "",
-  "status": ""
+  "en": "The hot spring here is said to be good for leg injuries. So, well, you know. Aah, so nice...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A440",
@@ -2320,8 +2320,8 @@
    83707
   ],
   "jp": "{voice:002C0B}つい、じゃありませんよ②{n}一体どうやって遠路はるばる…",
-  "en": "",
-  "status": ""
+  "en": "'Well, you know' is no answer! How did you come all this way...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A47A",
@@ -2332,8 +2332,8 @@
    83714
   ],
   "jp": "{voice:002D0B}脚だってケガしてるのに…{n}あっ！　そんなところ、ああっ……",
-  "en": "",
-  "status": ""
+  "en": "With your injured leg as well... Oh! Careful, that stone is slippery...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A4B8",
@@ -2344,8 +2344,8 @@
    83732
   ],
   "jp": "{voice:002E0B}…ねぇ、アイギナ。あなたの、{n}私より大きいんじゃないの？",
-  "en": "",
-  "status": ""
+  "en": "...Say, Aegina. Isn't the stone you found bigger than mine?",
+  "status": "done"
  },
  {
   "id": "event_2177_0A4F4",
@@ -2356,8 +2356,8 @@
    83750
   ],
   "jp": "{voice:002F0B}あん、いや……{n}形は姉さんの方が……",
-  "en": "",
-  "status": ""
+  "en": "Oh, no... Your stone has the better shape, Sister...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A51C",
@@ -2368,8 +2368,8 @@
    83772
   ],
   "jp": "{voice:00300B}アイギナが見つけた石の方が{n}カッコよくていいわよー。{n}でもなんでお湯の中に石が…",
-  "en": "",
-  "status": ""
+  "en": "The stone you found is way cooler, Aegina. But why are there stones in the hot water...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A56F",
@@ -2380,8 +2380,8 @@
    83790
   ],
   "jp": "{voice:00310B}本当ですよ。{n}紛らわしいにも程があります…",
-  "en": "",
-  "status": ""
+  "en": "Why indeed. It is terribly confusing...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A59D",
@@ -2392,8 +2392,8 @@
    83808
   ],
   "jp": "{voice:001D0B}…うおおおっ！{n}なんて手強い連中だ…②{n}誰か、手を貸せぇ！",
-  "en": "",
-  "status": ""
+  "en": "...Whoooa! These guys are tough...! Somebody, give me a hand!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A5DA",
@@ -2404,8 +2404,8 @@
    83826
   ],
   "jp": "{voice:00320B}…って、いけない！{n}早く戻らないと②",
-  "en": "",
-  "status": ""
+  "en": "...Oh no, what am I doing! I have to hurry back!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A602",
@@ -2416,8 +2416,8 @@
    85723
   ],
   "jp": "{voice:00330B}…あらあら。ここが{n}シャーミネル名物の温泉かしら？",
-  "en": "",
-  "status": ""
+  "en": "...My, my. Could this be Sharminel's famous hot spring?",
+  "status": "done"
  },
  {
   "id": "event_2177_0A638",
@@ -2428,8 +2428,8 @@
    85741
   ],
   "jp": "{voice:00340B}神界でも噂に聞くほどですもの、{n}きっと言葉以上に気持ちのよい{n}体験を与えてくれそうね。",
-  "en": "",
-  "status": ""
+  "en": "Even the divine realm has heard rumors of it, so it must feel better than words can say.",
+  "status": "done"
  },
  {
   "id": "event_2177_0A691",
@@ -2440,8 +2440,8 @@
    85997
   ],
   "jp": "{voice:00350B}いいお湯でしたけど、{n}６３点というところかしら？",
-  "en": "",
-  "status": ""
+  "en": "A fine bath, but I would call it 63 points.",
+  "status": "done"
  },
  {
   "id": "event_2177_0A6C5",
@@ -2452,8 +2452,8 @@
    86004
   ],
   "jp": "{voice:00360B}あぁ…、でも身体が火照って、{n}なんだか変な気分……",
-  "en": "",
-  "status": ""
+  "en": "Aah... But I feel so warm, and rather light-headed...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A6FB",
@@ -2464,8 +2464,8 @@
    86011
   ],
   "jp": "{voice:00370B}素敵な殿方に、覗いて貰いたい{n}そんな気分だわ。",
-  "en": "",
-  "status": ""
+  "en": "I feel like singing for some splendid gentleman.",
+  "status": "done"
  },
  {
   "id": "event_2177_0A72D",
@@ -2476,8 +2476,8 @@
    86018
   ],
   "jp": "{voice:00380B}はぁ、んふっ…、あぁっ！{n}い、痛いぃ！",
-  "en": "",
-  "status": ""
+  "en": "Haah... Ah... Ah! O-ow!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A757",
@@ -2488,8 +2488,8 @@
    86029
   ],
   "jp": "{voice:00390B}岩で足の小指を、{n}打ってしまいましたわ……",
-  "en": "",
-  "status": ""
+  "en": "I stubbed my little toe on a rock...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A785",
@@ -2500,8 +2500,8 @@
    86551
   ],
   "jp": "{voice:003A0B}…あらあら。ここが{n}シャーミネル名物の温泉かしら？",
-  "en": "",
-  "status": ""
+  "en": "...My, my. Could this be Sharminel's famous hot spring?",
+  "status": "done"
  },
  {
   "id": "event_2177_0A7BB",
@@ -2512,8 +2512,8 @@
    86569
   ],
   "jp": "{voice:003B0B}身も心も生まれたままに{n}なって、天の恵みを味わい{n}ましょう……",
-  "en": "",
-  "status": ""
+  "en": "Let us cast aside all cares and savor Heaven's blessing...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A7FC",
@@ -2524,8 +2524,8 @@
    86825
   ],
   "jp": "{voice:003C0B}期待したか？{n}バーカ、今はオレは男だっつーの。{n}ざーんねん。",
-  "en": "",
-  "status": ""
+  "en": "Expecting something? Idiot, I'm a guy right now. Too bad.",
+  "status": "done"
  },
  {
   "id": "event_2177_0A83B",
@@ -2536,8 +2536,8 @@
    86832
   ],
   "jp": "{voice:003D0B}まぁな、しかしよ、{n}見る人によってはサービス{n}なんだぜ、これもよ、な？",
-  "en": "",
-  "status": ""
+  "en": "Well, hey, for some folks even that's a treat, right?",
+  "status": "done"
  },
  {
   "id": "event_2177_0A884",
@@ -2548,8 +2548,8 @@
    86839
   ],
   "jp": "{voice:003E0B}っていうか、オレ、{n}誰に喋ってんだろうな……",
-  "en": "",
-  "status": ""
+  "en": "Then again, who am I even talking to...",
+  "status": "done"
  },
  {
   "id": "event_2177_0A8B4",
@@ -2560,8 +2560,8 @@
    96121
   ],
   "jp": "{voice:003F0B}ぐうっ…！　手負ったか②",
-  "en": "",
-  "status": ""
+  "en": "Ugh...! I've been hit!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A8D1",
@@ -2572,8 +2572,8 @@
    96289
   ],
   "jp": "{voice:00400B}大人しく縄につくんだな。{n}この山奥じゃ、逃げ切れないぜ！",
-  "en": "",
-  "status": ""
+  "en": "Give yourself up quietly. You'll never get away in these mountains!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A90D",
@@ -2584,8 +2584,8 @@
    96296
   ],
   "jp": "{voice:00410B}ヴェルマンとの交渉次第では{n}お前にも生きる道はあるぞ。{n}よく考えろ！",
-  "en": "",
-  "status": ""
+  "en": "If I talk to Velleman, there might be a way for you to live. Think it over!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A954",
@@ -2596,8 +2596,8 @@
    96314
   ],
   "jp": "{voice:00420B}冗談じゃねぇ……{n}もう帝国に振り回されるのは{n}まっぴらゴメンだぜ！",
-  "en": "",
-  "status": ""
+  "en": "Not a chance... I've had enough of being jerked around by the Empire!",
+  "status": "done"
  },
  {
   "id": "event_2177_0A999",
@@ -2608,8 +2608,8 @@
    96332
   ],
   "jp": "{voice:00430B}帝国に振り回される？{n}どういう事だ？",
-  "en": "",
-  "status": ""
+  "en": "Jerked around by the Empire? What do you mean?",
+  "status": "done"
  },
  {
   "id": "event_2177_0A9C1",
@@ -2620,8 +2620,8 @@
    96380
   ],
   "jp": "{voice:00440B}…かつて俺は徴兵にとられ、{n}腕っぷしだけで軍功を挙げた。",
-  "en": "",
-  "status": ""
+  "en": "...I was drafted once, and earned my honors on muscle alone.",
+  "status": "done"
  },
  {
   "id": "event_2177_0A9FD",
@@ -2632,8 +2632,8 @@
    96387
   ],
   "jp": "{voice:00450B}だが皇帝が代わった。{n}それが先帝…、{n}つまりソルティエの弟だ。",
-  "en": "",
-  "status": ""
+  "en": "But the Emperor changed. That was the last emperor... Soltier's younger brother.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AA3E",
@@ -2644,8 +2644,8 @@
    96405
   ],
   "jp": "{voice:00460B}ソルティエの弟？",
-  "en": "",
-  "status": ""
+  "en": "Soltier's younger brother?",
+  "status": "done"
  },
  {
   "id": "event_2177_0AA53",
@@ -2656,8 +2656,8 @@
    96423
   ],
   "jp": "{voice:00470B}先帝は軍縮を掲げて、{n}軍を解体し帰農令を出した。{n}俺はお払い箱だ。",
-  "en": "",
-  "status": ""
+  "en": "The last emperor cut the army, broke it up, and ordered men back to the farms. I got the boot.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AA98",
@@ -2668,8 +2668,8 @@
    96430
   ],
   "jp": "{voice:00480B}だがソルティエの代になって、{n}また軍拡の動きが出ている……{n}重くなる徴税が何よりの証拠だ。",
-  "en": "",
-  "status": ""
+  "en": "But under Soltier, they're building the army up again... Heavier taxes prove it, more than anything.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AAF5",
@@ -2680,8 +2680,8 @@
    96448
   ],
   "jp": "{voice:00490B}徴兵だの帰農だの…{n}二転三転する国の政策に{n}いい加減愛想が尽きたんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Draft them, send them home... I got sick of the country's policy flip-flopping back and forth!",
+  "status": "done"
  },
  {
   "id": "event_2177_0AB40",
@@ -2692,8 +2692,8 @@
    96503
   ],
   "jp": "{voice:004A0B}パンドラ様！{n}退却準備、整いました！",
-  "en": "",
-  "status": ""
+  "en": "Pandra-sama! The retreat is ready!",
+  "status": "done"
  },
  {
   "id": "event_2177_0AB68",
@@ -2704,8 +2704,8 @@
    96521
   ],
   "jp": "{voice:004B0B}逃げる？　どうやって？{n}ん、あれは船？{n}まさか川を使って逃げる気か！",
-  "en": "",
-  "status": ""
+  "en": "Escape? How? Hm, is that a boat? Don't tell me you're escaping by river!",
+  "status": "done"
  },
  {
   "id": "event_2177_0ABAF",
@@ -2716,8 +2716,8 @@
    96539
   ],
   "jp": "{voice:004C0B}ははははは②{n}つまらん話に耳を傾けるからだ！{n}お前は隙が多い！",
-  "en": "",
-  "status": ""
+  "en": "Ha ha ha ha! That's what you get for listening to my boring story! You've got too many openings!",
+  "status": "done"
  },
  {
   "id": "event_2177_0ABF0",
@@ -2728,8 +2728,8 @@
    96557
   ],
   "jp": "{voice:004D0B}待てパンドラ！　さっきの話は…",
-  "en": "",
-  "status": ""
+  "en": "Wait, Pandra! That story just now...",
+  "status": "done"
  },
  {
   "id": "event_2177_0AC13",
@@ -2740,8 +2740,8 @@
    96575
   ],
   "jp": "{voice:004E0B}嘘じゃない。{n}この国に守る価値などない…{n}それを守ろうとするお前もな！",
-  "en": "",
-  "status": ""
+  "en": "It's no lie. This country's not worth protecting... And neither are you, for trying to protect it!",
+  "status": "done"
  },
  {
   "id": "event_2177_0AC5C",
@@ -2752,8 +2752,8 @@
    96593
   ],
   "jp": "{voice:004F0B}違う！　俺が守りたいのは{n}国なんかじゃない。",
-  "en": "",
-  "status": ""
+  "en": "You're wrong! It's not the country I want to protect.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AC8C",
@@ -2764,8 +2764,8 @@
    96611
   ],
   "jp": "{voice:00500B}お前の意見などどうでもいい。{n}俺は壊してしまいたいのさ。{n}俺達のためにならない、この国を。",
-  "en": "",
-  "status": ""
+  "en": "I don't care what you think. I want to smash it. This country that does nothing for us.",
+  "status": "done"
  },
  {
   "id": "event_2177_0ACE9",
@@ -2776,8 +2776,8 @@
    96628
   ],
   "jp": "{voice:00510B}俺は、必ず再起してみせるぜ。{n}それじゃな、あばよ！",
-  "en": "",
-  "status": ""
+  "en": "I'll make a comeback, just you watch. So long, adios!",
+  "status": "done"
  },
  {
   "id": "event_2177_0AD1F",
@@ -2788,8 +2788,8 @@
    96854
   ],
   "jp": "{voice:00520B}あの野郎…、また逃げやがった！{n}ちっ、撤退するぞ②",
-  "en": "",
-  "status": ""
+  "en": "That bastard... He ran away again! Tch, we're pulling out!",
+  "status": "done"
  },
  {
   "id": "event_2177_0AD55",
@@ -2800,8 +2800,8 @@
    97155
   ],
   "jp": "{voice:00530B}あーぁ、行っちゃった…{n}逃げることにかけては{n}あの男、天才だね。",
-  "en": "",
-  "status": ""
+  "en": "Aah, he's gone... That guy's a genius at running away.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AD98",
@@ -2812,8 +2812,8 @@
    97173
   ],
   "jp": "{voice:00540B}パンドラ…、{n}アイツもある意味、被害者か……",
-  "en": "",
-  "status": ""
+  "en": "Pandra... I guess in a way, he's a victim too...",
+  "status": "done"
  },
  {
   "id": "event_2177_0ADC8",
@@ -2824,8 +2824,8 @@
    97191
   ],
   "jp": "{voice:00550B}そうかもね。{n}だけど、奴らが大義名分を傘に{n}掠奪を行っているのは事実だ。",
-  "en": "",
-  "status": ""
+  "en": "Maybe so. But it's a fact they're looting under the cover of a great cause.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AE13",
@@ -2836,8 +2836,8 @@
    97209
   ],
   "jp": "{voice:00560B}多分パンドラも、{n}どこかで腐ったんだ。",
-  "en": "",
-  "status": ""
+  "en": "I bet Pandra went rotten somewhere along the way.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AE3D",
@@ -2848,8 +2848,8 @@
    97216
   ],
   "jp": "{voice:00570B}駆け出しの頃は、僕らと変わらず{n}大志があったんだよ、きっと。",
-  "en": "",
-  "status": ""
+  "en": "When he was starting out, I'm sure he had big dreams, just like us.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AE7D",
@@ -2860,8 +2860,8 @@
    97234
   ],
   "jp": "{voice:00580B}そうかもしれないな。{n}意外に人望はあるみたいだしさ。",
-  "en": "",
-  "status": ""
+  "en": "Could be. He's got more followers than you'd expect.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AEB5",
@@ -2872,8 +2872,8 @@
    97310
   ],
   "jp": "{voice:00590B}とにかく、{n}シャーミネルを反乱軍から解放{n}するという目的は果たしました。",
-  "en": "",
-  "status": ""
+  "en": "In any case, we have achieved our goal of liberating Sharminel from the rebels.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AF00",
@@ -2884,8 +2884,8 @@
    97328
   ],
   "jp": "{voice:005A0B}治安回復まで、ここに残ると、{n}ヴェルマン方伯には{n}報告の使者を出しましょう。",
-  "en": "",
-  "status": ""
+  "en": "Let us send a messenger to Margrave Velleman, saying we will remain here until order is restored.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AF4F",
@@ -2896,8 +2896,8 @@
    97346
   ],
   "jp": "{voice:005B0B}ああ、そうだな……",
-  "en": "",
-  "status": ""
+  "en": "Yeah, right...",
+  "status": "done"
  },
  {
   "id": "event_2177_0AF66",
@@ -2908,8 +2908,8 @@
    97364
   ],
   "jp": "{voice:005C0B}やれやれ……",
-  "en": "",
-  "status": ""
+  "en": "Dear me...",
+  "status": "done"
  },
  {
   "id": "event_2177_0AF77",
@@ -2920,8 +2920,8 @@
    97382
   ],
   "jp": "{voice:005D0B}じゃあシスキアは{n}都市の情勢を確認して。{n}ジェノンは負傷兵の治療をお願い。",
-  "en": "",
-  "status": ""
+  "en": "Okay, Siskier, check on the city's situation. Jenon, please treat the wounded.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AFC4",
@@ -2932,8 +2932,8 @@
    97400
   ],
   "jp": "{voice:005E0B}分かったよ。",
-  "en": "",
-  "status": ""
+  "en": "Got it.",
+  "status": "done"
  },
  {
   "id": "event_2177_0AFD5",
@@ -2956,8 +2956,8 @@
    97484
   ],
   "jp": "{voice:005F0B}どうしたの、ガーロット？",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, Garlot?",
+  "status": "done"
  },
  {
   "id": "event_2177_0AFFD",
@@ -2968,8 +2968,8 @@
    97502
   ],
   "jp": "{voice:00600B}もっとパンドラと話をしたい。{n}そう思ったんだ。",
-  "en": "",
-  "status": ""
+  "en": "I wanted to talk more with Pandra. That's all.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B02F",
@@ -2980,8 +2980,8 @@
    97520
   ],
   "jp": "{voice:00610B}あいつは虚実をうまく使い分ける。{n}真に受けていると、騙されるよ。",
-  "en": "",
-  "status": ""
+  "en": "That one's good at mixing truth and lies. Take him at his word and you'll get fooled.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B073",
@@ -2992,8 +2992,8 @@
    97538
   ],
   "jp": "{voice:00620B}レオンとの会話を見ていれば{n}よくわかるでしょう？",
-  "en": "",
-  "status": ""
+  "en": "You could tell from how he talked with Leon, right?",
+  "status": "done"
  },
  {
   "id": "event_2177_0B0A7",
@@ -3004,8 +3004,8 @@
    97556
   ],
   "jp": "{voice:00630B}そうだな……",
-  "en": "",
-  "status": ""
+  "en": "Yeah...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B0B8",
@@ -3016,8 +3016,8 @@
    97574
   ],
   "jp": "{voice:00640B}ガーロット、君さ、{n}もっと自信を持った方がいいよ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, you know, you ought to have more confidence.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B0EE",
@@ -3028,8 +3028,8 @@
    97581
   ],
   "jp": "{voice:00650B}特に、他の兵の前で、{n}ああいう態度はやめなよ……{n}みんな不安になるから。",
-  "en": "",
-  "status": ""
+  "en": "And especially, stop acting like that in front of the soldiers... It makes everyone uneasy.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B139",
@@ -3040,8 +3040,8 @@
    97599
   ],
   "jp": "{voice:00660B}ああ、分かってるよ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I know.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B152",
@@ -3052,8 +3052,8 @@
    97617
   ],
   "jp": "{voice:00670B}君は、落ち込むとそうなるよね。{n}普段はあんなに豪放なのにさ。",
-  "en": "",
-  "status": ""
+  "en": "You get like this when you're down, don't you. Even though you're so bold the rest of the time.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B192",
@@ -3064,8 +3064,8 @@
    97638
   ],
   "jp": "{voice:00680B}（でも、そういうところが{n}　慕われているんだろうけど。）",
-  "en": "",
-  "status": ""
+  "en": "(But I suppose that's why people look up to him.)",
+  "status": "done"
  },
  {
   "id": "event_2177_0B1CE",
@@ -3076,8 +3076,8 @@
    97659
   ],
   "jp": "{voice:00690B}どうも…、{n}自分の感情を制御できないな。{n}分かってはいるんだがな。",
-  "en": "",
-  "status": ""
+  "en": "I just can't seem to control my feelings. I know that, though.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B213",
@@ -3088,8 +3088,8 @@
    97680
   ],
   "jp": "{voice:006A0B}（だけど、このままで、{n}　世界を変える事ができるのか？）",
-  "en": "",
-  "status": ""
+  "en": "(But can he change the world, the way he is now?)",
+  "status": "done"
  },
  {
   "id": "event_2177_0B24F",
@@ -3100,8 +3100,8 @@
    97701
   ],
   "jp": "{voice:006B0B}さあ、戻ろう。{n}働かないとシスキアに叱られるぞ。",
-  "en": "",
-  "status": ""
+  "en": "Come on, let's get back. Siskier'll scold you if you don't work.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B283",
@@ -3112,8 +3112,8 @@
    97719
   ],
   "jp": "{voice:006C0B}…そりゃ、困るな。確かに。",
-  "en": "",
-  "status": ""
+  "en": "...That'd be bad. Yeah.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B2A2",
@@ -3124,8 +3124,8 @@
    81022
   ],
   "jp": "うわっ、なんだ？{n}霧が出て、視界が悪くなった…",
-  "en": "",
-  "status": ""
+  "en": "Whoa, what's this? Fog's come up, and I can't see...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B2D0",
@@ -3136,8 +3136,8 @@
    81040
   ],
   "jp": "…この霧、熱気を孕んでいる。{n}あぁ、湯気かコレ。",
-  "en": "",
-  "status": ""
+  "en": "...This fog is full of heat. Oh, it's steam.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B300",
@@ -3148,8 +3148,8 @@
    81058
   ],
   "jp": "あ、これ温泉か！{n}話には聞いていたが、{n}全部お湯なんだな。すげぇ…",
-  "en": "",
-  "status": ""
+  "en": "Oh, this is a hot spring! I've heard about them, but it's all hot water. Wow...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B341",
@@ -3160,8 +3160,8 @@
    81076
   ],
   "jp": "…浸かりたい気持ちはあるが、{n}今は戦闘中だ。{n}それどころじゃないよな。",
-  "en": "",
-  "status": ""
+  "en": "...Part of me wants to soak, but we're in a battle. No time for that.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B386",
@@ -3172,8 +3172,8 @@
    81871
   ],
   "jp": "熱っ！{n}すごい熱気。何かあるのかしら？",
-  "en": "",
-  "status": ""
+  "en": "Hot! So much heat. Is there something here?",
+  "status": "done"
  },
  {
   "id": "event_2177_0B3AC",
@@ -3184,8 +3184,8 @@
    81889
   ],
   "jp": "…ひょっとして{n}シャーミネル名物の温泉？{n}これが全部天然のお湯なの③",
-  "en": "",
-  "status": ""
+  "en": "...Could this be Sharminel's famous hot spring? All this is natural hot water?!",
+  "status": "done"
  },
  {
   "id": "event_2177_0B3EF",
@@ -3196,8 +3196,8 @@
    81907
   ],
   "jp": "うーん、浸かっていきたいなぁ。{n}けどさ、戦闘中だしなぁ……",
-  "en": "",
-  "status": ""
+  "en": "Mmm, I want to soak in it. But we're in the middle of a battle...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B429",
@@ -3208,8 +3208,8 @@
    81929
   ],
   "jp": "…そうよねー。{n}戦闘中だもの、やめときましょ。",
-  "en": "",
-  "status": ""
+  "en": "...Of course. It's the middle of a battle, I'll pass.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B457",
@@ -3220,8 +3220,8 @@
    82004
   ],
   "jp": "う～…",
-  "en": "",
-  "status": ""
+  "en": "Ugh...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B45E",
@@ -3232,8 +3232,8 @@
    82015
   ],
   "jp": "さっき入っちゃったのは、{n}つい魔が差したっていうか、{n}なんていうか…",
-  "en": "",
-  "status": ""
+  "en": "That dip I took before was, like, a moment of weakness, or something...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B4A1",
@@ -3244,8 +3244,8 @@
    82022
   ],
   "jp": "戦闘中に行楽気分は、{n}さすがにマズかったわね…{n}反省してるわよ、ゴメン…",
-  "en": "",
-  "status": ""
+  "en": "Being in a holiday mood in the middle of a battle was really not okay... I'm sorry, I'm reflecting on it...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B4E8",
@@ -3256,8 +3256,8 @@
    82040
   ],
   "jp": "ハァ…{n}誰が弁解を聞くわけでもないし、{n}早いトコ戦線に戻ろ、っと…",
-  "en": "",
-  "status": ""
+  "en": "Sigh... Not like anybody's listening to my excuses. I'd better get back to the front...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B529",
@@ -3268,8 +3268,8 @@
    82145
   ],
   "jp": "ん…？{n}なんだろう、急に熱気が…",
-  "en": "",
-  "status": ""
+  "en": "Hm...? Strange, there's a sudden heat...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B549",
@@ -3280,8 +3280,8 @@
    82163
   ],
   "jp": "…わ！{n}コレってひょっとして、{n}シャーミネル名物の温泉か③",
-  "en": "",
-  "status": ""
+  "en": "...Whoa! Could this be Sharminel's famous hot spring?!",
+  "status": "done"
  },
  {
   "id": "event_2177_0B582",
@@ -3292,8 +3292,8 @@
    82181
   ],
   "jp": "すごいなぁ…{n}この寒空の下でお湯に浸かったら、{n}さぞ気持ちいいんだろうな。",
-  "en": "",
-  "status": ""
+  "en": "Amazing... It must feel marvelous to soak in hot water under this cold sky.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B5CB",
@@ -3304,8 +3304,8 @@
    82188
   ],
   "jp": "高い集客率を見込める物産だね。{n}ティエラに戻ったら、{n}ヴェルマン方伯に報告しよう。",
-  "en": "",
-  "status": ""
+  "en": "A local product sure to draw many visitors. I'll report it to Margrave Velleman back in Tiera.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B61C",
@@ -3316,8 +3316,8 @@
    82960
   ],
   "jp": "これって、噂に聞いた温泉かな？{n}気持ちいいらしいけど……",
-  "en": "",
-  "status": ""
+  "en": "Is this that hot spring I've heard so much about? They say it feels good...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B654",
@@ -3328,8 +3328,8 @@
    82978
   ],
   "jp": "いや、待った待った。{n}みんな必死になって戦ってるのよ。{n}あたしだけ、こんな極楽気分を…",
-  "en": "",
-  "status": ""
+  "en": "No, wait, wait. Everyone's fighting for their lives. How could I, of all people, enjoy such bliss...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B6A9",
@@ -3340,8 +3340,8 @@
    82996
   ],
   "jp": "…考えるのもアホらしいや。{n}早く戦線に戻りましょう。{n}ええ、それがいいに決まってるわ。",
-  "en": "",
-  "status": ""
+  "en": "...It's stupid to even think about it. Let's get back to the front. Yes, that's definitely best.",
+  "status": "done"
  },
  {
   "id": "event_2177_0B6FE",
@@ -3352,8 +3352,8 @@
    83064
   ],
   "jp": "…なんたること。{n}戦場に立つ将たる者が、{n}戦線放棄して温泉に入るなんて…",
-  "en": "",
-  "status": ""
+  "en": "...What a disgrace. A commander on the battlefield, abandoning her post for a hot spring...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B745",
@@ -3364,8 +3364,8 @@
    83071
   ],
   "jp": "…あたし、自分の事{n}マジメだと思ってたけど、{n}案外そうじゃないのかな…",
-  "en": "",
-  "status": ""
+  "en": "...I thought I was the serious type, but maybe not, after all...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B78A",
@@ -3376,8 +3376,8 @@
    83078
   ],
   "jp": "だって戦闘中にフロって…{n}常識ある人間なら{n}普通はやらないわよね…",
-  "en": "",
-  "status": ""
+  "en": "I mean, a bath during a battle... No one with any sense would do that...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B7CB",
@@ -3388,8 +3388,8 @@
    83100
   ],
   "jp": "…でも気持ちよかったのよね…",
-  "en": "",
-  "status": ""
+  "en": "...But it did feel good...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B7E8",
@@ -3400,8 +3400,8 @@
    84127
   ],
   "jp": "…すごい湯気。{n}これがシャーミネル名物温泉！",
-  "en": "",
-  "status": ""
+  "en": "...So much steam. This must be Sharminel's famous hot spring!",
+  "status": "done"
  },
  {
   "id": "event_2177_0B814",
@@ -3412,8 +3412,8 @@
    84145
   ],
   "jp": "一度入ってみたいですけど…{n}みなさんが戦っている時に、{n}そんな事できるはずが…",
-  "en": "",
-  "status": ""
+  "en": "I would love to try it once... But I could never, while everyone is fighting...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B861",
@@ -3424,8 +3424,8 @@
    84163
   ],
   "jp": "…当たり前ですよ！{n}何を考えてんですか、私は…",
-  "en": "",
-  "status": ""
+  "en": "...Of course not! What was I thinking...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B88F",
@@ -3436,8 +3436,8 @@
    84181
   ],
   "jp": "さあ、早く戻りましょう。{n}ガーロット様にばかり{n}戦わせるわけにはいきません！",
-  "en": "",
-  "status": ""
+  "en": "Now, let us hurry back. I cannot leave all the fighting to Garlot-sama!",
+  "status": "done"
  },
  {
   "id": "event_2177_0B8DA",
@@ -3460,8 +3460,8 @@
    84291
   ],
   "jp": "いくら姉さんが強引に誘った{n}とは言え、戦闘中に入浴なんて…{n}私は、なんて事を…！",
-  "en": "",
-  "status": ""
+  "en": "Even if my sister did drag me in, bathing in the middle of a battle... What have I done...!",
+  "status": "done"
  },
  {
   "id": "event_2177_0B934",
@@ -3472,8 +3472,8 @@
    84309
   ],
   "jp": "…にしても、脚にケガを負って{n}留守番をしてるはずの姉さんが、{n}どうやってこんな山奥に…",
-  "en": "",
-  "status": ""
+  "en": "...And yet, how could my sister, with her injured leg, have come this deep into the mountains...",
+  "status": "done"
  },
  {
   "id": "event_2177_0B989",
@@ -3484,8 +3484,8 @@
    84327
   ],
   "jp": "アイギナー？",
-  "en": "",
-  "status": ""
+  "en": "Aegina~?",
+  "status": "done"
  },
  {
   "id": "event_2177_0B996",
@@ -3496,8 +3496,8 @@
    84345
   ],
   "jp": "ね、姉さん③",
-  "en": "",
-  "status": ""
+  "en": "S-sister?!",
+  "status": "done"
  },
  {
   "id": "event_2177_0B9A3",
@@ -3520,8 +3520,8 @@
    84359
   ],
   "jp": "い、いない…？{n}何ですか、今のは…{n}私、幻覚でも見たんですか？",
-  "en": "",
-  "status": ""
+  "en": "N-no one there...? What was that... Am I seeing things?",
+  "status": "done"
  },
  {
   "id": "event_2177_0B9EB",
@@ -3532,8 +3532,8 @@
    84377
   ],
   "jp": "…ひょっとして、さっき入浴時に{n}現れた姉さんも幻覚？{n}私が作り出した、まぼろしッ③",
-  "en": "",
-  "status": ""
+  "en": "...Could my sister in the bath before have been an illusion too? An illusion of my own making?!",
+  "status": "done"
  },
  {
   "id": "event_2177_0BA3C",
@@ -3544,8 +3544,8 @@
    84395
   ],
   "jp": "…と、いう事は、私は、{n}実は内心では温泉に入る事を{n}自分から望んでいたッ③",
-  "en": "",
-  "status": ""
+  "en": "...Which means that deep down, I myself wanted to get in the hot spring?!",
+  "status": "done"
  },
  {
   "id": "event_2177_0BA85",
@@ -3568,8 +3568,8 @@
    84420
   ],
   "jp": "いや、まさか…{n}そんな事ありえませんよネ？{n}私、マジメですからネ。ハハハ…",
-  "en": "",
-  "status": ""
+  "en": "No, surely... That could not be, could it? I am the serious sort, after all. Ha ha ha...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BAD9",
@@ -3580,8 +3580,8 @@
    84539
   ],
   "jp": "ぬほぉっ③{n}すさまじい熱気だ！",
-  "en": "",
-  "status": ""
+  "en": "Nuoooh?! What terrible heat!",
+  "status": "done"
  },
  {
   "id": "event_2177_0BAF7",
@@ -3592,8 +3592,8 @@
    84546
   ],
   "jp": "なんだ？{n}バイフー、嫌な予感する…{n}この感覚、まさか…",
-  "en": "",
-  "status": ""
+  "en": "What is this? Byff has a bad feeling... This sensation, could it be...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BB2C",
@@ -3604,8 +3604,8 @@
    84564
   ],
   "jp": "……や、やっぱり！{n}ふ、フロだーっ②{n}バイフー、フロだけはニガテだ②",
-  "en": "",
-  "status": ""
+  "en": "...I-I knew it! A b-bath! Byff can not stand baths!",
+  "status": "done"
  },
  {
   "id": "event_2177_0BB6F",
@@ -3616,8 +3616,8 @@
    84571
   ],
   "jp": "ご主人に無理矢理フロに{n}入れられた忌まわしい記憶が、{n}鮮烈に蘇ってくるッ②",
-  "en": "",
-  "status": ""
+  "en": "The awful memory of being forced into a bath by the master comes back so clearly!",
+  "status": "done"
  },
  {
   "id": "event_2177_0BBB8",
@@ -3628,8 +3628,8 @@
    84589
   ],
   "jp": "た、助けてくれ！{n}許してくれぇ、ご主人！{n}にゃー②",
-  "en": "",
-  "status": ""
+  "en": "H-help! Forgive Byff, master! Meow!",
+  "status": "done"
  },
  {
   "id": "event_2177_0BBE9",
@@ -3640,8 +3640,8 @@
    84694
   ],
   "jp": "…あら？{n}何かしらこの熱気…",
-  "en": "",
-  "status": ""
+  "en": "...Oh? What's this heat...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BC05",
@@ -3652,8 +3652,8 @@
    84701
   ],
   "jp": "これ、湯気ね…{n}ひょっとして、ウワサに伝え聞く{n}温泉ってヤツかしら？",
-  "en": "",
-  "status": ""
+  "en": "It's steam... Could this be one of those hot springs I've heard rumors about?",
+  "status": "done"
  },
  {
   "id": "event_2177_0BC48",
@@ -3664,8 +3664,8 @@
    84719
   ],
   "jp": "ふーん、一度見たかったのよね～、{n}…って言いたいところだけど…",
-  "en": "",
-  "status": ""
+  "en": "Hmm, I've always wanted to see one~, is what I'd like to say, but...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BC86",
@@ -3676,8 +3676,8 @@
    84737
   ],
   "jp": "湯気でメガネが曇って、{n}何も見えやしないわ…",
-  "en": "",
-  "status": ""
+  "en": "The steam's fogging up my glasses, I can't see a thing...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BCB2",
@@ -3688,8 +3688,8 @@
    84744
   ],
   "jp": "私の場合、メガネ外したら{n}なおさら見えないしね…{n}退散するしかない、か。残念。",
-  "en": "",
-  "status": ""
+  "en": "And if I take my glasses off, I see even less... I'll just have to clear out. Too bad.",
+  "status": "done"
  },
  {
   "id": "event_2177_0BCFF",
@@ -3700,8 +3700,8 @@
    84849
   ],
   "jp": "むむっ？{n}雪山だっていうのに、{n}なんだい、この熱気は③",
-  "en": "",
-  "status": ""
+  "en": "Hmm? It's a snowy mountain, so what's with this heat?!",
+  "status": "done"
  },
  {
   "id": "event_2177_0BD34",
@@ -3712,8 +3712,8 @@
    84867
   ],
   "jp": "…ぶはぁ！　すげぇ湯気！{n}ひょっとしてコレって、{n}シャーミネル名物の温泉か？",
-  "en": "",
-  "status": ""
+  "en": "...Pwah! Tons of steam! Could this be Sharminel's famous hot spring?",
+  "status": "done"
  },
  {
   "id": "event_2177_0BD7F",
@@ -3724,8 +3724,8 @@
    84885
   ],
   "jp": "そっかぁ…{n}せっかく来たんだし、{n}入っていくのもアリだけど…",
-  "en": "",
-  "status": ""
+  "en": "I see... Since I'm here, I wouldn't mind a dip, but...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BDBA",
@@ -3736,8 +3736,8 @@
    84892
   ],
   "jp": "いま、みんな戦闘中だしな！{n}さすがにそんな悠長な事、{n}言ってられないよな。",
-  "en": "",
-  "status": ""
+  "en": "Everybody's in the middle of a fight right now! Can't really be so laid back.",
+  "status": "done"
  },
  {
   "id": "event_2177_0BE03",
@@ -3748,8 +3748,8 @@
    84990
   ],
   "jp": "ウィ～、ヒック！{n}ん～？　なにかしら、この熱気…",
-  "en": "",
-  "status": ""
+  "en": "Ooh~, *hic*! Hm~? What's this heat...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BE33",
@@ -3760,8 +3760,8 @@
    85008
   ],
   "jp": "……あらら、温泉ねぇ。{n}ふーん、気持ちよさそう…",
-  "en": "",
-  "status": ""
+  "en": "...Oh my, a hot spring. Hmm, sure looks nice...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BE63",
@@ -3772,8 +3772,8 @@
    85015
   ],
   "jp": "火山の地熱を利用して{n}水温を高くした海底浴場に、{n}昔、みんなで行ったわね…",
-  "en": "",
-  "status": ""
+  "en": "We all went to a seabed bathhouse once, warmed by a volcano's heat...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BEAC",
@@ -3784,8 +3784,8 @@
    85033
   ],
   "jp": "…懐かしい。",
-  "en": "",
-  "status": ""
+  "en": "...Takes me back.",
+  "status": "done"
  },
  {
   "id": "event_2177_0BEB9",
@@ -3796,8 +3796,8 @@
    85051
   ],
   "jp": "ヒック…{n}入って行きたいけど、{n}いま、酒入ってるしなぁ…",
-  "en": "",
-  "status": ""
+  "en": "*hic*... I'd love to go in, but I've got booze in me...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BEF0",
@@ -3808,8 +3808,8 @@
    85069
   ],
   "jp": "今度シラフの時にでも{n}ゆっくり来ようかねぇ…{n}ヒック②",
-  "en": "",
-  "status": ""
+  "en": "Maybe I'll come take my time, next time I'm sober... *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2177_0BF25",
@@ -3820,8 +3820,8 @@
    85488
   ],
   "jp": "んんん～？{n}何かしら、この熱気…",
-  "en": "",
-  "status": ""
+  "en": "Mmmm~? What's this heat...",
+  "status": "done"
  },
  {
   "id": "event_2177_0BF45",
@@ -3832,8 +3832,8 @@
    85506
   ],
   "jp": "うほっ②{n}コレひょっとして温泉ってヤツ？{n}すごーい、ホントにあったのね！",
-  "en": "",
-  "status": ""
+  "en": "Ooh! Could this be one of those hot spring things? Wow, they really exist!",
+  "status": "done"
  },
  {
   "id": "event_2177_0BF8C",
@@ -3844,8 +3844,8 @@
    85524
   ],
   "jp": "いまは反乱軍との戦闘中だけど、{n}そんなの関係ナッシング②",
-  "en": "",
-  "status": ""
+  "en": "We're fighting the rebels right now, but that's got nothing to do with Pamela-sama!",
+  "status": "done"
  },
  {
   "id": "event_2177_0BFC4",
@@ -3856,8 +3856,8 @@
    85542
   ],
   "jp": "パメラ様は、生まれたままの{n}一糸纏わぬ姿になって、{n}極上のお湯を堪能してくるわ…",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama will just go enjoy some top-class hot water, y'know...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C013",
@@ -3868,8 +3868,8 @@
    85586
   ],
   "jp": "は～、気持ちよかった…{n}いいお湯だわさ♪",
-  "en": "",
-  "status": ""
+  "en": "Aah~, that felt good... Nice water, y'know ♪",
+  "status": "done"
  },
  {
   "id": "event_2177_0C03B",
@@ -3880,8 +3880,8 @@
    85604
   ],
   "jp": "……サービスショットを{n}お目にかかれると思ったのに、{n}溜息ついてる男子中高生諸君！",
-  "en": "",
-  "status": ""
+  "en": "...And all you players out there, sighing because you hoped for some big bonus scene!",
+  "status": "done"
  },
  {
   "id": "event_2177_0C08C",
@@ -3892,8 +3892,8 @@
    85611
   ],
   "jp": "甘かったわねッ、パメラ様は{n}そう安くはないんだから！{n}残念でした！　また来週ッ②",
-  "en": "",
-  "status": ""
+  "en": "How naive! Pamela-sama doesn't come that cheap! Too bad! See you next week!",
+  "status": "done"
  },
  {
   "id": "event_2177_0C0DB",
@@ -3904,8 +3904,8 @@
    85340
   ],
   "jp": "…おや？{n}なんでしょう、この感覚は。",
-  "en": "",
-  "status": ""
+  "en": "...Oh? What is this sensation?",
+  "status": "done"
  },
  {
   "id": "event_2177_0C0FF",
@@ -3916,8 +3916,8 @@
    85358
   ],
   "jp": "これが噂に聞く温泉ですか。{n}熱気が壁のようになっていますね。",
-  "en": "",
-  "status": ""
+  "en": "So this is the hot spring they speak of. The heat is like a wall.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C13B",
@@ -3928,8 +3928,8 @@
    85376
   ],
   "jp": "わざわざこんな熱湯に{n}入りたがる人間の気持ちが、{n}イマイチ理解できませんね…",
-  "en": "",
-  "status": ""
+  "en": "I do not quite understand why humans go out of their way to enter such scalding water...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C186",
@@ -3940,8 +3940,8 @@
    85383
   ],
   "jp": "…ここいらには温泉以外、{n}特に何もないようですね。{n}戦線に戻るとしましょうか。",
-  "en": "",
-  "status": ""
+  "en": "...It seems there is nothing here but the hot spring. Let us return to the front.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C1D3",
@@ -3952,8 +3952,8 @@
    86311
   ],
   "jp": "…あらあら。ここが{n}シャーミネル名物の温泉かしら？",
-  "en": "",
-  "status": ""
+  "en": "...My, my. Could this be Sharminel's famous hot spring?",
+  "status": "done"
  },
  {
   "id": "event_2177_0C205",
@@ -3964,8 +3964,8 @@
    86329
   ],
   "jp": "天界でも噂に聞くほどですもの、{n}きっと言葉以上に気持ちのよい{n}体験を与えてくれそうね。",
-  "en": "",
-  "status": ""
+  "en": "Even Heaven has heard rumors of it, so it must feel better than words can say.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C25A",
@@ -3976,8 +3976,8 @@
    86347
   ],
   "jp": "……なーんつって。{n}人間の物欲解消法になんか、{n}私は興味はなくてよ？",
-  "en": "",
-  "status": ""
+  "en": "...Ha, just kidding. I have no interest in the ways humans ease their desires, you know?",
+  "status": "done"
  },
  {
   "id": "event_2177_0C29D",
@@ -3988,8 +3988,8 @@
    86365
   ],
   "jp": "天界には、{n}もっと気持ちのいい娯楽が{n}たくさんあるのですよ？",
-  "en": "",
-  "status": ""
+  "en": "In Heaven, we have many far more pleasant pastimes, you see?",
+  "status": "done"
  },
  {
   "id": "event_2177_0C2D8",
@@ -4000,8 +4000,8 @@
    86383
   ],
   "jp": "こんな温泉程度じゃ{n}心の琴線にも触れなくってよ。",
-  "en": "",
-  "status": ""
+  "en": "A hot spring like this could never touch my heartstrings.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C308",
@@ -4012,8 +4012,8 @@
    86458
   ],
   "jp": "しかしこの温泉とやら、{n}なかなか気持ちのいいもの{n}ですわね…",
-  "en": "",
-  "status": ""
+  "en": "Still, this so-called hot spring does feel quite pleasant...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C343",
@@ -4024,8 +4024,8 @@
    86476
   ],
   "jp": "確かに６３点でしたけど、{n}天界の技術を結集すれば{n}より高い点を狙える気がしますわ。",
-  "en": "",
-  "status": ""
+  "en": "63 points indeed, but with the full skill of Heaven, I believe it could score higher.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C394",
@@ -4036,8 +4036,8 @@
    85174
   ],
   "jp": "む…{n}なんだ？　霧がかかってきた…",
-  "en": "",
-  "status": ""
+  "en": "Hm... What is this? Fog is settling in...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C3B6",
@@ -4048,8 +4048,8 @@
    85181
   ],
   "jp": "…いや。{n}この霧、熱気を帯びている。{n}湯気、か…",
-  "en": "",
-  "status": ""
+  "en": "...No. This fog carries heat. Steam, then...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C3E5",
@@ -4060,8 +4060,8 @@
    85199
   ],
   "jp": "なんだ、コレは？{n}大量の湯が溜められている…{n}…一体、何の目的で？",
-  "en": "",
-  "status": ""
+  "en": "What is this? A great amount of hot water has been collected... For what purpose?",
+  "status": "done"
  },
  {
   "id": "event_2177_0C426",
@@ -4072,8 +4072,8 @@
    85217
   ],
   "jp": "まさか、反乱軍の用意した罠か？{n}煮え滾る湯に私達を突き落とす…{n}そういう作戦なのか？",
-  "en": "",
-  "status": ""
+  "en": "Could it be a trap set by the rebels? To push us into boiling water... Is that their plan?",
+  "status": "done"
  },
  {
   "id": "event_2177_0C479",
@@ -4084,8 +4084,8 @@
    85235
   ],
   "jp": "…ここは早急に離れた方がいいな。{n}どんな仕掛けがあるか、{n}いまひとつ読み切れない…",
-  "en": "",
-  "status": ""
+  "en": "...I should leave here at once. I cannot fully read what device this may be...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C4CA",
@@ -4096,8 +4096,8 @@
    87166
   ],
   "jp": "あっ？　あなた達、人間ね？",
-  "en": "",
-  "status": ""
+  "en": "Oh? You're humans, aren't you?",
+  "status": "done"
  },
  {
   "id": "event_2177_0C4E5",
@@ -4108,8 +4108,8 @@
    87173
   ],
   "jp": "いま当店は営業を自粛しているの。{n}この寒空の下来てくれて{n}悪いけど、お引き取りを…",
-  "en": "",
-  "status": ""
+  "en": "The shop is closed for now. Sorry you came out under this cold sky, but please go home...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C536",
@@ -4120,8 +4120,8 @@
    87180
   ],
   "jp": "…え？　何があるのか知らずに、{n}ここまで来たの？{n}変わってるわね、あなた…",
-  "en": "",
-  "status": ""
+  "en": "...What? You came all this way with no idea what's here? You're an odd one...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C57F",
@@ -4132,8 +4132,8 @@
    87187
   ],
   "jp": "ま、知らないなら知らないで結構。{n}とにかく、お引き取りを。",
-  "en": "",
-  "status": ""
+  "en": "Well, if you don't know, that's fine. In any case, please go home.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C5B9",
@@ -4144,8 +4144,8 @@
    87194
   ],
   "jp": "…それにしても、{n}次の見張り係は一体いつになれば{n}交代に来るのかしら？",
-  "en": "",
-  "status": ""
+  "en": "...Even so, when on earth is the next watch going to show up to relieve me?",
+  "status": "done"
  },
  {
   "id": "event_2177_0C5FE",
@@ -4156,8 +4156,8 @@
    87201
   ],
   "jp": "四六時中、湯の見張りをしてる{n}私の身にもなってよね、{n}まったく…",
-  "en": "",
-  "status": ""
+  "en": "Put yourself in my shoes, watching the water day and night, honestly...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C63D",
@@ -4168,8 +4168,8 @@
    87208
   ],
   "jp": "あ～あ…{n}どこかで仮眠を取らないと{n}身体がもたないわね、もう…",
-  "en": "",
-  "status": ""
+  "en": "Aah... If I don't get a nap somewhere, I'll collapse...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C67A",
@@ -4180,8 +4180,8 @@
    87098
   ],
   "jp": "ぐーっ…",
-  "en": "",
-  "status": ""
+  "en": "Zzz...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C683",
@@ -4192,8 +4192,8 @@
    87105
   ],
   "jp": "…見張りの交代は、{n}いつ、来るんですか…？{n}…ねえ、いつになったら…",
-  "en": "",
-  "status": ""
+  "en": "...When's my relief... coming...? ...Hey, when...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C6C6",
@@ -4204,8 +4204,8 @@
    87112
   ],
   "jp": "……ぐーっ…",
-  "en": "",
-  "status": ""
+  "en": "...Zzz...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C6D3",
@@ -4216,8 +4216,8 @@
    87399
   ],
   "jp": "パンドラッ②{n}ここで道を終りにしてやる！",
-  "en": "",
-  "status": ""
+  "en": "Pandra! This is the end of your road!",
+  "status": "done"
  },
  {
   "id": "event_2177_0C6FB",
@@ -4228,8 +4228,8 @@
    87417
   ],
   "jp": "ちっ、進みが速いぜ②{n}もうここまで来やがったのか！",
-  "en": "",
-  "status": ""
+  "en": "Tch, you're moving fast! You got here already!",
+  "status": "done"
  },
  {
   "id": "event_2177_0C72D",
@@ -4240,8 +4240,8 @@
    87615
   ],
   "jp": "ここで反乱軍は終りよ！",
-  "en": "",
-  "status": ""
+  "en": "This is the end of the rebel army!",
+  "status": "done"
  },
  {
   "id": "event_2177_0C744",
@@ -4252,8 +4252,8 @@
    87633
   ],
   "jp": "ま、そう言う事は、{n}俺達を倒してから言うんだな。",
-  "en": "",
-  "status": ""
+  "en": "Well, you can say that after you've beaten us.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C774",
@@ -4264,8 +4264,8 @@
    87831
   ],
   "jp": "いい場所だ、{n}正に天然の要塞だよ……",
-  "en": "",
-  "status": ""
+  "en": "Nice spot, a true natural fortress...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C798",
@@ -4276,8 +4276,8 @@
    87838
   ],
   "jp": "だけど、{n}ここまで懐に入ってしまえば{n}全く意味を成さないね。",
-  "en": "",
-  "status": ""
+  "en": "But once we've come this far inside, it means nothing at all.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C7D3",
@@ -4288,8 +4288,8 @@
    87856
   ],
   "jp": "俺達が袋のネズミってわけか。{n}だが、窮鼠はネコをも噛むぜ？",
-  "en": "",
-  "status": ""
+  "en": "So we're cornered rats, are we? But a cornered rat'll bite the cat, you know?",
+  "status": "done"
  },
  {
   "id": "event_2177_0C80D",
@@ -4300,8 +4300,8 @@
    88061
   ],
   "jp": "幻想を騙り、反乱を煽る…{n}見下げ果てた奴だな。",
-  "en": "",
-  "status": ""
+  "en": "Telling fantasies and stirring up revolt... You're a contemptible one.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C83B",
@@ -4312,8 +4312,8 @@
    88079
   ],
   "jp": "フッ、なんとでも言えよ。",
-  "en": "",
-  "status": ""
+  "en": "Heh, say what you like.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C854",
@@ -4324,8 +4324,8 @@
    88097
   ],
   "jp": "何かに酔わなければ人は戦えない。{n}それは義務だったり、夢だったり、{n}快楽だったり、家族だったりする。",
-  "en": "",
-  "status": ""
+  "en": "People can't fight unless they're drunk on something. Duty, dreams, pleasure, family.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C8B7",
@@ -4336,8 +4336,8 @@
    88104
   ],
   "jp": "俺は、戦いの理由に気付かせて{n}後押ししてやってるに過ぎない。",
-  "en": "",
-  "status": ""
+  "en": "All I do is make them see what they're fighting for, and give them a push.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C8F3",
@@ -4348,8 +4348,8 @@
    88122
   ],
   "jp": "…やれやれ。{n}言い訳も一人前だな、まったく。",
-  "en": "",
-  "status": ""
+  "en": "...Good grief. You've got excuses down, too.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C91F",
@@ -4360,8 +4360,8 @@
    88327
   ],
   "jp": "覚悟しろ！　パンドラ②",
-  "en": "",
-  "status": ""
+  "en": "Prepare yourself! Pandra!",
+  "status": "done"
  },
  {
   "id": "event_2177_0C936",
@@ -4372,8 +4372,8 @@
    88345
   ],
   "jp": "そんなにカッカするなよ。{n}美人が台無しだぜ？",
-  "en": "",
-  "status": ""
+  "en": "Don't get so worked up. You'll spoil that pretty face.",
+  "status": "done"
  },
  {
   "id": "event_2177_0C962",
@@ -4384,8 +4384,8 @@
    88363
   ],
   "jp": "どこにそんな余裕が……",
-  "en": "",
-  "status": ""
+  "en": "Where does he find such composure...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C979",
@@ -4396,8 +4396,8 @@
    88561
   ],
   "jp": "雪山ではバイフー、力が増す…{n}反乱軍、恐れるに足らず！",
-  "en": "",
-  "status": ""
+  "en": "On snowy mountains, Byff's strength grows... The rebel army is nothing to fear!",
+  "status": "done"
  },
  {
   "id": "event_2177_0C9AF",
@@ -4408,8 +4408,8 @@
    88579
   ],
   "jp": "なんだ？　そのしゃべり方……",
-  "en": "",
-  "status": ""
+  "en": "What? What's with that way of talking...",
+  "status": "done"
  },
  {
   "id": "event_2177_0C9CC",
@@ -4420,8 +4420,8 @@
    88777
   ],
   "jp": "キャハハハ！{n}研究の成果をみんなに示せて、{n}私は大満足よ！",
-  "en": "",
-  "status": ""
+  "en": "Kyahahaha! I got to show everyone my research results, I couldn't be happier!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CA05",
@@ -4432,8 +4432,8 @@
    88795
   ],
   "jp": "お前、あの大砲女か…{n}くそっ、お前のせいで、{n}俺の計画が台無しだぜ！",
-  "en": "",
-  "status": ""
+  "en": "So you're that cannon girl... Damn it, you ruined my plans!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CA48",
@@ -4444,8 +4444,8 @@
    89000
   ],
   "jp": "最近、アンタの懸賞金が{n}ウナギ昇りに撥ね上がってるぜ？",
-  "en": "",
-  "status": ""
+  "en": "Lately your bounty's been shooting up like crazy, y'know?",
+  "status": "done"
  },
  {
   "id": "event_2177_0CA7E",
@@ -4456,8 +4456,8 @@
    89018
   ],
   "jp": "そうかいそうかい、{n}都会じゃあ俺も有名人か。{n}女の子も寄ってくるわな、多分。",
-  "en": "",
-  "status": ""
+  "en": "Is that so, is that so. So I'm famous in the big city. Girls'll be flocking to me, probably.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CAC9",
@@ -4468,8 +4468,8 @@
    89036
   ],
   "jp": "ま、そんなわけだからさ、{n}お前を捕まえれば{n}いい金になるんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Well, that's how it is, so if I catch you, it's good money!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CB08",
@@ -4480,8 +4480,8 @@
    89241
   ],
   "jp": "ウィ～、ヒック…{n}酸素薄くなってきたかなぁ。{n}ちょっと気持ち悪、オエッ…",
-  "en": "",
-  "status": ""
+  "en": "Ooh~, *hic*... Air's gettin' thin, maybe. I feel kinda sick, urk...",
+  "status": "done"
  },
  {
   "id": "event_2177_0CB4F",
@@ -4492,8 +4492,8 @@
    89259
   ],
   "jp": "お、おいおい！　汚ねぇな……",
-  "en": "",
-  "status": ""
+  "en": "H-hey, hey! That's disgusting...",
+  "status": "done"
  },
  {
   "id": "event_2177_0CB6C",
@@ -4504,8 +4504,8 @@
    89457
   ],
   "jp": "これほどの規模の反乱軍だわさ。{n}さぞアイテムを溜め込んで{n}いるんでしょうねぇ…",
-  "en": "",
-  "status": ""
+  "en": "A rebel army this big, y'know. They must've hoarded so many items...",
+  "status": "done"
  },
  {
   "id": "event_2177_0CBB9",
@@ -4516,8 +4516,8 @@
    89475
   ],
   "jp": "な、なんだコイツ？",
-  "en": "",
-  "status": ""
+  "en": "Wh-what is with this one?",
+  "status": "done"
  },
  {
   "id": "event_2177_0CBCC",
@@ -4528,8 +4528,8 @@
    89680
   ],
   "jp": "かなりの規模の軍隊です…{n}帝国の民の中に反乱の意思がある、{n}という事ですね。",
-  "en": "",
-  "status": ""
+  "en": "This is quite a large army... Which means the will to rebel lives among the Empire's people.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CC17",
@@ -4540,8 +4540,8 @@
    89698
   ],
   "jp": "よくわかってんじゃねーか。{n}俺はいわば、民の代弁者だぜ？",
-  "en": "",
-  "status": ""
+  "en": "You've got it. You could say I speak for the people, right?",
+  "status": "done"
  },
  {
   "id": "event_2177_0CC4F",
@@ -4552,8 +4552,8 @@
    89716
   ],
   "jp": "フフフ、まあいいでしょう…",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh, very well...",
+  "status": "done"
  },
  {
   "id": "event_2177_0CC6A",
@@ -4564,8 +4564,8 @@
    89973
   ],
   "jp": "荒っぽい風貌ですのに、{n}やる事は回りくどいんですのね。",
-  "en": "",
-  "status": ""
+  "en": "You look so rough, and yet you go about things so roundabout.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CCA0",
@@ -4576,8 +4576,8 @@
    89991
   ],
   "jp": "おう、お褒めいただき光栄だね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, I'm honored by your praise.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CCBF",
@@ -4588,8 +4588,8 @@
    90040
   ],
   "jp": "褒めてはおりません。{n}蔑んでいるだけですわ。",
-  "en": "",
-  "status": ""
+  "en": "That was no praise. Only contempt.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CCEB",
@@ -4600,8 +4600,8 @@
    90146
   ],
   "jp": "自分は動かずに部下を使う…{n}いけ好かねぇ野郎だぜ。",
-  "en": "",
-  "status": ""
+  "en": "Stays put and uses his men... What a creep.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CD1D",
@@ -4612,8 +4612,8 @@
    90164
   ],
   "jp": "これが俺のスタイルだ。{n}効率重視ってね！",
-  "en": "",
-  "status": ""
+  "en": "That's my style. It's all about efficiency!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CD45",
@@ -4624,8 +4624,8 @@
    90375
   ],
   "jp": "隊列を組め！　斉射用意……",
-  "en": "",
-  "status": ""
+  "en": "Form ranks! Prepare to volley...",
+  "status": "done"
  },
  {
   "id": "event_2177_0CD60",
@@ -4636,8 +4636,8 @@
    90393
   ],
   "jp": "おおっと、やる気か？{n}街の住民に当たるかもしれないぜ。",
-  "en": "",
-  "status": ""
+  "en": "Whoa, you going for it? You might hit the townsfolk.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CD96",
@@ -4648,8 +4648,8 @@
    90411
   ],
   "jp": "この至近距離から射掛けて{n}的を外す我らではない。",
-  "en": "",
-  "status": ""
+  "en": "At this close range, we do not miss.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CDC6",
@@ -4660,8 +4660,8 @@
    90870
   ],
   "jp": "降伏しろ！{n}お前達に勝ち目はないぜ②",
-  "en": "",
-  "status": ""
+  "en": "Surrender! You've got no chance of winning!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CDEA",
@@ -4672,8 +4672,8 @@
    90888
   ],
   "jp": "ふざけんなよ、まだまだだぜ！",
-  "en": "",
-  "status": ""
+  "en": "Quit kidding, I'm not done yet!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CE07",
@@ -4684,8 +4684,8 @@
    91157
   ],
   "jp": "よしっ、これならやれる②",
-  "en": "",
-  "status": ""
+  "en": "All right, this can work!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CE20",
@@ -4696,8 +4696,8 @@
    91175
   ],
   "jp": "相変わらず機敏な姉ちゃんだぜ。",
-  "en": "",
-  "status": ""
+  "en": "Quick as ever, aren't you, girlie.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CE3F",
@@ -4708,8 +4708,8 @@
    91444
   ],
   "jp": "そこまでやるとはな！",
-  "en": "",
-  "status": ""
+  "en": "Didn't think you'd go that far!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CE54",
@@ -4720,8 +4720,8 @@
    91462
   ],
   "jp": "やっと分かってくれたかい？",
-  "en": "",
-  "status": ""
+  "en": "Do you understand at last?",
+  "status": "done"
  },
  {
   "id": "event_2177_0CE6F",
@@ -4732,8 +4732,8 @@
    91731
   ],
   "jp": "くそっ、強ぇ！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, you're strong!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CE7E",
@@ -4744,8 +4744,8 @@
    91749
   ],
   "jp": "一気に畳み掛けるぞ！{n}ここで反乱軍を根絶やしにする②",
-  "en": "",
-  "status": ""
+  "en": "Finish them all at once! We wipe out the rebels here!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CEB2",
@@ -4756,8 +4756,8 @@
    92018
   ],
   "jp": "おい、押されているぞ！{n}もっと気合い入れねぇか！",
-  "en": "",
-  "status": ""
+  "en": "Hey, we're being pushed back! Put some spirit into it!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CEE2",
@@ -4768,8 +4768,8 @@
    92036
   ],
   "jp": "このまま、押し切ります！",
-  "en": "",
-  "status": ""
+  "en": "I will press on and break through!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CEFB",
@@ -4780,8 +4780,8 @@
    92305
   ],
   "jp": "これが獣人の力だ！{n}あれ、いま何時？{n}ん、１０時んなったか。",
-  "en": "",
-  "status": ""
+  "en": "This is the power of a beast-man! Huh, what time is it? Hm, it is beast o'clock.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CF36",
@@ -4804,8 +4804,8 @@
    92624
   ],
   "jp": "こりゃあ旗色がやべぇな…",
-  "en": "",
-  "status": ""
+  "en": "Things are looking bad here...",
+  "status": "done"
  },
  {
   "id": "event_2177_0CF5E",
@@ -4816,8 +4816,8 @@
    92642
   ],
   "jp": "大した事ないじゃない。{n}大砲引っ張ってくるまでも{n}なかったわね。",
-  "en": "",
-  "status": ""
+  "en": "That wasn't much. Didn't even need to drag the cannon out.",
+  "status": "done"
  },
  {
   "id": "event_2177_0CF9D",
@@ -4828,8 +4828,8 @@
    92911
   ],
   "jp": "反乱軍、ここまでだ！",
-  "en": "",
-  "status": ""
+  "en": "Rebels, this is as far as you go!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CFB2",
@@ -4840,8 +4840,8 @@
    92929
   ],
   "jp": "旗色がよくないな……{n}どこかで士気を取り戻さないと{n}マズイぜ！",
-  "en": "",
-  "status": ""
+  "en": "Things aren't looking good... Got to get morale back somehow, or we're in trouble!",
+  "status": "done"
  },
  {
   "id": "event_2177_0CFEF",
@@ -4852,8 +4852,8 @@
    93198
   ],
   "jp": "ウィ～ック…{n}なぁに？　どうってことないのね。",
-  "en": "",
-  "status": ""
+  "en": "Oooh~... Huh? Ain't no big deal, is it.",
+  "status": "done"
  },
  {
   "id": "event_2177_0D01D",
@@ -4864,8 +4864,8 @@
    93216
   ],
   "jp": "酔っぱらいに負けたぞ！{n}オイオイ、このままじゃやべぇ②",
-  "en": "",
-  "status": ""
+  "en": "We lost to a drunk! Hey, hey, this is bad!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D053",
@@ -4876,8 +4876,8 @@
    93492
   ],
   "jp": "うほっ！{n}反乱軍って名ばかりで{n}どうって事ないじゃない！",
-  "en": "",
-  "status": ""
+  "en": "Ooh! Rebel army in name only, it's no big deal!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D08A",
@@ -4888,8 +4888,8 @@
    93510
   ],
   "jp": "溜め込んだアイテムは、{n}全部パメラ様が使ってア・ゲ・ル☆",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama'll use every item you hoarded for you ☆",
+  "status": "done"
  },
  {
   "id": "event_2177_0D0C2",
@@ -4900,8 +4900,8 @@
    93528
   ],
   "jp": "ふざけんな！{n}俺達が集めた物は全部俺の物だ！",
-  "en": "",
-  "status": ""
+  "en": "No way! Everything we collected is all mine!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D0EE",
@@ -4912,8 +4912,8 @@
    93836
   ],
   "jp": "こいつ、何者だ？{n}おかしな魔法を使いやがる…{n}本当に人間なのか…？",
-  "en": "",
-  "status": ""
+  "en": "What is this guy? He uses weird magic... Is he really human...?",
+  "status": "done"
  },
  {
   "id": "event_2177_0D12F",
@@ -4924,8 +4924,8 @@
    93854
   ],
   "jp": "フフフ…{n}それが理解できただけ、{n}あなたはまだ優秀ですよ。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh... Merely understanding that much makes you rather excellent.",
+  "status": "done"
  },
  {
   "id": "event_2177_0D168",
@@ -4936,8 +4936,8 @@
    94168
   ],
   "jp": "やはりイマヒトツですわねぇ…{n}私はもっと、男らしくグイグイと{n}引っ張るタイプが好みですの。",
-  "en": "",
-  "status": ""
+  "en": "I knew it, not quite right... I prefer a manlier type who takes the lead with a firm hand.",
+  "status": "done"
  },
  {
   "id": "event_2177_0D1C1",
@@ -4948,8 +4948,8 @@
    94186
   ],
   "jp": "なにワケのわかんねーコト、{n}言ってんだよ②",
-  "en": "",
-  "status": ""
+  "en": "What the hell are you talking about!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D1EB",
@@ -4960,8 +4960,8 @@
    94410
   ],
   "jp": "フン！　手応えのない軍勢だ！{n}奇襲をかけてきた黒騎士の方が{n}幾分かマシだぜ！",
-  "en": "",
-  "status": ""
+  "en": "Hmph! What a limp army! That Black Knight's ambush was better than this!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D236",
@@ -4972,8 +4972,8 @@
    94428
   ],
   "jp": "あの猪みたいなレオンと{n}知的な俺を一緒にすんな！",
-  "en": "",
-  "status": ""
+  "en": "Don't you lump smart me in with that wild boar Leon!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D266",
@@ -4984,8 +4984,8 @@
    94728
   ],
   "jp": "チィッ！　なんて正確な射撃だ②{n}こいつ、一体何者だ？",
-  "en": "",
-  "status": ""
+  "en": "Tch! What precise shooting! Who is this girl?",
+  "status": "done"
  },
  {
   "id": "event_2177_0D29A",
@@ -4996,8 +4996,8 @@
    94746
   ],
   "jp": "今は、グラムブレイズの仲間だ。",
-  "en": "",
-  "status": ""
+  "en": "I am Gram Blaze's comrade now.",
+  "status": "done"
  },
  {
   "id": "event_2177_0D2B9",
@@ -5008,8 +5008,8 @@
    90957
   ],
   "jp": "しくじったか……",
-  "en": "",
-  "status": ""
+  "en": "Blew it...",
+  "status": "done"
  },
  {
   "id": "event_2177_0D2CA",
@@ -5020,8 +5020,8 @@
    90975
   ],
   "jp": "見たか、俺の実力を！",
-  "en": "",
-  "status": ""
+  "en": "See that? That's my strength!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D2DF",
@@ -5032,8 +5032,8 @@
    91244
   ],
   "jp": "詰めが甘かった…③",
-  "en": "",
-  "status": ""
+  "en": "I got careless...!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D2F2",
@@ -5044,8 +5044,8 @@
    91262
   ],
   "jp": "よーし、今から敵陣を切り崩す！{n}野郎ども、付いて来い！",
-  "en": "",
-  "status": ""
+  "en": "All right, we're breaking the enemy line now! Boys, follow me!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D328",
@@ -5056,8 +5056,8 @@
    91531
   ],
   "jp": "ここを耐え抜いた功績は大きい！{n}さあ、反撃に出るぜッ！",
-  "en": "",
-  "status": ""
+  "en": "Holding out here's a big win! Now, time to strike back!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D35E",
@@ -5068,8 +5068,8 @@
    91549
   ],
   "jp": "勢いに乗せると厄介だ。{n}なんとか止めないと……",
-  "en": "",
-  "status": ""
+  "en": "He's dangerous if he gets rolling. I have to stop him somehow...",
+  "status": "done"
  },
  {
   "id": "event_2177_0D38C",
@@ -5080,8 +5080,8 @@
    91818
   ],
   "jp": "受け流された……？",
-  "en": "",
-  "status": ""
+  "en": "He deflected it...?",
+  "status": "done"
  },
  {
   "id": "event_2177_0D39F",
@@ -5092,8 +5092,8 @@
    91836
   ],
   "jp": "ま、{n}アンタにも隙があるってコトだな。",
-  "en": "",
-  "status": ""
+  "en": "Well, it just means you've got openings too.",
+  "status": "done"
  },
  {
   "id": "event_2177_0D3C5",
@@ -5104,8 +5104,8 @@
    92105
   ],
   "jp": "突破を阻まれた③",
-  "en": "",
-  "status": ""
+  "en": "My breakthrough was blocked?!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D3D6",
@@ -5116,8 +5116,8 @@
    92123
   ],
   "jp": "地の利はこちらにある。{n}ま、落ち着いて撃破に努めろ！",
-  "en": "",
-  "status": ""
+  "en": "The terrain's on our side. Well, keep calm and focus on beating them!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D40A",
@@ -5128,8 +5128,8 @@
    92399
   ],
   "jp": "なかなかの精鋭揃いだ…{n}コイツらを倒せたら{n}せーせーするだろうなぁ。",
-  "en": "",
-  "status": ""
+  "en": "A fine bunch of elite troops... Beating them would be a real d-elite.",
+  "status": "done"
  },
  {
   "id": "event_2177_0D44D",
@@ -5152,8 +5152,8 @@
    92435
   ],
   "jp": "おい、それでシャレになってると{n}思ってんのかよ③",
-  "en": "",
-  "status": ""
+  "en": "Hey, you think that counts as a joke?!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D48C",
@@ -5164,8 +5164,8 @@
    92711
   ],
   "jp": "どうした？　その程度か！",
-  "en": "",
-  "status": ""
+  "en": "What's wrong? Is that all?",
+  "status": "done"
  },
  {
   "id": "event_2177_0D4A5",
@@ -5176,8 +5176,8 @@
    92729
   ],
   "jp": "あーぁ、煩わしいわねぇ！{n}女に愛想尽かされるタイプね。",
-  "en": "",
-  "status": ""
+  "en": "Aah, you're such a pain! The type women lose patience with.",
+  "status": "done"
  },
  {
   "id": "event_2177_0D4DB",
@@ -5188,8 +5188,8 @@
    92998
   ],
   "jp": "それで終りか？{n}まだだろ？　掛かってこいよ②",
-  "en": "",
-  "status": ""
+  "en": "Is that all? There's more, right? Come at me!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D507",
@@ -5200,8 +5200,8 @@
    93016
   ],
   "jp": "ケッ、誘いには、乗らないぜ……",
-  "en": "",
-  "status": ""
+  "en": "Heh, I ain't fallin' for that...",
+  "status": "done"
  },
  {
   "id": "event_2177_0D526",
@@ -5212,8 +5212,8 @@
    93285
   ],
   "jp": "あらら、負けちゃったか。{n}…ヒック…",
-  "en": "",
-  "status": ""
+  "en": "Oh my, I lost, huh. ...*hic*...",
+  "status": "done"
  },
  {
   "id": "event_2177_0D54A",
@@ -5224,8 +5224,8 @@
    93303
   ],
   "jp": "よし、体勢を整えろッ！{n}敵の層は薄いぜ②",
-  "en": "",
-  "status": ""
+  "en": "All right, regroup! The enemy's lines are thin!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D572",
@@ -5236,8 +5236,8 @@
    93611
   ],
   "jp": "むきぃー②{n}こんなボンクラに負けるなんて、{n}パメラ様、一生の不覚だわさ！",
-  "en": "",
-  "status": ""
+  "en": "Grrrr! Losing to such a blockhead is the shame of Pamela-sama's life, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D5B9",
@@ -5248,8 +5248,8 @@
    93629
   ],
   "jp": "ボンクラとはひどいな。{n}これでも反乱軍の栄えある…",
-  "en": "",
-  "status": ""
+  "en": "Blockhead, that's harsh. Even so, I'm the glorious leader of the rebels...",
+  "status": "done"
  },
  {
   "id": "event_2177_0D5EB",
@@ -5260,8 +5260,8 @@
    93647
   ],
   "jp": "黙れボンクラ！",
-  "en": "",
-  "status": ""
+  "en": "Shut up, blockhead!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D5FA",
@@ -5272,8 +5272,8 @@
    93923
   ],
   "jp": "手応えがねぇ………{n}どういう事だ？",
-  "en": "",
-  "status": ""
+  "en": "No resistance at all...... What's going on?",
+  "status": "done"
  },
  {
   "id": "event_2177_0D61C",
@@ -5296,8 +5296,8 @@
    94286
   ],
   "jp": "あらあら、どうも叙情さに欠ける{n}戦い方ですわね。",
-  "en": "",
-  "status": ""
+  "en": "My, what a way to fight, so lacking in lyricism.",
+  "status": "done"
  },
  {
   "id": "event_2177_0D65B",
@@ -5308,8 +5308,8 @@
    94304
   ],
   "jp": "じょ、叙情さって、なんだ？",
-  "en": "",
-  "status": ""
+  "en": "L-lyricism? What's that?",
+  "status": "done"
  },
  {
   "id": "event_2177_0D676",
@@ -5320,8 +5320,8 @@
    94497
   ],
   "jp": "弱ぇな……{n}いいのは威勢だけか？",
-  "en": "",
-  "status": ""
+  "en": "You're weak... All you've got's the attitude?",
+  "status": "done"
  },
  {
   "id": "event_2177_0D696",
@@ -5332,8 +5332,8 @@
    94546
   ],
   "jp": "ちっ…！{n}こんなタマナシに負けるとは、{n}オレも堕ちたもんだぜ！",
-  "en": "",
-  "status": ""
+  "en": "Tch...! Losing to a gutless wimp like this, I've really sunk low!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D6D3",
@@ -5344,8 +5344,8 @@
    94815
   ],
   "jp": "そんな弱い弓じゃ、貫けねぇぜ②",
-  "en": "",
-  "status": ""
+  "en": "A weak bow like that won't pierce me!",
+  "status": "done"
  },
  {
   "id": "event_2177_0D6F2",
@@ -5356,7 +5356,7 @@
    94833
   ],
   "jp": "我流だが、良くやる……",
-  "en": "",
-  "status": ""
+  "en": "Self-taught, but well done...",
+  "status": "done"
  }
 ]
