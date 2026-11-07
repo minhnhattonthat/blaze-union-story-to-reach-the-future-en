@@ -50,3 +50,7 @@ references/pipeline.md: an extractor class for "printf logs" (ASCII newline in t
 - references/platform-psp.md: this engine's PTX +14/+15 are UV shifts (15 - log2 w, 15 - log2 h; true of all 5,820 textures): a resized texture with a copied header samples at the wrong step and looks like corrupt data.
 - references/platform-psp.md: this engine reads the PTG cell table at a fixed +0x20 and ignores the +4 offset field, so test a format field in game before trusting it: moving the table changed nothing on screen.
 - references/graphics.md: template matching a screen crop against every swept sprite finds an atlas fast (`tools/debug/gfx_find.py`, about 90 s for 3,700 sprites); sprites over a busy bar score low, so crop tightly.
+references/platform-psp.md: a sweep that decodes only T4 and T8 hides direct-colour textures: scan every PTX header for other formats before calling a survey complete (Blaze Union: fmt 3, 2687@c860, the equip bar names).
+references/platform-psp.md: UI sheets on screen may have their magic overwritten in RAM, so a search for PTX@ misses them; dump RAM and search for samples of each archive file to list what a screen loaded.
+references/graphics.md: a single atlas row can be cut by the game into two rects with an icon between them (`勝利条件マップ`), and rects can start a few px past the box inked by the Japanese: English placed by ink box alone shows slivers, so read every redraw in game.
+references/emulator-qa.md: PSP coverage log: a marker build plus a printer breakpoint log gives string ids with no Lua (tools/debug/cover.py).
