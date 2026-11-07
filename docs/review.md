@@ -28,3 +28,4 @@
 One read-only read per chapter file, by the worker named in the session, per `docs/story-reviewer-brief.md`. Verdicts mirror `work/qa/story/verdicts/`.
 
 - c1 (events 2149-2154, b035-b040): fixed. b039:60 そやつ read as David, it is Garlot. Continuity, voices and the Medoute and Junon gags hold. Read by the worker who ran the polish pass, not independent.
+- c2 (events 2155-2157, b041-b044): fixed. Zilva was "she" in Garlot's and Medoute's battle lines (b042:128, 138, 145, 146) though the JP is neutral and Siskier, Jenon and Zilva's own lines treat her being a woman as a discovery. Minors fixed: b042:93, b042:147, b043:68, b043:74, b043:127, b044:50. Continuity, the world-is-round gag, the Soltier scene and the Leon and Elena scenes hold. One worker's read, not independent.
