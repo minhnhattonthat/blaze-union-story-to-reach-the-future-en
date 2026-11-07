@@ -77,10 +77,14 @@ Papal Army, はだしのミゼル Barefoot Mizer, 帝国軍 Imperial Army, 王�
 below the portrait frame (a long black run); short kanji (賊, 山賊, 帝国軍, 王国軍, 輸送船) widened to the pill. A box must
 take the whole lettering, extrusion included: what is left at its edge seeds the fill. Clearing can split ink runs past a
 group's cell count: `gfx.repack` then joins the narrowest gaps first (`tests/test_gfx.py`). Seen in game: `recap_2`'s
-Gram Blaze diagram (warp `2_01_A --route "900 -;6 circle" --frames 5400`); the rest in preview.
+Gram Blaze diagram (warp `2_01_A --iso build/blaze_union_en.iso --route "900 -;6 circle" --frames 5400`; warp.py runs
+the original ISO without `--iso`); the rest in preview. Card list 1771@36ad0 (39 rows, `name // epithet`, black on white,
+styles `panel` and `panel-r`): English from the EBOOT card table at 0x2799D8 and the card poems' credits (0x261F3C..);
+Rebellion's 天使長フラウヴェル has no poem record, romanised "Frauvel the Archangel". Preview only: the screen that shows
+it isn't known.
 Still Japanese: the prep screen's vertical location under the vertical title
-(`ティエラ・ネザー地区中央`: in no chapter file and no text record; not located), 1771@36ad0 (small list), and the rest of
-the survey table below from trait lines on.
+(`ティエラ・ネザー地区中央`: in no chapter file and no text record; not located), and the rest of the survey table below
+from trait lines on.
 
 ## Survey (static sweep complete; the in-game tour in phases 5 and 8 adds to it)
 

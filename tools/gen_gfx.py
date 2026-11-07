@@ -31,6 +31,7 @@ STYLES = {
     "label": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="alpha", align="l"),
     "panel": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="l"),
     "panel-c": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="c"),
+    "panel-r": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="r"),
     # text over art: "art" with EN "-" smears the art over the Japanese box, then "over" draws in a box of its own
     "art": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear="inpaint", align="l"),
     "mirror": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear="mirror", align="l"),

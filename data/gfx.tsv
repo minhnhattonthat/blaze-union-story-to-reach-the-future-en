@@ -728,3 +728,82 @@
 1576@19010	77,55,139,38	pill	グラムブレイズ	Gram Blaze
 1576@19010	227,140,81,40	pill	反乱軍	Rebels
 1577@98b0	100,131,144,37	pill	グラムブレイズ	Gram Blaze
+# Card list 1771@36ad0 (name // epithet; English from the card table at EBOOT 0x2799D8 and the poem credits)
+1771@36ad0	4,1,94,10	panel	メイクドール	Make Doll
+1771@36ad0	100,1,130,10	panel-r	// 傀儡師エクシール	// Exeel the Puppeteer
+1771@36ad0	4,12,94,10	panel	ネクロゲート	Necro Gate
+1771@36ad0	100,12,130,10	panel-r	// 屍術師ネルダ	// Nelda the Necromancer
+1771@36ad0	4,23,94,10	panel	メデューサアイ	Medusa Eye
+1771@36ad0	100,23,130,10	panel-r	// 咎人ラウネ	// Raune the Sinner
+1771@36ad0	4,33,94,11	panel	ポイズンブレス	Poison Breath
+1771@36ad0	100,33,130,11	panel-r	// 復讐のバルダック	// Baldak of Revenge
+1771@36ad0	4,44,94,11	panel	グラヴィティカオス	Gravity Chaos
+1771@36ad0	100,44,130,11	panel-r	// 堕天のエイミア	// Eimia the Fallen
+1771@36ad0	4,56,94,10	panel	アイテムブレイク	Item Break
+1771@36ad0	100,56,130,10	panel-r	// 伝説のホーク	// Hawk the Legend
+1771@36ad0	4,67,94,10	panel	スティール	Steal
+1771@36ad0	100,67,130,10	panel-r	// 風魔サエザル	// Saezar the Wind Demon
+1771@36ad0	4,78,94,10	panel	ブラッディクロー	Bloody Claw
+1771@36ad0	100,78,130,10	panel-r	// 赤月の悪魔アノン	// Anon, Red Moon Demon
+1771@36ad0	4,89,94,10	panel	チャリオット	Chariot
+1771@36ad0	100,89,130,10	panel-r	// 鋼鉄騎士ガラド	// Garad the Iron Knight
+1771@36ad0	4,100,94,10	panel	シールドバリア	Shield Barrier
+1771@36ad0	100,100,130,10	panel-r	// 護人ハシャハティ	// Hashahati the Guardian
+1771@36ad0	4,111,94,10	panel	フレイム	Flame
+1771@36ad0	100,111,130,10	panel-r	// 大魔導マゼンデ	// Magende the Archmage
+1771@36ad0	4,122,94,10	panel	ブリザード	Blizzard
+1771@36ad0	100,122,130,10	panel-r	// 氷葬のエンリュケ	// Enruke of the Ice Tomb
+1771@36ad0	4,132,94,11	panel	サンダーボルト	Thunderbolt
+1771@36ad0	100,132,130,11	panel-r	// 天空のルキオン	// Lucion of the Sky
+1771@36ad0	4,144,94,10	panel	バニッシュ	Banish
+1771@36ad0	100,144,130,10	panel-r	// 聖アスタ＝ナレフ	// Saint Asta-Naref
+1771@36ad0	4,155,94,10	panel	ドラゴンキラー	Dragon Killer
+1771@36ad0	100,155,130,10	panel-r	// 竜殺しの英雄ギル	// Gil the Dragon Slayer
+1771@36ad0	4,166,94,10	panel	アースクウェイク	Earthquake
+1771@36ad0	100,166,130,10	panel-r	// 怒りの巨人ドークス	// Dokes the Angry Giant
+1771@36ad0	4,177,94,10	panel	マインドチェンジ	Mind Change
+1771@36ad0	100,177,130,10	panel-r	// 双生のアリステラ	// Aristella the Twin
+1771@36ad0	4,187,94,11	panel	レヴォリューション	Revolution
+1771@36ad0	100,187,130,11	panel-r	// 戦女神ニルヴァーナ	// Nirvana, War Goddess
+1771@36ad0	4,199,94,10	panel	ジハード	Jihad
+1771@36ad0	100,199,130,10	panel-r	// 創生のパルティナ	// Paltina of Creation
+1771@36ad0	4,210,94,10	panel	サンクチュアリ	Sanctuary
+1771@36ad0	100,210,130,10	panel-r	// 半獣の乙女ラクシミ	// Lakshimi, Beast-Maiden
+1771@36ad0	4,221,94,10	panel	リフレッシュメント	Refreshment
+1771@36ad0	100,221,130,10	panel-r	// 聖泉の精霊キュリン	// Curin, Spring Spirit
+1771@36ad0	4,231,94,11	panel	キスオブデス	Kiss of Death
+1771@36ad0	100,231,130,11	panel-r	// 闇の女帝ヴァネッサ	// Vanessa, Dark Empress
+1771@36ad0	4,243,94,10	panel	フォーチュン	Fortune
+1771@36ad0	100,243,130,10	panel-r	// 占師パスラハ	// Pasraha the Seer
+1771@36ad0	4,254,94,10	panel	ミラージュ	Mirage
+1771@36ad0	100,254,130,10	panel-r	// 夢見のルビナ	// Rubina the Dreamer
+1771@36ad0	4,264,94,11	panel	バンシーズクライ	Banshee's Cry
+1771@36ad0	100,264,130,11	panel-r	// 葬送のイオナ	// Iona the Mourner
+1771@36ad0	4,275,94,11	panel	アイヴィウィップ	Ivy Whip
+1771@36ad0	100,275,130,11	panel-r	// 樹木の精霊ドリアデ	// Dryad, Tree Spirit
+1771@36ad0	4,287,94,10	panel	サンドストーム	Sandstorm
+1771@36ad0	100,287,130,10	panel-r	// 砂漠の番人ラーサ	// Rasa, Desert Guardian
+1771@36ad0	4,297,94,11	panel	マントラップ	Man Trap
+1771@36ad0	100,297,130,11	panel-r	// 魔性のエンドメイラ	// Endmeira, Temptress
+1771@36ad0	4,308,94,11	panel	ロックフォール	Rockfall
+1771@36ad0	100,308,130,11	panel-r	// 小悪魔リップフェイク	// Rip Fake the Little Devil
+1771@36ad0	4,319,94,11	panel	エースガード	Ace Guard
+1771@36ad0	100,319,130,11	panel-r	// 獅子王アレムロンド	// Lion King Alemlond
+1771@36ad0	4,331,94,10	panel	ジェノサイド	Genocide
+1771@36ad0	100,331,130,10	panel-r	// 煉獄の魔竜ブロンガ	// Brongaa of Purgatory
+1771@36ad0	4,342,94,10	panel	リィンカーネーション	Reincarnation
+1771@36ad0	100,342,130,10	panel-r	// 名を奪われし天使	// The Nameless Angel
+1771@36ad0	4,352,94,11	panel	リヴェリオン	Rebellion
+1771@36ad0	100,352,130,11	panel-r	// 天使長フラウヴェル	// Frauvel the Archangel
+1771@36ad0	4,364,94,10	panel	オブリヴィアスドーン	Oblivious Dawn
+1771@36ad0	100,364,130,10	panel-r	// 暁のゾイエック	// Zoiek of the Dawn
+1771@36ad0	4,375,94,10	panel	コーマカルマ	Coma Karma
+1771@36ad0	100,375,130,10	panel-r	// 灰被りのマイメイエ	// Maimeye the Ash-Clad
+1771@36ad0	4,386,94,10	panel	ジャッジメントゼロ	Judgment Zero
+1771@36ad0	100,386,130,10	panel-r	// 告死天使キュルケ	// Circe, Angel of Death
+1771@36ad0	4,396,94,11	panel	ラウーガー	Rauger
+1771@36ad0	100,396,130,11	panel-r	// ヘグゼーの従順たる獣人	// Hegzee's Beast-Man
+1771@36ad0	4,408,94,10	panel	インサニティ	Insanity
+1771@36ad0	100,408,130,10	panel-r	// 狂風のネルガー	// Nergar of the Mad Wind
+1771@36ad0	4,418,94,11	panel	ヴァイス	Vice
+1771@36ad0	100,418,130,11	panel-r	// 加護のレティオル	// Retiol of Protection
