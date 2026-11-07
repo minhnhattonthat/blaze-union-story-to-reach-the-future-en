@@ -8,8 +8,8 @@
    5946
   ],
   "jp": "{voice:002A11}聞け、帝都の民よ！{n}俺は反乱軍大将のガルカーサだ②",
-  "en": "",
-  "status": ""
+  "en": "Hear me, people of the capital! I am Gulcasa, commander of the rebel army!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0005E",
@@ -20,8 +20,8 @@
    5953
   ],
   "jp": "{voice:002B11}俺達の目的は街の破壊ではない！{n}この腐り切った帝政に{n}終止符を打つ事だ②",
-  "en": "",
-  "status": ""
+  "en": "Our goal is not to destroy the city! It's to put an end to this rotten imperial rule!!",
+  "status": "done"
  },
  {
   "id": "event_2190_000A9",
@@ -32,8 +32,8 @@
    5960
   ],
   "jp": "{voice:002C11}戦いを始める前に、{n}帝都の民に問いたい！",
-  "en": "",
-  "status": ""
+  "en": "Before the battle begins, I have a question for the people of the capital!",
+  "status": "done"
  },
  {
   "id": "event_2190_000D5",
@@ -44,8 +44,8 @@
    5978
   ],
   "jp": "{voice:002D11}今まで帝国が何をしてくれた？{n}そして、帝国は何を奪った③",
-  "en": "",
-  "status": ""
+  "en": "What has the Empire ever done for you? And what has it taken from you!?",
+  "status": "done"
  },
  {
   "id": "event_2190_00111",
@@ -56,8 +56,8 @@
    5985
   ],
   "jp": "{voice:002E11}徴税は蓄えを奪い、{n}兵役は育てた子供たちを奪い、{n}乱れた治安は平穏を奪った②",
-  "en": "",
-  "status": ""
+  "en": "Taxes took your savings, conscription took the children you raised, and lawlessness took your peace!!",
+  "status": "done"
  },
  {
   "id": "event_2190_00160",
@@ -68,8 +68,8 @@
    5992
   ],
   "jp": "{voice:002F11}これほどの物を奪いながら、{n}民には何も与えない……{n}こんな事が許されるのか③",
-  "en": "",
-  "status": ""
+  "en": "It takes so much and gives the people nothing... How can this be allowed!?",
+  "status": "done"
  },
  {
   "id": "event_2190_001AF",
@@ -80,8 +80,8 @@
    6010
   ],
   "jp": "{voice:003011}賢い者ならばわかるはずだ！{n}このような帝政が、{n}長く続くはずはないと！",
-  "en": "",
-  "status": ""
+  "en": "The wise among you must know! Imperial rule like this cannot last!",
+  "status": "done"
  },
  {
   "id": "event_2190_001F8",
@@ -92,8 +92,8 @@
    6017
   ],
   "jp": "{voice:003111}力なき者に罪はない！",
-  "en": "",
-  "status": ""
+  "en": "The powerless are not to blame!",
+  "status": "done"
  },
  {
   "id": "event_2190_00211",
@@ -104,8 +104,8 @@
    6024
   ],
   "jp": "{voice:003211}正義は俺達にある！{n}力無き者の代理として、{n}今からブロンキア帝国を討つ！",
-  "en": "",
-  "status": ""
+  "en": "Justice is on our side! In the name of the powerless, we now strike down the Bronquia Empire!",
+  "status": "done"
  },
  {
   "id": "event_2190_0025C",
@@ -116,8 +116,8 @@
    6031
   ],
   "jp": "{voice:003311}俺達に正義を見る者達よ！{n}どうか、手を差し伸べてくれ②",
-  "en": "",
-  "status": ""
+  "en": "All who see justice in us! Reach out your hands to us!!",
+  "status": "done"
  },
  {
   "id": "event_2190_00296",
@@ -128,8 +128,8 @@
    6078
   ],
   "jp": "{voice:003411}あの男め、妄言を吐いて！",
-  "en": "",
-  "status": ""
+  "en": "That man, spouting such lies!",
+  "status": "done"
  },
  {
   "id": "event_2190_002B3",
@@ -140,8 +140,8 @@
    6085
   ],
   "jp": "{voice:003511}無礼な態度を見せたあの時、{n}その場で処断すべきだった……",
-  "en": "",
-  "status": ""
+  "en": "When he showed such insolence that day, I should have passed judgment on the spot...",
+  "status": "done"
  },
  {
   "id": "event_2190_002EF",
@@ -152,8 +152,8 @@
    6232
   ],
   "jp": "{voice:003611}聞くに堪えない演説だな……{n}心に響かぬ。{n}ヴェルマンの方がまだよかった。",
-  "en": "",
-  "status": ""
+  "en": "An unbearable speech... It doesn't move me. Velleman's was better.",
+  "status": "done"
  },
  {
   "id": "event_2190_0033A",
@@ -164,8 +164,8 @@
    6250
   ],
   "jp": "{voice:003711}陛下、ここの防衛は我々に任せ、{n}どうか城内にお戻りください。",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty, leave the defense here to us and please return to the castle.",
+  "status": "done"
  },
  {
   "id": "event_2190_0037A",
@@ -176,8 +176,8 @@
    6268
   ],
   "jp": "{voice:003811}ラピスよ、俺を侮るな。",
-  "en": "",
-  "status": ""
+  "en": "Lapis, don't underestimate me.",
+  "status": "done"
  },
  {
   "id": "event_2190_00395",
@@ -188,8 +188,8 @@
    6275
   ],
   "jp": "{voice:003911}バルドゥスに軍を任せていたのは、{n}古参の有能な将軍が１人いた方が{n}軍の支配を高められるからだ。",
-  "en": "",
-  "status": ""
+  "en": "I left the army to Baldus because one able veteran general strengthens control over the troops.",
+  "status": "done"
  },
  {
   "id": "event_2190_003F6",
@@ -200,8 +200,8 @@
    6293
   ],
   "jp": "{voice:003A11}陛下の軍人としての力量は{n}この私がよく存じております……",
-  "en": "",
-  "status": ""
+  "en": "I know Your Majesty's ability as a soldier very well...",
+  "status": "done"
  },
  {
   "id": "event_2190_00432",
@@ -212,8 +212,8 @@
    6300
   ],
   "jp": "{voice:003B11}しかし、{n}今回は防衛戦でございます。",
-  "en": "",
-  "status": ""
+  "en": "However, this time it is a defensive battle.",
+  "status": "done"
  },
  {
   "id": "event_2190_0045A",
@@ -224,8 +224,8 @@
    6307
   ],
   "jp": "{voice:003C11}激しい攻勢で、陛下の身に{n}危険が及ばないとも限りません。",
-  "en": "",
-  "status": ""
+  "en": "In so fierce an assault, Your Majesty could be in danger.",
+  "status": "done"
  },
  {
   "id": "event_2190_00496",
@@ -236,8 +236,8 @@
    6325
   ],
   "jp": "{voice:003D11}それを守るのがお前の役目だろ？",
-  "en": "",
-  "status": ""
+  "en": "Isn't guarding me your job?",
+  "status": "done"
  },
  {
   "id": "event_2190_004B9",
@@ -248,8 +248,8 @@
    6343
   ],
   "jp": "{voice:003E11}確かに、そうでございますが……",
-  "en": "",
-  "status": ""
+  "en": "It is indeed, however...",
+  "status": "done"
  },
  {
   "id": "event_2190_004DC",
@@ -260,8 +260,8 @@
    6361
   ],
   "jp": "{voice:003F11}俺は、最前線に出たいのだ。{n}それが、武の帝国、ブロンキアの{n}皇帝が果たすべき役割なのだ。",
-  "en": "",
-  "status": ""
+  "en": "I want to be on the front line. That is the role of an Emperor of Bronquia, the Empire of arms.",
+  "status": "done"
  },
  {
   "id": "event_2190_00537",
@@ -272,8 +272,8 @@
    6379
   ],
   "jp": "{voice:004011}…御意に。",
-  "en": "",
-  "status": ""
+  "en": "...As you wish.",
+  "status": "done"
  },
  {
   "id": "event_2190_00546",
@@ -284,8 +284,8 @@
    6445
   ],
   "jp": "{voice:004111}反乱軍、フレアヴェルクの{n}中央に布陣しました！",
-  "en": "",
-  "status": ""
+  "en": "The rebels have taken up positions in the center of Flarewerk!",
+  "status": "done"
  },
  {
   "id": "event_2190_00578",
@@ -296,8 +296,8 @@
    6463
   ],
   "jp": "{voice:004211}……来たか、赤髪。",
-  "en": "",
-  "status": ""
+  "en": "...So you've come, Red.",
+  "status": "done"
  },
  {
   "id": "event_2190_0058F",
@@ -308,8 +308,8 @@
    6481
   ],
   "jp": "{voice:004311}アイツが、{n}魔竜の血の継承者だとはな…",
-  "en": "",
-  "status": ""
+  "en": "To think that man is the heir to the demon dragon's blood...",
+  "status": "done"
  },
  {
   "id": "event_2190_005B9",
@@ -320,8 +320,8 @@
    6499
   ],
   "jp": "{voice:004411}竜の契約者と、竜の血の継承者。{n}面白いじゃないか……{n}どちらが強いか、試してみよう。",
-  "en": "",
-  "status": ""
+  "en": "The dragon's pact-holder and the heir to its blood. How amusing... Let's test which is stronger.",
+  "status": "done"
  },
  {
   "id": "event_2190_00610",
@@ -332,8 +332,8 @@
    6588
   ],
   "jp": "{voice:004511}皇帝ソルティエ自身が出てきたな。",
-  "en": "",
-  "status": ""
+  "en": "Emperor Soltier himself has come out.",
+  "status": "done"
  },
  {
   "id": "event_2190_00635",
@@ -344,8 +344,8 @@
    6618
   ],
   "jp": "{voice:004611}陛下…、いや、ソルティエは、{n}高い軍事センスの持ち主です。",
-  "en": "",
-  "status": ""
+  "en": "His Majesty... No, Soltier has a keen military sense.",
+  "status": "done"
  },
  {
   "id": "event_2190_00673",
@@ -356,8 +356,8 @@
    6625
   ],
   "jp": "{voice:004711}必ずどこかで、{n}巻き返しを図ってくるでしょう…",
-  "en": "",
-  "status": ""
+  "en": "He is sure to attempt a comeback somewhere...",
+  "status": "done"
  },
  {
   "id": "event_2190_006A5",
@@ -368,8 +368,8 @@
    6643
   ],
   "jp": "{voice:004811}奴がこの国の頂点だ。{n}ソルティエを倒せば、国も倒れる。{n}理不尽も終わるはずだ……",
-  "en": "",
-  "status": ""
+  "en": "He's at the top of this country. Beat Soltier and the country falls. The injustice should end too...",
+  "status": "done"
  },
  {
   "id": "event_2190_006F8",
@@ -380,8 +380,8 @@
    6664
   ],
   "jp": "{voice:004911}だからこそ全力で行く！{n}俺達が力の限りぶつかり、{n}この国が折れるか、折れないかだ。",
-  "en": "",
-  "status": ""
+  "en": "That's why I'm going all out! We'll hit them with all we've got, and either this country breaks or it doesn't.",
+  "status": "done"
  },
  {
   "id": "event_2190_0074D",
@@ -392,8 +392,8 @@
    6753
   ],
   "jp": "{voice:004A11}あの皇帝と、刃を交える時が{n}来るとはな……{n}感謝するぜ、ガルカーサ！",
-  "en": "",
-  "status": ""
+  "en": "To think the time's come to cross blades with that Emperor... Thanks, Gulcasa!",
+  "status": "done"
  },
  {
   "id": "event_2190_00794",
@@ -404,8 +404,8 @@
    6763
   ],
   "jp": "{voice:004B11}ガルカーサ！　突撃の号令を②",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa! Give the order to charge!!",
+  "status": "done"
  },
  {
   "id": "event_2190_007B5",
@@ -416,8 +416,8 @@
    6827
   ],
   "jp": "{voice:004C11}ガルカーサ様！{n}城門から敵兵が進軍して来ます②",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa-sama! Enemy soldiers are marching out of the castle gate!!",
+  "status": "done"
  },
  {
   "id": "event_2190_007E7",
@@ -428,8 +428,8 @@
    7490
   ],
   "jp": "{voice:004D11}やはり出て来たな。{n}突撃し、一兵残らず撃破せよ！",
-  "en": "",
-  "status": ""
+  "en": "So they came out. Charge and destroy them, down to the last soldier!",
+  "status": "done"
  },
  {
   "id": "event_2190_0081B",
@@ -440,8 +440,8 @@
    7651
   ],
   "jp": "{voice:004E11}虐げられた民の代弁者として{n}敗北は許されない！",
-  "en": "",
-  "status": ""
+  "en": "We speak for the oppressed people. We can't afford to lose!",
+  "status": "done"
  },
  {
   "id": "event_2190_0084D",
@@ -452,8 +452,8 @@
    7661
   ],
   "jp": "{voice:004F11}徹底的に打ち砕け！{n}目に物を見せてやれ②",
-  "en": "",
-  "status": ""
+  "en": "Smash them completely! Show them what we're made of!!",
+  "status": "done"
  },
  {
   "id": "event_2190_00879",
@@ -464,8 +464,8 @@
    47898
   ],
   "jp": "{voice:005011}こんなものなのか③{n}帝国軍、恐れるに足らず②",
-  "en": "",
-  "status": ""
+  "en": "Is that all!? The Imperial army is nothing to fear!!",
+  "status": "done"
  },
  {
   "id": "event_2190_008A9",
@@ -476,8 +476,8 @@
    48021
   ],
   "jp": "{voice:005111}民が味わった苦痛は{n}こんなものではないぞ！{n}さあ、来いソルティエ②",
-  "en": "",
-  "status": ""
+  "en": "The pain the people tasted was far worse than this! Now come, Soltier!!",
+  "status": "done"
  },
  {
   "id": "event_2190_008EE",
@@ -500,8 +500,8 @@
    48149
   ],
   "jp": "{voice:005211}陛下…、これにてしばしの{n}お別れでございます。",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty... With this we must part for a time.",
+  "status": "done"
  },
  {
   "id": "event_2190_0092B",
@@ -512,8 +512,8 @@
    48167
   ],
   "jp": "{voice:005311}ラピス……",
-  "en": "",
-  "status": ""
+  "en": "Lapis...",
+  "status": "done"
  },
  {
   "id": "event_2190_0093A",
@@ -524,8 +524,8 @@
    48185
   ],
   "jp": "{voice:005411}もし撤退されるのであれば、{n}命を賭けて、お守りしますが{n}陛下はきっとそれを拒むでしょう。",
-  "en": "",
-  "status": ""
+  "en": "Should you withdraw, I would guard you with my life, but I am sure Your Majesty would refuse.",
+  "status": "done"
  },
  {
   "id": "event_2190_00995",
@@ -536,8 +536,8 @@
    48203
   ],
   "jp": "{voice:005511}当然だ…、{n}敗走の恥よりは死を選ぶ。",
-  "en": "",
-  "status": ""
+  "en": "Of course... I choose death over the shame of fleeing.",
+  "status": "done"
  },
  {
   "id": "event_2190_009BD",
@@ -548,8 +548,8 @@
    48221
   ],
   "jp": "{voice:005611}無礼を口にしてしまいました……{n}どうかお許し下さいませ。",
-  "en": "",
-  "status": ""
+  "en": "I have spoken rudely... Please forgive me.",
+  "status": "done"
  },
  {
   "id": "event_2190_009F9",
@@ -560,8 +560,8 @@
    48239
   ],
   "jp": "{voice:005711}私はこれより城門の前に布陣し、{n}奴らを迎撃します。",
-  "en": "",
-  "status": ""
+  "en": "I will now deploy before the castle gate and meet them.",
+  "status": "done"
  },
  {
   "id": "event_2190_00A2F",
@@ -572,8 +572,8 @@
    48305
   ],
   "jp": "{voice:005811}死ぬ気なのだな、ラピス。{n}では、親衛隊として{n}俺を守る役割はどうする？",
-  "en": "",
-  "status": ""
+  "en": "You mean to die, Lapis. Then what of your role, guarding me as captain of my guard?",
+  "status": "done"
  },
  {
   "id": "event_2190_00A78",
@@ -584,8 +584,8 @@
    48323
   ],
   "jp": "{voice:005911}僭越ながら、陛下をお守りする{n}方法は勝利だけでございます。",
-  "en": "",
-  "status": ""
+  "en": "If I may be so bold, the only way to protect Your Majesty is victory.",
+  "status": "done"
  },
  {
   "id": "event_2190_00AB6",
@@ -596,8 +596,8 @@
    48330
   ],
   "jp": "{voice:005A11}防戦から勝利は掴めません……{n}ですから、迎撃こそがお守りする{n}唯一の方法でございます。",
-  "en": "",
-  "status": ""
+  "en": "Victory cannot be won by defense alone... So meeting them head-on is my only way to protect you.",
+  "status": "done"
  },
  {
   "id": "event_2190_00B0F",
@@ -608,8 +608,8 @@
    48348
   ],
   "jp": "{voice:005B11}なるほど…、その通りだな……{n}最後までお前には教えられる。",
-  "en": "",
-  "status": ""
+  "en": "I see... You're right... You still teach me things, to the last.",
+  "status": "done"
  },
  {
   "id": "event_2190_00B4D",
@@ -620,8 +620,8 @@
    48366
   ],
   "jp": "{voice:005C11}恐れ多き、お言葉です。",
-  "en": "",
-  "status": ""
+  "en": "You honor me too much, sire.",
+  "status": "done"
  },
  {
   "id": "event_2190_00B68",
@@ -632,8 +632,8 @@
    48384
   ],
   "jp": "{voice:005D11}では、親衛隊長ラピスに命ずる。{n}…決して、生きて戻るな！{n}果てるまで戦い、勝ちを掴め②",
-  "en": "",
-  "status": ""
+  "en": "Then I command you, Guard Captain Lapis. ...Do not come back alive! Fight to the end and seize victory!!",
+  "status": "done"
  },
  {
   "id": "event_2190_00BC1",
@@ -644,8 +644,8 @@
    48405
   ],
   "jp": "{voice:005E11}必ずや！",
-  "en": "",
-  "status": ""
+  "en": "I will, without fail!",
+  "status": "done"
  },
  {
   "id": "event_2190_00BCE",
@@ -656,8 +656,8 @@
    48518
   ],
   "jp": "{voice:005F11}防戦から勝利は掴めぬ、か……",
-  "en": "",
-  "status": ""
+  "en": "Victory cannot be won by defense alone, is it...",
+  "status": "done"
  },
  {
   "id": "event_2190_00BEF",
@@ -668,8 +668,8 @@
    49057
   ],
   "jp": "{voice:006011}ブロンキア帝国、親衛隊長ラピス！{n}身命を賭してここは通さぬ②",
-  "en": "",
-  "status": ""
+  "en": "Guard Captain Lapis of the Bronquia Empire! On my life, you shall not pass!!",
+  "status": "done"
  },
  {
   "id": "event_2190_00C2F",
@@ -680,8 +680,8 @@
    49121
   ],
   "jp": "{voice:006111}……いいぞ、次々来いよ。{n}全員俺達が撃滅してやるぜ②",
-  "en": "",
-  "status": ""
+  "en": "...Good, keep 'em coming. We'll wipe out every last one of you!!",
+  "status": "done"
  },
  {
   "id": "event_2190_00C67",
@@ -693,8 +693,8 @@
    8456
   ],
   "jp": "私の恋人が兵役に取られたの。{n}…兵役は義務だから仕方ないけど、{n}やっぱり恐かった。",
-  "en": "",
-  "status": ""
+  "en": "My sweetheart was drafted. ...It's a duty, so it can't be helped, but I was still scared.",
+  "status": "done"
  },
  {
   "id": "event_2190_00CB8",
@@ -706,8 +706,8 @@
    8463
   ],
   "jp": "ポストに入ってる封筒を見るたび、{n}中身を見るたび恐くなった。",
-  "en": "",
-  "status": ""
+  "en": "Every time I saw an envelope in the mailbox and looked inside, I was scared.",
+  "status": "done"
  },
  {
   "id": "event_2190_00CF4",
@@ -719,8 +719,8 @@
    8470
   ],
   "jp": "でも、彼は帰ってきた。{n}凱旋門前であなた達に敗れ、{n}降伏を許されたからよ。",
-  "en": "",
-  "status": ""
+  "en": "But he came home. He lost to you at the triumphal gate and you let him surrender.",
+  "status": "done"
  },
  {
   "id": "event_2190_00D3D",
@@ -732,8 +732,8 @@
    8477
   ],
   "jp": "ありがとう、なんていうのも{n}お門違いなのかもしれないけど…",
-  "en": "",
-  "status": ""
+  "en": "Saying thank you may be out of place, but...",
+  "status": "done"
  },
  {
   "id": "event_2190_00D77",
@@ -745,8 +745,8 @@
    8484
   ],
   "jp": "彼を殺さないでいてくれた…{n}私は感謝しているのよ。{n}本当に、ありがとう。",
-  "en": "",
-  "status": ""
+  "en": "You didn't kill him... I'm grateful. Truly, thank you.",
+  "status": "done"
  },
  {
   "id": "event_2190_00DBE",
@@ -758,8 +758,8 @@
    7852
   ],
   "jp": "ムムッ！{n}お前ら、反乱軍か③{n}なんともうここまで来たのか…",
-  "en": "",
-  "status": ""
+  "en": "Hm! You people, you're the rebels!? You've already come this far...",
+  "status": "done"
  },
  {
   "id": "event_2190_00DF7",
@@ -771,8 +771,8 @@
    7859
   ],
   "jp": "よせっ、私はもう貴族ではない。{n}任官をすべて返上し、{n}田舎に帰る事にしたのだ。",
-  "en": "",
-  "status": ""
+  "en": "Stop it, I'm no noble anymore. I've resigned every post and am going back to the country.",
+  "status": "done"
  },
  {
   "id": "event_2190_00E44",
@@ -784,8 +784,8 @@
    7866
   ],
   "jp": "話は終わりだ。{n}私は荷造りで忙しいのだ…",
-  "en": "",
-  "status": ""
+  "en": "This conversation is over. I'm busy packing...",
+  "status": "done"
  },
  {
   "id": "event_2190_00E6C",
@@ -797,8 +797,8 @@
    7877
   ],
   "jp": "…チッ、なんとしつこい奴らだ！{n}仕方ない、コレをくれてやるから、{n}さっさとココを去ね！",
-  "en": "",
-  "status": ""
+  "en": "...Tch, how persistent you are! Oh, very well, I'll give you this. Now begone!",
+  "status": "done"
  },
  {
   "id": "event_2190_00EC1",
@@ -810,8 +810,8 @@
    7952
   ],
   "jp": "さあ去ね、去ねっ②",
-  "en": "",
-  "status": ""
+  "en": "Begone, begone!!",
+  "status": "done"
  },
  {
   "id": "event_2190_00ED4",
@@ -823,8 +823,8 @@
    7976
   ],
   "jp": "まだいたのか？{n}さっさとココを去ね！",
-  "en": "",
-  "status": ""
+  "en": "Still here? Begone at once!",
+  "status": "done"
  },
  {
   "id": "event_2190_00EF8",
@@ -836,8 +836,8 @@
    8098
   ],
   "jp": "お前らが噂の反乱軍か…{n}まさか帝都フレアヴェルクを{n}侵すとはな、恐れ入ったぜ。",
-  "en": "",
-  "status": ""
+  "en": "So you're the rebels I've heard about... Invading the capital, Flarewerk. I'm impressed.",
+  "status": "done"
  },
  {
   "id": "event_2190_00F45",
@@ -849,8 +849,8 @@
    8105
   ],
   "jp": "皇帝を倒すんだろ？{n}…だったら強い武器がいるよな？",
-  "en": "",
-  "status": ""
+  "en": "You're going to beat the Emperor, right? ...Then you'll need strong weapons, won't you?",
+  "status": "done"
  },
  {
   "id": "event_2190_00F77",
@@ -862,8 +862,8 @@
    8116
   ],
   "jp": "いい素材を持ってるな。{n}ちょっと貸してみろ。",
-  "en": "",
-  "status": ""
+  "en": "You've got good materials. Let me have them a minute.",
+  "status": "done"
  },
  {
   "id": "event_2190_00FA3",
@@ -875,8 +875,8 @@
    8293
   ],
   "jp": "ホラ、できたぜ。{n}持っていきな。",
-  "en": "",
-  "status": ""
+  "en": "There, it's done. Take it.",
+  "status": "done"
  },
  {
   "id": "event_2190_00FC3",
@@ -888,8 +888,8 @@
    8317
   ],
   "jp": "…ん？　なんでお前らのために{n}武器を打ったのか、って？",
-  "en": "",
-  "status": ""
+  "en": "...Hm? Why'd I forge a weapon for you, you ask?",
+  "status": "done"
  },
  {
   "id": "event_2190_00FF9",
@@ -901,8 +901,8 @@
    8324
   ],
   "jp": "こんな帝国なら潰れればいい。{n}そう思ってた奴はたくさんいる…",
-  "en": "",
-  "status": ""
+  "en": "Plenty of people figure an Empire like this deserves to fall...",
+  "status": "done"
  },
  {
   "id": "event_2190_01035",
@@ -914,8 +914,8 @@
    8331
   ],
   "jp": "俺もその中のひとりなだけさ。",
-  "en": "",
-  "status": ""
+  "en": "I'm just one of them.",
+  "status": "done"
  },
  {
   "id": "event_2190_01052",
@@ -927,8 +927,8 @@
    8355
   ],
   "jp": "お前らが噂の反乱軍か…{n}まさか帝都フレアヴェルクを{n}侵すとはな、恐れ入ったぜ。",
-  "en": "",
-  "status": ""
+  "en": "So you're the rebels I've heard about... Invading the capital, Flarewerk. I'm impressed.",
+  "status": "done"
  },
  {
   "id": "event_2190_0109F",
@@ -940,8 +940,8 @@
    8362
   ],
   "jp": "帝国を潰す気なんだろ？{n}最後まで気を抜かずにやれよ。",
-  "en": "",
-  "status": ""
+  "en": "You mean to bring down the Empire, right? Stay sharp till the very end.",
+  "status": "done"
  },
  {
   "id": "event_2190_010D3",
@@ -953,8 +953,8 @@
    8578
   ],
   "jp": "ワシは長年空を見てきたが、{n}いま、巨星が揺らいでおる…",
-  "en": "",
-  "status": ""
+  "en": "I have watched the sky for many years, and now a great star wavers...",
+  "status": "done"
  },
  {
   "id": "event_2190_01109",
@@ -966,8 +966,8 @@
    8585
   ],
   "jp": "帝国が陥落する時が来たのだ。",
-  "en": "",
-  "status": ""
+  "en": "The time has come for the Empire to fall.",
+  "status": "done"
  },
  {
   "id": "event_2190_01126",
@@ -979,8 +979,8 @@
    8592
   ],
   "jp": "だが、落ちる直前の星は、{n}その身に強い炎をまとうもの…",
-  "en": "",
-  "status": ""
+  "en": "But a star about to fall wraps itself in fierce flames...",
+  "status": "done"
  },
  {
   "id": "event_2190_0115C",
@@ -992,8 +992,8 @@
    8599
   ],
   "jp": "触れる者全て焼き尽くす業火だ…{n}星を落とす勇者よ、{n}十分に気をつけよ…",
-  "en": "",
-  "status": ""
+  "en": "A raging fire that burns all it touches... Take great care, you heroes who would bring down the star...",
+  "status": "done"
  },
  {
   "id": "event_2190_01223",
@@ -1016,8 +1016,8 @@
    4711
   ],
   "jp": "ソルティエ皇帝隊",
-  "en": "",
-  "status": ""
+  "en": "Emperor Soltier",
+  "status": "done"
  },
  {
   "id": "event_2190_013CA",
@@ -1052,8 +1052,8 @@
    115869
   ],
   "jp": "{voice:006211}……この程度で死ねぬ！",
-  "en": "",
-  "status": ""
+  "en": "...This won't be enough to kill me!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C07B",
@@ -1064,8 +1064,8 @@
    115876
   ],
   "jp": "{voice:006311}陛下の勝ちに繋ぐために、{n}私は折れるわけにはいかぬのだ②",
-  "en": "",
-  "status": ""
+  "en": "To carry His Majesty to victory, I cannot break!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C0B7",
@@ -1076,8 +1076,8 @@
    116645
   ],
   "jp": "{voice:006411}ま、まだ死ねない……",
-  "en": "",
-  "status": ""
+  "en": "N-not dead yet...",
+  "status": "done"
  },
  {
   "id": "event_2190_0C0D0",
@@ -1088,8 +1088,8 @@
    116666
   ],
   "jp": "{voice:006511}しぶといな……{n}さすがは親衛隊長だけはある！",
-  "en": "",
-  "status": ""
+  "en": "Stubborn... Just what you'd expect from the captain of the guard!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C100",
@@ -1100,8 +1100,8 @@
    116673
   ],
   "jp": "{voice:006611}だが、あの皇帝に命を賭ける{n}価値があるのか？",
-  "en": "",
-  "status": ""
+  "en": "But is that Emperor worth risking your life for?",
+  "status": "done"
  },
  {
   "id": "event_2190_0C130",
@@ -1112,8 +1112,8 @@
    116694
   ],
   "jp": "{voice:006711}当然価値はある！{n}貴様が仲間を思う気持ち以上に{n}私は陛下を思っている。",
-  "en": "",
-  "status": ""
+  "en": "Of course he is! I care for His Majesty more than you care for your friends.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C179",
@@ -1124,8 +1124,8 @@
    116704
   ],
   "jp": "{voice:006811}私は陛下を守るため、{n}この命尽きるまで、剣を掲げる！",
-  "en": "",
-  "status": ""
+  "en": "To protect His Majesty, I will raise my sword until this life runs out!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C1B1",
@@ -1136,8 +1136,8 @@
    116722
   ],
   "jp": "{voice:006911}守る？{n}まさか、お前が俺達を足止めし、{n}皇帝を逃がそうとしているのか③",
-  "en": "",
-  "status": ""
+  "en": "Protect? You mean you're holding us back so the Emperor can escape!?",
+  "status": "done"
  },
  {
   "id": "event_2190_0C1FA",
@@ -1148,8 +1148,8 @@
    116743
   ],
   "jp": "{voice:006A11}侮るな！{n}陛下は絶対に退かぬ②",
-  "en": "",
-  "status": ""
+  "en": "Do not insult him! His Majesty will never retreat!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C21C",
@@ -1160,8 +1160,8 @@
    116750
   ],
   "jp": "{voice:006B11}陛下の双剣は勝利を掴む剣だ！{n}その刃に、怯懦の文字はないッ②",
-  "en": "",
-  "status": ""
+  "en": "His Majesty's twin swords are swords that seize victory! No cowardice is written on those blades!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C25C",
@@ -1172,8 +1172,8 @@
    116825
   ],
   "jp": "{voice:006C11}その通りだ。{n}よくぞ言った、ラピス。",
-  "en": "",
-  "status": ""
+  "en": "Just so. Well said, Lapis.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C284",
@@ -1184,8 +1184,8 @@
    117453
   ],
   "jp": "{voice:006D11}俺の双剣はお前を討ち、{n}その血を啜る為にある②",
-  "en": "",
-  "status": ""
+  "en": "My twin swords are here to strike you down and drink your blood!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C2B6",
@@ -1196,8 +1196,8 @@
    117471
   ],
   "jp": "{voice:006E11}陛下②",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C2C1",
@@ -1208,8 +1208,8 @@
    117489
   ],
   "jp": "{voice:006F11}門を開いたか、ソルティエ！{n}覚悟ができたようだな。",
-  "en": "",
-  "status": ""
+  "en": "So you opened the gate, Soltier! I see you're ready.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C2F7",
@@ -1220,8 +1220,8 @@
    117507
   ],
   "jp": "{voice:007011}双剣が肉を裂く感覚を、{n}思い出したくなったまで！",
-  "en": "",
-  "status": ""
+  "en": "I simply wanted to recall how my twin swords feel cutting flesh!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C32B",
@@ -1232,8 +1232,8 @@
    117514
   ],
   "jp": "{voice:007111}そして、ラピスと共に戦い、{n}勝利をこの手に収めんが為！",
-  "en": "",
-  "status": ""
+  "en": "And to fight beside Lapis, and take victory in my own hands!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C365",
@@ -1244,8 +1244,8 @@
    117524
   ],
   "jp": "{voice:007211}ついて参れ、ラピス！",
-  "en": "",
-  "status": ""
+  "en": "Follow me, Lapis!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C37E",
@@ -1256,8 +1256,8 @@
    117588
   ],
   "jp": "{voice:007311}陛下の仰せのままに②",
-  "en": "",
-  "status": ""
+  "en": "As Your Majesty commands!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C397",
@@ -1268,8 +1268,8 @@
    106964
   ],
   "jp": "{voice:007411}陛下……{n}私は…、陛下の、よい家臣で{n}ありましたでしょうか……",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty... Was I... a good retainer to you...",
+  "status": "done"
  },
  {
   "id": "event_2190_0C3D8",
@@ -1292,8 +1292,8 @@
    116001
   ],
   "jp": "{voice:007511}門を開け放て！{n}全軍、討って出るぞ。{n}奴らに死の恐怖を与えてやれ②",
-  "en": "",
-  "status": ""
+  "en": "Throw open the gate! All units, sally forth! Give them the fear of death!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C428",
@@ -1304,8 +1304,8 @@
    116504
   ],
   "jp": "{voice:007611}ラピスの死を無駄にするな！{n}軍勢が乱れた今こそ好機だ②",
-  "en": "",
-  "status": ""
+  "en": "Don't let Lapis's death be for nothing! With their ranks in disorder, now is our chance!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C462",
@@ -1316,8 +1316,8 @@
    107299
   ],
   "jp": "{voice:007711}ガルカーサ…、魔竜の血の力を{n}自ら呼び覚ましたと聞いた。",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa... I heard you awakened the power of the demon dragon's blood yourself.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C49E",
@@ -1328,8 +1328,8 @@
    107306
   ],
   "jp": "{voice:007811}しかしその道は、修羅か羅刹の道。{n}その重みに、気付いてはいまい…",
-  "en": "",
-  "status": ""
+  "en": "But that road is the road of fiends and demons. You can't yet have noticed the weight of it...",
+  "status": "done"
  },
  {
   "id": "event_2190_0C4E2",
@@ -1340,8 +1340,8 @@
    107327
   ],
   "jp": "{voice:007911}そう思うのは、勝手だ。{n}だが俺は、全てを理解し、{n}この力を手に入れた。",
-  "en": "",
-  "status": ""
+  "en": "Think what you like. But I understood everything and took this power.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C52B",
@@ -1352,8 +1352,8 @@
    107348
   ],
   "jp": "{voice:007A11}魔竜の血は人を不幸にする……",
-  "en": "",
-  "status": ""
+  "en": "The demon dragon's blood brings people misery...",
+  "status": "done"
  },
  {
   "id": "event_2190_0C54C",
@@ -1364,8 +1364,8 @@
    107366
   ],
   "jp": "{voice:007B11}お前は力と引き換えに、{n}人である事を失ったのだ。{n}この俺と同じようにな！",
-  "en": "",
-  "status": ""
+  "en": "In exchange for power, you lost your humanity. Just as I did!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C597",
@@ -1376,8 +1376,8 @@
    107387
   ],
   "jp": "{voice:007C11}お前と…、同じ？{n}いや、断じて違う②",
-  "en": "",
-  "status": ""
+  "en": "The same as you...? No, absolutely not!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C5BF",
@@ -1388,8 +1388,8 @@
    107408
   ],
   "jp": "{voice:007D11}どこが違うというのだ！",
-  "en": "",
-  "status": ""
+  "en": "How is it different!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C5DA",
@@ -1400,8 +1400,8 @@
    107415
   ],
   "jp": "{voice:007E11}ガルカーサと名乗ってからの、{n}お前の破壊力と破竹の進撃、{n}そして流した血の量。",
-  "en": "",
-  "status": ""
+  "en": "Since you became Gulcasa: your destructive power, your rampant march, all the blood you've shed.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C62B",
@@ -1412,8 +1412,8 @@
    107422
   ],
   "jp": "{voice:007F11}それこそが魔竜の血がもたらした{n}甘美なる暗黒の力。",
-  "en": "",
-  "status": ""
+  "en": "That is the sweet, dark power the demon dragon's blood brings.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C661",
@@ -1424,8 +1424,8 @@
    107429
   ],
   "jp": "{voice:008011}そのうちにお前は、{n}自分の意志を徐々に失い、{n}魔竜のそれに支配されていく。",
-  "en": "",
-  "status": ""
+  "en": "In time you'll gradually lose your own will and be ruled by the demon dragon's.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C6AE",
@@ -1436,8 +1436,8 @@
    107450
   ],
   "jp": "{voice:008111}後ろを見ろ！　振り返れ②{n}そして転がる屍の山を直視して、{n}己の決断を呪うがいい②",
-  "en": "",
-  "status": ""
+  "en": "Look behind you! Turn around!! Stare at those heaps of corpses and curse your decision!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C701",
@@ -1448,8 +1448,8 @@
    107471
   ],
   "jp": "{voice:008211}黙れ！　俺はお前とは違う……{n}戦いの先に、理不尽のない{n}新しい世界を必ず創り出してやる！",
-  "en": "",
-  "status": ""
+  "en": "Shut up! I'm not like you... Beyond this fight, I will create a new world without injustice!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C75C",
@@ -1460,8 +1460,8 @@
    107492
   ],
   "jp": "{voice:008311}フッ、笑わせてくれる。",
-  "en": "",
-  "status": ""
+  "en": "Heh, don't make me laugh.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C777",
@@ -1472,8 +1472,8 @@
    118947
   ],
   "jp": "{voice:008411}ガハッ…②",
-  "en": "",
-  "status": ""
+  "en": "Gah...!!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C786",
@@ -1484,8 +1484,8 @@
    118968
   ],
   "jp": "{voice:008511}……ここが終焉か。{n}訪れれば、儚いものだな。",
-  "en": "",
-  "status": ""
+  "en": "...So this is the end. How fleeting, when it comes.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C7B6",
@@ -1496,8 +1496,8 @@
    118975
   ],
   "jp": "{voice:008611}しかし、まあいい。{n}これで俺は真の自由を手に入れる。",
-  "en": "",
-  "status": ""
+  "en": "Well, no matter. Now I gain true freedom.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C7EE",
@@ -1508,8 +1508,8 @@
    119006
   ],
   "jp": "{voice:008711}ガルカーサ…{n}お前が、行き着く…、先を、{n}地獄の縁から…見てい…るぞ…",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa... Where you end up... I'll be watching... from the edge of hell...",
+  "status": "done"
  },
  {
   "id": "event_2190_0C837",
@@ -1520,8 +1520,8 @@
    119234
   ],
   "jp": "{voice:008811}陛下、仇敵の娘たる私を拾い、{n}お側に置いて頂きました事を{n}感謝申し上げます。",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty, I thank you for taking in the daughter of your sworn enemy and keeping me at your side.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C886",
@@ -1532,8 +1532,8 @@
    119252
   ],
   "jp": "{voice:008911}どうか安らかにお眠り下さい…",
-  "en": "",
-  "status": ""
+  "en": "Please rest in peace...",
+  "status": "done"
  },
  {
   "id": "event_2190_0C8A7",
@@ -1544,8 +1544,8 @@
    119280
   ],
   "jp": "{voice:008A11}……私もお側に、参ります。",
-  "en": "",
-  "status": ""
+  "en": "...I shall join you at your side.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C8C6",
@@ -1556,8 +1556,8 @@
    119597
   ],
   "jp": "{voice:008B11}俺はアイツとは違う…{n}アイツのように、なるものか…！",
-  "en": "",
-  "status": ""
+  "en": "I'm not like him... I'll never become like him...!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C8FE",
@@ -1568,8 +1568,8 @@
    120122
   ],
   "jp": "{voice:008C11}勝ったのですか、我々が…？",
-  "en": "",
-  "status": ""
+  "en": "Did we win...?",
+  "status": "done"
  },
  {
   "id": "event_2190_0C91D",
@@ -1580,8 +1580,8 @@
    120143
   ],
   "jp": "{voice:008D11}大勝利じゃねぇか！{n}反乱によって、皇帝は倒れたんだ！",
-  "en": "",
-  "status": ""
+  "en": "A huge victory! The rebellion brought down the Emperor!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C955",
@@ -1592,8 +1592,8 @@
    120150
   ],
   "jp": "{voice:008E11}これは革命だ！{n}ブロンキア帝国は終わる……",
-  "en": "",
-  "status": ""
+  "en": "This is a revolution! The Bronquia Empire is finished...",
+  "status": "done"
  },
  {
   "id": "event_2190_0C983",
@@ -1604,8 +1604,8 @@
    120157
   ],
   "jp": "{voice:008F11}いや、生まれ変わるのだな。{n}ガルカーサの手で！",
-  "en": "",
-  "status": ""
+  "en": "No, it's reborn. By Gulcasa's hand!",
+  "status": "done"
  },
  {
   "id": "event_2190_0C9B5",
@@ -1616,8 +1616,8 @@
    120175
   ],
   "jp": "{voice:009011}新生ブロンキア帝国ですね。",
-  "en": "",
-  "status": ""
+  "en": "A new Bronquia Empire.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C9D4",
@@ -1628,8 +1628,8 @@
    120193
   ],
   "jp": "{voice:009111}シスキア……{n}私達は、成し遂げました。",
-  "en": "",
-  "status": ""
+  "en": "Siskier... We did it.",
+  "status": "done"
  },
  {
   "id": "event_2190_0C9FE",

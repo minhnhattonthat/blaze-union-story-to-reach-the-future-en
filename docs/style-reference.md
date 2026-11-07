@@ -21,7 +21,7 @@ Voice per character: the JP markers and the English devices that carry them. Gro
 | Mizer | ケーッケッケ, ゲスな | Sleazy swagger, gloats, "Keh-keh-keh!" |
 | Leon | 俺, 冷静 | Terse, soldierly, tired. |
 | Baldus | 俺/儂, military | Gruff old commander: "lad", "hmph". |
-| Soltier | 朕/余 | Imperial, disdainful, archaic: "We". |
+| Soltier | 俺 (b089, b105), ～だ | Bored, sharp, disdainful military Emperor: plain "I", short sentences, no archaic "We". |
 | Eudy | 私, ～わよ, きゃはは, 様 | Cheerfully amoral genius in glasses: "Kyahaha!", "the great Eudy-sama", talks of cannons as art, sharp comebacks. |
 | Sleip | あっし, ヒック, ウィ～ | Undine drunk: "*hic*", "ooh", rough "ain't", "y'hear", then sudden plain sadness. Calls Mizer "sonny". |
 | Mizer | オイラ, ～だぜ, 親分 | Cocky young pickpocket: "Coin, get!", quick talker, grumbles, never self-pitying. |
