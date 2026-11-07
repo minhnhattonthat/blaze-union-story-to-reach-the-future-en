@@ -15,6 +15,10 @@ Minor fixes to make before release (phase 9 gate: no unticked line). Ids are `bN
 - [ ] M9. Add open rows to `docs/decisions.md`: unit-name short forms (Blaze Corps, Papal, Baldus Steel), 屍兵 "Corpse" (`eboot_25996C`, b024:49), and the content rule now only in the brief and `docs/status.md`.
 - [ ] M10. Glossary tidying: カローナ is "official" at `glossary.md:67` and a guess at `:108`; about 25 place names and ブライ Bly are marked guesses.
 
+## From the per-chunk reviewer pass (docs/review.md)
+
+- [ ] r09 b141:22 赤髪 "Red": glossary has "Red" for Pandra and Leon, "the redhead" for Soltier; confirm this item-use block's speaker and match.
+
 ## Cut for space (D4: flagged last resort)
 
 Engine first: wider windows and a moved window went in where they could (`data/windows.json`). What is left:
