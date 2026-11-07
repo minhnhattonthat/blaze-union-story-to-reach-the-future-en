@@ -656,7 +656,7 @@
    9317
   ],
   "jp": "{voice:008B0F}そして、それを否定する事が{n}私にはできない。",
-  "en": "And I can't deny it.",
+  "en": "And I cannot deny it.",
   "status": "done"
  },
  {
@@ -968,7 +968,7 @@
    12211
   ],
   "jp": "{voice:00A50F}だが、疲弊している筈の{n}今ですら、それができないと{n}思い知らされたよ。",
-  "en": "But now I've learned I can't do it, even with you as worn out as you should be.",
+  "en": "But now I have learned I cannot, even with you as worn out as you should be.",
   "status": "done"
  },
  {
@@ -1220,7 +1220,7 @@
    13420
   ],
   "jp": "{voice:00B90F}ガーロット！　アンタ団長でしょ！{n}武器を拾えって！{n}みんなにもそう言って②",
-  "en": "Garlot! You're the Captain, aren't you! Pick up your sword! Tell everyone to do it too!!",
+  "en": "Garlot! You're the Captain, aren't you! Pick up your weapon! Tell everyone to do it too!!",
   "status": "done"
  },
  {
@@ -1665,7 +1665,7 @@
    33883
   ],
   "jp": "{voice:00D50F}気持ちがざわつく。{n}こんなの…、生まれて初めてだ！",
-  "en": "It's making my heart pound. I've... I've never felt anything like this in my life!",
+  "en": "Something's stirring in me. I've... I've never felt anything like this in my life!",
   "status": "done"
  },
  {
@@ -3177,7 +3177,7 @@
    27353
   ],
   "jp": "許しを乞おうとは思わぬ。{n}これが私の選んだ道なのだ。",
-  "en": "I won't ask for forgiveness. This is the path I chose.",
+  "en": "I will not ask for forgiveness. This is the path I chose.",
   "status": "done"
  },
  {

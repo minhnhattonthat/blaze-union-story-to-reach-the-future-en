@@ -29,7 +29,9 @@ Minor fixes to make before release (phase 9 gate: no unticked line). Ids are `bN
 - [ ] r12 Chronicle replay dialogue b029:12-144 differs in wording from the event copies (b040:95-100, b041:72-78 and the rest): copy the event English over where it fits.
 - [ ] r07 Pamela's だわさ flattened to plain English: b112:88, b114:85, b115:52, b120:121, b121:27, b121:70, b123:22 (same as r10's deferral; pick one device and apply it to all her だわさ lines).
 - [ ] r07 Byff's weaker puns: b120:27 仮定/かてぇ "That is what-iff", b120:114 復讐復讐 heard as a sneeze (English has no sound joke), b114:66 老将/朗笑 "You soldier on".
-- [ ] r07 Event unit labels in byte-fixed slots: 王国軍 "Army" (b110:117-119, b112:57-58, b115:88; slots 6-26 bytes) where the EBOOT label says "Royal" (r11 b019:86), ネシア屍兵団 "Nessiah Army" (b123:76, 12 bytes, drops 屍兵). Needs the label string moved to grow.
+- [ ] r07 Event unit labels in byte-fixed slots: 王国軍 "Army" (b110:117-119, b112:57-58, b115:88; slots 6-26 bytes) where the EBOOT label says "Royal" (r11 b019:86), ネシア屍兵団 "Nessiah Army" (b123:76, 12 bytes, drops 屍兵). Needs the label string moved to grow. Same for r06: ヴェルマン隊A/B "Velleman A/B" (b100:139-140), ベアトリーヌ隊 "Baretreenu" (b102:120), ソルティエ皇帝隊 "Emperor Soltier" (b105:80) drop 隊 (unit).
+- [ ] r06 私兵団邸 has three wordings: "the band's residence" (b099:7), "the residence" (b099:81, b100:15), "the mansion" / "the private army's mansion" (b109:48-60). Pick one.
+- [ ] r06 Pamela's だわさ flattened (b101:126, b102:39-40, b107:43, b110:125), with r07's list; Aegina's contractions (b107:29, b109:16, b109:30) against her strict register.
 - [ ] r12 b030:76 ひとつ覗いてみませんか (care to take a peek?) is "How about a dip?": decide in the story pass whether the content rule covers it (the bath scenes include young characters).
 - [ ] r12 book text cut to 3 rows: b030:97 drops 方伯 "Margrave", b030:110 drops "to friend and foe", b030:121 drops "on his master's orders".
 - [ ] r12 b032:21 これで万事解決× "All Fixed! (Not)" adds a joke the JP lacks (× is an emphasis mark): "All Fixed!!"
