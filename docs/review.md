@@ -22,3 +22,9 @@
   - r04 (b073-b085), 2026-11-07, fresh read-only Claude worker (pairs file regenerated first): Approved after fixes. 6 Important fixed: Eater's adult innuendo sanitised against the brief (b075:16 the thug's day/night tales, b075:50 "every night", b079:7 "a little taste", b079:62 Leon's spear, b081:74 "just as we were born"), 神界 "the divine realm" against the glossary's Heaven (b081:68), "undine" lowercase (b084:84). 5 Minors fixed (b073:33, b078:67/81/94 Sleip's "and so on", b076:41, b074:118, b085:101); 15 records; byte-fixed labels and 4 more to `docs/polish.md`.
   - r05 (b086-b098), 2026-11-07, fresh read-only Claude worker (pairs file regenerated first): Approved after fixes. 9 Important fixed, all adult innuendo sanitised against the brief: Pandra's 都会の女を抱きたい (b087:73), Pandra and Eater's night offer (b088:54, 110, 111), Eater's shackle "this and that" (b089:84), 太さと硬さ (b095:91), 付いているモノも小さそう (b096:110), 下半身がジンと (b097:36), 付いてんだろ (b097:38). 10 Minors fixed (b086:3/24/47 川を挟んで "three sides of the river", b086:106, b086:121 a stray "she", b088:52 and b089:111 Nessiah's laugh, b093:91 Pamela's third person, b094:11, b095:99 a spear called a blade); 19 records; byte-fixed labels and 3 more to `docs/polish.md`. Content rule kept for the young targets: b088:66 (Siskier), b095:22 (Elena), b096:94 (Jenon).
 - **Still to do:** when codex is available again, `python -X utf8 tools/pairs.py --size 1500 --out work/qa/review` then `bash tools/review.sh`; reports land in `work/qa/review/`. The story pass in phase 9 reads every chapter regardless.
+
+## Story pass (phase 9)
+
+One read-only read per chapter file, by the worker named in the session, per `docs/story-reviewer-brief.md`. Verdicts mirror `work/qa/story/verdicts/`.
+
+- c1 (events 2149-2154, b035-b040): fixed. b039:60 そやつ read as David, it is Garlot. Continuity, voices and the Medoute and Junon gags hold. Read by the worker who ran the polish pass, not independent.
