@@ -23,11 +23,19 @@ OUT = ROOT / "work/gfx"
 # stroke: (width, colour) or (width, "rows-dark"). clear: "alpha" (transparent) or "bg" (box border's commonest colour).
 STYLES = {
     "banner": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(2, "dark"), clear="alpha", align="c"),
+    "banner-l": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(2, "dark"), clear="alpha", align="l"),
+    "vbanner": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(2, "dark"), clear="alpha", align="c", rot=True),
     "menu": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="l"),
     "menu-c": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="c"),
     "label": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="alpha", align="l"),
     "panel": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="l"),
     "panel-c": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="c"),
+    # text over art: "art" with EN "-" smears the art over the Japanese box, then "over" draws in a box of its own
+    "art": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear="inpaint", align="l"),
+    "mirror": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear="mirror", align="l"),
+    "over": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear=None, align="l"),
+    "over-c": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear=None, align="c"),
+    "over1": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(1, (16, 16, 32)), clear=None, align="l"),
 }
 MIN_X = 0.62  # narrowest horizontal squeeze before the size shrinks instead
 
@@ -120,7 +128,8 @@ def text_layer(text, st, w, h):
     return lay
 
 
-def draw(img, box, style, en):
+def draw(img, box, style, en, s=1.0):
+    """s < 1 draws the English smaller than the box (fitted(): a packed group with no room for more ink)."""
     st = STYLES[style]
     x, y, w, h = box
     fills, dark = sample(img.crop((x, y, x + w, y + h)))
@@ -133,20 +142,30 @@ def draw(img, box, style, en):
         dark = tuple(sum(p[i] for p in ink) // len(ink) for i in range(3))
         fills = [dark] * h
         img.paste(Image.new("RGBA", (w, h), bgc), (x, y))
-    else:
+    elif st["clear"] == "inpaint":
+        inpaint(img, box)
+    elif st["clear"] == "mirror":  # symmetric art (terrain diamonds): the box takes the mirror of the other side
+        img.paste(img.crop((img.width - x - w, y, img.width - x, y + h)).transpose(Image.FLIP_LEFT_RIGHT), (x, y))
+    elif st["clear"] == "alpha":
         img.paste(Image.new("RGBA", (w, h), (0, 0, 0, 0)), (x, y))
+    if isinstance(st["fill"], tuple):
+        fills, dark = [st["fill"]] * h, st["stroke"][1] if st["stroke"] else (0, 0, 0)
     if not en:
         return
-    lay = text_layer(en, st, w, h)
-    ox = x + {"l": 0, "c": (w - lay.width) // 2, "r": w - lay.width}[st["align"]]
-    oy = y + (h - lay.height) // 2
+    tw, th = max(int(w * s), 1), max(int(h * s), 6)
+    if st.get("rot"):  # vertical Japanese: English reads top to bottom, turned 90 degrees clockwise
+        lay = text_layer(en, st, th, tw).transpose(Image.ROTATE_270)
+    else:
+        lay = text_layer(en, st, tw, th)
+    ox =x + {"l": 0, "c": (w - lay.width) // 2, "r": w - lay.width}[st["align"]]
+    oy = y if st.get("rot") else y + (h - lay.height) // 2  # vertical titles hang from the top, as the Japanese
     src = lay.load()
     dst = img.load()
     for j in range(lay.height):
         f = fills[min(max(oy + j - y, 0), h - 1)]
         for i in range(lay.width):
             r, g, b, a = src[i, j]
-            if not a or not (y <= oy + j < y + h and x <= ox + i < x + w):
+            if not a or not (y <= oy + j < min(y + h, img.height) and x <= ox + i < min(x + w, img.width)):
                 continue
             t = r / 255
             c = tuple(int(dark[k] + (f[k] - dark[k]) * t) for k in range(3))
@@ -155,11 +174,57 @@ def draw(img, box, style, en):
             dst[ox + i, oy + j] = tuple(int(c[k] * al + bg[k] * (1 - al)) for k in range(3)) + (max(a, bg[3]),)
 
 
-def english(label, items):
+def inpaint(img, box):
+    """Remove white outlined lettering in box: mask its fill plus 3 px of outline, then fill the mask from what is
+    around it (premultiplied RGBA, 4-neighbour mean), so art and transparency outside the letters stay."""
+    import numpy as np
+    x, y, w, h = box
+    X0, Y0, X1, Y1 = max(x - 1, 0), max(y - 1, 0), min(x + w + 1, img.width), min(y + h + 1, img.height)
+    a = np.array(img.crop((X0, Y0, X1, Y1))).astype(float)
+    inbox = np.zeros(a.shape[:2], bool)
+    inbox[y - Y0:y - Y0 + h, x - X0:x - X0 + w] = True
+    m = (a[..., :3].min(axis=2) > 170) & (a[..., 3] > 60) & inbox
+    for _ in range(3):
+        g = m.copy()
+        g[1:] |= m[:-1]; g[:-1] |= m[1:]; g[:, 1:] |= m[:, :-1]; g[:, :-1] |= m[:, 1:]
+        m = g & inbox
+    a[..., :3] *= a[..., 3:] / 255
+    known = ~m
+    while not known.all():
+        acc, n = np.zeros(a.shape), np.zeros(known.shape)
+        for dy, dx in ((1, 0), (-1, 0), (0, 1), (0, -1)):
+            k = np.roll(known, (dy, dx), (0, 1))
+            acc += np.roll(a, (dy, dx), (0, 1)) * k[..., None]
+            n += k
+        new = ~known & (n > 0)
+        a[new] = acc[new] / n[new][:, None]
+        known |= new
+    al = a[..., 3:]
+    a[..., :3] = np.where(al > 0, a[..., :3] * 255 / np.maximum(al, 1e-6), 0)
+    img.paste(Image.fromarray(a.round().clip(0, 255).astype("uint8")), (X0, Y0))
+
+
+def english(label, items, s=1.0):
     img = sprite.image(label).copy()
     for box, style, jp, en in items:
-        draw(img, box, style, en)
+        draw(img, box, style, en, s)
     return img
+
+
+def fitted(label, items):
+    """-> (image, scale): the largest English (scale 1 down to 0.5) whose ink the group's slices and cells can hold."""
+    d, kind, off = sprite.load(label)
+    err = None
+    for s in (1, .92, .85, .78, .7, .62, .55, .5):
+        img = english(label, items, s)
+        if kind != "ptg":
+            return img, s
+        try:
+            gfx.repack(bytearray(d), off, img, pal=gfx.group_palette(d, off))
+            return img, s
+        except ValueError as e:
+            err = e
+    raise ValueError(f"{label}: {err}")
 
 
 def edits(log=ROOT / "build/gfx.txt"):
@@ -167,7 +232,7 @@ def edits(log=ROOT / "build/gfx.txt"):
     files = {}
     lines = []
     for label, items in rows().items():
-        img = english(label, items)
+        img, s = fitted(label, items)
         d, kind, off = sprite.load(label)
         a, b = gfx.span(d, off) if kind == "ptg" else (off, off + gfx.ptx_size(d, off))
         pal = gfx.group_palette(d, off) if kind == "ptg" else sprite.palette_at(d, off)
@@ -215,7 +280,9 @@ def preview(labels):
     rs = rows()
     for label in labels or rs:
         old = sprite.image(label)
-        new = english(label, rs.get(label, []))
+        new, s = fitted(label, rs[label]) if label in rs else (old, 1)
+        if s < 1:
+            print(f"{label}: English drawn at {s:.0%} to fit the group")
         d, kind, off = sprite.load(label)
         new = gfx.snapped(new, gfx.group_palette(d, off) if kind == "ptg" else sprite.palette_at(d, off))
         sheet = Image.new("RGBA", (old.width, old.height * 2 + 4), (70, 70, 110, 255))
@@ -227,8 +294,9 @@ def preview(labels):
 
 if __name__ == "__main__":
     cmd, args = sys.argv[1], sys.argv[2:]
-    if cmd == "boxes":
-        for lab in args:
-            boxes(lab)
+    if cmd == "boxes":  # boxes LABEL.. [--gap N]: smaller gap splits words
+        gap = int(args.pop(args.index("--gap") + 1)) if "--gap" in args else 6
+        for lab in [a for a in args if a != "--gap"]:
+            boxes(lab, gap)
     elif cmd == "preview":
         preview(args)

@@ -73,6 +73,8 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | シャーミネル | Sharminel | | | |
 | ニーベル | Nibel | | ニーベル街区 Nibel Quarter | |
 | ネザー | Nether | | ネザー地区 Nether District | |
+| ニルルド | Nilrud | | ニルルド砂漠 Nilrud Desert, chapter card only (a guess, no source) | |
+| レグナー | Regner | | レグナーの丘 Regner Hill, chapter card only (a guess, no source) | |
 | イーザー | Ether | | イーザー渓谷 Ether Gorge | |
 | エリス | Eris | | エリス居住区 Eris Residential Quarter | |
 
@@ -105,6 +107,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - ヒック -> *hic*. フフフ -> "Heh heh heh" (Nessiah: "Hehehe..."). ケーッケッケッケ -> "Keh-keh-keh-keh!"
 - b088 to b105: 鋼鉄騎団 Steel Knights (Baldus Steel in unit-name slots), 軍神 War God, ブロンキアの盾 Shield of Bronquia, 魔竜 demon dragon, 勇者ギル the hero Gil, 凱旋門 triumphal gate, 親衛隊長 captain of the guard / Guard Captain, フサフサ (Medoute's name for Byff) Fuzzy, 魚の嬢ちゃん little fish lady, ダンチョーお兄ちゃん Big Brother Captain, お兄様 big brother, ハセオ Haseo (horse), ヴァネッサ Vanessa, 魔水晶 magic crystal, 記念コイン commemorative coin, 赤髪 Red (Pandra, Leon) / the redhead (Soltier), 悩みんぼ worrybugs (Siskier's coinage).
 - b106 to b136: 焔帝 Flame Emperor (the script glosses it as an emperor of fire, so not Yggdra Union's English title), パルティナ Paltina (official), パルティナ王城 Paltina Castle, 王都 the royal capital, カノッサ街道 Canossa Road, エラク Erak, フローネ Flone, ブライ Bly (a guess, no source), 魔剣士 Magic Swordsman (Russell), 呪手術 arcane surgery, 宰相 Chancellor, 聖剣 Holy Sword, 天意 Heaven's will, 現人神 living god, 姉さん Sister (Aegina, Yggdra to Aegina), お姉様 elder sister (Yggdra; Aegina corrects it), お姉ちゃん big sis (Eimi), ダークマター Dark Matter, 砂の薔薇 Sand Rose, スターダスト Stardust, メプル Mepuru, ダイヤモンドダスト Diamond Dust, ブリザード Blizzard. Tutorial: デュエルオーダー Duel Order, 戦況予想 battle forecast, 連戦ハンデ Streak Handicap, 連係攻撃 combo attack, ×タイプ X Type, ＋タイプ + Type, リンク展開 Link Deployment, 投石器 catapult, 水辺地形 waterside terrain, チャージゲージ Charge Gauge, 武器タイプ Weapon Type, 必殺技 special move.
+- Sprites (phase 8): terrain 街道 Road, 架橋 Bridge, 草原 Grassland, 荒野 Wasteland, 森林 Forest, 砂漠 Desert, 毒沼 Poison Swamp, 水辺 Waterside, 氷上 Ice, 集落 Village, 都市 City, 城砦 Fortress, 雪道 Snowy Road, 雪原 Snowfield, 路地 Alley, 街路 Street; 士気 Morale; 進撃！ Advances!; 桟道 Cliff Road; 私兵団邸 Private Army Manor; 帝都近郊 Near the Capital; 謁見の間 Throne Room; 伯爵領 County, 侯爵領 Marquisate, 公爵領 Duchy; button help カーソル移動 Move Cursor, 配置確認 Deployment, ポイント振り分け Assign Points, 勝利条件マップ Objectives Map.
 - b001 to b034, places (guesses, no source): ジッカート Jikkart, アルト川 Alto River, ラネシァ川 Ranesha River, ララ岬 Cape Lara, ダーム Dahm, ミネルロード Minel Road, ソネッタ Sonetta, ライネ Raine, アライク Araik, トリビデ Toribide, フラウベ Flaube, ロナリス Ronaris, ジェノマ Genoma, ビスタ川 Bista River, マーロイ Maloy, モザレフ Mozalef, ムンバール Mumbal, イストラカ Istraka, リーブル Livre, ラーゼス Rases, バルーダー Baluder, リラ Lila, リヴィア Rivia, サルバ Salva, トカニク Tokanik, カローナ Karona.
 - NPC names used as words, not romanized: オヤカタ Foreman, デシ Apprentice, so 鍛冶屋オヤカタ Blacksmith Foreman, デシの家 Apprentice's House. リーブルの町 Town of Livre.
 - Font 2's custom glyphs spell English, and the game means it: ①..⑭ "Thank you for your playing!!" (kept as is), ⑮⑯⑰⑱ "-Girl's", ☆●○◎ "-Boy's", ⑭ alone "!!". Other fonts use ② and ③ as the emphasis marks above.

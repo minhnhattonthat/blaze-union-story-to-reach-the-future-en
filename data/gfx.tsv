@@ -47,3 +47,364 @@
 3@499590	39,2,87,17	panel	有利	Advantage
 3@499590	39,23,87,17	panel	不利	Disadvantage
 3@499590	39,44,87,17	panel	互角	Even
+# Terrain labels: map cursor panel (large) and battle forecast (small); same order in both sets
+3@480830	0,20,42,28	mirror	街道	-
+3@480830	0,22,44,24	over	街道	Road
+3@481bb0	0,20,42,28	mirror	架橋	-
+3@481bb0	0,22,44,24	over	架橋	Bridge
+3@482f30	0,20,42,28	mirror	草原	-
+3@482f30	0,16,78,22	over	草原	Grassland
+3@4842b0	0,20,42,28	mirror	荒野	-
+3@4842b0	0,16,78,22	over	荒野	Wasteland
+3@4855b0	0,20,42,28	mirror	森林	-
+3@4855b0	0,22,44,24	over	森林	Forest
+3@486930	0,20,42,28	mirror	砂漠	-
+3@486930	0,22,44,24	over	砂漠	Desert
+3@487cb0	0,20,42,28	mirror	毒沼	-
+3@487cb0	0,16,78,22	over	毒沼	Poison Swamp
+3@489030	0,20,42,28	mirror	水辺	-
+3@489030	0,16,78,22	over	水辺	Waterside
+3@48a3b0	0,20,42,28	mirror	氷上	-
+3@48a3b0	0,22,44,24	over	氷上	Ice
+3@48b730	0,20,42,28	mirror	集落	-
+3@48b730	0,16,78,22	over	集落	Village
+3@48cab0	0,20,42,28	mirror	都市	-
+3@48cab0	0,22,44,24	over	都市	City
+3@48de30	0,20,42,28	mirror	城砦	-
+3@48de30	0,16,78,22	over	城砦	Fortress
+3@48f1b0	0,20,42,28	mirror	雪道	-
+3@48f1b0	0,16,78,22	over	雪道	Snowy Road
+3@490530	0,20,42,28	mirror	雪原	-
+3@490530	0,16,78,22	over	雪原	Snowfield
+3@4918b0	0,20,42,28	mirror	路地	-
+3@4918b0	0,22,44,24	over	路地	Alley
+3@492c30	0,20,42,28	mirror	街路	-
+3@492c30	0,22,44,24	over	街路	Street
+3@4cc8e0	0,0,31,24	label	街道	-
+3@4cc8e0	0,9,46,14	over	街道	Road
+3@4ccff0	0,0,31,24	label	架橋	-
+3@4ccff0	0,9,46,14	over	架橋	Bridge
+3@4cd700	0,0,31,24	label	草原	-
+3@4cd700	0,9,62,14	over	草原	Grassland
+3@4cde10	0,0,31,24	label	荒野	-
+3@4cde10	0,9,62,14	over	荒野	Wasteland
+3@4ce520	0,0,31,24	label	森林	-
+3@4ce520	0,9,46,14	over	森林	Forest
+3@4cec30	0,0,31,24	label	砂漠	-
+3@4cec30	0,9,46,14	over	砂漠	Desert
+3@4cf340	0,0,31,24	label	毒沼	-
+3@4cf340	0,9,62,14	over	毒沼	Poison Swamp
+3@4cfa50	0,0,31,24	label	水辺	-
+3@4cfa50	0,9,62,14	over	水辺	Waterside
+3@4d0160	0,0,31,24	label	氷上	-
+3@4d0160	0,9,46,14	over	氷上	Ice
+3@4d0870	0,0,31,24	label	集落	-
+3@4d0870	0,9,62,14	over	集落	Village
+3@4d0f80	0,0,31,24	label	都市	-
+3@4d0f80	0,9,46,14	over	都市	City
+3@4d1690	0,0,31,24	label	城砦	-
+3@4d1690	0,9,62,14	over	城砦	Fortress
+3@4d1da0	0,0,31,24	label	雪道	-
+3@4d1da0	0,9,62,14	over	雪道	Snowy Road
+3@4d24b0	0,0,31,24	label	雪原	-
+3@4d24b0	0,9,62,14	over	雪原	Snowfield
+3@4d2bc0	0,0,31,24	label	路地	-
+3@4d2bc0	0,9,46,14	over	路地	Alley
+3@4d32d0	0,0,31,24	label	街路	-
+3@4d32d0	0,9,46,14	over	街路	Street
+# Button help atlas (field, prep, status screens; English buttons on the same atlas stay)
+3@faa20	24,74,71,21	menu	カーソル移動	Move Cursor
+3@faa20	136,74,26,12	menu	:選択	:Select
+3@faa20	0,97,57,16	menu	:ステータス	:Status
+3@faa20	57,97,57,16	menu	:配置確認	:Deployment
+3@faa20	115,97,34,16	menu	:戻る	:Back
+3@faa20	0,113,88,15	menu	:ポイント振り分け	:Assign Points
+3@faa20	88,113,82,15	menu	勝利条件マップ	Objectives Map
+# Field labels atlas (English digits and words on it stay)
+3@403560	0,48,149,14	menu	非戦闘キャラクターです	Non-combat character
+3@403560	149,48,16,12	menu	士気	Morale
+3@403560	116,102,50,15	panel-c	メニュー	Menu
+3@403560	0,168,177,30	banner	フィールドマップ確認中	Viewing Field Map
+3@403560	0,214,131,33	banner	ステータス確認中	Viewing Status
+# Chapter cards (1970-2028): title + location, title alone, vertical title beside the map. Titles from the
+# EBOOT's chapter table (0x236A04), so the chronicle and save list read the same. Other files with the same bytes
+# (1992, most of 2026) get the edit through gfx.copies.
+1970@30	0,0,300,48	banner	義賊団参上！	Enter the Justice Corps!
+1970@30	0,49,300,23	banner	ティエラ・ネザー地区西	Tiera, Nether District West
+1970@2f30	57,0,134,42	banner	義賊団参上！	Enter the Justice Corps!
+1970@3a30	0,0,30,180	vbanner	義賊団参上！	Enter the Justice Corps!
+1971@30	0,0,300,47	banner	テンガロンの女	The Woman in the Ten-Gallon Hat
+1971@30	0,48,300,24	banner	ティエラ・ネザー地区中央	Tiera, Central Nether District
+1971@2f40	45,0,158,42	banner	テンガロンの女	The Woman in the Ten-Gallon Hat
+1971@3a40	0,0,30,180	vbanner	テンガロンの女	The Woman in the Ten-Gallon Hat
+1972@30	0,0,300,48	banner	傭兵団対義賊団	Mercenaries vs. Justice Corps
+1972@30	0,49,300,23	banner	ティエラ・ネザー地区東	Tiera, Nether District East
+1972@2f10	39,0,169,42	banner	傭兵団対義賊団	Mercenaries vs. Justice Corps
+1972@3e90	0,0,30,180	vbanner	傭兵団対義賊団	Mercenaries vs. Justice Corps
+1973@30	0,0,300,48	banner	大人達のルール	Grown-Up Rules
+1973@30	0,49,300,23	banner	ティエラ・ネザー地区北	Tiera, Nether District North
+1973@2fd0	40,0,167,42	banner	大人達のルール	Grown-Up Rules
+1973@3b50	0,0,30,180	vbanner	大人達のルール	Grown-Up Rules
+1974@30	0,0,300,48	banner	決戦、デイヴィド！	Decisive Battle: David!
+1974@30	0,49,300,23	banner	ティエラ・ネザー地区東	Tiera, Nether District East
+1974@3020	39,0,170,42	banner	決戦、デイヴィド！	Decisive Battle: David!
+1974@3ca0	0,0,30,180	vbanner	決戦、デイヴィド！	Decisive Battle: David!
+1975@30	0,0,300,48	banner	力をこの手に	Power in These Hands
+1975@30	0,49,300,23	banner	イストラカ荒原	Istraka Wastes
+1975@2f70	54,0,139,42	banner	力をこの手に	Power in These Hands
+1975@39f0	0,0,30,180	vbanner	力をこの手に	Power in These Hands
+1976@30	0,0,300,47	banner	フレアヴェルク上洛	To Flarewerk
+1976@30	0,48,300,24	banner	イーザー渓谷・桟道東部	Ether Gorge, East Cliff Road
+1976@3000	29,0,190,42	banner	フレアヴェルク上洛	To Flarewerk
+1976@3d00	0,0,30,180	vbanner	フレアヴェルク上洛	To Flarewerk
+1977@30	0,0,300,47	banner	駆けてきた姉妹	The Sisters Who Came Running
+1977@30	0,48,300,24	banner	アルベルト侯爵領・市街地	Albelt Marquisate, Town
+1977@2f80	42,0,164,42	banner	駆けてきた姉妹	The Sisters Who Came Running
+1977@3d00	0,0,30,180	vbanner	駆けてきた姉妹	The Sisters Who Came Running
+1978@30	0,0,300,47	banner	戦士と狂気	Warrior and Madness
+1978@30	0,48,300,24	banner	北部辺境・帝国軍駐屯地	Northern Frontier, Imperial Garrison
+1978@2f30	65,0,118,42	banner	戦士と狂気	Warrior and Madness
+1978@3930	0,0,30,180	vbanner	戦士と狂気	Warrior and Madness
+1979@30	0,0,300,48	banner	夜盗を追え！	Chase the Night Bandits!
+1979@30	0,49,300,23	banner	ティエラ・ニーベル街区	Tiera, Nibel Quarter
+1979@2ef0	59,0,130,42	banner	夜盗を追え！	Chase the Night Bandits!
+1979@39f0	0,0,30,180	vbanner	夜盗を追え！	Chase the Night Bandits!
+1980@30	0,0,300,48	banner	変わり者、募集中	Oddballs Wanted
+1980@30	0,49,300,23	banner	エルルク山脈・間道	Erruk Mountains, Back Road
+1980@2fc0	38,0,172,42	banner	変わり者、募集中	Oddballs Wanted
+1980@3e40	0,0,30,180	vbanner	変わり者、募集中	Oddballs Wanted
+1981@30	0,0,300,48	banner	砂漠に拾え、一滴の涙	One Tear in the Desert
+1981@30	0,49,300,23	banner	ニルルド砂漠	Nilrud Desert
+1981@2fe0	13,0,221,42	banner	砂漠に拾え、一滴の涙	One Tear in the Desert
+1981@40e0	0,0,30,180	vbanner	砂漠に拾え、一滴の涙	One Tear in the Desert
+1982@30	0,0,300,48	banner	貴族の心、そして。	A Noble's Heart, and Then
+1982@30	0,49,300,23	banner	ジッカート山・中央キャンプ	Mount Jikkart, Central Camp
+1982@2fd0	35,0,178,42	banner	貴族の心、そして。	A Noble's Heart, and Then
+1982@3d50	0,0,30,180	vbanner	貴族の心、そして。	A Noble's Heart, and Then
+1983@30	0,0,300,48	banner	奪う者、奪われる者	Those Who Take and Are Taken From
+1983@30	0,49,300,23	banner	アニス伯爵領	Anis County
+1983@2fd0	27,0,194,42	banner	奪う者、奪われる者	Those Who Take and Are Taken From
+1983@3fd0	0,0,30,180	vbanner	奪う者、奪われる者	Those Who Take and Are Taken From
+1984@30	0,0,300,48	banner	それぞれの事情	Everyone's Reasons
+1984@30	0,49,300,23	banner	クレドの森・盗賊団のアジト	Kred Forest, Bandit Hideout
+1984@2f30	40,0,167,42	banner	それぞれの事情	Everyone's Reasons
+1984@3c30	0,0,30,180	vbanner	それぞれの事情	Everyone's Reasons
+1985@30	0,0,300,48	banner	帝国の生み出したモノ	The Empire's Work
+1985@30	0,49,300,23	banner	トキノ山・山塞	Mount Tokino, Stronghold
+1985@2fd0	13,0,222,42	banner	帝国の生み出したモノ	The Empire's Work
+1985@40d0	0,0,30,180	vbanner	帝国の生み出したモノ	The Empire's Work
+1986@30	0,0,300,48	banner	大切な物は何処	Where Is It Now?
+1986@30	0,49,300,23	banner	バリン公爵領	Balin Duchy
+1986@2f60	40,0,168,42	banner	大切な物は何処	Where Is It Now?
+1986@3de0	0,0,30,180	vbanner	大切な物は何処	Where Is It Now?
+1987@30	0,0,300,47	banner	はだしのミゼル	Barefoot Mizer
+1987@30	0,49,300,23	banner	ドロミノス湿地帯	Dorominos Marshes
+1987@2f80	47,1,154,40	banner	はだしのミゼル	Barefoot Mizer
+1987@3b00	0,0,30,180	vbanner	はだしのミゼル	Barefoot Mizer
+1988@30	0,0,300,48	banner	輸送船襲撃作戦	Raid the Transports
+1988@30	0,49,300,23	banner	バリン公爵領・北部沿岸	Balin Duchy, North Coast
+1988@2f30	39,0,170,42	banner	輸送船襲撃作戦	Raid the Transports
+1988@3f30	0,0,30,180	vbanner	輸送船襲撃作戦	Raid the Transports
+1989@30	0,0,300,48	banner	庇護の対価	Price of Protection
+1989@30	0,49,300,23	banner	アルベルト侯爵領・農村地	Albelt Marquisate, Farmland
+1989@2f10	63,0,122,42	banner	庇護の対価	Price of Protection
+1989@3a10	0,0,30,180	vbanner	庇護の対価	Price of Protection
+1990@30	0,0,300,48	banner	扇げば揺れる麦の穂	Fan the Wheat
+1990@30	0,49,300,23	banner	アルベルト侯爵領・市街地	Albelt Marquisate, Town
+1990@3010	17,0,213,42	banner	扇げば揺れる麦の穂	Fan the Wheat
+1990@4210	0,0,30,180	vbanner	扇げば揺れる麦の穂	Fan the Wheat
+1991@30	0,0,300,48	banner	懊悩の殉教者	Anguished Martyr
+1991@30	0,49,300,23	banner	ティエラ郊外・私兵団邸	Tiera Outskirts, Private Army Manor
+1991@2ef0	51,0,146,42	banner	懊悩の殉教者	Anguished Martyr
+1991@3bf0	0,0,30,180	vbanner	懊悩の殉教者	Anguished Martyr
+1993@30	0,0,300,48	banner	終わり無き復讐	Endless Revenge
+1993@30	0,49,300,23	banner	ティエラ郊外・西部街道	Tiera Outskirts, West Road
+1993@2f80	43,0,161,42	banner	終わり無き復讐	Endless Revenge
+1993@3d80	0,0,30,180	vbanner	終わり無き復讐	Endless Revenge
+1994@30	0,0,300,48	banner	試練は屍を越えて	Trials Over Corpses
+1994@30	0,49,300,23	banner	クレドの森・預言者の館	Kred Forest, Prophet's Manor
+1994@2f70	31,0,185,42	banner	試練は屍を越えて	Trials Over Corpses
+1994@3f70	0,0,30,180	vbanner	試練は屍を越えて	Trials Over Corpses
+1995@30	0,0,300,48	banner	天意の名の下に	By Heaven's Will
+1995@30	0,49,300,23	banner	イストラカ荒原	Istraka Wastes
+1995@2f70	41,1,166,41	banner	天意の名の下に	By Heaven's Will
+1995@3bf0	0,0,30,180	vbanner	天意の名の下に	By Heaven's Will
+1996@30	0,0,300,48	banner	戦士達の休息-Girl's Side-	Warriors' Rest -Girl's Side-
+1996@30	0,49,300,23	banner	ティエラ郊外・北部街道	Tiera Outskirts, North Road
+1996@3000	1,0,245,42	banner	戦士達の休息-Girl's Side-	Warriors' Rest -Girl's Side-
+1996@4080	0,0,30,180	vbanner	戦士達の休息-Girl's Side-	Warriors' Rest -Girl's Side-
+1997@30	0,0,300,48	banner	戦士達の休息-Boy's Side-	Warriors' Rest -Boy's Side-
+1997@30	0,49,300,23	banner	帝都近郊・凱旋門	Near the Capital, Triumphal Gate
+1997@3020	1,0,245,42	banner	戦士達の休息-Boy's Side-	Warriors' Rest -Boy's Side-
+1997@40a0	0,0,30,180	vbanner	戦士達の休息-Boy's Side-	Warriors' Rest -Boy's Side-
+1998@30	0,0,300,48	banner	火の粉は集い、大火へと	Sparks to a Blaze
+1998@30	0,49,300,23	banner	西部地域・ケルヌガ農村群	Western Region, Kernuga Farmlands
+1998@3050	3,0,241,42	banner	火の粉は集い、大火へと	Sparks to a Blaze
+1998@4250	0,0,30,180	vbanner	火の粉は集い、大火へと	Sparks to a Blaze
+1999@30	0,0,300,48	banner	戦火に立つ修羅	Fiend of the Field
+1999@30	0,49,300,23	banner	西部地域・山岳都市シャーミネル	Western Region, Mountain City of Sharminel
+1999@2f70	40,0,167,42	banner	戦火に立つ修羅	Fiend of the Field
+1999@3cf0	0,0,30,180	vbanner	戦火に立つ修羅	Fiend of the Field
+2000@30	0,0,300,48	banner	物欲のなせる罠	The Trap of Greed
+2000@30	0,49,300,23	banner	イーザー渓谷・桟道西部	Ether Gorge, West Cliff Road
+2000@2f60	41,0,166,42	banner	物欲のなせる罠	The Trap of Greed
+2000@3ce0	0,0,30,180	vbanner	物欲のなせる罠	The Trap of Greed
+2001@30	0,0,300,48	banner	戻ってきた戦士	The Warrior's Back
+2001@30	0,49,300,23	banner	運河の船渡し場	Canal Ferry Landing
+2001@2f90	44,0,159,42	banner	戻ってきた戦士	The Warrior's Back
+2001@3c10	0,0,30,180	vbanner	戻ってきた戦士	The Warrior's Back
+2002@30	0,0,300,45	banner	ソルトロード	Salt Road
+2002@30	0,49,300,23	banner	トキノ山・関所	Mount Tokino, Checkpoint
+2002@2f60	61,2,125,39	banner	ソルトロード	Salt Road
+2002@37c0	0,0,30,180	vbanner	ソルトロード	Salt Road
+2003@30	0,0,300,48	banner	帝都軍事演習	Capital War Games
+2003@30	0,49,300,23	banner	帝都近郊・凱旋門	Near the Capital, Triumphal Gate
+2003@2ed0	52,0,144,42	banner	帝都軍事演習	Capital War Games
+2003@3bd0	0,0,30,180	vbanner	帝都軍事演習	Capital War Games
+2004@30	0,0,300,47	banner	守るべきもの	Worth Protecting
+2004@30	0,48,300,24	banner	ティエラ郊外・北部街道	Tiera Outskirts, North Road
+2004@2f40	55,0,137,42	banner	守るべきもの	Worth Protecting
+2004@3940	0,0,30,180	vbanner	守るべきもの	Worth Protecting
+2005@30	0,0,300,48	banner	ティエラ炎上	Tiera in Flames
+2005@30	0,49,300,23	banner	ティエラ・ネザー地区	Tiera, Nether District
+2005@2f70	57,0,133,42	banner	ティエラ炎上	Tiera in Flames
+2005@3870	0,0,30,180	vbanner	ティエラ炎上	Tiera in Flames
+2006@30	0,0,300,48	banner	狂戦士の叫び	The Berserker's Cry
+2006@30	0,49,300,23	banner	トキノ山・山塞	Mount Tokino, Stronghold
+2006@2f20	51,0,147,42	banner	狂戦士の叫び	The Berserker's Cry
+2006@3b20	0,0,30,180	vbanner	狂戦士の叫び	The Berserker's Cry
+2007@30	0,0,300,48	banner	歴史は夜、動く	History by Night
+2007@30	0,49,300,23	banner	ティエラ・ニーベル街区	Tiera, Nibel Quarter
+2007@2f60	52,0,145,42	banner	歴史は夜、動く	History by Night
+2007@3be0	0,0,30,180	vbanner	歴史は夜、動く	History by Night
+2008@30	0,0,300,47	banner	うつろう時の中で	In Fleeting Time
+2008@30	0,48,300,24	banner	ティエラ郊外・私兵団邸	Tiera Outskirts, Private Army Manor
+2008@2fb0	37,0,173,42	banner	うつろう時の中で	In Fleeting Time
+2008@3cb0	0,0,30,180	vbanner	うつろう時の中で	In Fleeting Time
+2009@30	0,0,300,48	banner	別離	Parting
+2009@30	0,49,300,23	banner	イストラカ荒原	Istraka Wastes
+2009@2e40	97,0,53,42	banner	別離	Parting
+2009@33a0	0,0,30,180	vbanner	別離	Parting
+2010@30	0,0,300,48	banner	呼び起こせ、魔竜の血	Wake, Dragon Blood
+2010@30	0,49,300,23	banner	魔竜の神殿	Temple of the Demon Dragon
+2010@2fb0	13,0,222,42	banner	呼び起こせ、魔竜の血	Wake, Dragon Blood
+2010@41b0	0,0,30,180	vbanner	呼び起こせ、魔竜の血	Wake, Dragon Blood
+2011@30	0,0,300,48	banner	盾を破るのは矛なのか?	Spear or Shield?
+2011@30	0,49,300,23	banner	帝都近郊・凱旋門	Near the Capital, Triumphal Gate
+2011@2fe0	0,0,247,42	banner	盾を破るのは矛なのか?	Spear or Shield?
+2011@4360	0,0,30,180	vbanner	盾を破るのは矛なのか?	Spear or Shield?
+2012@30	0,0,300,48	banner	双竜激突	Twin Dragons Clash
+2012@30	0,49,300,23	banner	帝都フレアヴェルク	Imperial Capital Flarewerk
+2012@2ea0	74,0,99,42	banner	双竜激突	Twin Dragons Clash
+2012@37a0	0,0,30,180	vbanner	双竜激突	Twin Dragons Clash
+2013@30	0,0,300,48	banner	焔帝ガルカーサ	Flame Emperor Gulcasa
+2013@30	0,49,300,23	banner	帝都フレアヴェルク	Imperial Capital Flarewerk
+2013@2f40	40,0,167,42	banner	焔帝ガルカーサ	Flame Emperor Gulcasa
+2013@3bc0	0,0,30,180	vbanner	焔帝ガルカーサ	Flame Emperor Gulcasa
+2014@30	0,0,300,47	banner	悲劇	Tragedy
+2014@30	0,48,300,24	banner	ティエラ郊外・私兵団邸	Tiera Outskirts, Private Army Manor
+2014@2e70	98,0,52,42	banner	悲劇	Tragedy
+2014@33d0	0,0,30,180	vbanner	悲劇	Tragedy
+2015@30	0,0,300,48	banner	復讐	Revenge
+2015@30	0,49,300,23	banner	カノッサ街道	Canossa Road
+2015@2e50	97,0,53,42	banner	復讐	Revenge
+2015@33b0	0,0,30,180	vbanner	復讐	Revenge
+2016@30	0,0,300,47	banner	覚醒	Awakening
+2016@30	0,48,300,24	banner	カローナ南部・ロドニー街道	South Karona, Rodney Road
+2016@2e50	97,0,53,42	banner	覚醒	Awakening
+2016@33b0	0,0,30,180	vbanner	覚醒	Awakening
+2017@30	0,0,300,48	banner	帰郷	Homecoming
+2017@30	0,49,300,23	banner	王都パルティナ・正門	Royal Capital Paltina, Main Gate
+2017@2e70	97,1,53,41	banner	帰郷	Homecoming
+2017@3350	0,0,30,180	vbanner	帰郷	Homecoming
+2018@30	0,0,300,48	banner	再会	Reunion
+2018@30	0,49,300,23	banner	パルティナ城・謁見の間	Paltina Castle, Throne Room
+2018@2e90	97,0,53,42	banner	再会	Reunion
+2018@3370	0,0,30,180	vbanner	再会	Reunion
+2019@30	0,0,300,48	banner	黒幕	Mastermind
+2019@30	0,49,300,23	banner	パルティナ城・謁見の間	Paltina Castle, Throne Room
+2019@2e70	97,0,53,42	banner	黒幕	Mastermind
+2019@3350	0,0,30,180	vbanner	黒幕	Mastermind
+2020@30	0,0,300,47	banner	血	Blood
+2020@30	0,49,300,23	banner	パルティナ城・謁見の間	Paltina Castle, Throne Room
+2020@2e30	109,2,30,39	banner	血	Blood
+2020@3110	0,0,30,180	vbanner	血	Blood
+2021@30	0,1,300,45	banner	はじまりのおわり	End of the Start
+2021@30	0,49,300,23	banner	ティエラ郊外・私兵団邸	Tiera Outskirts, Private Army Manor
+2021@2f20	41,2,166,38	banner	はじまりのおわり	End of the Start
+2021@3c20	0,0,30,180	vbanner	はじまりのおわり	End of the Start
+2022@30	0,0,300,47	banner	残り火	Embers
+2022@30	0,48,300,24	banner	帝都近郊・凱旋門	Near the Capital, Triumphal Gate
+2022@2ed0	89,0,70,42	banner	残り火	Embers
+2022@3530	0,0,30,180	vbanner	残り火	Embers
+2023@30	0,0,300,47	banner	暴かれし瞳の奥	Behind Bared Eyes
+2023@30	0,48,300,24	banner	帝都近郊・桟道東端	Near the Capital, East End of the Cliff Road
+2023@2f70	43,0,162,42	banner	暴かれし瞳の奥	Behind Bared Eyes
+2023@3bf0	0,0,30,180	vbanner	暴かれし瞳の奥	Behind Bared Eyes
+2024@30	0,0,300,47	banner	その火蓋は切らせない	Don't Let It Begin
+2024@30	0,48,300,24	banner	国境付近・カノッサ街道	Near the Border, Canossa Road
+2024@3020	8,0,232,42	banner	その火蓋は切らせない	Don't Let It Begin
+2024@4220	0,0,30,180	vbanner	その火蓋は切らせない	Don't Let It Begin
+2025@30	0,0,300,48	banner	死闘、命果てるまで	Fight to the Death
+2025@30	0,49,300,23	banner	イシュナート要塞	Ishnart Fortress
+2025@2fe0	27,0,194,42	banner	死闘、命果てるまで	Fight to the Death
+2025@3f60	0,0,30,180	vbanner	死闘、命果てるまで	Fight to the Death
+2026@30	0,0,300,48	banner	死闘、命果てるまで	Fight to the Death
+2026@30	0,49,300,23	banner	イシュナート要塞	Ishnart Fortress
+2027@30	0,0,300,48	banner	死の舞踏	Dance of Death
+2027@30	0,49,300,23	banner	国境付近・レグナーの丘	Near the Border, Regner Hill
+2027@2ed0	74,0,100,42	banner	死の舞踏	Dance of Death
+2027@37d0	0,0,30,180	vbanner	死の舞踏	Dance of Death
+2028@30	0,0,300,48	banner	人が勝ち得たもの	What People Won
+2028@30	0,49,300,23	banner	ララ岬・封印の祭壇	Cape Lara, Altar of the Seal
+2028@3000	31,0,186,42	banner	人が勝ち得たもの	What People Won
+2028@3e80	0,0,30,180	vbanner	人が勝ち得たもの	What People Won
+# Enemy-phase banners (files 21-68, one per side; 進撃！ = Advances!)
+21@2d0	0,0,188,40	banner-l	アイギナ進撃！	Aegina Advances!
+22@2c0	0,0,254,40	banner-l	アランゼーム隊進撃！	Alanjame's Unit Advances!
+23@370	0,0,283,40	banner-l	アルベルト民兵隊進撃！	Albelt Militia Advances!
+24@280	0,0,281,40	banner-l	インザーギ傭兵団進撃！	Inzaghi Company Advances!
+25@2a0	0,0,226,40	banner-l	ヴェルマン隊進撃！	Velleman's Unit Advances!
+26@2e0	0,0,252,40	banner-l	ヴェルマン本隊進撃！	Velleman's Main Force Advances!
+27@2a0	0,0,205,40	banner-l	エミリオ隊進撃！	Emilia's Unit Advances!
+28@340	0,0,307,40	banner-l	オルディーン国王隊進撃！	King Ordene's Unit Advances!
+29@240	0,0,176,40	banner-l	ゴロツキ進撃！	The Thugs Advance!
+30@280	0,0,205,40	banner-l	ジェノン隊進撃！	Jenon's Unit Advances!
+31@280	0,0,175,40	banner-l	シスキア進撃！	Siskier Advances!
+32@290	0,0,251,40	banner-l	ジルヴァ暗殺隊進撃！	Zilva's Assassins Advance!
+33@230	0,0,230,40	banner-l	セリカ遊撃隊進撃！	Cerica's Troop Advances!
+34@2e0	0,0,280,40	banner-l	ソルティエ皇帝隊進撃！	Emperor Soltier's Unit Advances!
+35@320	2,0,285,40	banner-l	ディヴィド傭兵団進撃！	David's Company Advances!
+36@220	0,0,232,40	banner-l	ネシア屍兵団進撃！	Nessiah's Corpse Army Advances!
+37@230	0,0,206,40	banner-l	ネシア本隊進撃！	Nessiah's Main Force Advances!
+38@270	0,0,205,40	banner-l	ノルン一味進撃！	Norn's Gang Advances!
+39@280	0,0,254,40	banner-l	パメラ様御一行進撃！	Pamela-sama's Party Advances!
+40@2a0	0,0,229,40	banner-l	バリン輸送隊進撃！	Balin Convoy Advances!
+41@320	0,0,300,40	banner-l	バルドゥス鋼鉄騎団進撃！	Baldus Steel Knights Advance!
+42@330	0,0,280,40	banner-l	パンドラ反乱本隊進撃！	Pandra's Rebel Main Force Advances!
+43@2f0	0,0,253,40	banner-l	ベアトリーヌ隊進撃！	Baretreenu's Unit Advances!
+44@220	0,0,180,40	banner-l	ミゼル隊進撃！	Mizer's Unit Advances!
+45@250	0,0,232,40	banner-l	メデューテ隊進撃！	Medoute's Unit Advances!
+46@200	0,0,207,40	banner-l	ユーディ隊進撃！	Eudy's Unit Advances!
+47@230	0,0,227,40	banner-l	ラピス親衛隊進撃！	Lapis's Guard Advances!
+48@270	0,0,182,40	banner-l	ルシエナ進撃！	Luciana Advances!
+49@2e0	0,0,195,40	banner-l	レオン進撃！	Leon Advances!
+50@280	0,0,252,40	banner-l	レオン黒騎士団進撃！	Leon's Black Knights Advance!
+51@100	0,0,181,40	banner-l	暗殺部隊進撃！	The Assassins Advance!
+52@280	0,0,202,40	banner-l	王国軍進撃！	The Royal Army Advances!
+53@290	0,0,198,40	banner-l	輸送隊進撃！	The Convoy Advances!
+54@1e0	0,0,230,40	banner-l	黒髪の美少女進撃！	Black-Haired Beauty Advances!
+55@2e0	0,0,200,40	banner-l	山賊団進撃！	The Brigands Advance!
+56@150	0,0,178,40	banner-l	神生教団進撃！	The Papal Army Advances!
+57@280	0,0,194,40	banner-l	帝国軍進撃！	The Imperial Army Advances!
+58@290	0,0,202,40	banner-l	盗賊団進撃！	The Thieves Advance!
+59@280	0,0,202,40	banner-l	反乱軍進撃！	The Rebels Advance!
+60@290	0,0,201,40	banner-l	夜盗団進撃！	The Night Raiders Advance!
+61@290	0,0,202,40	banner-l	野盗団進撃！	The Bandits Advance!
+62@360	0,0,260,40	banner-l	グラムブレイズ進撃！	Gram Blaze Advances!
+63@2a0	0,0,259,40	banner-l	ガーロット部隊進撃！	Garlot's Unit Advances!
+64@2a0	0,0,259,40	banner-l	ガルカーサ部隊進撃！	Gulcasa's Unit Advances!
+65@2d0	0,0,193,40	banner-l	？？？進撃！	??? Advances!
+66@270	0,0,201,40	banner-l	ブレイズ義賊団進撃！	Blaze Justice Corps Advances!
+67@270	0,0,259,40	banner-l	アイギナ近衛隊進撃！	Aegina's Royal Guard Advances!
+68@270	0,0,261,40	banner-l	敵部隊進撃！	Enemy Forces Advance!

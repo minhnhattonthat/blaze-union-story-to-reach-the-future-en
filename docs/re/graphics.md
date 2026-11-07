@@ -37,6 +37,28 @@ entries of 2206, and `(c)CRI` throughout 2206, 2400, 2641), event scripts, and t
 1713-1769 do hold PTX@ but added nothing after dedupe: **guess** they repeat the portraits of 1605-1712, as their first
 texture's size suggests. No other file holds a GIM or an embedded PNG (magic scan of all of `work/cpk`; JPEG not scanned).
 
+## English sprites (phase 8): what is done
+
+`data/gfx.tsv` rows, drawn by `tools/gen_gfx.py` (styles: `banner`, `menu`, `panel` clear to alpha or panel colour;
+`mirror` fills a box with the mirror of the far side, for symmetric art; `inpaint` fills only the white lettering and its
+outline from around it; `over` draws with no clear; `vbanner` turns the English 90 degrees for vertical titles).
+**A packed group holds only as much ink as its slices**: English wider or taller than the Japanese ink can fail
+`gfx.repack`; `gen_gfx.fitted` then draws the English smaller (down to 50%) until it fits, and preview prints the scale.
+Keep boxes to the Japanese ink in packed groups. `tools/debug/gfx_fits.py [PREFIX]` lists rows that need a shrink or fail,
+`tools/debug/gfx_tight.py LABEL x0,y0,x1,y1..` gives the ink box inside a rough rect, `tools/debug/gfx_chapters.py`
+regenerates the chapter card rows (titles from the EBOOT table at 0x236A04; locations in the script).
+
+Done and seen in game (build `f14fdf34`): terrain labels both sets (3@480830-492c30 map panel, 3@4cc8e0-4d32d0
+forecast), chapter cards for all 59 files (title + location, title, vertical title; stage card and field strip seen),
+enemy-phase banners 21-68 (preview only: the `enemy_phase` scene shows a mission banner), button help atlas 3@faa20,
+field labels 3@403560 (`非戦闘キャラクターです`, 士気 drawn small in its 16 px box, `メニュー`, `フィールドマップ確認中`,
+`ステータス確認中`), plus the rows done before. Still Japanese and seen in game: prep `ユニット配置`/`ロケーション` banner
+(3@4323e0: cream lettering over a white bar, needs the bar repainted), weapon kanji and 2-kanji terrain/object tags of
+3@4768e0 (about 22x12 px each: too small for English words, decide a form), object names in Object List (`集落`), mission
+banners 2066-2111 (`増援`), chapter title art 1531 (`CHAPTER 2` + `腐敗する帝国に差す光`; English titles at EBOOT
+0x236FC0), and the prep screen's vertical location under the vertical title (`ティエラ・ネザー地区中央`: in no chapter file
+and no text record; not located).
+
 ## Survey (static sweep complete; the in-game tour in phases 5 and 8 adds to it)
 
 Plan for all rows: redraw at the same size unless noted (D5: translate all). File 3 is the FCT, so `3@x` is a raw offset in
