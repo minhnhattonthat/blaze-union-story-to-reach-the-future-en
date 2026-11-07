@@ -2801,3 +2801,18 @@
 2687@5f860	0,0,70,13	menu	全員装備可	All Can Equip
 2687@5fb90	0,0,84,13	menu	全員装備不可	None Can Equip
 2700@db8e0	0,1,78,15	menu	ガーロット専用	Garlot only
+3@f90c0	216,8,16,20	menu	枚	-
+3@f90c0	255,0,4,14	menu	出撃可能	-
+3@f90c0	259,0,54,14	menu	出撃可能	Sortie
+3@f90c0	255,14,5,15	menu	選択可能	-
+3@f90c0	260,14,56,15	menu	選択可能	Chosen
+3@f90c0	118,26,78,14	menu	残りカード数	Cards Left
+3@f90c0	199,26,25,14	menu	あと	Left
+3@f90c0	243,26,17,14	menu	人	-
+2687@4e280	0,20,30,10	paper	歩行	Foot
+2687@4e280	0,50,30,10	paper	鈍足	Slow
+2687@4e280	0,80,30,10	paper	飛行	Flying
+2687@4e280	0,110,30,10	paper	水棲	Aquatic
+2687@4e280	0,139,30,10	paper	竜騎	Dragon
+2687@4e280	0,169,30,10	paper	騎馬	Horse
+2687@4e280	0,199,30,10	paper	転移	Warp

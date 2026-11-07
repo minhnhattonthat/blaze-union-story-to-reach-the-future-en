@@ -100,9 +100,12 @@ Row helpers: `tools/debug/gfx_grid.py` (list sheets, English from gfx.tsv or the
 shows the English; the ruler's y 0 is the top of the sprite, 26 px below its label), `gfx_inkrows.py` (tighten rows to the ink,
 needed in packed groups), `gfx_redo.py` (replace a label's rows), `near.py` (script records around a string). Sweep sizes in
 `index.tsv` are half the real size for many sheets: read `sprite.image(label).size`.
-Still Japanese: credits 2112, tutorial 2140, chronicle titles 2700@1129d0-128650, name list 2700@bb050, Sound Mode tracks 2702,
-skill card captions 216-295, reward prompts 2683@67cb0, 2687@bc60, 2683's other bars, 3@ff7e0, lists 1522@6e170 and the small
-rows of 2137-2140, `PIC1.PNG`, title ruby. Seen in game 2026-11-07 and still Japanese, sheets not found yet: Card Select's `選択可能 N / 5 枚` and `:カードデータ`, Character Select's `出撃可能 N / N 人`, the unit name on the equip bar (`ガーロット`), class tag on the equip bar. Check each against the survey table below.
+Done 2026-11-07 (eighth session): credits 2112 (lone PTX, fixed canvases: small sizes, long names squeezed), tutorial 2140 (`cap`
+inpaints bright lettering and the outline joined to it, up to 9 px past the box), Sound Mode tracks 2702, chronicle titles, extras
+headers 2700@b5320, name list 2700@bb050, skill card captions 218-294, prompts 2683@67cb0 and 2687@bc60, 3@ff7e0, counters 3@f90c0
+(the game cuts `Chosen` and `Sortie` from a rect that starts right of the Japanese ink, so they sit 4-5 px in), move tags 2687@4e280.
+Still Japanese: the unit name on the equip bar (`ガーロット`, sheet not found), Japanese UI inside the tutorial's screenshots, `PIC1.PNG`,
+title ruby. Check each against the survey table below.
 
 ## Survey (static sweep complete; the in-game tour in phases 5 and 8 adds to it)
 

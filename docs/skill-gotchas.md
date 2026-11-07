@@ -47,3 +47,6 @@ references/pipeline.md: an extractor class for "printf logs" (ASCII newline in t
 - references/pipeline.md: on Windows, a Python script's `print` redirected (`>>`) into a data file writes CRLF; with `eol=lf` git warns and normalises, but the working copy is mixed until `git checkout -- FILE` after the commit.
 - references/graphics.md: sprite sheet sizes in a sweep index can be half the real size (PTX scaled in the group): read the decoded image size before computing grid cells, or a right column gets clipped.
 - references/graphics.md: a shipped font may lack rating glyphs (☆★); leave the original star in place and redraw only the words around it.
+- references/platform-psp.md: this engine's PTX +14/+15 are UV shifts (15 - log2 w, 15 - log2 h; true of all 5,820 textures): a resized texture with a copied header samples at the wrong step and looks like corrupt data.
+- references/platform-psp.md: this engine reads the PTG cell table at a fixed +0x20 and ignores the +4 offset field, so test a format field in game before trusting it: moving the table changed nothing on screen.
+- references/graphics.md: template matching a screen crop against every swept sprite finds an atlas fast (`tools/debug/gfx_find.py`, about 90 s for 3,700 sprites); sprites over a busy bar score low, so crop tightly.
