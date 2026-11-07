@@ -8,8 +8,8 @@
    5466
   ],
   "jp": "{voice:006012}噂ほど、治安が悪いようには{n}見えなかったよな。",
-  "en": "",
-  "status": ""
+  "en": "It didn't look as lawless as people say.",
+  "status": "done"
  },
  {
   "id": "event_2192_0005A",
@@ -20,8 +20,8 @@
    5484
   ],
   "jp": "{voice:006112}恐らく、グラムブレイズの{n}来訪を知り、活動を控えたのでは{n}ないでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "They likely heard Gram Blaze was coming and lay low, I would think.",
+  "status": "done"
  },
  {
   "id": "event_2192_000A7",
@@ -32,8 +32,8 @@
    5491
   ],
   "jp": "{voice:006212}賊の鎮圧はさておき、{n}ヴェルマン方伯は、今回の巡行に{n}手応えを感じていたようです。",
-  "en": "",
-  "status": ""
+  "en": "Putting down the bandits aside, Margrave Velleman seems to feel this tour went well.",
+  "status": "done"
  },
  {
   "id": "event_2192_000FC",
@@ -44,8 +44,8 @@
    5498
   ],
   "jp": "{voice:006312}諸都市の治安を回復しつつ、{n}有力者とは確かな結びつきを{n}構築する……",
-  "en": "",
-  "status": ""
+  "en": "Restoring order to the cities while forging firm ties with their men of influence...",
+  "status": "done"
  },
  {
   "id": "event_2192_00143",
@@ -56,8 +56,8 @@
    5505
   ],
   "jp": "{voice:006412}方伯の交渉力は相当なものです。{n}感心させられてばかりでした。",
-  "en": "",
-  "status": ""
+  "en": "The Margrave's skill at negotiation is considerable. I was impressed again and again.",
+  "status": "done"
  },
  {
   "id": "event_2192_00183",
@@ -68,8 +68,8 @@
    5584
   ],
   "jp": "{voice:006512}そういうものなの？",
-  "en": "",
-  "status": ""
+  "en": "Is that how it works?",
+  "status": "done"
  },
  {
   "id": "event_2192_0019A",
@@ -80,8 +80,8 @@
    5591
   ],
   "jp": "{voice:006612}あまり難しいことはさ{n}よくわからないけど……{n}ま、結果は良かったんでしょ？",
-  "en": "",
-  "status": ""
+  "en": "That complicated stuff kinda goes over my head... Well, it turned out okay, right?",
+  "status": "done"
  },
  {
   "id": "event_2192_001E7",
@@ -92,8 +92,8 @@
    5609
   ],
   "jp": "{voice:006712}そうだね、{n}細かい部分は分からなくても{n}いいんじゃないかな。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I guess you don't need to understand the fine details.",
+  "status": "done"
  },
  {
   "id": "event_2192_00226",
@@ -104,8 +104,8 @@
    5627
   ],
   "jp": "{voice:006812}…ねえ、ジェノン。{n}ひょっとして、バカにしてる？",
-  "en": "",
-  "status": ""
+  "en": "...Hey, Jenon. Are you making fun of me, by any chance?",
+  "status": "done"
  },
  {
   "id": "event_2192_0025A",
@@ -116,8 +116,8 @@
    5645
   ],
   "jp": "{voice:006912}えっ、どこが…③",
-  "en": "",
-  "status": ""
+  "en": "Huh, how was that...!?",
+  "status": "done"
  },
  {
   "id": "event_2192_0026F",
@@ -128,8 +128,8 @@
    5663
   ],
   "jp": "{voice:006A12}おい、またかよ、{n}痴話ゲンカは止めてくれよ。",
-  "en": "",
-  "status": ""
+  "en": "Hey, not again. Knock off the lovers' quarrel.",
+  "status": "done"
  },
  {
   "id": "event_2192_0029F",
@@ -140,8 +140,8 @@
    5681
   ],
   "jp": "{voice:006B12}痴話ゲンカじゃない②",
-  "en": "",
-  "status": ""
+  "en": "It's not a lovers' quarrel!!",
+  "status": "done"
  },
  {
   "id": "event_2192_002B8",
@@ -152,8 +152,8 @@
    5699
   ],
   "jp": "{voice:006C12}ま、とにかく、こうして全員{n}無事にティエラに戻れるんだ。{n}何よりじゃないか。",
-  "en": "",
-  "status": ""
+  "en": "Anyway, we all get to go back to Tiera in one piece. That's what counts.",
+  "status": "done"
  },
  {
   "id": "event_2192_00307",
@@ -164,8 +164,8 @@
    5717
   ],
   "jp": "{voice:006D12}なーんか、釈然としないなぁ…{n}……ブツブツ…",
-  "en": "",
-  "status": ""
+  "en": "That just doesn't sit right with me... ...Grumble, grumble...",
+  "status": "done"
  },
  {
   "id": "event_2192_00337",
@@ -176,8 +176,8 @@
    5796
   ],
   "jp": "{voice:006E12}アイギナは、留守番のルシエナに{n}早く会いたいんじゃないか？",
-  "en": "",
-  "status": ""
+  "en": "Aegina, you must be anxious to see Luciana, back at home.",
+  "status": "done"
  },
  {
   "id": "event_2192_00375",
@@ -188,8 +188,8 @@
    5814
   ],
   "jp": "{voice:006F12}ガーロット様……{n}その件で少し話があるのです。",
-  "en": "",
-  "status": ""
+  "en": "Garlot-sama... There's something I need to talk to you about in that regard.",
+  "status": "done"
  },
  {
   "id": "event_2192_003A7",
@@ -200,8 +200,8 @@
    6137
   ],
   "jp": "{voice:007012}姉の脚は、快方へ向かっています。{n}これもみな、ガーロット様の{n}庇護あってのものです。",
-  "en": "",
-  "status": ""
+  "en": "My sister's leg is on the mend. It is all thanks to your protection, Garlot-sama.",
+  "status": "done"
  },
  {
   "id": "event_2192_003FE",
@@ -212,8 +212,8 @@
    6155
   ],
   "jp": "{voice:007112}やめろって、そういうの。{n}俺達は仲間なんだから。",
-  "en": "",
-  "status": ""
+  "en": "Cut that out, would you. We're comrades.",
+  "status": "done"
  },
  {
   "id": "event_2192_00432",
@@ -224,8 +224,8 @@
    6173
   ],
   "jp": "{voice:007212}大変、申し上げにくいのですが、{n}姉の脚が完治し次第、{n}お暇を頂けないでしょうか……",
-  "en": "",
-  "status": ""
+  "en": "This is very hard for me to say, but... once my sister's leg has healed, may we take our leave...",
+  "status": "done"
  },
  {
   "id": "event_2192_00487",
@@ -236,8 +236,8 @@
    6191
   ],
   "jp": "{voice:007312}ん？",
-  "en": "",
-  "status": ""
+  "en": "Hm?",
+  "status": "done"
  },
  {
   "id": "event_2192_00490",
@@ -248,8 +248,8 @@
    6221
   ],
   "jp": "{voice:007412}うほっ③{n}おヒマを頂くって事は、{n}それってば実はひょっとして…",
-  "en": "",
-  "status": ""
+  "en": "Whoa!? Taking leave of him, you say, so does that mean, could it be...",
+  "status": "done"
  },
  {
   "id": "event_2192_004D1",
@@ -260,8 +260,8 @@
    6239
   ],
   "jp": "{voice:007512}えっ、なに？{n}アイギナはグラムブレイズを{n}抜けたいの③",
-  "en": "",
-  "status": ""
+  "en": "Huh, what? Aegina, you want to quit Gram Blaze!?",
+  "status": "done"
  },
  {
   "id": "event_2192_0050A",
@@ -272,8 +272,8 @@
    6257
   ],
   "jp": "{voice:007612}しっ、シスキア！{n}声が大きいですよっ②",
-  "en": "",
-  "status": ""
+  "en": "Sh-Siskier! You're being too loud!!",
+  "status": "done"
  },
  {
   "id": "event_2192_00534",
@@ -284,8 +284,8 @@
    6287
   ],
   "jp": "{voice:007712}アイギナ、抜けたいのか？",
-  "en": "",
-  "status": ""
+  "en": "Aegina wants to leave?",
+  "status": "done"
  },
  {
   "id": "event_2192_00551",
@@ -296,8 +296,8 @@
    6294
   ],
   "jp": "{voice:007812}バイフー、抜けるより{n}ウケる方が、いいな。{n}なーんつって。ウケない？",
-  "en": "",
-  "status": ""
+  "en": "Byff thinks getting a laugh beats getting lost. Ha, just kidding. Not funny?",
+  "status": "done"
  },
  {
   "id": "event_2192_00598",
@@ -308,8 +308,8 @@
    6324
   ],
   "jp": "{voice:007912}へー…、抜けたいのねー。{n}いるよねー、こういうタイプ…{n}…ヒック…、ウゲッ。",
-  "en": "",
-  "status": ""
+  "en": "Hmm... Wants out, huh. There's always that type... ...*hic*... Urk.",
+  "status": "done"
  },
  {
   "id": "event_2192_005E7",
@@ -320,8 +320,8 @@
    6342
   ],
   "jp": "{voice:007A12}ふーん、２人がいなくなるのか。{n}だとすると寂しくなるなぁ……",
-  "en": "",
-  "status": ""
+  "en": "Hmm, so the two of them will be gone. It'll get lonely around here...",
+  "status": "done"
  },
  {
   "id": "event_2192_00627",
@@ -332,8 +332,8 @@
    6360
   ],
   "jp": "{voice:007B12}シスキアが騒ぐから、みんなが{n}集まってきたじゃないですか！",
-  "en": "",
-  "status": ""
+  "en": "Siskier made such a fuss that everyone came over!",
+  "status": "done"
  },
  {
   "id": "event_2192_00665",
@@ -344,8 +344,8 @@
    6378
   ],
   "jp": "{voice:007C12}アイギナ、理由を教えてくれ。{n}俺達に不満でもあるのか？",
-  "en": "",
-  "status": ""
+  "en": "Aegina, tell me the reason. Are you unhappy with us?",
+  "status": "done"
  },
  {
   "id": "event_2192_0069F",
@@ -356,8 +356,8 @@
    6396
   ],
   "jp": "{voice:007D12}いえ、それは違います……",
-  "en": "",
-  "status": ""
+  "en": "No, that's not it...",
+  "status": "done"
  },
  {
   "id": "event_2192_006BC",
@@ -368,8 +368,8 @@
    6414
   ],
   "jp": "{voice:007E12}だったら、どうして？",
-  "en": "",
-  "status": ""
+  "en": "Then why?",
+  "status": "done"
  },
  {
   "id": "event_2192_006D5",
@@ -380,8 +380,8 @@
    6432
   ],
   "jp": "{voice:007F12}姉と私には、やり遂げなければ{n}ならない事があるのです。",
-  "en": "",
-  "status": ""
+  "en": "My sister and I have something we must see through.",
+  "status": "done"
  },
  {
   "id": "event_2192_0070F",
@@ -392,8 +392,8 @@
    6439
   ],
   "jp": "{voice:008012}グラムブレイズの{n}活動とは方向性が違う、{n}もっと個人的な問題なんです。",
-  "en": "",
-  "status": ""
+  "en": "It goes in a different direction from Gram Blaze's work. It is a far more personal matter.",
+  "status": "done"
  },
  {
   "id": "event_2192_00758",
@@ -404,8 +404,8 @@
    6446
   ],
   "jp": "{voice:008112}ですから、みなさんにご迷惑を{n}掛けない為にも、抜けさせて{n}もらいたいのです。",
-  "en": "",
-  "status": ""
+  "en": "So to avoid causing all of you trouble, I would like to leave.",
+  "status": "done"
  },
  {
   "id": "event_2192_007A7",
@@ -416,8 +416,8 @@
    6464
   ],
   "jp": "{voice:008212}なるほどな、そういう理由なら{n}止める事はできないな。",
-  "en": "",
-  "status": ""
+  "en": "I see. If that's the reason, I can't stop you.",
+  "status": "done"
  },
  {
   "id": "event_2192_007DF",
@@ -428,8 +428,8 @@
    6482
   ],
   "jp": "{voice:008312}ちょっと待ってよ、{n}アイギナ達のやりたいこと、{n}手を貸してあげたらいいじゃない。",
-  "en": "",
-  "status": ""
+  "en": "Hold on a sec. Whatever it is Aegina wants to do, we could just help her with it!",
+  "status": "done"
  },
  {
   "id": "event_2192_00832",
@@ -440,8 +440,8 @@
    6500
   ],
   "jp": "{voice:008412}よしなさいよ、シスキア。{n}人にはね、秘密にしておきたい{n}過去の１つや２つ、あるんだから。",
-  "en": "",
-  "status": ""
+  "en": "Leave it, Siskier. Everybody's got something in their past they'd rather keep to themselves.",
+  "status": "done"
  },
  {
   "id": "event_2192_0088D",
@@ -452,8 +452,8 @@
    6518
   ],
   "jp": "{voice:008512}んー、それは、そっか……",
-  "en": "",
-  "status": ""
+  "en": "Mmm, I guess so...",
+  "status": "done"
  },
  {
   "id": "event_2192_008AA",
@@ -464,8 +464,8 @@
    6536
   ],
   "jp": "{voice:008612}ごめんね、アイギナ。",
-  "en": "",
-  "status": ""
+  "en": "Sorry, Aegina.",
+  "status": "done"
  },
  {
   "id": "event_2192_008C3",
@@ -476,8 +476,8 @@
    6554
   ],
   "jp": "{voice:008712}いいんです、迷惑を掛けてるのは、{n}私達の方ですから。",
-  "en": "",
-  "status": ""
+  "en": "It's fine. We are the ones causing trouble.",
+  "status": "done"
  },
  {
   "id": "event_2192_008FB",
@@ -488,8 +488,8 @@
    6572
   ],
   "jp": "{voice:008812}だけど、すぐに出て行くわけじゃ{n}ないんだろ？",
-  "en": "",
-  "status": ""
+  "en": "But you won't be leaving right away, will you?",
+  "status": "done"
  },
  {
   "id": "event_2192_0092B",
@@ -500,8 +500,8 @@
    6590
   ],
   "jp": "{voice:008912}そうですね、ルシエナ姉さんとも、{n}じっくり話もしたいですし……",
-  "en": "",
-  "status": ""
+  "en": "No, I would like to talk it over properly with my sister Luciana as well...",
+  "status": "done"
  },
  {
   "id": "event_2192_0096D",
@@ -512,8 +512,8 @@
    6608
   ],
   "jp": "{voice:008A12}じゃあ、まだ時間はある。{n}慌てる事はないさ。",
-  "en": "",
-  "status": ""
+  "en": "Then there's still time. No need to rush.",
+  "status": "done"
  },
  {
   "id": "event_2192_0099D",
@@ -524,8 +524,8 @@
    6626
   ],
   "jp": "{voice:008B12}でもね、アイギナ…{n}本当に困ったことがあったら、{n}いつでも言ってね。",
-  "en": "",
-  "status": ""
+  "en": "But you know, Aegina... If you're ever really in trouble, just say so, anytime.",
+  "status": "done"
  },
  {
   "id": "event_2192_009E4",
@@ -536,8 +536,8 @@
    6633
   ],
   "jp": "{voice:008C12}グラムブレイズは、私達の全て{n}じゃない。一番大切なものは、{n}もっと別にあるんだからさ。",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze isn't all there is to us. What matters most is something else, y'know.",
+  "status": "done"
  },
  {
   "id": "event_2192_00A3D",
@@ -548,8 +548,8 @@
    6651
   ],
   "jp": "{voice:008D12}ありがとう、シスキア……",
-  "en": "",
-  "status": ""
+  "en": "Thank you, Siskier...",
+  "status": "done"
  },
  {
   "id": "event_2192_00A5A",
@@ -560,8 +560,8 @@
    7013
   ],
   "jp": "{voice:008E12}ハァ…、ハァ…！{n}ガ、ガーロット様ッ！",
-  "en": "",
-  "status": ""
+  "en": "Hah... Hah...! G-Garlot-sama!",
+  "status": "done"
  },
  {
   "id": "event_2192_00A84",
@@ -572,8 +572,8 @@
    7031
   ],
   "jp": "{voice:008F12}君は、邸宅の留守を任せた兵の…",
-  "en": "",
-  "status": ""
+  "en": "You're one of the soldiers we left guarding the mansion...",
+  "status": "done"
  },
  {
   "id": "event_2192_00AA7",
@@ -584,8 +584,8 @@
    7049
   ],
   "jp": "{voice:009012}た、大変ですっ！{n}私兵団邸が、何者かに襲撃を…②",
-  "en": "",
-  "status": ""
+  "en": "I-It's terrible! The private army's mansion was attacked by someone...!!",
+  "status": "done"
  },
  {
   "id": "event_2192_00ADB",
@@ -596,8 +596,8 @@
    7067
   ],
   "jp": "{voice:009112}姉さんは、姉さんは無事ですか！",
-  "en": "",
-  "status": ""
+  "en": "My sister, is my sister safe!",
+  "status": "done"
  },
  {
   "id": "event_2192_00AFE",
@@ -608,8 +608,8 @@
    7085
   ],
   "jp": "{voice:009212}エレナは！",
-  "en": "",
-  "status": ""
+  "en": "What about Elena!",
+  "status": "done"
  },
  {
   "id": "event_2192_00B0D",
@@ -620,8 +620,8 @@
    7103
   ],
   "jp": "{voice:009312}申し訳ありませんが、{n}私も脱出するのがやっとでして…",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry, but it was all I could do to get out myself...",
+  "status": "done"
  },
  {
   "id": "event_2192_00B45",
@@ -632,8 +632,8 @@
    7121
   ],
   "jp": "{voice:009412}貴様ァ、殺してやる②{n}自分だけ逃げやがって！",
-  "en": "",
-  "status": ""
+  "en": "You bastard, I'll kill you!! You ran off and saved yourself!",
+  "status": "done"
  },
  {
   "id": "event_2192_00B75",
@@ -644,8 +644,8 @@
    7139
   ],
   "jp": "{voice:009512}レオン、落ち着け。{n}あたし達に報告する為に{n}命を賭して脱出してくれたんだ。",
-  "en": "",
-  "status": ""
+  "en": "Leon, calm down. He risked his life getting out, so he could report to us.",
+  "status": "done"
  },
  {
   "id": "event_2192_00BC2",
@@ -656,8 +656,8 @@
    7157
   ],
   "jp": "{voice:009612}チィッ！",
-  "en": "",
-  "status": ""
+  "en": "Tch!",
+  "status": "done"
  },
  {
   "id": "event_2192_00BCF",
@@ -668,8 +668,8 @@
    7235
   ],
   "jp": "{voice:009712}全軍全速だ！{n}私兵団邸に急行するぞ②",
-  "en": "",
-  "status": ""
+  "en": "All troops, full speed! We're rushing to the mansion!!",
+  "status": "done"
  },
  {
   "id": "event_2192_00BF7",
@@ -680,8 +680,8 @@
    8141
   ],
   "jp": "{voice:009812}邸宅が完全に包囲されてるよ！",
-  "en": "",
-  "status": ""
+  "en": "The mansion's completely surrounded!",
+  "status": "done"
  },
  {
   "id": "event_2192_00C18",
@@ -692,8 +692,8 @@
    8159
   ],
   "jp": "{voice:009912}間違いない、神生教団だ。",
-  "en": "",
-  "status": ""
+  "en": "No doubt about it, it's the Blessed Papal Army.",
+  "status": "done"
  },
  {
   "id": "event_2192_00C35",
@@ -704,8 +704,8 @@
    8177
   ],
   "jp": "{voice:009A12}では、狙いはやはり姉さん？{n}汚いマネを……②",
-  "en": "",
-  "status": ""
+  "en": "Then their target is my sister, after all? Such a filthy trick...!!",
+  "status": "done"
  },
  {
   "id": "event_2192_00C65",
@@ -716,8 +716,8 @@
    8198
   ],
   "jp": "{voice:009B12}とにかく邸宅を奪還しよう！",
-  "en": "",
-  "status": ""
+  "en": "Anyway, let's take the mansion back!",
+  "status": "done"
  },
  {
   "id": "event_2192_00C84",
@@ -728,8 +728,8 @@
    8373
   ],
   "jp": "{voice:009C12}生存者の保護が最優先だ！{n}何度も突撃し、包囲に風穴を{n}開けるんだ②",
-  "en": "",
-  "status": ""
+  "en": "Protecting the survivors comes first! Charge again and again, and blow a hole in their encirclement!!",
+  "status": "done"
  },
  {
   "id": "event_2192_00CC9",
@@ -740,8 +740,8 @@
    8434
   ],
   "jp": "{voice:009D12}姉妹の、妹の方だな。{n}天命に従い、死んでもらうぞ。",
-  "en": "",
-  "status": ""
+  "en": "You are the sisters' younger one. By Heaven's decree, you must die.",
+  "status": "done"
  },
  {
   "id": "event_2192_00CFF",
@@ -764,8 +764,8 @@
    10241
   ],
   "jp": "{voice:009F12}……ここまでか。",
-  "en": "",
-  "status": ""
+  "en": "...So this is my end.",
+  "status": "done"
  },
  {
   "id": "event_2192_00D2B",
@@ -776,8 +776,8 @@
    10494
   ],
   "jp": "{voice:00A012}後衛は私兵団の侵入を食い止めよ。{n}前衛は引き続き姉の方を探せ。",
-  "en": "",
-  "status": ""
+  "en": "Rear guard, stop the private army from breaking in. Vanguard, keep searching for the older sister.",
+  "status": "done"
  },
  {
   "id": "event_2192_00D6D",
@@ -788,8 +788,8 @@
    11173
   ],
   "jp": "{voice:00A112}兵力に厚みがあります……{n}キリがないわ②",
-  "en": "",
-  "status": ""
+  "en": "They have numbers to spare... There's no end to them!!",
+  "status": "done"
  },
  {
   "id": "event_2192_00D99",
@@ -800,8 +800,8 @@
    11191
   ],
   "jp": "{voice:00A212}突撃を繰り返すしかない！{n}後は、ルシエナの機転を信じよう！",
-  "en": "",
-  "status": ""
+  "en": "We've got no choice but to keep charging! And trust Luciana's quick wits for the rest!",
+  "status": "done"
  },
  {
   "id": "event_2192_00DD7",
@@ -812,8 +812,8 @@
    11377
   ],
   "jp": "{voice:00A312}包囲の圧力が弱まった？{n}ひょっとして、アイギナ達が{n}助けに来てくれたのかしら……",
-  "en": "",
-  "status": ""
+  "en": "Has the encirclement eased up? Could it be that Aegina and the others came to help...",
+  "status": "done"
  },
  {
   "id": "event_2192_00E2A",
@@ -824,8 +824,8 @@
    11395
   ],
   "jp": "{voice:00A412}この狭い邸宅に隠れていても、{n}いずれ見つかってしまうわ。{n}だったら、なんとか外へ！",
-  "en": "",
-  "status": ""
+  "en": "If we hide in this cramped mansion, they will find us sooner or later. So we must get outside somehow!",
+  "status": "done"
  },
  {
   "id": "event_2192_00E7F",
@@ -836,8 +836,8 @@
    11413
   ],
   "jp": "{voice:00A512}大丈夫かな？　恐くないかな？",
-  "en": "",
-  "status": ""
+  "en": "Will it be okay? It won't be scary?",
+  "status": "done"
  },
  {
   "id": "event_2192_00EA0",
@@ -848,8 +848,8 @@
    11537
   ],
   "jp": "{voice:00A612}……恐怖を乗り越えなきゃ{n}いけない時が、人生にはある。",
-  "en": "",
-  "status": ""
+  "en": "...There are times in life when you must overcome your fear.",
+  "status": "done"
  },
  {
   "id": "event_2192_00EDA",
@@ -860,8 +860,8 @@
    11555
   ],
   "jp": "{voice:00A712}それに、こんな敵など、{n}私とアイギナが戦わなければ{n}ならない相手に比べたら、雑魚！",
-  "en": "",
-  "status": ""
+  "en": "Besides, enemies like these are small fry, next to the foes Aegina and I must fight!",
+  "status": "done"
  },
  {
   "id": "event_2192_00F2F",
@@ -872,8 +872,8 @@
    11576
   ],
   "jp": "{voice:00A812}……クッ。",
-  "en": "",
-  "status": ""
+  "en": "...Ngh.",
+  "status": "done"
  },
  {
   "id": "event_2192_00F3E",
@@ -884,8 +884,8 @@
    11597
   ],
   "jp": "{voice:00A912}お姉ちゃんどうしたの、大丈夫？",
-  "en": "",
-  "status": ""
+  "en": "Big sis, what's wrong? Are you okay?",
+  "status": "done"
  },
  {
   "id": "event_2192_00F61",
@@ -896,8 +896,8 @@
    11618
   ],
   "jp": "{voice:00AA12}脚が痛むのですか？{n}やはり、無理に動かない方が…",
-  "en": "",
-  "status": ""
+  "en": "Is your leg hurting? You really shouldn't push yourself...",
+  "status": "done"
  },
  {
   "id": "event_2192_00F95",
@@ -908,8 +908,8 @@
    11639
   ],
   "jp": "{voice:00AB12}大丈夫よ……",
-  "en": "",
-  "status": ""
+  "en": "I'm all right...",
+  "status": "done"
  },
  {
   "id": "event_2192_00FA6",
@@ -920,8 +920,8 @@
    11649
   ],
   "jp": "{voice:00AC12}それよりもごめんね、{n}あなた達を巻き込んで……{n}悪いと思っているわ。",
-  "en": "",
-  "status": ""
+  "en": "More to the point, I'm sorry for dragging you two into this... I feel bad about it.",
+  "status": "done"
  },
  {
   "id": "event_2192_00FED",
@@ -932,8 +932,8 @@
    11667
   ],
   "jp": "{voice:00AD12}いいんだよ、お姉ちゃん。",
-  "en": "",
-  "status": ""
+  "en": "It's okay, big sis.",
+  "status": "done"
  },
  {
   "id": "event_2192_0100A",
@@ -944,8 +944,8 @@
    11685
   ],
   "jp": "{voice:00AE12}とにかく、ここは危ないわ。{n}なんとか包囲を抜け出さないと…",
-  "en": "",
-  "status": ""
+  "en": "Anyway, it's dangerous here. We must find a way out of the encirclement...",
+  "status": "done"
  },
  {
   "id": "event_2192_01072",
@@ -1016,8 +1016,8 @@
    13132
   ],
   "jp": "{voice:00AF12}姉の方は脚をケガしているハズ…{n}先に姉を探して始末するのだ。",
-  "en": "",
-  "status": ""
+  "en": "The older sister must have an injured leg... Find her first and finish her.",
+  "status": "done"
  },
  {
   "id": "event_2192_02E54",
@@ -1028,8 +1028,8 @@
    13139
   ],
   "jp": "{voice:00B012}グラムブレイズの連中は{n}救援に入れぬよう、{n}足止めするだけでよいぞ。",
-  "en": "",
-  "status": ""
+  "en": "As for the Gram Blaze lot, just pin them down so they can't come to the rescue.",
+  "status": "done"
  },
  {
   "id": "event_2192_02E9B",
@@ -1040,8 +1040,8 @@
    15315
   ],
   "jp": "{voice:00B112}このあたりに、脱出用の出口が{n}あったはずだけど……",
-  "en": "",
-  "status": ""
+  "en": "There should have been an escape exit around here...",
+  "status": "done"
  },
  {
   "id": "event_2192_02ED1",
@@ -1052,8 +1052,8 @@
    15333
   ],
   "jp": "{voice:00B212}ねえ、お姉ちゃん……{n}ボク何だか嫌な予感がするの。{n}どこかに隠れた方がいいよ？",
-  "en": "",
-  "status": ""
+  "en": "Hey, big sis... I've got a bad feeling about this. We should hide somewhere, okay?",
+  "status": "done"
  },
  {
   "id": "event_2192_02F22",
@@ -1064,8 +1064,8 @@
    15351
   ],
   "jp": "{voice:00B312}大丈夫よ、{n}アイギナ達が時間を稼いで{n}くれてるはずだから……",
-  "en": "",
-  "status": ""
+  "en": "It's all right. Aegina and the others must be buying us time...",
+  "status": "done"
  },
  {
   "id": "event_2192_02F61",
@@ -1076,8 +1076,8 @@
    15633
   ],
   "jp": "{voice:00B412}ルシエナさん、危ない！",
-  "en": "",
-  "status": ""
+  "en": "Luciana-san, look out!",
+  "status": "done"
  },
  {
   "id": "event_2192_02F7C",
@@ -1100,8 +1100,8 @@
    15743
   ],
   "jp": "{voice:00B512}あっ……、ううっ。",
-  "en": "",
-  "status": ""
+  "en": "Ah... Urgh.",
+  "status": "done"
  },
  {
   "id": "event_2192_02F96",
@@ -1112,8 +1112,8 @@
    15769
   ],
   "jp": "{voice:00B612}ルシエナお姉ちゃんッ②",
-  "en": "",
-  "status": ""
+  "en": "Big Sis Luciana!!",
+  "status": "done"
  },
  {
   "id": "event_2192_02FB1",
@@ -1124,8 +1124,8 @@
    15844
   ],
   "jp": "{voice:00B712}今の悲鳴、エイミか③{n}まさか、ルシエナの身に何かが…",
-  "en": "",
-  "status": ""
+  "en": "That scream, was that Eimi!? Don't tell me something happened to Luciana...",
+  "status": "done"
  },
  {
   "id": "event_2192_02FE9",
@@ -1136,8 +1136,8 @@
    15862
   ],
   "jp": "{voice:00B812}姉さんッ！",
-  "en": "",
-  "status": ""
+  "en": "Sister!",
+  "status": "done"
  },
  {
   "id": "event_2192_02FF8",
@@ -1148,8 +1148,8 @@
    15923
   ],
   "jp": "{voice:00B912}お、お姉ちゃん…！{n}ルシエナお姉ちゃんっ②",
-  "en": "",
-  "status": ""
+  "en": "B-Big sis...! Big Sis Luciana!!",
+  "status": "done"
  },
  {
   "id": "event_2192_03026",
@@ -1160,8 +1160,8 @@
    15941
   ],
   "jp": "{voice:00BA12}ぐ…、かはっ…！{n}エ、エイミ、エレナ…{n}逃げ、て……",
-  "en": "",
-  "status": ""
+  "en": "Gh... Kaff...! E-Eimi, Elena... Run... away...",
+  "status": "done"
  },
  {
   "id": "event_2192_0305D",
@@ -1172,8 +1172,8 @@
    16036
   ],
   "jp": "{voice:00BB12}イヤだ、イヤだよ！{n}お姉ちゃんと一緒に逃げる②",
-  "en": "",
-  "status": ""
+  "en": "No, no way! I'm running away with you, big sis!!",
+  "status": "done"
  },
  {
   "id": "event_2192_0308F",
@@ -1184,8 +1184,8 @@
    16054
   ],
   "jp": "{voice:00BC12}姉の方に致命傷を負わせた。",
-  "en": "",
-  "status": ""
+  "en": "The older sister has taken a mortal wound.",
+  "status": "done"
  },
  {
   "id": "event_2192_030AE",
@@ -1196,8 +1196,8 @@
    16075
   ],
   "jp": "{voice:00BD12}ひっ③",
-  "en": "",
-  "status": ""
+  "en": "Eek!?",
+  "status": "done"
  },
  {
   "id": "event_2192_030B9",
@@ -1208,8 +1208,8 @@
    16096
   ],
   "jp": "{voice:00BE12}そんな……②",
-  "en": "",
-  "status": ""
+  "en": "No...!!",
+  "status": "done"
  },
  {
   "id": "event_2192_030CA",
@@ -1220,8 +1220,8 @@
    16114
   ],
   "jp": "{voice:00BF12}すぐに本隊に合流する。",
-  "en": "",
-  "status": ""
+  "en": "We rejoin the main force at once.",
+  "status": "done"
  },
  {
   "id": "event_2192_030E5",
@@ -1232,8 +1232,8 @@
    16132
   ],
   "jp": "{voice:00C012}い、行っちゃった……",
-  "en": "",
-  "status": ""
+  "en": "Th-They're gone...",
+  "status": "done"
  },
  {
   "id": "event_2192_03F8C",
@@ -1244,8 +1244,8 @@
    21529
   ],
   "jp": "{voice:00C112}姉さんに何かあれば……{n}神生教団、殺してやる…、{n}皆殺しにしてやるぞ！",
-  "en": "",
-  "status": ""
+  "en": "If anything has happened to my sister... Blessed Papal Army, I will kill you... I will kill every last one of you!",
+  "status": "done"
  },
  {
   "id": "event_2192_03FD5",
@@ -1256,8 +1256,8 @@
    24594
   ],
   "jp": "{voice:00C212}ぐおおっ…！",
-  "en": "",
-  "status": ""
+  "en": "Gwaaah...!",
+  "status": "done"
  },
  {
   "id": "event_2192_03FE6",
@@ -1268,8 +1268,8 @@
    26246
   ],
   "jp": "{voice:00C312}クックックッ、{n}天意によって姉は命を落としたぞ。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh... By Heaven's will, your sister has lost her life.",
+  "status": "done"
  },
  {
   "id": "event_2192_0401A",
@@ -1280,8 +1280,8 @@
    26267
   ],
   "jp": "{voice:00C412}なにっ……②",
-  "en": "",
-  "status": ""
+  "en": "What...!!",
+  "status": "done"
  },
  {
   "id": "event_2192_0402B",
@@ -1292,8 +1292,8 @@
    26288
   ],
   "jp": "{voice:00C512}天意に逆らった愚かさ…{n}姉を失った孤独の中で悔いよ…！",
-  "en": "",
-  "status": ""
+  "en": "You fools, defying Heaven's will... Repent in your loneliness, with your sister lost...!",
+  "status": "done"
  },
  {
   "id": "event_2192_04065",
@@ -1304,8 +1304,8 @@
    26319
   ],
   "jp": "{voice:00C612}…おおーっ！{n}神生教団に栄光あれッ②",
-  "en": "",
-  "status": ""
+  "en": "...Oooh! Glory to the Blessed Papal Army!!",
+  "status": "done"
  },
  {
   "id": "event_2192_0408D",
@@ -1316,8 +1316,8 @@
    26342
   ],
   "jp": "{voice:00C712}姉さん！　ルシエナ姉さん②",
-  "en": "",
-  "status": ""
+  "en": "Sister! Sister Luciana!!",
+  "status": "done"
  },
  {
   "id": "event_2192_040AC",
@@ -1328,8 +1328,8 @@
    26804
   ],
   "jp": "{voice:00C812}ルシエナお姉ちゃん！{n}お願い、目を覚ましてよ②",
-  "en": "",
-  "status": ""
+  "en": "Big Sis Luciana! Please, wake up!!",
+  "status": "done"
  },
  {
   "id": "event_2192_040DE",
@@ -1340,8 +1340,8 @@
    26822
   ],
   "jp": "{voice:00C912}アイギナ！　ガーロット②{n}こっちよ②",
-  "en": "",
-  "status": ""
+  "en": "Aegina! Garlot!! Over here!!",
+  "status": "done"
  },
  {
   "id": "event_2192_04106",
@@ -1352,8 +1352,8 @@
    27057
   ],
   "jp": "{voice:00CA12}無事か、３人とも③",
-  "en": "",
-  "status": ""
+  "en": "Are you three safe!?",
+  "status": "done"
  },
  {
   "id": "event_2192_0411D",
@@ -1364,8 +1364,8 @@
    27075
   ],
   "jp": "{voice:00CB12}私とエイミさんは無事です。{n}でも、ルシエナさんが……",
-  "en": "",
-  "status": ""
+  "en": "Eimi-san and I are safe. But Luciana-san is...",
+  "status": "done"
  },
  {
   "id": "event_2192_04155",
@@ -1376,8 +1376,8 @@
    27178
   ],
   "jp": "{voice:00CC12}うう…、アイギナ……",
-  "en": "",
-  "status": ""
+  "en": "Ugh... Aegina...",
+  "status": "done"
  },
  {
   "id": "event_2192_0416E",
@@ -1388,8 +1388,8 @@
    27196
   ],
   "jp": "{voice:00CD12}気が付いたか、ルシエナ②{n}待ってろ、今すぐに手当てを……",
-  "en": "",
-  "status": ""
+  "en": "You're awake, Luciana!! Hang on, I'll treat you right now...",
+  "status": "done"
  },
  {
   "id": "event_2192_041AA",
@@ -1400,8 +1400,8 @@
    27214
   ],
   "jp": "{voice:00CE12}その必要は、ありません……",
-  "en": "",
-  "status": ""
+  "en": "There's no need for that...",
+  "status": "done"
  },
  {
   "id": "event_2192_041C9",
@@ -1412,8 +1412,8 @@
    27221
   ],
   "jp": "{voice:00CF12}アイギナ、ごめんね…{n}一緒に、復讐の戦いを{n}続けること、できないみたい…",
-  "en": "",
-  "status": ""
+  "en": "Aegina, I'm sorry... It seems I can't go on with our fight for revenge at your side...",
+  "status": "done"
  },
  {
   "id": "event_2192_04214",
@@ -1424,8 +1424,8 @@
    27239
   ],
   "jp": "{voice:00D012}そんな、私が１人だけ残るなんて、{n}イヤよ、姉さん！",
-  "en": "",
-  "status": ""
+  "en": "No, I can't be the only one left behind. I won't have it, Sister!",
+  "status": "done"
  },
  {
   "id": "event_2192_0424A",
@@ -1436,8 +1436,8 @@
    27246
   ],
   "jp": "{voice:00D112}私、姉さんと一緒だったから{n}ここまで来れたんだよ？{n}私１人だけじゃ、ムリよ……",
-  "en": "",
-  "status": ""
+  "en": "I only made it this far because I was with you, Sister, you know? I can't do it all alone...",
+  "status": "done"
  },
  {
   "id": "event_2192_0429B",
@@ -1448,8 +1448,8 @@
    27264
   ],
   "jp": "{voice:00D212}もし、無理だと思うなら、{n}やめてしまっても、いいのよ……",
-  "en": "",
-  "status": ""
+  "en": "If you think you can't, it's all right to give it up...",
+  "status": "done"
  },
  {
   "id": "event_2192_042D7",
@@ -1460,8 +1460,8 @@
    27282
   ],
   "jp": "{voice:00D312}え…？",
-  "en": "",
-  "status": ""
+  "en": "What...?",
+  "status": "done"
  },
  {
   "id": "event_2192_042E2",
@@ -1472,8 +1472,8 @@
    27300
   ],
   "jp": "{voice:00D412}あなたには…{n}ガーロット様とともに、{n}生きてく道も、あるから……",
-  "en": "",
-  "status": ""
+  "en": "You have... another road... a life at Garlot-sama's side...",
+  "status": "done"
  },
  {
   "id": "event_2192_04325",
@@ -1484,8 +1484,8 @@
    27307
   ],
   "jp": "{voice:00D512}好きに、生きて…{n}それが、私の願い、好きに……{n}そう、笑顔で……",
-  "en": "",
-  "status": ""
+  "en": "Live as you wish... That is my wish, as you wish... Yes, with a smile...",
+  "status": "done"
  },
  {
   "id": "event_2192_04368",
@@ -1508,8 +1508,8 @@
    27441
   ],
   "jp": "{voice:00D612}姉さん？　姉さん③{n}ね、姉さん！",
-  "en": "",
-  "status": ""
+  "en": "Sister? Sister!? S-Sister!",
+  "status": "done"
  },
  {
   "id": "event_2192_04397",
@@ -1520,8 +1520,8 @@
    27459
   ],
   "jp": "{voice:00D712}…ウソ、ウソでしょ③{n}ルシエナ、冗談はやめてよ……",
-  "en": "",
-  "status": ""
+  "en": "...No, no way!? Luciana, quit joking around...",
+  "status": "done"
  },
  {
   "id": "event_2192_043CD",
@@ -1544,8 +1544,8 @@
    27484
   ],
   "jp": "{voice:00D812}こんな形で、仲間を失うとは……",
-  "en": "",
-  "status": ""
+  "en": "To lose a comrade like this...",
+  "status": "done"
  },
  {
   "id": "event_2192_043FB",
@@ -1556,8 +1556,8 @@
    27502
   ],
   "jp": "{voice:00D912}私のせいだ……{n}神生教団の動向を探るのは、{n}私の役割だったはずなのに……",
-  "en": "",
-  "status": ""
+  "en": "It's my fault... Tracking the Blessed Papal Army's movements was supposed to be my job...",
+  "status": "done"
  },
  {
   "id": "event_2192_04446",
@@ -1568,8 +1568,8 @@
    27520
   ],
   "jp": "{voice:00DA12}ごめん、ジルヴァ。{n}あなたが悪いわけじゃない、{n}でも、今は、あなたと話せない……",
-  "en": "",
-  "status": ""
+  "en": "Sorry, Zilva. It's not your fault, but... I just can't talk to you right now...",
+  "status": "done"
  },
  {
   "id": "event_2192_04499",
@@ -1580,8 +1580,8 @@
    27538
   ],
   "jp": "{voice:00DB12}くそっ…！{n}神生教団、一体何なんだ②",
-  "en": "",
-  "status": ""
+  "en": "Damn it...! Blessed Papal Army, what the hell are they!!",
+  "status": "done"
  },
  {
   "id": "event_2192_044C1",
@@ -1592,8 +1592,8 @@
    27545
   ],
   "jp": "{voice:00DC12}何が天意だ、ふざけやがって②{n}ルシエナとアイギナが{n}一体何をしたって言うんだよ…！",
-  "en": "",
-  "status": ""
+  "en": "What Heaven's will, don't screw with me!! What the hell did Luciana and Aegina ever do...!",
+  "status": "done"
  },
  {
   "id": "event_2192_04516",
@@ -1604,8 +1604,8 @@
    27563
   ],
   "jp": "{voice:00DD12}神生教団は、多分、{n}ファンタジニア王国の秘密組織。",
-  "en": "",
-  "status": ""
+  "en": "The Blessed Papal Army is most likely a secret organization of the Kingdom of Fantasinia.",
+  "status": "done"
  },
  {
   "id": "event_2192_0454C",
@@ -1628,8 +1628,8 @@
    27698
   ],
   "jp": "{voice:00DF12}私たちを殺して得をするのは、{n}ファンタジニア王国の奴だけ。{n}奴らと繋がっているに違いない…",
-  "en": "",
-  "status": ""
+  "en": "Only someone in the Kingdom of Fantasinia gains by killing us. They must be connected...",
+  "status": "done"
  },
  {
   "id": "event_2192_045B2",
@@ -1640,8 +1640,8 @@
    27716
   ],
   "jp": "{voice:00E012}ファンタジニア王国は{n}隣の大国だよね。{n}それが、どうして２人を……",
-  "en": "",
-  "status": ""
+  "en": "The Kingdom of Fantasinia is that big country next door. Why would it go after you two...",
+  "status": "done"
  },
  {
   "id": "event_2192_045F7",
@@ -1652,8 +1652,8 @@
    27734
   ],
   "jp": "{voice:00E112}アイギナ、{n}これはもうみんなの問題だ。{n}説明してくれないか？",
-  "en": "",
-  "status": ""
+  "en": "Aegina, this is everyone's problem now. Won't you explain?",
+  "status": "done"
  },
  {
   "id": "event_2192_04636",
@@ -1664,8 +1664,8 @@
    27752
   ],
   "jp": "{voice:00E212}……わかりました。{n}全てをお話しします。",
-  "en": "",
-  "status": ""
+  "en": "...Very well. I will tell you everything.",
+  "status": "done"
  },
  {
   "id": "event_2192_04662",
@@ -1676,8 +1676,8 @@
    27888
   ],
   "jp": "{voice:00E312}私と姉さんは、{n}王国に生を受けた双子でした。",
-  "en": "",
-  "status": ""
+  "en": "My sister and I were born twins, in the Kingdom.",
+  "status": "done"
  },
  {
   "id": "event_2192_04692",
@@ -1688,8 +1688,8 @@
    27895
   ],
   "jp": "{voice:00E412}父の名は、オルディーン……",
-  "en": "",
-  "status": ""
+  "en": "Our father's name is Ordene...",
+  "status": "done"
  },
  {
   "id": "event_2192_046B1",
@@ -1700,8 +1700,8 @@
    27913
   ],
   "jp": "{voice:00E512}オルディーン？{n}それって、国王じゃないか！",
-  "en": "",
-  "status": ""
+  "en": "Ordene? But that's the King!",
+  "status": "done"
  },
  {
   "id": "event_2192_046DF",
@@ -1712,8 +1712,8 @@
    27931
   ],
   "jp": "{voice:00E612}はい、その通りです。",
-  "en": "",
-  "status": ""
+  "en": "Yes, that is correct.",
+  "status": "done"
  },
  {
   "id": "event_2192_046F8",
@@ -1724,8 +1724,8 @@
    27949
   ],
   "jp": "{voice:00E712}それじゃあ２人は…{n}王国のお姫様ってこと？",
-  "en": "",
-  "status": ""
+  "en": "So you two... You're princesses of the Kingdom?",
+  "status": "done"
  },
  {
   "id": "event_2192_04726",
@@ -1736,8 +1736,8 @@
    27967
   ],
   "jp": "{voice:00E812}しかし、私達は、生まれてすぐに{n}暗殺されかけたのです。",
-  "en": "",
-  "status": ""
+  "en": "However, soon after we were born, someone tried to assassinate us.",
+  "status": "done"
  },
  {
   "id": "event_2192_04760",
@@ -1748,8 +1748,8 @@
    27974
   ],
   "jp": "{voice:00E912}その時は運良く難は逃れましたが、{n}結局はご存じの通りに……",
-  "en": "",
-  "status": ""
+  "en": "We were lucky enough to escape that time, but in the end, it went as you know...",
+  "status": "done"
  },
  {
   "id": "event_2192_0479E",
@@ -1760,8 +1760,8 @@
    27992
   ],
   "jp": "{voice:00EA12}また、どうして狙われたんだい？",
-  "en": "",
-  "status": ""
+  "en": "So why were you targeted?",
+  "status": "done"
  },
  {
   "id": "event_2192_047C1",
@@ -1772,8 +1772,8 @@
    28010
   ],
   "jp": "{voice:00EB12}それは、私達が双子だから。{n}王国では、それは忌み子なのです。{n}そう解釈しています。",
-  "en": "",
-  "status": ""
+  "en": "Because we are twins. In the Kingdom, that makes us children of ill omen. That is how I understand it.",
+  "status": "done"
  },
  {
   "id": "event_2192_04816",
@@ -1784,8 +1784,8 @@
    28028
   ],
   "jp": "{voice:00EC12}たった、それだけの理由で？",
-  "en": "",
-  "status": ""
+  "en": "Just for that?",
+  "status": "done"
  },
  {
   "id": "event_2192_04835",
@@ -1796,8 +1796,8 @@
    28046
   ],
   "jp": "{voice:00ED12}なるほど、長子が双子となると、{n}継承権を巡ったいざこざが{n}起きる可能性がありますからね。",
-  "en": "",
-  "status": ""
+  "en": "I see. When the eldest children are twins, there is a chance of strife over the succession.",
+  "status": "done"
  },
  {
   "id": "event_2192_04890",
@@ -1808,8 +1808,8 @@
    28064
   ],
   "jp": "{voice:00EE12}私達を救ってくれたのは、{n}とある老兵でした。{n}彼は私達を国外へと連れ出し……",
-  "en": "",
-  "status": ""
+  "en": "We were saved by a certain old soldier. He took us out of the country...",
+  "status": "done"
  },
  {
   "id": "event_2192_048DF",
@@ -1820,8 +1820,8 @@
    28071
   ],
   "jp": "{voice:00EF12}そして流れ着いた帝国領で{n}アルベルト様に拾われ、{n}私達は育てられたのです。",
-  "en": "",
-  "status": ""
+  "en": "We drifted into imperial lands, where Albelt-sama took us in and raised us.",
+  "status": "done"
  },
  {
   "id": "event_2192_0492C",
@@ -1832,8 +1832,8 @@
    28089
   ],
   "jp": "{voice:00F012}そんなことがあったんだ……",
-  "en": "",
-  "status": ""
+  "en": "So that's what happened...",
+  "status": "done"
  },
  {
   "id": "event_2192_0494B",
@@ -1844,8 +1844,8 @@
    28107
   ],
   "jp": "{voice:00F112}暗殺の黒幕はわかりませんが、{n}王国の内部に犯人がいるのは{n}間違いありません。",
-  "en": "",
-  "status": ""
+  "en": "I don't know who was behind the assassination, but the culprit is surely inside the Kingdom.",
+  "status": "done"
  },
  {
   "id": "event_2192_0499A",
@@ -1856,8 +1856,8 @@
    28196
   ],
   "jp": "{voice:00F212}王族様とか、貴族様って、{n}これだから嫌なのよ！",
-  "en": "",
-  "status": ""
+  "en": "Royalty and nobles, this is exactly why I hate them!",
+  "status": "done"
  },
  {
   "id": "event_2192_049CC",
@@ -1868,8 +1868,8 @@
    28203
   ],
   "jp": "{voice:00F312}権力欲しさに、赤ん坊だって{n}殺そうとするんだ。{n}人間だと思えないよ、本当に！",
-  "en": "",
-  "status": ""
+  "en": "They'll kill even a baby for the sake of power. I can't even think of them as human, honestly!",
+  "status": "done"
  },
  {
   "id": "event_2192_04A1B",
@@ -1880,8 +1880,8 @@
    28221
   ],
   "jp": "{voice:00F412}何にせよ、王国は私達を棄てた。{n}憎むべき敵なのです。",
-  "en": "",
-  "status": ""
+  "en": "Whatever the case, the Kingdom cast us out. It is an enemy to be hated.",
+  "status": "done"
  },
  {
   "id": "event_2192_04A53",
@@ -1892,8 +1892,8 @@
    28228
   ],
   "jp": "{voice:00F512}私達の居場所を奪い、命を狙い、{n}そして姉さんを殺した……",
-  "en": "",
-  "status": ""
+  "en": "It stole our home, sought our lives, and then it killed my sister...",
+  "status": "done"
  },
  {
   "id": "event_2192_04A8F",
@@ -1904,8 +1904,8 @@
    28235
   ],
   "jp": "{voice:00F612}私の憎しみの火は、{n}決して、消える事はありません。",
-  "en": "",
-  "status": ""
+  "en": "The fire of my hatred will never go out.",
+  "status": "done"
  },
  {
   "id": "event_2192_04AC5",
@@ -1916,8 +1916,8 @@
    28253
   ],
   "jp": "{voice:00F712}アイギナ……",
-  "en": "",
-  "status": ""
+  "en": "Aegina...",
+  "status": "done"
  },
  {
   "id": "event_2192_04AD6",
@@ -1928,8 +1928,8 @@
    28342
   ],
   "jp": "{voice:00F812}ごめんね、アイギナお姉ちゃん。{n}ボク、ルシエナお姉ちゃんを{n}守れなかった……",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry, Big Sis Aegina. I couldn't protect Big Sis Luciana...",
+  "status": "done"
  },
  {
   "id": "event_2192_04B25",
@@ -1940,8 +1940,8 @@
    28360
   ],
   "jp": "{voice:00F912}謝る必要はないのよ、エイミ。",
-  "en": "",
-  "status": ""
+  "en": "There's no need to apologize, Eimi.",
+  "status": "done"
  },
  {
   "id": "event_2192_04B46",
@@ -1952,8 +1952,8 @@
    28378
   ],
   "jp": "{voice:00FA12}そうよ、悪いのは殺した連中。",
-  "en": "",
-  "status": ""
+  "en": "That's right, the ones to blame are the people who killed her.",
+  "status": "done"
  },
  {
   "id": "event_2192_04B67",
@@ -1964,8 +1964,8 @@
    28396
   ],
   "jp": "{voice:00FB12}でも、戦う力があれば、{n}ボクはお姉ちゃんを、{n}助けられたかもしれない……",
-  "en": "",
-  "status": ""
+  "en": "But if I had the power to fight, maybe I could've saved big sis...",
+  "status": "done"
  },
  {
   "id": "event_2192_04BB2",
@@ -1976,8 +1976,8 @@
    28414
   ],
   "jp": "{voice:00FC12}エイミは子供だもの、{n}仕方がないわよ。",
-  "en": "",
-  "status": ""
+  "en": "You're a kid, Eimi. It can't be helped.",
+  "status": "done"
  },
  {
   "id": "event_2192_04BDC",
@@ -1988,8 +1988,8 @@
    28432
   ],
   "jp": "{voice:00FD12}でも、ボクは…、ボクは……",
-  "en": "",
-  "status": ""
+  "en": "But I... But I...",
+  "status": "done"
  },
  {
   "id": "event_2192_04BFB",
@@ -2000,8 +2000,8 @@
    28521
   ],
   "jp": "{voice:00FE12}みんな、一度休んだ方がいい。{n}遠征の疲れもある。",
-  "en": "",
-  "status": ""
+  "en": "Everyone, we should rest for now. We're worn out from the campaign, too.",
+  "status": "done"
  },
  {
   "id": "event_2192_04C2F",
@@ -2012,8 +2012,8 @@
    28539
   ],
   "jp": "{voice:00FF12}そうですね。",
-  "en": "",
-  "status": ""
+  "en": "You're right.",
+  "status": "done"
  },
  {
   "id": "event_2192_04C40",
@@ -2024,8 +2024,8 @@
    28546
   ],
   "jp": "{voice:000013}ですが、その前に姉さんに{n}最後のお化粧をさせてください。{n}二人きりで……",
-  "en": "",
-  "status": ""
+  "en": "But before that, please let me give my sister her last makeup. Just the two of us...",
+  "status": "done"
  },
  {
   "id": "event_2192_04C8B",
@@ -2036,8 +2036,8 @@
    28564
   ],
   "jp": "{voice:000113}ああ、そうしてあげて欲しい。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, please do that for her.",
+  "status": "done"
  },
  {
   "id": "event_2192_04CAC",
@@ -2048,8 +2048,8 @@
    28571
   ],
   "jp": "{voice:000213}今後どうするのか、{n}神生教団への対応も含めて、{n}明日決めよう。",
-  "en": "",
-  "status": ""
+  "en": "We'll decide what to do next tomorrow, including how to deal with the Blessed Papal Army.",
+  "status": "done"
  },
  {
   "id": "event_2192_04CED",
@@ -2060,8 +2060,8 @@
    21715
   ],
   "jp": "ん？　このレイピアは…",
-  "en": "",
-  "status": ""
+  "en": "Hm? This rapier...",
+  "status": "done"
  },
  {
   "id": "event_2192_04D04",
@@ -2072,8 +2072,8 @@
    21790
   ],
   "jp": "アイギナの武器に似ているが…{n}一体誰のものだ？",
-  "en": "",
-  "status": ""
+  "en": "It looks like Aegina's weapon... but whose could it be?",
+  "status": "done"
  },
  {
   "id": "event_2192_04D32",
@@ -2084,8 +2084,8 @@
    21873
   ],
   "jp": "…レイピアが落ちてる。",
-  "en": "",
-  "status": ""
+  "en": "...There's a rapier lying here.",
+  "status": "done"
  },
  {
   "id": "event_2192_04D49",
@@ -2096,8 +2096,8 @@
    21959
   ],
   "jp": "…まさか、アイギナの？{n}いや、そんなハズないか。{n}一緒に戦っているんだものね。",
-  "en": "",
-  "status": ""
+  "en": "...Don't tell me it's Aegina's? No, it can't be. She's fighting right alongside me.",
+  "status": "done"
  },
  {
   "id": "event_2192_04D96",
@@ -2108,8 +2108,8 @@
    21966
   ],
   "jp": "でも、じゃあ一体誰の…？",
-  "en": "",
-  "status": ""
+  "en": "But then whose is it...?",
+  "status": "done"
  },
  {
   "id": "event_2192_04DAF",
@@ -2120,8 +2120,8 @@
    22056
   ],
   "jp": "レイピアが落ちているね…",
-  "en": "",
-  "status": ""
+  "en": "There's a rapier lying here...",
+  "status": "done"
  },
  {
   "id": "event_2192_04DC8",
@@ -2132,8 +2132,8 @@
    22142
   ],
   "jp": "研ぎ澄まされた逸品だね。{n}雑兵のものとは思えないけど…",
-  "en": "",
-  "status": ""
+  "en": "This is a finely honed piece. Hardly what a common soldier would carry...",
+  "status": "done"
  },
  {
   "id": "event_2192_04DFE",
@@ -2144,8 +2144,8 @@
    22232
   ],
   "jp": "む…{n}そこにレイピアが落ちているが…",
-  "en": "",
-  "status": ""
+  "en": "Hm... There's a rapier on the ground there...",
+  "status": "done"
  },
  {
   "id": "event_2192_04E22",
@@ -2156,8 +2156,8 @@
    22318
   ],
   "jp": "雑兵のものか？{n}それにしては刀身に曇りがない…{n}一体、誰のものだ？",
-  "en": "",
-  "status": ""
+  "en": "A common soldier's? There's not a blemish on the blade, though... So whose is it?",
+  "status": "done"
  },
  {
   "id": "event_2192_04E63",
@@ -2168,8 +2168,8 @@
    22415
   ],
   "jp": "………ッ！{n}このレイピアは…",
-  "en": "",
-  "status": ""
+  "en": ".........! This rapier...",
+  "status": "done"
  },
  {
   "id": "event_2192_04E7F",
@@ -2180,8 +2180,8 @@
    22501
   ],
   "jp": "姉さんの…",
-  "en": "",
-  "status": ""
+  "en": "It's my sister's...",
+  "status": "done"
  },
  {
   "id": "event_2192_04E8A",
@@ -2192,8 +2192,8 @@
    22519
   ],
   "jp": "……神生教団めッ②",
-  "en": "",
-  "status": ""
+  "en": "...Blessed Papal Army!!",
+  "status": "done"
  },
  {
   "id": "event_2192_04E9D",
@@ -2204,8 +2204,8 @@
    22609
   ],
   "jp": "ん？　剣が落ちているな。",
-  "en": "",
-  "status": ""
+  "en": "Hm? There is a sword on the ground.",
+  "status": "done"
  },
  {
   "id": "event_2192_04EB6",
@@ -2216,8 +2216,8 @@
    22684
   ],
   "jp": "レイピアか…{n}これ、誰のものだ？",
-  "en": "",
-  "status": ""
+  "en": "A rapier... Whose is this?",
+  "status": "done"
  },
  {
   "id": "event_2192_04ED6",
@@ -2228,8 +2228,8 @@
    23270
   ],
   "jp": "あら、剣が落ちているじゃない。",
-  "en": "",
-  "status": ""
+  "en": "Oh, there's a sword on the ground.",
+  "status": "done"
  },
  {
   "id": "event_2192_04EF5",
@@ -2240,8 +2240,8 @@
    23356
   ],
   "jp": "…刀身に曇りがない。{n}私にもわかる、これ名剣だわ。",
-  "en": "",
-  "status": ""
+  "en": "...Not a blemish on that blade. Even I can tell this is a fine sword.",
+  "status": "done"
  },
  {
   "id": "event_2192_04F27",
@@ -2252,8 +2252,8 @@
    22767
   ],
   "jp": "おっ？　剣が落ちてるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Oh? There's a sword lyin' here.",
+  "status": "done"
  },
  {
   "id": "event_2192_04F40",
@@ -2264,8 +2264,8 @@
    22853
   ],
   "jp": "…な、なんだかスゲェ高貴な{n}オーラが漂ってるな～。{n}本当に拾ってもいいのか、コレ？",
-  "en": "",
-  "status": ""
+  "en": "...Wh-Whoa, it's got this crazy noble aura about it. Am I really okay pickin' this up?",
+  "status": "done"
  },
  {
   "id": "event_2192_04F91",
@@ -2276,8 +2276,8 @@
    23094
   ],
   "jp": "んん？　なんだ、この剣…",
-  "en": "",
-  "status": ""
+  "en": "Hmm? What's this sword...",
+  "status": "done"
  },
  {
   "id": "event_2192_04FAA",
@@ -2288,8 +2288,8 @@
    23180
   ],
   "jp": "…見事な細剣ね。{n}でも、誰のものかしら？{n}ヒック…",
-  "en": "",
-  "status": ""
+  "en": "...That's a lovely rapier. But I wonder whose it is? *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2192_04FDB",
@@ -2300,8 +2300,8 @@
    22936
   ],
   "jp": "ん？　剣が落ちているわよ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? There's a sword on the ground.",
+  "status": "done"
  },
  {
   "id": "event_2192_04FF6",
@@ -2312,8 +2312,8 @@
    23011
   ],
   "jp": "ここでも戦いがあったのか…{n}でも、一本だけ落ちてるなんて{n}ちょっと変な話だわね？",
-  "en": "",
-  "status": ""
+  "en": "So there was fighting here too... But just one sword lying here, that's a little odd, wouldn't you say?",
+  "status": "done"
  },
  {
   "id": "event_2192_05045",
@@ -2324,8 +2324,8 @@
    23446
   ],
   "jp": "おや、その剣…",
-  "en": "",
-  "status": ""
+  "en": "Oh my, that sword...",
+  "status": "done"
  },
  {
   "id": "event_2192_05054",
@@ -2336,8 +2336,8 @@
    23532
   ],
   "jp": "…なるほど。{n}そういう事でしたか。",
-  "en": "",
-  "status": ""
+  "en": "...I see. So that is how it was.",
+  "status": "done"
  },
  {
   "id": "event_2192_05076",
@@ -2348,8 +2348,8 @@
    23825
   ],
   "jp": "なんか落ちてるぜ…",
-  "en": "",
-  "status": ""
+  "en": "Somethin's lyin' here...",
+  "status": "done"
  },
  {
   "id": "event_2192_05089",
@@ -2360,8 +2360,8 @@
    23911
   ],
   "jp": "戦場の地面に落ちたレイピア。{n}別に珍しいもんじゃねぇが…{n}なんだかイヤな予感がするぜ。",
-  "en": "",
-  "status": ""
+  "en": "A rapier on the ground of a battlefield. Nothin' rare about that... But I've got a nasty feelin'.",
+  "status": "done"
  },
  {
   "id": "event_2192_050DE",
@@ -2372,8 +2372,8 @@
    23622
   ],
   "jp": "レイピアが落ちているな。",
-  "en": "",
-  "status": ""
+  "en": "A rapier on the ground.",
+  "status": "done"
  },
  {
   "id": "event_2192_050F7",
@@ -2384,8 +2384,8 @@
    23708
   ],
   "jp": "この研ぎ澄まされた蒼い刀身、{n}どこかで見覚えが…",
-  "en": "",
-  "status": ""
+  "en": "This finely honed blue blade. I have seen it somewhere...",
+  "status": "done"
  },
  {
   "id": "event_2192_05127",
@@ -2396,8 +2396,8 @@
    23715
   ],
   "jp": "まさか、ルシエナの…？",
-  "en": "",
-  "status": ""
+  "en": "It cannot be Luciana's...?",
+  "status": "done"
  },
  {
   "id": "event_2192_0513E",
@@ -2408,8 +2408,8 @@
    24001
   ],
   "jp": "おい、そこにレイピアが{n}落ちてるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Hey, there's a rapier on the ground there.",
+  "status": "done"
  },
  {
   "id": "event_2192_05162",
@@ -2420,8 +2420,8 @@
    24087
   ],
   "jp": "なかなかの業物だな。{n}…しかし、不気味なくらいに{n}美しい刀身だぜ。",
-  "en": "",
-  "status": ""
+  "en": "Pretty fine work. ...But that blade's so beautiful it's creepy.",
+  "status": "done"
  },
  {
   "id": "event_2192_051A3",

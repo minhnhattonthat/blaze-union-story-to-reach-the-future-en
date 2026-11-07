@@ -8,8 +8,8 @@
    4745
   ],
   "jp": "{voice:000813}……ヴェルマンも頭が固いわよね。{n}アイギナを切り捨てろってさ、{n}正直、頭来ちゃう！",
-  "en": "",
-  "status": ""
+  "en": "...Velleman's so hardheaded. Telling us to cut Aegina loose. Honestly, it makes me mad!",
+  "status": "done"
  },
  {
   "id": "event_2193_0007D",
@@ -20,8 +20,8 @@
    4766
   ],
   "jp": "{voice:000913}ヴェルマン方伯にとって、{n}グラムブレイズは自分の手足だ。",
-  "en": "",
-  "status": ""
+  "en": "To Margrave Velleman, Gram Blaze is his own hands and feet.",
+  "status": "done"
  },
  {
   "id": "event_2193_000B9",
@@ -32,8 +32,8 @@
    4773
   ],
   "jp": "{voice:000A13}彼の言う事も、理解はできる。{n}人によって立場は違う、仕方ない。",
-  "en": "",
-  "status": ""
+  "en": "I can understand what he's saying. Everyone stands somewhere different. It can't be helped.",
+  "status": "done"
  },
  {
   "id": "event_2193_000FB",
@@ -44,8 +44,8 @@
    4794
   ],
   "jp": "{voice:000B13}結局、ヴェルマンには黙って{n}出てきてしまった……",
-  "en": "",
-  "status": ""
+  "en": "In the end, we left without telling Velleman...",
+  "status": "done"
  },
  {
   "id": "event_2193_0012F",
@@ -56,8 +56,8 @@
    4801
   ],
   "jp": "{voice:000C13}悪い事をしたとは感じているが、{n}これからの事は自分達で決める。",
-  "en": "",
-  "status": ""
+  "en": "I feel bad about it, but we decide what we do next ourselves.",
+  "status": "done"
  },
  {
   "id": "event_2193_00171",
@@ -68,8 +68,8 @@
    4822
   ],
   "jp": "{voice:000D13}…ゴメンね、シスキアお姉ちゃん。{n}ボク、迷惑だよね。{n}戦えないのに、みんなと一緒で……",
-  "en": "",
-  "status": ""
+  "en": "...I'm sorry, Big Sis Siskier. I'm a bother, aren't I. I can't fight, and I'm here with everyone...",
+  "status": "done"
  },
  {
   "id": "event_2193_001CA",
@@ -80,8 +80,8 @@
    4843
   ],
   "jp": "{voice:000E13}だから、そういうこと言わないの！{n}エイミぐらいの時は、私だって{n}戦えなかったんだから。",
-  "en": "",
-  "status": ""
+  "en": "Don't talk like that, I told you! When I was your age, Eimi, I couldn't fight either.",
+  "status": "done"
  },
  {
   "id": "event_2193_00223",
@@ -92,8 +92,8 @@
    4864
   ],
   "jp": "{voice:000F13}でも、ボクはいつも留守番ばかり…{n}留守番する家も追い出されて…",
-  "en": "",
-  "status": ""
+  "en": "But I always just stay behind... and now they kicked me out of the house I was staying behind in...",
+  "status": "done"
  },
  {
   "id": "event_2193_00265",
@@ -104,8 +104,8 @@
    4885
   ],
   "jp": "{voice:001013}ボクは役に立ってないよ。{n}ボクも役に立ちたいよ。",
-  "en": "",
-  "status": ""
+  "en": "I'm no use at all. I want to be useful too.",
+  "status": "done"
  },
  {
   "id": "event_2193_00299",
@@ -116,8 +116,8 @@
    4906
   ],
   "jp": "{voice:001113}泣くな。{n}強くなりたいんだろ？",
-  "en": "",
-  "status": ""
+  "en": "Don't cry. You want to get stronger, right?",
+  "status": "done"
  },
  {
   "id": "event_2193_002BB",
@@ -128,8 +128,8 @@
    4913
   ],
   "jp": "{voice:001213}役立たずの自分が嫌いなら、{n}強くなるための道を考えて進め。",
-  "en": "",
-  "status": ""
+  "en": "If you hate being useless, figure out a way to get stronger and go for it.",
+  "status": "done"
  },
  {
   "id": "event_2193_002F9",
@@ -140,8 +140,8 @@
    4934
   ],
   "jp": "{voice:001313}そうなの、かな…",
-  "en": "",
-  "status": ""
+  "en": "Is that, um, how it is...",
+  "status": "done"
  },
  {
   "id": "event_2193_0030E",
@@ -152,8 +152,8 @@
    4958
   ],
   "jp": "{voice:001413}ちょっと！{n}子供になんてこと言うのよ！",
-  "en": "",
-  "status": ""
+  "en": "Hey! What a thing to say to a child!",
+  "status": "done"
  },
  {
   "id": "event_2193_00338",
@@ -176,8 +176,8 @@
    5048
   ],
   "jp": "{voice:001513}エレナも、あまり思い詰めるな。",
-  "en": "",
-  "status": ""
+  "en": "Elena, don't brood over it too much either.",
+  "status": "done"
  },
  {
   "id": "event_2193_00366",
@@ -188,8 +188,8 @@
    5069
   ],
   "jp": "{voice:001613}ええ、兄さん。{n}分かっているのですが……",
-  "en": "",
-  "status": ""
+  "en": "Yes, brother. I do know that, but...",
+  "status": "done"
  },
  {
   "id": "event_2193_00392",
@@ -200,8 +200,8 @@
    5124
   ],
   "jp": "{voice:001713}そろそろ王国との国境だね。",
-  "en": "",
-  "status": ""
+  "en": "We're almost at the border with the Kingdom.",
+  "status": "done"
  },
  {
   "id": "event_2193_003B1",
@@ -212,8 +212,8 @@
    5145
   ],
   "jp": "{voice:001813}国境にはカローナという街がある。{n}ただ、安易に近づけば、{n}国境軍に気取られてしまうが……",
-  "en": "",
-  "status": ""
+  "en": "The border town of Karona is there. But if we get careless near it, the border army will notice us...",
+  "status": "done"
  },
  {
   "id": "event_2193_0040C",
@@ -224,8 +224,8 @@
    5332
   ],
   "jp": "{voice:001913}ガーロット！　正面に王国軍の{n}部隊が展開しているぞ②",
-  "en": "",
-  "status": ""
+  "en": "Garlot! A Kingdom Army unit's deployed straight ahead!!",
+  "status": "done"
  },
  {
   "id": "event_2193_00444",
@@ -236,8 +236,8 @@
    5353
   ],
   "jp": "{voice:001A13}状況を見る限り、交戦状態だな。{n}包囲戦のように見える。",
-  "en": "",
-  "status": ""
+  "en": "From what I see, they are in combat. It looks like an encirclement.",
+  "status": "done"
  },
  {
   "id": "event_2193_0047E",
@@ -248,8 +248,8 @@
    5374
   ],
   "jp": "{voice:001B13}包囲戦③{n}まさか、アイギナか？",
-  "en": "",
-  "status": ""
+  "en": "An encirclement!? Don't tell me it's Aegina!?",
+  "status": "done"
  },
  {
   "id": "event_2193_004A0",
@@ -260,8 +260,8 @@
    5429
   ],
   "jp": "{voice:001C13}ぐくっ…！",
-  "en": "",
-  "status": ""
+  "en": "Gnngh...!",
+  "status": "done"
  },
  {
   "id": "event_2193_004AF",
@@ -272,8 +272,8 @@
    5514
   ],
   "jp": "{voice:001D13}包囲の密度を上げろ②{n}王国領には踏み入れさせるな！",
-  "en": "",
-  "status": ""
+  "en": "Tighten the encirclement!! Don't let her set foot in Kingdom lands!",
+  "status": "done"
  },
  {
   "id": "event_2193_004E5",
@@ -284,8 +284,8 @@
    5535
   ],
   "jp": "{voice:001E13}それにしてもこの女性、何者だ？{n}鬼気迫る戦いぶりだ。",
-  "en": "",
-  "status": ""
+  "en": "Who is this woman, anyway? She fights like a woman possessed.",
+  "status": "done"
  },
  {
   "id": "event_2193_0051D",
@@ -296,8 +296,8 @@
    5542
   ],
   "jp": "{voice:001F13}面影がユグドラ姫様に似ている……{n}兵も少々やりにくいだろう。",
-  "en": "",
-  "status": ""
+  "en": "Her features resemble Princess Yggdra's... That must make it a little hard on the soldiers.",
+  "status": "done"
  },
  {
   "id": "event_2193_0055D",
@@ -308,8 +308,8 @@
    5627
   ],
   "jp": "{voice:002013}間違いない、あれはアイギナだ。",
-  "en": "",
-  "status": ""
+  "en": "No doubt. That is Aegina.",
+  "status": "done"
  },
  {
   "id": "event_2193_00580",
@@ -320,8 +320,8 @@
    5648
   ],
   "jp": "{voice:002113}行くよ、ガーロット！{n}まずはアイギナを救い出そう②",
-  "en": "",
-  "status": ""
+  "en": "Let's go, Garlot! First we rescue Aegina!!",
+  "status": "done"
  },
  {
   "id": "event_2193_005B6",
@@ -332,8 +332,8 @@
    5669
   ],
   "jp": "{voice:002213}エイミ、{n}私の傍を離れちゃダメよ②",
-  "en": "",
-  "status": ""
+  "en": "Eimi, don't leave my side!!",
+  "status": "done"
  },
  {
   "id": "event_2193_005DC",
@@ -344,8 +344,8 @@
    5690
   ],
   "jp": "{voice:002313}う、うん……",
-  "en": "",
-  "status": ""
+  "en": "O-Okay...",
+  "status": "done"
  },
  {
   "id": "event_2193_005ED",
@@ -356,8 +356,8 @@
    5923
   ],
   "jp": "{voice:002413}隊長！　ラッセル隊長②{n}帝国領の方角から、{n}正体不明の勢力が現れました！",
-  "en": "",
-  "status": ""
+  "en": "Captain! Captain Russell!! An unknown force has appeared from the direction of imperial lands!",
+  "status": "done"
  },
  {
   "id": "event_2193_00638",
@@ -368,8 +368,8 @@
    5944
   ],
   "jp": "{voice:002513}あの軍旗、確か……{n}帝国の反乱軍を鎮圧したと噂の{n}グラムブレイズじゃないか③",
-  "en": "",
-  "status": ""
+  "en": "That banner, surely it's... Gram Blaze, who they say put down the Empire's rebels!?",
+  "status": "done"
  },
  {
   "id": "event_2193_00687",
@@ -380,8 +380,8 @@
    5994
   ],
   "jp": "{voice:002613}まさかこの女性は、奴らの……",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me this woman is one of theirs...",
+  "status": "done"
  },
  {
   "id": "event_2193_006A8",
@@ -392,8 +392,8 @@
    6044
   ],
   "jp": "{voice:002713}まずいっ！　全隊②{n}帝国領方面に意識を集中させろ②",
-  "en": "",
-  "status": ""
+  "en": "This is bad! All units!! Turn your attention toward imperial lands!!",
+  "status": "done"
  },
  {
   "id": "event_2193_006DE",
@@ -404,8 +404,8 @@
    6094
   ],
   "jp": "{voice:002813}アイギナの救出が最優先だ。{n}包囲網を破るぞ！",
-  "en": "",
-  "status": ""
+  "en": "Rescuing Aegina comes first. We're breaking through their encirclement!",
+  "status": "done"
  },
  {
   "id": "event_2193_0070E",
@@ -416,8 +416,8 @@
    16244
   ],
   "jp": "{voice:002913}ガーロット様③　何故ここに？",
-  "en": "",
-  "status": ""
+  "en": "Garlot-sama!? Why are you here?",
+  "status": "done"
  },
  {
   "id": "event_2193_0072F",
@@ -428,8 +428,8 @@
    16265
   ],
   "jp": "{voice:002A13}お前を助ける為に決まってるだろ！",
-  "en": "",
-  "status": ""
+  "en": "To save you, obviously!",
+  "status": "done"
  },
  {
   "id": "event_2193_00754",
@@ -440,8 +440,8 @@
    16286
   ],
   "jp": "{voice:002B13}ガーロット様の目的は、{n}帝国を、理不尽のない世界に{n}する事のはずです……",
-  "en": "",
-  "status": ""
+  "en": "Your goal, Garlot-sama, is surely to make the Empire a world without injustice...",
+  "status": "done"
  },
  {
   "id": "event_2193_0079F",
@@ -452,8 +452,8 @@
    16307
   ],
   "jp": "{voice:002C13}私の復讐は、個人的なもの。{n}ですから、グラムブレイズを{n}去り、戦う決意をしたのです！",
-  "en": "",
-  "status": ""
+  "en": "My revenge is a personal matter. That is why I left Gram Blaze, and resolved to fight!",
+  "status": "done"
  },
  {
   "id": "event_2193_007F6",
@@ -464,8 +464,8 @@
    16328
   ],
   "jp": "{voice:002D13}目の前にある理不尽を見過ごして、{n}それで、世界が変えられるかよ②",
-  "en": "",
-  "status": ""
+  "en": "If I look the other way at the injustice in front of me, how am I supposed to change the world!!",
+  "status": "done"
  },
  {
   "id": "event_2193_0083A",
@@ -476,8 +476,8 @@
    16335
   ],
   "jp": "{voice:002E13}それに俺は、仲間を絶対に！{n}見捨てない②",
-  "en": "",
-  "status": ""
+  "en": "Besides, I will never! Abandon a comrade!!",
+  "status": "done"
  },
  {
   "id": "event_2193_00866",
@@ -488,8 +488,8 @@
    16356
   ],
   "jp": "{voice:002F13}ガーロット様……",
-  "en": "",
-  "status": ""
+  "en": "Garlot-sama...",
+  "status": "done"
  },
  {
   "id": "event_2193_0087B",
@@ -500,8 +500,8 @@
    18175
   ],
   "jp": "{voice:003013}みんな、行くぜ！",
-  "en": "",
-  "status": ""
+  "en": "Everyone, let's go!",
+  "status": "done"
  },
  {
   "id": "event_2193_00890",
@@ -512,8 +512,8 @@
    18196
   ],
   "jp": "{voice:003113}もちろん！",
-  "en": "",
-  "status": ""
+  "en": "You bet!",
+  "status": "done"
  },
  {
   "id": "event_2193_0089F",
@@ -524,8 +524,8 @@
    18217
   ],
   "jp": "{voice:003213}さぁ、王国軍の皆さん。{n}覚悟してくださいよ！",
-  "en": "",
-  "status": ""
+  "en": "Now then, ladies and gentlemen of the Kingdom Army. Prepare yourselves!",
+  "status": "done"
  },
  {
   "id": "event_2193_008CF",
@@ -536,8 +536,8 @@
    18238
   ],
   "jp": "{voice:003313}ククク、血が騒ぐぜ。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh, my blood's boiling.",
+  "status": "done"
  },
  {
   "id": "event_2193_008E8",
@@ -548,8 +548,8 @@
    18315
   ],
   "jp": "{voice:003413}バイフーは、本を読んで知が騒ぐ。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Byff read many books, so his brain is boiling. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2193_0091C",
@@ -560,8 +560,8 @@
    18259
   ],
   "jp": "{voice:003513}アイギナは、必ず助ける。",
-  "en": "",
-  "status": ""
+  "en": "I will save Aegina without fail.",
+  "status": "done"
  },
  {
   "id": "event_2193_00939",
@@ -572,8 +572,8 @@
    18378
   ],
   "jp": "{voice:003613}派手にやってあげようじゃない。",
-  "en": "",
-  "status": ""
+  "en": "Let's give them a real show.",
+  "status": "done"
  },
  {
   "id": "event_2193_0095C",
@@ -584,8 +584,8 @@
    18441
   ],
   "jp": "{voice:003713}うほっ③　今度は王国軍と戦争？{n}まあ、あたしノンポリだから{n}構わないけどね～。",
-  "en": "",
-  "status": ""
+  "en": "Whoa!? Now it's a war with the Kingdom Army? Well, I'm not political, so I don't mind~",
+  "status": "done"
  },
  {
   "id": "event_2193_009AD",
@@ -596,8 +596,8 @@
    18504
   ],
   "jp": "{voice:003813}王国軍と本当に戦闘になるなんて…",
-  "en": "",
-  "status": ""
+  "en": "We're really gonna fight the Kingdom Army...",
+  "status": "done"
  },
  {
   "id": "event_2193_009D2",
@@ -608,8 +608,8 @@
    18581
   ],
   "jp": "{voice:003913}あら、あの敵軍の将。{n}なかなかの美形な殿方ですわね。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, that enemy general. Quite a handsome gentleman, isn't he.",
+  "status": "done"
  },
  {
   "id": "event_2193_00A0A",
@@ -620,8 +620,8 @@
    18638
   ],
   "jp": "{voice:003A13}おらぁぁぁ！{n}やってやるぜぇ②",
-  "en": "",
-  "status": ""
+  "en": "Yeeaaah! Let's do this!!",
+  "status": "done"
  },
  {
   "id": "event_2193_00A2C",
@@ -632,8 +632,8 @@
    18701
   ],
   "jp": "{voice:003B13}うぃ～、ヒック、{n}ん？　なんだ？",
-  "en": "",
-  "status": ""
+  "en": "Ooh, *hic*, hm? What's this?",
+  "status": "done"
  },
  {
   "id": "event_2193_00A50",
@@ -645,8 +645,8 @@
    6373
   ],
   "jp": "帝国の軍か？{n}いや、正規軍とは軍装が異なる…{n}一体何者だ？",
-  "en": "",
-  "status": ""
+  "en": "An imperial army? No, the gear's different from the regulars... Who might you be?",
+  "status": "done"
  },
  {
   "id": "event_2193_00A89",
@@ -658,8 +658,8 @@
    6380
   ],
   "jp": "…帝国にいる貴族の私兵で、{n}グラムブレイズか。{n}噂は耳にしているよ。",
-  "en": "",
-  "status": ""
+  "en": "...A noble's private army from the Empire, Gram Blaze. I've heard the rumors.",
+  "status": "done"
  },
  {
   "id": "event_2193_00ACC",
@@ -671,8 +671,8 @@
    6387
   ],
   "jp": "む？　この気配は…{n}君、『ダークマター』を{n}持っているな？",
-  "en": "",
-  "status": ""
+  "en": "Hm? This aura... You have some \"Dark Matter\" on you, don't you?",
+  "status": "done"
  },
  {
   "id": "event_2193_00B05",
@@ -684,8 +684,8 @@
    6394
   ],
   "jp": "ふむ…{n}貸してみたまえ。",
-  "en": "",
-  "status": ""
+  "en": "Hmm... Let me borrow it.",
+  "status": "done"
  },
  {
   "id": "event_2193_00B1D",
@@ -697,8 +697,8 @@
    6476
   ],
   "jp": "異界の物質を錬成する事で、{n}異界の武器が誕生する……{n}さあ、使いたまえ。",
-  "en": "",
-  "status": ""
+  "en": "Refine a substance from another world, and a weapon from another world is born... There, use it.",
+  "status": "done"
  },
  {
   "id": "event_2193_00B64",
@@ -710,8 +710,8 @@
    6563
   ],
   "jp": "私は若い頃、魔術アカデミーに{n}籍を置いた魔導師だった…",
-  "en": "",
-  "status": ""
+  "en": "In my youth, I was a mage enrolled at the Magic Academy...",
+  "status": "done"
  },
  {
   "id": "event_2193_00B9A",
@@ -723,8 +723,8 @@
    6570
   ],
   "jp": "だがある時、図書館にあった{n}黒魔術の魔術書に目を通したのだ。",
-  "en": "",
-  "status": ""
+  "en": "But one day, I looked through a grimoire of black magic in the library.",
+  "status": "done"
  },
  {
   "id": "event_2193_00BD6",
@@ -736,8 +736,8 @@
    6577
   ],
   "jp": "人生が変わったようだったよ…",
-  "en": "",
-  "status": ""
+  "en": "It was as if my whole life changed...",
+  "status": "done"
  },
  {
   "id": "event_2193_00BF3",
@@ -749,8 +749,8 @@
    6584
   ],
   "jp": "以来、この辺境の地で{n}ひとり研究に精を出しているのさ。",
-  "en": "",
-  "status": ""
+  "en": "Ever since, I've devoted myself to research, alone in this remote land.",
+  "status": "done"
  },
  {
   "id": "event_2193_00C29",
@@ -762,8 +762,8 @@
    6610
   ],
   "jp": "帝国の軍か？{n}いや、正規軍とは軍装が異なる…{n}一体何者だ？",
-  "en": "",
-  "status": ""
+  "en": "An imperial army? No, the gear's different from the regulars... Who might you be?",
+  "status": "done"
  },
  {
   "id": "event_2193_00C62",
@@ -775,8 +775,8 @@
    6617
   ],
   "jp": "…帝国にいる貴族の私兵で、{n}グラムブレイズか。{n}噂は耳にしているよ。",
-  "en": "",
-  "status": ""
+  "en": "...A noble's private army from the Empire, Gram Blaze. I've heard the rumors.",
+  "status": "done"
  },
  {
   "id": "event_2193_00CA5",
@@ -788,8 +788,8 @@
    6624
   ],
   "jp": "ここは国境の村エラク…{n}何もないところだが、{n}まあゆっくりして行くがよい。",
-  "en": "",
-  "status": ""
+  "en": "This is the border village of Erak... There's nothing here, but do stay as long as you like.",
+  "status": "done"
  },
  {
   "id": "event_2193_00D78",
@@ -824,8 +824,8 @@
    3566
   ],
   "jp": "王国軍A",
-  "en": "",
-  "status": ""
+  "en": "Army A",
+  "status": "done"
  },
  {
   "id": "event_2193_00E90",
@@ -836,8 +836,8 @@
    3725
   ],
   "jp": "王国軍B（ラッセル隊）",
-  "en": "",
-  "status": ""
+  "en": "Army B (Russell Unit)",
+  "status": "done"
  },
  {
   "id": "event_2193_00F6D",
@@ -848,8 +848,8 @@
    3946
   ],
   "jp": "王国軍C",
-  "en": "",
-  "status": ""
+  "en": "Army C",
+  "status": "done"
  },
  {
   "id": "event_2193_049AC",
@@ -860,8 +860,8 @@
    23481
   ],
   "jp": "{voice:003C13}合流したか…、やはりあの女性は、{n}グラムブレイズの仲間だな。",
-  "en": "",
-  "status": ""
+  "en": "They've joined up... So that woman is one of Gram Blaze, after all.",
+  "status": "done"
  },
  {
   "id": "event_2193_049EC",
@@ -872,8 +872,8 @@
    23531
   ],
   "jp": "{voice:003D13}増援が来たようだが……{n}勝てるか、ラッセル？",
-  "en": "",
-  "status": ""
+  "en": "It seems reinforcements have arrived... Can we win, Russell?",
+  "status": "done"
  },
  {
   "id": "event_2193_04A1C",
@@ -884,8 +884,8 @@
    23552
   ],
   "jp": "{voice:003E13}なんとか抑えてみせます。{n}ここを抜かれると、{n}カローナが戦場になりますからね。",
-  "en": "",
-  "status": ""
+  "en": "I'll hold them somehow. If they break through here, Karona becomes a battlefield.",
+  "status": "done"
  },
  {
   "id": "event_2193_04A6D",
@@ -896,8 +896,8 @@
    23559
   ],
   "jp": "{voice:003F13}それだけは、阻止します。",
-  "en": "",
-  "status": ""
+  "en": "That, at least, I will prevent.",
+  "status": "done"
  },
  {
   "id": "event_2193_04A8A",
@@ -908,8 +908,8 @@
    37542
   ],
   "jp": "{voice:004013}それっ、友軍を援護しろ②",
-  "en": "",
-  "status": ""
+  "en": "Go, support our allies!!",
+  "status": "done"
  },
  {
   "id": "event_2193_04AA7",
@@ -920,8 +920,8 @@
    37619
   ],
   "jp": "{voice:004113}うほっ②　厄介そうな連中の{n}お出ましだわさ②",
-  "en": "",
-  "status": ""
+  "en": "Whoa!! Here comes a nasty-looking bunch!!",
+  "status": "done"
  },
  {
   "id": "event_2193_04AD7",
@@ -932,8 +932,8 @@
    37640
   ],
   "jp": "{voice:004213}チッ、援軍かよ……{n}対岸に弓兵とは厄介だな。",
-  "en": "",
-  "status": ""
+  "en": "Tch, reinforcements, huh... Archers on the far bank are going to be a pain.",
+  "status": "done"
  },
  {
   "id": "event_2193_04B07",
@@ -944,8 +944,8 @@
    37661
   ],
   "jp": "{voice:004313}なんとか川の向こう側に渡って、{n}切り込めないでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Can't we find a way across the river and cut into them?",
+  "status": "done"
  },
  {
   "id": "event_2193_04B43",
@@ -956,8 +956,8 @@
    37711
   ],
   "jp": "{voice:004413}あの橋を使えば…！",
-  "en": "",
-  "status": ""
+  "en": "If we use that bridge...!",
+  "status": "done"
  },
  {
   "id": "event_2193_04B5A",
@@ -981,8 +981,8 @@
    34441
   ],
   "jp": "{voice:004513}国境を超えさせるわけには行かん②",
-  "en": "",
-  "status": ""
+  "en": "I cannot let you cross the border!!",
+  "status": "done"
  },
  {
   "id": "event_2193_04B7F",
@@ -993,8 +993,8 @@
    37025
   ],
   "jp": "{voice:004613}総隊長を狙われたか！",
-  "en": "",
-  "status": ""
+  "en": "They're going for the Commander!",
+  "status": "done"
  },
  {
   "id": "event_2193_04B98",
@@ -1005,8 +1005,8 @@
    33822
   ],
   "jp": "{voice:004713}しまった……、強い！",
-  "en": "",
-  "status": ""
+  "en": "Damn it... They're strong!",
+  "status": "done"
  },
  {
   "id": "event_2193_04BB1",
@@ -1017,8 +1017,8 @@
    33829
   ],
   "jp": "{voice:004813}総隊長、申し訳ありません……{n}一時撤退させて頂きます。",
-  "en": "",
-  "status": ""
+  "en": "Commander, my apologies... I must retreat for the time being.",
+  "status": "done"
  },
  {
   "id": "event_2193_04BEB",
@@ -1029,8 +1029,8 @@
    34054
   ],
   "jp": "{voice:004913}なんという屈強な戦士達だ……{n}目的が侵攻ならば、カローナが{n}攻め落とされても不思議はない！",
-  "en": "",
-  "status": ""
+  "en": "What sturdy warriors they are... If invasion is their goal, Karona could well fall to them!",
+  "status": "done"
  },
  {
   "id": "event_2193_04C48",
@@ -1041,8 +1041,8 @@
    34075
   ],
   "jp": "{voice:004A13}俺はここで、時を稼ぐ！",
-  "en": "",
-  "status": ""
+  "en": "I'll buy time here!",
+  "status": "done"
  },
  {
   "id": "event_2193_04C63",
@@ -1053,8 +1053,8 @@
    34082
   ],
   "jp": "{voice:004B13}ラッセルよ、カローナを守れ！{n}そして、わが娘フローネを②",
-  "en": "",
-  "status": ""
+  "en": "Russell, protect Karona! And my daughter, Flone!!",
+  "status": "done"
  },
  {
   "id": "event_2193_04C9F",
@@ -1065,8 +1065,8 @@
    33707
   ],
   "jp": "{voice:004C13}凌ぎ、切れんのかっ……",
-  "en": "",
-  "status": ""
+  "en": "I can't... hold them off...",
+  "status": "done"
  },
  {
   "id": "event_2193_04CBA",
@@ -1077,8 +1077,8 @@
    39406
   ],
   "jp": "{voice:004D13}おのれ、侵略者達め……{n}いつまでも貴様らの優勢が{n}続くとは思うなよ！",
-  "en": "",
-  "status": ""
+  "en": "Curse you, invaders... Don't think you'll keep the upper hand forever!",
+  "status": "done"
  },
  {
   "id": "event_2193_04D01",
@@ -1089,8 +1089,8 @@
    39416
   ],
   "jp": "{voice:004E13}ラッセル、後は頼んだぞ……",
-  "en": "",
-  "status": ""
+  "en": "Russell, I leave the rest to you...",
+  "status": "done"
  },
  {
   "id": "event_2193_04D20",
@@ -1101,8 +1101,8 @@
    39734
   ],
   "jp": "{voice:004F13}本隊が落とされた…",
-  "en": "",
-  "status": ""
+  "en": "The main force has fallen...",
+  "status": "done"
  },
  {
   "id": "event_2193_04D37",
@@ -1113,8 +1113,8 @@
    39741
   ],
   "jp": "{voice:005013}このまま戦線を長期化させても{n}損害が増えるだけだ。",
-  "en": "",
-  "status": ""
+  "en": "Dragging this front out will only add to our losses.",
+  "status": "done"
  },
  {
   "id": "event_2193_04D6D",
@@ -1125,8 +1125,8 @@
    39762
   ],
   "jp": "{voice:005113}総隊長に代わり私が指揮を取る！{n}全軍カローナに撤退せよ②",
-  "en": "",
-  "status": ""
+  "en": "I'll take command in the Commander's place! All troops, withdraw to Karona!!",
+  "status": "done"
  },
  {
   "id": "event_2193_04DA9",
@@ -1137,8 +1137,8 @@
    39975
   ],
   "jp": "{voice:005213}侵略者…{n}国を侵す者、か…{n}フフ、悪くないわね。",
-  "en": "",
-  "status": ""
+  "en": "Invaders... People who invade a country... Heh heh, not bad at all.",
+  "status": "done"
  },
  {
   "id": "event_2193_04DDC",
@@ -1149,8 +1149,8 @@
    39996
   ],
   "jp": "{voice:005313}王国を叩き潰す侵略者！{n}いいじゃない、望むところだわ②",
-  "en": "",
-  "status": ""
+  "en": "Invaders come to crush the Kingdom! Fine by me, that's just what I want!!",
+  "status": "done"
  },
  {
   "id": "event_2193_04E16",
@@ -1161,8 +1161,8 @@
    40017
   ],
   "jp": "{voice:005413}待っていて、姉さん…{n}私、必ず復讐を遂げるから！",
-  "en": "",
-  "status": ""
+  "en": "Wait for me, Sister... I'm going to have my revenge, no matter what!",
+  "status": "done"
  },
  {
   "id": "event_2193_04E4A",
@@ -1173,8 +1173,8 @@
    40522
   ],
   "jp": "{voice:005513}カローナの様子を探ってた斥候が{n}何人か戻ってきたわ。",
-  "en": "",
-  "status": ""
+  "en": "The scouts I sent to look over Karona have started coming back.",
+  "status": "done"
  },
  {
   "id": "event_2193_04E82",
@@ -1185,8 +1185,8 @@
    40529
   ],
   "jp": "{voice:005613}あのラッセルとかいう将校、{n}かなり堅固な守りを敷いている{n}みたいだね……",
-  "en": "",
-  "status": ""
+  "en": "That officer, what's-his-name, Russell, seems to have set up a very solid defense...",
+  "status": "done"
  },
  {
   "id": "event_2193_04ECD",
@@ -1197,8 +1197,8 @@
    40550
   ],
   "jp": "{voice:005713}正攻法で攻めるのは難しいか。",
-  "en": "",
-  "status": ""
+  "en": "A frontal attack will be difficult, then.",
+  "status": "done"
  },
  {
   "id": "event_2193_04EEE",
@@ -1209,8 +1209,8 @@
    40614
   ],
   "jp": "{voice:005813}皆さん、ちょっとお時間を{n}よろしいですか？",
-  "en": "",
-  "status": ""
+  "en": "Everyone, might I have a moment of your time?",
+  "status": "done"
  },
  {
   "id": "event_2193_04F1C",
@@ -1221,8 +1221,8 @@
    40621
   ],
   "jp": "{voice:005913}我々は、ヴェルマン方伯に黙って{n}ここまで来てしまいました。",
-  "en": "",
-  "status": ""
+  "en": "We came all the way here without a word to Margrave Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2193_04F5A",
@@ -1233,8 +1233,8 @@
    40642
   ],
   "jp": "{voice:005A13}ヴェルマン、怒ってるだろうな。",
-  "en": "",
-  "status": ""
+  "en": "Velleman must be furious.",
+  "status": "done"
  },
  {
   "id": "event_2193_04F7D",
@@ -1245,8 +1245,8 @@
    40663
   ],
   "jp": "{voice:005B13}怒る？{n}それで済めば、良い方ですよ。",
-  "en": "",
-  "status": ""
+  "en": "Furious? If it ends at that, we should count ourselves lucky.",
+  "status": "done"
  },
  {
   "id": "event_2193_04FA5",
@@ -1257,8 +1257,8 @@
    40684
   ],
   "jp": "{voice:005C13}いや…、うん…、{n}そうだよな…",
-  "en": "",
-  "status": ""
+  "en": "Well... Yeah... I guess so...",
+  "status": "done"
  },
  {
   "id": "event_2193_04FC7",
@@ -1269,8 +1269,8 @@
    40705
   ],
   "jp": "{voice:005D13}話はここからです、{n}今後の方針ですが、王国へは{n}このまま攻め入るつもりですか？",
-  "en": "",
-  "status": ""
+  "en": "Here is my point. As to our course from here, do you intend to march on into the Kingdom as we are?",
+  "status": "done"
  },
  {
   "id": "event_2193_05018",
@@ -1281,8 +1281,8 @@
    40726
   ],
   "jp": "{voice:005E13}私はそのつもりでした。",
-  "en": "",
-  "status": ""
+  "en": "That was my intention.",
+  "status": "done"
  },
  {
   "id": "event_2193_05033",
@@ -1293,8 +1293,8 @@
    40733
   ],
   "jp": "{voice:005F13}アイギナの名を出して王国内を{n}かき回し、姉を殺した黒幕を{n}見つけ出そうと思っています。",
-  "en": "",
-  "status": ""
+  "en": "I mean to stir up the Kingdom by using the name Aegina, and find the mastermind who killed my sister.",
+  "status": "done"
  },
  {
   "id": "event_2193_0508C",
@@ -1305,8 +1305,8 @@
    40754
   ],
   "jp": "{voice:006013}なるほど……",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "done"
  },
  {
   "id": "event_2193_0509D",
@@ -1317,8 +1317,8 @@
    40775
   ],
   "jp": "{voice:006113}あ、ネシア、もしかして{n}腰が引けちゃった？",
-  "en": "",
-  "status": ""
+  "en": "Oh, Nessiah, did you get cold feet, by any chance?",
+  "status": "done"
  },
  {
   "id": "event_2193_050CB",
@@ -1329,8 +1329,8 @@
    40796
   ],
   "jp": "{voice:006213}そうではなく、方針が大幅に{n}転換したものですから、{n}混乱している兵もいるかと……",
-  "en": "",
-  "status": ""
+  "en": "Not at all. It is only that our course has changed so greatly, some soldiers may be confused...",
+  "status": "done"
  },
  {
   "id": "event_2193_0511E",
@@ -1341,8 +1341,8 @@
    40881
   ],
   "jp": "{voice:006313}確かに、ネシアの言う通りだ。{n}本格的に王国領に入る前に、{n}方針を決めて、兵に説明しよう。",
-  "en": "",
-  "status": ""
+  "en": "You're right, Nessiah. Before we really enter the Kingdom, let's decide our course and explain it to the men.",
+  "status": "done"
  },
  {
   "id": "event_2193_05179",
@@ -1353,8 +1353,8 @@
    40888
   ],
   "jp": "{voice:006413}まずは俺の考えを言わせてくれ。{n}俺は、アイギナの戦いに{n}力を貸したい。",
-  "en": "",
-  "status": ""
+  "en": "First, let me say what I think. I want to lend my strength to Aegina's fight.",
+  "status": "done"
  },
  {
   "id": "event_2193_051C2",
@@ -1365,8 +1365,8 @@
    40895
   ],
   "jp": "{voice:006513}ルシエナの件もあるが、{n}幼い２人を暗殺しようとする{n}理不尽さは、決して許せない。",
-  "en": "",
-  "status": ""
+  "en": "Luciana's part of it, but trying to assassinate two little kids is an injustice I'll never forgive.",
+  "status": "done"
  },
  {
   "id": "event_2193_05215",
@@ -1377,8 +1377,8 @@
    40902
   ],
   "jp": "{voice:006613}だがこれは、元々の目標だった{n}帝政を変える為の戦いとは{n}何の関係もない。",
-  "en": "",
-  "status": ""
+  "en": "But this has nothing to do with our original goal, the fight to change the imperial regime.",
+  "status": "done"
  },
  {
   "id": "event_2193_05260",
@@ -1389,8 +1389,8 @@
    40909
   ],
   "jp": "{voice:006713}だから、部隊を抜けたい奴は{n}言ってくれ。{n}俺は止めないし、責めもしない。",
-  "en": "",
-  "status": ""
+  "en": "So anyone who wants out of the unit, just say so. I won't stop you, and I won't blame you.",
+  "status": "done"
  },
  {
   "id": "event_2193_052AB",
@@ -1401,8 +1401,8 @@
    40973
   ],
   "jp": "{voice:006813}私は、ガーロットに賛成。{n}みんなは？",
-  "en": "",
-  "status": ""
+  "en": "I'm with Garlot. What about everyone else?",
+  "status": "done"
  },
  {
   "id": "event_2193_052D3",
@@ -1437,8 +1437,8 @@
    41121
   ],
   "jp": "{voice:006913}…ん？",
-  "en": "",
-  "status": ""
+  "en": "...Hm?",
+  "status": "done"
  },
  {
   "id": "event_2193_052F4",
@@ -1449,8 +1449,8 @@
    41142
   ],
   "jp": "{voice:006A13}誰も、何も言わないね。{n}もしかして……",
-  "en": "",
-  "status": ""
+  "en": "Nobody's saying anything. Could it be...",
+  "status": "done"
  },
  {
   "id": "event_2193_0531E",
@@ -1461,8 +1461,8 @@
    41163
   ],
   "jp": "{voice:006B13}違うだろ。{n}どんな道でも{n}君について行くって事さ。",
-  "en": "",
-  "status": ""
+  "en": "That's not it. It means we'll follow you, whatever road you take.",
+  "status": "done"
  },
  {
   "id": "event_2193_05353",
@@ -1473,8 +1473,8 @@
    41184
   ],
   "jp": "{voice:006C13}バカ言え！{n}俺は、王国をかき乱すのが{n}面白そうだから賛成なだけだぞ！",
-  "en": "",
-  "status": ""
+  "en": "Don't be stupid! I'm only for it because messing up the Kingdom sounds like fun!",
+  "status": "done"
  },
  {
   "id": "event_2193_0539A",
@@ -1485,8 +1485,8 @@
    41205
   ],
   "jp": "{voice:006D13}ふーん、貴方わかりやすいわねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Hmm, you're easy to read, aren't you.",
+  "status": "done"
  },
  {
   "id": "event_2193_053BF",
@@ -1497,8 +1497,8 @@
    41226
   ],
   "jp": "{voice:006E13}うるせぇな②",
-  "en": "",
-  "status": ""
+  "en": "Shut up!!",
+  "status": "done"
  },
  {
   "id": "event_2193_053D0",
@@ -1509,8 +1509,8 @@
    41311
   ],
   "jp": "{voice:006F13}じゃあ決まりだな。",
-  "en": "",
-  "status": ""
+  "en": "Then it's settled.",
+  "status": "done"
  },
  {
   "id": "event_2193_053E7",
@@ -1521,8 +1521,8 @@
    41396
   ],
   "jp": "{voice:007013}みなさん、ありがとうございます。",
-  "en": "",
-  "status": ""
+  "en": "Thank you, everyone.",
+  "status": "done"
  },
  {
   "id": "event_2193_0540C",
@@ -1533,8 +1533,8 @@
    41417
   ],
   "jp": "{voice:007113}但し、一つお願いが……{n}私を団長にして欲しいのです。",
-  "en": "",
-  "status": ""
+  "en": "But I have one request... I would like you to make me Captain.",
+  "status": "done"
  },
  {
   "id": "event_2193_05444",
@@ -1545,8 +1545,8 @@
    41438
   ],
   "jp": "{voice:007213}え？　そうなんだ。",
-  "en": "",
-  "status": ""
+  "en": "Huh? Is that so.",
+  "status": "done"
  },
  {
   "id": "event_2193_0545B",
@@ -1557,8 +1557,8 @@
    41459
   ],
   "jp": "{voice:007313}これから、王国から侵略軍として{n}見られるはず。",
-  "en": "",
-  "status": ""
+  "en": "From now on, the Kingdom will surely see us as an invading army.",
+  "status": "done"
  },
  {
   "id": "event_2193_0548D",
@@ -1569,8 +1569,8 @@
    41466
   ],
   "jp": "{voice:007413}侵略軍の軍団長という汚名を、{n}ガーロット様に着せる訳には{n}まいりません……",
-  "en": "",
-  "status": ""
+  "en": "I cannot allow Garlot-sama to bear the dishonor of being Captain of an invading army...",
+  "status": "done"
  },
  {
   "id": "event_2193_054DA",
@@ -1581,8 +1581,8 @@
    41558
   ],
   "jp": "{voice:007513}待って待って！{n}王国軍は既にグラムブレイズ{n}の名を知ってしまった訳だろ。",
-  "en": "",
-  "status": ""
+  "en": "Wait, wait! The Kingdom Army already knows the name Gram Blaze, right?",
+  "status": "done"
  },
  {
   "id": "event_2193_05525",
@@ -1593,8 +1593,8 @@
    41565
   ],
   "jp": "{voice:007613}だったら、もう誰が団長だろうと{n}それほど変わらないよ。{n}方伯にも迷惑が掛かるだろうしね。",
-  "en": "",
-  "status": ""
+  "en": "So at this point, it doesn't much matter who the Captain is. It would still cause the Margrave trouble, too.",
+  "status": "done"
  },
  {
   "id": "event_2193_05580",
@@ -1605,8 +1605,8 @@
    41586
   ],
   "jp": "{voice:007713}ヴェルマンに迷惑か……",
-  "en": "",
-  "status": ""
+  "en": "Trouble for Velleman, huh...",
+  "status": "done"
  },
  {
   "id": "event_2193_0559B",
@@ -1617,8 +1617,8 @@
    41607
   ],
   "jp": "{voice:007813}そこでだ！{n}正当な理由を掲げつつ、{n}進軍すればいい。",
-  "en": "",
-  "status": ""
+  "en": "So here's the thing! We march while holding up a legitimate cause.",
+  "status": "done"
  },
  {
   "id": "event_2193_055D2",
@@ -1629,8 +1629,8 @@
    41614
   ],
   "jp": "{voice:007913}アイギナは王国のお姫様だろ？{n}だから、王位継承権の正当性を{n}主張するんだ。",
-  "en": "",
-  "status": ""
+  "en": "Aegina's a princess of the Kingdom, right? So she claims her rightful place in the line of succession.",
+  "status": "done"
  },
  {
   "id": "event_2193_0561F",
@@ -1641,8 +1641,8 @@
    41621
   ],
   "jp": "{voice:007A13}自国の姫様が敵となれば、{n}王国軍も多少は動揺するし、{n}方伯もその状況は利用できる…",
-  "en": "",
-  "status": ""
+  "en": "With their own princess as the enemy, the Kingdom Army will waver, and the Margrave can use that...",
+  "status": "done"
  },
  {
   "id": "event_2193_05674",
@@ -1653,8 +1653,8 @@
    41628
   ],
   "jp": "{voice:007B13}と思うけど、どうかな。",
-  "en": "",
-  "status": ""
+  "en": "Or so I think. What do you say?",
+  "status": "done"
  },
  {
   "id": "event_2193_0568F",
@@ -1665,8 +1665,8 @@
    41720
   ],
   "jp": "{voice:007C13}なるほど…{n}戦いの大義名分も立ちますし、{n}我々の士気も上がるはずですね。",
-  "en": "",
-  "status": ""
+  "en": "I see... It gives us a just cause for the fight, and it ought to raise our morale as well.",
+  "status": "done"
  },
  {
   "id": "event_2193_056DA",
@@ -1677,8 +1677,8 @@
    41727
   ],
   "jp": "{voice:007D13}血筋の正当性が明らかになれば、{n}援助を受けられるかもしれません。",
-  "en": "",
-  "status": ""
+  "en": "If her rightful bloodline becomes clear, we may be able to gain support.",
+  "status": "done"
  },
  {
   "id": "event_2193_0571E",
@@ -1689,8 +1689,8 @@
    41734
   ],
   "jp": "{voice:007E13}大変よろしい策と思いますね、{n}ええ。",
-  "en": "",
-  "status": ""
+  "en": "I find it a most excellent plan, yes.",
+  "status": "done"
  },
  {
   "id": "event_2193_05746",
@@ -1701,8 +1701,8 @@
    41755
   ],
   "jp": "{voice:007F13}ヴェルマン方伯の件は、{n}まぁ苦し紛れだがな……",
-  "en": "",
-  "status": ""
+  "en": "Though that part about Margrave Velleman is a bit of a stretch...",
+  "status": "done"
  },
  {
   "id": "event_2193_05778",
@@ -1713,8 +1713,8 @@
    41776
   ],
   "jp": "{voice:008013}ははは……",
-  "en": "",
-  "status": ""
+  "en": "Hahaha...",
+  "status": "done"
  },
  {
   "id": "event_2193_05787",
@@ -1725,8 +1725,8 @@
    41854
   ],
   "jp": "{voice:008113}俺達グラムブレイズは、{n}これからはアイギナの近衛隊だな。",
-  "en": "",
-  "status": ""
+  "en": "So from now on, we in Gram Blaze are Aegina's royal guard.",
+  "status": "done"
  },
  {
   "id": "event_2193_057C3",
@@ -1737,8 +1737,8 @@
    41875
   ],
   "jp": "{voice:008213}呆れるよ。{n}でも、あたしも、{n}それでいいって気がするよ。",
-  "en": "",
-  "status": ""
+  "en": "Unbelievable. But you know, I kind of feel that's fine by me too.",
+  "status": "done"
  },
  {
   "id": "event_2193_057FE",
@@ -1749,8 +1749,8 @@
    41896
   ],
   "jp": "{voice:008413}カローナの守りは確かに堅い。{n}これを抜くのは難しいだろう。",
-  "en": "",
-  "status": ""
+  "en": "Karona's defenses are solid, all right. Breaking through will be hard.",
+  "status": "done"
  },
  {
   "id": "event_2193_0583C",
@@ -1761,8 +1761,8 @@
    41903
   ],
   "jp": "{voice:008513}でも、抜くのが難しいなら、{n}回避すればいい。",
-  "en": "",
-  "status": ""
+  "en": "But if breaking through is hard, we can just go around.",
+  "status": "done"
  },
  {
   "id": "event_2193_0586C",
@@ -1773,8 +1773,8 @@
    41924
   ],
   "jp": "{voice:008613}回避って、どうやって？{n}空でも飛べればいいけど、{n}そうはいかないよ。",
-  "en": "",
-  "status": ""
+  "en": "Around how? It'd be great if we could fly, but that's not happening.",
+  "status": "done"
  },
  {
   "id": "event_2193_058B3",
@@ -1785,8 +1785,8 @@
    41945
   ],
   "jp": "{voice:008713}船を使って海を回る。{n}商船を数隻借りればいい。",
-  "en": "",
-  "status": ""
+  "en": "We go by sea, in ships. All we need is to hire a few merchant ships.",
+  "status": "done"
  },
  {
   "id": "event_2193_058E5",
@@ -1797,7 +1797,7 @@
    41966
   ],
   "jp": "{voice:008813}やれやれ、{n}軍資金が一気に減りますね……",
-  "en": "",
-  "status": ""
+  "en": "Dear me, there go our war funds in one stroke...",
+  "status": "done"
  }
 ]
