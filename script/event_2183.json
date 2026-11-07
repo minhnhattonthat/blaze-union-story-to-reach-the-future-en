@@ -200,7 +200,7 @@
    9454
   ],
   "jp": "{voice:007E0D}戦火に呑まれ、失われるのは{n}いつの時代も無辜の民か……",
-  "en": "Swallowed by the fires of war, lost in every age: the innocent people...",
+  "en": "In every age, it's the innocent who get swallowed by the fires of war...",
   "status": "done"
  },
  {
@@ -452,7 +452,7 @@
    10297
   ],
   "jp": "{voice:00920D}ここは俺が生まれ育った街だ。{n}お前らに利などない！",
-  "en": "This is the city I was born and raised in. The land's not yours in any way!",
+  "en": "This is the city I was born and raised in. The land's on my side, not yours!",
   "status": "done"
  },
  {
@@ -854,7 +854,7 @@
    10650
   ],
   "jp": "頼んだぜ！　グラムブレイズ②",
-  "en": "I'm counting on you! Gram Blaze!!",
+  "en": "I'm counting on you, Gram Blaze!!",
   "status": "done"
  },
  {
@@ -1304,7 +1304,7 @@
    11181
   ],
   "jp": "くっ、なんて事だ…！{n}ここで、夢が朽ちるのか。",
-  "en": "Ngh, what a thing...! So my dream dies here.",
+  "en": "Ngh, how can this be...! So my dream dies here.",
   "status": "done"
  },
  {
@@ -1484,7 +1484,7 @@
    11323
   ],
   "jp": "くっ、なんて事だ…！{n}ここで、夢が朽ちるのか。",
-  "en": "Ngh, what a thing...! So my dream dies here.",
+  "en": "Ngh, how can this be...! So my dream dies here.",
   "status": "done"
  },
  {
@@ -1928,7 +1928,7 @@
    7579
   ],
   "jp": "パンドラ反乱軍",
-  "en": "Pandra rebels",
+  "en": "Pandra Rebels",
   "status": "done"
  },
  {
@@ -1952,7 +1952,7 @@
    7975
   ],
   "jp": "パンドラ反乱軍",
-  "en": "Pandra rebels",
+  "en": "Pandra Rebels",
   "status": "done"
  },
  {
@@ -2648,7 +2648,7 @@
    29223
   ],
   "jp": "よくも、街を②",
-  "en": "How dare you, our city!!",
+  "en": "How dare you do this to our city!!",
   "status": "done"
  },
  {
@@ -2780,7 +2780,7 @@
    30485
   ],
   "jp": "自軍の街でぶっ放したら、{n}さすがに怨みを買っちゃうわね…",
-  "en": "If I fired it off inside our own city, people would hate me for it, even for me...",
+  "en": "But fire it off inside our own city and people really would hate me...",
   "status": "done"
  },
  {
@@ -3356,7 +3356,7 @@
    47849
   ],
   "jp": "{voice:00C70D}足止めにインザーギ、お前達の{n}陽動と消耗にレオンと打った{n}布石が殆ど効いてないのか？",
-  "en": "Inzaghi to stall you, Leon to lure and wear you out. Are the moves I set up hardly working?",
+  "en": "Inzaghi to stall you, Leon to lure you out and wear you down. Those pieces I set out barely scratched you?",
   "status": "done"
  },
  {
@@ -3368,7 +3368,7 @@
    47867
   ],
   "jp": "{voice:00C80D}お前、部下を布石と言うのか！",
-  "en": "You call your own men \"moves\"!",
+  "en": "You call your own men \"pieces\"!",
   "status": "done"
  },
  {
@@ -3392,7 +3392,7 @@
    53674
   ],
   "jp": "{voice:00CA0D}なんだって、バカな…！",
-  "en": "What did you say, impossible...!",
+  "en": "What!? Impossible...!",
   "status": "done"
  },
  {
@@ -3908,7 +3908,7 @@
    45990
   ],
   "jp": "お前、緊張感ないよな……",
-  "en": "You've got no sense of tension, you know that...",
+  "en": "You don't take anything seriously, do you...",
   "status": "done"
  },
  {

@@ -452,7 +452,7 @@
    12441
   ],
   "jp": "{voice:008C0E}よし、何人かで周囲を捜索しよう。{n}残りで邸宅を固める。{n}いいな？",
-  "en": "All right, a few of us will search the area. The rest of you hold the residence. Got it?",
+  "en": "All right, a few of us will search the area. The rest of you hold the manor. Got it?",
   "status": "done"
  },
  {
@@ -512,7 +512,7 @@
    22203
   ],
   "jp": "{voice:00900E}邸宅の護衛に兵を貼り付けつつ、{n}姿を見せた賊は各個撃破するんだ！",
-  "en": "Keep soldiers posted to guard the residence, and pick off any assassins who show themselves!",
+  "en": "Keep soldiers posted to guard the manor, and pick off any assassins who show themselves!",
   "status": "done"
  },
  {
@@ -1202,7 +1202,7 @@
    16562
   ],
   "jp": "でも、息子には…{n}ジェノンには、後悔なんて{n}してほしくないのです。",
-  "en": "But for my son... For Jenon, I don't want any regrets.",
+  "en": "But my son... I don't want my Jenon to have any regrets.",
   "status": "done"
  },
  {
@@ -1727,7 +1727,7 @@
    13275
   ],
   "jp": "さすが領主様の館。{n}高価なものが落ちているんだね。",
-  "en": "Just what you'd expect of a lord's mansion. Even the things lying around are expensive.",
+  "en": "Just what you'd expect of a lord's manor. Even the things lying around are expensive.",
   "status": "done"
  },
  {
@@ -2027,7 +2027,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "女性は光り物には{n}目がないんですのよ～。{n}どれ、いただいておきますわ。",
-  "en": "A lady can't resist anything shiny~. Well then, I shall take it.",
+  "en": "A lady cannot resist anything shiny~. Well then, I shall take it.",
   "status": "done"
  },
  {
@@ -2177,7 +2177,7 @@
    16922
   ],
   "jp": "あれ、タクティクスカードね。{n}どうしてヴェルマンの邸宅の{n}傍に落ちているのかしら…",
-  "en": "Oh, a Tactics Card. Why is it lying right by Velleman's mansion...",
+  "en": "Oh, a Tactics Card. Why is it lying right by Velleman's manor...",
   "status": "done"
  },
  {
@@ -2774,7 +2774,7 @@
    29757
   ],
   "jp": "なにっ！{n}邸宅に賊が忍び込んだだと③",
-  "en": "What! Assassins got into the residence!?",
+  "en": "What! Assassins got into the manor!?",
   "status": "done"
  },
  {
@@ -2839,7 +2839,7 @@
    29775
   ],
   "jp": "くそっ！{n}全隊、ヴェルマン邸に急行！{n}賊を締め上げろ②",
-  "en": "Damn it! All units, hurry to Velleman's mansion! Squeeze those assassins!!",
+  "en": "Damn it! All units, hurry to Velleman's manor! Squeeze those assassins!!",
   "status": "done"
  },
  {
@@ -3092,7 +3092,7 @@
    102456
   ],
   "jp": "{voice:00A80E}ただ、パンドラには賛同できぬ{n}という連中だ。",
-  "en": "They simply can't get behind Pandra.",
+  "en": "They simply cannot get behind Pandra.",
   "status": "done"
  },
  {
@@ -3308,7 +3308,7 @@
    102263
   ],
   "jp": "{voice:00BA0E}頼むぞ、ガーロット。",
-  "en": "I'm counting on you, Garlot.",
+  "en": "I am counting on you, Garlot.",
   "status": "done"
  },
  {
@@ -3320,7 +3320,7 @@
    102281
   ],
   "jp": "{voice:00BB0E}よし、早速私兵団邸に戻って{n}遠征の準備をさせよう。",
-  "en": "All right, let's head back to the manor right away and get ready for the expedition.",
+  "en": "Very well. Let us return to the manor at once and prepare for the expedition.",
   "status": "done"
  },
  {
@@ -3584,7 +3584,7 @@
    101855
   ],
   "jp": "{voice:00D00E}お前達にはいつものように、{n}上洛時の護衛を頼みたい。",
-  "en": "I'd like you to escort us to the capital, as usual.",
+  "en": "I would like you to escort us to the capital, as usual.",
   "status": "done"
  },
  {
@@ -3608,7 +3608,7 @@
    101891
   ],
   "jp": "{voice:00D20E}よろしくお願いいたします。",
-  "en": "I am in your care.",
+  "en": "I place myself in your hands.",
   "status": "done"
  },
  {
