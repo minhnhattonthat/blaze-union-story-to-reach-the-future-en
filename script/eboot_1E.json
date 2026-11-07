@@ -36367,8 +36367,8 @@
    }
   ],
   "jp": "痛みは、ない。",
-  "en": "",
-  "status": ""
+  "en": "Pain does not exist.",
+  "status": "done"
  },
  {
   "id": "eboot_1EDABB",
@@ -36381,8 +36381,8 @@
    }
   ],
   "jp": "甘いんだな。",
-  "en": "",
-  "status": ""
+  "en": "You're soft.",
+  "status": "done"
  },
  {
   "id": "eboot_1EDAC8",
@@ -36395,8 +36395,8 @@
    }
   ],
   "jp": "やるしかない！",
-  "en": "",
-  "status": ""
+  "en": "I have no choice!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDAD7",
@@ -36409,8 +36409,8 @@
    }
   ],
   "jp": "甘く見ないで！",
-  "en": "",
-  "status": ""
+  "en": "Don't underestimate me!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDAE6",
@@ -36423,8 +36423,8 @@
    }
   ],
   "jp": "はんげきー！",
-  "en": "",
-  "status": ""
+  "en": "Counterattack!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDAF3",
@@ -36437,8 +36437,8 @@
    }
   ],
   "jp": "それだけ？",
-  "en": "",
-  "status": ""
+  "en": "That's all?",
+  "status": "done"
  },
  {
   "id": "eboot_1EDAFE",
@@ -36451,8 +36451,8 @@
    }
   ],
   "jp": "ただでは置きません！",
-  "en": "",
-  "status": ""
+  "en": "You will pay for that!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDB13",
@@ -36465,8 +36465,8 @@
    }
   ],
   "jp": "この程度で②",
-  "en": "",
-  "status": ""
+  "en": "With this little?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDB20",
@@ -36479,8 +36479,8 @@
    }
   ],
   "jp": "やるじゃない！",
-  "en": "",
-  "status": ""
+  "en": "Not bad!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDB2F",
@@ -36493,8 +36493,8 @@
    }
   ],
   "jp": "ケガだけじゃ済まないぜ！",
-  "en": "",
-  "status": ""
+  "en": "More than a scratch for you!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDB48",
@@ -36507,8 +36507,8 @@
    }
   ],
   "jp": "お相手しよう！",
-  "en": "",
-  "status": ""
+  "en": "I'll take you on!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDB57",
@@ -36521,8 +36521,8 @@
    }
   ],
   "jp": "退けっ。",
-  "en": "",
-  "status": ""
+  "en": "Fall back.",
+  "status": "done"
  },
  {
   "id": "eboot_1EDB60",
@@ -36535,8 +36535,8 @@
    }
   ],
   "jp": "その程度か！",
-  "en": "",
-  "status": ""
+  "en": "Is that the best you've got!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDB6D",
@@ -36549,8 +36549,8 @@
    }
   ],
   "jp": "フフ…、見えていますよ。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh... I can see you.",
+  "status": "done"
  },
  {
   "id": "eboot_1EDB86",
@@ -36563,8 +36563,8 @@
    }
   ],
   "jp": "愚かな……",
-  "en": "",
-  "status": ""
+  "en": "How foolish...",
+  "status": "done"
  },
  {
   "id": "eboot_1EDB91",
@@ -36577,8 +36577,8 @@
    }
   ],
   "jp": "覚悟がありますか？",
-  "en": "",
-  "status": ""
+  "en": "Are you prepared?",
+  "status": "done"
  },
  {
   "id": "eboot_1EDBA4",
@@ -36591,8 +36591,8 @@
    }
   ],
   "jp": "傭兵をなめんな！",
-  "en": "",
-  "status": ""
+  "en": "Don't mess with a merc!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDBB5",
@@ -36605,8 +36605,8 @@
    }
   ],
   "jp": "痛いではないか！",
-  "en": "",
-  "status": ""
+  "en": "That hurt, you know!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDBC6",
@@ -36619,8 +36619,8 @@
    }
   ],
   "jp": "こんなモンか？",
-  "en": "",
-  "status": ""
+  "en": "That's all you've got?",
+  "status": "done"
  },
  {
   "id": "eboot_1EDBD5",
@@ -36633,8 +36633,8 @@
    }
   ],
   "jp": "突撃はお断りっ！",
-  "en": "",
-  "status": ""
+  "en": "No charging, thank you!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDBE6",
@@ -36647,8 +36647,8 @@
    }
   ],
   "jp": "バイフー、跳ね返す！",
-  "en": "",
-  "status": ""
+  "en": "Byff, bounces back!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDBFB",
@@ -36661,8 +36661,8 @@
    }
   ],
   "jp": "押し返せ！",
-  "en": "",
-  "status": ""
+  "en": "Push them back!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDC06",
@@ -36675,8 +36675,8 @@
    }
   ],
   "jp": "怯むな！",
-  "en": "",
-  "status": ""
+  "en": "Don't flinch!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDC0F",
@@ -36689,8 +36689,8 @@
    }
   ],
   "jp": "頭が高い！",
-  "en": "",
-  "status": ""
+  "en": "Bow your head!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDC1A",
@@ -36703,8 +36703,8 @@
    }
   ],
   "jp": "突っぱってやる！",
-  "en": "",
-  "status": ""
+  "en": "I'll push right back!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDC2B",
@@ -36717,8 +36717,8 @@
    }
   ],
   "jp": "何すんのよ！　バーカ②",
-  "en": "",
-  "status": ""
+  "en": "What's your problem! Dummy!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDC42",
@@ -36731,8 +36731,8 @@
    }
   ],
   "jp": "どっか行きなさい！",
-  "en": "",
-  "status": ""
+  "en": "Go away!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDC55",
@@ -36745,8 +36745,8 @@
    }
   ],
   "jp": "力量をわきまえよ！",
-  "en": "",
-  "status": ""
+  "en": "Know your limits!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDC68",
@@ -36759,8 +36759,8 @@
    }
   ],
   "jp": "跳ね返すぞ、ゴラァ②",
-  "en": "",
-  "status": ""
+  "en": "I'll bounce you back, you punk!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDC7D",
@@ -36773,8 +36773,8 @@
    }
   ],
   "jp": "いたいわねー！",
-  "en": "",
-  "status": ""
+  "en": "Ow, that hurts!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDC8C",
@@ -36787,8 +36787,8 @@
    }
   ],
   "jp": "黙っていると思うな！",
-  "en": "",
-  "status": ""
+  "en": "Don't think I'll keep quiet!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDCA1",
@@ -36801,8 +36801,8 @@
    }
   ],
   "jp": "やられてばかりじゃない！",
-  "en": "",
-  "status": ""
+  "en": "I won't just take hits!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDCBA",
@@ -36815,8 +36815,8 @@
    }
   ],
   "jp": "させるものか！",
-  "en": "",
-  "status": ""
+  "en": "I won't let you!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDCC9",
@@ -36829,8 +36829,8 @@
    }
   ],
   "jp": "やり返せ！",
-  "en": "",
-  "status": ""
+  "en": "Hit back!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDCD4",
@@ -36843,8 +36843,8 @@
    }
   ],
   "jp": "抜かせるものか！",
-  "en": "",
-  "status": ""
+  "en": "Nobody gets past me!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDCE5",
@@ -36871,8 +36871,8 @@
    }
   ],
   "jp": "失うものなど…",
-  "en": "",
-  "status": ""
+  "en": "I have nothing to lose...",
+  "status": "done"
  },
  {
   "id": "eboot_1EDD05",
@@ -36885,8 +36885,8 @@
    }
   ],
   "jp": "恐れはしない！",
-  "en": "",
-  "status": ""
+  "en": "I'm not afraid!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDD14",
@@ -36913,8 +36913,8 @@
    }
   ],
   "jp": "無力ですね。",
-  "en": "",
-  "status": ""
+  "en": "How powerless.",
+  "status": "done"
  },
  {
   "id": "eboot_1EDD2A",
@@ -36927,8 +36927,8 @@
    }
   ],
   "jp": "切り返します！",
-  "en": "",
-  "status": ""
+  "en": "I will turn this around!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDD39",
@@ -36941,8 +36941,8 @@
    }
   ],
   "jp": "この程度で……",
-  "en": "",
-  "status": ""
+  "en": "With this little...",
+  "status": "done"
  },
  {
   "id": "eboot_1EDD48",
@@ -36955,8 +36955,8 @@
    }
   ],
   "jp": "やってくれましたね！",
-  "en": "",
-  "status": ""
+  "en": "You've done it now!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDD5D",
@@ -36983,8 +36983,8 @@
    }
   ],
   "jp": "ふざけるな！",
-  "en": "",
-  "status": ""
+  "en": "You've got some nerve!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDD71",
@@ -36997,8 +36997,8 @@
    }
   ],
   "jp": "やり返すのだ！",
-  "en": "",
-  "status": ""
+  "en": "Hit them back!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDD80",
@@ -37011,8 +37011,8 @@
    }
   ],
   "jp": "何をしやがる！",
-  "en": "",
-  "status": ""
+  "en": "What the hell are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDD8F",
@@ -37025,8 +37025,8 @@
    }
   ],
   "jp": "ひるむな、かかれ！",
-  "en": "",
-  "status": ""
+  "en": "Don't flinch, get them!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDDA2",
@@ -37039,8 +37039,8 @@
    }
   ],
   "jp": "好き勝手はさせん！",
-  "en": "",
-  "status": ""
+  "en": "I won't let you do as you please!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDDB5",
@@ -37053,8 +37053,8 @@
    }
   ],
   "jp": "負けないわ！",
-  "en": "",
-  "status": ""
+  "en": "I won't lose!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDDC2",
@@ -37067,8 +37067,8 @@
    }
   ],
   "jp": "離れなさいよ！",
-  "en": "",
-  "status": ""
+  "en": "Get away from me!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDDD1",
@@ -37081,8 +37081,8 @@
    }
   ],
   "jp": "バカげたマネを。",
-  "en": "",
-  "status": ""
+  "en": "How ridiculous.",
+  "status": "done"
  },
  {
   "id": "eboot_1EDDE2",
@@ -37095,8 +37095,8 @@
    }
   ],
   "jp": "黙らせてあげる！",
-  "en": "",
-  "status": ""
+  "en": "I'll shut you up!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDDF3",
@@ -37109,8 +37109,8 @@
    }
   ],
   "jp": "これは罪なの③",
-  "en": "",
-  "status": ""
+  "en": "Is this a sin?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDE02",
@@ -37123,8 +37123,8 @@
    }
   ],
   "jp": "お返しだぜ！",
-  "en": "",
-  "status": ""
+  "en": "Here's your payback!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDE0F",
@@ -37137,8 +37137,8 @@
    }
   ],
   "jp": "やられるもんかよッ！",
-  "en": "",
-  "status": ""
+  "en": "I ain't goin' down!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDE24",
@@ -37151,8 +37151,8 @@
    }
   ],
   "jp": "神サマに逆らう気か③",
-  "en": "",
-  "status": ""
+  "en": "You dare defy a god?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDE39",
@@ -37165,8 +37165,8 @@
    }
   ],
   "jp": "余裕だぜ！",
-  "en": "",
-  "status": ""
+  "en": "This is easy!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDE44",
@@ -37179,8 +37179,8 @@
    }
   ],
   "jp": "……返す。",
-  "en": "",
-  "status": ""
+  "en": "...Returned.",
+  "status": "done"
  },
  {
   "id": "eboot_1EDE4F",
@@ -37193,8 +37193,8 @@
    }
   ],
   "jp": "痛いじゃない！",
-  "en": "",
-  "status": ""
+  "en": "That hurts!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDE5E",
@@ -37207,8 +37207,8 @@
    }
   ],
   "jp": "行かせるもんか！",
-  "en": "",
-  "status": ""
+  "en": "I won't let you pass!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDE6F",
@@ -37221,8 +37221,8 @@
    }
   ],
   "jp": "痛くなんかないよっ！",
-  "en": "",
-  "status": ""
+  "en": "That doesn't hurt one bit!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDE84",
@@ -37235,8 +37235,8 @@
    }
   ],
   "jp": "生意気な連中！",
-  "en": "",
-  "status": ""
+  "en": "Cheeky bunch!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDE93",
@@ -37249,8 +37249,8 @@
    }
   ],
   "jp": "何するのよ！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDEA0",
@@ -37263,8 +37263,8 @@
    }
   ],
   "jp": "このぉ、お返し！",
-  "en": "",
-  "status": ""
+  "en": "Why you, take that!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDEB1",
@@ -37277,8 +37277,8 @@
    }
   ],
   "jp": "ウッ！",
-  "en": "",
-  "status": ""
+  "en": "Ugh!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDEB8",
@@ -37291,8 +37291,8 @@
    }
   ],
   "jp": "殺してみろ！",
-  "en": "",
-  "status": ""
+  "en": "Try and kill me!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDEC5",
@@ -37305,8 +37305,8 @@
    }
   ],
   "jp": "こんなものか！",
-  "en": "",
-  "status": ""
+  "en": "Is that it!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDED4",
@@ -37319,8 +37319,8 @@
    }
   ],
   "jp": "許さない…！",
-  "en": "",
-  "status": ""
+  "en": "I won't forgive you...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDEE1",
@@ -37333,8 +37333,8 @@
    }
   ],
   "jp": "その程度の攻撃で…ッ！",
-  "en": "",
-  "status": ""
+  "en": "With an attack like that...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDEF8",
@@ -37361,8 +37361,8 @@
    }
   ],
   "jp": "お仕置きが必要ね！",
-  "en": "",
-  "status": ""
+  "en": "You need a spanking!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF14",
@@ -37375,8 +37375,8 @@
    }
   ],
   "jp": "もっと攻めてみなさい！",
-  "en": "",
-  "status": ""
+  "en": "Attack me harder!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF2B",
@@ -37389,8 +37389,8 @@
    }
   ],
   "jp": "邪魔よ！",
-  "en": "",
-  "status": ""
+  "en": "You're in my way!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF34",
@@ -37403,8 +37403,8 @@
    }
   ],
   "jp": "蛮族め！",
-  "en": "",
-  "status": ""
+  "en": "Barbarian!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF3D",
@@ -37417,8 +37417,8 @@
    }
   ],
   "jp": "いらない！",
-  "en": "",
-  "status": ""
+  "en": "Don't want it!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF48",
@@ -37431,8 +37431,8 @@
    }
   ],
   "jp": "ケケッ！",
-  "en": "",
-  "status": ""
+  "en": "Keh-keh!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF51",
@@ -37445,8 +37445,8 @@
    }
   ],
   "jp": "ケッ？",
-  "en": "",
-  "status": ""
+  "en": "Keh?",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF58",
@@ -37459,8 +37459,8 @@
    }
   ],
   "jp": "カカ②",
-  "en": "",
-  "status": ""
+  "en": "Kaka!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF5F",
@@ -37473,8 +37473,8 @@
    }
   ],
   "jp": "グゴオォ！",
-  "en": "",
-  "status": ""
+  "en": "Grooogh!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF6A",
@@ -37487,8 +37487,8 @@
    }
   ],
   "jp": "グオ！",
-  "en": "",
-  "status": ""
+  "en": "Groh!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF71",
@@ -37501,8 +37501,8 @@
    }
   ],
   "jp": "ゴァア！",
-  "en": "",
-  "status": ""
+  "en": "Gwaah!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF7A",
@@ -37515,8 +37515,8 @@
    }
   ],
   "jp": "死に急ぐか！",
-  "en": "",
-  "status": ""
+  "en": "You're rushing to your death!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF87",
@@ -37529,8 +37529,8 @@
    }
   ],
   "jp": "死ぬものか……",
-  "en": "",
-  "status": ""
+  "en": "I won't die...",
+  "status": "done"
  },
  {
   "id": "eboot_1EDF96",
@@ -37543,8 +37543,8 @@
    }
   ],
   "jp": "通さないわ！",
-  "en": "",
-  "status": ""
+  "en": "You won't pass!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDFA3",
@@ -37557,8 +37557,8 @@
    }
   ],
   "jp": "通すもんですか！",
-  "en": "",
-  "status": ""
+  "en": "Like I'd let you pass!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDFB4",
@@ -37571,8 +37571,8 @@
    }
   ],
   "jp": "タダじゃ済ませない！",
-  "en": "",
-  "status": ""
+  "en": "You won't get away with this!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDFC9",
@@ -37585,8 +37585,8 @@
    }
   ],
   "jp": "どうってことないぜ…！",
-  "en": "",
-  "status": ""
+  "en": "That was nothing...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDFE0",
@@ -37599,8 +37599,8 @@
    }
   ],
   "jp": "例え１人でも、俺は……！",
-  "en": "",
-  "status": ""
+  "en": "Even if I'm alone, I'll...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EDFF9",
@@ -37613,8 +37613,8 @@
    }
   ],
   "jp": "…もっと、強くならなきゃな。",
-  "en": "",
-  "status": ""
+  "en": "...I need to get stronger.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE016",
@@ -37627,8 +37627,8 @@
    }
   ],
   "jp": "後には引けないからな…",
-  "en": "",
-  "status": ""
+  "en": "There's no turning back...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE02D",
@@ -37641,8 +37641,8 @@
    }
   ],
   "jp": "何度でも立ち上がるさ！",
-  "en": "",
-  "status": ""
+  "en": "I'll get up as many times as it takes!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE044",
@@ -37655,8 +37655,8 @@
    }
   ],
   "jp": "負けなかっただけだ。",
-  "en": "",
-  "status": ""
+  "en": "All I did was not lose.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE059",
@@ -37669,8 +37669,8 @@
    }
   ],
   "jp": "例え１人になろうと、俺は…！",
-  "en": "",
-  "status": ""
+  "en": "Even if I end up alone, I'll...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE076",
@@ -37683,8 +37683,8 @@
    }
   ],
   "jp": "覇道の途中、負けられん…②",
-  "en": "",
-  "status": ""
+  "en": "I can't lose on the path of conquest...!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE091",
@@ -37697,8 +37697,8 @@
    }
   ],
   "jp": "くぅ～、やられたなぁ…",
-  "en": "",
-  "status": ""
+  "en": "Ugh~, they got me good...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE0A8",
@@ -37711,8 +37711,8 @@
    }
   ],
   "jp": "……涙は、流さないわ。",
-  "en": "",
-  "status": ""
+  "en": "...I won't shed any tears.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE0BF",
@@ -37725,8 +37725,8 @@
    }
   ],
   "jp": "……負けるもんかっ。",
-  "en": "",
-  "status": ""
+  "en": "...I won't lose.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE0D4",
@@ -37739,8 +37739,8 @@
    }
   ],
   "jp": "掴み取るよ…！",
-  "en": "",
-  "status": ""
+  "en": "I'll seize it...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE0E3",
@@ -37753,8 +37753,8 @@
    }
   ],
   "jp": "……やめには、できないの？",
-  "en": "",
-  "status": ""
+  "en": "...Can't we just stop?",
+  "status": "done"
  },
  {
   "id": "eboot_1EE0FE",
@@ -37767,8 +37767,8 @@
    }
   ],
   "jp": "勝ったよ、ジェノン…",
-  "en": "",
-  "status": ""
+  "en": "I won, Jenon...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE113",
@@ -37781,8 +37781,8 @@
    }
   ],
   "jp": "やれやれ、辛勝ってトコかな？",
-  "en": "",
-  "status": ""
+  "en": "Well, well, a narrow win, I suppose?",
+  "status": "done"
  },
  {
   "id": "eboot_1EE130",
@@ -37795,8 +37795,8 @@
    }
   ],
   "jp": "早く、終わりに…！",
-  "en": "",
-  "status": ""
+  "en": "Let it end, quickly...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE143",
@@ -37809,8 +37809,8 @@
    }
   ],
   "jp": "勝ちは勝ち、だけどな。",
-  "en": "",
-  "status": ""
+  "en": "A win is a win, I guess.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE15A",
@@ -37823,8 +37823,8 @@
    }
   ],
   "jp": "この力は、一体何のために……",
-  "en": "",
-  "status": ""
+  "en": "What is this power even for...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE177",
@@ -37837,8 +37837,8 @@
    }
   ],
   "jp": "負けることは、できない…！",
-  "en": "",
-  "status": ""
+  "en": "I can't lose...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE192",
@@ -37851,8 +37851,8 @@
    }
   ],
   "jp": "モノ足りないなー。",
-  "en": "",
-  "status": ""
+  "en": "Not enough for me.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE1A5",
@@ -37865,8 +37865,8 @@
    }
   ],
   "jp": "あははははははは②",
-  "en": "",
-  "status": ""
+  "en": "Ahahahahahaha!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE1B8",
@@ -37879,8 +37879,8 @@
    }
   ],
   "jp": "危ういところでした。",
-  "en": "",
-  "status": ""
+  "en": "That was a close one.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE1CD",
@@ -37893,8 +37893,8 @@
    }
   ],
   "jp": "姉さん…、私を守って。",
-  "en": "",
-  "status": ""
+  "en": "Sister... protect me.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE1E4",
@@ -37907,8 +37907,8 @@
    }
   ],
   "jp": "……まだまだね。",
-  "en": "",
-  "status": ""
+  "en": "...Not good enough.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE1F5",
@@ -37921,8 +37921,8 @@
    }
   ],
   "jp": "……弱者はいらねぇ。",
-  "en": "",
-  "status": ""
+  "en": "...I've got no use for the weak.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE20A",
@@ -37935,8 +37935,8 @@
    }
   ],
   "jp": "不甲斐ない勝利だ。",
-  "en": "",
-  "status": ""
+  "en": "A shameful victory.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE21D",
@@ -37949,8 +37949,8 @@
    }
   ],
   "jp": "痛みを厭うつもりはない。",
-  "en": "",
-  "status": ""
+  "en": "I don't intend to shrink from pain.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE236",
@@ -37963,8 +37963,8 @@
    }
   ],
   "jp": "俺だけ、か。",
-  "en": "",
-  "status": ""
+  "en": "So it's only me.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE243",
@@ -37977,8 +37977,8 @@
    }
   ],
   "jp": "やるではないですか。",
-  "en": "",
-  "status": ""
+  "en": "You are rather good.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE258",
@@ -37991,8 +37991,8 @@
    }
   ],
   "jp": "ここが限界でしょう！",
-  "en": "",
-  "status": ""
+  "en": "That would be your limit!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE26D",
@@ -38005,8 +38005,8 @@
    }
   ],
   "jp": "朽ちた命も、また……",
-  "en": "",
-  "status": ""
+  "en": "A life that has decayed is also...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE282",
@@ -38019,8 +38019,8 @@
    }
   ],
   "jp": "甘かったか。",
-  "en": "",
-  "status": ""
+  "en": "I was too soft.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE28F",
@@ -38033,8 +38033,8 @@
    }
   ],
   "jp": "やられちゃったなぁ……",
-  "en": "",
-  "status": ""
+  "en": "They got me...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE2A6",
@@ -38047,8 +38047,8 @@
    }
   ],
   "jp": "フン、ざまぁねぇゼ！",
-  "en": "",
-  "status": ""
+  "en": "Hah, serves you right!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE2BB",
@@ -38061,8 +38061,8 @@
    }
   ],
   "jp": "生意気な連中だった。",
-  "en": "",
-  "status": ""
+  "en": "Cheeky bunch, they were.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE2D0",
@@ -38075,8 +38075,8 @@
    }
   ],
   "jp": "ふん、なかなかのモンだな。",
-  "en": "",
-  "status": ""
+  "en": "Hmph, not bad at all.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE2EB",
@@ -38089,8 +38089,8 @@
    }
   ],
   "jp": "パメラ様、オンステ～ジ②",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama, on stage!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE304",
@@ -38103,8 +38103,8 @@
    }
   ],
   "jp": "バイフー、ドキドキ……",
-  "en": "",
-  "status": ""
+  "en": "Byff, heart pounding...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE31B",
@@ -38117,8 +38117,8 @@
    }
   ],
   "jp": "危なかったですわ。",
-  "en": "",
-  "status": ""
+  "en": "That was close.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE32E",
@@ -38131,8 +38131,8 @@
    }
   ],
   "jp": "なんて攻撃力だ、まったく。",
-  "en": "",
-  "status": ""
+  "en": "What attack power, honestly.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE349",
@@ -38145,8 +38145,8 @@
    }
   ],
   "jp": "…ただ、負けなかっただけだ。",
-  "en": "",
-  "status": ""
+  "en": "...All I did was not lose.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE366",
@@ -38159,8 +38159,8 @@
    }
   ],
   "jp": "あくまで楯突くつもりか……",
-  "en": "",
-  "status": ""
+  "en": "So you mean to keep defying me...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE381",
@@ -38173,8 +38173,8 @@
    }
   ],
   "jp": "詰めが甘いねぇ！",
-  "en": "",
-  "status": ""
+  "en": "Sloppy finish!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE392",
@@ -38187,8 +38187,8 @@
    }
   ],
   "jp": "ふぅー、ヤバかったじゃん。",
-  "en": "",
-  "status": ""
+  "en": "Whew, that was dicey.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE3AD",
@@ -38201,8 +38201,8 @@
    }
   ],
   "jp": "復讐を、果たすまでは……",
-  "en": "",
-  "status": ""
+  "en": "Until I have my revenge...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE3C6",
@@ -38215,8 +38215,8 @@
    }
   ],
   "jp": "この命ある限り……！",
-  "en": "",
-  "status": ""
+  "en": "As long as I live...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE3DB",
@@ -38229,8 +38229,8 @@
    }
   ],
   "jp": "手を抜きすぎたかな？",
-  "en": "",
-  "status": ""
+  "en": "Did I go too easy?",
+  "status": "done"
  },
  {
   "id": "eboot_1EE3F0",
@@ -38243,8 +38243,8 @@
    }
   ],
   "jp": "…涙は、流さないわ。",
-  "en": "",
-  "status": ""
+  "en": "...I won't shed any tears.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE405",
@@ -38257,8 +38257,8 @@
    }
   ],
   "jp": "勝利を拾ったか…",
-  "en": "",
-  "status": ""
+  "en": "So I scraped out a win...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE416",
@@ -38271,8 +38271,8 @@
    }
   ],
   "jp": "くっ、危ないところだったぜ。",
-  "en": "",
-  "status": ""
+  "en": "Gh, that was close.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE433",
@@ -38285,8 +38285,8 @@
    }
   ],
   "jp": "恐れるな。",
-  "en": "",
-  "status": ""
+  "en": "Have no fear.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE43E",
@@ -38299,8 +38299,8 @@
    }
   ],
   "jp": "…やられてたまるか。",
-  "en": "",
-  "status": ""
+  "en": "...I won't be beaten.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE453",
@@ -38313,8 +38313,8 @@
    }
   ],
   "jp": "例え、この刃が折れても…！",
-  "en": "",
-  "status": ""
+  "en": "Even if this blade breaks...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE46E",
@@ -38327,8 +38327,8 @@
    }
   ],
   "jp": "今１つだな。",
-  "en": "",
-  "status": ""
+  "en": "Not quite there.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE47B",
@@ -38341,8 +38341,8 @@
    }
   ],
   "jp": "痛い…痛いィ…",
-  "en": "",
-  "status": ""
+  "en": "Hurts... it hurts...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE48A",
@@ -38355,8 +38355,8 @@
    }
   ],
   "jp": "勝利は、たやすくはない。",
-  "en": "",
-  "status": ""
+  "en": "Victory doesn't come easy.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE4A3",
@@ -38369,8 +38369,8 @@
    }
   ],
   "jp": "苦戦したわね…",
-  "en": "",
-  "status": ""
+  "en": "That was a tough fight...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE4B2",
@@ -38383,8 +38383,8 @@
    }
   ],
   "jp": "天罰ですよ。",
-  "en": "",
-  "status": ""
+  "en": "That is divine punishment.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE4BF",
@@ -38397,8 +38397,8 @@
    }
   ],
   "jp": "生き延びればいいのです！",
-  "en": "",
-  "status": ""
+  "en": "Surviving is all that matters!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE4D8",
@@ -38411,8 +38411,8 @@
    }
   ],
   "jp": "なんて、辛い戦い…",
-  "en": "",
-  "status": ""
+  "en": "What a painful battle...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE4EB",
@@ -38425,8 +38425,8 @@
    }
   ],
   "jp": "この勝利、安くありません！",
-  "en": "",
-  "status": ""
+  "en": "This victory did not come cheap!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE506",
@@ -38439,8 +38439,8 @@
    }
   ],
   "jp": "この屈辱、忘れはしない！",
-  "en": "",
-  "status": ""
+  "en": "I won't forget this humiliation!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE51F",
@@ -38453,8 +38453,8 @@
    }
   ],
   "jp": "やってくれたな…",
-  "en": "",
-  "status": ""
+  "en": "You've done it now...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE530",
@@ -38467,8 +38467,8 @@
    }
   ],
   "jp": "この借りは、いつか必ず！",
-  "en": "",
-  "status": ""
+  "en": "I'll repay this someday!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE549",
@@ -38481,8 +38481,8 @@
    }
   ],
   "jp": "くっ、手痛いぜぇ…",
-  "en": "",
-  "status": ""
+  "en": "Gh, that smarts...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE55C",
@@ -38495,8 +38495,8 @@
    }
   ],
   "jp": "敗れるものか……",
-  "en": "",
-  "status": ""
+  "en": "I will not be defeated...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE56D",
@@ -38509,8 +38509,8 @@
    }
   ],
   "jp": "この屈辱、忘れんぞ。",
-  "en": "",
-  "status": ""
+  "en": "I won't forget this humiliation.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE582",
@@ -38523,8 +38523,8 @@
    }
   ],
   "jp": "我らの勝利だッ②",
-  "en": "",
-  "status": ""
+  "en": "Victory is ours!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE593",
@@ -38537,8 +38537,8 @@
    }
   ],
   "jp": "後悔しても遅いわ！",
-  "en": "",
-  "status": ""
+  "en": "Too late for regrets!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE5A6",
@@ -38551,8 +38551,8 @@
    }
   ],
   "jp": "すべては天意だというのに。",
-  "en": "",
-  "status": ""
+  "en": "And yet all is Heaven's will.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE5C1",
@@ -38565,8 +38565,8 @@
    }
   ],
   "jp": "なかなかだったわよ。",
-  "en": "",
-  "status": ""
+  "en": "That was rather good.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE5D6",
@@ -38579,8 +38579,8 @@
    }
   ],
   "jp": "……願わずにはいれない。",
-  "en": "",
-  "status": ""
+  "en": "...I can't help but wish.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE5EF",
@@ -38593,8 +38593,8 @@
    }
   ],
   "jp": "ふぅ、冷や汗モンだな…",
-  "en": "",
-  "status": ""
+  "en": "Whew, that gave me a cold sweat...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE606",
@@ -38607,8 +38607,8 @@
    }
   ],
   "jp": "勝ちは勝ちだぜ！",
-  "en": "",
-  "status": ""
+  "en": "A win's a win!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE617",
@@ -38621,8 +38621,8 @@
    }
   ],
   "jp": "ふぅ…ヤバかったぜぇ。",
-  "en": "",
-  "status": ""
+  "en": "Whew... that was dicey.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE62E",
@@ -38635,8 +38635,8 @@
    }
   ],
   "jp": "ケガしちまった…",
-  "en": "",
-  "status": ""
+  "en": "I got hurt...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE63F",
@@ -38649,8 +38649,8 @@
    }
   ],
   "jp": "……グゥゥゥ…",
-  "en": "",
-  "status": ""
+  "en": "...Grrrrr...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE64E",
@@ -38663,8 +38663,8 @@
    }
   ],
   "jp": "危ないところだった。",
-  "en": "",
-  "status": ""
+  "en": "That was close.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE663",
@@ -38677,8 +38677,8 @@
    }
   ],
   "jp": "ああ、恐かったぁ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, that was scary.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE676",
@@ -38691,8 +38691,8 @@
    }
   ],
   "jp": "ありがとう、神様。",
-  "en": "",
-  "status": ""
+  "en": "Thank you, God.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE689",
@@ -38705,8 +38705,8 @@
    }
   ],
   "jp": "やるわね、褒めてあげる。",
-  "en": "",
-  "status": ""
+  "en": "Not bad. You've earned some praise.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE6A2",
@@ -38719,8 +38719,8 @@
    }
   ],
   "jp": "なんとしても…！",
-  "en": "",
-  "status": ""
+  "en": "No matter what...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE6B3",
@@ -38733,8 +38733,8 @@
    }
   ],
   "jp": "うまくやったね。",
-  "en": "",
-  "status": ""
+  "en": "Nicely done.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE6C4",
@@ -38747,8 +38747,8 @@
    }
   ],
   "jp": "イァアアア！",
-  "en": "",
-  "status": ""
+  "en": "Yaaaaaah!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE6D1",
@@ -38761,8 +38761,8 @@
    }
   ],
   "jp": "悔しいだろ、君。",
-  "en": "",
-  "status": ""
+  "en": "Frustrating, isn't it, kid?",
+  "status": "done"
  },
  {
   "id": "eboot_1EE6E2",
@@ -38775,8 +38775,8 @@
    }
   ],
   "jp": "ここまで踏み込まれるとは…",
-  "en": "",
-  "status": ""
+  "en": "To be pushed this far...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE6FD",
@@ -38789,8 +38789,8 @@
    }
   ],
   "jp": "祈れ。",
-  "en": "",
-  "status": ""
+  "en": "Pray.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE704",
@@ -38803,8 +38803,8 @@
    }
   ],
   "jp": "素人のくせに…！",
-  "en": "",
-  "status": ""
+  "en": "A mere amateur...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE715",
@@ -38817,8 +38817,8 @@
    }
   ],
   "jp": "フゥ、危なかったな。",
-  "en": "",
-  "status": ""
+  "en": "Whew, that was close.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE72A",
@@ -38831,8 +38831,8 @@
    }
   ],
   "jp": "負けてたまるかよ！",
-  "en": "",
-  "status": ""
+  "en": "Like I'd lose!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE73D",
@@ -38845,8 +38845,8 @@
    }
   ],
   "jp": "悲しみなど…",
-  "en": "",
-  "status": ""
+  "en": "Sorrow is nothing...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE74A",
@@ -38859,8 +38859,8 @@
    }
   ],
   "jp": "手強い敵だった…",
-  "en": "",
-  "status": ""
+  "en": "A tough opponent...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE75B",
@@ -38873,8 +38873,8 @@
    }
   ],
   "jp": "愚かな…",
-  "en": "",
-  "status": ""
+  "en": "How foolish...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE764",
@@ -38887,8 +38887,8 @@
    }
   ],
   "jp": "損害を出し過ぎたか…",
-  "en": "",
-  "status": ""
+  "en": "Did I take too many losses...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE779",
@@ -38901,8 +38901,8 @@
    }
   ],
   "jp": "寸でのところだった…",
-  "en": "",
-  "status": ""
+  "en": "That was a near thing...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE78E",
@@ -38915,8 +38915,8 @@
    }
   ],
   "jp": "生きてる…許さない。",
-  "en": "",
-  "status": ""
+  "en": "Alive... I won't forgive you.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE7A3",
@@ -38929,8 +38929,8 @@
    }
   ],
   "jp": "やるではないか。",
-  "en": "",
-  "status": ""
+  "en": "Not bad at all.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE7B4",
@@ -38943,8 +38943,8 @@
    }
   ],
   "jp": "天意は絶対なのだ！",
-  "en": "",
-  "status": ""
+  "en": "Heaven's will is absolute!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE7C7",
@@ -38957,8 +38957,8 @@
    }
   ],
   "jp": "勝利の代償は大きい…",
-  "en": "",
-  "status": ""
+  "en": "Victory comes at a high price...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE7DC",
@@ -38971,8 +38971,8 @@
    }
   ],
   "jp": "なかなかの手練れ…",
-  "en": "",
-  "status": ""
+  "en": "Quite the skilled foe...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE7EF",
@@ -38985,8 +38985,8 @@
    }
   ],
   "jp": "このくらいで…",
-  "en": "",
-  "status": ""
+  "en": "With this little...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE7FE",
@@ -38999,8 +38999,8 @@
    }
   ],
   "jp": "図に乗らないでよね。",
-  "en": "",
-  "status": ""
+  "en": "Don't get carried away.",
+  "status": "done"
  },
  {
   "id": "eboot_1EE813",
@@ -39013,8 +39013,8 @@
    }
   ],
   "jp": "勝てなきゃ終わりよ！",
-  "en": "",
-  "status": ""
+  "en": "It's over if you don't win!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE828",
@@ -39027,8 +39027,8 @@
    }
   ],
   "jp": "生き抜いてやるわよ…",
-  "en": "",
-  "status": ""
+  "en": "I'll survive, you'll see...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE83D",
@@ -39041,8 +39041,8 @@
    }
   ],
   "jp": "やるじゃない…",
-  "en": "",
-  "status": ""
+  "en": "Not bad...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE84C",
@@ -39055,8 +39055,8 @@
    }
   ],
   "jp": "ケケー…ケーケケ！",
-  "en": "",
-  "status": ""
+  "en": "Keke... Kekeke!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE85F",
@@ -39069,8 +39069,8 @@
    }
   ],
   "jp": "ケケーケ…",
-  "en": "",
-  "status": ""
+  "en": "Keke-ke...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE86A",
@@ -39083,8 +39083,8 @@
    }
   ],
   "jp": "カッカッカ…",
-  "en": "",
-  "status": ""
+  "en": "Ka, ka, ka...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE877",
@@ -39097,8 +39097,8 @@
    }
   ],
   "jp": "グゥゥゥゥー…",
-  "en": "",
-  "status": ""
+  "en": "Grrrrrrrr...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE886",
@@ -39111,8 +39111,8 @@
    }
   ],
   "jp": "グゥォオーンー…",
-  "en": "",
-  "status": ""
+  "en": "Grooooooh...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE897",
@@ -39125,8 +39125,8 @@
    }
   ],
   "jp": "ゴゴゴゴゴゴゴ…",
-  "en": "",
-  "status": ""
+  "en": "Rrrrrrrrumble...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE8A8",
@@ -39139,8 +39139,8 @@
    }
   ],
   "jp": "詰めが甘いな！",
-  "en": "",
-  "status": ""
+  "en": "Careless at the finish!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE8B7",
@@ -39153,8 +39153,8 @@
    }
   ],
   "jp": "かりそめの命で掴む勝利など…",
-  "en": "",
-  "status": ""
+  "en": "What's a victory won with borrowed life...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE8D4",
@@ -39167,8 +39167,8 @@
    }
   ],
   "jp": "負けたくないのよ！",
-  "en": "",
-  "status": ""
+  "en": "I don't want to lose!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE8E7",
@@ -39181,8 +39181,8 @@
    }
   ],
   "jp": "このくらい、どうってこと…！",
-  "en": "",
-  "status": ""
+  "en": "This much is nothing...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EE904",
@@ -39195,8 +39195,8 @@
    }
   ],
   "jp": "くぅ、危なかったわ…",
-  "en": "",
-  "status": ""
+  "en": "Ugh, that was close...",
+  "status": "done"
  },
  {
   "id": "eboot_1EE919",
@@ -42429,8 +42429,8 @@
    }
   ],
   "jp": "くそっ、邪魔すんな！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, out of my way!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF526",
@@ -42443,8 +42443,8 @@
    }
   ],
   "jp": "くそっ、邪魔すんな！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, out of my way!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF53B",
@@ -42457,8 +42457,8 @@
    }
   ],
   "jp": "くそっ、邪魔すんな！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, out of my way!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF550",
@@ -42471,8 +42471,8 @@
    }
   ],
   "jp": "くそっ、邪魔すんな！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, out of my way!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF565",
@@ -42485,8 +42485,8 @@
    }
   ],
   "jp": "くそっ、邪魔すんな！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, out of my way!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF57A",
@@ -42499,8 +42499,8 @@
    }
   ],
   "jp": "ちッ……！",
-  "en": "",
-  "status": ""
+  "en": "Tch...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF585",
@@ -42513,8 +42513,8 @@
    }
   ],
   "jp": "我が覇道を阻む者、容赦せぬ！",
-  "en": "",
-  "status": ""
+  "en": "No mercy to those who block my conquest!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF5A2",
@@ -42527,8 +42527,8 @@
    }
   ],
   "jp": "我が覇道を阻む者、容赦せぬ！",
-  "en": "",
-  "status": ""
+  "en": "No mercy to those who block my conquest!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF5BF",
@@ -42541,8 +42541,8 @@
    }
   ],
   "jp": "何するのよ！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF5CC",
@@ -42555,8 +42555,8 @@
    }
   ],
   "jp": "何するのよ！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF5D9",
@@ -42569,8 +42569,8 @@
    }
   ],
   "jp": "何するのよ！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF5E6",
@@ -42583,8 +42583,8 @@
    }
   ],
   "jp": "何するのよ！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF5F3",
@@ -42597,8 +42597,8 @@
    }
   ],
   "jp": "くッ……！",
-  "en": "",
-  "status": ""
+  "en": "Gh...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF5FE",
@@ -42611,8 +42611,8 @@
    }
   ],
   "jp": "たとえ、遮られたって！",
-  "en": "",
-  "status": ""
+  "en": "Even if they stop me!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF615",
@@ -42625,8 +42625,8 @@
    }
   ],
   "jp": "…妨害されるなんて！",
-  "en": "",
-  "status": ""
+  "en": "...They're interfering!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF62A",
@@ -42639,8 +42639,8 @@
    }
   ],
   "jp": "ググッ！",
-  "en": "",
-  "status": ""
+  "en": "Gugh!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF633",
@@ -42653,8 +42653,8 @@
    }
   ],
   "jp": "止められるとは…！",
-  "en": "",
-  "status": ""
+  "en": "To be stopped...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF646",
@@ -42667,8 +42667,8 @@
    }
   ],
   "jp": "止められるとは…！",
-  "en": "",
-  "status": ""
+  "en": "To be stopped...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF659",
@@ -42681,8 +42681,8 @@
    }
   ],
   "jp": "止められるとは…！",
-  "en": "",
-  "status": ""
+  "en": "To be stopped...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF66C",
@@ -42695,8 +42695,8 @@
    }
   ],
   "jp": "なにするのさー！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF67D",
@@ -42709,8 +42709,8 @@
    }
   ],
   "jp": "…あは！",
-  "en": "",
-  "status": ""
+  "en": "...Ahaha!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF686",
@@ -42723,8 +42723,8 @@
    }
   ],
   "jp": "くっ、しまった…！",
-  "en": "",
-  "status": ""
+  "en": "Gh, oh no...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF699",
@@ -42737,8 +42737,8 @@
    }
   ],
   "jp": "くっ、しまった…！",
-  "en": "",
-  "status": ""
+  "en": "Gh, oh no...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF6AC",
@@ -42751,8 +42751,8 @@
    }
   ],
   "jp": "邪魔しないでよ②",
-  "en": "",
-  "status": ""
+  "en": "Don't get in my way!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF6BD",
@@ -42765,8 +42765,8 @@
    }
   ],
   "jp": "おのれ……！",
-  "en": "",
-  "status": ""
+  "en": "Curse you...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF6CA",
@@ -42779,8 +42779,8 @@
    }
   ],
   "jp": "撹乱されたか！",
-  "en": "",
-  "status": ""
+  "en": "Thrown into confusion!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF6D9",
@@ -42793,8 +42793,8 @@
    }
   ],
   "jp": "ぐ……！",
-  "en": "",
-  "status": ""
+  "en": "Gh...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF6E2",
@@ -42807,8 +42807,8 @@
    }
   ],
   "jp": "小賢しいマネを！",
-  "en": "",
-  "status": ""
+  "en": "What a sly trick!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF6F3",
@@ -42821,8 +42821,8 @@
    }
   ],
   "jp": "ほう？",
-  "en": "",
-  "status": ""
+  "en": "Oh?",
+  "status": "done"
  },
  {
   "id": "eboot_1EF6FA",
@@ -42835,8 +42835,8 @@
    }
   ],
   "jp": "生意気な…！",
-  "en": "",
-  "status": ""
+  "en": "Cheeky thing...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF707",
@@ -42849,8 +42849,8 @@
    }
   ],
   "jp": "流れを…遮られた③",
-  "en": "",
-  "status": ""
+  "en": "The flow... has been broken?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF71A",
@@ -42863,8 +42863,8 @@
    }
   ],
   "jp": "…くっ…②",
-  "en": "",
-  "status": ""
+  "en": "...Gh...!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF725",
@@ -42877,8 +42877,8 @@
    }
   ],
   "jp": "うわっ、なにすんだよ②",
-  "en": "",
-  "status": ""
+  "en": "Whoa, what are you doing!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF73C",
@@ -42891,8 +42891,8 @@
    }
   ],
   "jp": "チッ、やりやがったな②",
-  "en": "",
-  "status": ""
+  "en": "Tch, you did it now!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF753",
@@ -42905,8 +42905,8 @@
    }
   ],
   "jp": "ふぉお③",
-  "en": "",
-  "status": ""
+  "en": "Fwoh?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF75C",
@@ -42919,8 +42919,8 @@
    }
   ],
   "jp": "この野郎②",
-  "en": "",
-  "status": ""
+  "en": "You bastard!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF767",
@@ -42933,8 +42933,8 @@
    }
   ],
   "jp": "ムッキィー②",
-  "en": "",
-  "status": ""
+  "en": "Grrrrr!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF774",
@@ -42947,8 +42947,8 @@
    }
   ],
   "jp": "おっとっとぉ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa, whoa!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF783",
@@ -42961,8 +42961,8 @@
    }
   ],
   "jp": "マナーが悪いですわね！",
-  "en": "",
-  "status": ""
+  "en": "How ill-mannered!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF79A",
@@ -42975,8 +42975,8 @@
    }
   ],
   "jp": "妨害されるとは！",
-  "en": "",
-  "status": ""
+  "en": "To be interfered with!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF7AB",
@@ -42989,8 +42989,8 @@
    }
   ],
   "jp": "アジなマネしやがる…！",
-  "en": "",
-  "status": ""
+  "en": "That's a clever trick...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF7C2",
@@ -43003,8 +43003,8 @@
    }
   ],
   "jp": "ちょっと、やめてよ②",
-  "en": "",
-  "status": ""
+  "en": "Hey, stop it!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF7D7",
@@ -43017,8 +43017,8 @@
    }
   ],
   "jp": "邪魔すんな②",
-  "en": "",
-  "status": ""
+  "en": "Don't get in my way!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF7E4",
@@ -43031,8 +43031,8 @@
    }
   ],
   "jp": "…ふざけるなよ！",
-  "en": "",
-  "status": ""
+  "en": "...You've got some nerve!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF7F5",
@@ -43045,8 +43045,8 @@
    }
   ],
   "jp": "タダじゃ済まさねぇぜ！",
-  "en": "",
-  "status": ""
+  "en": "You ain't gettin' off free!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF80C",
@@ -43059,8 +43059,8 @@
    }
   ],
   "jp": "人が気持ちよく酔ってる時に…",
-  "en": "",
-  "status": ""
+  "en": "Just when I was gettin' pleasantly drunk...",
+  "status": "done"
  },
  {
   "id": "eboot_1EF829",
@@ -43073,8 +43073,8 @@
    }
   ],
   "jp": "やってくれたな！",
-  "en": "",
-  "status": ""
+  "en": "You've done it now!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF83A",
@@ -43087,8 +43087,8 @@
    }
   ],
   "jp": "やったな！",
-  "en": "",
-  "status": ""
+  "en": "You did it now!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF845",
@@ -43101,8 +43101,8 @@
    }
   ],
   "jp": "やったな！",
-  "en": "",
-  "status": ""
+  "en": "You did it now!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF850",
@@ -43115,8 +43115,8 @@
    }
   ],
   "jp": "やったな！",
-  "en": "",
-  "status": ""
+  "en": "You did it now!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF85B",
@@ -43129,8 +43129,8 @@
    }
   ],
   "jp": "やってくれたな！",
-  "en": "",
-  "status": ""
+  "en": "You've done it now!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF86C",
@@ -43143,8 +43143,8 @@
    }
   ],
   "jp": "やったな！",
-  "en": "",
-  "status": ""
+  "en": "You did it now!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF877",
@@ -43157,8 +43157,8 @@
    }
   ],
   "jp": "……許さん！",
-  "en": "",
-  "status": ""
+  "en": "...Unforgivable!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF884",
@@ -43171,8 +43171,8 @@
    }
   ],
   "jp": "何をするのだ！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF893",
@@ -43185,8 +43185,8 @@
    }
   ],
   "jp": "何するんですか！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF8A4",
@@ -43199,8 +43199,8 @@
    }
   ],
   "jp": "何するんですか！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF8B5",
@@ -43213,8 +43213,8 @@
    }
   ],
   "jp": "何するんですか！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF8C6",
@@ -43227,8 +43227,8 @@
    }
   ],
   "jp": "何をするのだ！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF8D5",
@@ -43241,8 +43241,8 @@
    }
   ],
   "jp": "何するんですか！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF8E6",
@@ -43255,8 +43255,8 @@
    }
   ],
   "jp": "…今に見ておれよ②",
-  "en": "",
-  "status": ""
+  "en": "...Just you wait!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF8F9",
@@ -43269,8 +43269,8 @@
    }
   ],
   "jp": "…今に見ておれよ②",
-  "en": "",
-  "status": ""
+  "en": "...Just you wait!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF90C",
@@ -43283,8 +43283,8 @@
    }
   ],
   "jp": "…今に見ておれよ②",
-  "en": "",
-  "status": ""
+  "en": "...Just you wait!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF91F",
@@ -43297,8 +43297,8 @@
    }
   ],
   "jp": "…何さらすんじゃあ②",
-  "en": "",
-  "status": ""
+  "en": "...What the hell are you doing!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF934",
@@ -43311,8 +43311,8 @@
    }
   ],
   "jp": "…今に見ておれよ②",
-  "en": "",
-  "status": ""
+  "en": "...Just you wait!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF947",
@@ -43325,8 +43325,8 @@
    }
   ],
   "jp": "…今に見ておれよ②",
-  "en": "",
-  "status": ""
+  "en": "...Just you wait!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF95A",
@@ -43339,8 +43339,8 @@
    }
   ],
   "jp": "やったわね！",
-  "en": "",
-  "status": ""
+  "en": "You did it now!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF967",
@@ -43353,8 +43353,8 @@
    }
   ],
   "jp": "邪魔しないでくれない③",
-  "en": "",
-  "status": ""
+  "en": "Would you stop getting in my way?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF97E",
@@ -43367,8 +43367,8 @@
    }
   ],
   "jp": "神様への信仰を…",
-  "en": "",
-  "status": ""
+  "en": "My faith in God...",
+  "status": "done"
  },
  {
   "id": "eboot_1EF98F",
@@ -43381,8 +43381,8 @@
    }
   ],
   "jp": "邪魔しないでくれない③",
-  "en": "",
-  "status": ""
+  "en": "Would you stop getting in my way?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF9A6",
@@ -43395,8 +43395,8 @@
    }
   ],
   "jp": "邪魔しないでくれない③",
-  "en": "",
-  "status": ""
+  "en": "Would you stop getting in my way?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF9BD",
@@ -43409,8 +43409,8 @@
    }
   ],
   "jp": "おのれ、邪魔しやがって…",
-  "en": "",
-  "status": ""
+  "en": "Curse you, gettin' in my way...",
+  "status": "done"
  },
  {
   "id": "eboot_1EF9D6",
@@ -43423,8 +43423,8 @@
    }
   ],
   "jp": "こらっ、何すんだぁ②",
-  "en": "",
-  "status": ""
+  "en": "Hey, what are you doing!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF9EB",
@@ -43437,8 +43437,8 @@
    }
   ],
   "jp": "神様に逆らう気か③",
-  "en": "",
-  "status": ""
+  "en": "You dare defy God?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EF9FE",
@@ -43451,8 +43451,8 @@
    }
   ],
   "jp": "こらっ、何すんだぁ②",
-  "en": "",
-  "status": ""
+  "en": "Hey, what are you doing!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFA13",
@@ -43465,8 +43465,8 @@
    }
   ],
   "jp": "……潰す。",
-  "en": "",
-  "status": ""
+  "en": "...Crush.",
+  "status": "done"
  },
  {
   "id": "eboot_1EFA1E",
@@ -43493,8 +43493,8 @@
    }
   ],
   "jp": "きゃっ！",
-  "en": "",
-  "status": ""
+  "en": "Eek!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFA34",
@@ -43507,8 +43507,8 @@
    }
   ],
   "jp": "…神の怒りが下るわよ！",
-  "en": "",
-  "status": ""
+  "en": "...God's wrath will fall on you!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFA4B",
@@ -43521,8 +43521,8 @@
    }
   ],
   "jp": "きゃっ！",
-  "en": "",
-  "status": ""
+  "en": "Eek!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFA54",
@@ -43549,8 +43549,8 @@
    }
   ],
   "jp": "きゃっ！",
-  "en": "",
-  "status": ""
+  "en": "Eek!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFA6A",
@@ -43563,8 +43563,8 @@
    }
   ],
   "jp": "ウウッアアアー②",
-  "en": "",
-  "status": ""
+  "en": "Uuuah-aaaah!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFA7B",
@@ -43577,8 +43577,8 @@
    }
   ],
   "jp": "やってくれるな！",
-  "en": "",
-  "status": ""
+  "en": "You've got some nerve!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFA8C",
@@ -43591,8 +43591,8 @@
    }
   ],
   "jp": "ぐえっ②",
-  "en": "",
-  "status": ""
+  "en": "Gueh!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFA95",
@@ -43605,8 +43605,8 @@
    }
   ],
   "jp": "ぐえっ②",
-  "en": "",
-  "status": ""
+  "en": "Gueh!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFA9E",
@@ -43619,8 +43619,8 @@
    }
   ],
   "jp": "ぐえっ②",
-  "en": "",
-  "status": ""
+  "en": "Gueh!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFAA7",
@@ -43633,8 +43633,8 @@
    }
   ],
   "jp": "やってくれるな！",
-  "en": "",
-  "status": ""
+  "en": "You've got some nerve!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFAB8",
@@ -43647,8 +43647,8 @@
    }
   ],
   "jp": "やってくれるな！",
-  "en": "",
-  "status": ""
+  "en": "You've got some nerve!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFAC9",
@@ -43661,8 +43661,8 @@
    }
   ],
   "jp": "…仕損じたか。",
-  "en": "",
-  "status": ""
+  "en": "...I failed.",
+  "status": "done"
  },
  {
   "id": "eboot_1EFAD8",
@@ -43675,8 +43675,8 @@
    }
   ],
   "jp": "…仕損じたか。",
-  "en": "",
-  "status": ""
+  "en": "...I failed.",
+  "status": "done"
  },
  {
   "id": "eboot_1EFAE7",
@@ -43689,8 +43689,8 @@
    }
   ],
   "jp": "…仕損じたか。",
-  "en": "",
-  "status": ""
+  "en": "...I failed.",
+  "status": "done"
  },
  {
   "id": "eboot_1EFAF6",
@@ -43703,8 +43703,8 @@
    }
   ],
   "jp": "…仕損じたか。",
-  "en": "",
-  "status": ""
+  "en": "...I failed.",
+  "status": "done"
  },
  {
   "id": "eboot_1EFB05",
@@ -43717,8 +43717,8 @@
    }
   ],
   "jp": "…仕損じたか。",
-  "en": "",
-  "status": ""
+  "en": "...I failed.",
+  "status": "done"
  },
  {
   "id": "eboot_1EFB14",
@@ -43731,8 +43731,8 @@
    }
   ],
   "jp": "……邪魔だ。",
-  "en": "",
-  "status": ""
+  "en": "...In the way.",
+  "status": "done"
  },
  {
   "id": "eboot_1EFB21",
@@ -43745,8 +43745,8 @@
    }
   ],
   "jp": "くっ、邪魔しおって…",
-  "en": "",
-  "status": ""
+  "en": "Gh, getting in my way...",
+  "status": "done"
  },
  {
   "id": "eboot_1EFB36",
@@ -43759,8 +43759,8 @@
    }
   ],
   "jp": "愚か者！",
-  "en": "",
-  "status": ""
+  "en": "Fool!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFB3F",
@@ -43773,8 +43773,8 @@
    }
   ],
   "jp": "何をするか！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFB4C",
@@ -43787,8 +43787,8 @@
    }
   ],
   "jp": "くっ、邪魔しおって…",
-  "en": "",
-  "status": ""
+  "en": "Gh, getting in my way...",
+  "status": "done"
  },
  {
   "id": "eboot_1EFB61",
@@ -43801,8 +43801,8 @@
    }
   ],
   "jp": "詠唱が途切れた…！",
-  "en": "",
-  "status": ""
+  "en": "My chant was interrupted...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFB74",
@@ -43815,8 +43815,8 @@
    }
   ],
   "jp": "なにすんのよっ②",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFB85",
@@ -43829,8 +43829,8 @@
    }
   ],
   "jp": "なにすんのよっ②",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFB96",
@@ -43843,8 +43843,8 @@
    }
   ],
   "jp": "詠唱が途切れた…！",
-  "en": "",
-  "status": ""
+  "en": "My chant was interrupted...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFBA9",
@@ -43857,8 +43857,8 @@
    }
   ],
   "jp": "なにすんのよっ②",
-  "en": "",
-  "status": ""
+  "en": "What are you doing!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFBBA",
@@ -43871,8 +43871,8 @@
    }
   ],
   "jp": "ケーケケッ②",
-  "en": "",
-  "status": ""
+  "en": "Kekekei!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFBC7",
@@ -43885,8 +43885,8 @@
    }
   ],
   "jp": "ケーケケッ②",
-  "en": "",
-  "status": ""
+  "en": "Kekekei!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFBD4",
@@ -43899,8 +43899,8 @@
    }
   ],
   "jp": "ケーケケッ②",
-  "en": "",
-  "status": ""
+  "en": "Kekekei!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFBE1",
@@ -43913,8 +43913,8 @@
    }
   ],
   "jp": "ゴアアッ、ゴアッ②",
-  "en": "",
-  "status": ""
+  "en": "Goah, goah!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFBF4",
@@ -43927,8 +43927,8 @@
    }
   ],
   "jp": "ゴアアッ、ゴアッ②",
-  "en": "",
-  "status": ""
+  "en": "Goah, goah!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFC07",
@@ -43941,8 +43941,8 @@
    }
   ],
   "jp": "ゴアアッ、ゴアッ②",
-  "en": "",
-  "status": ""
+  "en": "Goah, goah!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFC1A",
@@ -43955,8 +43955,8 @@
    }
   ],
   "jp": "邪魔するな②",
-  "en": "",
-  "status": ""
+  "en": "Out of my way!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFC27",
@@ -43969,8 +43969,8 @@
    }
   ],
   "jp": "ふざけんなよ…③",
-  "en": "",
-  "status": ""
+  "en": "You've got to be kidding...?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFC38",
@@ -43983,8 +43983,8 @@
    }
   ],
   "jp": "女の子になんてコトを！",
-  "en": "",
-  "status": ""
+  "en": "What a thing to do to a girl!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFC4F",
@@ -43997,8 +43997,8 @@
    }
   ],
   "jp": "女の子になんてコトを！",
-  "en": "",
-  "status": ""
+  "en": "What a thing to do to a girl!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFC66",
@@ -44011,8 +44011,8 @@
    }
   ],
   "jp": "女の子になんてコトを！",
-  "en": "",
-  "status": ""
+  "en": "What a thing to do to a girl!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFC7D",
@@ -44025,8 +44025,8 @@
    }
   ],
   "jp": "エミリオ、お前…③",
-  "en": "",
-  "status": ""
+  "en": "Emilia, you...?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFC90",
@@ -44039,8 +44039,8 @@
    }
   ],
   "jp": "くっ、なんて激しいの…③",
-  "en": "",
-  "status": ""
+  "en": "Gh, how fierce...?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFCA9",
@@ -44070,8 +44070,8 @@
    }
   ],
   "jp": "これが魔竜の力…③",
-  "en": "",
-  "status": ""
+  "en": "So this is the demon dragon's power...?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFCC7",
@@ -44084,8 +44084,8 @@
    }
   ],
   "jp": "ウソ、ですよね…？",
-  "en": "",
-  "status": ""
+  "en": "That can't be true, can it...?",
+  "status": "done"
  },
  {
   "id": "eboot_1EFCDA",
@@ -44098,8 +44098,8 @@
    }
   ],
   "jp": "やだ、こんなのって…！",
-  "en": "",
-  "status": ""
+  "en": "No, this can't be...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFCF1",
@@ -44112,8 +44112,8 @@
    }
   ],
   "jp": "…震えているのか、俺が③",
-  "en": "",
-  "status": ""
+  "en": "Am I... trembling?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFD0A",
@@ -44126,8 +44126,8 @@
    }
   ],
   "jp": "魔竜の血を目覚めさせたか…",
-  "en": "",
-  "status": ""
+  "en": "So the demon dragon's blood has awoken...",
+  "status": "done"
  },
  {
   "id": "eboot_1EFD25",
@@ -44140,8 +44140,8 @@
    }
   ],
   "jp": "素晴らしい力です！",
-  "en": "",
-  "status": ""
+  "en": "What splendid power!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFD38",
@@ -44154,8 +44154,8 @@
    }
   ],
   "jp": "…ば、バカな！",
-  "en": "",
-  "status": ""
+  "en": "...I-impossible!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFD47",
@@ -44168,8 +44168,8 @@
    }
   ],
   "jp": "ウソだろ③",
-  "en": "",
-  "status": ""
+  "en": "No way?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFD52",
@@ -44182,8 +44182,8 @@
    }
   ],
   "jp": "まだ力を上げるつもり③",
-  "en": "",
-  "status": ""
+  "en": "It's getting even stronger?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFD69",
@@ -44196,8 +44196,8 @@
    }
   ],
   "jp": "ぬおおっ！　マズくないか③",
-  "en": "",
-  "status": ""
+  "en": "Nuooh! Isn't this bad?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFD84",
@@ -44210,8 +44210,8 @@
    }
   ],
   "jp": "くそっ、なんて力だ！",
-  "en": "",
-  "status": ""
+  "en": "Damn, what power!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFD99",
@@ -44224,8 +44224,8 @@
    }
   ],
   "jp": "まずいぜ、こりゃあ！",
-  "en": "",
-  "status": ""
+  "en": "This is bad news!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFDAE",
@@ -44238,8 +44238,8 @@
    }
   ],
   "jp": "…シャレになんないわね。",
-  "en": "",
-  "status": ""
+  "en": "...This is no joke.",
+  "status": "done"
  },
  {
   "id": "eboot_1EFDC7",
@@ -44252,8 +44252,8 @@
    }
   ],
   "jp": "なんですって③",
-  "en": "",
-  "status": ""
+  "en": "What did you say?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFDD6",
@@ -44266,8 +44266,8 @@
    }
   ],
   "jp": "ば、バカな…！",
-  "en": "",
-  "status": ""
+  "en": "I-impossible...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFDE5",
@@ -44280,8 +44280,8 @@
    }
   ],
   "jp": "ウソ！　やめてよ②",
-  "en": "",
-  "status": ""
+  "en": "No way! Stop it!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFDF8",
@@ -44294,8 +44294,8 @@
    }
   ],
   "jp": "ぐぅっ③",
-  "en": "",
-  "status": ""
+  "en": "Ngh?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFE01",
@@ -44308,8 +44308,8 @@
    }
   ],
   "jp": "なに？　空が怯えてるよ…！",
-  "en": "",
-  "status": ""
+  "en": "What? The sky's scared...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFE1C",
@@ -44322,8 +44322,8 @@
    }
   ],
   "jp": "うわぁぁあああ！",
-  "en": "",
-  "status": ""
+  "en": "Waaaaaaah!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFE2D",
@@ -44336,8 +44336,8 @@
    }
   ],
   "jp": "どうした、静まらんかッ！",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, calm yourselves!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFE46",
@@ -44350,8 +44350,8 @@
    }
   ],
   "jp": "…ヒッ③",
-  "en": "",
-  "status": ""
+  "en": "...Eep?!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFE4F",
@@ -44364,8 +44364,8 @@
    }
   ],
   "jp": "忘れ去られた、言葉を…！",
-  "en": "",
-  "status": ""
+  "en": "The words... that were forgotten...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFE68",
@@ -44378,8 +44378,8 @@
    }
   ],
   "jp": "人の物に触るの禁止～②",
-  "en": "",
-  "status": ""
+  "en": "No touching other people's things~!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFE7F",
@@ -44392,8 +44392,8 @@
    }
   ],
   "jp": "させない……！",
-  "en": "",
-  "status": ""
+  "en": "I won't let you...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFE8E",
@@ -44406,8 +44406,8 @@
    }
   ],
   "jp": "させるかっ②",
-  "en": "",
-  "status": ""
+  "en": "I won't let you!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFE9B",
@@ -44420,8 +44420,8 @@
    }
   ],
   "jp": "エーイッ②",
-  "en": "",
-  "status": ""
+  "en": "Yaaah!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFEA6",
@@ -44434,8 +44434,8 @@
    }
   ],
   "jp": "やらせるかよっ②",
-  "en": "",
-  "status": ""
+  "en": "Like I'd let you!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFEB7",
@@ -44448,8 +44448,8 @@
    }
   ],
   "jp": "掻き乱すぞ②",
-  "en": "",
-  "status": ""
+  "en": "I'll throw you off!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFEC4",
@@ -44462,8 +44462,8 @@
    }
   ],
   "jp": "好きにはさせんぞ。",
-  "en": "",
-  "status": ""
+  "en": "I won't let you do as you please.",
+  "status": "done"
  },
  {
   "id": "eboot_1EFED7",
@@ -44476,8 +44476,8 @@
    }
   ],
   "jp": "誰が許可した？",
-  "en": "",
-  "status": ""
+  "en": "Who gave you permission?",
+  "status": "done"
  },
  {
   "id": "eboot_1EFEE6",
@@ -44490,8 +44490,8 @@
    }
   ],
   "jp": "おっと、そこまでですね。",
-  "en": "",
-  "status": ""
+  "en": "Whoa, that is far enough.",
+  "status": "done"
  },
  {
   "id": "eboot_1EFEFF",
@@ -44504,8 +44504,8 @@
    }
   ],
   "jp": "残念でしたね……",
-  "en": "",
-  "status": ""
+  "en": "Too bad...",
+  "status": "done"
  },
  {
   "id": "eboot_1EFF10",
@@ -44518,8 +44518,8 @@
    }
   ],
   "jp": "よしなさい…",
-  "en": "",
-  "status": ""
+  "en": "Stop it...",
+  "status": "done"
  },
  {
   "id": "eboot_1EFF1D",
@@ -44532,8 +44532,8 @@
    }
   ],
   "jp": "…隙ありっ…！",
-  "en": "",
-  "status": ""
+  "en": "...An opening...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFF2C",
@@ -44546,8 +44546,8 @@
    }
   ],
   "jp": "コソコソと何してんだぁ？",
-  "en": "",
-  "status": ""
+  "en": "What're you sneakin' around for?",
+  "status": "done"
  },
  {
   "id": "eboot_1EFF45",
@@ -44560,8 +44560,8 @@
    }
   ],
   "jp": "やらせないゼ②",
-  "en": "",
-  "status": ""
+  "en": "I won't let you!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFF54",
@@ -44574,8 +44574,8 @@
    }
   ],
   "jp": "そーいっ②",
-  "en": "",
-  "status": ""
+  "en": "Hup!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFF5F",
@@ -44588,8 +44588,8 @@
    }
   ],
   "jp": "やらせねぇぜ…！",
-  "en": "",
-  "status": ""
+  "en": "I won't let you...!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFF70",
@@ -44602,8 +44602,8 @@
    }
   ],
   "jp": "何もさせないんだわさ１",
-  "en": "",
-  "status": ""
+  "en": "I won't let you do a thing!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFF87",
@@ -44616,8 +44616,8 @@
    }
   ],
   "jp": "喰らえ②",
-  "en": "",
-  "status": ""
+  "en": "Eat this!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFF90",
@@ -44630,8 +44630,8 @@
    }
   ],
   "jp": "先手を制し、出鼻を挫く！",
-  "en": "",
-  "status": ""
+  "en": "Strike first and break their stride!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFFA9",
@@ -44644,8 +44644,8 @@
    }
   ],
   "jp": "神の御前なるぞ②",
-  "en": "",
-  "status": ""
+  "en": "You stand before God!!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFFBA",
@@ -44658,8 +44658,8 @@
    }
   ],
   "jp": "まあ、そういきり立つなって！",
-  "en": "",
-  "status": ""
+  "en": "Now, now, don't get so worked up!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFFD7",
@@ -44672,8 +44672,8 @@
    }
   ],
   "jp": "はーい、残念賞ッ！",
-  "en": "",
-  "status": ""
+  "en": "Sorry, consolation prize!",
+  "status": "done"
  },
  {
   "id": "eboot_1EFFEA",
@@ -44686,7 +44686,7 @@
    }
   ],
   "jp": "最初からチャージやり直し～！",
-  "en": "",
-  "status": ""
+  "en": "Start your charge over from the top~!",
+  "status": "done"
  }
 ]
