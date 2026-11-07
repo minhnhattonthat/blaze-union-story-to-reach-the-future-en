@@ -20,7 +20,7 @@
    5604
   ],
   "jp": "{voice:00D216}ルシエナ姉さんも一緒です。{n}大丈夫じゃないですか？",
-  "en": "My sister Luciana is with her. Won't it be all right?",
+  "en": "My sister Luciana is with her. Surely it will be all right?",
   "status": "done"
  },
  {
@@ -104,7 +104,7 @@
    5709
   ],
   "jp": "{voice:00D916}大変だったんですよ！{n}汗が乾かなくて、蒸れて蒸れて！",
-  "en": "That was awful! The sweat wouldn't dry, and my feet got so stuffy!",
+  "en": "That was awful! The sweat would not dry, and my feet stayed so hot and damp!",
   "status": "done"
  },
  {
@@ -128,7 +128,7 @@
    5836
   ],
   "jp": "{voice:00DB16}あれは騒々しいというのだ。{n}奴らが調子に乗るような言動は{n}控えて頂きたい。",
-  "en": "That is what we call noisy. I'd ask you not to say things that encourage them.",
+  "en": "That is what we call noisy. I would ask you not to say things that encourage them.",
   "status": "done"
  },
  {
@@ -368,7 +368,7 @@
    6461
   ],
   "jp": "{voice:00EE16}それは無いと思います。{n}単純な疲労だと、考えています。",
-  "en": "I don't believe so. I think it was simple fatigue.",
+  "en": "I do not believe so. I think it was simple fatigue.",
   "status": "done"
  },
  {
@@ -500,7 +500,7 @@
    6710
   ],
   "jp": "{voice:00F916}失礼を承知でもう一度聞きます。{n}私が術後に意識を失ったあと、{n}皇帝の身体に何かされましたか？",
-  "en": "I know this is rude, but I'll ask again. After I lost consciousness, did you do something to the Emperor's body?",
+  "en": "I know this is rude, but I will ask again. After I lost consciousness, did you do something to the Emperor?",
   "status": "done"
  },
  {
@@ -596,7 +596,7 @@
    6868
   ],
   "jp": "{voice:000117}仕方ありません。{n}団長、予定より早いですが、{n}ここでお別れです。",
-  "en": "It can't be helped. Captain, this is sooner than planned, but here we part ways.",
+  "en": "It cannot be helped. Captain, this is sooner than planned, but here we part ways.",
   "status": "done"
  },
  {
@@ -716,7 +716,7 @@
    7256
   ],
   "jp": "{voice:000B17}まあですが、良いでしょう。{n}ここで消えるのですから。{n}ねえ、みなさん。",
-  "en": "Ah well, no matter. You will vanish here, after all. Won't you, everyone.",
+  "en": "Ah well, no matter. You will vanish here, after all. Is that not so, everyone?",
   "status": "done"
  },
  {
@@ -1142,7 +1142,7 @@
    47942
   ],
   "jp": "{voice:001F17}漠然とした予感のようなものが{n}あっただけなので、{n}具体的なところまでは、何も……",
-  "en": "It was only a vague premonition, so I can't say anything specific...",
+  "en": "It was only a vague premonition, so I cannot say anything specific...",
   "status": "done"
  },
  {
@@ -1382,7 +1382,7 @@
    48471
   ],
   "jp": "{voice:003317}陛下の命令は、絶対なのだ。{n}何度も言わせるな、娘。",
-  "en": "His Majesty's orders are absolute. Don't make me repeat myself, girl.",
+  "en": "His Majesty's orders are absolute. Do not make me repeat myself, girl.",
   "status": "done"
  },
  {
@@ -1406,7 +1406,7 @@
    48513
   ],
   "jp": "{voice:003517}毎度言う娘だ。{n}しかも芯を突いてくる……{n}よく今まで殺されなかったものだ。",
-  "en": "You always have something to say, girl. And you get right to the core... I'm amazed you've lived this long.",
+  "en": "You always have something to say, girl. And you get right to the core... I am amazed you have lived this long.",
   "status": "done"
  },
  {
@@ -1502,7 +1502,7 @@
    48855
   ],
   "jp": "{voice:003D17}なんと無礼な……！{n}貴様達も含め、私がこの手で{n}即刻手討ちにしてくれるッ②",
-  "en": "How dare you...! You too will answer for this. I'll cut you down with my own hand, here and now!!",
+  "en": "How dare you...! You too will answer for this. I will cut you down with my own hand, here and now!!",
   "status": "done"
  },
  {
@@ -1634,7 +1634,7 @@
    49286
   ],
   "jp": "{voice:004817}状況は飲み込めんが……{n}その、ネシアとかいう者に{n}陛下は操られているのか？",
-  "en": "I can't quite grasp the situation... So this Nessiah person is controlling His Majesty?",
+  "en": "I cannot quite grasp the situation... So this Nessiah person is controlling His Majesty?",
   "status": "done"
  },
  {
@@ -1646,7 +1646,7 @@
    49307
   ],
   "jp": "{voice:004917}その可能性が高いでしょう。{n}断言はできませんが。",
-  "en": "That seems highly likely. Though I can't say for certain.",
+  "en": "That seems highly likely. Though I cannot say for certain.",
   "status": "done"
  },
  {
@@ -1658,7 +1658,7 @@
    49328
   ],
   "jp": "{voice:004A17}しかし、ネシアは殺したのでは？",
-  "en": "But didn't you kill Nessiah?",
+  "en": "But did you not kill Nessiah?",
   "status": "done"
  },
  {
@@ -1682,7 +1682,7 @@
    49370
   ],
   "jp": "{voice:004C17}にわかには、信じられんな。{n}だが、私も陛下を止めねばならん。{n}同道させてもらうぞ。",
-  "en": "I can't believe it just like that. But I too must stop His Majesty. I shall come with you.",
+  "en": "I cannot believe that so easily. But I too must stop His Majesty. I shall come with you.",
   "status": "done"
  },
  {
@@ -2126,7 +2126,7 @@
    40918
   ],
   "jp": "裏切るというか、{n}裏切られたのですよ。{n}あなた達の団長の行動に……",
-  "en": "Rather than betrayed, I was the one betrayed. By the actions of your Captain...",
+  "en": "It is less that I betrayed you than that I was betrayed. By the actions of your Captain...",
   "status": "done"
  },
  {
@@ -2306,7 +2306,7 @@
    42420
   ],
   "jp": "屍兵よ！{n}このまま押し潰しなさい②",
-  "en": "Corpse soldiers! Crush them, just like that!!",
+  "en": "Corpse soldiers! Press on and crush them!!",
   "status": "done"
  },
  {
@@ -2522,7 +2522,7 @@
    43752
   ],
   "jp": "話していませんからね。{n}理解できなくて当然ですよ。",
-  "en": "I haven't told you. Of course you can't work it out.",
+  "en": "I have not told you. Of course you cannot work it out.",
   "status": "done"
  },
  {
@@ -2894,7 +2894,7 @@
    45783
   ],
   "jp": "どうしましたか？{n}正直、拍子抜けですよ……",
-  "en": "What is the matter? Frankly, I'm disappointed...",
+  "en": "What is the matter? Frankly, I am disappointed...",
   "status": "done"
  },
  {

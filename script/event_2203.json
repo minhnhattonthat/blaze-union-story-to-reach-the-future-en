@@ -524,7 +524,7 @@
    14581
   ],
   "jp": "{voice:00BC17}そう、私はシスキア。{n}で、こっちのキザッたらしい彼が{n}ジェノン。",
-  "en": "Right, I'm Siskier. And this snooty guy here is Jenon.",
+  "en": "Right, I'm Siskier. And this show-off here is Jenon.",
   "status": "done"
  },
  {
@@ -536,7 +536,7 @@
    14599
   ],
   "jp": "{voice:00BD17}余計な事は言わなくていいんだよ。",
-  "en": "You don't have to say the unnecessary part.",
+  "en": "You could've left that part out.",
   "status": "done"
  },
  {
@@ -1124,7 +1124,7 @@
    24538
   ],
   "jp": "{voice:00ED17}それを確かめたいのだ！{n}だが、状況は確実に悪い方向へと{n}進んでいるのは確かなのだ。",
-  "en": "That's what I want to find out! But things are surely going from bad to worse.",
+  "en": "That is what I wish to find out! But things are surely going from bad to worse.",
   "status": "done"
  },
  {
@@ -1232,7 +1232,7 @@
    24651
   ],
   "jp": "{voice:00F517}…すまない、恩に着るぞ。",
-  "en": "...I'm sorry. I am in your debt.",
+  "en": "...Forgive me. I am in your debt.",
   "status": "done"
  },
  {
@@ -1316,7 +1316,7 @@
    16654
   ],
   "jp": "{voice:00FC17}す、水路越しだ…{n}そなたも…狙われ、て、いる…",
-  "en": "F-from across the canal... They're aiming... at you too...",
+  "en": "F-from across the canal... They are aiming... at you too...",
   "status": "done"
  },
  {
@@ -2000,7 +2000,7 @@
    19023
   ],
   "jp": "スー、ハー、スー、ハー{n}…っふぅ、堪能しましたわ♪{n}あら、カギがありますわね。",
-  "en": "Sniff, ahh, sniff, ahh... Whew, I've had my fill♪ Oh, there's a key here.",
+  "en": "Sniff, ahh, sniff, ahh... Whew, I have had my fill♪ Oh, there is a key here.",
   "status": "done"
  },
  {
@@ -2700,7 +2700,7 @@
    23164
   ],
   "jp": "まあ、武器庫だったんですのね。{n}使えそうなもの、{n}全ていただいちゃいましょうか！",
-  "en": "My, so it was the armory. Shall we help ourselves to everything useful!",
+  "en": "My, so it was the armory. Let us help ourselves to everything useful!",
   "status": "done"
  },
  {
@@ -3240,7 +3240,7 @@
    40626
   ],
   "jp": "{voice:002B18}へ、陛下なら…、最奥の{n}要塞本営におられるはず、だ……",
-  "en": "H-his Majesty... should be at the fortress headquarters, deep inside...",
+  "en": "H-His Majesty... should be at the fortress headquarters, deep inside...",
   "status": "done"
  },
  {
@@ -3372,7 +3372,7 @@
    41423
   ],
   "jp": "{voice:003618}しかし、今の陛下は正気だとは{n}とても思えないのです……",
-  "en": "But I can't believe Your Majesty is in your right mind now...",
+  "en": "But I cannot believe Your Majesty is in your right mind now...",
   "status": "done"
  },
  {
@@ -3528,7 +3528,7 @@
    68072
   ],
   "jp": "{voice:004318}陛下に害はないのだな？",
-  "en": "It won't harm His Majesty?",
+  "en": "It will not harm His Majesty?",
   "status": "done"
  },
  {
@@ -3648,7 +3648,7 @@
    68570
   ],
   "jp": "{voice:004D18}人間と同じ尺度で、{n}私を理解されては困りますね。{n}フフフフフ…",
-  "en": "I'm afraid you can't measure me by the same yardstick as humans. Hehehehehe...",
+  "en": "I am afraid you cannot measure me by the same yardstick as humans. Hehehehehe...",
   "status": "done"
  },
  {
@@ -3708,7 +3708,7 @@
    68658
   ],
   "jp": "{voice:005218}彼はね、扱い易い人材ですよ。",
-  "en": "He's such an easy person to handle, you see.",
+  "en": "He is such an easy person to handle, you see.",
   "status": "done"
  },
  {
@@ -3804,7 +3804,7 @@
    68981
   ],
   "jp": "{voice:005A18}ば、バカな…{n}自我と理性を、取り戻したと、{n}そんな事があるというのですか？",
-  "en": "I-impossible... You've regained your self and your reason? How can that be?",
+  "en": "I-impossible... You have regained your self and your reason? How can that be?",
   "status": "done"
  },
  {
@@ -3852,7 +3852,7 @@
    69059
   ],
   "jp": "{voice:005E18}再戦の機会は、又に……{n}私は、もう一度死にましょう…",
-  "en": "We'll have our rematch another time... I shall die once more...",
+  "en": "We shall have our rematch another time... I shall die once more...",
   "status": "done"
  },
  {
@@ -3876,7 +3876,7 @@
    69294
   ],
   "jp": "{voice:006018}そうとは思えない……{n}以前も確かに殺したのだ。",
-  "en": "I can't believe it is... We did kill him before, after all.",
+  "en": "I cannot believe it is... We did kill him before, after all.",
   "status": "done"
  },
  {
@@ -4246,7 +4246,7 @@
    70080
   ],
   "jp": "{voice:007F18}私…がですか？",
-  "en": "Me... you mean?",
+  "en": "You mean... me?",
   "status": "done"
  },
  {
@@ -4306,7 +4306,7 @@
    70137
   ],
   "jp": "{voice:008418}いつあの男が復活するか{n}わからぬのなら、{n}早急に進めるべきだろうな。",
-  "en": "Since we don't know when that man will return, we should move quickly.",
+  "en": "Since we do not know when that man will return, we should move quickly.",
   "status": "done"
  },
  {
@@ -4930,7 +4930,7 @@
    62811
   ],
   "jp": "打ち込みが、速いッ②",
-  "en": "Such fast blows!!",
+  "en": "His strikes are fast!!",
   "status": "done"
  },
  {
@@ -5242,7 +5242,7 @@
    64680
   ],
   "jp": "あらあら、残念ですわね。{n}徹底的に『強さ』が足りませんわ。",
-  "en": "Oh my, what a shame. You are thoroughly lacking in \"strength.\"",
+  "en": "Oh my, what a shame. You are thoroughly lacking in 'strength.'",
   "status": "done"
  },
  {

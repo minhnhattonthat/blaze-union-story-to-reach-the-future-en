@@ -368,7 +368,7 @@
    11004
   ],
   "jp": "{voice:001B16}敵襲だ！{n}シスキア、早く邸宅に入って②",
-  "en": "An enemy attack! Siskier, get in the mansion, quick!!",
+  "en": "An enemy attack! Siskier, get in the manor, quick!!",
   "status": "done"
  },
  {
@@ -488,7 +488,7 @@
    12169
   ],
   "jp": "{voice:002516}仕方のない事情だと思います。",
-  "en": "It seems to be unavoidable.",
+  "en": "It cannot be helped, I think.",
   "status": "done"
  },
  {
@@ -644,7 +644,7 @@
    22575
   ],
   "jp": "{voice:003216}討たれるだけの何かを、{n}彼が行ったからではないですか？",
-  "en": "Isn't it because he did something that deserved it?",
+  "en": "Is it not because he did something that deserved it?",
   "status": "done"
  },
  {
@@ -702,7 +702,7 @@
    22642
   ],
   "jp": "{voice:003716}ですが、一人で悲しみを受け切れ{n}ないからと言って、それを敵意に{n}置き換えてよいのですか？",
-  "en": "But because you can't bear the grief alone, is it right to turn it into hatred?",
+  "en": "But because you cannot bear the grief alone, is it right to turn it into hatred?",
   "status": "done"
  },
  {
@@ -966,7 +966,7 @@
    23769
   ],
   "jp": "{voice:004D16}自分の感情に素直過ぎるのです。{n}彼女はきっと乗り越えてくれます。{n}そして、生きる事を選ぶでしょう。",
-  "en": "She is too honest with her feelings. She will get past this, I'm sure. And she will choose to live.",
+  "en": "She is too honest with her feelings. She will get past this, I am sure. And she will choose to live.",
   "status": "done"
  },
  {
@@ -1062,7 +1062,7 @@
    24448
   ],
   "jp": "{voice:005516}……気にする事はないですよ。",
-  "en": "...Please don't worry about it.",
+  "en": "...Please do not worry about it.",
   "status": "done"
  },
  {
@@ -1122,7 +1122,7 @@
    24725
   ],
   "jp": "{voice:005A16}おや、懐かしいですね、{n}エイミさん…、でしたか？",
-  "en": "My, how nostalgic. Eimi-san... wasn't it?",
+  "en": "My, how long it has been. Eimi-san... was it not?",
   "status": "done"
  },
  {
@@ -1518,7 +1518,7 @@
    14800
   ],
   "jp": "役目ってなんだよ！",
-  "en": "What's that about a role!",
+  "en": "What do you mean, role!",
   "status": "done"
  },
  {
@@ -1542,7 +1542,7 @@
    15060
   ],
   "jp": "あらあら、偉くお怒りのご様子。{n}そんなオーラでは、ゲットできる{n}男もゲットできませんわよ。",
-  "en": "Oh my, you seem awfully angry. With that aura, you'll scare off anyone you might have won.",
+  "en": "Oh my, you seem awfully angry. With that aura, you will scare off anyone you might have won.",
   "status": "done"
  },
  {
@@ -1578,7 +1578,7 @@
    15469
   ],
   "jp": "ククク、面白い！{n}復讐に闘志を燃やす者よ、{n}存分に力をぶつけてみろ②",
-  "en": "Heh heh heh, how interesting! You who burn with fighting spirit for revenge, hit me with all you've got!!",
+  "en": "Heh heh heh, interesting! You're burning for revenge? Then hit me with all you've got!!",
   "status": "done"
  },
  {
@@ -1746,7 +1746,7 @@
    17487
   ],
   "jp": "凄い気迫だね……{n}余裕は、無いって事か。",
-  "en": "What spirit... She can't afford anything else, I guess.",
+  "en": "What spirit... So she really is at the end of her rope.",
   "status": "done"
  },
  {

@@ -260,7 +260,7 @@
    9215
   ],
   "jp": "{voice:006219}だが人は無謀にも戦う。{n}自分の行為を正当化してまでな。",
-  "en": "But people fight anyway, recklessly. Even justifying what they do.",
+  "en": "But people fight anyway, recklessly, and go so far as to justify it.",
   "status": "done"
  },
  {
@@ -440,7 +440,7 @@
    10874
   ],
   "jp": "{voice:007119}ガーロット！{n}我々は祭壇を死守するぞ。",
-  "en": "Garlot! We'll hold the altar to the death.",
+  "en": "Garlot! We shall hold the altar to the death.",
   "status": "done"
  },
  {
@@ -848,7 +848,7 @@
    12882
   ],
   "jp": "本気でそう思えるとは、{n}やはり人間は低脳ですね……",
-  "en": "To truly think so, humans really are simple-minded...",
+  "en": "That you can truly think so... Humans really are simple-minded...",
   "status": "done"
  },
  {
@@ -896,7 +896,7 @@
    13314
   ],
   "jp": "あなたを殺した後、{n}屍兵にするのが楽しみですよ……",
-  "en": "I look forward to making you a corpse soldier after I've killed you...",
+  "en": "I look forward to making you a corpse soldier after I have killed you...",
   "status": "done"
  },
  {
@@ -1292,7 +1292,7 @@
    16336
   ],
   "jp": "甘言などで、私は動きません。",
-  "en": "I won't be moved by sweet talk.",
+  "en": "I will not be moved by sweet talk.",
   "status": "done"
  },
  {
@@ -1448,7 +1448,7 @@
    17266
   ],
   "jp": "徹底的に叩き潰してあげます！",
-  "en": "I'll crush you utterly!",
+  "en": "I will crush you utterly!",
   "status": "done"
  },
  {
@@ -1580,7 +1580,7 @@
    18181
   ],
   "jp": "所詮、その程度の力。{n}私には通用しませんよ。",
-  "en": "That's the extent of your strength. It has no effect on me.",
+  "en": "That is the extent of your strength. It has no effect on me.",
   "status": "done"
  },
  {
@@ -1700,7 +1700,7 @@
    18960
   ],
   "jp": "グラムブレイズに合流して、{n}弱くなったのではないですか？",
-  "en": "Haven't you grown weaker, since joining Gram Blaze?",
+  "en": "Have you not grown weaker, since joining Gram Blaze?",
   "status": "done"
  },
  {
@@ -1951,7 +1951,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008D19}聖剣グラン・センチュリオが{n}お、折れた……、バカな。",
-  "en": "Holy Sword Gran Centurio... b-broke... Impossible.",
+  "en": "Gran Centurio... i-is broken... Impossible.",
   "status": "done"
  },
  {
@@ -2059,7 +2059,7 @@
    36974
   ],
   "jp": "{voice:009619}ば、バカな…、バカな③",
-  "en": "N-no... No!?",
+  "en": "I-impossible... Impossible!?",
   "status": "done"
  },
  {
@@ -2179,7 +2179,7 @@
    40205
   ],
   "jp": "{voice:009D19}言われなくとも分かっている！",
-  "en": "You needn't tell me, I know!",
+  "en": "You need not tell me. I know!",
   "status": "done"
  },
  {
@@ -2239,7 +2239,7 @@
    40308
   ],
   "jp": "{voice:00A219}からかうな。",
-  "en": "Don't tease me.",
+  "en": "Do not tease me.",
   "status": "done"
  },
  {
@@ -2515,7 +2515,7 @@
    40700
   ],
   "jp": "{voice:00B919}ガーロット将軍。{n}緊張は解けてきたぞ。{n}さあ行こうか、就任演説へ！",
-  "en": "General Garlot. My nerves have eased. Now then, let's go, to the inaugural speech!",
+  "en": "General Garlot. My nerves have eased. Now then, let us go, to the inaugural speech!",
   "status": "done"
  },
  {

@@ -140,7 +140,7 @@
    5109
   ],
   "jp": "{voice:005F17}そう上手くいけばいいけど…",
-  "en": "If only it goes that well...",
+  "en": "Let's hope it goes that well...",
   "status": "done"
  },
  {
@@ -536,7 +536,7 @@
    10175
   ],
   "jp": "{voice:007F17}そのような情報に踊らされるほど、{n}私は愚かではないつもりだ。",
-  "en": "I would like to think I'm not fool enough to be swayed by such information.",
+  "en": "I would like to think I am not fool enough to be swayed by such information.",
   "status": "done"
  },
  {
@@ -560,7 +560,7 @@
    10244
   ],
   "jp": "{voice:008117}位置と場所から考えて、{n}オルディーン陛下を狙っていた{n}のは明らかです。",
-  "en": "From their positions, it's clear they were after you, King Ordene.",
+  "en": "From their positions, it is clear they were after you, King Ordene.",
   "status": "done"
  },
  {
@@ -632,7 +632,7 @@
    10393
   ],
   "jp": "{voice:008617}いや、すまない。{n}他人のそら似だろう。",
-  "en": "No, forgive me. It must be a mere coincidence.",
+  "en": "No, forgive me. It must be a chance likeness.",
   "status": "done"
  },
  {
@@ -668,7 +668,7 @@
    10436
   ],
   "jp": "{voice:008917}とにかくこれ以上の足止めは{n}無用だ。先を急ぐのでな。",
-  "en": "In any case, there's no need to detain me further. I must be on my way.",
+  "en": "In any case, there is no need to detain me further. I must be on my way.",
   "status": "done"
  },
  {

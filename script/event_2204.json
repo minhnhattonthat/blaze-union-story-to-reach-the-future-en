@@ -212,7 +212,7 @@
    11400
   ],
   "jp": "{voice:009F18}アイツはいつも遅れてくるだろ。{n}これも作戦の内だとか、{n}後から付け足して。",
-  "en": "He's always late, isn't he. Then he adds on after that it was all part of the plan.",
+  "en": "He's always late, isn't he. Then he tacks on that it was all part of the plan.",
   "status": "done"
  },
  {
@@ -836,7 +836,7 @@
    13723
   ],
   "jp": "{voice:00CF18}スマートじゃないけど、{n}仕方がないね。",
-  "en": "Not very smart, but it can't be helped.",
+  "en": "Not very elegant, but it can't be helped.",
   "status": "done"
  },
  {
@@ -872,7 +872,7 @@
    14190
   ],
   "jp": "{voice:00D218}……まだ気が付かないとはね。{n}どうも鈍い人達ですね。",
-  "en": "...Still haven't noticed. How dull you people are.",
+  "en": "...You still have not noticed. How dull you people are.",
   "status": "done"
  },
  {
@@ -956,7 +956,7 @@
    14398
   ],
   "jp": "{voice:00D918}ようやく気が付きましたか？{n}彼はもう死んでいるんですよ。{n}死体なんです。",
-  "en": "So you've finally noticed? He's already dead. He's a corpse.",
+  "en": "So you have finally noticed? He is already dead. He is a corpse.",
   "status": "done"
  },
  {
@@ -968,7 +968,7 @@
    14405
   ],
   "jp": "{voice:00DA18}今の彼は、自分の意思では{n}指一本動かせない{n}私の屍兵に過ぎません。",
-  "en": "He can't move a finger of his own will now. He is merely my corpse soldier.",
+  "en": "He cannot move a finger of his own will now. He is merely my corpse soldier.",
   "status": "done"
  },
  {
@@ -2000,7 +2000,7 @@
    20578
   ],
   "jp": "{voice:002819}シスキア、グラムブレイズが{n}変える新しい世界で、{n}僕の分も、精一杯生きてくれ。",
-  "en": "Siskier, in the new world Gram Blaze is making, live as hard as you can, for my share too.",
+  "en": "Siskier, in the new world Gram Blaze is making, live as hard as you can, for me too.",
   "status": "done"
  },
  {
@@ -2444,7 +2444,7 @@
    15488
   ],
   "jp": "ムムッ③　おぬしらが持つのは、{n}伝説の金属『オリハルコン』{n}ではないか③",
-  "en": "Mmm!? What you carry, is it not the legendary metal \"Orichalcum\"!?",
+  "en": "Mmm!? What you carry, is it not the legendary metal 'Orichalcum'!?",
   "status": "done"
  },
  {
@@ -2456,7 +2456,7 @@
    15495
   ],
   "jp": "ああっ、やはりそうだ！{n}頼む！　その『オリハルコン』を{n}それがしに託してくれ！",
-  "en": "Ah, it is indeed! I beg you! Entrust that \"Orichalcum\" to me!",
+  "en": "Ah, it is indeed! I beg you! Entrust that 'Orichalcum' to me!",
   "status": "done"
  },
  {
@@ -2504,7 +2504,7 @@
    15716
   ],
   "jp": "伝説の金属『オリハルコン』を{n}この手で打てる日が来るとは…",
-  "en": "That the day would come when I could forge the legendary metal \"Orichalcum\" with these hands...",
+  "en": "That the day would come when I could forge the legendary metal 'Orichalcum' with these hands...",
   "status": "done"
  },
  {
