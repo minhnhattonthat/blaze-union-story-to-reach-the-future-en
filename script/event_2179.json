@@ -956,7 +956,7 @@
    24579
   ],
   "jp": "私達三兄弟は、川を挟んで{n}建ってる３つの小屋に、{n}それぞれ住んでいるんだけど…",
-  "en": "We three brothers each live in our own hut, on three sides of the river...",
+  "en": "We three brothers each live in one of the three huts on either side of the river...",
   "status": "done"
  },
  {
@@ -1398,7 +1398,7 @@
    34824
   ],
   "jp": "俺達三兄弟は、川を挟んで{n}建ってる３つの小屋に、{n}それぞれ住んでいるんだが…",
-  "en": "We three brothers each live in our own hut, on three sides of the river...",
+  "en": "We three brothers each live in one of the three huts on either side of the river...",
   "status": "done"
  },
  {
@@ -1840,7 +1840,7 @@
    45091
   ],
   "jp": "僕ら三兄弟は、{n}川を挟んで建つ３つの小屋に、{n}それぞれ住んでいるんですけど…",
-  "en": "We three brothers each live in our own hut, on three sides of the river...",
+  "en": "We three brothers each live in one of the three huts on either side of the river...",
   "status": "done"
  },
  {
@@ -2804,7 +2804,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:002A0C}悪かった、謝る。{n}心配かけたな、みんな。",
-  "en": "My bad, sorry for worrying you, all.",
+  "en": "My bad. Sorry I worried you, everyone.",
   "status": "done"
  },
  {
@@ -2996,7 +2996,7 @@
    111254
   ],
   "jp": "うーん、間違いなく嫌われるわ…",
-  "en": "Hmm, she'd definitely hate you...",
+  "en": "Hmm, yep, girls are definitely going to hate you...",
   "status": "done"
  },
  {
