@@ -8,8 +8,8 @@
    11062
   ],
   "jp": "{voice:006D02}北の辺境って聞いてたけど、{n}ちょっとさ、まだ着かないの…？",
-  "en": "",
-  "status": ""
+  "en": "They said the northern frontier, but c'mon, aren't we there yet...?",
+  "status": "done"
  },
  {
   "id": "event_2157_00066",
@@ -20,8 +20,8 @@
    11080
   ],
   "jp": "{voice:006E02}そろそろ見えてきても、{n}いい頃なんだけどね。{n}ン、もしかして疲れたの？",
-  "en": "",
-  "status": ""
+  "en": "It should be coming into view about now. Hm, are you tired?",
+  "status": "done"
  },
  {
   "id": "event_2157_000AF",
@@ -32,8 +32,8 @@
    11098
   ],
   "jp": "{voice:006F02}疲れてなんかないよ。{n}ちょっと寒いケド……",
-  "en": "",
-  "status": ""
+  "en": "I'm not tired. It's a little cold, though...",
+  "status": "done"
  },
  {
   "id": "event_2157_000DD",
@@ -44,8 +44,8 @@
    11150
   ],
   "jp": "{voice:007002}しかし、遠くまで来たな……{n}このまま行けば、世界の果てに{n}着いてしまうかもな。",
-  "en": "",
-  "status": ""
+  "en": "We sure have come a long way... Keep this up and we might reach the end of the world.",
+  "status": "done"
  },
  {
   "id": "event_2157_0012E",
@@ -56,8 +56,8 @@
    11171
   ],
   "jp": "{voice:007102}ふふ、遠くか……{n}ガーロット、この国の国土なんて、{n}世界の一部にしか過ぎない。",
-  "en": "",
-  "status": ""
+  "en": "Heh, a long way... Garlot, this country is just a small part of the world.",
+  "status": "done"
  },
  {
   "id": "event_2157_0017F",
@@ -68,8 +68,8 @@
    11181
   ],
   "jp": "{voice:007202}それに、{n}世界に果ては無いしね。",
-  "en": "",
-  "status": ""
+  "en": "Besides, the world has no end.",
+  "status": "done"
  },
  {
   "id": "event_2157_001A3",
@@ -80,8 +80,8 @@
    11199
   ],
   "jp": "{voice:007302}世界に果てが無い？{n}それはどういう事だ？",
-  "en": "",
-  "status": ""
+  "en": "The world has no end? What does that mean?",
+  "status": "done"
  },
  {
   "id": "event_2157_001CF",
@@ -92,8 +92,8 @@
    11217
   ],
   "jp": "{voice:007402}厳密に言うと有限なんだけど、{n}この世界はね、球になってるの。{n}だから果ては無いって事。",
-  "en": "",
-  "status": ""
+  "en": "Strictly speaking it's finite, but the world is a sphere. So there's no end to it.",
+  "status": "done"
  },
  {
   "id": "event_2157_00228",
@@ -104,8 +104,8 @@
    11238
   ],
   "jp": "{voice:007502}世界が、球？{n}丸いって事か？",
-  "en": "",
-  "status": ""
+  "en": "The world's a sphere? You mean it's round?",
+  "status": "done"
  },
  {
   "id": "event_2157_00248",
@@ -116,8 +116,8 @@
    11259
   ],
   "jp": "{voice:007602}もしかして、知らなかったの？",
-  "en": "",
-  "status": ""
+  "en": "You didn't know that?",
+  "status": "done"
  },
  {
   "id": "event_2157_00269",
@@ -128,8 +128,8 @@
    11280
   ],
   "jp": "{voice:007702}ちょっと待ってよ、{n}平らでしょ？　地面は！{n}丸いワケないじゃん。",
-  "en": "",
-  "status": ""
+  "en": "Hold on a sec, it's flat, right? The ground! No way it's round.",
+  "status": "done"
  },
  {
   "id": "event_2157_002AC",
@@ -140,8 +140,8 @@
    11298
   ],
   "jp": "{voice:007802}実際にあたしは船で、{n}世界を一周した事がある。",
-  "en": "",
-  "status": ""
+  "en": "I've actually sailed all the way around the world by ship.",
+  "status": "done"
  },
  {
   "id": "event_2157_002DE",
@@ -152,8 +152,8 @@
    11316
   ],
   "jp": "{voice:007902}そうか、丸いのか……{n}しかし世界を一周か。{n}やっぱ凄いなメデューテは。",
-  "en": "",
-  "status": ""
+  "en": "I see, so it's round... But sailing around the world. You're really something, Medoute.",
+  "status": "done"
  },
  {
   "id": "event_2157_00327",
@@ -164,8 +164,8 @@
    11337
   ],
   "jp": "{voice:007A02}あ、ガーロット！{n}そんなにすぐ信じちゃうワケ？",
-  "en": "",
-  "status": ""
+  "en": "Hey, Garlot! You're just gonna believe that, like that!?",
+  "status": "done"
  },
  {
   "id": "event_2157_00359",
@@ -176,8 +176,8 @@
    11389
   ],
   "jp": "{voice:007B02}おや…？{n}あれは、帝国軍じゃない？",
-  "en": "",
-  "status": ""
+  "en": "Oh...? Isn't that the Imperial Army?",
+  "status": "done"
  },
  {
   "id": "event_2157_0037F",
@@ -188,8 +188,8 @@
    11407
   ],
   "jp": "{voice:007C02}いい話の切り方だ……",
-  "en": "",
-  "status": ""
+  "en": "Nice way to change the subject...",
+  "status": "done"
  },
  {
   "id": "event_2157_00398",
@@ -200,8 +200,8 @@
    11425
   ],
   "jp": "{voice:007D02}んっ②",
-  "en": "",
-  "status": ""
+  "en": "Hm!",
+  "status": "done"
  },
  {
   "id": "event_2157_003A3",
@@ -212,8 +212,8 @@
    12169
   ],
   "jp": "{voice:007E02}おい、右翼のヤロウども！{n}いま進撃が号令より遅れただろ②",
-  "en": "",
-  "status": ""
+  "en": "Hey, you bastards on the right wing! Your advance lagged behind the order just now!",
+  "status": "done"
  },
  {
   "id": "event_2157_003DF",
@@ -224,8 +224,8 @@
    12190
   ],
   "jp": "{voice:007F02}も、申し訳ありません……",
-  "en": "",
-  "status": ""
+  "en": "I-I'm terribly sorry...",
+  "status": "done"
  },
  {
   "id": "event_2157_003FC",
@@ -236,8 +236,8 @@
    12211
   ],
   "jp": "{voice:008002}弱卒は全体の隊列を乱すッ②{n}前に出ろ、即刻処断してやる！",
-  "en": "",
-  "status": ""
+  "en": "Weak soldiers wreck the whole formation! Step forward, I'll execute you right here!",
+  "status": "done"
  },
  {
   "id": "event_2157_00438",
@@ -248,8 +248,8 @@
    12229
   ],
   "jp": "{voice:008102}……恐れながら、レオン総隊長。{n}連日の猛訓練で、兵の疲弊は{n}もう限界に来ております。",
-  "en": "",
-  "status": ""
+  "en": "...With respect, Commander Leon. After days of grueling training, the men are worn out to their limit.",
+  "status": "done"
  },
  {
   "id": "event_2157_0048F",
@@ -260,8 +260,8 @@
    12236
   ],
   "jp": "{voice:008202}それを、一度の失敗で処断とは、{n}あまりに無慈悲なご判断です。",
-  "en": "",
-  "status": ""
+  "en": "To execute one for a single mistake is far too merciless a judgment.",
+  "status": "done"
  },
  {
   "id": "event_2157_004CF",
@@ -272,8 +272,8 @@
    12243
   ],
   "jp": "{voice:008302}どうか、{n}兵達に休息の機会を…",
-  "en": "",
-  "status": ""
+  "en": "Please, give the men a chance to rest...",
+  "status": "done"
  },
  {
   "id": "event_2157_004F1",
@@ -284,8 +284,8 @@
    12261
   ],
   "jp": "{voice:008402}バカめ！　戦場に休息などない！{n}大体、この程度の訓練を猛訓練と{n}感じる事自体、甘過ぎる②",
-  "en": "",
-  "status": ""
+  "en": "Idiot! There's no rest on a battlefield! If you think training this light is grueling, you're way too soft!",
+  "status": "done"
  },
  {
   "id": "event_2157_0054C",
@@ -296,8 +296,8 @@
    12282
   ],
   "jp": "{voice:008502}俺の機嫌を損ねた失策を悔いよ！{n}そして恥と共に死ねッ②",
-  "en": "",
-  "status": ""
+  "en": "Regret the blunder that spoiled my mood! And die in shame!",
+  "status": "done"
  },
  {
   "id": "event_2157_00586",
@@ -308,8 +308,8 @@
    12371
   ],
   "jp": "{voice:008602}……うーん。{n}なかなかに苛烈な男だね。",
-  "en": "",
-  "status": ""
+  "en": "...Well now. That's a pretty fierce fellow.",
+  "status": "done"
  },
  {
   "id": "event_2157_005B0",
@@ -320,8 +320,8 @@
    12389
   ],
   "jp": "{voice:008702}しかし、指揮官としての能力は{n}どうだろう、疑問よね。{n}本気で部下を殺しかねないし。",
-  "en": "",
-  "status": ""
+  "en": "But his ability as a commander is another question, isn't it? He might really kill his own men.",
+  "status": "done"
  },
  {
   "id": "event_2157_00605",
@@ -332,8 +332,8 @@
    12407
   ],
   "jp": "{voice:008802}そうだな、放ってはおけない…{n}止めに入ろう。",
-  "en": "",
-  "status": ""
+  "en": "Right, I can't just leave this... Let's step in.",
+  "status": "done"
  },
  {
   "id": "event_2157_00635",
@@ -344,8 +344,8 @@
    12471
   ],
   "jp": "{voice:008902}そこまでだ、レオン総隊長！",
-  "en": "",
-  "status": ""
+  "en": "That's enough, Commander Leon!",
+  "status": "done"
  },
  {
   "id": "event_2157_00654",
@@ -356,8 +356,8 @@
    12489
   ],
   "jp": "{voice:008A02}あ…？{n}なんだ貴様ら……",
-  "en": "",
-  "status": ""
+  "en": "Huh...? And who the hell are you...",
+  "status": "done"
  },
  {
   "id": "event_2157_00670",
@@ -368,8 +368,8 @@
    12587
   ],
   "jp": "{voice:008B02}ヴェルマン方伯の指令を受け、{n}調練を検分させてもらいに来た。",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman sent us to inspect your training.",
+  "status": "done"
  },
  {
   "id": "event_2157_006B0",
@@ -380,8 +380,8 @@
    12594
   ],
   "jp": "{voice:008C02}号令に遅れただけだろ？{n}それで兵を処断するなんて、{n}やり過ぎじゃないか？",
-  "en": "",
-  "status": ""
+  "en": "All he did was lag behind an order, right? Executing a soldier for that is going too far, isn't it?",
+  "status": "done"
  },
  {
   "id": "event_2157_006FB",
@@ -392,8 +392,8 @@
    12612
   ],
   "jp": "{voice:008D02}何だと……{n}貴様のような貴族の子飼い如きに、{n}軍の教練の何が分かるという。",
-  "en": "",
-  "status": ""
+  "en": "What did you say... What would some noble's pet like you know about army drills?",
+  "status": "done"
  },
  {
   "id": "event_2157_00748",
@@ -404,8 +404,8 @@
    12673
   ],
   "jp": "{voice:008E02}ガーロット、どうする？{n}彼のこと。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, what do you think? About him.",
+  "status": "done"
  },
  {
   "id": "event_2157_0076E",
@@ -416,8 +416,8 @@
    12691
   ],
   "jp": "{voice:008F02}駄目だろう。{n}あれじゃ信用できない。{n}仲間には入れられないな。",
-  "en": "",
-  "status": ""
+  "en": "He won't work. We can't trust a guy like that. I can't take him on as a comrade.",
+  "status": "done"
  },
  {
   "id": "event_2157_007AF",
@@ -428,8 +428,8 @@
    12709
   ],
   "jp": "{voice:009002}悩むまでもなく、そうね。",
-  "en": "",
-  "status": ""
+  "en": "No need to agonize over that, true.",
+  "status": "done"
  },
  {
   "id": "event_2157_007CC",
@@ -440,8 +440,8 @@
    12798
   ],
   "jp": "{voice:009102}レオン総隊長。{n}訓練の邪魔をして悪かったな。{n}俺達はこれで帰るぜ。",
-  "en": "",
-  "status": ""
+  "en": "Commander Leon. Sorry for interrupting your training. We'll be heading back now.",
+  "status": "done"
  },
  {
   "id": "event_2157_00811",
@@ -452,8 +452,8 @@
    12819
   ],
   "jp": "{voice:009202}待て。",
-  "en": "",
-  "status": ""
+  "en": "Wait.",
+  "status": "done"
  },
  {
   "id": "event_2157_0081C",
@@ -464,8 +464,8 @@
    12837
   ],
   "jp": "{voice:009302}え？　何よ。",
-  "en": "",
-  "status": ""
+  "en": "Huh? What is it?",
+  "status": "done"
  },
  {
   "id": "event_2157_0082D",
@@ -476,8 +476,8 @@
    12855
   ],
   "jp": "{voice:009402}貴様ら、{n}検分に来たんだろ？{n}もっと訓練の成果を見てくれよ。",
-  "en": "",
-  "status": ""
+  "en": "You lot came to inspect, didn't you? Have a closer look at the results of our training.",
+  "status": "done"
  },
  {
   "id": "event_2157_0086C",
@@ -488,8 +488,8 @@
    12873
   ],
   "jp": "{voice:009502}どうだ、{n}俺達と模擬戦といこうぜ。",
-  "en": "",
-  "status": ""
+  "en": "How about it? Let's have a mock battle.",
+  "status": "done"
  },
  {
   "id": "event_2157_00892",
@@ -500,8 +500,8 @@
    12962
   ],
   "jp": "{voice:009602}何を言い出すかと思えば……",
-  "en": "",
-  "status": ""
+  "en": "And I wondered what he was going to say...",
+  "status": "done"
  },
  {
   "id": "event_2157_008B1",
@@ -512,8 +512,8 @@
    12980
   ],
   "jp": "{voice:009702}なんだ？　ビビってんのか？{n}貴族の子飼いさんよ。",
-  "en": "",
-  "status": ""
+  "en": "What's the matter? Scared? Mister noble's pet.",
+  "status": "done"
  },
  {
   "id": "event_2157_008E5",
@@ -524,8 +524,8 @@
    12990
   ],
   "jp": "{voice:009802}貴様らはクズだ。{n}貴族の威光を借り、さも自分の力{n}だと勘違いしているクズだ！",
-  "en": "",
-  "status": ""
+  "en": "You people are trash. Trash that borrows a noble's prestige and mistakes it for your own strength!",
+  "status": "done"
  },
  {
   "id": "event_2157_00934",
@@ -548,8 +548,8 @@
    13029
   ],
   "jp": "{voice:009A02}ガーロット、抑えて。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, hold it in.",
+  "status": "done"
  },
  {
   "id": "event_2157_0095C",
@@ -560,8 +560,8 @@
    13050
   ],
   "jp": "{voice:009B02}俺達の力は、そんなんじゃねぇ！",
-  "en": "",
-  "status": ""
+  "en": "That's not what our strength is!",
+  "status": "done"
  },
  {
   "id": "event_2157_0097F",
@@ -572,8 +572,8 @@
    13071
   ],
   "jp": "{voice:009C02}じゃあ来い、証明してみせろよ。{n}貴様ら自身の力を！",
-  "en": "",
-  "status": ""
+  "en": "Then come on, prove it. Prove your own strength!",
+  "status": "done"
  },
  {
   "id": "event_2157_009B5",
@@ -584,8 +584,8 @@
    13274
   ],
   "jp": "{voice:009D02}隊列を崩すな！{n}貴族様の腰巾着共に、{n}本当の戦いを見せつけてやれ！",
-  "en": "",
-  "status": ""
+  "en": "Hold the formation! Show these noble's lapdogs what real fighting is!",
+  "status": "done"
  },
  {
   "id": "event_2157_009FA",
@@ -596,8 +596,8 @@
    38955
   ],
   "jp": "{voice:009E02}バカな…、貴族の私兵ごときに、{n}この俺が敗れただと…？",
-  "en": "",
-  "status": ""
+  "en": "Impossible... Me, beaten by some noble's private army...?",
+  "status": "done"
  },
  {
   "id": "event_2157_00A34",
@@ -608,8 +608,8 @@
    42285
   ],
   "jp": "{voice:009F02}とんでもない突破力だった……",
-  "en": "",
-  "status": ""
+  "en": "That's some incredible force to break through...",
+  "status": "done"
  },
  {
   "id": "event_2157_00A55",
@@ -620,8 +620,8 @@
    42306
   ],
   "jp": "{voice:00A002}相手の疲弊が無ければ、{n}あたし達、負けていたかもね。",
-  "en": "",
-  "status": ""
+  "en": "If they hadn't been so worn out, we might have lost.",
+  "status": "done"
  },
  {
   "id": "event_2157_00A8D",
@@ -632,8 +632,8 @@
    42327
   ],
   "jp": "{voice:00A102}士気は確かに低かったけれど、{n}あの兵の練度の高さは、{n}流石じゃないかしら。",
-  "en": "",
-  "status": ""
+  "en": "Their morale was low, sure, but those soldiers were impressively well drilled.",
+  "status": "done"
  },
  {
   "id": "event_2157_00ADA",
@@ -644,8 +644,8 @@
    42334
   ],
   "jp": "{voice:00A202}見習うべき部分はあるわね。",
-  "en": "",
-  "status": ""
+  "en": "There's something to learn from that.",
+  "status": "done"
  },
  {
   "id": "event_2157_00AF9",
@@ -656,8 +656,8 @@
    42352
   ],
   "jp": "{voice:00A302}人格は、{n}真似したくはないけどね。",
-  "en": "",
-  "status": ""
+  "en": "Not that I'd want to copy his personality.",
+  "status": "done"
  },
  {
   "id": "event_2157_00B1F",
@@ -668,8 +668,8 @@
    42638
   ],
   "jp": "{voice:00A402}では、{n}僕達はティエラに戻ります。",
-  "en": "",
-  "status": ""
+  "en": "Well then, we'll be returning to Tiera.",
+  "status": "done"
  },
  {
   "id": "event_2157_00B45",
@@ -680,8 +680,8 @@
    42645
   ],
   "jp": "{voice:00A502}そう言えば、{n}レオン総隊長殿はどこに？",
-  "en": "",
-  "status": ""
+  "en": "Come to think of it, where is Commander Leon?",
+  "status": "done"
  },
  {
   "id": "event_2157_00B6F",
@@ -692,8 +692,8 @@
    42663
   ],
   "jp": "{voice:00A602}失礼をお詫び致します。{n}実はあれ以来、自室に籠もった{n}まま出てこられないのです。",
-  "en": "",
-  "status": ""
+  "en": "My apologies for the discourtesy. In fact, he has shut himself in his room and hasn't come out since.",
+  "status": "done"
  },
  {
   "id": "event_2157_00BC2",
@@ -704,8 +704,8 @@
    42681
   ],
   "jp": "{voice:00A702}……模擬戦で負けたのが{n}ショックだったのでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "...Perhaps losing the mock battle was a shock to him?",
+  "status": "done"
  },
  {
   "id": "event_2157_00BFA",
@@ -716,8 +716,8 @@
    42699
   ],
   "jp": "{voice:00A802}だとすると、{n}意外と繊細な人かもね。",
-  "en": "",
-  "status": ""
+  "en": "If so, he might be surprisingly sensitive.",
+  "status": "done"
  },
  {
   "id": "event_2157_00C22",
@@ -728,8 +728,8 @@
    42833
   ],
   "jp": "{voice:00A902}あの…、すみません……",
-  "en": "",
-  "status": ""
+  "en": "Um... Excuse me...",
+  "status": "done"
  },
  {
   "id": "event_2157_00C3D",
@@ -740,8 +740,8 @@
    42854
   ],
   "jp": "{voice:00AA02}おお、これはエレナ殿。",
-  "en": "",
-  "status": ""
+  "en": "Oh, Elena-dono.",
+  "status": "done"
  },
  {
   "id": "event_2157_00C58",
@@ -752,8 +752,8 @@
    42943
   ],
   "jp": "{voice:00AB02}紹介いたします。{n}レオン総隊長の妹君にあたる{n}エレナ殿です。",
-  "en": "",
-  "status": ""
+  "en": "Allow me to introduce her. This is Elena-dono, Commander Leon's younger sister.",
+  "status": "done"
  },
  {
   "id": "event_2157_00C97",
@@ -764,8 +764,8 @@
    42967
   ],
   "jp": "{voice:00AC02}妹？{n}に、似てない……",
-  "en": "",
-  "status": ""
+  "en": "Sister? Y-you don't look anything like him...",
+  "status": "done"
  },
  {
   "id": "event_2157_00CB1",
@@ -776,8 +776,8 @@
    42985
   ],
   "jp": "{voice:00AD02}兄が、ご迷惑をお掛けした{n}ご様子…どうか、代わりに{n}お詫びをさせてください。",
-  "en": "",
-  "status": ""
+  "en": "It seems my brother has caused you trouble... Please, allow me to apologize in his place.",
+  "status": "done"
  },
  {
   "id": "event_2157_00D00",
@@ -788,8 +788,8 @@
    43003
   ],
   "jp": "{voice:00AE02}お前が謝る事じゃない。{n}本人が言うべき事だ。",
-  "en": "",
-  "status": ""
+  "en": "You've got nothing to apologize for. He's the one who should say it.",
+  "status": "done"
  },
  {
   "id": "event_2157_00D30",
@@ -800,8 +800,8 @@
    43021
   ],
   "jp": "{voice:00AF02}確かに、その通りですね。{n}申し訳ありません……",
-  "en": "",
-  "status": ""
+  "en": "Yes, you are quite right. I am so sorry...",
+  "status": "done"
  },
  {
   "id": "event_2157_00D62",
@@ -812,8 +812,8 @@
    43028
   ],
   "jp": "{voice:00B002}両親が殺されてしまってから、{n}兄さんは、ああなってしまって、{n}他人に心を開けないのです。",
-  "en": "",
-  "status": ""
+  "en": "My brother has been like that ever since our parents were killed. He cannot open his heart to anyone.",
+  "status": "done"
  },
  {
   "id": "event_2157_00DBD",
@@ -824,8 +824,8 @@
    43046
   ],
   "jp": "{voice:00B102}両親を殺された？",
-  "en": "",
-  "status": ""
+  "en": "Your parents were killed?",
+  "status": "done"
  },
  {
   "id": "event_2157_00DD2",
@@ -836,8 +836,8 @@
    43064
   ],
   "jp": "{voice:00B202}私の両親は、皇帝陛下の親衛隊員{n}としてお仕えしていました。",
-  "en": "",
-  "status": ""
+  "en": "They served as members of His Majesty the Emperor's Imperial Guard.",
+  "status": "done"
  },
  {
   "id": "event_2157_00E10",
@@ -848,8 +848,8 @@
    43071
   ],
   "jp": "{voice:00B302}ですが、{n}外征先で軍規を破ったとして、{n}突然陛下の手で処刑されたのです。",
-  "en": "",
-  "status": ""
+  "en": "But on campaign they were charged with breaking military law, and His Majesty suddenly executed them.",
+  "status": "done"
  },
  {
   "id": "event_2157_00E5B",
@@ -860,8 +860,8 @@
    43089
   ],
   "jp": "{voice:00B402}ええっ…、いきなり③",
-  "en": "",
-  "status": ""
+  "en": "What...!? Just like that!?",
+  "status": "done"
  },
  {
   "id": "event_2157_00E74",
@@ -872,8 +872,8 @@
    43107
   ],
   "jp": "{voice:00B502}軍規破りの汚名は兄にも及び、{n}額に傷を刻まれ、帝都守護隊の職{n}を解かれて左遷されたのです。",
-  "en": "",
-  "status": ""
+  "en": "The disgrace reached my brother too. His forehead was scarred, and he lost his post in the capital guard.",
+  "status": "done"
  },
  {
   "id": "event_2157_00ED1",
@@ -884,8 +884,8 @@
    43125
   ],
   "jp": "{voice:00B602}あの皇帝が……、そうか。",
-  "en": "",
-  "status": ""
+  "en": "That Emperor... I see.",
+  "status": "done"
  },
  {
   "id": "event_2157_00EEE",
@@ -896,8 +896,8 @@
    43143
   ],
   "jp": "{voice:00B702}それから兄は、誰の言葉も信じず、{n}孤独を深めて行きました……",
-  "en": "",
-  "status": ""
+  "en": "After that, my brother would believe no one's words, and he grew more and more alone...",
+  "status": "done"
  },
  {
   "id": "event_2157_00F2E",
@@ -908,8 +908,8 @@
    43161
   ],
   "jp": "{voice:00B802}尊敬していた両親を失い、自分も{n}傷つけられた……、人間不信に{n}なってもおかしくありませんね。",
-  "en": "",
-  "status": ""
+  "en": "He lost the parents he respected, and was scarred himself... It is no wonder he cannot trust anyone.",
+  "status": "done"
  },
  {
   "id": "event_2157_00F8D",
@@ -920,8 +920,8 @@
    43329
   ],
   "jp": "{voice:00B902}エレナ！　余計な事を喋るな②",
-  "en": "",
-  "status": ""
+  "en": "Elena! Don't go blabbing nonsense!",
+  "status": "done"
  },
  {
   "id": "event_2157_00FAE",
@@ -932,8 +932,8 @@
    43347
   ],
   "jp": "{voice:00BA02}に、兄さん③",
-  "en": "",
-  "status": ""
+  "en": "B-brother!?",
+  "status": "done"
  },
  {
   "id": "event_2157_00FBF",
@@ -944,8 +944,8 @@
    43398
   ],
   "jp": "{voice:00BB02}（コイツは…、{n}　俺と同じかもしれない。）",
-  "en": "",
-  "status": ""
+  "en": "(This guy... He might be the same as me.)",
+  "status": "done"
  },
  {
   "id": "event_2157_00FED",
@@ -956,8 +956,8 @@
    43405
   ],
   "jp": "{voice:00BC02}（そうだ、理不尽な力に{n}　打ちのめされた男なんだ。）",
-  "en": "",
-  "status": ""
+  "en": "(Yeah, he's a man who got beaten down by unjust power.)",
+  "status": "done"
  },
  {
   "id": "event_2157_01025",
@@ -968,8 +968,8 @@
    43423
   ],
   "jp": "{voice:00BD02}（俺も一歩間違えば、コイツの{n}　ようになっていただろう。）",
-  "en": "",
-  "status": ""
+  "en": "(One wrong step, and I could've ended up just like him.)",
+  "status": "done"
  },
  {
   "id": "event_2157_01063",
@@ -980,8 +980,8 @@
    43474
   ],
   "jp": "{voice:00BE02}おい、貴様！{n}そんな眼で俺を見るな！{n}反吐が出るんだよ、まったく…",
-  "en": "",
-  "status": ""
+  "en": "Hey, you! Don't look at me with those eyes! You make me want to puke, I swear...",
+  "status": "done"
  },
  {
   "id": "event_2157_010A8",
@@ -992,8 +992,8 @@
    43492
   ],
   "jp": "{voice:00BF02}総隊長…、どちらへ？",
-  "en": "",
-  "status": ""
+  "en": "Commander... where are you going?",
+  "status": "done"
  },
  {
   "id": "event_2157_010C1",
@@ -1004,8 +1004,8 @@
    43513
   ],
   "jp": "{voice:00C002}こんな辺境の隊長なぞ、{n}もうやってられん！{n}俺は辞める…、辞任だ！",
-  "en": "",
-  "status": ""
+  "en": "I can't play captain of this backwater anymore! I quit... I resign!",
+  "status": "done"
  },
  {
   "id": "event_2157_01106",
@@ -1016,8 +1016,8 @@
    43531
   ],
   "jp": "{voice:00C102}後任が来るまで、{n}貴様ら将校で適当にやってろ。{n}じゃあな。",
-  "en": "",
-  "status": ""
+  "en": "Until my replacement gets here, you officers do whatever. So long.",
+  "status": "done"
  },
  {
   "id": "event_2157_01143",
@@ -1028,8 +1028,8 @@
    43549
   ],
   "jp": "{voice:00C202}おい待て、レオン！",
-  "en": "",
-  "status": ""
+  "en": "Hey, wait, Leon!",
+  "status": "done"
  },
  {
   "id": "event_2157_0115A",
@@ -1040,8 +1040,8 @@
    43570
   ],
   "jp": "{voice:00C302}なんだよ、貴族の子飼いさんよ。",
-  "en": "",
-  "status": ""
+  "en": "What is it, mister noble's pet?",
+  "status": "done"
  },
  {
   "id": "event_2157_0117D",
@@ -1064,8 +1064,8 @@
    43606
   ],
   "jp": "{voice:00C402}……いや、何でもない。",
-  "en": "",
-  "status": ""
+  "en": "...No, never mind.",
+  "status": "done"
  },
  {
   "id": "event_2157_011A3",
@@ -1076,8 +1076,8 @@
    43624
   ],
   "jp": "{voice:00C502}けっ、{n}その眼で見るなと言っただろ。",
-  "en": "",
-  "status": ""
+  "en": "Tch, I told you not to look at me with those eyes.",
+  "status": "done"
  },
  {
   "id": "event_2157_011CB",
@@ -1088,8 +1088,8 @@
    43743
   ],
   "jp": "{voice:00C602}エレナ…、あなたも行くの？",
-  "en": "",
-  "status": ""
+  "en": "Elena... you're going too?",
+  "status": "done"
  },
  {
   "id": "event_2157_011EA",
@@ -1100,8 +1100,8 @@
    43761
   ],
   "jp": "{voice:00C702}これ以上、{n}兄をひとりにはできませんから。",
-  "en": "",
-  "status": ""
+  "en": "I cannot leave my brother alone any longer.",
+  "status": "done"
  },
  {
   "id": "event_2157_01218",
@@ -1112,8 +1112,8 @@
    43841
   ],
   "jp": "{voice:00C802}……総隊長が行ってしまわれた。{n}あの人は、竜巻のような人だった。",
-  "en": "",
-  "status": ""
+  "en": "...The commander has gone. That man was like a tornado.",
+  "status": "done"
  },
  {
   "id": "event_2157_0125C",
@@ -1124,8 +1124,8 @@
    43887
   ],
   "jp": "{voice:00C902}狂戦士レオンか……{n}誰の為に狂っているのかしらね。",
-  "en": "",
-  "status": ""
+  "en": "Leon the Berserker... I wonder who he's gone mad for.",
+  "status": "done"
  },
  {
   "id": "event_2157_01292",
@@ -1136,8 +1136,8 @@
    37724
   ],
   "jp": "俺達を侮辱するな！",
-  "en": "",
-  "status": ""
+  "en": "Don't you insult us!",
+  "status": "done"
  },
  {
   "id": "event_2157_012A5",
@@ -1148,8 +1148,8 @@
    37745
   ],
   "jp": "フッ！{n}貴様らがどれだけ弱いか、{n}思い知らせてやる……",
-  "en": "",
-  "status": ""
+  "en": "Heh! I'll show you just how weak you are...",
+  "status": "done"
  },
  {
   "id": "event_2157_012DA",
@@ -1160,8 +1160,8 @@
    37974
   ],
   "jp": "俺の喧嘩を買った事、{n}後悔させてやる。",
-  "en": "",
-  "status": ""
+  "en": "I'll make you regret taking up my fight.",
+  "status": "done"
  },
  {
   "id": "event_2157_01300",
@@ -1172,8 +1172,8 @@
    37992
   ],
   "jp": "私達が負けると思ってんだ！",
-  "en": "",
-  "status": ""
+  "en": "You think we're going to lose, huh!",
+  "status": "done"
  },
  {
   "id": "event_2157_0131B",
@@ -1184,8 +1184,8 @@
    38221
   ],
   "jp": "優男に女…、{n}本当に貴様らは戦いを{n}舐めすぎている。",
-  "en": "",
-  "status": ""
+  "en": "A pretty boy and a girl... You people really do make light of battle.",
+  "status": "done"
  },
  {
   "id": "event_2157_0134E",
@@ -1196,8 +1196,8 @@
    38239
   ],
   "jp": "人を見た目で判断するなってね！",
-  "en": "",
-  "status": ""
+  "en": "Don't judge people by their looks, as they say!",
+  "status": "done"
  },
  {
   "id": "event_2157_0136D",
@@ -1208,8 +1208,8 @@
    38465
   ],
   "jp": "用兵も武術も見事だ…{n}だが、お前の槍には淀みしかない！",
-  "en": "",
-  "status": ""
+  "en": "Your tactics and your martial arts are splendid... But your spear holds nothing but stagnation!",
+  "status": "done"
  },
  {
   "id": "event_2157_013A3",
@@ -1220,8 +1220,8 @@
    38486
   ],
   "jp": "デカイ口を叩くじゃねぇか…{n}なら、見事に受け止めてみろや！",
-  "en": "",
-  "status": ""
+  "en": "Big talk... Then let's see you take it!",
+  "status": "done"
  },
  {
   "id": "event_2157_013DD",
@@ -1232,8 +1232,8 @@
    38715
   ],
   "jp": "ククク…、貴様の剣には、{n}強い怨嗟がこもっているな……",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh... Your sword is thick with bitter hatred...",
+  "status": "done"
  },
  {
   "id": "event_2157_01413",
@@ -1244,8 +1244,8 @@
    38736
   ],
   "jp": "……ふざけた男。",
-  "en": "",
-  "status": ""
+  "en": "...What a ridiculous man.",
+  "status": "done"
  },
  {
   "id": "event_2157_01424",
@@ -1256,8 +1256,8 @@
    39366
   ],
   "jp": "アンタの兵、疲れ切っているぜ。",
-  "en": "",
-  "status": ""
+  "en": "Your soldiers are exhausted, you know.",
+  "status": "done"
  },
  {
   "id": "event_2157_01443",
@@ -1268,8 +1268,8 @@
    39384
   ],
   "jp": "……少しはできるようだな。{n}だが、いつまで持つかな？",
-  "en": "",
-  "status": ""
+  "en": "...Seems you can do a little. But how long will you last?",
+  "status": "done"
  },
  {
   "id": "event_2157_01477",
@@ -1280,8 +1280,8 @@
    39709
   ],
   "jp": "チィッ、弓兵だとはな！",
-  "en": "",
-  "status": ""
+  "en": "Tch, archers, huh!",
+  "status": "done"
  },
  {
   "id": "event_2157_0148E",
@@ -1292,8 +1292,8 @@
    39727
   ],
   "jp": "それって負け惜しみのつもり？",
-  "en": "",
-  "status": ""
+  "en": "Is that supposed to be a sore loser's line?",
+  "status": "done"
  },
  {
   "id": "event_2157_014AB",

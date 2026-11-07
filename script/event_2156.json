@@ -2163,8 +2163,8 @@
    51611
   ],
   "jp": "{voice:004802}助けて頂いた事を感謝します。",
-  "en": "",
-  "status": ""
+  "en": "Thank you for saving us.",
+  "status": "done"
  },
  {
   "id": "event_2156_06D66",
@@ -2175,8 +2175,8 @@
    51629
   ],
   "jp": "{voice:004902}改めまして、{n}私はルシエナと申します。{n}そしてこれが妹のアイギナです。",
-  "en": "",
-  "status": ""
+  "en": "Allow me to introduce myself properly. I am Luciana, and this is my sister, Aegina.",
+  "status": "done"
  },
  {
   "id": "event_2156_06DAF",
@@ -2187,8 +2187,8 @@
    51650
   ],
   "jp": "{voice:004A02}もしかして、双子？",
-  "en": "",
-  "status": ""
+  "en": "Wait, are you twins?",
+  "status": "done"
  },
  {
   "id": "event_2156_06DC6",
@@ -2199,8 +2199,8 @@
    51671
   ],
   "jp": "{voice:004B02}はい。",
-  "en": "",
-  "status": ""
+  "en": "Yes.",
+  "status": "done"
  },
  {
   "id": "event_2156_06DD1",
@@ -2211,8 +2211,8 @@
    51692
   ],
   "jp": "{voice:004C02}並ぶと見分けがつかないね。",
-  "en": "",
-  "status": ""
+  "en": "Side by side, I can't tell you apart.",
+  "status": "done"
  },
  {
   "id": "event_2156_06DF0",
@@ -2223,8 +2223,8 @@
    51784
   ],
   "jp": "{voice:004D02}さあ、アイギナ行きましょう。{n}荷物をまとめ、旅に出るのです。",
-  "en": "",
-  "status": ""
+  "en": "Come, Aegina, let us go. We will pack our things and set out.",
+  "status": "done"
  },
  {
   "id": "event_2156_06E30",
@@ -2235,8 +2235,8 @@
    51808
   ],
   "jp": "{voice:004E02}待って、ルシエナ姉さん！{n}姉さんのその脚じゃ旅は無理よ。",
-  "en": "",
-  "status": ""
+  "en": "Wait, Luciana! You cannot travel on that leg of yours.",
+  "status": "done"
  },
  {
   "id": "event_2156_06E6C",
@@ -2247,8 +2247,8 @@
    51829
   ],
   "jp": "{voice:004F02}しかし、{n}アルベルト様は亡くなられた……{n}もう私達の居場所はないのよ。",
-  "en": "",
-  "status": ""
+  "en": "But Albelt-sama is gone... There is no place left for us here.",
+  "status": "done"
  },
  {
   "id": "event_2156_06EB5",
@@ -2259,8 +2259,8 @@
    51921
   ],
   "jp": "{voice:005002}待て、アルベルトとは、{n}この地の領主アルベルト侯爵殿か？",
-  "en": "",
-  "status": ""
+  "en": "Wait, Albelt? Do you mean the lord of this land, Marquis Albelt?",
+  "status": "done"
  },
  {
   "id": "event_2156_06EF1",
@@ -2271,8 +2271,8 @@
    51942
   ],
   "jp": "{voice:005102}……はい。{n}アルベルト侯爵は、{n}私達の養父です。",
-  "en": "",
-  "status": ""
+  "en": "...Yes. Marquis Albelt is our adoptive father.",
+  "status": "done"
  },
  {
   "id": "event_2156_06F24",
@@ -2283,8 +2283,8 @@
    51963
   ],
   "jp": "{voice:005202}アルベルト様は、神生教団から{n}私達を守ろうとして…",
-  "en": "",
-  "status": ""
+  "en": "Albelt-sama was trying to protect us from the Blessed Papal Army...",
+  "status": "done"
  },
  {
   "id": "event_2156_06F5A",
@@ -2295,8 +2295,8 @@
    51984
   ],
   "jp": "{voice:005302}神生教団…、聞いた事がないな。{n}それがさっきの連中か？",
-  "en": "",
-  "status": ""
+  "en": "Blessed Papal Army... Never heard of it. Is that who those people were?",
+  "status": "done"
  },
  {
   "id": "event_2156_06F94",
@@ -2307,8 +2307,8 @@
    52005
   ],
   "jp": "{voice:005402}ルシエナさん、妹さんの言う通り{n}その脚じゃ旅は無理だ。{n}考え直した方がいい。",
-  "en": "",
-  "status": ""
+  "en": "Luciana-san, your sister is right. You can't travel on that leg. You should think again.",
+  "status": "done"
  },
  {
   "id": "event_2156_06FE3",
@@ -2319,8 +2319,8 @@
    52026
   ],
   "jp": "{voice:005502}そうよ。{n}次に襲われたら、{n}絶対に逃げられない。",
-  "en": "",
-  "status": ""
+  "en": "That's right. If they attack you again, you'll never get away.",
+  "status": "done"
  },
  {
   "id": "event_2156_07016",
@@ -2331,8 +2331,8 @@
    52090
   ],
   "jp": "{voice:005602}私達には、その選択肢しか{n}残されていないのです。",
-  "en": "",
-  "status": ""
+  "en": "That is the only choice left to us.",
+  "status": "done"
  },
  {
   "id": "event_2156_0704A",
@@ -2343,8 +2343,8 @@
    52182
   ],
   "jp": "{voice:005702}ならば、グラムブレイズに{n}籍を置けばいい。{n}二人共だ。",
-  "en": "",
-  "status": ""
+  "en": "Then enroll in Gram Blaze. Both of you.",
+  "status": "done"
  },
  {
   "id": "event_2156_07083",
@@ -2355,8 +2355,8 @@
    52203
   ],
   "jp": "{voice:005802}どういう事ですか？",
-  "en": "",
-  "status": ""
+  "en": "What do you mean?",
+  "status": "done"
  },
  {
   "id": "event_2156_0709A",
@@ -2367,8 +2367,8 @@
    52224
   ],
   "jp": "{voice:005902}私兵団の中にいれば、{n}刺客の襲撃も防げるだろう。{n}我々としても戦力の増強になる。",
-  "en": "",
-  "status": ""
+  "en": "Inside a private army, you could fend off the assassins. And for us, it would add to our strength.",
+  "status": "done"
  },
  {
   "id": "event_2156_070ED",
@@ -2379,8 +2379,8 @@
    52245
   ],
   "jp": "{voice:005A02}いいのか、それで？",
-  "en": "",
-  "status": ""
+  "en": "You're fine with that?",
+  "status": "done"
  },
  {
   "id": "event_2156_07104",
@@ -2391,8 +2391,8 @@
    52266
   ],
   "jp": "{voice:005B02}意外だという顔だな。",
-  "en": "",
-  "status": ""
+  "en": "You look surprised.",
+  "status": "done"
  },
  {
   "id": "event_2156_0711D",
@@ -2403,8 +2403,8 @@
    52287
   ],
   "jp": "{voice:005C02}なるほど、そう言う事ですか。{n}ヴェルマン方伯、{n}狙いはこの街ですね？",
-  "en": "",
-  "status": ""
+  "en": "Ah, so that's it. Margrave Velleman, you're after this town, aren't you?",
+  "status": "done"
  },
  {
   "id": "event_2156_07164",
@@ -2415,8 +2415,8 @@
    52308
   ],
   "jp": "{voice:005D02}そうだ…、二人は侯爵殿の養子。{n}つまり、当然相続権が発生する…",
-  "en": "",
-  "status": ""
+  "en": "Indeed... They are the Marquis's adopted children, so naturally they have inheritance rights...",
+  "status": "done"
  },
  {
   "id": "event_2156_071A6",
@@ -2427,8 +2427,8 @@
    52315
   ],
   "jp": "{voice:005E02}二人がグラムブレイズに入り{n}そして、私が後見人となる。",
-  "en": "",
-  "status": ""
+  "en": "The two enter Gram Blaze, and I become their guardian.",
+  "status": "done"
  },
  {
   "id": "event_2156_071E0",
@@ -2439,8 +2439,8 @@
    52322
   ],
   "jp": "{voice:005F02}結果として、侯爵殿の領地は、{n}君達が成人するまで、{n}実質私が支配できる事になる。",
-  "en": "",
-  "status": ""
+  "en": "The result being that until you come of age, I effectively control the Marquis's lands.",
+  "status": "done"
  },
  {
   "id": "event_2156_07233",
@@ -2451,8 +2451,8 @@
    52329
   ],
   "jp": "{voice:006002}これが君達を守る交換条件だ。{n}どうだ、呑んで頂けるか？",
-  "en": "",
-  "status": ""
+  "en": "Such are my terms for protecting you. Well, will you accept?",
+  "status": "done"
  },
  {
   "id": "event_2156_0726D",
@@ -2463,8 +2463,8 @@
    52350
   ],
   "jp": "{voice:006102}ンー、なんか、{n}汚いような、そうでないような…",
-  "en": "",
-  "status": ""
+  "en": "Hmm, somehow that seems dirty, but also not...",
+  "status": "done"
  },
  {
   "id": "event_2156_0729F",
@@ -2475,8 +2475,8 @@
    52456
   ],
   "jp": "{voice:006202}……姉さん。",
-  "en": "",
-  "status": ""
+  "en": "...Sister.",
+  "status": "done"
  },
  {
   "id": "event_2156_072B0",
@@ -2487,8 +2487,8 @@
    52477
   ],
   "jp": "{voice:006302}その提案、呑ませて頂きます。{n}但し、条件があります。",
-  "en": "",
-  "status": ""
+  "en": "We accept your proposal. There is one condition, however.",
+  "status": "done"
  },
  {
   "id": "event_2156_072E8",
@@ -2499,8 +2499,8 @@
    52495
   ],
   "jp": "{voice:006402}私達の事は、{n}どうぞルシエナ、アイギナと{n}呼び捨てにして頂けませんか？",
-  "en": "",
-  "status": ""
+  "en": "Please, simply call us Luciana and Aegina, with no titles.",
+  "status": "done"
  },
  {
   "id": "event_2156_07331",
@@ -2511,8 +2511,8 @@
    52516
   ],
   "jp": "{voice:006502}決まりだね、二人とも。{n}まずはルシエナの脚を治す事が{n}先決だよね。",
-  "en": "",
-  "status": ""
+  "en": "It's settled then, you two. The first order of business is healing Luciana's leg.",
+  "status": "done"
  },
  {
   "id": "event_2156_07376",
@@ -2523,8 +2523,8 @@
    52686
   ],
   "jp": "{voice:006602}もう一つ、聞かせてもらおう。{n}君達の本当の親は誰だ？",
-  "en": "",
-  "status": ""
+  "en": "One more question, if I may. Who are your true parents?",
+  "status": "done"
  },
  {
   "id": "event_2156_073AE",
@@ -2535,8 +2535,8 @@
    52707
   ],
   "jp": "{voice:006702}……申し訳ありませんが、{n}それは私達も知りません。",
-  "en": "",
-  "status": ""
+  "en": "...I am sorry, but even we do not know that.",
+  "status": "done"
  },
  {
   "id": "event_2156_073E4",

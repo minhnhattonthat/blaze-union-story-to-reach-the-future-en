@@ -1592,8 +1592,8 @@
    35724
   ],
   "jp": "人の気配がない…{n}暖炉を使った形跡もないわ。",
-  "en": "",
-  "status": ""
+  "en": "No sign of anyone... The fireplace hasn't been used, either.",
+  "status": "done"
  },
  {
   "id": "event_2161_01B2D",
@@ -1604,8 +1604,8 @@
    35810
   ],
   "jp": "…リンゴが置いてある。{n}この寒さだ。{n}まだ食べれるかしらね？",
-  "en": "",
-  "status": ""
+  "en": "...There's an apple here. In this cold, I wonder if it's still good to eat?",
+  "status": "done"
  },
  {
   "id": "event_2161_01B68",
@@ -1616,8 +1616,8 @@
    35914
   ],
   "jp": "この小屋は無人ですか…{n}当てが外れましたね。",
-  "en": "",
-  "status": ""
+  "en": "This hut is empty... My guess was wrong.",
+  "status": "done"
  },
  {
   "id": "event_2161_01B94",
@@ -1628,8 +1628,8 @@
    36000
   ],
   "jp": "あら、リンゴですね。{n}悪い虫が付いていなければ{n}食べても大丈夫でしょうか…？",
-  "en": "",
-  "status": ""
+  "en": "Oh, an apple. If there are no bugs in it, I suppose it is safe to eat...?",
+  "status": "done"
  },
  {
   "id": "event_2161_01BDF",
@@ -1640,8 +1640,8 @@
    36104
   ],
   "jp": "この小屋には誰もおらん…{n}寄らんでもよかったな。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Nobody is in this hut. What a shack! Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2161_01C1E",
@@ -1652,8 +1652,8 @@
    36190
   ],
   "jp": "お、リンゴか！　リンゴ程度では、{n}バイフーの腹には物足りんご！{n}なーんつって……",
-  "en": "",
-  "status": ""
+  "en": "Oh, an apple! One apple is not enough for Byff's stomach. Byff must apple-y for more! Ha, just kidding...",
+  "status": "done"
  },
  {
   "id": "event_2161_01C6D",
@@ -1664,8 +1664,8 @@
    36864
   ],
   "jp": "…この小屋は無人ね。{n}せっかく来たのに、もう。",
-  "en": "",
-  "status": ""
+  "en": "...This hut's empty. And I came all this way, honestly.",
+  "status": "done"
  },
  {
   "id": "event_2161_01C9B",
@@ -1676,8 +1676,8 @@
    36950
   ],
   "jp": "…こんな山奥まで来た報酬が{n}リンゴ１つじゃあ、{n}あまりに物足りないわよねぇ…",
-  "en": "",
-  "status": ""
+  "en": "...One apple as my reward for coming this deep into the mountains? That's hardly enough...",
+  "status": "done"
  },
  {
   "id": "event_2161_01CE6",
@@ -1688,8 +1688,8 @@
    36294
   ],
   "jp": "おーい、誰かいるかーい？{n}…いないのかな。",
-  "en": "",
-  "status": ""
+  "en": "Hey, anyone in there? ...Guess not.",
+  "status": "done"
  },
  {
   "id": "event_2161_01D10",
@@ -1700,8 +1700,8 @@
    36380
   ],
   "jp": "おや、リンゴが置いてあるな。{n}コレ食べていいのかな？{n}…泥棒にはならないよね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, there's an apple here. Can I eat this? ...It's not stealing, right?",
+  "status": "done"
  },
  {
   "id": "event_2161_01D5D",
@@ -1712,8 +1712,8 @@
    36674
   ],
   "jp": "ウィ～ック！　ヒック②{n}遭難者よーい、出ておいで～。",
-  "en": "",
-  "status": ""
+  "en": "*hiiic*! *hic*! Hey, lost person, come on out~",
+  "status": "done"
  },
  {
   "id": "event_2161_01D91",
@@ -1724,8 +1724,8 @@
    36760
   ],
   "jp": "…遭難者はおらなんだが{n}リンゴはあった、と…{n}すり下ろして果実酒でも作るかね。",
-  "en": "",
-  "status": ""
+  "en": "...No lost person, but there was an apple... Maybe I'll grate it and make fruit liquor.",
+  "status": "done"
  },
  {
   "id": "event_2161_01DDE",
@@ -1736,8 +1736,8 @@
    36484
   ],
   "jp": "…遭難者、いるんでしょ？{n}パメラ様が捜してあげてんだから、{n}出てくるのが筋だわさ！",
-  "en": "",
-  "status": ""
+  "en": "...You're in here, aren't you? Pamela-sama's looking for you, so you oughta come out, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2161_01E2F",
@@ -1748,8 +1748,8 @@
    36570
   ],
   "jp": "ムムッ！　リンゴ③{n}こんなリンゴ程度で話をつけよう{n}なんて、甘すぎるわよっ②",
-  "en": "",
-  "status": ""
+  "en": "Hm! An apple!? If you think an apple's enough to settle this, you're way too sweet!",
+  "status": "done"
  },
  {
   "id": "event_2161_01E7A",
@@ -1760,8 +1760,8 @@
    37096
   ],
   "jp": "こんな雪山でも{n}実をつける木があるのか…{n}たくましいな。",
-  "en": "",
-  "status": ""
+  "en": "Even on a snowy mountain like this, there's a tree that bears fruit... Tough thing.",
+  "status": "done"
  },
  {
   "id": "event_2161_01EB1",
@@ -1772,8 +1772,8 @@
    37182
   ],
   "jp": "力を分けてもらえるかもな。{n}１ついただいて行くぜ。",
-  "en": "",
-  "status": ""
+  "en": "Might share some of its strength with me. I'll take one.",
+  "status": "done"
  },
  {
   "id": "event_2161_01EE3",
@@ -1784,8 +1784,8 @@
    37286
   ],
   "jp": "大きな木ね…",
-  "en": "",
-  "status": ""
+  "en": "What a big tree...",
+  "status": "done"
  },
  {
   "id": "event_2161_01EF0",
@@ -1796,8 +1796,8 @@
    37372
   ],
   "jp": "木の実が生ってるわ…{n}美味しいのかしら？",
-  "en": "",
-  "status": ""
+  "en": "There's nuts growing on it... I wonder if they taste good?",
+  "status": "done"
  },
  {
   "id": "event_2161_01F18",
@@ -1808,8 +1808,8 @@
    37476
   ],
   "jp": "この植物って…{n}以前図鑑で見た覚えがあるな。",
-  "en": "",
-  "status": ""
+  "en": "This plant... I remember seeing it once in a field guide.",
+  "status": "done"
  },
  {
   "id": "event_2161_01F44",
@@ -1820,8 +1820,8 @@
    37562
   ],
   "jp": "確かこの木の実は{n}滋養強壮効果が高いんだよね。{n}１つもらっておこうか。",
-  "en": "",
-  "status": ""
+  "en": "If I recall, these nuts are very good for your strength. I'll take one.",
+  "status": "done"
  },
  {
   "id": "event_2161_01F89",
@@ -1832,8 +1832,8 @@
    37666
   ],
   "jp": "珍しい木だな…{n}あたしも見るのは初めてだわ。",
-  "en": "",
-  "status": ""
+  "en": "What an unusual tree... It's my first time seeing one myself.",
+  "status": "done"
  },
  {
   "id": "event_2161_01FB5",
@@ -1844,8 +1844,8 @@
    37752
   ],
   "jp": "木の実をつけてる。{n}…邸宅に帰ったら、{n}食べれるかどうか調べてみよう。",
-  "en": "",
-  "status": ""
+  "en": "It's got nuts on it. ...When I get back to the quarters, I'll check if they're edible.",
+  "status": "done"
  },
  {
   "id": "event_2161_01FFA",
@@ -1856,8 +1856,8 @@
    37856
   ],
   "jp": "すごく太い木…{n}雪山で生きるには、これほどの{n}力強さが必要なんですね。",
-  "en": "",
-  "status": ""
+  "en": "Such a thick tree... To live on a snowy mountain, one must need this much strength.",
+  "status": "done"
  },
  {
   "id": "event_2161_0203F",
@@ -1868,8 +1868,8 @@
    37942
   ],
   "jp": "…木の実がありますね。{n}身体にはよさそうな気がしますね。",
-  "en": "",
-  "status": ""
+  "en": "...There are nuts here. They seem as though they would be good for the body.",
+  "status": "done"
  },
  {
   "id": "event_2161_02077",
@@ -1880,8 +1880,8 @@
    38046
   ],
   "jp": "モヴモヴの木だな。{n}雪国ではよく見かけてたが…",
-  "en": "",
-  "status": ""
+  "en": "A movmov tree. Byff saw these often in snow country...",
+  "status": "done"
  },
  {
   "id": "event_2161_020A5",
@@ -1892,8 +1892,8 @@
    38132
   ],
   "jp": "木の実が生ってるな。{n}コイツ、美味いんだよな。",
-  "en": "",
-  "status": ""
+  "en": "There are nuts on it. These are delicious.",
+  "status": "done"
  },
  {
   "id": "event_2161_020D3",
@@ -1904,8 +1904,8 @@
    38806
   ],
   "jp": "…見たことのない木ね。{n}名前はあるのかしら？",
-  "en": "",
-  "status": ""
+  "en": "...A tree I've never seen. I wonder if it has a name?",
+  "status": "done"
  },
  {
   "id": "event_2161_020FF",
@@ -1916,8 +1916,8 @@
    38892
   ],
   "jp": "木の実が生ってるわ。{n}どれ、１ついただくわね。",
-  "en": "",
-  "status": ""
+  "en": "There's nuts growing on it. Well, I'll take one.",
+  "status": "done"
  },
  {
   "id": "event_2161_0212D",
@@ -1928,8 +1928,8 @@
    38236
   ],
   "jp": "おや？　ゴツイ木だなぁ。",
-  "en": "",
-  "status": ""
+  "en": "Oh? That's one rugged tree.",
+  "status": "done"
  },
  {
   "id": "event_2161_02146",
@@ -1940,8 +1940,8 @@
    38322
   ],
   "jp": "木の実をつけてるな。{n}お高いものかもしれない、{n}もらっておこうぜ。",
-  "en": "",
-  "status": ""
+  "en": "It's got nuts on it. Might be pricey, so I'll take some.",
+  "status": "done"
  },
  {
   "id": "event_2161_02187",
@@ -1952,8 +1952,8 @@
    38616
   ],
   "jp": "ぶっとい木ねぇ…{n}ヒック！",
-  "en": "",
-  "status": ""
+  "en": "That's one fat tree... *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2161_021A1",
@@ -1964,8 +1964,8 @@
    38702
   ],
   "jp": "木が太いだけに、{n}木の実もデカイわね…{n}ウィ～…",
-  "en": "",
-  "status": ""
+  "en": "A fat tree, so the nuts are big too... Ooh...",
+  "status": "done"
  },
  {
   "id": "event_2161_021D0",
@@ -1976,8 +1976,8 @@
    38426
   ],
   "jp": "ウホッ！{n}これはまた、ゴツイ木ねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Whoa! What a rugged tree this is.",
+  "status": "done"
  },
  {
   "id": "event_2161_021F4",
@@ -1988,8 +1988,8 @@
    38512
   ],
   "jp": "木の実が生えてるわね…{n}別段魔力は感じないけど、{n}一応ゲットしちゃおうかしら？",
-  "en": "",
-  "status": ""
+  "en": "There's nuts growing on it... I don't feel any magic, but maybe I'll grab one just in case?",
+  "status": "done"
  },
  {
   "id": "event_2161_02241",
@@ -2000,8 +2000,8 @@
    39038
   ],
   "jp": "しかし、ここいらの雪って{n}溶けたりしないのかな…",
-  "en": "",
-  "status": ""
+  "en": "Still, does the snow around here ever melt...",
+  "status": "done"
  },
  {
   "id": "event_2161_02271",
@@ -2012,8 +2012,8 @@
    39124
   ],
   "jp": "ひょっとしたら、{n}溶けないんじゃないか？{n}ちょっと持ち帰ってみるか。",
-  "en": "",
-  "status": ""
+  "en": "Maybe it doesn't? I'll take a little back with me.",
+  "status": "done"
  },
  {
   "id": "event_2161_022B4",
@@ -2024,8 +2024,8 @@
    39228
   ],
   "jp": "流石にもう見慣れちゃったけど{n}雪ってやっぱ珍しいわよね。",
-  "en": "",
-  "status": ""
+  "en": "I've gotten used to it by now, but snow's still kind of rare, isn't it?",
+  "status": "done"
  },
  {
   "id": "event_2161_022EC",
@@ -2036,8 +2036,8 @@
    39314
   ],
   "jp": "せっかく来たんだし、{n}記念に持ち帰ってみよう、っと。",
-  "en": "",
-  "status": ""
+  "en": "Since I'm here, I'll take some home as a souvenir.",
+  "status": "done"
  },
  {
   "id": "event_2161_02320",
@@ -2048,8 +2048,8 @@
    39418
   ],
   "jp": "…そういえば、長い間積もった{n}ままの雪には魔力がこもる、って{n}何かの本に書いてあったな。",
-  "en": "",
-  "status": ""
+  "en": "...Come to think of it, some book said snow that's lain for a long time holds magic power.",
+  "status": "done"
  },
  {
   "id": "event_2161_02377",
@@ -2060,8 +2060,8 @@
    39504
   ],
   "jp": "それが本当なら、{n}気温が高くても溶けないはず…{n}ためしに持ち帰ってみようか。",
-  "en": "",
-  "status": ""
+  "en": "If that's true, it shouldn't melt even when it's warm... Let's take some back and see.",
+  "status": "done"
  },
  {
   "id": "event_2161_023C2",
@@ -2072,8 +2072,8 @@
    39608
   ],
   "jp": "千年雪って、暖かい場所に{n}持って行っても溶けないって{n}聞いた事があるけど……",
-  "en": "",
-  "status": ""
+  "en": "I've heard thousand-year snow doesn't melt even if you take it somewhere warm...",
+  "status": "done"
  },
  {
   "id": "event_2161_0240D",
@@ -2084,8 +2084,8 @@
    39694
   ],
   "jp": "本当なのかしら？{n}試しに持ち帰ってみようか。",
-  "en": "",
-  "status": ""
+  "en": "Is that true, I wonder? Let's take some back and see.",
+  "status": "done"
  },
  {
   "id": "event_2161_02439",
@@ -2096,8 +2096,8 @@
    39798
   ],
   "jp": "しかし、一面銀世界ですね…{n}邸宅で留守番してる姉さんにも、{n}この雪を見せてあげたい…",
-  "en": "",
-  "status": ""
+  "en": "It is a silver world in every direction... I wish my sister, waiting at the quarters, could see this snow...",
+  "status": "done"
  },
  {
   "id": "event_2161_0248C",
@@ -2108,8 +2108,8 @@
    39884
   ],
   "jp": "そうだ、雪を持って帰りましょう。{n}こんなに積もってるんですもの、{n}すぐには溶けませんよね、きっと。",
-  "en": "",
-  "status": ""
+  "en": "I know, I will bring some snow back. With this much of it, it surely will not melt right away.",
+  "status": "done"
  },
  {
   "id": "event_2161_024ED",
@@ -2120,8 +2120,8 @@
    39984
   ],
   "jp": "…雪があると落ち着くな…",
-  "en": "",
-  "status": ""
+  "en": "...Snow makes Byff feel at ease...",
+  "status": "done"
  },
  {
   "id": "event_2161_02506",
@@ -2132,8 +2132,8 @@
    40002
   ],
   "jp": "試しに喰ってみるか。{n}モグモグ…",
-  "en": "",
-  "status": ""
+  "en": "Byff will try eating some. *munch munch*...",
+  "status": "done"
  },
  {
   "id": "event_2161_02526",
@@ -2156,8 +2156,8 @@
    40042
   ],
   "jp": "う、美味いッ②",
-  "en": "",
-  "status": ""
+  "en": "D-delicious!",
+  "status": "done"
  },
  {
   "id": "event_2161_0253C",
@@ -2168,8 +2168,8 @@
    40128
   ],
   "jp": "ここの雪は美味い！{n}お持ち帰りしよう②",
-  "en": "",
-  "status": ""
+  "en": "The snow here is delicious! Byff will take some to go!",
+  "status": "done"
  },
  {
   "id": "event_2161_02562",
@@ -2180,8 +2180,8 @@
    40802
   ],
   "jp": "…そういえば、長く積もった{n}雪には魔力が蓄えられる、{n}って聞いた事があるわね。",
-  "en": "",
-  "status": ""
+  "en": "...Come to think of it, I've heard snow that's lain a long time stores up magic power.",
+  "status": "done"
  },
  {
   "id": "event_2161_025AF",
@@ -2192,8 +2192,8 @@
    40888
   ],
   "jp": "それが本当なら、暖かい場所に{n}持って行っても溶けないわね。{n}試しに持ち帰ってみましょ。",
-  "en": "",
-  "status": ""
+  "en": "If so, it won't melt even if I take it somewhere warm. Let's take some back and see.",
+  "status": "done"
  },
  {
   "id": "event_2161_02604",
@@ -2204,8 +2204,8 @@
    40232
   ],
   "jp": "雪って、初めて見たよ…",
-  "en": "",
-  "status": ""
+  "en": "This is my first time seeing snow...",
+  "status": "done"
  },
  {
   "id": "event_2161_0261B",
@@ -2216,8 +2216,8 @@
    40318
   ],
   "jp": "持ち帰ろう。{n}珍しいモノだからな♪",
-  "en": "",
-  "status": ""
+  "en": "I'll take some back. It's a rare thing, after all ♪",
+  "status": "done"
  },
  {
   "id": "event_2161_0263D",
@@ -2228,8 +2228,8 @@
    40612
   ],
   "jp": "行軍中でもなけりゃあ{n}雪見酒と洒落込むところだけど…{n}…ヒグッ！",
-  "en": "",
-  "status": ""
+  "en": "If we weren't on the march, I'd be having a nice snow-viewing drink... *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2161_0267C",
@@ -2240,8 +2240,8 @@
    40698
   ],
   "jp": "あ。ティエラに雪を持ち帰れば{n}休憩中に雪見酒できるわね。{n}グッドアイディーア～♪",
-  "en": "",
-  "status": ""
+  "en": "Ah. If I take some snow back to Tiera, I can have a snow-viewing drink on my break. Good ideeea~ ♪",
+  "status": "done"
  },
  {
   "id": "event_2161_026CB",
@@ -2252,8 +2252,8 @@
    40422
   ],
   "jp": "うほっ③{n}パメラ様の魔力レーダーに{n}超強力な魔力反応あり②",
-  "en": "",
-  "status": ""
+  "en": "Whoa!? Pamela-sama's magic radar has a super strong reading!",
+  "status": "done"
  },
  {
   "id": "event_2161_02704",
@@ -2264,8 +2264,8 @@
    40508
   ],
   "jp": "魔力の出所はこの雪ね！{n}よーし、大人買いならぬ{n}大人テイクアウトするだわさ②",
-  "en": "",
-  "status": ""
+  "en": "The magic's coming from this snow! All right, instead of buying in bulk, I'm taking out in bulk, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2161_0274F",
@@ -2276,8 +2276,8 @@
    12604
   ],
   "jp": "奴ら、捜索隊か何かか？{n}武装しているようだが…",
-  "en": "",
-  "status": ""
+  "en": "Those people, are they some kind of search party? They look armed...",
+  "status": "done"
  },
  {
   "id": "event_2161_0277D",
@@ -2288,8 +2288,8 @@
    12632
   ],
   "jp": "だが冬山用の装備ではないな。{n}フッ、ならば俺達の敵ではない！",
-  "en": "",
-  "status": ""
+  "en": "But they're not dressed for winter mountains. Heh, then they're no match for us!",
+  "status": "done"
  },
  {
   "id": "event_2161_027B9",
@@ -2300,8 +2300,8 @@
    13035
   ],
   "jp": "山賊どもの網に掛かったか！{n}仕方がない、蹴散らすぜ②",
-  "en": "",
-  "status": ""
+  "en": "So we walked into the bandits' net! Oh well, we'll scatter them!",
+  "status": "done"
  },
  {
   "id": "event_2161_027ED",
@@ -2312,8 +2312,8 @@
    13118
   ],
   "jp": "う～、さむさむ…{n}今年は一段と冷えるなぁ…",
-  "en": "",
-  "status": ""
+  "en": "Oooh, so cold, so cold... It's extra chilly this year...",
+  "status": "done"
  },
  {
   "id": "event_2161_02817",
@@ -2324,8 +2324,8 @@
    13136
   ],
   "jp": "ムムッ？{n}雪中行軍の気配アリ。{n}各隊、持ち場を離れるな！",
-  "en": "",
-  "status": ""
+  "en": "Hm? Sounds like someone's marching through the snow. All units, hold your posts!",
+  "status": "done"
  },
  {
   "id": "event_2161_0284E",
@@ -2336,8 +2336,8 @@
    13164
   ],
   "jp": "団体さんのお着きだぜ。{n}お前ら、歓迎してやりなッ②",
-  "en": "",
-  "status": ""
+  "en": "Here comes a whole party of guests. You lot, give 'em a warm welcome!",
+  "status": "done"
  },
  {
   "id": "event_2161_02880",
@@ -2348,8 +2348,8 @@
    13502
   ],
   "jp": "くっ、この小屋は山賊の罠か！{n}やるしかないな②",
-  "en": "",
-  "status": ""
+  "en": "Tch, this hut was a bandit trap! Guess we've got no choice!",
+  "status": "done"
  },
  {
   "id": "event_2161_028AE",
@@ -2360,8 +2360,8 @@
    13592
   ],
   "jp": "…私もいい加減、山賊なんかで{n}ハジけてる歳じゃないわよねぇ…",
-  "en": "",
-  "status": ""
+  "en": "...I'm getting too old to be whooping it up as a bandit, you know...",
+  "status": "done"
  },
  {
   "id": "event_2161_028EA",
@@ -2372,8 +2372,8 @@
    13610
   ],
   "jp": "帝国都市圏の治安が回復したら、{n}暖かい都会に移り住みたいわね…",
-  "en": "",
-  "status": ""
+  "en": "Once things calm down in the imperial cities, I'd love to move somewhere warm...",
+  "status": "done"
  },
  {
   "id": "event_2161_02928",
@@ -2384,8 +2384,8 @@
    13638
   ],
   "jp": "…おっと？{n}お客さんが来たみたいね。{n}よろしくお相手するわよッ！",
-  "en": "",
-  "status": ""
+  "en": "...Oh? Looks like we've got company. I'll give them a proper welcome!",
+  "status": "done"
  },
  {
   "id": "event_2161_02967",
@@ -2396,8 +2396,8 @@
    14041
   ],
   "jp": "ちッ、来やがったな！{n}打ち破るぜ②",
-  "en": "",
-  "status": ""
+  "en": "Tch, here they come! We'll smash them!",
+  "status": "done"
  },
  {
   "id": "event_2161_02A0B",

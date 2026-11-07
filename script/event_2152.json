@@ -1566,8 +1566,8 @@
    11453
   ],
   "jp": "けれど、あたしは旅人だからね。{n}派閥や徒党に縛られて{n}戦う理由を選んだりはしない。",
-  "en": "",
-  "status": ""
+  "en": "But I'm a traveler, see. I don't tie myself to factions or gangs, or let them pick my reasons to fight.",
+  "status": "done"
  },
  {
   "id": "event_2152_01B07",
@@ -1578,8 +1578,8 @@
    11474
   ],
   "jp": "はいはい、羨ましいねぇ…",
-  "en": "",
-  "status": ""
+  "en": "Yeah, yeah, must be nice...",
+  "status": "done"
  },
  {
   "id": "event_2152_01B20",
@@ -1590,8 +1590,8 @@
    13953
   ],
   "jp": "この女、戦い慣れしてやがる…！",
-  "en": "",
-  "status": ""
+  "en": "This woman knows her way around a fight...!",
+  "status": "done"
  },
  {
   "id": "event_2152_01B3F",
@@ -1602,8 +1602,8 @@
    13974
   ],
   "jp": "どうした？{n}余裕が消えたぞ②",
-  "en": "",
-  "status": ""
+  "en": "What's wrong? Where'd all that swagger go!?",
+  "status": "done"
  },
  {
   "id": "event_2152_01B5B",
@@ -1614,8 +1614,8 @@
    13995
   ],
   "jp": "……クソッタレ②{n}今に見ていやがれ！",
-  "en": "",
-  "status": ""
+  "en": "...Son of a bitch! You just wait!",
+  "status": "done"
  },
  {
   "id": "event_2152_01B7F",
@@ -1626,8 +1626,8 @@
    14073
   ],
   "jp": "やるじゃない。{n}傭兵の看板も伊達じゃないな。",
-  "en": "",
-  "status": ""
+  "en": "Not bad. That mercenary sign of yours isn't just for show.",
+  "status": "done"
  },
  {
   "id": "event_2152_01BAB",
@@ -1638,8 +1638,8 @@
    14094
   ],
   "jp": "スカしやがって…{n}負けた奴は無様に命乞いでも{n}してりゃあいいんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Acting all cool... Losers oughta just grovel for their lives, nice and pathetic!",
+  "status": "done"
  },
  {
   "id": "event_2152_01BEE",
@@ -1650,8 +1650,8 @@
    14115
   ],
   "jp": "…趣味が合わないな。{n}あたしは例え無様だろうが{n}立ち上がる主義なのさ。",
-  "en": "",
-  "status": ""
+  "en": "...We don't have the same tastes. Me, I make a point of getting back up, pathetic or not.",
+  "status": "done"
  },
  {
   "id": "event_2152_01C81",

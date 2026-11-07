@@ -8,8 +8,8 @@
    9906
   ],
   "jp": "{voice:009204}ガーロット、今回はずいぶん{n}張り切っているみたいね。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, you seem really fired up this time.",
+  "status": "done"
  },
  {
   "id": "event_2162_00060",
@@ -20,8 +20,8 @@
    9927
   ],
   "jp": "{voice:009304}ややこしい政治とは関係ない{n}仕事だからな。",
-  "en": "",
-  "status": ""
+  "en": "That's because this job's got nothing to do with messy politics.",
+  "status": "done"
  },
  {
   "id": "event_2162_0008E",
@@ -32,8 +32,8 @@
    9934
   ],
   "jp": "{voice:009404}それに、{n}人々を苦しめる賊が相手なら、{n}好きに暴れられる。",
-  "en": "",
-  "status": ""
+  "en": "Besides, against thieves who make people suffer, I can cut loose all I want.",
+  "status": "done"
  },
  {
   "id": "event_2162_000CB",
@@ -44,8 +44,8 @@
    9955
   ],
   "jp": "{voice:009504}伯爵様に頼まれて出兵、{n}ってのだけが気に喰わないけど…",
-  "en": "",
-  "status": ""
+  "en": "I just don't like that we're marching out because some Count asked us...",
+  "status": "done"
  },
  {
   "id": "event_2162_00105",
@@ -56,8 +56,8 @@
    9976
   ],
   "jp": "{voice:009604}ま、それはそれって事で。",
-  "en": "",
-  "status": ""
+  "en": "Well, that's that, and this is this.",
+  "status": "done"
  },
  {
   "id": "event_2162_00122",
@@ -68,8 +68,8 @@
    9983
   ],
   "jp": "{voice:009704}しかし、グラムブレイズって{n}有名になったんだね。{n}貴族に名指しで呼ばれるなんてさ。",
-  "en": "",
-  "status": ""
+  "en": "Still, Gram Blaze has gotten famous, hasn't it. Nobles asking for us by name.",
+  "status": "done"
  },
  {
   "id": "event_2162_00177",
@@ -80,8 +80,8 @@
    10004
   ],
   "jp": "{voice:009804}方伯はあたし達の事、{n}上手く宣伝しているらしいね。",
-  "en": "",
-  "status": ""
+  "en": "It seems the Margrave has been promoting us quite cleverly.",
+  "status": "done"
  },
  {
   "id": "event_2162_001AD",
@@ -92,8 +92,8 @@
    10025
   ],
   "jp": "{voice:009904}そうらしいね。{n}退治した悪党の数とか、名前とか{n}貴族連中に喧伝してるらしい。",
-  "en": "",
-  "status": ""
+  "en": "So it seems. He's been boasting to the nobles about how many crooks we've taken out, and who.",
+  "status": "done"
  },
  {
   "id": "event_2162_001FC",
@@ -104,8 +104,8 @@
    10046
   ],
   "jp": "{voice:009A04}ねぇねぇ、私達が有名になると、{n}ヴェルマンにいい事があるの？",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey, what's in it for Velleman if we get famous?",
+  "status": "done"
  },
  {
   "id": "event_2162_0023C",
@@ -116,8 +116,8 @@
    10067
   ],
   "jp": "{voice:009B04}軍や警士が手をこまねく{n}悪党どもを倒せば、{n}それだけ貴族の間で話題になる。",
-  "en": "",
-  "status": ""
+  "en": "Beat crooks that the army and the constables can't touch, and the nobles all start talking.",
+  "status": "done"
  },
  {
   "id": "event_2162_00289",
@@ -128,8 +128,8 @@
    10074
   ],
   "jp": "{voice:009C04}貴族の世界は、言わば{n}目立った者勝ちなところが{n}あるからね。",
-  "en": "",
-  "status": ""
+  "en": "In the nobles' world, you could say, the one who stands out wins.",
+  "status": "done"
  },
  {
   "id": "event_2162_002C8",
@@ -140,8 +140,8 @@
    10095
   ],
   "jp": "{voice:009D04}ケッ、だから貴族様の世界って{n}キモいのよね。",
-  "en": "",
-  "status": ""
+  "en": "Ugh, that's why the noble world is so gross.",
+  "status": "done"
  },
  {
   "id": "event_2162_002F8",
@@ -152,8 +152,8 @@
    10116
   ],
   "jp": "{voice:009E04}でもさ、あんまり目立ちすぎると{n}出る杭打たれまくられない？",
-  "en": "",
-  "status": ""
+  "en": "But if we stand out too much, won't we get hammered down like a nail that sticks up?",
+  "status": "done"
  },
  {
   "id": "event_2162_00336",
@@ -164,8 +164,8 @@
    10137
   ],
   "jp": "{voice:009F04}今は治安維持に協力しているだけ{n}だからね、大丈夫じゃないか？",
-  "en": "",
-  "status": ""
+  "en": "For now we're only helping keep the peace, so I think we'll be okay.",
+  "status": "done"
  },
  {
   "id": "event_2162_00376",
@@ -176,8 +176,8 @@
    10158
   ],
   "jp": "{voice:00A004}ふーん、そんなものなのか……",
-  "en": "",
-  "status": ""
+  "en": "Huh, is that how it works...",
+  "status": "done"
  },
  {
   "id": "event_2162_00397",
@@ -188,8 +188,8 @@
    10243
   ],
   "jp": "{voice:00A104}報告です、シスキア様！{n}街の一角に火の手が！",
-  "en": "",
-  "status": ""
+  "en": "Report, Siskier-sama! There's a fire in one part of town!",
+  "status": "done"
  },
  {
   "id": "event_2162_003C7",
@@ -200,8 +200,8 @@
    11124
   ],
   "jp": "{voice:00A204}なんですって③{n}まさか盗賊が街を襲ってるの③",
-  "en": "",
-  "status": ""
+  "en": "What!? Don't tell me thieves are attacking the town!?",
+  "status": "done"
  },
  {
   "id": "event_2162_003F7",
@@ -212,8 +212,8 @@
    11145
   ],
   "jp": "{voice:00A304}全軍戦闘態勢を取れ！{n}急行するぞ②",
-  "en": "",
-  "status": ""
+  "en": "All troops, battle stations! Double time!",
+  "status": "done"
  },
  {
   "id": "event_2162_0041D",
@@ -224,8 +224,8 @@
    11337
   ],
   "jp": "{voice:00A404}やはり盗賊か！",
-  "en": "",
-  "status": ""
+  "en": "So it is thieves!",
+  "status": "done"
  },
  {
   "id": "event_2162_00430",
@@ -236,8 +236,8 @@
    11385
   ],
   "jp": "{voice:00A504}なんだあいつらは？{n}軍か？　いや、違うな。",
-  "en": "",
-  "status": ""
+  "en": "Who are they? The army? No, that's not it.",
+  "status": "done"
  },
  {
   "id": "event_2162_0045E",
@@ -248,8 +248,8 @@
    11392
   ],
   "jp": "{voice:00A604}どうせ貴族が、はした金で雇った{n}傭兵崩れだろう。",
-  "en": "",
-  "status": ""
+  "en": "Probably some washed-up mercenaries the nobles hired for chump change.",
+  "status": "done"
  },
  {
   "id": "event_2162_00492",
@@ -260,8 +260,8 @@
    11413
   ],
   "jp": "{voice:00A704}野郎ども、怯むな！{n}迎え撃て！",
-  "en": "",
-  "status": ""
+  "en": "Don't flinch, men! Take them on!",
+  "status": "done"
  },
  {
   "id": "event_2162_004B4",
@@ -272,8 +272,8 @@
    40000
   ],
   "jp": "{voice:00A804}こいつら、強い③",
-  "en": "",
-  "status": ""
+  "en": "These guys are strong!?",
+  "status": "done"
  },
  {
   "id": "event_2162_004C9",
@@ -284,8 +284,8 @@
    40007
   ],
   "jp": "{voice:00A904}チクチョウ②{n}野郎ども、引き上げるぞ！",
-  "en": "",
-  "status": ""
+  "en": "Damn it! Men, we're pulling out!",
+  "status": "done"
  },
  {
   "id": "event_2162_004F3",
@@ -296,8 +296,8 @@
    41924
   ],
   "jp": "{voice:00AA04}逃がすか、追撃するぞ②",
-  "en": "",
-  "status": ""
+  "en": "They won't get away, after them!",
+  "status": "done"
  },
  {
   "id": "event_2162_0050E",
@@ -308,8 +308,8 @@
    41945
   ],
   "jp": "{voice:00AB04}ガーロット、放っておけ！{n}街の火を消すのが先だ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, leave them! Putting out the fires comes first.",
+  "status": "done"
  },
  {
   "id": "event_2162_00542",
@@ -320,8 +320,8 @@
    41966
   ],
   "jp": "{voice:00AC04}……確かにそうだな。",
-  "en": "",
-  "status": ""
+  "en": "...You're right.",
+  "status": "done"
  },
  {
   "id": "event_2162_0055B",
@@ -332,8 +332,8 @@
    42412
   ],
   "jp": "{voice:00AD04}街をひとまわりしてきたけど、{n}ひどく荒れているわ。",
-  "en": "",
-  "status": ""
+  "en": "I went around the town, and it's in terrible shape.",
+  "status": "done"
  },
  {
   "id": "event_2162_00591",
@@ -344,8 +344,8 @@
    42433
   ],
   "jp": "{voice:00AE04}俺達が着くまでの間、{n}抵抗の気配がまるでなかったが…",
-  "en": "",
-  "status": ""
+  "en": "There was no sign of resistance before we got here...",
+  "status": "done"
  },
  {
   "id": "event_2162_005C9",
@@ -356,8 +356,8 @@
    42440
   ],
   "jp": "{voice:00AF04}この街に自警団はいないのか？",
-  "en": "",
-  "status": ""
+  "en": "Doesn't this town have a militia?",
+  "status": "done"
  },
  {
   "id": "event_2162_005EA",
@@ -368,8 +368,8 @@
    42461
   ],
   "jp": "{voice:00B004}貴族様の私兵団がいたらしいけど、{n}一ヶ月ほど前に解散したんだって。",
-  "en": "",
-  "status": ""
+  "en": "Apparently there was a noble's private army, but it disbanded about a month ago.",
+  "status": "done"
  },
  {
   "id": "event_2162_00630",
@@ -380,8 +380,8 @@
    42482
   ],
   "jp": "{voice:00B104}領主の館を見てきたけど、{n}既にもぬけの空だったよ。",
-  "en": "",
-  "status": ""
+  "en": "I went to look at the lord's manor, but it's already empty.",
+  "status": "done"
  },
  {
   "id": "event_2162_00666",
@@ -392,8 +392,8 @@
    42503
   ],
   "jp": "{voice:00B204}なんだって③{n}という事は……",
-  "en": "",
-  "status": ""
+  "en": "What!? Which means...",
+  "status": "done"
  },
  {
   "id": "event_2162_00686",
@@ -404,8 +404,8 @@
    42524
   ],
   "jp": "{voice:00B304}この町は、領主に見捨てられた{n}って事だね。",
-  "en": "",
-  "status": ""
+  "en": "Which means the lord has abandoned this town.",
+  "status": "done"
  },
  {
   "id": "event_2162_006B4",
@@ -416,8 +416,8 @@
    42531
   ],
   "jp": "{voice:00B404}僕達にお鉢が回って来た理由が{n}これではっきりしたね。",
-  "en": "",
-  "status": ""
+  "en": "So now it's clear why the job came to us.",
+  "status": "done"
  },
  {
   "id": "event_2162_006EC",
@@ -428,8 +428,8 @@
    42552
   ],
   "jp": "{voice:00B504}クソッ！{n}なんなんだよ、それ②",
-  "en": "",
-  "status": ""
+  "en": "Damn it! What the hell is that!",
+  "status": "done"
  },
  {
   "id": "event_2162_0070E",
@@ -440,8 +440,8 @@
    42617
   ],
   "jp": "{voice:00B604}あーぁ、やっぱり貴族様って{n}いい加減なんだよねー。",
-  "en": "",
-  "status": ""
+  "en": "Ugh, nobles really are irresponsible, huh.",
+  "status": "done"
  },
  {
   "id": "event_2162_00744",
@@ -452,8 +452,8 @@
    42638
   ],
   "jp": "{voice:00B704}この街は、{n}俺達が守るしかないって事だ。",
-  "en": "",
-  "status": ""
+  "en": "Which means we're the only ones left to protect this town.",
+  "status": "done"
  },
  {
   "id": "event_2162_00770",
@@ -462,8 +462,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00B804}シスキア、盗賊団のアジトは？",
-  "en": "",
-  "status": ""
+  "en": "Siskier, where's the thieves' hideout?",
+  "status": "done"
  },
  {
   "id": "event_2162_00791",
@@ -474,8 +474,8 @@
    42659
   ],
   "jp": "{voice:00B904}逃げた連中には斥候をつけたから{n}場所はすぐに分かると思うよ。",
-  "en": "",
-  "status": ""
+  "en": "I put scouts on the ones who ran, so we should know soon.",
+  "status": "done"
  },
  {
   "id": "event_2162_007D1",
@@ -486,8 +486,8 @@
    42666
   ],
   "jp": "{voice:00BA04}街の人によると、{n}西にあるクレドの森にアジトが{n}あるみたいね。",
-  "en": "",
-  "status": ""
+  "en": "The townspeople say they've got a hideout in the Kred forest to the west.",
+  "status": "done"
  },
  {
   "id": "event_2162_00812",
@@ -498,8 +498,8 @@
    42687
   ],
   "jp": "{voice:00BB04}よし、奴らのアジトの位置が{n}特定でき次第、攻撃を仕掛ける！",
-  "en": "",
-  "status": ""
+  "en": "All right, as soon as we pin down where it is, we attack!",
+  "status": "done"
  },
  {
   "id": "event_2162_00850",
@@ -510,8 +510,8 @@
    42738
   ],
   "jp": "{voice:00BC04}ヴェルマンが指示したのは、{n}盗賊団の撃退までだと思うけど。",
-  "en": "",
-  "status": ""
+  "en": "I believe Velleman's orders only went as far as driving off the thieves.",
+  "status": "done"
  },
  {
   "id": "event_2162_0088E",
@@ -522,8 +522,8 @@
    42759
   ],
   "jp": "{voice:00BD04}そんなもん知るか！",
-  "en": "",
-  "status": ""
+  "en": "To hell with that!",
+  "status": "done"
  },
  {
   "id": "event_2162_008A5",
@@ -534,8 +534,8 @@
    42766
   ],
   "jp": "{voice:00BE04}言ったろ、{n}この街は俺達が守るんだ！",
-  "en": "",
-  "status": ""
+  "en": "I told you, we're the ones protecting this town!",
+  "status": "done"
  },
  {
   "id": "event_2162_008CD",
@@ -546,8 +546,8 @@
    42784
   ],
   "jp": "{voice:00BF04}止めるなよ、メデューテ！",
-  "en": "",
-  "status": ""
+  "en": "Don't try to stop me, Medoute!",
+  "status": "done"
  },
  {
   "id": "event_2162_008EA",
@@ -558,8 +558,8 @@
    42870
   ],
   "jp": "{voice:00C004}あのな、止めても無駄だろ？{n}君はそういう奴だよ。",
-  "en": "",
-  "status": ""
+  "en": "Look, there's no use in stopping you, is there? That's the kind of guy you are.",
+  "status": "done"
  },
  {
   "id": "event_2162_0091E",
@@ -570,8 +570,8 @@
    42891
   ],
   "jp": "{voice:00C104}結局、こうなるんだよね。{n}僕達はさ。",
-  "en": "",
-  "status": ""
+  "en": "It always ends up like this. For us, I mean.",
+  "status": "done"
  },
  {
   "id": "event_2162_00946",
@@ -582,8 +582,8 @@
    42912
   ],
   "jp": "{voice:00C204}なによ、乗り気じゃないワケ？",
-  "en": "",
-  "status": ""
+  "en": "What's this, you're not into it?",
+  "status": "done"
  },
  {
   "id": "event_2162_00967",
@@ -594,8 +594,8 @@
    42933
   ],
   "jp": "{voice:00C304}乗り気だよ。{n}この街に住む、美しい女性達を{n}守る為に戦うんだからね。",
-  "en": "",
-  "status": ""
+  "en": "I am into it. I'll be fighting to protect the beautiful women of this town, after all.",
+  "status": "done"
  },
  {
   "id": "event_2162_009AE",
@@ -606,8 +606,8 @@
    42954
   ],
   "jp": "{voice:00C404}まーた始まったよ！",
-  "en": "",
-  "status": ""
+  "en": "And there he goes again!",
+  "status": "done"
  },
  {
   "id": "event_2162_009C5",
@@ -618,8 +618,8 @@
    11747
   ],
   "jp": "ま、街を守りきれなかったのか。{n}俺とした事が……",
-  "en": "",
-  "status": ""
+  "en": "S-so I couldn't protect the town. Me, of all people...",
+  "status": "done"
  },
  {
   "id": "event_2162_009F5",
@@ -630,8 +630,8 @@
    12113
   ],
   "jp": "君達は…{n}ひょっとして、例の私兵団か？",
-  "en": "",
-  "status": ""
+  "en": "You people... Could you be that private army?",
+  "status": "done"
  },
  {
   "id": "event_2162_00A1B",
@@ -642,8 +642,8 @@
    12120
   ],
   "jp": "まさか、本当に来てくれるとは…{n}ありがたいというか、{n}すまないというか…",
-  "en": "",
-  "status": ""
+  "en": "I can't believe you really came... I don't know whether to thank you or apologize...",
+  "status": "done"
  },
  {
   "id": "event_2162_00A62",
@@ -654,8 +654,8 @@
    12127
   ],
   "jp": "ここは自警団の詰め所なんだが、{n}兵員は３人しかいないんだ。",
-  "en": "",
-  "status": ""
+  "en": "This is the militia's post, but we've only got three men.",
+  "status": "done"
  },
  {
   "id": "event_2162_00A9C",
@@ -666,8 +666,8 @@
    12134
   ],
   "jp": "他の２人は領民の誘導に出た…{n}俺はここの留守だ。",
-  "en": "",
-  "status": ""
+  "en": "The other two are out guiding the townsfolk... I'm minding the post.",
+  "status": "done"
  },
  {
   "id": "event_2162_00ACC",
@@ -678,8 +678,8 @@
    12141
   ],
   "jp": "…人数が少な過ぎるだろ？",
-  "en": "",
-  "status": ""
+  "en": "...Too few people, right?",
+  "status": "done"
  },
  {
   "id": "event_2162_00AE5",
@@ -690,8 +690,8 @@
    12148
   ],
   "jp": "街と住民を守るために{n}残ったのが、３人しかいなかった。{n}それだけの事さ……",
-  "en": "",
-  "status": ""
+  "en": "Only three of us stayed behind to protect the town and its people. That's all there is to it...",
+  "status": "done"
  },
  {
   "id": "event_2162_00B2E",
@@ -702,8 +702,8 @@
    12155
   ],
   "jp": "だが、今は詳しい事情を{n}説明している時間がない。",
-  "en": "",
-  "status": ""
+  "en": "But I have no time to explain the details right now.",
+  "status": "done"
  },
  {
   "id": "event_2162_00B5E",
@@ -714,8 +714,8 @@
    12162
   ],
   "jp": "…街を守るべき我々が言うには、{n}あまりに厚かましいが…{n}頼む！　この街を守ってくれ！",
-  "en": "",
-  "status": ""
+  "en": "...It's awfully shameless coming from us, who should be protecting it, but... please! Protect this town!",
+  "status": "done"
  },
  {
   "id": "event_2162_00BB1",
@@ -726,8 +726,8 @@
    12169
   ],
   "jp": "私はこのザマだ…{n}力にはなれない。{n}…頼む……！",
-  "en": "",
-  "status": ""
+  "en": "I'm in this state... I'm no help to you. ...Please...!",
+  "status": "done"
  },
  {
   "id": "event_2162_00BE0",
@@ -738,8 +738,8 @@
    12350
   ],
   "jp": "毎年、今ごろになると{n}クレドの森に虫とりに行くの。{n}ちょうちょ、とりに行くの。",
-  "en": "",
-  "status": ""
+  "en": "Every year around now, we go to the Kred forest to catch bugs. We go catch butterflies.",
+  "status": "done"
  },
  {
   "id": "event_2162_00C2D",
@@ -750,8 +750,8 @@
    12357
   ],
   "jp": "たのしみだったけど…{n}お外に出ちゃダメ、って神父様が{n}言うから、行けないの…",
-  "en": "",
-  "status": ""
+  "en": "I was looking forward to it... But the Father says I can't go outside, so I can't go...",
+  "status": "done"
  },
  {
   "id": "event_2162_00C78",
@@ -762,8 +762,8 @@
    12364
   ],
   "jp": "あ！　ひょっとして、{n}それって、勇者バッジ？",
-  "en": "",
-  "status": ""
+  "en": "Oh! Is that, could that be a Hero Badge?",
+  "status": "done"
  },
  {
   "id": "event_2162_00CA4",
@@ -774,8 +774,8 @@
    12371
   ],
   "jp": "すごいなぁ、カッコいいなぁ…",
-  "en": "",
-  "status": ""
+  "en": "Wow, that's so cool...",
+  "status": "done"
  },
  {
   "id": "event_2162_00CC1",
@@ -786,8 +786,8 @@
    12458
   ],
   "jp": "え？　くれるの？　本当に？{n}わぁい！　ありがとう②",
-  "en": "",
-  "status": ""
+  "en": "Huh? You're giving it to me? Really? Yay! Thank you!",
+  "status": "done"
  },
  {
   "id": "event_2162_00CF3",
@@ -798,8 +798,8 @@
    12465
   ],
   "jp": "おかえしにコレをあげる！",
-  "en": "",
-  "status": ""
+  "en": "I'll give you this back in return!",
+  "status": "done"
  },
  {
   "id": "event_2162_00D0C",
@@ -810,8 +810,8 @@
    12550
   ],
   "jp": "大切につかってね！",
-  "en": "",
-  "status": ""
+  "en": "Take good care of it!",
+  "status": "done"
  },
  {
   "id": "event_2162_00D1F",
@@ -822,8 +822,8 @@
    12574
   ],
   "jp": "…あなた方は？　見たところ、{n}山賊ではないようですが…",
-  "en": "",
-  "status": ""
+  "en": "...And you are? You do not appear to be bandits...",
+  "status": "done"
  },
  {
   "id": "event_2162_00D55",
@@ -834,8 +834,8 @@
    12581
   ],
   "jp": "…アニス様に言われて{n}この街を守りに来た、ですと？{n}おお、なんという事だ……",
-  "en": "",
-  "status": ""
+  "en": "...Anis-sama told you to protect this town, you say? Oh, what on earth...",
+  "status": "done"
  },
  {
   "id": "event_2162_00DA0",
@@ -846,8 +846,8 @@
    12588
   ],
   "jp": "いえ、感謝はしています。{n}ただ呆れていたのです。",
-  "en": "",
-  "status": ""
+  "en": "No, I am grateful. I was merely appalled.",
+  "status": "done"
  },
  {
   "id": "event_2162_00DD0",
@@ -858,8 +858,8 @@
    12595
   ],
   "jp": "あなた方には、なんとお礼を{n}申し上げてよいか…",
-  "en": "",
-  "status": ""
+  "en": "I do not know how to thank you all...",
+  "status": "done"
  },
  {
   "id": "event_2162_00DFE",
@@ -870,8 +870,8 @@
    12613
   ],
   "jp": "神父さま～？{n}まだお外出ちゃダメなの～？",
-  "en": "",
-  "status": ""
+  "en": "Fatherrr? I still can't go outside?",
+  "status": "done"
  },
  {
   "id": "event_2162_00E26",
@@ -882,8 +882,8 @@
    12631
   ],
   "jp": "いけませんよ。{n}私がいいと言うまで、{n}決して、出てはいけません。",
-  "en": "",
-  "status": ""
+  "en": "No, you may not. Not until I say so, not under any circumstances.",
+  "status": "done"
  },
  {
   "id": "event_2162_00E65",
@@ -894,8 +894,8 @@
    12649
   ],
   "jp": "チェ、ざんね～ん。{n}ちょうちょ、とりたかったのに…",
-  "en": "",
-  "status": ""
+  "en": "Aw, too baaad. I wanted to catch butterflies...",
+  "status": "done"
  },
  {
   "id": "event_2162_00E97",
@@ -906,8 +906,8 @@
    12667
   ],
   "jp": "…私はどうなっても構いません。{n}この子らのためにも、どうか…！",
-  "en": "",
-  "status": ""
+  "en": "...Whatever may become of me does not matter. For these children's sake, please...!",
+  "status": "done"
  },
  {
   "id": "event_2162_00ED5",
@@ -919,8 +919,8 @@
    22500
   ],
   "jp": "ワシは花の加工を{n}生業にしているのじゃが…",
-  "en": "",
-  "status": ""
+  "en": "I earn my living preparing flowers, but...",
+  "status": "done"
  },
  {
   "id": "event_2162_00EFF",
@@ -932,8 +932,8 @@
    22507
   ],
   "jp": "盗賊達に襲撃されれば、{n}抵抗する力は持たぬ……{n}不甲斐ない事じゃ。",
-  "en": "",
-  "status": ""
+  "en": "If the thieves attack, I have no strength to resist... A sorry state of things.",
+  "status": "done"
  },
  {
   "id": "event_2162_00F40",
@@ -944,8 +944,8 @@
    22279
   ],
   "jp": "おや？　そなた達、{n}メイメルの花束を持っているな。",
-  "en": "",
-  "status": ""
+  "en": "Oh? You have a bouquet of Maymel flowers.",
+  "status": "done"
  },
  {
   "id": "event_2162_00F72",
@@ -956,8 +956,8 @@
    22286
   ],
   "jp": "どれ、貸してみなさい。{n}なぁに、悪いようにはしない。",
-  "en": "",
-  "status": ""
+  "en": "Now, let me see that. Don't worry, I'll do right by you.",
+  "status": "done"
  },
  {
   "id": "event_2162_00FA6",
@@ -968,8 +968,8 @@
    22391
   ],
   "jp": "そら、これを持っていくがいい。{n}このポプリの匂いを嗅げば{n}力が湧いてくるハズじゃ。",
-  "en": "",
-  "status": ""
+  "en": "There, take this with you. One whiff of this potpourri and you'll feel your strength well up.",
+  "status": "done"
  },
  {
   "id": "event_2162_00FF7",
@@ -980,8 +980,8 @@
    22476
   ],
   "jp": "いや、礼などいらぬよ。{n}ワシの作ったポプリが、{n}そなたの助けになれば嬉しい…",
-  "en": "",
-  "status": ""
+  "en": "No, no thanks needed. I'd be glad if my potpourri helps you...",
+  "status": "done"
  },
  {
   "id": "event_2162_01042",
@@ -993,8 +993,8 @@
    22545
   ],
   "jp": "あの盗賊達は、{n}いつも西からやってくる…",
-  "en": "",
-  "status": ""
+  "en": "Those thieves always come from the west...",
+  "status": "done"
  },
  {
   "id": "event_2162_0106A",
@@ -1006,8 +1006,8 @@
    22552
   ],
   "jp": "きっと、クレドの森に{n}根城があるに違いないのじゃ。",
-  "en": "",
-  "status": ""
+  "en": "They must surely have their base in the Kred forest.",
+  "status": "done"
  },
  {
   "id": "event_2162_0109C",
@@ -1018,8 +1018,8 @@
    32129
   ],
   "jp": "ん？{n}なんだ、この巾着は…",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's this pouch...",
+  "status": "done"
  },
  {
   "id": "event_2162_010B6",
@@ -1030,8 +1030,8 @@
    32204
   ],
   "jp": "女子供のおもちゃか？{n}こんなものでも、{n}一応もらっておくか…",
-  "en": "",
-  "status": ""
+  "en": "Some woman's or kid's toy? Well, guess I'll take it anyway...",
+  "status": "done"
  },
  {
   "id": "event_2162_010F1",
@@ -1042,8 +1042,8 @@
    32284
   ],
   "jp": "あら？{n}なにかしら、この巾着？",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's this pouch?",
+  "status": "done"
  },
  {
   "id": "event_2162_0110F",
@@ -1054,8 +1054,8 @@
    32359
   ],
   "jp": "まぁ…{n}すごくかわいいビーズね。{n}キラキラしてて、素敵…",
-  "en": "",
-  "status": ""
+  "en": "Oh my... What cute beads. So sparkly and lovely...",
+  "status": "done"
  },
  {
   "id": "event_2162_01146",
@@ -1066,8 +1066,8 @@
    32439
   ],
   "jp": "む。なんだろう、これ…",
-  "en": "",
-  "status": ""
+  "en": "Hm. What is this...",
+  "status": "done"
  },
  {
   "id": "event_2162_0115D",
@@ -1078,8 +1078,8 @@
    32514
   ],
   "jp": "キラキラしている…{n}なんだろ、オモチャの材料かな？",
-  "en": "",
-  "status": ""
+  "en": "It's sparkling... What is it, some material for toys?",
+  "status": "done"
  },
  {
   "id": "event_2162_0118F",
@@ -1090,8 +1090,8 @@
    32601
   ],
   "jp": "…なんだろう、この巾着。",
-  "en": "",
-  "status": ""
+  "en": "...What's this pouch?",
+  "status": "done"
  },
  {
   "id": "event_2162_011A8",
@@ -1102,8 +1102,8 @@
    32690
   ],
   "jp": "ビーズが入っているな。{n}…こういうもので遊んだこと、{n}一度もないよな、あたし。",
-  "en": "",
-  "status": ""
+  "en": "It's got beads in it. ...I've never once played with something like this.",
+  "status": "done"
  },
  {
   "id": "event_2162_011F5",
@@ -1114,8 +1114,8 @@
    32784
   ],
   "jp": "この袋、一体何が入って…",
-  "en": "",
-  "status": ""
+  "en": "This bag, what could be in it...",
+  "status": "done"
  },
  {
   "id": "event_2162_0120E",
@@ -1126,8 +1126,8 @@
    32873
   ],
   "jp": "あら、ビーズですね。{n}キラキラしてて、素敵です。",
-  "en": "",
-  "status": ""
+  "en": "Oh, beads. So sparkly and lovely.",
+  "status": "done"
  },
  {
   "id": "event_2162_0123E",
@@ -1138,8 +1138,8 @@
    32967
   ],
   "jp": "バイフー、巾着見つけた。{n}本じゃないと思うが…{n}中身、なんじゃろな？",
-  "en": "",
-  "status": ""
+  "en": "Byff found a pouch. Byff thinks it is no book... What is inside?",
+  "status": "done"
  },
  {
   "id": "event_2162_01281",
@@ -1150,8 +1150,8 @@
    33056
   ],
   "jp": "お、ビーズか。前にうまそうだと{n}思って食って、腹壊したな。{n}懐かしい…",
-  "en": "",
-  "status": ""
+  "en": "Oh, beads. Byff once thought they looked tasty and ate some, and got a stomachache. Good times...",
+  "status": "done"
  },
  {
   "id": "event_2162_012C6",
@@ -1162,8 +1162,8 @@
    33150
   ],
   "jp": "何か大砲の強化に使えそうな{n}アイテムはないかしら？",
-  "en": "",
-  "status": ""
+  "en": "Is there any item here I could use to upgrade my cannon?",
+  "status": "done"
  },
  {
   "id": "event_2162_012F8",
@@ -1174,8 +1174,8 @@
    33239
   ],
   "jp": "あら、かわいらしいビーズね。{n}…でも、大砲の強化には{n}役立ちそうにないわね…",
-  "en": "",
-  "status": ""
+  "en": "Oh, what cute beads. ...But I doubt they'd help upgrade my cannon...",
+  "status": "done"
  },
  {
   "id": "event_2162_01343",
@@ -1186,8 +1186,8 @@
    33326
   ],
   "jp": "おや？　なんだろう、この巾着…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's this pouch...",
+  "status": "done"
  },
  {
   "id": "event_2162_01362",
@@ -1198,8 +1198,8 @@
    33401
   ],
   "jp": "子どものおもちゃだね。{n}…子どもが遊べる平和も{n}奪われたんだな…",
-  "en": "",
-  "status": ""
+  "en": "A kid's toy. ...The peace kids need to play has been stolen too...",
+  "status": "done"
  },
  {
   "id": "event_2162_013A1",
@@ -1210,8 +1210,8 @@
    33481
   ],
   "jp": "ウィ～ッ、ヒック②{n}んん、なんだろ、この袋…",
-  "en": "",
-  "status": ""
+  "en": "Ooh, *hic*! Hmm, what's this bag...",
+  "status": "done"
  },
  {
   "id": "event_2162_013CD",
@@ -1222,8 +1222,8 @@
    33556
   ],
   "jp": "…ビーズかぁ。煮ても焼いても{n}つまみにはならないわねぇ。{n}ヒック②",
-  "en": "",
-  "status": ""
+  "en": "...Beads, huh. Boil 'em or fry 'em, they'd never go with booze. *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2162_0140E",
@@ -1234,8 +1234,8 @@
    33643
   ],
   "jp": "うほっ②　物置はっけーん！{n}これはアイテム発掘の予感②",
-  "en": "",
-  "status": ""
+  "en": "Whoa! Found a storeroom! I smell treasure to dig up!",
+  "status": "done"
  },
  {
   "id": "event_2162_01444",
@@ -1246,8 +1246,8 @@
    33668
   ],
   "jp": "……ぶーぶー。{n}シケたものしかないわねッ！",
-  "en": "",
-  "status": ""
+  "en": "...Boo, boo. Nothing but junk!",
+  "status": "done"
  },
  {
   "id": "event_2162_0146E",
@@ -1258,8 +1258,8 @@
    33757
   ],
   "jp": "仕方ないわね。{n}ビーズでももらっとくだわさ。",
-  "en": "",
-  "status": ""
+  "en": "Oh well. Guess I'll take the beads, y'know.",
+  "status": "done"
  },
  {
   "id": "event_2162_0149A",
@@ -1270,8 +1270,8 @@
    33933
   ],
   "jp": "……ん？{n}側溝の中に何かあるぞ？{n}これは…",
-  "en": "",
-  "status": ""
+  "en": "...Hm? There's something in the ditch? This is...",
+  "status": "done"
  },
  {
   "id": "event_2162_014C3",
@@ -1282,8 +1282,8 @@
    34012
   ],
   "jp": "…何かと思ったけど、{n}ただの汚いボロい布か。{n}見つけて損したぜ、まったく…",
-  "en": "",
-  "status": ""
+  "en": "...I wondered what it was, but it's just a filthy old rag. Sure wasted my time...",
+  "status": "done"
  },
  {
   "id": "event_2162_0150C",
@@ -1294,8 +1294,8 @@
    34092
   ],
   "jp": "あら？　何かしら、側溝の中に{n}何か沈んでいる…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's that, sunk in the ditch...",
+  "status": "done"
  },
  {
   "id": "event_2162_0153A",
@@ -1306,8 +1306,8 @@
    34171
   ],
   "jp": "うわ～、ボロボロの布キレね。{n}…うーん、私なんでこんなもの{n}見つけちゃったのかなぁ…",
-  "en": "",
-  "status": ""
+  "en": "Ugh, a tattered scrap of cloth. ...Hmm, why did I have to find a thing like this...",
+  "status": "done"
  },
  {
   "id": "event_2162_0158D",
@@ -1318,8 +1318,8 @@
    34251
   ],
   "jp": "おや？　そこにあるのは…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's that there...",
+  "status": "done"
  },
  {
   "id": "event_2162_015A6",
@@ -1330,8 +1330,8 @@
    34330
   ],
   "jp": "…何かの地図かと思ったけど、{n}ただの布だったか。{n}残念…",
-  "en": "",
-  "status": ""
+  "en": "...I thought it was some kind of map, but it's just cloth. Too bad...",
+  "status": "done"
  },
  {
   "id": "event_2162_015DD",
@@ -1342,8 +1342,8 @@
    34417
   ],
   "jp": "…底に何か沈んでいるな。{n}サルベージしよう！",
-  "en": "",
-  "status": ""
+  "en": "...There's something sunk at the bottom. Let's salvage it!",
+  "status": "done"
  },
  {
   "id": "event_2162_01609",
@@ -1354,8 +1354,8 @@
    34507
   ],
   "jp": "…うーむ、つまらないものを{n}釣り上げてしまった。",
-  "en": "",
-  "status": ""
+  "en": "...Hmm, I fished up something dull.",
+  "status": "done"
  },
  {
   "id": "event_2162_01639",
@@ -1366,8 +1366,8 @@
    34594
   ],
   "jp": "あら？　なんでしょうか、{n}何か沈んでいるようですね…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What could that be, it seems something has sunk...",
+  "status": "done"
  },
  {
   "id": "event_2162_0166D",
@@ -1378,8 +1378,8 @@
    34673
   ],
   "jp": "…こ、これは！{n}ただのボロ布ですね…",
-  "en": "",
-  "status": ""
+  "en": "...Th-this is! Merely an old rag...",
+  "status": "done"
  },
  {
   "id": "event_2162_01691",
@@ -1390,8 +1390,8 @@
    34760
   ],
   "jp": "ん？　この排水溝…",
-  "en": "",
-  "status": ""
+  "en": "Hm? This drain...",
+  "status": "done"
  },
  {
   "id": "event_2162_016A4",
@@ -1402,8 +1402,8 @@
    34853
   ],
   "jp": "ボロっちい、ただの布だな。{n}まったく役に立たぬのぅ…{n}なーんつって②",
-  "en": "",
-  "status": ""
+  "en": "Tattered, plain old cloth. Totally useless... Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2162_016E7",
@@ -1414,8 +1414,8 @@
    34947
   ],
   "jp": "そこのドブ、何かあるわね。{n}ちょっと！{n}誰か、浚ってきなさい！",
-  "en": "",
-  "status": ""
+  "en": "There's something in that gutter. Hey! Someone go dredge it up!",
+  "status": "done"
  },
  {
   "id": "event_2162_01724",
@@ -1426,8 +1426,8 @@
    35040
   ],
   "jp": "……偉そうに指示しといて{n}なんだけど、ロクデモナイものが{n}出てきちゃったわね。",
-  "en": "",
-  "status": ""
+  "en": "...I hate to say it after giving orders like that, but what came up is pretty worthless.",
+  "status": "done"
  },
  {
   "id": "event_2162_01771",
@@ -1438,8 +1438,8 @@
    35127
   ],
   "jp": "ん？　排水溝に何か詰まってる…{n}なんだろう、これ？",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something's clogging the drain... What is this?",
+  "status": "done"
  },
  {
   "id": "event_2162_017A3",
@@ -1450,8 +1450,8 @@
    35206
   ],
   "jp": "宝の地図かなにか、と思ったら…{n}タダの布だったね。{n}しかし、汚い布だなぁ。",
-  "en": "",
-  "status": ""
+  "en": "I thought it might be a treasure map or something... Just cloth. And what filthy cloth, too.",
+  "status": "done"
  },
  {
   "id": "event_2162_017EC",
@@ -1462,8 +1462,8 @@
    35286
   ],
   "jp": "…ヒック②{n}おや？　そこにあるのは…",
-  "en": "",
-  "status": ""
+  "en": "...*hic*! Oh? What's that there...",
+  "status": "done"
  },
  {
   "id": "event_2162_01810",
@@ -1474,8 +1474,8 @@
    35365
   ],
   "jp": "汚い布切れねぇ…{n}キレイに洗ったとしても、{n}なお使いたくないわ。",
-  "en": "",
-  "status": ""
+  "en": "A filthy scrap of cloth... Even washed clean, I wouldn't want to use it.",
+  "status": "done"
  },
  {
   "id": "event_2162_0184F",
@@ -1486,8 +1486,8 @@
    35452
   ],
   "jp": "んや？　そこの側溝、{n}何かあるんじゃないの？",
-  "en": "",
-  "status": ""
+  "en": "Hmm? Isn't there something in that ditch?",
+  "status": "done"
  },
  {
   "id": "event_2162_0187B",
@@ -1498,8 +1498,8 @@
    35542
   ],
   "jp": "…布だわさ。いらんものを{n}ゲットしちゃったわね…",
-  "en": "",
-  "status": ""
+  "en": "...It's cloth, y'know. What a useless thing to get...",
+  "status": "done"
  },
  {
   "id": "event_2162_018AB",
@@ -1510,8 +1510,8 @@
    35718
   ],
   "jp": "む？　何か落ちているな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something's lying here...",
+  "status": "done"
  },
  {
   "id": "event_2162_018C4",
@@ -1522,8 +1522,8 @@
    35807
   ],
   "jp": "カバンか。中には何が入って…{n}って、開かない③{n}ど、どうなってんだ？",
-  "en": "",
-  "status": ""
+  "en": "A bag. What's in it... Wait, it won't open!? Wh-what's going on?",
+  "status": "done"
  },
  {
   "id": "event_2162_01907",
@@ -1534,8 +1534,8 @@
    35901
   ],
   "jp": "ん？　何か落ちてるわね…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something's lying here...",
+  "status": "done"
  },
  {
   "id": "event_2162_01920",
@@ -1546,8 +1546,8 @@
    35990
   ],
   "jp": "カバンだけど…{n}何これ？　全然開かない…{n}内側からカギでも掛かってるの？",
-  "en": "",
-  "status": ""
+  "en": "A bag, but... what is this? It won't open at all... Is it locked from the inside or something?",
+  "status": "done"
  },
  {
   "id": "event_2162_01967",
@@ -1558,8 +1558,8 @@
    36084
   ],
   "jp": "おや、カバンが落ちているね…",
-  "en": "",
-  "status": ""
+  "en": "Oh, there's a bag lying here...",
+  "status": "done"
  },
  {
   "id": "event_2162_01984",
@@ -1570,8 +1570,8 @@
    36173
   ],
   "jp": "ん？　なんだこのカバン…{n}全然開かないよ③{n}…僕ってそんな非力だったっけ？",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's with this bag... It won't open at all!? ...Was I always this weak?",
+  "status": "done"
  },
  {
   "id": "event_2162_019CD",
@@ -1582,8 +1582,8 @@
    36274
   ],
   "jp": "む？{n}そこに落ちているのは…{n}カバンか？",
-  "en": "",
-  "status": ""
+  "en": "Hm? That thing lying there... A bag?",
+  "status": "done"
  },
  {
   "id": "event_2162_019F4",

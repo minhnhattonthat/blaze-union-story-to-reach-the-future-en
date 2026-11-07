@@ -8,8 +8,8 @@
    7967
   ],
   "jp": "{voice:00D903}夜の砂漠は冷えるな。{n}昼の熱気がウソみたいだぜ。",
-  "en": "",
-  "status": ""
+  "en": "The desert gets cold at night. Makes you forget all that heat in the day.",
+  "status": "done"
  },
  {
   "id": "event_2160_0005C",
@@ -20,8 +20,8 @@
    7988
   ],
   "jp": "{voice:00DA03}しかし、ファンタジニア王国の{n}輸送隊を襲うという事に、{n}よく方伯が了承したな。",
-  "en": "",
-  "status": ""
+  "en": "Still, I'm surprised the Margrave agreed to raiding a Fantasinian transport.",
+  "status": "done"
  },
  {
   "id": "event_2160_000AD",
@@ -32,8 +32,8 @@
    7995
   ],
   "jp": "{voice:00DB03}一体どんな手を使って、{n}説得したんだ？",
-  "en": "",
-  "status": ""
+  "en": "What on earth did you do to persuade him?",
+  "status": "done"
  },
  {
   "id": "event_2160_000D7",
@@ -44,8 +44,8 @@
    8016
   ],
   "jp": "{voice:00DC03}それは、ユーディに聞いてくれ。",
-  "en": "",
-  "status": ""
+  "en": "Ask Eudy about that.",
+  "status": "done"
  },
  {
   "id": "event_2160_000FA",
@@ -54,8 +54,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00DD03}簡単よ、{n}方伯様にこう言っただけ。",
-  "en": "",
-  "status": ""
+  "en": "Easy. I just told the Margrave this.",
+  "status": "done"
  },
  {
   "id": "event_2160_00120",
@@ -66,8 +66,8 @@
    8037
   ],
   "jp": "{voice:00DE03}『あの輸送隊は王国とは関係なく{n}　とある人物が、秘密裏に荷物を{n}　運んでるから問題ありません』",
-  "en": "",
-  "status": ""
+  "en": "'That transport has nothing to do with the Kingdom. Someone's moving cargo in secret, so no problem.'",
+  "status": "done"
  },
  {
   "id": "event_2160_00181",
@@ -78,8 +78,8 @@
    8058
   ],
   "jp": "{voice:00DF03}その話、本当なんだろうね？",
-  "en": "",
-  "status": ""
+  "en": "That is true, I hope?",
+  "status": "done"
  },
  {
   "id": "event_2160_001A0",
@@ -90,8 +90,8 @@
    8079
   ],
   "jp": "{voice:00E003}ええ、まあ、多分ね。",
-  "en": "",
-  "status": ""
+  "en": "Yes, well, probably.",
+  "status": "done"
  },
  {
   "id": "event_2160_001B9",
@@ -102,8 +102,8 @@
    8100
   ],
   "jp": "{voice:00E103}多分って……",
-  "en": "",
-  "status": ""
+  "en": "Probably...",
+  "status": "done"
  },
  {
   "id": "event_2160_001CA",
@@ -114,8 +114,8 @@
    8151
   ],
   "jp": "{voice:00E203}例え事が大事になろうとも、{n}王国側兵士の口封じをすれば{n}よいだけの事です。",
-  "en": "",
-  "status": ""
+  "en": "Even if this turns into something serious, we need only silence the Kingdom's soldiers.",
+  "status": "done"
  },
  {
   "id": "event_2160_00217",
@@ -126,8 +126,8 @@
    8158
   ],
   "jp": "{voice:00E303}王国は悪です。{n}積荷を奪う私達が、罪悪感を{n}感じる必要はありません……",
-  "en": "",
-  "status": ""
+  "en": "The Kingdom is evil. We have no need to feel guilty about stealing its cargo...",
+  "status": "done"
  },
  {
   "id": "event_2160_00260",
@@ -138,8 +138,8 @@
    8179
   ],
   "jp": "{voice:00E403}アイギナらしくないね。",
-  "en": "",
-  "status": ""
+  "en": "That doesn't sound like you, Aegina.",
+  "status": "done"
  },
  {
   "id": "event_2160_0027B",
@@ -162,8 +162,8 @@
    8221
   ],
   "jp": "{voice:00E503}……私は！",
-  "en": "",
-  "status": ""
+  "en": "...I!",
+  "status": "done"
  },
  {
   "id": "event_2160_00295",
@@ -174,8 +174,8 @@
    8261
   ],
   "jp": "{voice:00E603}シッ、静かに！{n}連中が現れたようだ……",
-  "en": "",
-  "status": ""
+  "en": "Shh, quiet! Looks like they're here...",
+  "status": "done"
  },
  {
   "id": "event_2160_002BF",
@@ -186,8 +186,8 @@
    8757
   ],
   "jp": "{voice:00E703}うん、見たところ、{n}グリフライダーの部隊が、{n}問題の荷を運んでいるみたいだね。",
-  "en": "",
-  "status": ""
+  "en": "Yes, from the looks of it, a Griffon Rider unit is carrying the cargo in question.",
+  "status": "done"
  },
  {
   "id": "event_2160_00310",
@@ -198,8 +198,8 @@
    8778
   ],
   "jp": "{voice:00E803}なるほどな……{n}万が一襲撃されても、{n}逃げ切る事を重視した編制か。",
-  "en": "",
-  "status": ""
+  "en": "I see... A formation built to outrun anyone, in case they get attacked.",
+  "status": "done"
  },
  {
   "id": "event_2160_00355",
@@ -210,8 +210,8 @@
    8799
   ],
   "jp": "{voice:00E903}砂漠地帯を越えられると、{n}他の隊商と遭遇する可能性が{n}高くなってしまう。",
-  "en": "",
-  "status": ""
+  "en": "Once they're past the desert, they're much more likely to meet other caravans.",
+  "status": "done"
  },
  {
   "id": "event_2160_003A0",
@@ -222,8 +222,8 @@
    8820
   ],
   "jp": "{voice:00EA03}砂漠を突破されると{n}負けって事か……",
-  "en": "",
-  "status": ""
+  "en": "So if they break through the desert, we lose...",
+  "status": "done"
  },
  {
   "id": "event_2160_003C8",
@@ -234,8 +234,8 @@
    8841
   ],
   "jp": "{voice:00EB03}つまり、急げって事だな！",
-  "en": "",
-  "status": ""
+  "en": "In other words, we'd better hurry!",
+  "status": "done"
  },
  {
   "id": "event_2160_003E5",
@@ -246,8 +246,8 @@
    9067
   ],
   "jp": "{voice:00EC03}いいな、敵のグリフォン部隊を{n}逃がしたら終わりだ！",
-  "en": "",
-  "status": ""
+  "en": "Listen, if that griffon unit gets away, it's over!",
+  "status": "done"
  },
  {
   "id": "event_2160_0041B",
@@ -258,8 +258,8 @@
    9088
   ],
   "jp": "{voice:00ED03}よし、行くぜ！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's go!",
+  "status": "done"
  },
  {
   "id": "event_2160_0042E",
@@ -270,8 +270,8 @@
    9152
   ],
   "jp": "{voice:00EE03}た、隊長！{n}前方に武装した一団がッ②",
-  "en": "",
-  "status": ""
+  "en": "C-Captain! An armed group up ahead!",
+  "status": "done"
  },
  {
   "id": "event_2160_00456",
@@ -282,8 +282,8 @@
    9173
   ],
   "jp": "{voice:00EF03}出たな、盗賊め！{n}卑しい奴らよ、狙いは積荷だな！",
-  "en": "",
-  "status": ""
+  "en": "So here you are, you thieves! You filthy lot, you're after the cargo, aren't you!",
+  "status": "done"
  },
  {
   "id": "event_2160_0048A",
@@ -294,8 +294,8 @@
    9180
   ],
   "jp": "{voice:00F003}各隊、敵の足止めに専念！{n}突破口を開くのよ！",
-  "en": "",
-  "status": ""
+  "en": "All units, focus on stopping the enemy! Open a way through!",
+  "status": "done"
  },
  {
   "id": "event_2160_004BA",
@@ -306,8 +306,8 @@
    9244
   ],
   "jp": "{voice:00F103}ほら見て！　護衛部隊が王国の{n}正規軍じゃないわよ！{n}ね、私の情報、当っていたでしょ。",
-  "en": "",
-  "status": ""
+  "en": "Look at that! The escort isn't Kingdom regulars! See, my information was right.",
+  "status": "done"
  },
  {
   "id": "event_2160_00511",
@@ -318,8 +318,8 @@
    16740
   ],
   "jp": "{voice:00F203}よし、一気に敵を叩くぞ！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's hit them all at once!",
+  "status": "done"
  },
  {
   "id": "event_2160_0052E",
@@ -330,8 +330,8 @@
    16804
   ],
   "jp": "{voice:00F303}クソッ、突破は無理なのか……",
-  "en": "",
-  "status": ""
+  "en": "Damn it, can't we break through...",
+  "status": "done"
  },
  {
   "id": "event_2160_0054F",
@@ -342,8 +342,8 @@
    18847
   ],
   "jp": "{voice:00F403}速やかに積荷の安全を確保。{n}進軍を開始せよ。",
-  "en": "",
-  "status": ""
+  "en": "Secure the cargo at once. Begin the advance.",
+  "status": "done"
  },
  {
   "id": "event_2160_0057F",
@@ -354,8 +354,8 @@
    18897
   ],
   "jp": "{voice:00F503}あれは、神生教団！{n}確かジルヴァとか言っていた。",
-  "en": "",
-  "status": ""
+  "en": "That's the Blessed Papal Army! Zilva, I think she was called.",
+  "status": "done"
  },
  {
   "id": "event_2160_005B3",
@@ -366,8 +366,8 @@
    18904
   ],
   "jp": "{voice:00F603}まさか、アイギナを追って{n}来たのか？",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me she followed Aegina here?",
+  "status": "done"
  },
  {
   "id": "event_2160_005DB",
@@ -378,8 +378,8 @@
    18925
   ],
   "jp": "{voice:00F703}団長さん、それは違うわね。{n}彼女は『積荷の確保』と確かに{n}言ったわ。",
-  "en": "",
-  "status": ""
+  "en": "That's not it, Captain. She said \"secure the cargo,\" I'm sure of it.",
+  "status": "done"
  },
  {
   "id": "event_2160_00622",
@@ -390,8 +390,8 @@
    18946
   ],
   "jp": "{voice:00F803}この件には、{n}神生教団が絡んでるって事か……",
-  "en": "",
-  "status": ""
+  "en": "So the Blessed Papal Army's mixed up in this...",
+  "status": "done"
  },
  {
   "id": "event_2160_00652",
@@ -405,8 +405,8 @@
    9830
   ],
   "jp": "…あれ？{n}身体の調子が悪いな。{n}ホネの繋ぎ目が緩いのかも…",
-  "en": "",
-  "status": ""
+  "en": "...Huh? My body's not feeling right. Maybe my bones have come loose at the joints...",
+  "status": "done"
  },
  {
   "id": "event_2160_0068B",
@@ -420,8 +420,8 @@
    9848
   ],
   "jp": "オレも若い頃はブイブイ{n}言わせていたモンだけどよ…",
-  "en": "",
-  "status": ""
+  "en": "I used to be quite the hotshot when I was young, you know...",
+  "status": "done"
  },
  {
   "id": "event_2160_006BD",
@@ -435,8 +435,8 @@
    9855
   ],
   "jp": "ついこの間のように思っていたが、{n}時が過ぎ行くのは早いモンだな。{n}トホホ～…",
-  "en": "",
-  "status": ""
+  "en": "Feels like just the other day, but time sure flies. Boo hoo...",
+  "status": "done"
  },
  {
   "id": "event_2160_00708",
@@ -448,8 +448,8 @@
    9584
   ],
   "jp": "ンンッ③{n}お前が持ってるのは、{n}ひょっとしてロープか？",
-  "en": "",
-  "status": ""
+  "en": "Oh!? Is that a rope you've got there?",
+  "status": "done"
  },
  {
   "id": "event_2160_0073D",
@@ -461,8 +461,8 @@
    9602
   ],
   "jp": "そいつがあれば、{n}オレの身体を補強できる！{n}１０歳は若返るハズだ！",
-  "en": "",
-  "status": ""
+  "en": "With that, I can reinforce my body! I'd feel ten years younger for sure!",
+  "status": "done"
  },
  {
   "id": "event_2160_0077E",
@@ -474,8 +474,8 @@
    9620
   ],
   "jp": "頼む！{n}そいつをオレに譲ってくれ②",
-  "en": "",
-  "status": ""
+  "en": "Please! Let me have it!",
+  "status": "done"
  },
  {
   "id": "event_2160_007A0",
@@ -487,8 +487,8 @@
    9707
   ],
   "jp": "うおーっ、コレだ～②",
-  "en": "",
-  "status": ""
+  "en": "Whoa, this is it!",
+  "status": "done"
  },
  {
   "id": "event_2160_007B5",
@@ -500,8 +500,8 @@
    9725
   ],
   "jp": "恩に着るぜ、お前ら！{n}ありがとよ②",
-  "en": "",
-  "status": ""
+  "en": "I owe you one, folks! Thanks!",
+  "status": "done"
  },
  {
   "id": "event_2160_007D7",
@@ -513,8 +513,8 @@
    9743
   ],
   "jp": "代わりにコイツをやるぜ！",
-  "en": "",
-  "status": ""
+  "en": "Here, take this in return!",
+  "status": "done"
  },
  {
   "id": "event_2160_007F0",
@@ -526,8 +526,8 @@
    9879
   ],
   "jp": "いやあ、もらったロープで{n}繋ぎ目をガッシリ結び止めたら、{n}すこぶる調子がいいぜぇ！",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I lashed my joints tight with that rope, and I feel fantastic!",
+  "status": "done"
  },
  {
   "id": "event_2160_00841",
@@ -539,8 +539,8 @@
    9897
   ],
   "jp": "お前らのおかげだぜ！{n}本当にありがとよ②",
-  "en": "",
-  "status": ""
+  "en": "It's all thanks to you! Really, thanks!",
+  "status": "done"
  },
  {
   "id": "event_2160_00869",
@@ -549,8 +549,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "…あれ？{n}身体の調子が悪いな。{n}ホネの繋ぎ目が緩いのかも…",
-  "en": "",
-  "status": ""
+  "en": "...Huh? My body's not feeling right. Maybe my bones have come loose at the joints...",
+  "status": "done"
  },
  {
   "id": "event_2160_008A2",
@@ -559,8 +559,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "オレも若い頃はブイブイ{n}言わせていたモンだけどよ…",
-  "en": "",
-  "status": ""
+  "en": "I used to be quite the hotshot when I was young, you know...",
+  "status": "done"
  },
  {
   "id": "event_2160_008D4",
@@ -569,8 +569,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "ついこの間のように思っていたが、{n}時が過ぎ行くのは早いモンだな。{n}トホホ～…",
-  "en": "",
-  "status": ""
+  "en": "Feels like just the other day, but time sure flies. Boo hoo...",
+  "status": "done"
  },
  {
   "id": "event_2160_0091F",
@@ -582,8 +582,8 @@
    12049
   ],
   "jp": "あら？　こんな夜中に団体さんが{n}来るなんて珍しいわね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? A whole group at this time of night, that's unusual.",
+  "status": "done"
  },
  {
   "id": "event_2160_00955",
@@ -595,8 +595,8 @@
    12056
   ],
   "jp": "お金さえ払ってくれるのなら、{n}誰だってお客さんよ！{n}ゆっくりしていってちょうだい。",
-  "en": "",
-  "status": ""
+  "en": "As long as you pay, you're a customer! Stay as long as you like.",
+  "status": "done"
  },
  {
   "id": "event_2160_009A6",
@@ -608,8 +608,8 @@
    12063
   ],
   "jp": "ムム？　お客さん達、{n}王国や教国の兵隊じゃないわね。{n}どこか違う国の…",
-  "en": "",
-  "status": ""
+  "en": "Hmm? You folks aren't Kingdom or Holy Nation soldiers. From some other country...",
+  "status": "done"
  },
  {
   "id": "event_2160_009EB",
@@ -621,8 +621,8 @@
    12070
   ],
   "jp": "…何かワケあり、ってわけね。{n}大丈夫！　詮索なんてしないから！",
-  "en": "",
-  "status": ""
+  "en": "...So you've got your reasons. Don't worry! I won't pry!",
+  "status": "done"
  },
  {
   "id": "event_2160_00A29",
@@ -634,8 +634,8 @@
    12077
   ],
   "jp": "いつか作戦行動じゃなく、{n}観光で来てよね！{n}サービスしちゃうから♪",
-  "en": "",
-  "status": ""
+  "en": "Someday, come on a sightseeing trip, not a military operation! I'll treat you right ♪",
+  "status": "done"
  },
  {
   "id": "event_2160_00A6A",
@@ -647,8 +647,8 @@
    12084
   ],
   "jp": "えっ？　ここいらの観光名所？{n}よくぞ聞いてくれました！",
-  "en": "",
-  "status": ""
+  "en": "Huh? Tourist spots around here? So glad you asked!",
+  "status": "done"
  },
  {
   "id": "event_2160_00AA0",
@@ -660,8 +660,8 @@
    12091
   ],
   "jp": "町の傍にある湖だけどね…{n}夜になると、湖底が光るのよ！{n}どう？　珍しいでしょ③",
-  "en": "",
-  "status": ""
+  "en": "That lake right by town... At night, the bottom of the lake glows! How about that? Rare, right!?",
+  "status": "done"
  },
  {
   "id": "event_2160_00AED",
@@ -673,8 +673,8 @@
    12098
   ],
   "jp": "湖の底に何かあるのかしらね？{n}ま、詳しくは知らないんだけど…",
-  "en": "",
-  "status": ""
+  "en": "Maybe there's something down there? Well, I don't really know the details...",
+  "status": "done"
  },
  {
   "id": "event_2160_00B29",
@@ -686,8 +686,8 @@
    11905
   ],
   "jp": "あら？　こんな夜中に団体さんが{n}来るなんて珍しいわね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? A whole group at this time of night, that's unusual.",
+  "status": "done"
  },
  {
   "id": "event_2160_00B5F",
@@ -699,8 +699,8 @@
    11912
   ],
   "jp": "お金さえ払ってくれるのなら、{n}誰だってお客さんよ！{n}ゆっくりしていってちょうだい。",
-  "en": "",
-  "status": ""
+  "en": "As long as you pay, you're a customer! Stay as long as you like.",
+  "status": "done"
  },
  {
   "id": "event_2160_00BB0",
@@ -712,8 +712,8 @@
    11919
   ],
   "jp": "それにしても、変わった格好ね…{n}わかった！　さてはお客さん、{n}魔法使いでしょ③",
-  "en": "",
-  "status": ""
+  "en": "Say, you're dressed funny... I've got it! You must be a magician, aren't you!?",
+  "status": "done"
  },
  {
   "id": "event_2160_00BFD",
@@ -725,8 +725,8 @@
    11926
   ],
   "jp": "随分前に、東から来た{n}魔法使いさんが忘れて行った{n}コートがあるんだけど…",
-  "en": "",
-  "status": ""
+  "en": "A long time ago, a magician from the east forgot a coat here...",
+  "status": "done"
  },
  {
   "id": "event_2160_00C44",
@@ -738,8 +738,8 @@
    11933
   ],
   "jp": "せっかく来てくれたんだもの！{n}お客さんにあげちゃうわ！",
-  "en": "",
-  "status": ""
+  "en": "You came all this way, so you can have it!",
+  "status": "done"
  },
  {
   "id": "event_2160_00C7A",
@@ -751,8 +751,8 @@
    12018
   ],
   "jp": "いいのいいの！{n}魔力を持ってないあたしじゃ{n}着こせないみたいだから！",
-  "en": "",
-  "status": ""
+  "en": "It's fine, it's fine! I've got no magic, so I guess I can't wear it right anyway!",
+  "status": "done"
  },
  {
   "id": "event_2160_00CBD",
@@ -764,8 +764,8 @@
    12025
   ],
   "jp": "元の持ち主さんが{n}取りに来るのはありえないし、{n}もらっちゃってよ！",
-  "en": "",
-  "status": ""
+  "en": "There's no way the owner's coming back for it, so take it!",
+  "status": "done"
  },
  {
   "id": "event_2160_00CFE",
@@ -777,8 +777,8 @@
    12122
   ],
   "jp": "さっき渡したコートだけど、{n}結構な上物みたいだから{n}大切に使ってね！",
-  "en": "",
-  "status": ""
+  "en": "That coat I gave you seems pretty high quality, so take good care of it!",
+  "status": "done"
  },
  {
   "id": "event_2160_00D41",
@@ -790,8 +790,8 @@
    12129
   ],
   "jp": "…え？　元の持ち主さんのこと？{n}東から来た魔法使いさんよ。",
-  "en": "",
-  "status": ""
+  "en": "...Huh? The owner? A magician from the east.",
+  "status": "done"
  },
  {
   "id": "event_2160_00D7B",
@@ -803,8 +803,8 @@
    12136
   ],
   "jp": "白ずくめの格好だったけど、{n}良家の人、って雰囲気だったわね。{n}きっと白が好きなのよね。",
-  "en": "",
-  "status": ""
+  "en": "Dressed all in white, but seemed like someone from a good family. Must've really liked white.",
+  "status": "done"
  },
  {
   "id": "event_2160_00DD0",
@@ -816,8 +816,8 @@
    12143
   ],
   "jp": "何か、魔法アイテムを探す旅の{n}帰りって聞いたケド…{n}詳しくはよくわかんないわね。",
-  "en": "",
-  "status": ""
+  "en": "Heard they were on the way back from searching for some magic item... I don't really know the details.",
+  "status": "done"
  },
  {
   "id": "event_2160_00E1F",
@@ -829,8 +829,8 @@
    10078
   ],
   "jp": "ここの地面だけ{n}他の砂地とは違うな…",
-  "en": "",
-  "status": ""
+  "en": "Only this patch of ground's different from the other sand...",
+  "status": "done"
  },
  {
   "id": "event_2160_00E43",
@@ -842,8 +842,8 @@
    10153
   ],
   "jp": "…バラか、コレ？{n}こんな水気のない地で、{n}随分タフな奴だな。",
-  "en": "",
-  "status": ""
+  "en": "...Is this a rose? Pretty tough, growing in a place with no water.",
+  "status": "done"
  },
  {
   "id": "event_2160_00E7E",
@@ -855,8 +855,8 @@
    10233
   ],
   "jp": "このあたりだけ、{n}他の場所とは感じが違うわね。",
-  "en": "",
-  "status": ""
+  "en": "This area feels different from everywhere else.",
+  "status": "done"
  },
  {
   "id": "event_2160_00EAC",
@@ -868,8 +868,8 @@
    10308
   ],
   "jp": "…あ。バラだわ。{n}こんなに乾いてばかりの土地で、{n}強く育ってきたのね…",
-  "en": "",
-  "status": ""
+  "en": "...Oh. It's a rose. It's grown so strong in this dry, dry land...",
+  "status": "done"
  },
  {
   "id": "event_2160_00EF1",
@@ -881,8 +881,8 @@
    10395
   ],
   "jp": "地図によると、この辺は{n}誰かの荘園だったみたいだね。",
-  "en": "",
-  "status": ""
+  "en": "According to the map, this area used to be someone's estate.",
+  "status": "done"
  },
  {
   "id": "event_2160_00F25",
@@ -894,8 +894,8 @@
    10484
   ],
   "jp": "…おや？{n}砂漠に咲くバラか。{n}なんだかロマンチックだねぇ。",
-  "en": "",
-  "status": ""
+  "en": "...Oh? A rose blooming in the desert. How romantic.",
+  "status": "done"
  },
  {
   "id": "event_2160_00F5E",
@@ -907,8 +907,8 @@
    10578
   ],
   "jp": "細々とだけど、{n}植物が生えているわね。",
-  "en": "",
-  "status": ""
+  "en": "Not much of it, but there are plants growing here.",
+  "status": "done"
  },
  {
   "id": "event_2160_00F84",
@@ -920,8 +920,8 @@
    10667
   ],
   "jp": "…バラだ。{n}すごい、生命力ね…",
-  "en": "",
-  "status": ""
+  "en": "...A rose. What amazing vitality...",
+  "status": "done"
  },
  {
   "id": "event_2160_00FA2",
@@ -933,8 +933,8 @@
    10754
   ],
   "jp": "このあたりだけ、{n}整地された形跡がありますね…",
-  "en": "",
-  "status": ""
+  "en": "Only this area shows signs of having been leveled...",
+  "status": "done"
  },
  {
   "id": "event_2160_00FD0",
@@ -946,8 +946,8 @@
    10829
   ],
   "jp": "ここは花壇だったのでしょうか？{n}砂漠に花が咲くなんて…",
-  "en": "",
-  "status": ""
+  "en": "Might this have been a flower bed? Flowers blooming in the desert...",
+  "status": "done"
  },
  {
   "id": "event_2160_01006",
@@ -959,8 +959,8 @@
    10916
   ],
   "jp": "砂漠の夜は寒いな…",
-  "en": "",
-  "status": ""
+  "en": "The desert night is cold...",
+  "status": "done"
  },
  {
   "id": "event_2160_01019",
@@ -972,8 +972,8 @@
    11005
   ],
   "jp": "ムムッ？　これはバラか。{n}バラでも食えばハラ膨れるよな。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Hm? This is a rose. If Byff eats it, Byff's hunger is rose-olved. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2160_01060",
@@ -985,8 +985,8 @@
    11099
   ],
   "jp": "あら？{n}このあたり、植物が生えてるわね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? There are plants growing around here.",
+  "status": "done"
  },
  {
   "id": "event_2160_01088",
@@ -998,8 +998,8 @@
    11188
   ],
   "jp": "これはバラね…{n}よくこんな砂地で育つわねぇ。",
-  "en": "",
-  "status": ""
+  "en": "This is a rose... Amazing that it grows in this sand.",
+  "status": "done"
  },
  {
   "id": "event_2160_010B4",
@@ -1011,8 +1011,8 @@
    11275
   ],
   "jp": "ん？{n}ここって砂漠だよな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? This is a desert, right...",
+  "status": "done"
  },
  {
   "id": "event_2160_010CE",
@@ -1024,8 +1024,8 @@
    11350
   ],
   "jp": "植物が育つんだなあ。{n}たくましいぜ。",
-  "en": "",
-  "status": ""
+  "en": "So plants can grow here. Tough little guys.",
+  "status": "done"
  },
  {
   "id": "event_2160_010F2",
@@ -1037,8 +1037,8 @@
    11437
   ],
   "jp": "ヒック…{n}ウィ～ッ…{n}んん？　酒飲み過ぎかなぁ…",
-  "en": "",
-  "status": ""
+  "en": "*hic*... Ooh... Hmm? Did I drink too much...",
+  "status": "done"
  },
  {
   "id": "event_2160_01121",
@@ -1050,8 +1050,8 @@
    11523
   ],
   "jp": "幻覚が見えてきたわ…{n}砂漠にバラが咲いてるなんて…",
-  "en": "",
-  "status": ""
+  "en": "I'm seeing things now... A rose blooming in the desert...",
+  "status": "done"
  },
  {
   "id": "event_2160_01153",
@@ -1063,8 +1063,8 @@
    11610
   ],
   "jp": "…何かしら？{n}土地自体が巨大な魔力を{n}持ってるようだわさ…",
-  "en": "",
-  "status": ""
+  "en": "...What's this? The land itself seems to hold huge magic power, y'know...",
+  "status": "done"
  },
  {
   "id": "event_2160_0118C",
@@ -1076,8 +1076,8 @@
    11635
   ],
   "jp": "巧妙に隠してるけど、{n}パメラ様にはお見通しよね♪{n}でも、何のために…",
-  "en": "",
-  "status": ""
+  "en": "It's cleverly hidden, but Pamela-sama sees right through it ♪ But what for...",
+  "status": "done"
  },
  {
   "id": "event_2160_011CF",
@@ -1089,8 +1089,8 @@
    11721
   ],
   "jp": "まさか、魔力の出所ってこの花？{n}とんでもないシロモノね…",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me this flower's the source of the magic? What an incredible thing...",
+  "status": "done"
  },
  {
   "id": "event_2160_01207",
@@ -1102,8 +1102,8 @@
    12303
   ],
   "jp": "湖か…{n}飲み水を汲んでおくか。",
-  "en": "",
-  "status": ""
+  "en": "A lake... I'll draw some drinking water.",
+  "status": "done"
  },
  {
   "id": "event_2160_01225",
@@ -1115,8 +1115,8 @@
    12378
   ],
   "jp": "お？　果物が生ってるじゃないか。{n}どれ、１つもらっとくか。",
-  "en": "",
-  "status": ""
+  "en": "Oh? There's fruit growing here. Well, guess I'll take one.",
+  "status": "done"
  },
  {
   "id": "event_2160_0125F",
@@ -1128,8 +1128,8 @@
    12458
   ],
   "jp": "フゥ…{n}砂漠の夜は寒いけど、{n}でも水際は落ち着くわね。",
-  "en": "",
-  "status": ""
+  "en": "Whew... The desert's cold at night, but being near water is so relaxing.",
+  "status": "done"
  },
  {
   "id": "event_2160_01294",
@@ -1141,8 +1141,8 @@
    12533
   ],
   "jp": "あ、果物が生ってる。{n}…１つくらい、もらったって{n}誰にも怒られないわよね？",
-  "en": "",
-  "status": ""
+  "en": "Oh, fruit. ...Nobody's going to get mad if I take just one, right?",
+  "status": "done"
  },
  {
   "id": "event_2160_012DD",
@@ -1154,8 +1154,8 @@
    12613
   ],
   "jp": "やっぱり砂漠の街道って、{n}オアシスに沿って伸びてるんだね。",
-  "en": "",
-  "status": ""
+  "en": "So the desert roads do stretch along the oases.",
+  "status": "done"
  },
  {
   "id": "event_2160_01317",
@@ -1167,8 +1167,8 @@
    12688
   ],
   "jp": "お、果物が育ってる…{n}やっぱり水の恩恵は偉大だね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, fruit growing here... The gift of water truly is great.",
+  "status": "done"
  },
  {
   "id": "event_2160_01349",
@@ -1180,8 +1180,8 @@
    12768
   ],
   "jp": "オアシスか。{n}今のうちに水を確保しておいて。",
-  "en": "",
-  "status": ""
+  "en": "An oasis. Get your water while you can.",
+  "status": "done"
  },
  {
   "id": "event_2160_01375",
@@ -1193,8 +1193,8 @@
    12843
   ],
   "jp": "あら？{n}…コレ、パワーフルーツだわ。{n}栄養価高いのよね、コレ…",
-  "en": "",
-  "status": ""
+  "en": "Oh? ...This is a Power Fruit. These are very nutritious, you know...",
+  "status": "done"
  },
  {
   "id": "event_2160_013B2",
@@ -1206,8 +1206,8 @@
    12930
   ],
   "jp": "水場ですね。{n}この砂漠での行軍です。{n}飲み水を確保しておかないと…",
-  "en": "",
-  "status": ""
+  "en": "A watering place. We are marching in this desert, so we must secure drinking water...",
+  "status": "done"
  },
  {
   "id": "event_2160_013F3",
@@ -1219,8 +1219,8 @@
    13019
   ],
   "jp": "あら？　果物ですね。{n}食べ物も一緒に確保できるなんて、{n}運がいいですね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? Fruit. How lucky, to secure food as well.",
+  "status": "done"
  },
  {
   "id": "event_2160_0143A",
@@ -1232,8 +1232,8 @@
    13113
   ],
   "jp": "ここはオアシスだな…",
-  "en": "",
-  "status": ""
+  "en": "This is an oasis...",
+  "status": "done"
  },
  {
   "id": "event_2160_0144F",
@@ -1245,8 +1245,8 @@
    13188
   ],
   "jp": "お、果物だ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, fruit!",
+  "status": "done"
  },
  {
   "id": "event_2160_0145C",
@@ -1258,8 +1258,8 @@
    13209
   ],
   "jp": "バイフー、果物好き！{n}だって、食べるのラクだもの！{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Byff loves fruit! Because it is a-peeling! Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2160_0149D",
@@ -1271,8 +1271,8 @@
    13303
   ],
   "jp": "オアシスね…{n}水を汲んでおこうかしら。",
-  "en": "",
-  "status": ""
+  "en": "An oasis... Maybe I'll draw some water.",
+  "status": "done"
  },
  {
   "id": "event_2160_014C3",
@@ -1284,8 +1284,8 @@
    13392
   ],
   "jp": "あら。{n}美味しそうなフルーツね。",
-  "en": "",
-  "status": ""
+  "en": "Oh my. That fruit looks tasty.",
+  "status": "done"
  },
  {
   "id": "event_2160_014E3",
@@ -1297,8 +1297,8 @@
    13479
   ],
   "jp": "ふぅ、一息つくねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Whew, time for a breather.",
+  "status": "done"
  },
  {
   "id": "event_2160_014F8",
@@ -1310,8 +1310,8 @@
    13554
   ],
   "jp": "お？　うまそうな果物だなあ。{n}１つもらっておくか。",
-  "en": "",
-  "status": ""
+  "en": "Oh? Tasty-looking fruit. I'll take one.",
+  "status": "done"
  },
  {
   "id": "event_2160_0152A",
@@ -1323,8 +1323,8 @@
    13634
   ],
   "jp": "ヒック！　ウィー、っと…{n}ん？　なんだ？",
-  "en": "",
-  "status": ""
+  "en": "*hic*! Ooh... Hm? What's this?",
+  "status": "done"
  },
  {
   "id": "event_2160_01552",
@@ -1336,8 +1336,8 @@
    13709
   ],
   "jp": "果物かぁ…{n}酒の肴としてはイマイチよねぇ。{n}ウ、ヒック②",
-  "en": "",
-  "status": ""
+  "en": "Fruit, huh... Doesn't really go with booze. Uh, *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2160_01589",
@@ -1349,8 +1349,8 @@
    13796
   ],
   "jp": "水浴びして埃を落としたいけど…{n}砂漠の夜は冷えるわよねぇ。{n}風邪引きたくないだわさ…",
-  "en": "",
-  "status": ""
+  "en": "I'd like to bathe and wash off the dust, but... desert nights are cold. I don't wanna catch a cold, y'know...",
+  "status": "done"
  },
  {
   "id": "event_2160_015DC",
@@ -1362,8 +1362,8 @@
    13885
   ],
   "jp": "うほっ②{n}パワーフルーツじゃない！{n}パメラ様がツバつけた～②",
-  "en": "",
-  "status": ""
+  "en": "Whoa! That's a Power Fruit! Pamela-sama calls dibs!",
+  "status": "done"
  },
  {
   "id": "event_2160_01617",
@@ -1375,8 +1375,8 @@
    14048
   ],
   "jp": "ヒック！　ウィー…{n}……んむむ～？{n}水面が光ってるわねぇ。",
-  "en": "",
-  "status": ""
+  "en": "*hic*! Ooh... ...Hmmm? The water's glowing.",
+  "status": "done"
  },
  {
   "id": "event_2160_01650",
@@ -1388,8 +1388,8 @@
    14055
   ],
   "jp": "湖底に何かあるのかしら？{n}ちょっと探してみようかね…",
-  "en": "",
-  "status": ""
+  "en": "Something at the bottom of the lake? Guess I'll go have a look...",
+  "status": "done"
  },
  {
   "id": "event_2160_01684",
@@ -1401,8 +1401,8 @@
    14799
   ],
   "jp": "…おかしな石が沈んでいたわ。{n}なんで光っているのかしら？",
-  "en": "",
-  "status": ""
+  "en": "...There was a strange stone sunk down there. I wonder why it's glowing?",
+  "status": "done"
  },
  {
   "id": "event_2160_016BC",
@@ -1414,8 +1414,8 @@
    14966
   ],
   "jp": "ん？　街道に何か落ちているな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something's lying on the road...",
+  "status": "done"
  },
  {
   "id": "event_2160_016DB",
@@ -1427,8 +1427,8 @@
    15036
   ],
   "jp": "おかしな柄のコインだな。{n}ま、いただいておくか。",
-  "en": "",
-  "status": ""
+  "en": "Odd pattern on this coin. Well, guess I'll take it.",
+  "status": "done"
  },
  {
   "id": "event_2160_0170B",
@@ -1440,8 +1440,8 @@
    15116
   ],
   "jp": "…ムム。{n}何だか、お金の匂いがするわね…{n}どこかしら…",
-  "en": "",
-  "status": ""
+  "en": "...Hmm. I can kinda smell money... Where is it...",
+  "status": "done"
  },
  {
   "id": "event_2160_01740",
@@ -1453,8 +1453,8 @@
    15186
   ],
   "jp": "あったわ！{n}…けど変わった紋章のコインね。",
-  "en": "",
-  "status": ""
+  "en": "Found it! ...But what an odd crest on this coin.",
+  "status": "done"
  },
  {
   "id": "event_2160_0176A",
@@ -1466,8 +1466,8 @@
    15266
   ],
   "jp": "おや？　なんだろう。",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's this.",
+  "status": "done"
  },
  {
   "id": "event_2160_0177F",
@@ -1479,8 +1479,8 @@
    15336
   ],
   "jp": "コインが落ちているね。{n}けど、この紋章……{n}どこかで見た覚えがあるな。",
-  "en": "",
-  "status": ""
+  "en": "There's a coin here. But this crest... I've seen it somewhere before.",
+  "status": "done"
  },
  {
   "id": "event_2160_017C4",
@@ -1492,8 +1492,8 @@
    15416
   ],
   "jp": "む…{n}何か落ちているな。",
-  "en": "",
-  "status": ""
+  "en": "Hm... Something's lying here.",
+  "status": "done"
  },
  {
   "id": "event_2160_017DC",
@@ -1505,8 +1505,8 @@
    15486
   ],
   "jp": "…このコイン、片面に{n}ファンタジニア王家の紋章が{n}刻まれているな。",
-  "en": "",
-  "status": ""
+  "en": "...This coin has the Fantasinian royal crest carved on one side.",
+  "status": "done"
  },
  {
   "id": "event_2160_0181D",
@@ -1518,8 +1518,8 @@
    15566
   ],
   "jp": "あら？{n}コインが落ちていますね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? There is a coin here.",
+  "status": "done"
  },
  {
   "id": "event_2160_0183D",
@@ -1531,8 +1531,8 @@
    15636
   ],
   "jp": "…王国の紋章、ですね……",
-  "en": "",
-  "status": ""
+  "en": "...The Kingdom's crest...",
+  "status": "done"
  },
  {
   "id": "event_2160_01856",
@@ -1544,8 +1544,8 @@
    15723
   ],
   "jp": "ムムっ？{n}なにか、見つけたぞ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? Byff found something.",
+  "status": "done"
  },
  {
   "id": "event_2160_01874",
@@ -1557,8 +1557,8 @@
    15807
   ],
   "jp": "コインだ！　コインを拾ったら、{n}ポケットにソッコーインだな。{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "A coin! Find a coin, and in the pocket it goes, coin-stantly! Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2160_018BF",
@@ -1570,8 +1570,8 @@
    15894
   ],
   "jp": "……あら。{n}コインが落ちてるわね。",
-  "en": "",
-  "status": ""
+  "en": "...Oh. There's a coin here.",
+  "status": "done"
  },
  {
   "id": "event_2160_018E1",
@@ -1583,8 +1583,8 @@
    15964
   ],
   "jp": "…王国王家の紋章が入ってるわ。{n}記念品か何かかしら。",
-  "en": "",
-  "status": ""
+  "en": "...It has the Kingdom's royal crest. A commemorative piece of some kind?",
+  "status": "done"
  },
  {
   "id": "event_2160_01915",
@@ -1596,8 +1596,8 @@
    16051
   ],
   "jp": "むっ③{n}金の匂いがする！{n}どこだ？　一体どこに③",
-  "en": "",
-  "status": ""
+  "en": "Hm!? I smell money! Where? Where is it!?",
+  "status": "done"
  },
  {
   "id": "event_2160_01944",
@@ -1609,8 +1609,8 @@
    16135
   ],
   "jp": "コイン・ゲ～ット②{n}もらっとくぜ、と。",
-  "en": "",
-  "status": ""
+  "en": "Coin, get! I'll just take this.",
+  "status": "done"
  },
  {
   "id": "event_2160_0196A",
@@ -1622,8 +1622,8 @@
    16222
   ],
   "jp": "ウィー、ヒック…{n}んむ？{n}何か踏んづけたわね…",
-  "en": "",
-  "status": ""
+  "en": "*hic*... Hm? I stepped on something...",
+  "status": "done"
  },
  {
   "id": "event_2160_01997",
@@ -1635,8 +1635,8 @@
    16292
   ],
   "jp": "コインか…{n}尾びれで引きずっちゃったのね。",
-  "en": "",
-  "status": ""
+  "en": "A coin... Guess my tail fin dragged it along.",
+  "status": "done"
  },
  {
   "id": "event_2160_019C1",
@@ -1697,8 +1697,8 @@
    7158
   ],
   "jp": "ジルヴァ暗殺隊",
-  "en": "",
-  "status": ""
+  "en": "Zilva Assassin",
+  "status": "done"
  },
  {
   "id": "event_2160_04A6C",

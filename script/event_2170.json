@@ -1760,8 +1760,8 @@
    5731
   ],
   "jp": "ジルヴァ暗殺隊",
-  "en": "",
-  "status": ""
+  "en": "Zilva Assassin",
+  "status": "done"
  },
  {
   "id": "event_2170_01704",
@@ -1772,8 +1772,8 @@
    5889
   ],
   "jp": "神生教団",
-  "en": "",
-  "status": ""
+  "en": "Papal",
+  "status": "done"
  },
  {
   "id": "event_2170_0179C",
@@ -1784,7 +1784,7 @@
    6041
   ],
   "jp": "神生教団",
-  "en": "",
-  "status": ""
+  "en": "Papal",
+  "status": "done"
  }
 ]

@@ -81,7 +81,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 |---|---|---|---|---|
 | グラムブレイズ | Gram Blaze | | the army | |
 | ブレイズ義賊団 | Blaze Justice Corps / Blaze Corps | | earlier name; Blaze Corps only in 14-byte unit names | |
-| 神生教団 | Blessed Papal Army | | | |
+| 神生教団 | Blessed Papal Army / Papal | | Papal only in 8-byte unit names | |
 | タクティクスカード | Tactics Card | | | |
 | スキルゲージ | Skill Gauge | | | |
 | ユニオンリーダー | Union Leader | | | |

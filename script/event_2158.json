@@ -1846,8 +1846,8 @@
    32851
   ],
   "jp": "{voice:00FF02}二度と言わせるな。{n}盗賊団と呼ばれるような事を、{n}俺達は一度もやっていない！",
-  "en": "",
-  "status": ""
+  "en": "Don't make me say it twice. We've never once done anything that deserves to be called thieving!",
+  "status": "done"
  },
  {
   "id": "event_2158_04384",
@@ -1858,8 +1858,8 @@
    25792
   ],
   "jp": "アンタの攻略法！{n}見つけたんだからねー！",
-  "en": "",
-  "status": ""
+  "en": "Cerica found the way to beat you! She did, so there!",
+  "status": "done"
  },
  {
   "id": "event_2158_043AC",
@@ -1870,8 +1870,8 @@
    25813
   ],
   "jp": "攻略法…？{n}なんだよ、またワケのわかんねぇ{n}こと言いやがってよ！",
-  "en": "",
-  "status": ""
+  "en": "The way to beat me...? What now, more of your nonsense!",
+  "status": "done"
  },
  {
   "id": "event_2158_043EB",
@@ -1882,8 +1882,8 @@
    26021
   ],
   "jp": "大切なものを奪われた気持ちが{n}アンタらに判るもんか！",
-  "en": "",
-  "status": ""
+  "en": "Like you could understand how it feels to have what you love taken away!",
+  "status": "done"
  },
  {
   "id": "event_2158_0441F",
@@ -1894,8 +1894,8 @@
    26042
   ],
   "jp": "誰にも判らないなんて……{n}くだらない思い込みしてさ！{n}なに、悲劇のヒロイン気取り③",
-  "en": "",
-  "status": ""
+  "en": "Nobody could understand... Spare me that junk! What, playing the tragic heroine!?",
+  "status": "done"
  },
  {
   "id": "event_2158_04470",
@@ -1906,8 +1906,8 @@
    26063
   ],
   "jp": "なな、なにをーーっ！",
-  "en": "",
-  "status": ""
+  "en": "Wh-wh-whaaat!?",
+  "status": "done"
  },
  {
   "id": "event_2158_04485",
@@ -1918,8 +1918,8 @@
    26271
   ],
   "jp": "できるなら、カワイイ女の子とは{n}刃を交えたくないんだよね。",
-  "en": "",
-  "status": ""
+  "en": "If I can help it, I'd rather not cross blades with a cute girl.",
+  "status": "done"
  },
  {
   "id": "event_2158_044BF",
@@ -1930,8 +1930,8 @@
    26295
   ],
   "jp": "なッ！{n}なに言ってんのよバーカ！",
-  "en": "",
-  "status": ""
+  "en": "Wha!? What are you talking about, you moron!",
+  "status": "done"
  },
  {
   "id": "event_2158_044DF",
@@ -1942,8 +1942,8 @@
    26503
   ],
   "jp": "お前の戦いの目的は、{n}いつか、自身を不幸にするよ……",
-  "en": "",
-  "status": ""
+  "en": "What you're fighting for will make you miserable someday...",
+  "status": "done"
  },
  {
   "id": "event_2158_04513",
@@ -1954,8 +1954,8 @@
    26524
   ],
   "jp": "知ったような口を聞いてッ！",
-  "en": "",
-  "status": ""
+  "en": "Like you know anything!",
+  "status": "done"
  },
  {
   "id": "event_2158_0452E",
@@ -1966,8 +1966,8 @@
    26545
   ],
   "jp": "アンタ達を倒せば！{n}セリカの不幸は終わるのよッ②",
-  "en": "",
-  "status": ""
+  "en": "Beat you people, and Cerica's misery is over!",
+  "status": "done"
  },
  {
   "id": "event_2158_0455E",
@@ -1978,8 +1978,8 @@
    26753
   ],
   "jp": "寄らば、斬ります！",
-  "en": "",
-  "status": ""
+  "en": "Come closer and I will cut you down!",
+  "status": "done"
  },
  {
   "id": "event_2158_04571",
@@ -1990,8 +1990,8 @@
    26774
   ],
   "jp": "なに、そのセリフ！{n}カッコイイとか思ってんの？",
-  "en": "",
-  "status": ""
+  "en": "What kind of line is that! You think it sounds cool or something?",
+  "status": "done"
  },
  {
   "id": "event_2158_0459F",
@@ -2002,8 +2002,8 @@
    26975
   ],
   "jp": "自分のために戦えばいいのに、{n}バカな女ね。",
-  "en": "",
-  "status": ""
+  "en": "You could've fought for yourself, you foolish girl.",
+  "status": "done"
  },
  {
   "id": "event_2158_045C9",
@@ -2014,8 +2014,8 @@
    26996
   ],
   "jp": "これが自分の為なのよッ②{n}復讐を果たすのがね！",
-  "en": "",
-  "status": ""
+  "en": "This is for myself! Getting revenge is!",
+  "status": "done"
  },
  {
   "id": "event_2158_045F7",
@@ -2026,8 +2026,8 @@
    27197
   ],
   "jp": "復讐とか、おっかないなあ…",
-  "en": "",
-  "status": ""
+  "en": "Revenge and stuff, that's scary...",
+  "status": "done"
  },
  {
   "id": "event_2158_04612",
@@ -2038,8 +2038,8 @@
    27218
   ],
   "jp": "だったら立ち去りな！{n}セリカの目的はアンタじゃない！",
-  "en": "",
-  "status": ""
+  "en": "Then scram! It's not you Cerica's after!",
+  "status": "done"
  },
  {
   "id": "event_2158_04646",
@@ -2050,8 +2050,8 @@
    27225
   ],
   "jp": "でも……{n}邪魔するヤツには容赦しない！",
-  "en": "",
-  "status": ""
+  "en": "But... anyone who gets in Cerica's way gets no mercy!",
+  "status": "done"
  },
  {
   "id": "event_2158_0466C",
@@ -2062,8 +2062,8 @@
    27426
   ],
   "jp": "ウィ～ック…{n}ウエッ……",
-  "en": "",
-  "status": ""
+  "en": "*hic*... *urp*...",
+  "status": "done"
  },
  {
   "id": "event_2158_04684",
@@ -2074,8 +2074,8 @@
    27447
   ],
   "jp": "な、なによ、このウンディーネ…{n}キ、キタナイ……",
-  "en": "",
-  "status": ""
+  "en": "Wh-what's with this Undine... S-so gross...",
+  "status": "done"
  },
  {
   "id": "event_2158_046B4",
@@ -2086,8 +2086,8 @@
    27648
   ],
   "jp": "アンタもガーロットの仲間ね！{n}恥ずかしい姿にしてあげる！",
-  "en": "",
-  "status": ""
+  "en": "You're one of Garlot's friends too! Cerica's gonna make you look real embarrassing!",
+  "status": "done"
  },
  {
   "id": "event_2158_046EC",
@@ -2098,8 +2098,8 @@
    27669
   ],
   "jp": "あらあら、{n}バイオレンスな娘だこと……{n}オイタが過ぎるとお仕置きだわさ。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, what a violent girl... Get too naughty and you'll get a spanking, y'know.",
+  "status": "done"
  },
  {
   "id": "event_2158_04733",
@@ -2110,8 +2110,8 @@
    28595
   ],
   "jp": "今は、お前の相手なんか{n}してる場合じゃねぇんだよ！",
-  "en": "",
-  "status": ""
+  "en": "I've got no time to deal with you right now!",
+  "status": "done"
  },
  {
   "id": "event_2158_04765",
@@ -2122,8 +2122,8 @@
    28616
   ],
   "jp": "く、くそ……{n}セリカを無視すること、許さない！{n}許さない②",
-  "en": "",
-  "status": ""
+  "en": "D-damn it... Cerica won't forgive being ignored! Won't forgive it!",
+  "status": "done"
  },
  {
   "id": "event_2158_0479E",
@@ -2134,8 +2134,8 @@
    28894
   ],
   "jp": "相変わらず厄介ね……",
-  "en": "",
-  "status": ""
+  "en": "Still a pain, as always...",
+  "status": "done"
  },
  {
   "id": "event_2158_047B3",
@@ -2146,8 +2146,8 @@
    28915
   ],
   "jp": "いい加減気が付きなさいよ！{n}私達を倒しても変わらないって。",
-  "en": "",
-  "status": ""
+  "en": "Wise up already! Beating us won't change anything.",
+  "status": "done"
  },
  {
   "id": "event_2158_047ED",
@@ -2158,8 +2158,8 @@
    28936
   ],
   "jp": "うるさい、うるさい、うるさい！{n}勝手に決めるな！",
-  "en": "",
-  "status": ""
+  "en": "Shut up, shut up, shut up! You don't get to decide that!",
+  "status": "done"
  },
  {
   "id": "event_2158_0481D",
@@ -2170,8 +2170,8 @@
    29214
   ],
   "jp": "君には斧よりも、{n}羽毛付きの団扇の方が似合うよ。",
-  "en": "",
-  "status": ""
+  "en": "A feathered fan would suit you better than an axe.",
+  "status": "done"
  },
  {
   "id": "event_2158_0484D",
@@ -2182,8 +2182,8 @@
    29235
   ],
   "jp": "……っつ、なに言ってんのよ！{n}アンタの存在って何？",
-  "en": "",
-  "status": ""
+  "en": "...Tch, what are you even saying! What IS your deal?",
+  "status": "done"
  },
  {
   "id": "event_2158_0487F",
@@ -2194,8 +2194,8 @@
    29513
   ],
   "jp": "早々に兵を引いた方がいいな。",
-  "en": "",
-  "status": ""
+  "en": "You'd better pull your troops out now.",
+  "status": "done"
  },
  {
   "id": "event_2158_0489C",
@@ -2206,8 +2206,8 @@
    29534
   ],
   "jp": "くそっ、デイヴィド隊長の仇は{n}いつか討ってやる……",
-  "en": "",
-  "status": ""
+  "en": "Damn it, Cerica's gonna get revenge for Captain David someday...",
+  "status": "done"
  },
  {
   "id": "event_2158_048CE",
@@ -2218,8 +2218,8 @@
    29840
   ],
   "jp": "よい腕をしているようですが{n}所詮は力任せですね。",
-  "en": "",
-  "status": ""
+  "en": "You seem to have some skill, but in the end it is only brute force.",
+  "status": "done"
  },
  {
   "id": "event_2158_048FE",
@@ -2230,8 +2230,8 @@
    30111
   ],
   "jp": "特攻するだけのバカ女に{n}私が負けるもんですか。",
-  "en": "",
-  "status": ""
+  "en": "As if I'd lose to some idiot girl who just charges in.",
+  "status": "done"
  },
  {
   "id": "event_2158_0492C",
@@ -2242,8 +2242,8 @@
    30132
   ],
   "jp": "バババ、バカと言ったな！{n}ゆ、許さないッ②",
-  "en": "",
-  "status": ""
+  "en": "Y-y-you called Cerica an idiot! Sh-she won't forgive that!",
+  "status": "done"
  },
  {
   "id": "event_2158_04956",
@@ -2254,8 +2254,8 @@
    30410
   ],
   "jp": "もうやめようぜぇ。{n}痛い思い、したくないだろ？",
-  "en": "",
-  "status": ""
+  "en": "Let's stop this already. You don't want to get hurt, right?",
+  "status": "done"
  },
  {
   "id": "event_2158_04984",
@@ -2266,8 +2266,8 @@
    30431
   ],
   "jp": "うるさい！",
-  "en": "",
-  "status": ""
+  "en": "Shut up!",
+  "status": "done"
  },
  {
   "id": "event_2158_0498F",
@@ -2278,8 +2278,8 @@
    30744
   ],
   "jp": "…ヒック…",
-  "en": "",
-  "status": ""
+  "en": "...*hic*...",
+  "status": "done"
  },
  {
   "id": "event_2158_0499A",
@@ -2290,8 +2290,8 @@
    30765
   ],
   "jp": "うっ、酒臭い……",
-  "en": "",
-  "status": ""
+  "en": "Ugh, she reeks of booze...",
+  "status": "done"
  },
  {
   "id": "event_2158_049AB",
@@ -2302,8 +2302,8 @@
    31043
   ],
   "jp": "もういない人のことなんて、{n}忘れちゃえば楽だわよ？",
-  "en": "",
-  "status": ""
+  "en": "It'd be easier to just forget about someone who's gone, y'know?",
+  "status": "done"
  },
  {
   "id": "event_2158_049DD",
@@ -2314,8 +2314,8 @@
    31064
   ],
   "jp": "……ふざけんなッ！",
-  "en": "",
-  "status": ""
+  "en": "...Don't you dare!",
+  "status": "done"
  },
  {
   "id": "event_2158_049F0",
@@ -2326,8 +2326,8 @@
    28688
   ],
   "jp": "なに？{n}今日のアンタ、弱くない？",
-  "en": "",
-  "status": ""
+  "en": "What? You're kinda weak today, huh?",
+  "status": "done"
  },
  {
   "id": "event_2158_04A10",
@@ -2338,8 +2338,8 @@
    28709
   ],
   "jp": "クソッ、調子狂うぜ……",
-  "en": "",
-  "status": ""
+  "en": "Damn it, she's throwing me off...",
+  "status": "done"
  },
  {
   "id": "event_2158_04A27",
@@ -2350,8 +2350,8 @@
    29008
   ],
   "jp": "間合い取りにしくじったか……",
-  "en": "",
-  "status": ""
+  "en": "Guess I blew the distance...",
+  "status": "done"
  },
  {
   "id": "event_2158_04A44",
@@ -2362,8 +2362,8 @@
    29029
   ],
   "jp": "負け惜しみ言っちゃって！{n}強ければ、間合いなーんて{n}関係ないってば！",
-  "en": "",
-  "status": ""
+  "en": "Sore loser! If you're strong, distance doesn't matter at all!",
+  "status": "done"
  },
  {
   "id": "event_2158_04A87",
@@ -2374,8 +2374,8 @@
    29307
   ],
   "jp": "女の子だと思って、{n}手加減しすぎてしまったね。",
-  "en": "",
-  "status": ""
+  "en": "Went too easy on you because you're a girl.",
+  "status": "done"
  },
  {
   "id": "event_2158_04AB5",
@@ -2386,8 +2386,8 @@
    29328
   ],
   "jp": "あら、いい加減な男だと思って{n}こっちも手加減したんだけどさ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, Cerica went easy on you too, 'cause you seemed like such a flake.",
+  "status": "done"
  },
  {
   "id": "event_2158_04AF1",
@@ -2398,8 +2398,8 @@
    29613
   ],
   "jp": "大きければいいもんじゃないって{n}これで分かった？　大斧女！",
-  "en": "",
-  "status": ""
+  "en": "Bigger isn't always better, get it now? Big axe lady!",
+  "status": "done"
  },
  {
   "id": "event_2158_04B2B",
@@ -2410,8 +2410,8 @@
    29634
   ],
   "jp": "それは小さい者のひがみか？",
-  "en": "",
-  "status": ""
+  "en": "Is that the jealousy of small people?",
+  "status": "done"
  },
  {
   "id": "event_2158_04B46",
@@ -2422,8 +2422,8 @@
    29655
   ],
   "jp": "な、なんだとー！",
-  "en": "",
-  "status": ""
+  "en": "Wh-what did you say!?",
+  "status": "done"
  },
  {
   "id": "event_2158_04B57",
@@ -2434,8 +2434,8 @@
    29905
   ],
   "jp": "油断してしまいました……",
-  "en": "",
-  "status": ""
+  "en": "I let my guard down...",
+  "status": "done"
  },
  {
   "id": "event_2158_04B70",
@@ -2446,8 +2446,8 @@
    29926
   ],
   "jp": "そこをどきな！{n}アンタを倒しても、なーんにも{n}嬉しい事ないんだから！",
-  "en": "",
-  "status": ""
+  "en": "Get outta the way! Beating you doesn't make Cerica happy in the least!",
+  "status": "done"
  },
  {
   "id": "event_2158_04BB3",
@@ -2458,8 +2458,8 @@
    30204
   ],
   "jp": "この女、調子に乗って…！",
-  "en": "",
-  "status": ""
+  "en": "This girl's getting cocky...!",
+  "status": "done"
  },
  {
   "id": "event_2158_04BCC",
@@ -2470,8 +2470,8 @@
    30225
   ],
   "jp": "アンタが弱いだけでしょ②",
-  "en": "",
-  "status": ""
+  "en": "You're just weak!",
+  "status": "done"
  },
  {
   "id": "event_2158_04BE5",
@@ -2482,8 +2482,8 @@
    30510
   ],
   "jp": "どうだ、どうだッ②",
-  "en": "",
-  "status": ""
+  "en": "How's that, how's that!",
+  "status": "done"
  },
  {
   "id": "event_2158_04BF8",
@@ -2494,8 +2494,8 @@
    30531
   ],
   "jp": "ひぇ～、女の子は{n}怒らせるモノじゃないなぁ。",
-  "en": "",
-  "status": ""
+  "en": "Yikes, you really shouldn't make girls mad.",
+  "status": "done"
  },
  {
   "id": "event_2158_04C24",
@@ -2506,8 +2506,8 @@
    30552
   ],
   "jp": "わかれば結構、{n}とっととそこをどきな！",
-  "en": "",
-  "status": ""
+  "en": "Glad you get it. Now get outta the way!",
+  "status": "done"
  },
  {
   "id": "event_2158_04C4A",
@@ -2518,8 +2518,8 @@
    30837
   ],
   "jp": "…ウゲッップ、あー気分わりー",
-  "en": "",
-  "status": ""
+  "en": "...*buuurp*, ugh, I feel awful...",
+  "status": "done"
  },
  {
   "id": "event_2158_04C67",
@@ -2530,8 +2530,8 @@
    30858
   ],
   "jp": "き、キタナイ……{n}この女、キタナイ……",
-  "en": "",
-  "status": ""
+  "en": "G-gross... This woman's gross...",
+  "status": "done"
  },
  {
   "id": "event_2158_04C8D",
@@ -2542,8 +2542,8 @@
    31136
   ],
   "jp": "いったーい！{n}何さらすわけよ、もうっ！",
-  "en": "",
-  "status": ""
+  "en": "Oooow! What d'you think you're doing, jeez!",
+  "status": "done"
  },
  {
   "id": "event_2158_04CB3",
@@ -2554,8 +2554,8 @@
    31157
   ],
   "jp": "ああーッ、そのキャラ！{n}見てるだけで超腹立つっての！",
-  "en": "",
-  "status": ""
+  "en": "Aaagh, that act of yours! Just looking at it makes Cerica super mad!",
+  "status": "done"
  },
  {
   "id": "event_2158_080C4",
@@ -2566,8 +2566,8 @@
    38079
   ],
   "jp": "{voice:000003}一兵たりともにがさねぇ！{n}行くぞ！",
-  "en": "",
-  "status": ""
+  "en": "Not one of them gets away! Let's go!",
+  "status": "done"
  },
  {
   "id": "event_2158_080EA",
@@ -2578,8 +2578,8 @@
    43704
   ],
   "jp": "{voice:000103}この屋敷の扉、{n}鍵が壊されているぞ……",
-  "en": "",
-  "status": ""
+  "en": "The lock on this mansion's door is broken...",
+  "status": "done"
  },
  {
   "id": "event_2158_08114",
@@ -2590,8 +2590,8 @@
    43711
   ],
   "jp": "{voice:000203}賊が隠れているかもしれない。{n}念のため、確かめておこう…",
-  "en": "",
-  "status": ""
+  "en": "The thieves could be hiding inside. Better check, just in case...",
+  "status": "done"
  },
  {
   "id": "event_2158_08150",
@@ -2614,8 +2614,8 @@
    43861
   ],
   "jp": "{voice:000303}なんだコイツ③",
-  "en": "",
-  "status": ""
+  "en": "What the hell is this!?",
+  "status": "done"
  },
  {
   "id": "event_2158_0816E",
@@ -2626,8 +2626,8 @@
    43959
   ],
   "jp": "{voice:000703}あれれ？{n}灯りもないのに、{n}屋敷の中から気配がする……",
-  "en": "",
-  "status": ""
+  "en": "Huh? There's no light, but I can sense something inside this mansion...",
+  "status": "done"
  },
  {
   "id": "event_2158_081A7",
@@ -2638,8 +2638,8 @@
    43969
   ],
   "jp": "{voice:000803}ひょっとして盗賊が！",
-  "en": "",
-  "status": ""
+  "en": "Could it be thieves!?",
+  "status": "done"
  },
  {
   "id": "event_2158_081C0",
@@ -2662,8 +2662,8 @@
    44119
   ],
   "jp": "{voice:000903}え！",
-  "en": "",
-  "status": ""
+  "en": "Huh!?",
+  "status": "done"
  },
  {
   "id": "event_2158_081D4",
@@ -2674,8 +2674,8 @@
    44140
   ],
   "jp": "{voice:000A03}ええっと、人？　獣？{n}あのー、どなたですか？",
-  "en": "",
-  "status": ""
+  "en": "Um, is that a person? An animal? Excuse me, who are you?",
+  "status": "done"
  },
  {
   "id": "event_2158_08204",
@@ -2686,8 +2686,8 @@
    44245
   ],
   "jp": "{voice:000C03}間違いない…、今、建物の中で{n}大柄な人影が動いた。{n}まさか、盗賊か？",
-  "en": "",
-  "status": ""
+  "en": "No mistake... A big figure just moved inside that building. Could it be a thief?",
+  "status": "done"
  },
  {
   "id": "event_2158_0824B",
@@ -2722,8 +2722,8 @@
    44413
   ],
   "jp": "{voice:000D03}ヒッ！{n}これは、獣人③{n}っていうか、実在したのか……",
-  "en": "",
-  "status": ""
+  "en": "Eek! This is a beast-man!? I mean, they're real...",
+  "status": "done"
  },
  {
   "id": "event_2158_08290",
@@ -2734,8 +2734,8 @@
    44511
   ],
   "jp": "{voice:000F03}この建物の中から、{n}尋常ではない気配がするね。",
-  "en": "",
-  "status": ""
+  "en": "I can sense something out of the ordinary inside this building.",
+  "status": "done"
  },
  {
   "id": "event_2158_082C2",
@@ -2746,8 +2746,8 @@
    44518
   ],
   "jp": "{voice:001003}伏兵かもしれない。{n}念の為に調べた方がよさそうね。",
-  "en": "",
-  "status": ""
+  "en": "Could be an ambush. Better look into it, just in case.",
+  "status": "done"
  },
  {
   "id": "event_2158_082F8",
@@ -2770,8 +2770,8 @@
    44682
   ],
   "jp": "{voice:001103}……ング！",
-  "en": "",
-  "status": ""
+  "en": "...Ngh!",
+  "status": "done"
  },
  {
   "id": "event_2158_08312",
@@ -2782,8 +2782,8 @@
    44703
   ],
   "jp": "{voice:001203}ちょちょ、ちょっとストップ！{n}ええっと、状況が理解できない。",
-  "en": "",
-  "status": ""
+  "en": "H-h-hold it, stop right there! Um, I can't make sense of this.",
+  "status": "done"
  },
  {
   "id": "event_2158_08352",
@@ -2794,8 +2794,8 @@
    44808
   ],
   "jp": "{voice:001403}大きなお屋敷……",
-  "en": "",
-  "status": ""
+  "en": "What a big mansion...",
+  "status": "done"
  },
  {
   "id": "event_2158_08367",
@@ -2806,8 +2806,8 @@
    44815
   ],
   "jp": "{voice:001503}そうだ、賊をこちらに誘い込み{n}伏兵で殲滅させましょう。",
-  "en": "",
-  "status": ""
+  "en": "I know, let us lure the thieves over here and wipe them out with an ambush.",
+  "status": "done"
  },
  {
   "id": "event_2158_083A1",
@@ -2830,8 +2830,8 @@
    44965
   ],
   "jp": "{voice:001603}ひ、ひぃっ！",
-  "en": "",
-  "status": ""
+  "en": "Eeek!",
+  "status": "done"
  },
  {
   "id": "event_2158_083BD",
@@ -2842,8 +2842,8 @@
    44972
   ],
   "jp": "{voice:001703}や、屋敷の中に怪物が②",
-  "en": "",
-  "status": ""
+  "en": "Th-there is a monster in the mansion!",
+  "status": "done"
  },
  {
   "id": "event_2158_083D8",
@@ -2854,8 +2854,8 @@
    45070
   ],
   "jp": "{voice:001903}まったく。{n}賊ごときに手間取りすぎなのよ…",
-  "en": "",
-  "status": ""
+  "en": "Honestly. Taking far too long over mere thieves...",
+  "status": "done"
  },
  {
   "id": "event_2158_08406",
@@ -2866,8 +2866,8 @@
    45077
   ],
   "jp": "{voice:001A03}派手に戦えないから、退屈だしね。{n}ちょっとサボっちゃおうかしら。",
-  "en": "",
-  "status": ""
+  "en": "Can't fight flashy, so it's boring too. Maybe I'll slack off for a bit.",
+  "status": "done"
  },
  {
   "id": "event_2158_0844A",
@@ -2890,8 +2890,8 @@
    45227
   ],
   "jp": "{voice:001B03}ん～と、どちら様でしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Ummm, who might you be?",
+  "status": "done"
  },
  {
   "id": "event_2158_08476",
@@ -2902,8 +2902,8 @@
    45248
   ],
   "jp": "{voice:001C03}というか、{n}なんの冗談よ、これ……",
-  "en": "",
-  "status": ""
+  "en": "I mean, what kind of joke is this...",
+  "status": "done"
  },
  {
   "id": "event_2158_0849C",
@@ -2914,8 +2914,8 @@
    45346
   ],
   "jp": "{voice:001F03}うほっ！　これはデカイ屋敷！{n}かなり貯めこんでいるって{n}カンジ～♪",
-  "en": "",
-  "status": ""
+  "en": "Whoa! This is one big mansion! Seems like they've got a ton stashed away ♪",
+  "status": "done"
  },
  {
   "id": "event_2158_084E1",
@@ -2926,8 +2926,8 @@
    45353
   ],
   "jp": "{voice:002003}パメラ様の知的好奇心を揺さぶる{n}お宝でも眠っていないかしら～と♪",
-  "en": "",
-  "status": ""
+  "en": "Maybe there's some treasure asleep in here to stir Pamela-sama's intellectual curiosity ♪",
+  "status": "done"
  },
  {
   "id": "event_2158_08525",
@@ -2950,8 +2950,8 @@
    45506
   ],
   "jp": "{voice:002103}あら、これ召喚モンスター{n}じゃないの～！{n}チョー珍しいわね♪",
-  "en": "",
-  "status": ""
+  "en": "Oh, isn't this a summoned monster! Super rare ♪",
+  "status": "done"
  },
  {
   "id": "event_2158_0856F",
@@ -2962,8 +2962,8 @@
    45527
   ],
   "jp": "{voice:002203}すごいすごい！{n}これ、結構よくできているわよ？",
-  "en": "",
-  "status": ""
+  "en": "Wow, wow! This one's pretty well made, y'know?",
+  "status": "done"
  },
  {
   "id": "event_2158_085A1",
@@ -2974,8 +2974,8 @@
    45625
   ],
   "jp": "{voice:002403}なんだ？　でっかい屋敷だなぁ。{n}これは相当貯めこんでるね。",
-  "en": "",
-  "status": ""
+  "en": "What's this? Big mansion. They must have a fortune stashed in there.",
+  "status": "done"
  },
  {
   "id": "event_2158_085DF",
@@ -2986,8 +2986,8 @@
    45632
   ],
   "jp": "{voice:002503}ちょっとだけ、見つからなければ{n}盗んでもいいよな？",
-  "en": "",
-  "status": ""
+  "en": "Just a little bit's okay to steal if nobody catches me, right?",
+  "status": "done"
  },
  {
   "id": "event_2158_08615",
@@ -3010,8 +3010,8 @@
    45782
   ],
   "jp": "{voice:002603}……ん、えーと。{n}あれ、なんかいるぞ？",
-  "en": "",
-  "status": ""
+  "en": "...Hm, uh. Huh, is something in there?",
+  "status": "done"
  },
  {
   "id": "event_2158_0864A",
@@ -3022,8 +3022,8 @@
    45880
   ],
   "jp": "{voice:002803}ヒック…、うーっ{n}だめだ、今日は飲み過ぎ。",
-  "en": "",
-  "status": ""
+  "en": "*hic*, ugh... No good, I drank too much today.",
+  "status": "done"
  },
  {
   "id": "event_2158_08678",
@@ -3034,8 +3034,8 @@
    45901
   ],
   "jp": "{voice:002903}あら、ヒック…、大きなお屋敷。{n}ちょっと、ここで寝るか、…ヒック。",
-  "en": "",
-  "status": ""
+  "en": "Oh, *hic*... a big mansion. Maybe I'll sleep here for a bit... *hic*.",
+  "status": "done"
  },
  {
   "id": "event_2158_086BE",
@@ -3058,8 +3058,8 @@
    46051
   ],
   "jp": "{voice:002A03}ありゃりゃ、ケモノが見える。{n}ヒック…、やっぱ飲み過ぎだわ…",
-  "en": "",
-  "status": ""
+  "en": "Oh dear, I'm seeing beasts. *hic*... I did drink too much...",
+  "status": "done"
  },
  {
   "id": "event_2158_08709",
@@ -3070,8 +3070,8 @@
    46109
   ],
   "jp": "{voice:000403}一体どこから来たんだ、この獣人。{n}しかし、デカイな……",
-  "en": "",
-  "status": ""
+  "en": "Where on earth did this beast-man come from? And he's huge...",
+  "status": "done"
  },
  {
   "id": "event_2158_08743",
@@ -3082,8 +3082,8 @@
    46134
   ],
   "jp": "{voice:000503}バイフー、質問に答えよう。{n}北からきた。なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Byff will answer that. Byff came from the north. North-ing more to say. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2158_0877D",
@@ -3094,8 +3094,8 @@
    46241
   ],
   "jp": "{voice:000603}喋った！　言葉を話せるのか…{n}大した知性だな。{n}しかも、ダジャレか？",
-  "en": "",
-  "status": ""
+  "en": "He talked! He can speak... That's some intelligence. And was that a pun?",
+  "status": "done"
  },
  {
   "id": "event_2158_087C4",
@@ -3106,8 +3106,8 @@
    46298
   ],
   "jp": "{voice:000B03}わわわ、喋った！{n}フカフカが喋った！{n}しかも、ダジャレ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa whoa whoa, it talked! The fluffy thing talked! And it made a pun!",
+  "status": "done"
  },
  {
   "id": "event_2158_087FF",
@@ -3118,8 +3118,8 @@
    46355
   ],
   "jp": "{voice:000E03}……獣人って{n}ダジャレを言うんだ……",
-  "en": "",
-  "status": ""
+  "en": "...So beast-men make puns...",
+  "status": "done"
  },
  {
   "id": "event_2158_08827",
@@ -3130,8 +3130,8 @@
    46412
   ],
   "jp": "{voice:001303}人の言葉を、喋った……{n}ダメだ、余計に頭が混乱してきた。",
-  "en": "",
-  "status": ""
+  "en": "It spoke human words... No good, now I'm even more confused.",
+  "status": "done"
  },
  {
   "id": "event_2158_08863",
@@ -3142,8 +3142,8 @@
    46469
   ],
   "jp": "{voice:001803}ひっ、しゃ、しゃべった！",
-  "en": "",
-  "status": ""
+  "en": "Eek, i-it spoke!",
+  "status": "done"
  },
  {
   "id": "event_2158_08880",
@@ -3154,8 +3154,8 @@
    46526
   ],
   "jp": "{voice:001D03}あら、言葉を喋るんだ？{n}もしかして獣人？",
-  "en": "",
-  "status": ""
+  "en": "Oh, you can talk? Could you be a beast-man?",
+  "status": "done"
  },
  {
   "id": "event_2158_088AC",
@@ -3166,8 +3166,8 @@
    46533
   ],
   "jp": "{voice:001E03}それと、北からきたって、{n}ジョークのつもり？{n}笑えないけど。",
-  "en": "",
-  "status": ""
+  "en": "And that \"north-ing\" bit, is that supposed to be a joke? Not funny.",
+  "status": "done"
  },
  {
   "id": "event_2158_088EB",
@@ -3178,8 +3178,8 @@
    46590
   ],
   "jp": "{voice:002303}…なーんつってって……{n}見た目とは裏腹の軽さだわね{n}あんた。",
-  "en": "",
-  "status": ""
+  "en": "...\"Just kidding,\" he says... You're lighter than you look, aren't you.",
+  "status": "done"
  },
  {
   "id": "event_2158_0892A",
@@ -3190,8 +3190,8 @@
    46647
   ],
   "jp": "{voice:002703}ひっ！　しゃべったーッ！",
-  "en": "",
-  "status": ""
+  "en": "Eek! It talked!",
+  "status": "done"
  },
  {
   "id": "event_2158_08947",
@@ -3202,8 +3202,8 @@
    46704
   ],
   "jp": "{voice:002B03}ヒック…、うはははは～！{n}喋ったぞ、喋った、うわははは！",
-  "en": "",
-  "status": ""
+  "en": "*hic*... Waaahahaha! It talked, it talked, wahahaha!",
+  "status": "done"
  },
  {
   "id": "event_2158_08983",
@@ -3214,8 +3214,8 @@
    46762
   ],
   "jp": "{voice:002C03}お前、バイフーというのか。{n}一体この屋敷で何をしていた？",
-  "en": "",
-  "status": ""
+  "en": "So you're called Byff. What were you doing in this mansion?",
+  "status": "done"
  },
  {
   "id": "event_2158_089BF",
@@ -3226,8 +3226,8 @@
    46783
   ],
   "jp": "{voice:002D03}ご主人、魔導の本を欲しがってる。{n}バイフー、それ探しに来た。",
-  "en": "",
-  "status": ""
+  "en": "Byff's master wants a book of magic. Byff came looking for it.",
+  "status": "done"
  },
  {
   "id": "event_2158_089FF",
@@ -3238,8 +3238,8 @@
    46790
   ],
   "jp": "{voice:002E03}大きな街、本たくさんある。{n}だが、本見つからない……",
-  "en": "",
-  "status": ""
+  "en": "A big town has many books. But Byff cannot find the book...",
+  "status": "done"
  },
  {
   "id": "event_2158_08A37",
@@ -3250,8 +3250,8 @@
    46811
   ],
   "jp": "{voice:002F03}本？{n}確か、ヴェルマン方伯の家には{n}大きな書庫があるはずだよ。",
-  "en": "",
-  "status": ""
+  "en": "A book? I believe Margrave Velleman's house has a large library.",
+  "status": "done"
  },
  {
   "id": "event_2158_08A78",
@@ -3262,8 +3262,8 @@
    46832
   ],
   "jp": "{voice:003003}書庫、馬車がとめてある場所か？",
-  "en": "",
-  "status": ""
+  "en": "A library is where carriages are parked?",
+  "status": "done"
  },
  {
   "id": "event_2158_08A9B",
@@ -3274,8 +3274,8 @@
    46853
   ],
   "jp": "{voice:003103}それは車庫だね。{n}書庫っていうのは、{n}本がたくさんある部屋の事さ。",
-  "en": "",
-  "status": ""
+  "en": "That's a livery. A library is a room with lots of books in it.",
+  "status": "done"
  },
  {
   "id": "event_2158_08AE0",
@@ -3286,8 +3286,8 @@
    46874
   ],
   "jp": "{voice:003203}書庫は本がいっぱいか！{n}バイフー、また１つ賢くなった！{n}ちなみにプラムは、すっぱいぞ。",
-  "en": "",
-  "status": ""
+  "en": "A library is full of books! Byff is one bit smarter now! By the way, plums are sour.",
+  "status": "done"
  },
  {
   "id": "event_2158_08B39",
@@ -3298,8 +3298,8 @@
    46881
   ],
   "jp": "{voice:003303}それで！{n}お前のところに書庫、あるな！",
-  "en": "",
-  "status": ""
+  "en": "So! Your place has a library!",
+  "status": "done"
  },
  {
   "id": "event_2158_08B63",
@@ -3310,8 +3310,8 @@
    46888
   ],
   "jp": "{voice:003403}ならバイフー、お前を手伝う！{n}だから、書庫見せてくれ！",
-  "en": "",
-  "status": ""
+  "en": "Then Byff will help you! So show Byff the library!",
+  "status": "done"
  },
  {
   "id": "event_2158_08B9D",
@@ -3322,8 +3322,8 @@
    46909
   ],
   "jp": "{voice:003503}なんだ？　付いてくる気か？{n}今は戦闘中だぜ。",
-  "en": "",
-  "status": ""
+  "en": "What? You're coming along? We're in the middle of a battle.",
+  "status": "done"
  },
  {
   "id": "event_2158_08BCD",
@@ -3334,8 +3334,8 @@
    46930
   ],
   "jp": "{voice:003603}戦闘？　それ知ってる！{n}敵、蹴散らせば、勝ち。",
-  "en": "",
-  "status": ""
+  "en": "Battle? Byff knows that! You scatter the enemy and you win.",
+  "status": "done"
  },
  {
   "id": "event_2158_08BFF",
@@ -3346,8 +3346,8 @@
    46951
   ],
   "jp": "{voice:003703}任せろ！　奴ら蹴散らす！{n}バイフー、役に立つ！",
-  "en": "",
-  "status": ""
+  "en": "Leave it to Byff! Byff will scatter them! Byff is useful!",
+  "status": "done"
  },
  {
   "id": "event_2158_08C31",
@@ -3358,8 +3358,8 @@
    47192
   ],
   "jp": "{voice:003803}ケッ…、ここまでか……",
-  "en": "",
-  "status": ""
+  "en": "Heh... Guess this is it...",
+  "status": "done"
  },
  {
   "id": "event_2158_08C4C",
@@ -3370,8 +3370,8 @@
    47199
   ],
   "jp": "{voice:003903}ま、仕方ねぇ……{n}盗賊の世界も強い者が生き残る。{n}そう言う事だろ……",
-  "en": "",
-  "status": ""
+  "en": "Oh well, can't be helped... Even in the thieving world, it's the strong that survive. That's how it goes...",
+  "status": "done"
  },
  {
   "id": "event_2158_08C93",
@@ -3382,8 +3382,8 @@
    48748
   ],
   "jp": "{voice:003A03}クソッ、{n}俺達を盗賊と呼びやがって！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, calling us thieves!",
+  "status": "done"
  },
  {
   "id": "event_2158_08CBB",
@@ -3394,8 +3394,8 @@
    49207
   ],
   "jp": "{voice:003B03}賊は討ち果たしたな……{n}方伯に報告して、終わりだ。",
-  "en": "",
-  "status": ""
+  "en": "The thieves are finished... Report to the Margrave and we're done.",
+  "status": "done"
  },
  {
   "id": "event_2158_08CF1",
@@ -3406,8 +3406,8 @@
    49228
   ],
   "jp": "{voice:003C03}しかし…、{n}奴ら僕らの事を知っていた……",
-  "en": "",
-  "status": ""
+  "en": "But still... They knew who we were...",
+  "status": "done"
  },
  {
   "id": "event_2158_08D1D",
@@ -3418,8 +3418,8 @@
    49249
   ],
   "jp": "{voice:003D03}俺達は奴らとは違う！",
-  "en": "",
-  "status": ""
+  "en": "We're not the same as them!",
+  "status": "done"
  },
  {
   "id": "event_2158_08D36",
@@ -3430,8 +3430,8 @@
    49256
   ],
   "jp": "{voice:003E03}俺達は、貧しい人達の為に、{n}悪党が不当に搾取した物を{n}取り返していただけだ。",
-  "en": "",
-  "status": ""
+  "en": "We were only taking back what crooks had squeezed out of poor people.",
+  "status": "done"
  },
  {
   "id": "event_2158_08D85",
@@ -3442,8 +3442,8 @@
    49263
   ],
   "jp": "{voice:003F03}奴らは真の盗賊だ。{n}クズだ！{n}責任を感じる事など全く無い。",
-  "en": "",
-  "status": ""
+  "en": "They're real thieves. Trash! I don't feel responsible in the least.",
+  "status": "done"
  },
  {
   "id": "event_2158_08DC2",
@@ -3454,8 +3454,8 @@
    49284
   ],
   "jp": "{voice:004003}行動と意味、{n}二つを正しく伝えるのは難しい…",
-  "en": "",
-  "status": ""
+  "en": "What you do and what it means, it's hard to get both across...",
+  "status": "done"
  },
  {
   "id": "event_2158_08DF2",
@@ -3466,8 +3466,8 @@
    49305
   ],
   "jp": "{voice:004103}違う、シスキア！{n}汚い人間は、自分の都合のよい方{n}しか取り入れようとしないだけだ。",
-  "en": "",
-  "status": ""
+  "en": "No, Siskier! Dirty people only take the parts that suit them.",
+  "status": "done"
  },
  {
   "id": "event_2158_08E47",
@@ -3478,8 +3478,8 @@
    49326
   ],
   "jp": "{voice:004203}だからこそ、力はその意味と容易{n}に切り離されないよう、行使しな{n}ければならないと、そう思う。",
-  "en": "",
-  "status": ""
+  "en": "That's exactly why power has to be used so it can't easily be cut loose from what it means, I think.",
+  "status": "done"
  },
  {
   "id": "event_2158_08EA6",
@@ -3490,8 +3490,8 @@
    49333
   ],
   "jp": "{voice:004303}多くの人間は力を持つ事がゴール{n}だと信じているが、そうじゃない。{n}持ってはじめて戦いが始まる。",
-  "en": "",
-  "status": ""
+  "en": "Most people think having power is the goal, but it isn't. Having it is when the fight begins.",
+  "status": "done"
  },
  {
   "id": "event_2158_08F07",
@@ -3502,8 +3502,8 @@
    49354
   ],
   "jp": "{voice:004403}…メデューテの言いたかった事が、{n}少し分かった気がするよ。",
-  "en": "",
-  "status": ""
+  "en": "...I think I get a little of what you were trying to say, Medoute.",
+  "status": "done"
  },
  {
   "id": "event_2158_08F45",
@@ -3514,8 +3514,8 @@
    49375
   ],
   "jp": "{voice:004503}メデューテ、大丈夫だよ。",
-  "en": "",
-  "status": ""
+  "en": "It'll be all right, Medoute.",
+  "status": "done"
  },
  {
   "id": "event_2158_08F62",
@@ -3526,8 +3526,8 @@
    49382
   ],
   "jp": "{voice:004603}私達がみんなで支えていければ、{n}強い力を手に入れても、{n}きっと正しく使えるよ。",
-  "en": "",
-  "status": ""
+  "en": "If we all back each other up, I know we can use it right, even if we get great power.",
+  "status": "done"
  },
  {
   "id": "event_2158_08FB3",
@@ -3538,8 +3538,8 @@
    49403
   ],
   "jp": "{voice:004703}ああ、あたしも信じているさ。",
-  "en": "",
-  "status": ""
+  "en": "Yes, I believe that too.",
+  "status": "done"
  },
  {
   "id": "event_2158_08FD4",
@@ -3550,8 +3550,8 @@
    49587
   ],
   "jp": "{voice:004803}それにしても……{n}このフサフサには驚かされたな。",
-  "en": "",
-  "status": ""
+  "en": "In any case... This fuzzy fellow sure was a surprise.",
+  "status": "done"
  },
  {
   "id": "event_2158_09008",
@@ -3562,8 +3562,8 @@
    49608
   ],
   "jp": "{voice:004903}バイフーって獣人だよね。{n}本で読んだ事はあったけど、{n}まさか実在するとはさ……",
-  "en": "",
-  "status": ""
+  "en": "So Byff's a beast-man. I read about them in a book, but who knew they really existed...",
+  "status": "done"
  },
  {
   "id": "event_2158_09059",
@@ -3574,8 +3574,8 @@
    49629
   ],
   "jp": "{voice:004A03}お前も本持ってるのか？",
-  "en": "",
-  "status": ""
+  "en": "You have books too?",
+  "status": "done"
  },
  {
   "id": "event_2158_09074",
@@ -3586,8 +3586,8 @@
    49636
   ],
   "jp": "{voice:004B03}持っている本、読ませろ。{n}バイフーの探す本、かもしれない。",
-  "en": "",
-  "status": ""
+  "en": "Let Byff read your books. One could be the book Byff is looking for.",
+  "status": "done"
  },
  {
   "id": "event_2158_090B2",
@@ -3598,8 +3598,8 @@
    49657
   ],
   "jp": "{voice:004C03}はいはい。{n}今度持ってきてあげるよ。",
-  "en": "",
-  "status": ""
+  "en": "All right, all right. I'll bring them next time.",
+  "status": "done"
  },
  {
   "id": "event_2158_090DA",
@@ -3610,8 +3610,8 @@
    49678
   ],
   "jp": "{voice:004D03}しかし、このフサフサ……{n}デカイし、このまま街に放って{n}おくワケにはいかないな。",
-  "en": "",
-  "status": ""
+  "en": "But this fuzzy fellow... He's huge. We can't just leave him loose around town.",
+  "status": "done"
  },
  {
   "id": "event_2158_0912D",
@@ -3622,8 +3622,8 @@
    49702
   ],
   "jp": "{voice:004E03}この毛、超フカフカ。{n}気持ちいい～♪{n}連れて帰りたいなぁ。",
-  "en": "",
-  "status": ""
+  "en": "This fur's super fluffy. It feels so good ♪ I wanna take him home.",
+  "status": "done"
  },
  {
   "id": "event_2158_0916A",
@@ -3634,8 +3634,8 @@
    49723
   ],
   "jp": "{voice:004F03}ペットじゃないんだから……",
-  "en": "",
-  "status": ""
+  "en": "He's not a pet, you know...",
+  "status": "done"
  },
  {
   "id": "event_2158_09189",
@@ -3646,8 +3646,8 @@
    49829
   ],
   "jp": "{voice:005003}この怪力は戦力になるぜ。{n}ヴェルマンに言って、私兵団邸に{n}置いて貰おう。",
-  "en": "",
-  "status": ""
+  "en": "That brute strength'll be a real asset. I'll ask Velleman to put him up at the private army's quarters.",
+  "status": "done"
  },
  {
   "id": "event_2158_091D4",
@@ -3658,8 +3658,8 @@
    49847
   ],
   "jp": "{voice:005103}バイフー、俺達と行かないか？{n}本は一緒に探そうぜ。",
-  "en": "",
-  "status": ""
+  "en": "Byff, why don't you come with us? We'll look for that book together.",
+  "status": "done"
  },
  {
   "id": "event_2158_0920A",
@@ -3670,8 +3670,8 @@
    49868
   ],
   "jp": "{voice:005203}お前達、頼もしい！{n}バイフー、お前達といる！",
-  "en": "",
-  "status": ""
+  "en": "You are reliable! Byff will stay with you!",
+  "status": "done"
  },
  {
   "id": "event_2158_0923A",
@@ -3682,7 +3682,7 @@
    49889
   ],
   "jp": "{voice:005303}よし、決まりだな。",
-  "en": "",
-  "status": ""
+  "en": "All right, it's settled.",
+  "status": "done"
  }
 ]

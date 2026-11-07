@@ -752,8 +752,8 @@
    8455
   ],
   "jp": "{voice:009E12}寄らば、斬ります！",
-  "en": "",
-  "status": ""
+  "en": "Come closer and I will cut you down!",
+  "status": "done"
  },
  {
   "id": "event_2192_00D16",
@@ -968,8 +968,8 @@
    4280
   ],
   "jp": "神生教団",
-  "en": "",
-  "status": ""
+  "en": "Papal",
+  "status": "done"
  },
  {
   "id": "event_2192_0119B",
@@ -980,8 +980,8 @@
    4504
   ],
   "jp": "神生教団",
-  "en": "",
-  "status": ""
+  "en": "Papal",
+  "status": "done"
  },
  {
   "id": "event_2192_01283",
@@ -992,8 +992,8 @@
    4736
   ],
   "jp": "神生教団",
-  "en": "",
-  "status": ""
+  "en": "Papal",
+  "status": "done"
  },
  {
   "id": "event_2192_012EB",

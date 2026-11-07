@@ -8,8 +8,8 @@
    4580
   ],
   "jp": "{voice:003F01}まだ、ジェノンから連絡来ないね。",
-  "en": "",
-  "status": ""
+  "en": "Still no word from Jenon, huh.",
+  "status": "done"
  },
  {
   "id": "event_2153_0004D",
@@ -32,8 +32,8 @@
    4622
   ],
   "jp": "{voice:004001}どうしたの、ガーロット？",
-  "en": "",
-  "status": ""
+  "en": "What's up, Garlot?",
+  "status": "done"
  },
  {
   "id": "event_2153_00075",
@@ -44,8 +44,8 @@
    4643
   ],
   "jp": "{voice:004101}あれからずっと考えていた。{n}アイツの、メデューテの{n}言う通りだ。…俺は弱い。",
-  "en": "",
-  "status": ""
+  "en": "I've been thinking ever since. She's right, that Medoute. ...I'm weak.",
+  "status": "done"
  },
  {
   "id": "event_2153_000C4",
@@ -56,8 +56,8 @@
    4650
   ],
   "jp": "{voice:004201}それに行き当たりばったりだ。{n}だから、デイヴィドも逃がした。",
-  "en": "",
-  "status": ""
+  "en": "And I make it up as I go. That's why David got away, too.",
+  "status": "done"
  },
  {
   "id": "event_2153_00104",
@@ -68,8 +68,8 @@
    4671
   ],
   "jp": "{voice:004301}もっと強くなりたい。{n}理不尽を覆せるくらいに強く……",
-  "en": "",
-  "status": ""
+  "en": "I want to get stronger. Strong enough to overturn all this injustice...",
+  "status": "done"
  },
  {
   "id": "event_2153_0013C",
@@ -80,8 +80,8 @@
    4692
   ],
   "jp": "{voice:004401}強くなりたい、か。",
-  "en": "",
-  "status": ""
+  "en": "Get stronger, huh.",
+  "status": "done"
  },
  {
   "id": "event_2153_00153",
@@ -92,8 +92,8 @@
    4699
   ],
   "jp": "{voice:004501}子供の頃からそればっかりだね、{n}ガーロットは。",
-  "en": "",
-  "status": ""
+  "en": "That's all you've talked about since we were kids, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2153_00185",
@@ -104,8 +104,8 @@
    4981
   ],
   "jp": "{voice:004601}自分の存在を保ち、{n}自分を忘れないようにするには、{n}強くなるしかなかった。",
-  "en": "",
-  "status": ""
+  "en": "Getting stronger was the only way to hold on to myself. To not forget who I was.",
+  "status": "done"
  },
  {
   "id": "event_2153_001D2",
@@ -116,8 +116,8 @@
    4999
   ],
   "jp": "{voice:004701}……お父さんとのこと？",
-  "en": "",
-  "status": ""
+  "en": "...You mean your father?",
+  "status": "done"
  },
  {
   "id": "event_2153_001ED",
@@ -140,8 +140,8 @@
    5035
   ],
   "jp": "{voice:004801}酷い人だったよね。{n}会うたびにガーロット、青アザが{n}増えていったんだもん。",
-  "en": "",
-  "status": ""
+  "en": "He was an awful man. Every time I saw you, Garlot, you had more bruises.",
+  "status": "done"
  },
  {
   "id": "event_2153_00245",
@@ -152,8 +152,8 @@
    5053
   ],
   "jp": "{voice:004901}…アイツの憎しみに負けない為に、{n}俺は力が欲しかったんだ。",
-  "en": "",
-  "status": ""
+  "en": "...I wanted power so his hatred wouldn't beat me.",
+  "status": "done"
  },
  {
   "id": "event_2153_00283",
@@ -164,8 +164,8 @@
    5098
   ],
   "jp": "{voice:004A01}…ねぇガーロット。{n}出会った頃のこと、覚えてる？",
-  "en": "",
-  "status": ""
+  "en": "...Hey, Garlot. You remember when we first met?",
+  "status": "done"
  },
  {
   "id": "event_2153_002B7",
@@ -176,8 +176,8 @@
    5116
   ],
   "jp": "{voice:004B01}覚えてる…、{n}義賊団ゴッコばっかやってた。{n}あの時はお前が団長、俺が団員。",
-  "en": "",
-  "status": ""
+  "en": "I remember... All we did was play Justice Corps. Back then you were Captain and I was the recruit.",
+  "status": "done"
  },
  {
   "id": "event_2153_00304",
@@ -188,8 +188,8 @@
    5134
   ],
   "jp": "{voice:004C01}懐かしいね。{n}貴族のいるニーベル街区に{n}忍び込んだりしてさ。",
-  "en": "",
-  "status": ""
+  "en": "Those were the days. Like when we'd sneak into the Nibel Quarter, where the nobles live.",
+  "status": "done"
  },
  {
   "id": "event_2153_00343",
@@ -200,8 +200,8 @@
    5141
   ],
   "jp": "{voice:004D01}それが今じゃ、{n}悪徳商人だって捕まえちゃう{n}大活躍の義賊団だよ。",
-  "en": "",
-  "status": ""
+  "en": "And now look. We're a famous Justice Corps that actually catches crooked merchants.",
+  "status": "done"
  },
  {
   "id": "event_2153_00386",
@@ -212,8 +212,8 @@
    5148
   ],
   "jp": "{voice:004E01}なんだか、笑っちゃうよね。{n}あはは……",
-  "en": "",
-  "status": ""
+  "en": "It kind of makes you laugh, doesn't it? Ahaha...",
+  "status": "done"
  },
  {
   "id": "event_2153_003B0",
@@ -236,8 +236,8 @@
    5211
   ],
   "jp": "{voice:004F01}ガーロット、アンタなら、{n}もっと強くなれるって、きっと。",
-  "en": "",
-  "status": ""
+  "en": "You can get even stronger, Garlot. I know you can.",
+  "status": "done"
  },
  {
   "id": "event_2153_003F7",
@@ -248,8 +248,8 @@
    5229
   ],
   "jp": "{voice:005001}強く、か……",
-  "en": "",
-  "status": ""
+  "en": "Stronger, huh...",
+  "status": "done"
  },
  {
   "id": "event_2153_00408",
@@ -260,8 +260,8 @@
    5602
   ],
   "jp": "{voice:005101}デイヴィド達が現れたよ！{n}カタル・ブリッジに向かってる。{n}奴ら、気が抜けた感じだったよ。",
-  "en": "",
-  "status": ""
+  "en": "David's crew showed up! They're headed for Catal Bridge. They looked pretty relaxed, too.",
+  "status": "done"
  },
  {
   "id": "event_2153_00463",
@@ -272,8 +272,8 @@
    5623
   ],
   "jp": "{voice:005201}ん？　どうしたのシスキア？{n}顔が赤いけど？",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's the matter, Siskier? Your face is all red.",
+  "status": "done"
  },
  {
   "id": "event_2153_00491",
@@ -284,8 +284,8 @@
    5644
   ],
   "jp": "{voice:005301}なんでもないわよッ！",
-  "en": "",
-  "status": ""
+  "en": "It's nothing, okay!?",
+  "status": "done"
  },
  {
   "id": "event_2153_004AA",
@@ -296,8 +296,8 @@
    5665
   ],
   "jp": "{voice:005401}なに怒ってんだか……",
-  "en": "",
-  "status": ""
+  "en": "What's she so mad about...",
+  "status": "done"
  },
  {
   "id": "event_2153_004C3",
@@ -308,8 +308,8 @@
    6108
   ],
   "jp": "{voice:005501}しかし、{n}今日はブッ飛んだ一日でしたね。",
-  "en": "",
-  "status": ""
+  "en": "Man, today was one wild ride, huh?",
+  "status": "done"
  },
  {
   "id": "event_2153_004EF",
@@ -320,8 +320,8 @@
    6129
   ],
   "jp": "{voice:005601}オメェらのせいだよ！{n}イイ加減にやるから、ここまで{n}やられちまったんだ。",
-  "en": "",
-  "status": ""
+  "en": "And that's on you lot! You half-assed it, that's why we got beat this bad.",
+  "status": "done"
  },
  {
   "id": "event_2153_0053A",
@@ -332,8 +332,8 @@
    6150
   ],
   "jp": "{voice:005701}え？　俺達だけのせいっすか？",
-  "en": "",
-  "status": ""
+  "en": "Huh? It's all just our fault?",
+  "status": "done"
  },
  {
   "id": "event_2153_0055B",
@@ -344,8 +344,8 @@
    6171
   ],
   "jp": "{voice:005801}そうに決まってんだろ！{n}チッ、今夜は反省会だぜ。",
-  "en": "",
-  "status": ""
+  "en": "Damn right it is! Tch, we're holding a review meeting tonight.",
+  "status": "done"
  },
  {
   "id": "event_2153_0058F",
@@ -356,8 +356,8 @@
    6319
   ],
   "jp": "{voice:005901}ん？{n}なんだ、そこどけよ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's this? Get outta the way.",
+  "status": "done"
  },
  {
   "id": "event_2153_005AD",
@@ -368,8 +368,8 @@
    6340
   ],
   "jp": "{voice:005A01}今度は、逃がさないぜ……",
-  "en": "",
-  "status": ""
+  "en": "You're not getting away this time...",
+  "status": "done"
  },
  {
   "id": "event_2153_005CA",
@@ -380,8 +380,8 @@
    6361
   ],
   "jp": "{voice:005B01}おいおい、またオメェかよ？{n}ったく、しつけぇなぁ。{n}もうやめようぜ、お互いさ。",
-  "en": "",
-  "status": ""
+  "en": "Aw, c'mon, you again? Jeez, you're a stubborn one. Let's call it quits, the both of us.",
+  "status": "done"
  },
  {
   "id": "event_2153_0061B",
@@ -392,8 +392,8 @@
    6382
   ],
   "jp": "{voice:005C01}俺は、決して許さない！{n}デイヴィド、覚悟しろ②",
-  "en": "",
-  "status": ""
+  "en": "I will never forgive you! Get ready, David!",
+  "status": "done"
  },
  {
   "id": "event_2153_0064D",
@@ -404,8 +404,8 @@
    6553
   ],
   "jp": "{voice:005D01}オメェらの狙いは何なんだよ！{n}金か？　名誉か？",
-  "en": "",
-  "status": ""
+  "en": "What's your game, anyway!? Money? Glory?",
+  "status": "done"
  },
  {
   "id": "event_2153_0067F",
@@ -416,8 +416,8 @@
    6574
   ],
   "jp": "{voice:005E01}雇い主ですら、平気で手に掛ける。{n}そんなアンタのずるさが……{n}納得できないだけだ！",
-  "en": "",
-  "status": ""
+  "en": "You'd kill your own employer without blinking. That dirty way of yours... I just can't accept it!",
+  "status": "done"
  },
  {
   "id": "event_2153_006D4",
@@ -428,8 +428,8 @@
    6595
   ],
   "jp": "{voice:005F01}ずるくて何が悪い？{n}ずるい方が生き残れる、{n}騙した方が楽に勝ち進む！",
-  "en": "",
-  "status": ""
+  "en": "So what if it's dirty? The dirty ones live, and the liars get an easy road to the top!",
+  "status": "done"
  },
  {
   "id": "event_2153_0071B",
@@ -440,8 +440,8 @@
    6616
   ],
   "jp": "{voice:006001}世の中はそうして動いてんだよ！{n}わかってんだろ、それぐらい。",
-  "en": "",
-  "status": ""
+  "en": "That's how the world runs, kid! You know that much, don't you.",
+  "status": "done"
  },
  {
   "id": "event_2153_0075B",
@@ -452,8 +452,8 @@
    6637
   ],
   "jp": "{voice:006101}だから俺は、もっと強くなる！{n}そして、世界のルールだって{n}変えてやるんだ②",
-  "en": "",
-  "status": ""
+  "en": "That's why I'll get stronger! And I'll change the very rules of this world!",
+  "status": "done"
  },
  {
   "id": "event_2153_007A8",
@@ -464,8 +464,8 @@
    9228
   ],
   "jp": "{voice:006201}バ、バカな……{n}俺が、ここで終わるのか？",
-  "en": "",
-  "status": ""
+  "en": "N-no way... This is where I end?",
+  "status": "done"
  },
  {
   "id": "event_2153_007D4",
@@ -476,8 +476,8 @@
    9249
   ],
   "jp": "{voice:006301}なんてこった……{n}こんな若造によ、チクショウ……",
-  "en": "",
-  "status": ""
+  "en": "What the hell... Done in by some punk kid, damn it...",
+  "status": "done"
  },
  {
   "id": "event_2153_00808",
@@ -488,8 +488,8 @@
    9785
   ],
   "jp": "{voice:006401}……勝てたのか？　俺達が。",
-  "en": "",
-  "status": ""
+  "en": "...We won? Us?",
+  "status": "done"
  },
  {
   "id": "event_2153_00827",
@@ -500,8 +500,8 @@
    9806
   ],
   "jp": "{voice:006501}ああ、なんとかね。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, somehow.",
+  "status": "done"
  },
  {
   "id": "event_2153_0083E",
@@ -512,8 +512,8 @@
    9827
   ],
   "jp": "{voice:006601}ま、メデューテさんの助言が{n}あったお陰だけどね。",
-  "en": "",
-  "status": ""
+  "en": "Well, we owe that to Medoute-san's advice.",
+  "status": "done"
  },
  {
   "id": "event_2153_00872",
@@ -524,8 +524,8 @@
    9834
   ],
   "jp": "{voice:006701}でもね、ガーロット。{n}アンタは、弱くなんかないよ。",
-  "en": "",
-  "status": ""
+  "en": "But you know, Garlot. You're not weak at all.",
+  "status": "done"
  },
  {
   "id": "event_2153_008A8",
@@ -536,8 +536,8 @@
    9892
   ],
   "jp": "{voice:006801}あのデイヴィドを倒すとはな。{n}見事じゃないか。",
-  "en": "",
-  "status": ""
+  "en": "So you defeated the great David. Impressive.",
+  "status": "done"
  },
  {
   "id": "event_2153_008DA",
@@ -548,8 +548,8 @@
    9899
   ],
   "jp": "{voice:006901}お前達の戦いぶり、見せて貰った。{n}悩みや、想いの丈も含めてね。",
-  "en": "",
-  "status": ""
+  "en": "I watched you fight. Your doubts and your passions included.",
+  "status": "done"
  },
  {
   "id": "event_2153_0091C",
@@ -560,8 +560,8 @@
    9920
   ],
   "jp": "{voice:006A01}誰だ、お前は…？",
-  "en": "",
-  "status": ""
+  "en": "Who are you...?",
+  "status": "done"
  },
  {
   "id": "event_2153_00931",
@@ -572,8 +572,8 @@
    10071
   ],
   "jp": "{voice:006B01}確か、ブレイズ義賊団だったな。{n}感心したよ。",
-  "en": "",
-  "status": ""
+  "en": "The Blaze Justice Corps, wasn't it? I am impressed.",
+  "status": "done"
  },
  {
   "id": "event_2153_00961",
@@ -584,8 +584,8 @@
    10078
   ],
   "jp": "{voice:006C01}聞きし噂にも勝る{n}非常に優れた部隊だ。",
-  "en": "",
-  "status": ""
+  "en": "A truly excellent unit, even better than the rumors say.",
+  "status": "done"
  },
  {
   "id": "event_2153_0098B",
@@ -596,8 +596,8 @@
    10156
   ],
   "jp": "{voice:006D01}見覚えがあるよ。{n}富裕層街に住む貴族、{n}ヴェルマン方伯だ。",
-  "en": "",
-  "status": ""
+  "en": "I know that face. He's a noble from the wealthy district, Margrave Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2153_009C8",
@@ -608,8 +608,8 @@
    10177
   ],
   "jp": "{voice:006E01}ふん、貴族様だったのね。{n}で、貴族様が私達義賊団に、{n}何かご用でもおありですか？",
-  "en": "",
-  "status": ""
+  "en": "Hmph, so you're a noble. And what business could a noble possibly have with us, sir?",
+  "status": "done"
  },
  {
   "id": "event_2153_00A1B",
@@ -620,8 +620,8 @@
    10276
   ],
   "jp": "{voice:006F01}そう邪険にするな。{n}ひとつ、お前達に話がある。",
-  "en": "",
-  "status": ""
+  "en": "No need for such hostility. I have a proposal for you.",
+  "status": "done"
  },
  {
   "id": "event_2153_00A4D",
@@ -632,8 +632,8 @@
    10297
   ],
   "jp": "{voice:007001}興味無いわよ、貴族の話なんか。{n}さ、行きましょ。",
-  "en": "",
-  "status": ""
+  "en": "Not interested in anything a noble has to say. C'mon, let's go.",
+  "status": "done"
  },
  {
   "id": "event_2153_00A81",
@@ -644,8 +644,8 @@
    10318
   ],
   "jp": "{voice:007101}力が欲しくはないか？",
-  "en": "",
-  "status": ""
+  "en": "Do you not want power?",
+  "status": "done"
  },
  {
   "id": "event_2153_00A9A",
@@ -668,8 +668,8 @@
    10360
   ],
   "jp": "{voice:007201}そやつが言っていた。{n}世の中を変えられるほどの力が{n}欲しいのだろう？",
-  "en": "",
-  "status": ""
+  "en": "That man said it himself. You want power enough to change the world, do you not?",
+  "status": "done"
  },
  {
   "id": "event_2153_00AEC",
@@ -680,8 +680,8 @@
    10381
   ],
   "jp": "{voice:007301}どういう事だ……",
-  "en": "",
-  "status": ""
+  "en": "What do you mean...",
+  "status": "done"
  },
  {
   "id": "event_2153_00B01",
@@ -692,8 +692,8 @@
    10402
   ],
   "jp": "{voice:007401}私がお前達全員を雇い入れてやる、{n}と言う事だ。",
-  "en": "",
-  "status": ""
+  "en": "I mean that I will hire every one of you.",
+  "status": "done"
  },
  {
   "id": "event_2153_00B33",
@@ -704,8 +704,8 @@
    10409
   ],
   "jp": "{voice:007501}私の私兵となって働け。{n}そうすれば、お前達は更なる力を{n}得られるだろう。",
-  "en": "",
-  "status": ""
+  "en": "Work as my private army. Then you will gain still greater power.",
+  "status": "done"
  },
  {
   "id": "event_2153_00B7E",
@@ -716,8 +716,8 @@
    10430
   ],
   "jp": "{voice:007601}な、なに言ってんのよ……",
-  "en": "",
-  "status": ""
+  "en": "Wh-what are you talking about...",
+  "status": "done"
  },
  {
   "id": "event_2153_00B9B",
@@ -728,8 +728,8 @@
    10451
   ],
   "jp": "{voice:007701}私の元で、この世界を変えてみろ！{n}若き赤獅子よ②",
-  "en": "",
-  "status": ""
+  "en": "Change this world under my banner, young red lion!",
+  "status": "done"
  },
  {
   "id": "event_2153_00BCF",
@@ -740,8 +740,8 @@
    10472
   ],
   "jp": "{voice:007801}世界を…、変える。",
-  "en": "",
-  "status": ""
+  "en": "Change... the world.",
+  "status": "done"
  },
  {
   "id": "event_2153_00BE6",
@@ -752,8 +752,8 @@
    10493
   ],
   "jp": "{voice:007901}そうだ、世界だ。{n}この理不尽が蔓延する世界をだ。",
-  "en": "",
-  "status": ""
+  "en": "Yes, the world. This world overrun with injustice.",
+  "status": "done"
  },
  {
   "id": "event_2153_00C1A",
@@ -764,8 +764,8 @@
    10514
   ],
   "jp": "{voice:007A01}どんな高い理想があったとしても{n}実現できなければ、意味は無い！",
-  "en": "",
-  "status": ""
+  "en": "However lofty your ideals, they mean nothing if you cannot realize them!",
+  "status": "done"
  },
  {
   "id": "event_2153_00C5C",
@@ -776,8 +776,8 @@
    10521
   ],
   "jp": "{voice:007B01}大きな力を手にし、{n}世界を変える覚悟が無いのならば、{n}義賊団などいっそやめてしまえ！",
-  "en": "",
-  "status": ""
+  "en": "If you lack the resolve to seize great power and change the world, then give up this Justice Corps altogether!",
+  "status": "done"
  },
  {
   "id": "event_2153_00CB3",
@@ -788,8 +788,8 @@
    10542
   ],
   "jp": "{voice:007C01}ヴェルマン方伯、お話の内容は{n}大体分かりました、一度皆で……",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman, I believe we get the gist. Let us all talk it over fir--",
+  "status": "done"
  },
  {
   "id": "event_2153_00CF3",
@@ -800,8 +800,8 @@
    10593
   ],
   "jp": "{voice:007D01}ヴェルマン方伯と言ったな。{n}俺はガーロット。{n}ブレイズ義賊団の団長だ。",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman, was it? I'm Garlot. Captain of the Blaze Justice Corps.",
+  "status": "done"
  },
  {
   "id": "event_2153_00D3C",
@@ -812,8 +812,8 @@
    10600
   ],
   "jp": "{voice:007E01}お前の私兵団の話、{n}詳しく聞かせてくれないか……",
-  "en": "",
-  "status": ""
+  "en": "This private army of yours. Tell me more...",
+  "status": "done"
  },
  {
   "id": "event_2153_00D70",
@@ -824,8 +824,8 @@
    10621
   ],
   "jp": "{voice:007F01}ガーロット…？",
-  "en": "",
-  "status": ""
+  "en": "Garlot...?",
+  "status": "done"
  },
  {
   "id": "event_2153_00D83",
@@ -836,8 +836,8 @@
    6862
   ],
   "jp": "お、これは…",
-  "en": "",
-  "status": ""
+  "en": "Oh, what's this...",
+  "status": "done"
  },
  {
   "id": "event_2153_00D90",
@@ -848,8 +848,8 @@
    6937
   ],
   "jp": "確か、治療効果のある薬草だな。{n}いただいておくぜ。",
-  "en": "",
-  "status": ""
+  "en": "Pretty sure this is a medicinal herb. I'll take it.",
+  "status": "done"
  },
  {
   "id": "event_2153_00DC2",
@@ -860,8 +860,8 @@
    7014
   ],
   "jp": "あれ、そこに生えているのは{n}ひょっとして…",
-  "en": "",
-  "status": ""
+  "en": "Huh, that thing growing there, could it be...",
+  "status": "done"
  },
  {
   "id": "event_2153_00DEC",
@@ -872,8 +872,8 @@
    7089
   ],
   "jp": "やっぱり薬草ね！{n}ケガした時に使えるわ。{n}摘んでおこう、っと。",
-  "en": "",
-  "status": ""
+  "en": "Yep, a medicinal herb! Good for when you get hurt. I'll just pick these.",
+  "status": "done"
  },
  {
   "id": "event_2153_00E29",
@@ -884,8 +884,8 @@
    7166
   ],
   "jp": "さっき下調べした時に{n}このへんに草が生えていたけど…",
-  "en": "",
-  "status": ""
+  "en": "When I scouted earlier, there was some grass growing around here...",
+  "status": "done"
  },
  {
   "id": "event_2153_00E5D",
@@ -896,8 +896,8 @@
    7241
   ],
   "jp": "コレだ！{n}図鑑に載っていた薬草に{n}間違いないね。",
-  "en": "",
-  "status": ""
+  "en": "This is it! No doubt about it, it's the medicinal herb from the field guide.",
+  "status": "done"
  },
  {
   "id": "event_2153_00EF6",
