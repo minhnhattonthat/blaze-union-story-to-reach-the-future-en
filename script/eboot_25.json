@@ -4261,7 +4261,7 @@
    }
   ],
   "jp": "グルメ館",
-  "en": "Gourmet House",
+  "en": "Gourmet Mansion",
   "status": "done"
  },
  {
@@ -4611,7 +4611,7 @@
    }
   ],
   "jp": "ひとけの無い館",
-  "en": "Deserted Manor",
+  "en": "Deserted Mansion",
   "status": "done"
  },
  {
@@ -4681,7 +4681,7 @@
    }
   ],
   "jp": "ミゼル離脱地点",
-  "en": "Mizer's Exit Point",
+  "en": "Mizer's Exit",
   "status": "done"
  },
  {
@@ -5059,7 +5059,7 @@
    }
   ],
   "jp": "街外れの小村",
-  "en": "Hamlet on the Outskirts",
+  "en": "Outskirts Village",
   "status": "done"
  },
  {
@@ -5157,7 +5157,7 @@
    }
   ],
   "jp": "朽ち果てた神殿",
-  "en": "Decayed Temple",
+  "en": "Ruined Temple",
   "status": "done"
  },
  {
@@ -5199,7 +5199,7 @@
    }
   ],
   "jp": "橋守りの小屋",
-  "en": "Bridge Keeper's Hut",
+  "en": "Bridgekeepers' Hut",
   "status": "done"
  },
  {
@@ -5227,7 +5227,7 @@
    }
   ],
   "jp": "傑士の家",
-  "en": "Great Man's House",
+  "en": "Hero's House",
   "status": "done"
  },
  {
@@ -5423,7 +5423,7 @@
    }
   ],
   "jp": "私兵団邸入り口",
-  "en": "Private Army Manor Entrance",
+  "en": "Manor Entrance",
   "status": "done"
  },
  {
@@ -5437,7 +5437,7 @@
    }
   ],
   "jp": "自警組織詰め所",
-  "en": "Vigilante Post",
+  "en": "Watch Post",
   "status": "done"
  },
  {
@@ -5577,7 +5577,7 @@
    }
   ],
   "jp": "森の中の集落",
-  "en": "Forest Settlement",
+  "en": "Forest Hamlet",
   "status": "done"
  },
  {
@@ -5815,7 +5815,7 @@
    }
   ],
   "jp": "町外れの小屋",
-  "en": "Hut on the Outskirts",
+  "en": "Outskirts Hut",
   "status": "done"
  },
  {
@@ -6221,7 +6221,7 @@
    }
   ],
   "jp": "夜の街",
-  "en": "Town at Night",
+  "en": "Night Town",
   "status": "done"
  },
  {
@@ -7752,7 +7752,7 @@
    }
   ],
   "jp": "聖剣は砕かれた、人の弱さとともに②",
-  "en": "The Holy Sword broke, with human weakness!!",
+  "en": "Holy Sword and human weakness, both broken!!",
   "status": "done"
  },
  {
@@ -8270,7 +8270,7 @@
    }
   ],
   "jp": "アニス伯爵領を襲う",
-  "en": "Raiding Count Anis's lands,",
+  "en": "They fought the thieves raiding",
   "status": "done"
  },
  {
@@ -8326,7 +8326,7 @@
    }
   ],
   "jp": "インザーギとの交戦中、",
-  "en": "While battling Inzaghi,",
+  "en": "Inzaghi, fought them, and",
   "status": "done"
  },
  {
@@ -8340,7 +8340,7 @@
    }
   ],
   "jp": "インザーギとの戦闘中、",
-  "en": "While fighting Inzaghi,",
+  "en": "Inzaghi fought them, and",
   "status": "done"
  },
  {
@@ -8354,7 +8354,7 @@
    }
   ],
   "jp": "ヴェルマン邸に向かう",
-  "en": "Heading for Velleman's manor,",
+  "en": "Bound for Velleman's manor,",
   "status": "done"
  },
  {
@@ -8424,7 +8424,7 @@
    }
   ],
   "jp": "オルディーンとの死闘中、",
-  "en": "In a deadly fight with Ordene,",
+  "en": "and great swordsman Ordene,",
   "status": "done"
  },
  {
@@ -8452,7 +8452,7 @@
    }
   ],
   "jp": "お持ち帰りされた…",
-  "en": "Carried off...",
+  "en": "by the thugs...",
   "status": "done"
  },
  {
@@ -8592,7 +8592,7 @@
    }
   ],
   "jp": "カタル・ブリッジを越えた",
-  "en": "Having crossed Catal Bridge,",
+  "en": "having crossed Catal Bridge,",
   "status": "done"
  },
  {
@@ -8718,7 +8718,7 @@
    }
   ],
   "jp": "シスキアの無念を果たせぬ",
-  "en": "Without avenging Siskier,",
+  "en": "Siskier still unavenged,",
   "status": "done"
  },
  {
@@ -8760,7 +8760,7 @@
    }
   ],
   "jp": "しれない…",
-  "en": "perhaps...",
+  "en": "in store...",
   "status": "done"
  },
  {
@@ -8774,7 +8774,7 @@
    }
   ],
   "jp": "セリカとの衝突の中、",
-  "en": "in the clash with Cerica,",
+  "en": "Cerica clashed with them, and",
   "status": "done"
  },
  {
@@ -8788,7 +8788,7 @@
    }
   ],
   "jp": "その結末は、因果によって",
-  "en": "That ending, by karma,",
+  "en": "That ending may well have been",
   "status": "done"
  },
  {
@@ -8816,7 +8816,7 @@
    }
   ],
   "jp": "その短い生涯を終えた",
-  "en": "ended his short life.",
+  "en": "met the end of his short life.",
   "status": "done"
  },
  {
@@ -8844,7 +8844,7 @@
    }
   ],
   "jp": "ソルティエとの激闘中、",
-  "en": "In a fierce fight with Soltier,",
+  "en": "in a fierce fight with Soltier,",
   "status": "done"
  },
  {
@@ -8998,7 +8998,7 @@
    }
   ],
   "jp": "バルドゥスの激闘中、",
-  "en": "In a fierce fight with Baldus,",
+  "en": "Baldus fought them fiercely, and",
   "status": "done"
  },
  {
@@ -9012,7 +9012,7 @@
    }
   ],
   "jp": "パンドラとの戦闘中、",
-  "en": "While fighting Pandra,",
+  "en": "Pandra fought them, and",
   "status": "done"
  },
  {
@@ -9040,7 +9040,7 @@
    }
   ],
   "jp": "ブレイズ義賊団は",
-  "en": "The Blaze Justice Corps",
+  "en": "the Blaze Justice Corps",
   "status": "done"
  },
  {
@@ -9068,7 +9068,7 @@
    }
   ],
   "jp": "まま、その生涯を終えた…",
-  "en": "he ended his life...",
+  "en": "his life came to an end...",
   "status": "done"
  },
  {
@@ -9082,7 +9082,7 @@
    }
   ],
   "jp": "ミゼルとの交戦中、",
-  "en": "While fighting Mizer,",
+  "en": "Mizer fought them, and",
   "status": "done"
  },
  {
@@ -9096,7 +9096,7 @@
    }
   ],
   "jp": "ミゼルの予想外の脚力に",
-  "en": "With Mizer's unexpected speed,",
+  "en": "with Mizer's unexpected speed,",
   "status": "done"
  },
  {
@@ -9194,7 +9194,7 @@
    }
   ],
   "jp": "レオンと共にパンドラへと",
-  "en": "Together with Leon, at Pandra,",
+  "en": "As they and Leon, against Pandra,",
   "status": "done"
  },
  {
@@ -9236,7 +9236,7 @@
    }
   ],
   "jp": "暗殺者との暗闘の中で、",
-  "en": "In a secret fight with assassins,",
+  "en": "assassins struck in secret, and",
   "status": "done"
  },
  {
@@ -9264,7 +9264,7 @@
    }
   ],
   "jp": "因縁の対決の最中、",
-  "en": "In a fated showdown,",
+  "en": "in a fated showdown,",
   "status": "done"
  },
  {
@@ -9348,7 +9348,7 @@
    }
   ],
   "jp": "壊滅すべく戦うも、",
-  "en": "they fought to crush it, but",
+  "en": "they fought to crush them, but",
   "status": "done"
  },
  {
@@ -9390,7 +9390,7 @@
    }
   ],
   "jp": "革命は失敗に終わった…",
-  "en": "and the revolution failed...",
+  "en": "the revolution failed...",
   "status": "done"
  },
  {
@@ -9446,7 +9446,7 @@
    }
   ],
   "jp": "関所に猛攻をかける最中、",
-  "en": "In the assault on the checkpoint,",
+  "en": "in the assault on the checkpoint,",
   "status": "done"
  },
  {
@@ -9460,7 +9460,7 @@
    }
   ],
   "jp": "許し、ヴェルマン方伯は",
-  "en": "got in, and Margrave Velleman",
+  "en": "and Margrave Velleman",
   "status": "done"
  },
  {
@@ -9474,7 +9474,7 @@
    }
   ],
   "jp": "近衛隊は、侵略者として",
-  "en": "the Royal Guard, as invaders,",
+  "en": "The Royal Guard, as invaders,",
   "status": "done"
  },
  {
@@ -9502,7 +9502,7 @@
    }
   ],
   "jp": "金塊のニセ情報により",
-  "en": "Fooled by false gold reports,",
+  "en": "Fighting brigands lured in",
   "status": "done"
  },
  {
@@ -9516,7 +9516,7 @@
    }
   ],
   "jp": "軍事演習の最中、",
-  "en": "During the war games,",
+  "en": "during the war games,",
   "status": "done"
  },
  {
@@ -9572,7 +9572,7 @@
    }
   ],
   "jp": "激しすぎる戦闘の中、",
-  "en": "In the all too fierce battle,",
+  "en": "in the all too fierce battle,",
   "status": "done"
  },
  {
@@ -9600,7 +9600,7 @@
    }
   ],
   "jp": "決死の猛攻の前に、",
-  "en": "before a desperate assault,",
+  "en": "led a desperate assault, and",
   "status": "done"
  },
  {
@@ -9614,7 +9614,7 @@
    }
   ],
   "jp": "決勝戦の最中に",
-  "en": "During the final,",
+  "en": "during the final,",
   "status": "done"
  },
  {
@@ -9670,7 +9670,7 @@
    }
   ],
   "jp": "皇帝の魔手から",
-  "en": "From the Emperor's clutches",
+  "en": "While helping the king escape",
   "status": "done"
  },
  {
@@ -9712,7 +9712,7 @@
    }
   ],
   "jp": "荒野で遭遇した",
-  "en": "Encountered in the wilds,",
+  "en": "While fighting outlaws they",
   "status": "done"
  },
  {
@@ -9740,7 +9740,7 @@
    }
   ],
   "jp": "国王にして剛剣の使い手",
-  "en": "The king and great swordsman,",
+  "en": "In a deadly fight with the king",
   "status": "done"
  },
  {
@@ -9754,7 +9754,7 @@
    }
   ],
   "jp": "国王を逃がす作戦中、",
-  "en": "While helping the king escape,",
+  "en": "from the Emperor's clutches,",
   "status": "done"
  },
  {
@@ -9782,7 +9782,7 @@
    }
   ],
   "jp": "黒騎士レオンとの死闘中、",
-  "en": "Battling Black Knight Leon,",
+  "en": "Black Knight Leon fought them, and",
   "status": "done"
  },
  {
@@ -9810,7 +9810,7 @@
    }
   ],
   "jp": "黒騎士レオン擁する",
-  "en": "Holding Black Knight Leon,",
+  "en": "With Black Knight Leon,",
   "status": "done"
  },
  {
@@ -9838,7 +9838,7 @@
    }
   ],
   "jp": "再起を懸けたパンドラが",
-  "en": "Staking his comeback, Pandra",
+  "en": "As Pandra, staking his comeback,",
   "status": "done"
  },
  {
@@ -9894,7 +9894,7 @@
    }
   ],
   "jp": "最後の決戦の最中、",
-  "en": "In the final showdown,",
+  "en": "in the final showdown,",
   "status": "done"
  },
  {
@@ -9922,7 +9922,7 @@
    }
   ],
   "jp": "仕掛けた特攻の中、",
-  "en": "In their suicide attack,",
+  "en": "in a suicide attack,",
   "status": "done"
  },
  {
@@ -9936,7 +9936,7 @@
    }
   ],
   "jp": "仕掛けられた模擬戦中、",
-  "en": "In the mock battle they staged,",
+  "en": "in the mock battle he set,",
   "status": "done"
  },
  {
@@ -9950,7 +9950,7 @@
    }
   ],
   "jp": "刺客に追われたルシエナの",
-  "en": "Chased by assassins, Luciana's",
+  "en": "For Luciana's sister, chased by",
   "status": "done"
  },
  {
@@ -9964,7 +9964,7 @@
    }
   ],
   "jp": "屍兵の群れとの戦闘中、",
-  "en": "Fighting a horde of corpse soldiers,",
+  "en": "horde of corpse soldiers,",
   "status": "done"
  },
  {
@@ -9978,7 +9978,7 @@
    }
   ],
   "jp": "死の一撃の前に、",
-  "en": "before a deadly blow,",
+  "en": "a deadly blow, and",
   "status": "done"
  },
  {
@@ -9992,7 +9992,7 @@
    }
   ],
   "jp": "私兵達との決闘中、",
-  "en": "While dueling the private guards,",
+  "en": "the private guards fought them, and",
   "status": "done"
  },
  {
@@ -10062,7 +10062,7 @@
    }
   ],
   "jp": "者の末路がこれなのか…",
-  "en": "Is this how it ends for those",
+  "en": "is this where that road ends...?",
   "status": "done"
  },
  {
@@ -10188,7 +10188,7 @@
    }
   ],
   "jp": "神生教団のジルヴァによる",
-  "en": "By the Papal Army's Zilva,",
+  "en": "Zilva of the Papal Army",
   "status": "done"
  },
  {
@@ -10202,7 +10202,7 @@
    }
   ],
   "jp": "神生教団の援護攻撃で",
-  "en": "With the Papal Army's support fire",
+  "en": "and the Papal Army's support fire,",
   "status": "done"
  },
  {
@@ -10272,7 +10272,7 @@
    }
   ],
   "jp": "数名の女の子がゴロツキに",
-  "en": "Several girls, by the thugs,",
+  "en": "Several girls were carried off",
   "status": "done"
  },
  {
@@ -10286,7 +10286,7 @@
    }
   ],
   "jp": "成功するも、戦闘中に",
-  "en": "They succeeded, but in the battle",
+  "en": "they succeeded, but in the battle",
   "status": "done"
  },
  {
@@ -10328,7 +10328,7 @@
    }
   ],
   "jp": "接触した王国の斥候部隊を",
-  "en": "Kingdom scouts they ran into",
+  "en": "Meeting Kingdom scouts,",
   "status": "done"
  },
  {
@@ -10342,7 +10342,7 @@
    }
   ],
   "jp": "雪中行軍作戦中、",
-  "en": "During the snow march,",
+  "en": "during the snow march,",
   "status": "done"
  },
  {
@@ -10426,7 +10426,7 @@
    }
   ],
   "jp": "賊との戦闘中、",
-  "en": "while fighting the outlaws,",
+  "en": "ran into in the wilds,",
   "status": "done"
  },
  {
@@ -10468,7 +10468,7 @@
    }
   ],
   "jp": "打ち破らんと奮戦するも、",
-  "en": "They fought hard to beat them, but",
+  "en": "they fought hard, but",
   "status": "done"
  },
  {
@@ -10482,7 +10482,7 @@
    }
   ],
   "jp": "打ち破るべく奮闘するも、",
-  "en": "They fought hard to beat them, but",
+  "en": "they fought hard to beat him, but",
   "status": "done"
  },
  {
@@ -10510,7 +10510,7 @@
    }
   ],
   "jp": "大砲による助勢も及ばず、",
-  "en": "Even with cannon support,",
+  "en": "even with cannon support,",
   "status": "done"
  },
  {
@@ -10524,7 +10524,7 @@
    }
   ],
   "jp": "第一回戦の最中に",
-  "en": "During Round 1,",
+  "en": "during Round 1,",
   "status": "done"
  },
  {
@@ -10538,7 +10538,7 @@
    }
   ],
   "jp": "第二回戦の最中に",
-  "en": "During Round 2,",
+  "en": "during Round 2,",
   "status": "done"
  },
  {
@@ -10566,7 +10566,7 @@
    }
   ],
   "jp": "団長のガーロットを欠いた",
-  "en": "Without Captain Garlot,",
+  "en": "without Captain Garlot,",
   "status": "done"
  },
  {
@@ -10594,7 +10594,7 @@
    }
   ],
   "jp": "帳簿奪還に動いた",
-  "en": "Moved to retake the ledger,",
+  "en": "While clashing with the rebels",
   "status": "done"
  },
  {
@@ -10608,7 +10608,7 @@
    }
   ],
   "jp": "帝国と王国の包囲網を",
-  "en": "The siege of Empire and Kingdom",
+  "en": "Against the Empire-Kingdom siege,",
   "status": "done"
  },
  {
@@ -10636,7 +10636,7 @@
    }
   ],
   "jp": "帝都守備軍との戦闘中、",
-  "en": "While fighting the capital's garrison,",
+  "en": "the garrison fought them, and",
   "status": "done"
  },
  {
@@ -10664,7 +10664,7 @@
    }
   ],
   "jp": "邸宅への暗殺者の侵入を",
-  "en": "Assassins broke into the manor,",
+  "en": "they let them slip into the manor,",
   "status": "done"
  },
  {
@@ -10678,7 +10678,7 @@
    }
   ],
   "jp": "撤退せざるえなかった…",
-  "en": "and were forced to retreat...",
+  "en": "and they had to retreat...",
   "status": "done"
  },
  {
@@ -10720,7 +10720,7 @@
    }
   ],
   "jp": "盗賊団と交戦するも、",
-  "en": "they fought the thieves, but",
+  "en": "Count Anis's lands, but",
   "status": "done"
  },
  {
@@ -10734,7 +10734,7 @@
    }
   ],
   "jp": "盗賊団の激しい抵抗に遭い",
-  "en": "Under the thieves' fierce resistance,",
+  "en": "under the thieves' fierce resistance,",
   "status": "done"
  },
  {
@@ -10748,7 +10748,7 @@
    }
   ],
   "jp": "頭脳を失った私兵団は",
-  "en": "the private army lost its brains,",
+  "en": "The private army lost its brains,",
   "status": "done"
  },
  {
@@ -10846,7 +10846,7 @@
    }
   ],
   "jp": "反乱を扇動した傭兵",
-  "en": "Mercenary who stirred the revolt,",
+  "en": "The mercenary who stirred revolt,",
   "status": "done"
  },
  {
@@ -10860,7 +10860,7 @@
    }
   ],
   "jp": "反乱軍との激闘中に",
-  "en": "While fighting the rebels,",
+  "en": "the rebels fought them, and",
   "status": "done"
  },
  {
@@ -10874,7 +10874,7 @@
    }
   ],
   "jp": "反乱軍との激突中、",
-  "en": "While clashing with the rebels,",
+  "en": "who moved to retake the ledger,",
   "status": "done"
  },
  {
@@ -10902,7 +10902,7 @@
    }
   ],
   "jp": "反乱軍に攻撃をかけるも、",
-  "en": "they attacked the rebels, but",
+  "en": "the rebels fought them, and",
   "status": "done"
  },
  {
@@ -10916,7 +10916,7 @@
    }
   ],
   "jp": "反乱軍の威勢の前に、",
-  "en": "Before the rebels' might,",
+  "en": "the mighty rebels pressed, and",
   "status": "done"
  },
  {
@@ -10986,7 +10986,7 @@
    }
   ],
   "jp": "彼女は粛清の刃に倒れ",
-  "en": "She fell to the purge's blade,",
+  "en": "she fell to the purge's blade,",
   "status": "done"
  },
  {
@@ -11000,7 +11000,7 @@
    }
   ],
   "jp": "飛躍の時を失った…",
-  "en": "and lost its chance to rise...",
+  "en": "lost its chance to rise...",
   "status": "done"
  },
  {
@@ -11042,7 +11042,7 @@
    }
   ],
   "jp": "不退転の覚悟を決めた",
-  "en": "Resolved to never back down,",
+  "en": "Resolved never to back down,",
   "status": "done"
  },
  {
@@ -11056,7 +11056,7 @@
    }
   ],
   "jp": "武装した神生教団と遭遇。",
-  "en": "They met an armed Papal Army.",
+  "en": "they met an armed Papal Army.",
   "status": "done"
  },
  {
@@ -11154,7 +11154,7 @@
    }
   ],
   "jp": "母と戦う最中、",
-  "en": "While fighting his mother,",
+  "en": "while fighting his mother,",
   "status": "done"
  },
  {
@@ -11182,7 +11182,7 @@
    }
   ],
   "jp": "包囲攻撃の前に、",
-  "en": "Before the siege,",
+  "en": "laid siege, and",
   "status": "done"
  },
  {
@@ -11210,7 +11210,7 @@
    }
   ],
   "jp": "望まぬ戦いの最中、",
-  "en": "In a battle they never wanted,",
+  "en": "in a battle they never wanted,",
   "status": "done"
  },
  {
@@ -11238,7 +11238,7 @@
    }
   ],
   "jp": "妹の為に兵を動かすも、",
-  "en": "sister, they moved troops, but",
+  "en": "assassins, they moved troops, but",
   "status": "done"
  },
  {
@@ -11252,7 +11252,7 @@
    }
   ],
   "jp": "民兵の反抗という",
-  "en": "The militia's resistance, a",
+  "en": "Facing the militia's revolt,",
   "status": "done"
  },
  {
@@ -11308,7 +11308,7 @@
    }
   ],
   "jp": "猛攻を仕掛ける中、",
-  "en": "launching a fierce attack,",
+  "en": "pressed a fierce attack,",
   "status": "done"
  },
  {
@@ -11322,7 +11322,7 @@
    }
   ],
   "jp": "目と耳を失った私兵団は",
-  "en": "the private army, blind and deaf,",
+  "en": "The private army, blind and deaf,",
   "status": "done"
  },
  {
@@ -11364,7 +11364,7 @@
    }
   ],
   "jp": "輸送部隊の抵抗、そして",
-  "en": "The convoy's resistance, and",
+  "en": "Against the convoy's resistance",
   "status": "done"
  },
  {
@@ -11406,7 +11406,7 @@
    }
   ],
   "jp": "誘い出した山賊と交戦中、",
-  "en": "While fighting lured brigands,",
+  "en": "by false reports of gold,",
   "status": "done"
  },
  {
@@ -11434,7 +11434,7 @@
    }
   ],
   "jp": "与えられた、結果なのかも",
-  "en": "was a given result,",
+  "en": "the outcome karma had",
   "status": "done"
  },
  {
@@ -11448,7 +11448,7 @@
    }
   ],
   "jp": "預言者ネシアが操る",
-  "en": "Controlled by Prophet Nessiah,",
+  "en": "Fighting Prophet Nessiah's",
   "status": "done"
  },
  {
@@ -11462,7 +11462,7 @@
    }
   ],
   "jp": "預言者ネシアの繰り出す",
-  "en": "Unleashed by Prophet Nessiah,",
+  "en": "Prophet Nessiah unleashed",
   "status": "done"
  },
  {
@@ -11476,7 +11476,7 @@
    }
   ],
   "jp": "傭兵団との戦闘中、",
-  "en": "while fighting the mercenaries,",
+  "en": "the mercenaries fought them, and",
   "status": "done"
  },
  {
@@ -11490,7 +11490,7 @@
    }
   ],
   "jp": "用意周到な神生教団の",
-  "en": "The well-prepared Papal Army's",
+  "en": "The well-prepared Papal Army",
   "status": "done"
  },
  {
@@ -11546,7 +11546,7 @@
    }
   ],
   "jp": "離反したネシアが操る",
-  "en": "Controlled by the turncoat Nessiah,",
+  "en": "Fighting turncoat Nessiah's",
   "status": "done"
  },
  {
@@ -11560,7 +11560,7 @@
    }
   ],
   "jp": "力を求め、戦いを望んだ",
-  "en": "who sought power and craved war...",
+  "en": "Seeking power, craving war...",
   "status": "done"
  },
  {
@@ -11630,7 +11630,7 @@
    }
   ],
   "jp": "アニス伯爵領の中枢都市が",
-  "en": "The heart of Count Anis's lands",
+  "en": "the heart of Count Anis's lands",
   "status": "done"
  },
  {
@@ -12235,7 +12235,7 @@
    }
   ],
   "jp": "……私は。",
-  "en": "...I.",
+  "en": "...I...",
   "status": "done"
  },
  {
@@ -12395,7 +12395,7 @@
    }
   ],
   "jp": "…ああん、肌に優しい。{n}まるで全身を愛撫されているよう…",
-  "en": "...Aah, this is so gentle on the skin. Like getting a massage all over...",
+  "en": "...Aah, this is so gentle on the skin. Like my whole body's being caressed...",
   "status": "done"
  },
  {
@@ -12563,7 +12563,7 @@
    }
   ],
   "jp": "あぁ…、でも身体が火照って、{n}なんだか変な気分……",
-  "en": "Aah... But I feel so warm, and rather light-headed...",
+  "en": "Aah... But my body's all flushed, and I feel kind of funny...",
   "status": "done"
  },
  {
@@ -12577,7 +12577,7 @@
    }
   ],
   "jp": "素敵な殿方に、覗いて貰いたい{n}そんな気分だわ。",
-  "en": "I feel like singing for some splendid gentleman.",
+  "en": "I'm in the mood for some splendid gentleman to peek at me.",
   "status": "done"
  },
  {

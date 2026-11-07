@@ -4,7 +4,7 @@ Minor fixes to make before release (phase 9 gate: no unticked line). Ids are `bN
 
 ## From the phase 6 review (H:\translation\.harness\reviews\blaze-union-story-to-reach-the-future-en-phase6.md)
 
-- [ ] M1. Same place, different wording, b025/b026 against b033/b034 (25 pairs): Sharminel Fort / Fort Sharminel, Pandra Fort / Fort Pandra, Deserted Manor / Deserted Mansion, Prophet's Manor / Prophet's Mansion, Glasses Woman's Cannon / Glasses Girl's Cannon, Decayed Temple / Ruined Temple, Vigilante Post / Watch Post, Rendezvous Plateau / Muster Plateau, Great Man's House / Hero's House. Pick one per place. Both tables now have room (speaker 300 px, map_ticker 540 px).
+- [x] M1 (r12, 2026-11-07: 24 captions unified, one form per JP; メガネ女の大砲 left, see r11 b025:110 below). Same place, different wording, b025/b026 against b033/b034 (25 pairs): Sharminel Fort / Fort Sharminel, Pandra Fort / Fort Pandra, Deserted Manor / Deserted Mansion, Prophet's Manor / Prophet's Mansion, Glasses Woman's Cannon / Glasses Girl's Cannon, Decayed Temple / Ruined Temple, Vigilante Post / Watch Post, Rendezvous Plateau / Muster Plateau, Great Man's House / Hero's House. Pick one per place. Both tables now have room (speaker 300 px, map_ticker 540 px).
 - [ ] M2. Chapter titles differ between their two tables (`eboot_236AF8` Those Who Take and Are Taken From, `eboot_25FB60` Takers and Taken; also `eboot_236A90`, `eboot_236AA0`, `eboot_236ACC`, `eboot_236AE4`, `eboot_236DB8` and twins). The save table now has 430 px; the book list has 150, so the short form may have to stay there.
 - [ ] M3. `docs/style-reference.md:21` and `:27`: two conflicting Mizer rows. Mizer's lines follow `:27`; delete or relabel `:21`.
 - [ ] M4. Cerica says "I" where the style reference says never: `event_2199_00A1B`, `event_2165_0083D`, `event_2171_027AD`.
@@ -25,7 +25,12 @@ Minor fixes to make before release (phase 9 gate: no unticked line). Ids are `bN
 - [ ] r11 b015:41 へへへ、ヤルってことさ (means I'm good): "I'm gonna do it" -> "Heh heh heh, I've got what it takes."
 - [ ] r11 b017:78 懐が浅すぎたか: "I wasn't deep enough..." -> "I lacked the depth..."
 - [ ] r11 b025:36 酒場の看板娘: "Tavern Poster Girl" -> "Tavern Barmaid".
-- [ ] r11 b025:110 メガネ女の大砲 "Four-Eyes' Cannon" is ruder than the label b024:121 "Woman in Glasses"; see the field-tag row below.
+- [ ] r11 b025:110 メガネ女の大砲 "Four-Eyes' Cannon" is ruder than the label b024:121 "Woman in Glasses"; see the field-tag row below. r12: the map ticker b034:12 says "Glasses Girl's Cannon" (168 px, field tag 160): make them match.
+- [ ] r12 Chronicle replay dialogue b029:12-144 differs in wording from the event copies (b040:95-100, b041:72-78 and the rest): copy the event English over where it fits.
+- [ ] r12 b030:76 ひとつ覗いてみませんか (care to take a peek?) is "How about a dip?": decide in the story pass whether the content rule covers it (the bath scenes include young characters).
+- [ ] r12 book text cut to 3 rows: b030:97 drops 方伯 "Margrave", b030:110 drops "to friend and foe", b030:121 drops "on his master's orders".
+- [ ] r12 b032:21 これで万事解決× "All Fixed! (Not)" adds a joke the JP lacks (× is an emphasis mark): "All Fixed!!"
+- [ ] r12 game over: "Garlot and the others, however, / during Round 1, / was routed by a tactical error," (b027:78 then the shared b028:60): plural subject, singular verb; b028:60 is in 80 chains.
 
 ## Cut for space (D4: flagged last resort)
 
