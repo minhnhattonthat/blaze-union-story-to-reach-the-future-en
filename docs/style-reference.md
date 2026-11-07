@@ -6,7 +6,10 @@ Voice per character: the JP markers and the English devices that carry them. Gro
 |---|---|---|
 | Garlot | 俺, だ/だろ, clipped, ぶっきらぼう | Blunt young man. Short sentences, contractions, "Hey", little politeness. Temper shows in fragments. Never flowery. |
 | Siskier | あたし, ～わ/～ね/～よ, teasing | Bright, quick, older-sister teasing: "you know", "c'mon", "honestly". Warm under the jokes. |
-| Jenon | 俺, dramatic flourishes, flirts | Wordy, theatrical, sardonic. Mock-gallant to women ("my lady", "dear"), pessimist's asides. |
+| Jenon | 僕, dramatic flourishes, flirts | Wordy, theatrical, sardonic. Mock-gallant to women ("my lady", "dear"), pessimist's asides. |
+| Cerica | セリカ as "I", ～よ, アハハ | Calls herself "Cerica", never "I" (Siskier mocks it in b036). Bratty, valley-girl swagger. |
+| David | 俺, オメェ, ～だぜ, 旦那 | Lazy, amused mercenary: "y'see", "kids", "boss" for his employer, mock-friendly menace. |
+| Norn | 私, ～ですよ, ヒッヒッ, キィーッ | Oily polite merchant: "Hee hee", shrieks "Eeek!" when losing, drops the politeness when scared. |
 | Medoute | あたし/私, ～さ/～だね, worldly | Dry, unhurried, big-sister frankness. Plain words, lets a line land. |
 | Eimi / Emilia | ボク, ～なの/～だよ, child | Little-kid simple grammar, "Y'see", "um", repeated starts. Boku girl: never cutesy-misspelled. |
 | Aegina | 私, です/ます, strict | Polite and serious. Full forms, few contractions, "Captain Garlot". Cold fury when Fantasinia comes up. |
