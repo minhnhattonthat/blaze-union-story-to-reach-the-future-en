@@ -41,7 +41,8 @@ def rows():
         assert len(f) == 5, f"{TSV.name}:{n}: {len(f)} fields"
         lab, box, style, jp, en = f
         assert style in STYLES, f"{TSV.name}:{n}: style {style}"
-        out.setdefault(lab, []).append((tuple(map(int, box.split(","))), style, jp, en.replace("\\n", "\n")))
+        en = "" if en == "-" else en.replace("\\n", "\n")  # "-": clear the box, draw nothing
+        out.setdefault(lab, []).append((tuple(map(int, box.split(","))), style, jp, en))
     return out
 
 
@@ -124,7 +125,14 @@ def draw(img, box, style, en):
     x, y, w, h = box
     fills, dark = sample(img.crop((x, y, x + w, y + h)))
     if st["clear"] == "bg":
-        img.paste(Image.new("RGBA", (w, h), border_colour(img, box)), (x, y))
+        # lettering on an opaque panel: ink is what differs from the panel, its darker part is the letter colour
+        bgc = border_colour(img, box)
+        ink = sorted((p for p in img.crop((x, y, x + w, y + h)).getdata()
+                      if sum((a - b) ** 2 for a, b in zip(p[:3], bgc[:3])) > 3600), key=lum)
+        ink = ink[:max(1, len(ink) * 2 // 5)] or [(0, 0, 0, 255)]
+        dark = tuple(sum(p[i] for p in ink) // len(ink) for i in range(3))
+        fills = [dark] * h
+        img.paste(Image.new("RGBA", (w, h), bgc), (x, y))
     else:
         img.paste(Image.new("RGBA", (w, h), (0, 0, 0, 0)), (x, y))
     if not en:

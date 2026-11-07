@@ -31,3 +31,19 @@
 3@472fa0	0,120,121,15	menu	チュートリアル	Tutorial
 3@472fa0	0,136,69,16	menu	勝敗条件	Objectives
 3@472fa0	1,153,86,16	menu	中断セーブ	Suspend Save
+# Field Information panel (counters 人 and 枚 after the numbers are dropped: the label says what is counted)
+3@479940	106,0,42,17	menu	人 枚	-
+3@479940	0,22,132,13	menu	味方残りユニット	Allies Left
+3@479940	0,36,114,13	menu	敵残りユニット	Enemies Left
+3@479940	0,50,82,13	menu	残りカード	Cards Left
+# Map help legends
+3@4948f0	26,20,100,20	panel	…味方ユニット	…Allied Unit
+3@4948f0	26,45,100,20	panel	…敵ユニット	…Enemy Unit
+3@497360	38,2,88,17	panel	得意	Favoured
+3@497360	38,23,88,17	panel	苦手	Poor
+3@497360	38,44,88,17	panel	移動可	Passable
+3@497360	38,65,88,17	panel	移動不可	Impassable
+3@497360	39,86,87,17	panel	通過のみ可	Pass Through Only
+3@499590	39,2,87,17	panel	有利	Advantage
+3@499590	39,23,87,17	panel	不利	Disadvantage
+3@499590	39,44,87,17	panel	互角	Even
