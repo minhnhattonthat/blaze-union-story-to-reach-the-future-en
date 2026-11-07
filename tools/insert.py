@@ -127,8 +127,9 @@ def child(path, *route):
     return extract.children(path, *route)
 
 
-def build(text):
-    """-> ({Data.cpk id: bytes}, EBOOT bytes). Every call starts from the dump's bytes in work/."""
+def build(text, base=None):
+    """-> ({Data.cpk id: bytes}, EBOOT bytes). Every call starts from the dump's bytes in work/, or from base[3] for
+    FCT 3 (its sprites already edited by gen_gfx)."""
     cpk = extract.CPK
     repl = {}
     count = 0
@@ -137,7 +138,7 @@ def build(text):
         repl[i], n = pack_script((cpk / f"{i:05d}.bin").read_bytes(), records(name), text, name)
         count += n
 
-    d3 = (cpk / "00003.bin").read_bytes()
+    d3 = (base or {}).get(3) or (cpk / "00003.bin").read_bytes()
     k3 = fct.children(d3)
     d15 = d3[k3[15][0]:k3[15][0] + k3[15][1]]
     new15 = {}

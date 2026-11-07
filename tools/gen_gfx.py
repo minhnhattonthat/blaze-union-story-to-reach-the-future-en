@@ -1,0 +1,226 @@
+"""English sprites from data/gfx.tsv: each row clears one box of a sprite and draws its English there.
+Row: label (sweep label, <file id>@<hex>), box x,y,w,h, style (STYLES below), Japanese (a note), English.
+A label may have many rows: atlases hold many labels, and the game cuts each from its own rect, so English stays inside
+the box the Japanese had. Every copy of a sprite's bytes in the archive gets the same edit (gfx.copies).
+usage: gen_gfx.py preview [LABEL..]   -> work/gfx/<label>.png, original above, English below
+       gen_gfx.py boxes LABEL..       -> ink boxes (x,y,w,h) per line segment, to write rows from
+library: edits() -> {file id: bytes}, log lines in build/gfx.txt"""
+import sys
+from pathlib import Path
+
+from PIL import Image, ImageDraw, ImageFont
+
+sys.path.insert(0, str(Path(__file__).parent))
+import gfx
+import sprite
+
+ROOT = Path(__file__).resolve().parents[1]
+TSV = ROOT / "data/gfx.tsv"
+FONTS = ROOT / "fonts"
+OUT = ROOT / "work/gfx"
+
+# fill: colour, or "rows" = each row takes the mean colour of the Japanese fill in that row (keeps gradients).
+# stroke: (width, colour) or (width, "rows-dark"). clear: "alpha" (transparent) or "bg" (box border's commonest colour).
+STYLES = {
+    "banner": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(2, "dark"), clear="alpha", align="c"),
+    "menu": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="l"),
+    "menu-c": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="c"),
+    "label": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="alpha", align="l"),
+    "panel": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="l"),
+    "panel-c": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="c"),
+}
+MIN_X = 0.62  # narrowest horizontal squeeze before the size shrinks instead
+
+
+def rows():
+    out = {}
+    for n, line in enumerate(TSV.read_text(encoding="utf-8").splitlines(), 1):
+        if not line.strip() or line.startswith("#"):
+            continue
+        f = line.split("\t")
+        assert len(f) == 5, f"{TSV.name}:{n}: {len(f)} fields"
+        lab, box, style, jp, en = f
+        assert style in STYLES, f"{TSV.name}:{n}: style {style}"
+        out.setdefault(lab, []).append((tuple(map(int, box.split(","))), style, jp, en.replace("\\n", "\n")))
+    return out
+
+
+def lum(p):
+    return 0.299 * p[0] + 0.587 * p[1] + 0.114 * p[2]
+
+
+def sample(crop):
+    """-> (per-row fill colours, dark colour) of the original lettering in a box."""
+    px = crop.load()
+    w, h = crop.size
+    ink = [px[x, y] for y in range(h) for x in range(w) if px[x, y][3] > 100]
+    if not ink:
+        return [(255, 255, 255)] * h, (0, 0, 0)
+    ls = sorted(lum(p) for p in ink)
+    cut = (ls[len(ls) // 10] + ls[-1 - len(ls) // 10]) / 2
+    dark = [p for p in ink if lum(p) < cut] or ink
+    dark = tuple(sorted(dark, key=lum)[len(dark) // 4][:3])
+    fills = []
+    for y in range(h):
+        r = [px[x, y] for x in range(w) if px[x, y][3] > 100 and lum(px[x, y]) >= cut]
+        fills.append(tuple(sum(c[i] for c in r) // len(r) for i in range(3)) if r else None)
+    known = [i for i, c in enumerate(fills) if c]
+    if not known:
+        fills = [tuple(sorted(ink, key=lum)[-1][:3])] * h
+    else:
+        fills = [fills[min(known, key=lambda k: abs(k - y))] for y in range(h)]
+    return fills, dark
+
+
+def border_colour(img, box):
+    x, y, w, h = box
+    px = img.load()
+    from collections import Counter
+    c = Counter()
+    for i in range(x - 1, x + w + 1):
+        for j in (y - 1, y + h):
+            if 0 <= i < img.width and 0 <= j < img.height:
+                c[px[i, j]] += 1
+    for j in range(y, y + h):
+        for i in (x - 1, x + w):
+            if 0 <= i < img.width and 0 <= j < img.height:
+                c[px[i, j]] += 1
+    return c.most_common(1)[0][0] if c else (0, 0, 0, 0)
+
+
+def text_layer(text, st, w, h):
+    """White-on-black-stroke lettering fitted into w x h (ink box), squeezed before shrunk. -> L-mode luma, alpha."""
+    sw = st["stroke"][0] if st["stroke"] else 0
+    path = str(FONTS / st["font"])
+    lines = text.split("\n")
+    for px in range(h * 2, 5, -1):
+        f = ImageFont.truetype(path, px)
+        d = ImageDraw.Draw(Image.new("L", (1, 1)))
+        bbs = [d.textbbox((0, 0), ln, font=f, stroke_width=sw) for ln in lines]
+        ref = d.textbbox((0, 0), "Ag", font=f, stroke_width=sw)  # one size per box height, descender or not
+        bbs = [(b[0], ref[1], b[2], ref[3]) for b in bbs]
+        lh = ref[3] - ref[1]
+        pitch = f.getmetrics()[0] + f.getmetrics()[1] if len(lines) > 1 else lh
+        th = pitch * (len(lines) - 1) + lh
+        tw = max(b[2] - b[0] for b in bbs)
+        if th <= h and tw * MIN_X <= w:
+            break
+    top = min(b[1] for b in bbs)
+    lay = Image.new("RGBA", (tw + 2, th + 2), (0, 0, 0, 0))
+    d = ImageDraw.Draw(lay)
+    for i, (ln, b) in enumerate(zip(lines, bbs)):
+        x = {"l": 0, "c": (tw - (b[2] - b[0])) // 2, "r": tw - (b[2] - b[0])}[st["align"]] - b[0]
+        d.text((x + 1, i * pitch - top + 1), ln, font=f, fill=(255, 255, 255, 255), stroke_width=sw,
+               stroke_fill=(0, 0, 0, 255))
+    bb = lay.getbbox() or (0, 0, 1, 1)
+    lay = lay.crop((bb[0], 0, bb[2], lay.height))
+    if lay.width > w:
+        lay = lay.resize((w, lay.height), Image.LANCZOS)
+    return lay
+
+
+def draw(img, box, style, en):
+    st = STYLES[style]
+    x, y, w, h = box
+    fills, dark = sample(img.crop((x, y, x + w, y + h)))
+    if st["clear"] == "bg":
+        img.paste(Image.new("RGBA", (w, h), border_colour(img, box)), (x, y))
+    else:
+        img.paste(Image.new("RGBA", (w, h), (0, 0, 0, 0)), (x, y))
+    if not en:
+        return
+    lay = text_layer(en, st, w, h)
+    ox = x + {"l": 0, "c": (w - lay.width) // 2, "r": w - lay.width}[st["align"]]
+    oy = y + (h - lay.height) // 2
+    src = lay.load()
+    dst = img.load()
+    for j in range(lay.height):
+        f = fills[min(max(oy + j - y, 0), h - 1)]
+        for i in range(lay.width):
+            r, g, b, a = src[i, j]
+            if not a or not (y <= oy + j < y + h and x <= ox + i < x + w):
+                continue
+            t = r / 255
+            c = tuple(int(dark[k] + (f[k] - dark[k]) * t) for k in range(3))
+            bg = dst[ox + i, oy + j]
+            al = a / 255
+            dst[ox + i, oy + j] = tuple(int(c[k] * al + bg[k] * (1 - al)) for k in range(3)) + (max(a, bg[3]),)
+
+
+def english(label, items):
+    img = sprite.image(label).copy()
+    for box, style, jp, en in items:
+        draw(img, box, style, en)
+    return img
+
+
+def edits(log=ROOT / "build/gfx.txt"):
+    """{file id: edited bytes} for every sprite in data/gfx.tsv and each copy of its bytes."""
+    files = {}
+    lines = []
+    for label, items in rows().items():
+        img = english(label, items)
+        d, kind, off = sprite.load(label)
+        a, b = gfx.span(d, off) if kind == "ptg" else (off, off + gfx.ptx_size(d, off))
+        pal = gfx.group_palette(d, off) if kind == "ptg" else sprite.palette_at(d, off)
+        for fid, o in gfx.copies(d[a:b]):
+            buf = files.setdefault(fid, bytearray((gfx.CPK / f"{fid:05d}.bin").read_bytes()))
+            at = o + (off - a)
+            if kind == "ptg":
+                gfx.repack(buf, at, img, pal=pal)
+            else:
+                gfx.write_ptx(buf, at, img, pal=pal)
+            lines.append(f"{fid}@{at:x}\t{label}\n")
+    log.parent.mkdir(exist_ok=True)
+    log.write_text("".join(lines), encoding="utf-8", newline="\n")
+    return {k: bytes(v) for k, v in files.items()}
+
+
+def boxes(label, gap=6):
+    img = sprite.image(label)
+    a = img.split()[3].load()
+    W, H = img.size
+    on = [any(a[x, y] > 0 for x in range(W)) for y in range(H)]
+    y = 0
+    while y < H:
+        if not on[y]:
+            y += 1
+            continue
+        y0 = y
+        while y < H and on[y]:
+            y += 1
+        cols = [any(a[x, j] > 0 for j in range(y0, y)) for x in range(W)]
+        x = 0
+        while x < W:
+            if not cols[x]:
+                x += 1
+                continue
+            x0, g = x, 0
+            while x < W and g < gap:
+                g = 0 if cols[x] else g + 1
+                x += 1
+            print(f"{label}\t{x0},{y0},{x - g - x0},{y - y0}")
+
+
+def preview(labels):
+    OUT.mkdir(parents=True, exist_ok=True)
+    rs = rows()
+    for label in labels or rs:
+        old = sprite.image(label)
+        new = english(label, rs.get(label, []))
+        d, kind, off = sprite.load(label)
+        new = gfx.snapped(new, gfx.group_palette(d, off) if kind == "ptg" else sprite.palette_at(d, off))
+        sheet = Image.new("RGBA", (old.width, old.height * 2 + 4), (70, 70, 110, 255))
+        sheet.alpha_composite(old, (0, 0))
+        sheet.alpha_composite(new, (0, old.height + 4))
+        sheet.save(OUT / f"{label.replace('@', '_')}.png")
+        print(OUT / f"{label.replace('@', '_')}.png")
+
+
+if __name__ == "__main__":
+    cmd, args = sys.argv[1], sys.argv[2:]
+    if cmd == "boxes":
+        for lab in args:
+            boxes(lab)
+    elif cmd == "preview":
+        preview(args)

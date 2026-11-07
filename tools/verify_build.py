@@ -60,7 +60,8 @@ def check_cpk(iso):
         orig = ROOT / "work/iso/PSP_GAME/USRDIR/Data/Data.cpk"
         olds, news = ({e[0]: e[1:3] for e in itoc.read_entries(p)} for p in (orig, tmp))
         assert olds.keys() == news.keys(), "archive ids changed"
-        allowed = set(extract.EVENTS) | {3}
+        art = ROOT / "build/gfx.txt"  # sprite files gen_gfx wrote, one "fid@offset<TAB>label" per sprite
+        allowed = set(extract.EVENTS) | {3} | {int(ln.split("@")[0]) for ln in art.read_text().splitlines()}
         changed = set()
         with open(orig, "rb") as a, open(tmp, "rb") as b:
             for i, (off, size) in olds.items():
@@ -71,7 +72,7 @@ def check_cpk(iso):
         bad = sorted(changed - allowed)
     finally:
         tmp.unlink()
-    print(f"Data.cpk: {len(olds)} files, {len(changed)} rebuilt, {len(bad)} outside events and file 3")
+    print(f"Data.cpk: {len(olds)} files, {len(changed)} rebuilt, {len(bad)} outside events, file 3 and sprite files")
     return [f"Data.cpk {i} changed" for i in bad]
 
 

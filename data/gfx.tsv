@@ -1,0 +1,33 @@
+# English sprites: label (sweep label <file id>@<hex>), box x,y,w,h, style (tools/gen_gfx.py STYLES), Japanese, English.
+# The box is the Japanese ink box (gen_gfx.py boxes LABEL); the game cuts each atlas label from its own rect.
+# Battle and turn prompts
+3@3b30e0	0,0,264,74	banner	戦闘準備OK?	Ready to Fight?
+3@3ba6d0	0,32,236,56	banner	戦闘準備OK?	Ready to Fight?
+3@3be550	0,0,154,33	banner	ユニオン結成完了!	Union Formed!
+3@3ed0e0	0,0,220,45	banner	タクティクスカード選択	Choose a Tactics Card
+1825@0	0,0,319,37	banner	ゲームオーバー	GAME OVER
+2137@5c50	0,0,298,72	banner	ゲーム再開OK?	Resume Game?
+2137@bbf0	0,0,298,72	banner	ゲーム中断OK?	Suspend Game?
+# Field menu (L button): lit rows
+3@467980	101,0,62,22	menu	総合勝率	Win Rate
+3@467980	0,23,106,21	menu	全体マップ	World Map
+3@467980	0,46,137,20	menu	ユニットリスト	Unit List
+3@467980	0,68,119,20	menu	カードリスト	Card List
+3@467980	0,89,150,21	menu	武器タイプ一覧	Weapon Types
+3@467980	0,111,89,21	menu	地形一覧	Terrain
+3@467980	0,133,162,21	menu	オブジェクト一覧	Object List
+3@467980	0,155,89,21	menu	勝敗条件	Objectives
+3@467980	0,178,136,20	menu	チュートリアル	Tutorial
+3@467980	1,199,106,21	menu	中断セーブ	Suspend Save
+3@467980	0,221,104,21	menu	ターン終了	End Turn
+# Field menu: greyed rows
+3@472fa0	0,0,86,16	menu	ターン終了	End Turn
+3@472fa0	0,17,87,16	menu	全体マップ	World Map
+3@472fa0	0,35,120,15	menu	ユニットリスト	Unit List
+3@472fa0	1,52,101,15	menu	カードリスト	Card List
+3@472fa0	0,68,120,16	menu	武器タイプ一覧	Weapon Types
+3@472fa0	0,85,69,16	menu	地形一覧	Terrain
+3@472fa0	0,102,137,16	menu	オブジェクト一覧	Object List
+3@472fa0	0,120,121,15	menu	チュートリアル	Tutorial
+3@472fa0	0,136,69,16	menu	勝敗条件	Objectives
+3@472fa0	1,153,86,16	menu	中断セーブ	Suspend Save

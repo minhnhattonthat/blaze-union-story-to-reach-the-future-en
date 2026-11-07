@@ -68,9 +68,14 @@ class Translated:
 
 
 def build_en(out=OUT):
+    import gen_gfx
     import insert
-    repl, eboot, count = insert.build(Translated())
-    print("English strings:", count, "EBOOT", len(eboot))
+    art = gen_gfx.edits()
+    repl, eboot, count = insert.build(Translated(), base=art)
+    both = (art.keys() & repl.keys()) - {3}
+    assert not both, f"sprite and text edits in the same files: {sorted(both)}"
+    repl.update({k: v for k, v in art.items() if k != 3})
+    print("English strings:", count, "EBOOT", len(eboot), "sprite files", len(art))
     return build(out, repl=repl, keep_same=False, eboot=eboot)
 
 
