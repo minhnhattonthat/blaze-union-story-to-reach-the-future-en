@@ -939,8 +939,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "こっ、これは！？",
-  "en": "",
-  "status": ""
+  "en": "Wh-what's this!?",
+  "status": "done"
  },
  {
   "id": "event_2201_010C4",
@@ -1922,8 +1922,8 @@
    39392
   ],
   "jp": "なーんつって②",
-  "en": "",
-  "status": ""
+  "en": "Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2201_05D93",

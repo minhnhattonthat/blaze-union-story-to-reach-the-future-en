@@ -1832,8 +1832,8 @@
    17498
   ],
   "jp": "ちょ、これ、ハチの巣③{n}じょ、冗談じゃないわよ、{n}ハチとか勘弁してよねっ？",
-  "en": "",
-  "status": ""
+  "en": "Wait, this is a beehive!? Y-you've got to be kidding, spare me the bees!",
+  "status": "done"
  },
  {
   "id": "event_2167_01BF7",
@@ -1844,8 +1844,8 @@
    17587
   ],
   "jp": "来ないわね。{n}空の巣だったのかしら……",
-  "en": "",
-  "status": ""
+  "en": "They're not coming. Was it an empty hive...",
+  "status": "done"
  },
  {
   "id": "event_2167_01C1D",
@@ -1856,8 +1856,8 @@
    17608
   ],
   "jp": "こ、こんなので動揺なんて、{n}するはずがないじゃない。{n}何をそんなに慌ててるんだか…",
-  "en": "",
-  "status": ""
+  "en": "A-as if something like this would rattle me. What's everyone getting so worked up about...",
+  "status": "done"
  },
  {
   "id": "event_2167_01C6E",
@@ -1868,8 +1868,8 @@
    17698
   ],
   "jp": "あり？　なんか降ってきたけど…",
-  "en": "",
-  "status": ""
+  "en": "Huh? Something fell down...",
+  "status": "done"
  },
  {
   "id": "event_2167_01C8D",
@@ -1880,8 +1880,8 @@
    17723
   ],
   "jp": "ぎゃあ！　ハチの巣じゃんか②{n}しかもこれ、とびっきり凶暴な{n}キラービーの巣だ！　やばいぜ②",
-  "en": "",
-  "status": ""
+  "en": "Gyaah! It's a beehive! And a really vicious killer bee hive! This is bad!",
+  "status": "done"
  },
  {
   "id": "event_2167_01CE6",
@@ -1892,8 +1892,8 @@
    17812
   ],
   "jp": "…襲って来ない？{n}なんだ、廃棄された巣なのか。{n}ビックリしたぜぇ、もう…",
-  "en": "",
-  "status": ""
+  "en": "...They're not attacking? Oh, an abandoned hive. What a scare, jeez...",
+  "status": "done"
  },
  {
   "id": "event_2167_01D2D",
@@ -1904,8 +1904,8 @@
    17974
   ],
   "jp": "しかしジメジメするな…",
-  "en": "",
-  "status": ""
+  "en": "It's sure damp in here...",
+  "status": "done"
  },
  {
   "id": "event_2167_01D44",
@@ -1916,8 +1916,8 @@
    17988
   ],
   "jp": "お、キノコが生えてるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, there's a mushroom growing here.",
+  "status": "done"
  },
  {
   "id": "event_2167_01D5D",
@@ -1928,8 +1928,8 @@
    18063
   ],
   "jp": "…しかし、食えるんだろうか？{n}あとでメデューテにでも{n}聞いてみるか。",
-  "en": "",
-  "status": ""
+  "en": "...But can you eat it? I'll ask Medoute later.",
+  "status": "done"
  },
  {
   "id": "event_2167_01DA0",
@@ -1940,8 +1940,8 @@
    18143
   ],
   "jp": "ふぅ。{n}森の中はジメジメするわね…",
-  "en": "",
-  "status": ""
+  "en": "Whew. It's so damp in the forest...",
+  "status": "done"
  },
  {
   "id": "event_2167_01DC2",
@@ -1952,8 +1952,8 @@
    18218
   ],
   "jp": "あら、キノコね。{n}食べれるかどうかわからないけど、{n}とりあえず摘んでおきましょう。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a mushroom. I don't know if it's edible, but I'll pick it for now.",
+  "status": "done"
  },
  {
   "id": "event_2167_01E13",
@@ -1964,8 +1964,8 @@
    18298
   ],
   "jp": "ムシムシするね…",
-  "en": "",
-  "status": ""
+  "en": "So muggy...",
+  "status": "done"
  },
  {
   "id": "event_2167_01E24",
@@ -1976,8 +1976,8 @@
    18373
   ],
   "jp": "おや、キノコじゃないか。{n}この色ツヤ、前に図鑑で読んだ{n}『チカラダケ』だね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a mushroom. That color and sheen, it's the \"Power Cap\" I read about in a field guide.",
+  "status": "done"
  },
  {
   "id": "event_2167_01E6F",
@@ -1988,8 +1988,8 @@
    18453
   ],
   "jp": "…おや？{n}そこに生えているのは…",
-  "en": "",
-  "status": ""
+  "en": "...Oh? What's that growing there...",
+  "status": "done"
  },
  {
   "id": "event_2167_01E8F",
@@ -2000,8 +2000,8 @@
    18528
   ],
   "jp": "やはり『チカラダケ』か。{n}摂っておいて損はないものだよ。",
-  "en": "",
-  "status": ""
+  "en": "A \"Power Cap,\" just as I thought. Never hurts to eat one.",
+  "status": "done"
  },
  {
   "id": "event_2167_01EC7",
@@ -2012,8 +2012,8 @@
    18608
   ],
   "jp": "ふぅ…{n}森の中は湿気が高いですね。",
-  "en": "",
-  "status": ""
+  "en": "Whew... It is quite humid in the forest.",
+  "status": "done"
  },
  {
   "id": "event_2167_01EE9",
@@ -2024,8 +2024,8 @@
    18683
   ],
   "jp": "あら、キノコですね。{n}…けど毒を持つキノコは{n}多いですから、注意しないと…",
-  "en": "",
-  "status": ""
+  "en": "Oh, a mushroom. ...But many mushrooms are poisonous, so I must be careful...",
+  "status": "done"
  },
  {
   "id": "event_2167_01F32",
@@ -2036,8 +2036,8 @@
    18763
   ],
   "jp": "ムシムシするなあ…{n}蒸し暑さはムシするに限る。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "So muggy... Byff has been mugged by the weather. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2167_01F6F",
@@ -2048,8 +2048,8 @@
    18777
   ],
   "jp": "お、キノコだ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a mushroom.",
+  "status": "done"
  },
  {
   "id": "event_2167_01F7E",
@@ -2060,8 +2060,8 @@
    18866
   ],
   "jp": "毒がなかったら、{n}そのとき残さず食べよう！{n}キノコだけになッ②",
-  "en": "",
-  "status": ""
+  "en": "If it has no poison, Byff will eat it all! There is always mush-room for more!",
+  "status": "done"
  },
  {
   "id": "event_2167_01FBB",
@@ -2072,8 +2072,8 @@
    18953
   ],
   "jp": "ふぅ…{n}蒸し暑いわね、もう。",
-  "en": "",
-  "status": ""
+  "en": "Whew... So muggy, honestly.",
+  "status": "done"
  },
  {
   "id": "event_2167_01FD7",
@@ -2084,8 +2084,8 @@
    19028
   ],
   "jp": "キノコじゃない。{n}確かコレ、食べても平気なヤツよ。",
-  "en": "",
-  "status": ""
+  "en": "Why, a mushroom. I'm pretty sure this one's safe to eat.",
+  "status": "done"
  },
  {
   "id": "event_2167_02009",
@@ -2096,8 +2096,8 @@
    19108
   ],
   "jp": "…月明かりも届かないや。",
-  "en": "",
-  "status": ""
+  "en": "...Not even the moonlight gets in here.",
+  "status": "done"
  },
  {
   "id": "event_2167_02022",
@@ -2108,8 +2108,8 @@
    19183
   ],
   "jp": "お、キノコだな。{n}こいつは毒とか気にせずに{n}食える種類のだな、確か。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a mushroom. I'm pretty sure this kind's fine to eat, no worries about poison.",
+  "status": "done"
  },
  {
   "id": "event_2167_02065",
@@ -2120,8 +2120,8 @@
    19345
   ],
   "jp": "こいつが輸送船だな。{n}まず外に展開した部隊を倒して…",
-  "en": "",
-  "status": ""
+  "en": "So this is the transport ship. First we take out the units outside...",
+  "status": "done"
  },
  {
   "id": "event_2167_02099",
@@ -2132,8 +2132,8 @@
    19420
   ],
   "jp": "ん？　なんだ、この鎖は…",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's this chain...",
+  "status": "done"
  },
  {
   "id": "event_2167_020B2",
@@ -2144,8 +2144,8 @@
    19427
   ],
   "jp": "船の停泊用か？{n}いや、それにしては短いな…",
-  "en": "",
-  "status": ""
+  "en": "For mooring the ship? No, too short for that...",
+  "status": "done"
  },
  {
   "id": "event_2167_020DC",
@@ -2156,8 +2156,8 @@
    19507
   ],
   "jp": "敵を倒して、早いトコ船の中に{n}乗り込まないとね…",
-  "en": "",
-  "status": ""
+  "en": "I've gotta beat the enemy and hurry up and get aboard...",
+  "status": "done"
  },
  {
   "id": "event_2167_0210C",
@@ -2168,8 +2168,8 @@
    19582
   ],
   "jp": "あら？　何かしら、この鎖は…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's this chain...",
+  "status": "done"
  },
  {
   "id": "event_2167_02129",
@@ -2180,8 +2180,8 @@
    19662
   ],
   "jp": "輸送船の荷…{n}皇帝への賄賂って話だけど、{n}一体何を積んでいるんだろう？",
-  "en": "",
-  "status": ""
+  "en": "The ship's cargo... They say it's a bribe for the Emperor, but what could it be carrying?",
+  "status": "done"
  },
  {
   "id": "event_2167_0216E",
@@ -2192,8 +2192,8 @@
    19737
   ],
   "jp": "おや？　なんだろう、この鎖。{n}舫い紐の代わり…{n}にしては短すぎるね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's this chain? In place of a mooring rope... No, it's too short for that.",
+  "status": "done"
  },
  {
   "id": "event_2167_021B1",
@@ -2204,8 +2204,8 @@
    19817
   ],
   "jp": "…こいつが輸送船か。",
-  "en": "",
-  "status": ""
+  "en": "...So this is the transport ship.",
+  "status": "done"
  },
  {
   "id": "event_2167_021C6",
@@ -2216,8 +2216,8 @@
    19892
   ],
   "jp": "鎖が落ちているな。{n}船上で使うものなのか？",
-  "en": "",
-  "status": ""
+  "en": "There's a chain lying here. Is it something used aboard ship?",
+  "status": "done"
  },
  {
   "id": "event_2167_021F0",
@@ -2228,8 +2228,8 @@
    19972
   ],
   "jp": "早く部隊を殲滅して、{n}この船を完全に止めないと…",
-  "en": "",
-  "status": ""
+  "en": "We must quickly destroy their unit and bring this ship to a complete stop...",
+  "status": "done"
  },
  {
   "id": "event_2167_02220",
@@ -2240,8 +2240,8 @@
    20047
   ],
   "jp": "あら？　鎖が落ちていますね。{n}なんでしょう、これは？",
-  "en": "",
-  "status": ""
+  "en": "Oh? There is a chain lying here. What could this be?",
+  "status": "done"
  },
  {
   "id": "event_2167_02254",
@@ -2252,8 +2252,8 @@
    20127
   ],
   "jp": "これが船か…{n}バイフー、船、初めて見るな。",
-  "en": "",
-  "status": ""
+  "en": "So this is a ship... Byff has never seen a ship before.",
+  "status": "done"
  },
  {
   "id": "event_2167_0227E",
@@ -2264,8 +2264,8 @@
    20202
   ],
   "jp": "ん？　鎖が落ちているぞ。{n}さすがにコレは見た事あるぞ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? A chain is lying here. Byff has seen one of these before.",
+  "status": "done"
  },
  {
   "id": "event_2167_022B4",
@@ -2276,8 +2276,8 @@
    20282
   ],
   "jp": "川を遡上する輸送にしては、{n}ずいぶん大きいのね。",
-  "en": "",
-  "status": ""
+  "en": "It's awfully big for a transport going upriver.",
+  "status": "done"
  },
  {
   "id": "event_2167_022E4",
@@ -2288,8 +2288,8 @@
    20357
   ],
   "jp": "ん？　なにかしら、この鎖。{n}輸送船から落ちたのかしらね。",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's this chain? Did it fall from the transport?",
+  "status": "done"
  },
  {
   "id": "event_2167_0231C",
@@ -2300,8 +2300,8 @@
    20437
   ],
   "jp": "この船が皇帝への賄賂を{n}満載してるのか…{n}絶対に止めないとな。",
-  "en": "",
-  "status": ""
+  "en": "So this ship's loaded with bribes for the Emperor... We've got to stop it, no matter what.",
+  "status": "done"
  },
  {
   "id": "event_2167_02359",
@@ -2312,8 +2312,8 @@
    20512
   ],
   "jp": "ん？{n}なんでこんなところに{n}鎖が落ちてるんだ？",
-  "en": "",
-  "status": ""
+  "en": "Hm? Why's there a chain lying here?",
+  "status": "done"
  },
  {
   "id": "event_2167_02386",
@@ -2324,8 +2324,8 @@
    20674
   ],
   "jp": "船がくぐるだけあって、{n}さすがにデカイ橋だな。",
-  "en": "",
-  "status": ""
+  "en": "Big enough for ships to pass under, so of course it's a huge bridge.",
+  "status": "done"
  },
  {
   "id": "event_2167_023B4",
@@ -2336,8 +2336,8 @@
    20744
   ],
   "jp": "お、コインが落ちているな。{n}見た事のない模様だが……",
-  "en": "",
-  "status": ""
+  "en": "Oh, there's a coin here. I've never seen this pattern...",
+  "status": "done"
  },
  {
   "id": "event_2167_023E8",
@@ -2348,8 +2348,8 @@
    20817
   ],
   "jp": "大きな橋ね…",
-  "en": "",
-  "status": ""
+  "en": "What a big bridge...",
+  "status": "done"
  },
  {
   "id": "event_2167_023F5",
@@ -2360,8 +2360,8 @@
    20828
   ],
   "jp": "この橋を落とせば、{n}川を遡上する船の動きは{n}完全に止められる、か。",
-  "en": "",
-  "status": ""
+  "en": "Bring down this bridge, and ships going upriver would be stopped completely.",
+  "status": "done"
  },
  {
   "id": "event_2167_02436",
@@ -2372,8 +2372,8 @@
    20901
   ],
   "jp": "ん…{n}コインが落ちてるわ。{n}珍しい模様ね。",
-  "en": "",
-  "status": ""
+  "en": "Hm... There's a coin here. What an unusual pattern.",
+  "status": "done"
  },
  {
   "id": "event_2167_0245F",
@@ -2384,8 +2384,8 @@
    20974
   ],
   "jp": "アーチ状の橋だ…",
-  "en": "",
-  "status": ""
+  "en": "An arched bridge...",
+  "status": "done"
  },
  {
   "id": "event_2167_02470",
@@ -2396,8 +2396,8 @@
    20985
   ],
   "jp": "そっか。この構造の方が、{n}川を遡上する船が通りやすいね。",
-  "en": "",
-  "status": ""
+  "en": "I see. That makes it easier for ships going upriver to pass.",
+  "status": "done"
  },
  {
   "id": "event_2167_024A8",
@@ -2408,8 +2408,8 @@
    21058
   ],
   "jp": "おや、珍しい紋様のコインだね。{n}ひょっとして外国のものかな？",
-  "en": "",
-  "status": ""
+  "en": "Oh, a coin with an unusual pattern. Could it be foreign?",
+  "status": "done"
  },
  {
   "id": "event_2167_024E4",
@@ -2420,8 +2420,8 @@
    21138
   ],
   "jp": "こいつを使えば、{n}両岸から船を追い込めるな。",
-  "en": "",
-  "status": ""
+  "en": "With this, we can drive the ship from both banks.",
+  "status": "done"
  },
  {
   "id": "event_2167_02510",
@@ -2432,8 +2432,8 @@
    21208
   ],
   "jp": "あれ？　これって、海の外にある{n}国のコインじゃないか。",
-  "en": "",
-  "status": ""
+  "en": "Huh? Isn't this a coin from a country across the sea?",
+  "status": "done"
  },
  {
   "id": "event_2167_02546",
@@ -2444,8 +2444,8 @@
    21285
   ],
   "jp": "大きな橋ですね。",
-  "en": "",
-  "status": ""
+  "en": "What a large bridge.",
+  "status": "done"
  },
  {
   "id": "event_2167_02557",
@@ -2456,8 +2456,8 @@
    21358
   ],
   "jp": "あら、コインが落ちていますよ。{n}拾っておきましょう。",
-  "en": "",
-  "status": ""
+  "en": "Oh, there is a coin here. I will pick it up.",
+  "status": "done"
  },
  {
   "id": "event_2167_0258B",
@@ -2468,8 +2468,8 @@
    21449
   ],
   "jp": "…デケェ橋だな。{n}これじゃあ渡るのも一苦労だ。",
-  "en": "",
-  "status": ""
+  "en": "...Huge bridge. Just crossing it will be hard work.",
+  "status": "done"
  },
  {
   "id": "event_2167_025B9",
@@ -2480,8 +2480,8 @@
    21522
   ],
   "jp": "そして、コインを拾った。{n}…バイフーはコインが大好きだ。{n}だから、銀行に勤めたいんだ。",
-  "en": "",
-  "status": ""
+  "en": "And Byff found a coin. ...Byff loves coins. That is why Byff wants to work at a bank.",
+  "status": "done"
  },
  {
   "id": "event_2167_0260E",
@@ -2492,8 +2492,8 @@
    21529
   ],
   "jp": "…だって、銀行に勤めれば{n}コインをいっぱい扱えるだろ？",
-  "en": "",
-  "status": ""
+  "en": "...Because if you work at a bank, you handle lots of coins, right?",
+  "status": "done"
  },
  {
   "id": "event_2167_02644",
@@ -2504,8 +2504,8 @@
    21550
   ],
   "jp": "なにせ、銀コーインだからな。{n}なーんつって②",
-  "en": "",
-  "status": ""
+  "en": "It is the job for a coin-noisseur! Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2167_02670",
@@ -2516,8 +2516,8 @@
    21568
   ],
   "jp": "あ。{n}別にコイン好きじゃないし、{n}銀行員にもなりたくないぞ。",
-  "en": "",
-  "status": ""
+  "en": "Oh. Byff does not really like coins, and does not want to work at a bank.",
+  "status": "done"
  },
  {
   "id": "event_2167_026AB",
@@ -2528,8 +2528,8 @@
    21589
   ],
   "jp": "笑いを取るために事実を捏造した。{n}すまなかった…{n}手段は選ぶべきだった…",
-  "en": "",
-  "status": ""
+  "en": "Byff made up facts to get a laugh. Byff is sorry... Byff should be choosier about methods...",
+  "status": "done"
  },
  {
   "id": "event_2167_026F2",
@@ -2540,8 +2540,8 @@
    21687
   ],
   "jp": "…この橋の上に大砲でも並べれば、{n}あんな船くらい{n}何隻でも沈められるのにねぇ。",
-  "en": "",
-  "status": ""
+  "en": "...Line this bridge with cannons and you could sink any number of ships like that.",
+  "status": "done"
  },
  {
   "id": "event_2167_0273F",
@@ -2552,8 +2552,8 @@
    21771
   ],
   "jp": "コインが落ちてるじゃない。{n}…コレ、どこのコインかしら？{n}見た事ないわね。",
-  "en": "",
-  "status": ""
+  "en": "There's a coin here. ...Where's this coin from? I've never seen one like it.",
+  "status": "done"
  },
  {
   "id": "event_2167_02788",
@@ -2564,8 +2564,8 @@
    21865
   ],
   "jp": "ん～、お金の匂いがするぜ。{n}一体どこに…{n}って、そこかッ②",
-  "en": "",
-  "status": ""
+  "en": "Mmm, I smell money. Where is it... Oh, there!",
+  "status": "done"
  },
  {
   "id": "event_2167_027C1",
@@ -2576,8 +2576,8 @@
    21949
   ],
   "jp": "おーし、コインゲットしたぜ！{n}どこで流通してるコインか{n}わからんが、とにかくゲットだ！",
-  "en": "",
-  "status": ""
+  "en": "All right, got a coin! No idea where this coin's used, but it's mine anyway!",
+  "status": "done"
  },
  {
   "id": "event_2167_02816",
@@ -2588,8 +2588,8 @@
    22180
   ],
   "jp": "ヘイ、ユー！{n}このパメラ様に何かご用？",
-  "en": "",
-  "status": ""
+  "en": "Hey, you! You've got some business with Pamela-sama?",
+  "status": "done"
  },
  {
   "id": "event_2167_0283C",
@@ -2600,8 +2600,8 @@
    22201
   ],
   "jp": "ああっ！{n}さては偉大なるパメラ様の{n}生詠唱を見学しよう、って魂胆ね！",
-  "en": "",
-  "status": ""
+  "en": "Ah! So you've come to watch the great Pamela-sama chant live, is that it!",
+  "status": "done"
  },
  {
   "id": "event_2167_0287F",
@@ -2612,8 +2612,8 @@
    22208
   ],
   "jp": "…うん、滅多に人前では{n}見せないんだけど、今日だけは{n}サービスし・ちゃ・う・ぞ☆",
-  "en": "",
-  "status": ""
+  "en": "...Yeah, I hardly ever show it in public, but today only, it's on the hooouse ☆",
+  "status": "done"
  },
  {
   "id": "event_2167_028CE",
@@ -2624,8 +2624,8 @@
    22416
   ],
   "jp": "何かしら、この女…{n}魔女？　いや、魔女にしては{n}童顔すぎる気が…",
-  "en": "",
-  "status": ""
+  "en": "Who is this woman... A witch? No, her face looks too young for a witch...",
+  "status": "done"
  },
  {
   "id": "event_2167_0290D",
@@ -2636,8 +2636,8 @@
    22437
   ],
   "jp": "アンタみたいに露出過多な女は{n}ナンセンスぅ～！{n}同じ土俵に立たないでくれる？",
-  "en": "",
-  "status": ""
+  "en": "A girl dressed like you is sooo nonsense~! Don't put yourself on my level, okay?",
+  "status": "done"
  },
  {
   "id": "event_2167_02958",
@@ -2648,8 +2648,8 @@
    22458
   ],
   "jp": "なるほどね、{n}めんどくさい女ってコトね……",
-  "en": "",
-  "status": ""
+  "en": "I get it. She's just a pain.",
+  "status": "done"
  },
  {
   "id": "event_2167_02982",
@@ -2660,8 +2660,8 @@
    22666
   ],
   "jp": "君は何者だい？",
-  "en": "",
-  "status": ""
+  "en": "Who are you?",
+  "status": "done"
  },
  {
   "id": "event_2167_02991",
@@ -2672,8 +2672,8 @@
    22687
   ],
   "jp": "あらあら？　パメラ様の顔を{n}知らないなんて無知もいいとこね。{n}出直してくるがいいんだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Oh my? You don't know Pamela-sama's face? How ignorant. Go back and try again, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2167_029EA",
@@ -2684,8 +2684,8 @@
    22888
   ],
   "jp": "魔法使いか？",
-  "en": "",
-  "status": ""
+  "en": "A magician?",
+  "status": "done"
  },
  {
   "id": "event_2167_029F7",
@@ -2696,8 +2696,8 @@
    22909
   ],
   "jp": "この大魔法使い・パメラ様を{n}知らない？　ほぉーーーー！",
-  "en": "",
-  "status": ""
+  "en": "You don't know the grand sorceress, Pamela-sama? Oh, reeeally!",
+  "status": "done"
  },
  {
   "id": "event_2167_02A2D",
@@ -2708,8 +2708,8 @@
    23124
   ],
   "jp": "あなたは、一体？",
-  "en": "",
-  "status": ""
+  "en": "Who are you, exactly?",
+  "status": "done"
  },
  {
   "id": "event_2167_02A3E",
@@ -2720,8 +2720,8 @@
    23145
   ],
   "jp": "誰かと聞かれれば答えましょう！{n}世紀の大魔法使い・パメラ様よ②",
-  "en": "",
-  "status": ""
+  "en": "If you ask, I'll tell you! The grand sorceress of the century, Pamela-sama!",
+  "status": "done"
  },
  {
   "id": "event_2167_02A7C",
@@ -2732,8 +2732,8 @@
    23166
   ],
   "jp": "サインはお断り！{n}握手までならサービスするわ！{n}講演会も要相談ッ②",
-  "en": "",
-  "status": ""
+  "en": "No autographs! I'll throw in a handshake, though! Speaking engagements negotiable!",
+  "status": "done"
  },
  {
   "id": "event_2167_02ABD",
@@ -2744,8 +2744,8 @@
    23187
   ],
   "jp": "……あのぅ、あなたは一体？",
-  "en": "",
-  "status": ""
+  "en": "...Um, who are you, exactly?",
+  "status": "done"
  },
  {
   "id": "event_2167_02AD8",
@@ -2756,8 +2756,8 @@
    23208
   ],
   "jp": "もういいっつーの！",
-  "en": "",
-  "status": ""
+  "en": "Enough already!",
+  "status": "done"
  },
  {
   "id": "event_2167_02AEB",
@@ -2768,8 +2768,8 @@
    23430
   ],
   "jp": "さっきのはかなりの上級魔法だ。{n}…お前、名うての魔法使いだな？",
-  "en": "",
-  "status": ""
+  "en": "That was very high-level magic. ...You are a famous magician?",
+  "status": "done"
  },
  {
   "id": "event_2167_02B29",
@@ -2780,8 +2780,8 @@
    23451
   ],
   "jp": "あらあら、{n}わかる人にはわかるのね☆",
-  "en": "",
-  "status": ""
+  "en": "Oh my, those who know, know ☆",
+  "status": "done"
  },
  {
   "id": "event_2167_02B4D",
@@ -2792,8 +2792,8 @@
    23472
   ],
   "jp": "…って、アンタ人じゃないわね。{n}ま、わかる獣にもわかるものね☆",
-  "en": "",
-  "status": ""
+  "en": "...Wait, you're not a person. Well, I guess the beasts who know, know too ☆",
+  "status": "done"
  },
  {
   "id": "event_2167_02B8B",
@@ -2804,8 +2804,8 @@
    23694
   ],
   "jp": "魔法使いか？{n}でも何故かしら？{n}決して相容れる気がしないわ。",
-  "en": "",
-  "status": ""
+  "en": "A magician? But why is it... I can't see us ever getting along.",
+  "status": "done"
  },
  {
   "id": "event_2167_02BC6",
@@ -2816,8 +2816,8 @@
    23715
   ],
   "jp": "ま、おばさんと趣味が合っても{n}仕方ないっていうかね。",
-  "en": "",
-  "status": ""
+  "en": "Well, there's not much point in sharing tastes with an old lady, you know.",
+  "status": "done"
  },
  {
   "id": "event_2167_02BFA",
@@ -2828,8 +2828,8 @@
    23736
   ],
   "jp": "あら奇遇ねえ。{n}私も幼女趣味のばーさんと{n}馴れ合う気はさらさらないのよ。",
-  "en": "",
-  "status": ""
+  "en": "What a coincidence. I've got no wish to get cozy with some old bag playing little girl either.",
+  "status": "done"
  },
  {
   "id": "event_2167_02C41",
@@ -2840,8 +2840,8 @@
    23757
   ],
   "jp": "かっちーん！{n}ばぁさん？　ほぅ！{n}命が惜しくないみたいだわね！",
-  "en": "",
-  "status": ""
+  "en": "That does it! Old bag? Oh, really! I guess you don't value your life!",
+  "status": "done"
  },
  {
   "id": "event_2167_02C7E",
@@ -2852,8 +2852,8 @@
    23979
   ],
   "jp": "…アンタ、なんではだしなの？",
-  "en": "",
-  "status": ""
+  "en": "...Why are you barefoot?",
+  "status": "done"
  },
  {
   "id": "event_2167_02C9B",
@@ -2864,8 +2864,8 @@
    24000
   ],
   "jp": "これがオイラのポリシーさ。{n}お前が変な格好をしてるのと{n}同じって事！",
-  "en": "",
-  "status": ""
+  "en": "That's my policy. Same as you dressing weird!",
+  "status": "done"
  },
  {
   "id": "event_2167_02CDE",
@@ -2876,8 +2876,8 @@
    24021
   ],
   "jp": "一緒じゃねーっつーの！",
-  "en": "",
-  "status": ""
+  "en": "It is so not the same!",
+  "status": "done"
  },
  {
   "id": "event_2167_02CF5",
@@ -2888,8 +2888,8 @@
    25946
   ],
   "jp": "成り行き上勝っちまった……",
-  "en": "",
-  "status": ""
+  "en": "Guess I won, the way things turned out...",
+  "status": "done"
  },
  {
   "id": "event_2167_02D10",
@@ -2900,8 +2900,8 @@
    25967
   ],
   "jp": "ムキィー②{n}アイム・アングリィィィ…！",
-  "en": "",
-  "status": ""
+  "en": "Grrrr! I'm angryyyy...!",
+  "status": "done"
  },
  {
   "id": "event_2167_02D36",
@@ -2912,8 +2912,8 @@
    26039
   ],
   "jp": "甘い、甘いわァ②",
-  "en": "",
-  "status": ""
+  "en": "Too naive, way too naive!",
+  "status": "done"
  },
  {
   "id": "event_2167_02D47",
@@ -2924,8 +2924,8 @@
    26060
   ],
   "jp": "この女、ムチャクチャだ……",
-  "en": "",
-  "status": ""
+  "en": "This woman's insane...",
+  "status": "done"
  },
  {
   "id": "event_2167_02D62",
@@ -2936,8 +2936,8 @@
    26245
   ],
   "jp": "小娘ちゃんが、粋がっちゃって…{n}調子に乗るんじゃないわよ！",
-  "en": "",
-  "status": ""
+  "en": "Little girl, acting so tough... Don't get cocky!",
+  "status": "done"
  },
  {
   "id": "event_2167_02D9C",
@@ -2948,8 +2948,8 @@
    26266
   ],
   "jp": "状況が、やっぱりわかんない……",
-  "en": "",
-  "status": ""
+  "en": "I still don't get what's going on...",
+  "status": "done"
  },
  {
   "id": "event_2167_02DBB",
@@ -2960,8 +2960,8 @@
    26338
   ],
   "jp": "勝敗を分けたのは{n}女性としての格の違いね！",
-  "en": "",
-  "status": ""
+  "en": "What decided this was our difference in class as women!",
+  "status": "done"
  },
  {
   "id": "event_2167_02DE5",
@@ -2972,8 +2972,8 @@
    26359
   ],
   "jp": "なによそれ！{n}なんだか腹立ってきた…",
-  "en": "",
-  "status": ""
+  "en": "What's that supposed to mean! Now I'm getting mad...",
+  "status": "done"
  },
  {
   "id": "event_2167_02E09",
@@ -2984,8 +2984,8 @@
    26551
   ],
   "jp": "すまないね、{n}女の子を傷つけてしまった。",
-  "en": "",
-  "status": ""
+  "en": "Sorry, I've hurt a girl.",
+  "status": "done"
  },
  {
   "id": "event_2167_02E31",
@@ -2996,8 +2996,8 @@
    26572
   ],
   "jp": "女の子？{n}そんな風に呼んでくれるなら{n}全然オッケーよぉ☆",
-  "en": "",
-  "status": ""
+  "en": "A girl? If you're gonna call me that, it's totally okay ☆",
+  "status": "done"
  },
  {
   "id": "event_2167_02E68",
@@ -3008,8 +3008,8 @@
    26593
   ],
   "jp": "…なんて、言うわけないでしょ！{n}ムチャクチャ痛かったんだわさ②",
-  "en": "",
-  "status": ""
+  "en": "...Is what you thought I'd say! That hurt like crazy, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2167_02EA6",
@@ -3020,8 +3020,8 @@
    26600
   ],
   "jp": "お仕置き決定ーッ！",
-  "en": "",
-  "status": ""
+  "en": "You're getting punished!",
+  "status": "done"
  },
  {
   "id": "event_2167_02EB9",
@@ -3032,8 +3032,8 @@
    26672
   ],
   "jp": "恐ろしい使い手だよ。",
-  "en": "",
-  "status": ""
+  "en": "A terrifying practitioner.",
+  "status": "done"
  },
  {
   "id": "event_2167_02ECE",
@@ -3044,8 +3044,8 @@
    26679
   ],
   "jp": "なんとか策を練らないと{n}下手すると全滅させられる……",
-  "en": "",
-  "status": ""
+  "en": "We've got to come up with a plan, or she could wipe us out...",
+  "status": "done"
  },
  {
   "id": "event_2167_02F02",
@@ -3056,8 +3056,8 @@
    26857
   ],
   "jp": "関係ないのならば、{n}この戦場から立ち去れ！",
-  "en": "",
-  "status": ""
+  "en": "If you've got nothing to do with this, leave the battlefield!",
+  "status": "done"
  },
  {
   "id": "event_2167_02F2C",
@@ -3068,8 +3068,8 @@
    26878
   ],
   "jp": "ムキィー②　許すまじ②",
-  "en": "",
-  "status": ""
+  "en": "Grrrr! Unforgivable!",
+  "status": "done"
  },
  {
   "id": "event_2167_02F43",
@@ -3080,8 +3080,8 @@
    26950
   ],
   "jp": "姿は見せかけ、実力は本物か…",
-  "en": "",
-  "status": ""
+  "en": "Looks are a front, but the skill's the real thing...",
+  "status": "done"
  },
  {
   "id": "event_2167_02F60",
@@ -3092,8 +3092,8 @@
    26971
   ],
   "jp": "ぬっふっふ…{n}羊頭狗肉なパンピーどもと{n}一緒にしてほしくないだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Nufufu... Don't lump me in with common folks who are all show and no substance, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2167_02FA3",
@@ -3104,8 +3104,8 @@
    27149
   ],
   "jp": "ナメたマネしてくれたわね…{n}この怨み晴らさでおくべきか。",
-  "en": "",
-  "status": ""
+  "en": "You've got some nerve... This grudge will not go unpaid.",
+  "status": "done"
  },
  {
   "id": "event_2167_02FDB",
@@ -3116,8 +3116,8 @@
    27214
   ],
   "jp": "つ、強い……",
-  "en": "",
-  "status": ""
+  "en": "Sh-she is strong...",
+  "status": "done"
  },
  {
   "id": "event_2167_02FE8",
@@ -3128,8 +3128,8 @@
    27235
   ],
   "jp": "パメラ様に盾突いたこと、{n}もっと後悔させてあげるんだわさ！",
-  "en": "",
-  "status": ""
+  "en": "I'll make you regret standing up to Pamela-sama even more, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2167_03022",
@@ -3140,8 +3140,8 @@
    27427
   ],
   "jp": "やるじゃないの獣人ちゃん！{n}どう？　今のご主人見限って、{n}あたしの使い魔にならない？",
-  "en": "",
-  "status": ""
+  "en": "Not bad, Beast-Man-chan! How about it? Drop your master and be my familiar?",
+  "status": "done"
  },
  {
   "id": "event_2167_03075",
@@ -3152,8 +3152,8 @@
    27448
   ],
   "jp": "断る！{n}獣人だけに従人なのだ、{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Byff refuses! Byff is loyal to his master fur-ever! Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2167_030A2",
@@ -3164,8 +3164,8 @@
    27469
   ],
   "jp": "あのさ、{n}ネタが尽きてきたんじゃない？",
-  "en": "",
-  "status": ""
+  "en": "Say, aren't you running out of material?",
+  "status": "done"
  },
  {
   "id": "event_2167_030C8",
@@ -3176,8 +3176,8 @@
    27548
   ],
   "jp": "魔法に対抗するには、{n}石の意志を持て、なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Against magic you need a will of stone. Byff's will rocks. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2167_030FC",
@@ -3188,8 +3188,8 @@
    27569
   ],
   "jp": "ななななな、何事？",
-  "en": "",
-  "status": ""
+  "en": "Wh-wh-wh-what's going on?",
+  "status": "done"
  },
  {
   "id": "event_2167_0310F",
@@ -3200,8 +3200,8 @@
    27754
   ],
   "jp": "あぁ！　なんて事②{n}こんなおばさんに負けるなんて…",
-  "en": "",
-  "status": ""
+  "en": "Oh! How awful! Losing to an old lady like that...",
+  "status": "done"
  },
  {
   "id": "event_2167_03141",
@@ -3212,8 +3212,8 @@
    27775
   ],
   "jp": "ふふん、魔法使いとしての{n}センスの違いかしら？",
-  "en": "",
-  "status": ""
+  "en": "Hmph, I suppose it's a difference in sense as a magician?",
+  "status": "done"
  },
  {
   "id": "event_2167_0316F",
@@ -3224,8 +3224,8 @@
    27847
   ],
   "jp": "甘いわっ！{n}アンタは魔法使いとして、{n}パメラ様の１００億万倍甘いッ②",
-  "en": "",
-  "status": ""
+  "en": "Too naive! As a magician you're ten trillion times more naive than Pamela-sama!",
+  "status": "done"
  },
  {
   "id": "event_2167_031B2",
@@ -3236,8 +3236,8 @@
    27868
   ],
   "jp": "頭悪いセリフね……",
-  "en": "",
-  "status": ""
+  "en": "What a dumb line...",
+  "status": "done"
  },
  {
   "id": "event_2167_031C5",
@@ -3248,8 +3248,8 @@
    28053
   ],
   "jp": "弓は遠くから、ぺしぺしと…{n}超☆姑息なんだわさぁ②",
-  "en": "",
-  "status": ""
+  "en": "Bows, plinking from far off... So super ☆ cowardly, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2167_031F7",
@@ -3260,8 +3260,8 @@
    28074
   ],
   "jp": "魔法使いだって、{n}似たようなもんだろ！",
-  "en": "",
-  "status": ""
+  "en": "Magicians are about the same, aren't they!",
+  "status": "done"
  },
  {
   "id": "event_2167_0321D",
@@ -3272,8 +3272,8 @@
    28146
   ],
   "jp": "さすがパメラ様ね！{n}相性悪い弓兵にも圧勝だわさ！",
-  "en": "",
-  "status": ""
+  "en": "That's Pamela-sama for you! A landslide even against archers, who I'm bad against, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2167_0324D",
@@ -3284,8 +3284,8 @@
    28167
   ],
   "jp": "…なんか、超腹立つッ！",
-  "en": "",
-  "status": ""
+  "en": "...That makes me super mad!",
+  "status": "done"
  },
  {
   "id": "event_2167_032EE",
@@ -3308,8 +3308,8 @@
    13140
   ],
   "jp": "バリン輸送隊A",
-  "en": "",
-  "status": ""
+  "en": "Balin Trans A",
+  "status": "done"
  },
  {
   "id": "event_2167_0342C",
@@ -3320,8 +3320,8 @@
    13353
   ],
   "jp": "バリン輸送隊B",
-  "en": "",
-  "status": ""
+  "en": "Balin Trans B",
+  "status": "done"
  },
  {
   "id": "event_2167_034E1",
@@ -3332,7 +3332,7 @@
    13534
   ],
   "jp": "パメラ様御一行",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama",
+  "status": "done"
  }
 ]

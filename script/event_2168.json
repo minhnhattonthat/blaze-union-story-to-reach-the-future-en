@@ -8,8 +8,8 @@
    6886
   ],
   "jp": "{voice:003207}あーぁ、{n}今度の仕事は税の取り立てかぁ。{n}気が向かないよねぇ……",
-  "en": "",
-  "status": ""
+  "en": "Ugh, so this job's collecting taxes. Not exactly thrilled about it...",
+  "status": "done"
  },
  {
   "id": "event_2168_0006B",
@@ -20,8 +20,8 @@
    6907
   ],
   "jp": "{voice:003307}確かにな、{n}俺達が取り立て側になるなんて、{n}正直戸惑ってるよ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah. Honestly, it's strange being on the collecting side.",
+  "status": "done"
  },
  {
   "id": "event_2168_000AC",
@@ -32,8 +32,8 @@
    6928
   ],
   "jp": "{voice:003407}その気持ちは理解できます。",
-  "en": "",
-  "status": ""
+  "en": "I understand that feeling.",
+  "status": "done"
  },
  {
   "id": "event_2168_000CB",
@@ -44,8 +44,8 @@
    6935
   ],
   "jp": "{voice:003507}しかし、税が無ければ、{n}兵を雇えず、領民を守れません。",
-  "en": "",
-  "status": ""
+  "en": "But without taxes, one cannot hire soldiers or protect the people.",
+  "status": "done"
  },
  {
   "id": "event_2168_00105",
@@ -56,8 +56,8 @@
    6956
   ],
   "jp": "{voice:003607}粉挽き所などの公共施設も、{n}税収によって作られるからな。",
-  "en": "",
-  "status": ""
+  "en": "Public works like grain mills are built with tax money, too.",
+  "status": "done"
  },
  {
   "id": "event_2168_00141",
@@ -68,8 +68,8 @@
    6963
   ],
   "jp": "{voice:003707}だから、一概に税が悪い物と{n}決めつけるのは良くない。",
-  "en": "",
-  "status": ""
+  "en": "So it's not right to simply write off taxes as evil.",
+  "status": "done"
  },
  {
   "id": "event_2168_00179",
@@ -80,8 +80,8 @@
    6984
   ],
   "jp": "{voice:003807}まぁ、ヴェルマンは{n}重税にはしないって約束したし、{n}納得できる部分もあるけどな。",
-  "en": "",
-  "status": ""
+  "en": "Well, Velleman did promise not to tax too hard, so I can accept that part.",
+  "status": "done"
  },
  {
   "id": "event_2168_001CC",
@@ -92,8 +92,8 @@
    7005
   ],
   "jp": "{voice:003907}貴族様が正しく使えばでしょ？",
-  "en": "",
-  "status": ""
+  "en": "If the nobles use it right, you mean.",
+  "status": "done"
  },
  {
   "id": "event_2168_001ED",
@@ -104,8 +104,8 @@
    7012
   ],
   "jp": "{voice:003A07}どうせ貴族様の贅沢三昧に{n}使われるだけだって！",
-  "en": "",
-  "status": ""
+  "en": "It'll just go to some noble's life of luxury anyway!",
+  "status": "done"
  },
  {
   "id": "event_2168_0021F",
@@ -116,8 +116,8 @@
    7033
   ],
   "jp": "{voice:003B07}シスキアは、{n}本当に貴族が嫌いだね。",
-  "en": "",
-  "status": ""
+  "en": "You really do hate nobles, Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2168_00247",
@@ -128,8 +128,8 @@
    7054
   ],
   "jp": "{voice:003C07}好きになる方が無理だって。",
-  "en": "",
-  "status": ""
+  "en": "It's impossible not to.",
+  "status": "done"
  },
  {
   "id": "event_2168_00266",
@@ -152,8 +152,8 @@
    7126
   ],
   "jp": "{voice:003D07}えっと、アイギナは別だよ。{n}友達だし。",
-  "en": "",
-  "status": ""
+  "en": "Um, you're different, Aegina. You're a friend.",
+  "status": "done"
  },
  {
   "id": "event_2168_0029B",
@@ -164,8 +164,8 @@
    7147
   ],
   "jp": "{voice:003E07}…街の人々は、私達を受け入れて{n}くれるのでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "...Will the people of the town accept us?",
+  "status": "done"
  },
  {
   "id": "event_2168_002D3",
@@ -176,8 +176,8 @@
    7168
   ],
   "jp": "{voice:003F07}大丈夫だって。{n}ルシエナとアイギナは、{n}領主の養子だったんでしょう？",
-  "en": "",
-  "status": ""
+  "en": "It'll be fine. Luciana and Aegina, you were the lord's adopted daughters, right?",
+  "status": "done"
  },
  {
   "id": "event_2168_0031A",
@@ -188,8 +188,8 @@
    7189
   ],
   "jp": "{voice:004007}そうですが、私達は追われる身。{n}世間には公表していませんでした。",
-  "en": "",
-  "status": ""
+  "en": "We were, but we were being hunted. It was never made public.",
+  "status": "done"
  },
  {
   "id": "event_2168_0035E",
@@ -200,8 +200,8 @@
    7210
   ],
   "jp": "{voice:004107}という事は、君達の存在は{n}今回初めて明らかになったのか？",
-  "en": "",
-  "status": ""
+  "en": "So this is the first time your existence has come to light?",
+  "status": "done"
  },
  {
   "id": "event_2168_0039A",
@@ -212,8 +212,8 @@
    7231
   ],
   "jp": "{voice:004207}はい。",
-  "en": "",
-  "status": ""
+  "en": "Yes.",
+  "status": "done"
  },
  {
   "id": "event_2168_003A5",
@@ -224,8 +224,8 @@
    7395
   ],
   "jp": "{voice:004307}この街から出てけ②{n}亡きアルベルト様以外に、{n}領主などいない！",
-  "en": "",
-  "status": ""
+  "en": "Get out of this town! There's no lord but the late Albelt-sama!",
+  "status": "done"
  },
  {
   "id": "event_2168_003E6",
@@ -236,8 +236,8 @@
    7413
   ],
   "jp": "{voice:004407}アルベルト様に娘がいたなんて{n}聞いちゃいないよ！",
-  "en": "",
-  "status": ""
+  "en": "Nobody ever told us Albelt-sama had daughters!",
+  "status": "done"
  },
  {
   "id": "event_2168_0041A",
@@ -248,8 +248,8 @@
    7420
   ],
   "jp": "{voice:004507}どうせ税金を取る為に、{n}貴族が作ったホラ話だろ！",
-  "en": "",
-  "status": ""
+  "en": "It's just some tall tale the nobles made up to collect taxes!",
+  "status": "done"
  },
  {
   "id": "event_2168_0044E",
@@ -260,8 +260,8 @@
    7517
   ],
   "jp": "{voice:004607}恐れていた事が、{n}起こってしまいました……",
-  "en": "",
-  "status": ""
+  "en": "What I feared has come to pass...",
+  "status": "done"
  },
  {
   "id": "event_2168_0047C",
@@ -272,8 +272,8 @@
    7538
   ],
   "jp": "{voice:004707}参ったな……",
-  "en": "",
-  "status": ""
+  "en": "This is a problem...",
+  "status": "done"
  },
  {
   "id": "event_2168_0048D",
@@ -284,8 +284,8 @@
    7556
   ],
   "jp": "{voice:004807}俺達は、自分達の手で街を治める！{n}税のない、最高の街を作るんだ②{n}貴族は口を出すな②",
-  "en": "",
-  "status": ""
+  "en": "We'll govern this town ourselves! We'll make the best town there is, with no taxes! Nobles keep out!",
+  "status": "done"
  },
  {
   "id": "event_2168_004E4",
@@ -296,8 +296,8 @@
    7577
   ],
   "jp": "{voice:004907}彼らは自治を求めているのか？{n}確かに理想ではあるけどな……{n}実現は厳しいだろう。",
-  "en": "",
-  "status": ""
+  "en": "So they want self-rule? It's an ideal, certainly... But it'll be hard to pull off.",
+  "status": "done"
  },
  {
   "id": "event_2168_00537",
@@ -308,8 +308,8 @@
    7598
   ],
   "jp": "{voice:004A07}そう？　私はいいと思う。{n}ヴェルマンと相談してみるべきよ。",
-  "en": "",
-  "status": ""
+  "en": "Really? I think it's great. We should talk to Velleman about it.",
+  "status": "done"
  },
  {
   "id": "event_2168_00575",
@@ -320,8 +320,8 @@
    7619
   ],
   "jp": "{voice:004B07}この街はティエラと帝都の間に{n}あるだろ、盗賊がほっとかないよ。",
-  "en": "",
-  "status": ""
+  "en": "This town sits between Tiera and the capital, right? Thieves won't leave it alone.",
+  "status": "done"
  },
  {
   "id": "event_2168_005B7",
@@ -332,8 +332,8 @@
    7640
   ],
   "jp": "{voice:004C07}そうだ、それに帝国は{n}自治なんて絶対に認めないよ。{n}軍の派遣も時間の問題だ。",
-  "en": "",
-  "status": ""
+  "en": "Right, and the Empire will never recognize self-rule. It's only a matter of time before they send troops.",
+  "status": "done"
  },
  {
   "id": "event_2168_00606",
@@ -344,8 +344,8 @@
    7716
   ],
   "jp": "{voice:004D07}だまれ！　俺達は決めたんだ②{n}反対するなら、お前達は敵だ！",
-  "en": "",
-  "status": ""
+  "en": "Shut up! We've decided! If you oppose it, you're the enemy!",
+  "status": "done"
  },
  {
   "id": "event_2168_00644",
@@ -356,8 +356,8 @@
    7915
   ],
   "jp": "{voice:004E07}伏兵だって？{n}待ち構えていたのか…②",
-  "en": "",
-  "status": ""
+  "en": "An ambush? They were lying in wait...!",
+  "status": "done"
  },
  {
   "id": "event_2168_0066C",
@@ -368,8 +368,8 @@
    7936
   ],
   "jp": "{voice:004F07}いけません、ガーロット様！{n}囲まれています②",
-  "en": "",
-  "status": ""
+  "en": "This is bad, Garlot-sama! We are surrounded!",
+  "status": "done"
  },
  {
   "id": "event_2168_0069C",
@@ -380,8 +380,8 @@
    7957
   ],
   "jp": "{voice:005007}くそっ、相手は一般市民だ。{n}どうすればいい……",
-  "en": "",
-  "status": ""
+  "en": "Damn it, they're ordinary citizens. What do I do...",
+  "status": "done"
  },
  {
   "id": "event_2168_006CE",
@@ -392,8 +392,8 @@
    7978
   ],
   "jp": "{voice:005107}ガーロット、悩んでいる間はない。{n}奴らの装備は市民の物ではない！",
-  "en": "",
-  "status": ""
+  "en": "Garlot, there's no time to agonize. That's no citizen's gear they've got!",
+  "status": "done"
  },
  {
   "id": "event_2168_00712",
@@ -404,8 +404,8 @@
    7999
   ],
   "jp": "{voice:005207}来るぞ！",
-  "en": "",
-  "status": ""
+  "en": "Here they come!",
+  "status": "done"
  },
  {
   "id": "event_2168_0071F",
@@ -416,8 +416,8 @@
    8227
   ],
   "jp": "{voice:005307}どうしてこいつらと、{n}戦わなくちゃいけないんだ！",
-  "en": "",
-  "status": ""
+  "en": "Why do I have to fight these people!",
+  "status": "done"
  },
  {
   "id": "event_2168_00753",
@@ -428,8 +428,8 @@
    8275
   ],
   "jp": "{voice:005407}怯えている！{n}勝てる、私達は勝てるわ②",
-  "en": "",
-  "status": ""
+  "en": "They're scared! We can win, we can win!",
+  "status": "done"
  },
  {
   "id": "event_2168_0077D",
@@ -440,8 +440,8 @@
    23192
   ],
   "jp": "{voice:005507}いいか、致命傷は避けるんだ！",
-  "en": "",
-  "status": ""
+  "en": "Listen, avoid killing blows!",
+  "status": "done"
  },
  {
   "id": "event_2168_0079E",
@@ -452,8 +452,8 @@
    23199
   ],
   "jp": "{voice:005607}兵は捕縛して一箇所に集めろ！{n}追撃も禁ずる！",
-  "en": "",
-  "status": ""
+  "en": "Capture the soldiers and gather them in one place! No pursuit!",
+  "status": "done"
  },
  {
   "id": "event_2168_007CE",
@@ -464,8 +464,8 @@
    23247
   ],
   "jp": "{voice:005707}相変わらず、{n}甘いこと言ってるんだわさ。{n}ウチの団長さん。",
-  "en": "",
-  "status": ""
+  "en": "Still talking so naive, our Captain, y'know.",
+  "status": "done"
  },
  {
   "id": "event_2168_0080B",
@@ -476,8 +476,8 @@
    22649
   ],
   "jp": "{voice:005807}お、おのれ…！",
-  "en": "",
-  "status": ""
+  "en": "C-curse you...!",
+  "status": "done"
  },
  {
   "id": "event_2168_0081E",
@@ -488,8 +488,8 @@
    22670
   ],
   "jp": "{voice:005907}武器を棄てろ！{n}降伏すれば命は助けよう。",
-  "en": "",
-  "status": ""
+  "en": "Drop your weapons! Surrender and I'll spare your lives.",
+  "status": "done"
  },
  {
   "id": "event_2168_0084A",
@@ -500,8 +500,8 @@
    22691
   ],
   "jp": "{voice:005A07}……わ、分かったわ。",
-  "en": "",
-  "status": ""
+  "en": "...A-all right.",
+  "status": "done"
  },
  {
   "id": "event_2168_00863",
@@ -512,8 +512,8 @@
    24570
   ],
   "jp": "{voice:005B07}俺は何のために、こんな戦いを…{n}くそっ。",
-  "en": "",
-  "status": ""
+  "en": "What am I fighting this battle for... Damn it.",
+  "status": "done"
  },
  {
   "id": "event_2168_0088F",
@@ -524,8 +524,8 @@
    25002
   ],
   "jp": "{voice:005C07}ガーロット様。{n}散り散りになった民兵が、増援と{n}共に奥の都市部へ集結中です。",
-  "en": "",
-  "status": ""
+  "en": "Garlot-sama. The scattered militia is regrouping with reinforcements in the city center beyond.",
+  "status": "done"
  },
  {
   "id": "event_2168_008DE",
@@ -536,8 +536,8 @@
    25023
   ],
   "jp": "{voice:005D07}まだ抵抗するつもりなのね……",
-  "en": "",
-  "status": ""
+  "en": "So they still mean to resist...",
+  "status": "done"
  },
  {
   "id": "event_2168_008FF",
@@ -560,8 +560,8 @@
    25065
   ],
   "jp": "{voice:005E07}ガーロット、{n}やるせない気持ちは分かるけど{n}よく聞いて欲しい。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, I know how frustrating this is, but hear me out.",
+  "status": "done"
  },
  {
   "id": "event_2168_0094B",
@@ -572,8 +572,8 @@
    25072
   ],
   "jp": "{voice:005F07}彼らの装備は、ただの民兵とは{n}思えないほどのものだよ。",
-  "en": "",
-  "status": ""
+  "en": "Their gear is far beyond what you'd expect of an ordinary militia.",
+  "status": "done"
  },
  {
   "id": "event_2168_00985",
@@ -584,8 +584,8 @@
    25079
   ],
   "jp": "{voice:006007}裏があるね、これは。",
-  "en": "",
-  "status": ""
+  "en": "There's something behind this.",
+  "status": "done"
  },
  {
   "id": "event_2168_0099E",
@@ -596,8 +596,8 @@
    25100
   ],
   "jp": "{voice:006107}誰かが反乱を煽ってる。{n}そう言う事か？",
-  "en": "",
-  "status": ""
+  "en": "You mean someone's stirring up a rebellion?",
+  "status": "done"
  },
  {
   "id": "event_2168_009C8",
@@ -608,8 +608,8 @@
    25121
   ],
   "jp": "{voice:006207}兵の中には、練度の高い連中も{n}混じっていた。{n}その可能性は、十分考えられるな。",
-  "en": "",
-  "status": ""
+  "en": "Some of those soldiers were highly trained. It's certainly possible.",
+  "status": "done"
  },
  {
   "id": "event_2168_00A19",
@@ -620,8 +620,8 @@
    25142
   ],
   "jp": "{voice:006307}グラムブレイズや方伯を{n}快く思っていない連中。{n}そんなとこじゃないかな？",
-  "en": "",
-  "status": ""
+  "en": "People who don't care for Gram Blaze or the Margrave. Something like that, I think.",
+  "status": "done"
  },
  {
   "id": "event_2168_00A64",
@@ -632,8 +632,8 @@
    25163
   ],
   "jp": "{voice:006407}もしくは、{n}帝国領内で混乱を巻き起こそうと{n}企んでいる者か……",
-  "en": "",
-  "status": ""
+  "en": "Or someone plotting to stir up chaos within the Empire...",
+  "status": "done"
  },
  {
   "id": "event_2168_00AA5",
@@ -644,8 +644,8 @@
    25184
   ],
   "jp": "{voice:006507}どちらにせよ、{n}そいつらが元凶なんだな？",
-  "en": "",
-  "status": ""
+  "en": "Either way, they're the root of this, right?",
+  "status": "done"
  },
  {
   "id": "event_2168_00AD1",
@@ -656,8 +656,8 @@
    25205
   ],
   "jp": "{voice:006607}領民を嗾けて戦わせる連中だ。{n}何者だろうと、絶対に許せねぇ！",
-  "en": "",
-  "status": ""
+  "en": "People who set townsfolk on each other. Whoever they are, I'll never forgive them!",
+  "status": "done"
  },
  {
   "id": "event_2168_00B11",
@@ -668,8 +668,8 @@
    25226
   ],
   "jp": "{voice:006707}……私も許せません。",
-  "en": "",
-  "status": ""
+  "en": "...Nor will I.",
+  "status": "done"
  },
  {
   "id": "event_2168_00B2A",
@@ -680,8 +680,8 @@
    25247
   ],
   "jp": "{voice:006807}この街の人達の、{n}安らかな暮らしを妨げるなんて……",
-  "en": "",
-  "status": ""
+  "en": "To disturb the peaceful lives of the people of this town...",
+  "status": "done"
  },
  {
   "id": "event_2168_00B60",
@@ -692,8 +692,8 @@
    25268
   ],
   "jp": "{voice:006907}まだその連中は、{n}街に潜伏しているかもしれない。",
-  "en": "",
-  "status": ""
+  "en": "They may still be hiding in town.",
+  "status": "done"
  },
  {
   "id": "event_2168_00B94",
@@ -704,8 +704,8 @@
    25289
   ],
   "jp": "{voice:006A07}街の中心部へ進軍するぜ！",
-  "en": "",
-  "status": ""
+  "en": "We're advancing on the center of town!",
+  "status": "done"
  },
  {
   "id": "event_2168_00BB1",
@@ -714,8 +714,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:006B07}俺達の目標は、扇動者の捕縛と{n}領民への停戦勧告だ。",
-  "en": "",
-  "status": ""
+  "en": "Our goals are to capture the agitators and urge the people to cease fighting.",
+  "status": "done"
  },
  {
   "id": "event_2168_00BE7",
@@ -726,8 +726,8 @@
    25310
   ],
   "jp": "{voice:006C07}彼らの司令部は、セオリーから{n}言うと領主の館じゃないかな？",
-  "en": "",
-  "status": ""
+  "en": "By the book, their headquarters should be the lord's manor, right?",
+  "status": "done"
  },
  {
   "id": "event_2168_00C25",
@@ -738,8 +738,8 @@
    25317
   ],
   "jp": "{voice:006D07}まずはそこを押さえよう！",
-  "en": "",
-  "status": ""
+  "en": "Let's take that first!",
+  "status": "done"
  },
  {
   "id": "event_2168_00C42",
@@ -750,8 +750,8 @@
    8510
   ],
   "jp": "…前の領主のアルベルト様は、{n}本当にいい人だったのよ。",
-  "en": "",
-  "status": ""
+  "en": "...The old lord, Albelt-sama, was a really good man.",
+  "status": "done"
  },
  {
   "id": "event_2168_00C78",
@@ -762,8 +762,8 @@
    8528
   ],
   "jp": "だからこそ、新しい領主や、{n}その名代のキミ達を信用するのは、{n}ムズカシイ事だと思うの。",
-  "en": "",
-  "status": ""
+  "en": "Which is why it's so hard to trust the new lord, or people like you acting in his name.",
+  "status": "done"
  },
  {
   "id": "event_2168_00CCD",
@@ -786,8 +786,8 @@
    8564
   ],
   "jp": "実はワタシ、領民のみんなに{n}武器を作るよう発注を受けたけど、{n}それを断っているの。",
-  "en": "",
-  "status": ""
+  "en": "In fact, the townsfolk all ordered weapons from me, but I refused.",
+  "status": "done"
  },
  {
   "id": "event_2168_00D29",
@@ -798,8 +798,8 @@
    8571
   ],
   "jp": "みんなが武器を取って戦って、{n}傷つくのなんて、{n}見たくなかったからね。",
-  "en": "",
-  "status": ""
+  "en": "I didn't want to see everyone take up weapons and get hurt.",
+  "status": "done"
  },
  {
   "id": "event_2168_00D6E",
@@ -810,8 +810,8 @@
    8589
   ],
   "jp": "鍛冶屋失格かもね、ワタシ…",
-  "en": "",
-  "status": ""
+  "en": "Maybe that makes me a failure as a blacksmith...",
+  "status": "done"
  },
  {
   "id": "event_2168_00D89",
@@ -822,8 +822,8 @@
    8769
   ],
   "jp": "あなた達が、新しい領主様…？",
-  "en": "",
-  "status": ""
+  "en": "Are you the new lord...?",
+  "status": "done"
  },
  {
   "id": "event_2168_00DA6",
@@ -834,8 +834,8 @@
    8776
   ],
   "jp": "蜂起したみんなに誘われたけど、{n}私はここに残る事にしたの。",
-  "en": "",
-  "status": ""
+  "en": "The others invited me when they rose up, but I decided to stay here.",
+  "status": "done"
  },
  {
   "id": "event_2168_00DE0",
@@ -846,8 +846,8 @@
    8783
   ],
   "jp": "私、戦うのが嫌い。{n}恐い。",
-  "en": "",
-  "status": ""
+  "en": "I hate fighting. It's scary.",
+  "status": "done"
  },
  {
   "id": "event_2168_00DFA",
@@ -858,8 +858,8 @@
    8790
   ],
   "jp": "力がないから、戦えない。{n}力がなければ、虐げられる。{n}仕方のない事だと思う……",
-  "en": "",
-  "status": ""
+  "en": "I have no power, so I can't fight. Without power, you get trampled. I think that's just how it is...",
+  "status": "done"
  },
  {
   "id": "event_2168_00E47",
@@ -870,8 +870,8 @@
    8797
   ],
   "jp": "だから、抗えない。{n}仕方がないのよ。",
-  "en": "",
-  "status": ""
+  "en": "So I can't resist. It can't be helped.",
+  "status": "done"
  },
  {
   "id": "event_2168_00E6B",
@@ -894,8 +894,8 @@
    8811
   ],
   "jp": "そうじゃない、っていうの？{n}どうして…",
-  "en": "",
-  "status": ""
+  "en": "You're saying it isn't so? Why...",
+  "status": "done"
  },
  {
   "id": "event_2168_00E9C",
@@ -906,8 +906,8 @@
    8818
   ],
   "jp": "…あなた、優しいのね。{n}今まで見た兵隊とは、どこか違う。",
-  "en": "",
-  "status": ""
+  "en": "...You're kind. You're somehow different from the soldiers I've seen before.",
+  "status": "done"
  },
  {
   "id": "event_2168_00ED4",
@@ -918,8 +918,8 @@
    8825
   ],
   "jp": "……何もないけど、{n}コレを持って行って。{n}役に立つとは思えないけど。",
-  "en": "",
-  "status": ""
+  "en": "...I don't have much, but take this. I don't think it'll be of use, though.",
+  "status": "done"
  },
  {
   "id": "event_2168_00F17",
@@ -930,8 +930,8 @@
    8910
   ],
   "jp": "農作業のとき、私がかぶる帽子。{n}弱い私が精一杯戦ってきた時間を、{n}ともにすごした帽子よ。",
-  "en": "",
-  "status": ""
+  "en": "The hat I wear for farm work. It was with me through the hardest fight I could put up, weak as I am.",
+  "status": "done"
  },
  {
   "id": "event_2168_00F6E",
@@ -942,8 +942,8 @@
    8917
   ],
   "jp": "いいの。{n}私のせめてもの強さ、{n}持って行ってほしいから。",
-  "en": "",
-  "status": ""
+  "en": "It's all right. I want you to take what little strength I have.",
+  "status": "done"
  },
  {
   "id": "event_2168_00FA5",
@@ -966,8 +966,8 @@
    8948
   ],
   "jp": "できれば、みんなを傷つけないで。",
-  "en": "",
-  "status": ""
+  "en": "If you can, please don't hurt anyone.",
+  "status": "done"
  },
  {
   "id": "event_2168_00FD1",
@@ -978,8 +978,8 @@
    8955
   ],
   "jp": "ワガママ言ってると、わかってる。{n}だから、できればよ。",
-  "en": "",
-  "status": ""
+  "en": "I know I'm being selfish. So, only if you can.",
+  "status": "done"
  },
  {
   "id": "event_2168_01007",
@@ -990,8 +990,8 @@
    18539
   ],
   "jp": "ここは農耕用の水を{n}川に流すところだわね。{n}ヒック…！",
-  "en": "",
-  "status": ""
+  "en": "This is where the farm water flows into the river. *hic*...!",
+  "status": "done"
  },
  {
   "id": "event_2168_0103C",
@@ -1002,8 +1002,8 @@
    18560
   ],
   "jp": "んむ？　なんか動いたわね…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something moved...",
+  "status": "done"
  },
  {
   "id": "event_2168_01057",
@@ -1014,8 +1014,8 @@
    18578
   ],
   "jp": "どれ。{n}ちょっと捕まえてみようかね。{n}…ブクブク…",
-  "en": "",
-  "status": ""
+  "en": "Well. Maybe I'll try catching it. ...*blub blub*...",
+  "status": "done"
  },
  {
   "id": "event_2168_01088",
@@ -1026,8 +1026,8 @@
    19329
   ],
   "jp": "おう、ドゼウさんじゃないの…{n}鍋にするとウマイのよね。{n}ヒック②",
-  "en": "",
-  "status": ""
+  "en": "Oh, if it isn't Loach-san... Makes a great hotpot. *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2168_010C7",
@@ -1038,8 +1038,8 @@
    19496
   ],
   "jp": "この橋の下は、{n}水門になってるみたいね…",
-  "en": "",
-  "status": ""
+  "en": "Looks like there's a floodgate under this bridge...",
+  "status": "done"
  },
  {
   "id": "event_2168_010EF",
@@ -1050,8 +1050,8 @@
    19503
   ],
   "jp": "雨量に応じて、西を流れる運河に{n}流す水の量を調整する、と…{n}立派な施設だわね。ヒック！",
-  "en": "",
-  "status": ""
+  "en": "It adjusts how much water goes into the canal to the west, depending on the rain... Fine setup. *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2168_01144",
@@ -1062,8 +1062,8 @@
    19513
   ],
   "jp": "おやぁ？{n}なんか、水門に引っ掛かってる…{n}ちょっと見てこようかしら？",
-  "en": "",
-  "status": ""
+  "en": "Oho? Something's caught in the floodgate... Think I'll go take a look.",
+  "status": "done"
  },
  {
   "id": "event_2168_01187",
@@ -1074,8 +1074,8 @@
    20260
   ],
   "jp": "……なんじゃこりゃ？{n}彫像？{n}ヘンなの…",
-  "en": "",
-  "status": ""
+  "en": "...What the heck is this? A statue? How weird...",
+  "status": "done"
  },
  {
   "id": "event_2168_011AE",
@@ -1086,8 +1086,8 @@
    20427
   ],
   "jp": "ん？{n}そこいらに散らばっているのは…",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's that scattered around here...",
+  "status": "done"
  },
  {
   "id": "event_2168_011D2",
@@ -1098,8 +1098,8 @@
    20502
   ],
   "jp": "『ココリの実』か…{n}拾っておくか。",
-  "en": "",
-  "status": ""
+  "en": "\"Cocori Nuts\"... I'll pick some up.",
+  "status": "done"
  },
  {
   "id": "event_2168_011F4",
@@ -1110,8 +1110,8 @@
    20582
   ],
   "jp": "あれ？{n}この木の実、食べたことある…",
-  "en": "",
-  "status": ""
+  "en": "Huh? I've eaten these nuts before...",
+  "status": "done"
  },
  {
   "id": "event_2168_01218",
@@ -1122,8 +1122,8 @@
    20657
   ],
   "jp": "やっぱりそうだわ。{n}いくつか拾っておきましょう。",
-  "en": "",
-  "status": ""
+  "en": "Yep, thought so. I'll pick up a few.",
+  "status": "done"
  },
  {
   "id": "event_2168_01248",
@@ -1134,8 +1134,8 @@
    20737
   ],
   "jp": "おや？　この落ちてるのって、{n}ひょっとして…",
-  "en": "",
-  "status": ""
+  "en": "Oh? Could these on the ground be...",
+  "status": "done"
  },
  {
   "id": "event_2168_01274",
@@ -1146,8 +1146,8 @@
    20812
   ],
   "jp": "やっぱり『ココリの実』だね。{n}非常食にちょうどいいや、{n}拾い集めておこうかな。",
-  "en": "",
-  "status": ""
+  "en": "\"Cocori Nuts,\" just as I thought. Perfect for emergency rations, so I'll gather some.",
+  "status": "done"
  },
  {
   "id": "event_2168_012C1",
@@ -1158,8 +1158,8 @@
    20892
   ],
   "jp": "…木の実が落ちているな。",
-  "en": "",
-  "status": ""
+  "en": "...There are nuts on the ground.",
+  "status": "done"
  },
  {
   "id": "event_2168_012DA",
@@ -1170,8 +1170,8 @@
    20967
   ],
   "jp": "『ココリの実』だな。{n}だったら拾っておいて損はないよ。",
-  "en": "",
-  "status": ""
+  "en": "\"Cocori Nuts.\" Then it won't hurt to pick some up.",
+  "status": "done"
  },
  {
   "id": "event_2168_01310",
@@ -1182,8 +1182,8 @@
    21054
   ],
   "jp": "確かこのあたりは、{n}ココリの木が群生していたと{n}思いましたが…",
-  "en": "",
-  "status": ""
+  "en": "If I recall, Cocori trees grew in a cluster around here...",
+  "status": "done"
  },
  {
   "id": "event_2168_0134D",
@@ -1194,8 +1194,8 @@
    21143
   ],
   "jp": "やはり木の実が落ちています。{n}これ、美味しいんですよね。{n}ハハ…",
-  "en": "",
-  "status": ""
+  "en": "Yes, there are nuts on the ground. These are delicious. Haha...",
+  "status": "done"
  },
  {
   "id": "event_2168_0138C",
@@ -1206,8 +1206,8 @@
    21237
   ],
   "jp": "木の実が落ちとる。{n}えげつないほど、いっぱい、{n}落ちとる。",
-  "en": "",
-  "status": ""
+  "en": "Nuts are lying here. A ridiculous amount of them is lying here.",
+  "status": "done"
  },
  {
   "id": "event_2168_013C5",
@@ -1218,8 +1218,8 @@
    21326
   ],
   "jp": "よく見れば『ココリの実』だな。{n}バイフー、戦闘した後で辛いのは{n}肩コリのみだ。",
-  "en": "",
-  "status": ""
+  "en": "On a close look, they are \"Cocori Nuts.\" Byff is cocori-nuts for these.",
+  "status": "done"
  },
  {
   "id": "event_2168_01412",
@@ -1230,8 +1230,8 @@
    21347
   ],
   "jp": "うーん、イマイチだな…",
-  "en": "",
-  "status": ""
+  "en": "Hmm, that one was not so good...",
+  "status": "done"
  },
  {
   "id": "event_2168_01429",
@@ -1242,8 +1242,8 @@
    21434
   ],
   "jp": "ん？　この木って、確か…",
-  "en": "",
-  "status": ""
+  "en": "Hm? This tree, if I recall...",
+  "status": "done"
  },
  {
   "id": "event_2168_01442",
@@ -1254,8 +1254,8 @@
    21509
   ],
   "jp": "やっぱり『ココリの実』だわ。{n}この木の実って、小粒だけど{n}なかなかアジがあるのよね。",
-  "en": "",
-  "status": ""
+  "en": "\"Cocori Nuts,\" as I thought. These are small, but they've got a nice flavor.",
+  "status": "done"
  },
  {
   "id": "event_2168_01495",
@@ -1266,8 +1266,8 @@
    21596
   ],
   "jp": "この木、どこかで見た事あるな。",
-  "en": "",
-  "status": ""
+  "en": "I've seen this tree somewhere.",
+  "status": "done"
  },
  {
   "id": "event_2168_014B4",
@@ -1278,8 +1278,8 @@
    21685
   ],
   "jp": "そうだそうだ！{n}アジトの傍に生えてたヤツだ。{n}木の実がウマいんだよね～。",
-  "en": "",
-  "status": ""
+  "en": "Oh, right! These grow by the hideout. The nuts are so good~",
+  "status": "done"
  },
  {
   "id": "event_2168_014FB",
@@ -1290,8 +1290,8 @@
    21772
   ],
   "jp": "ん～、木の実がいっぱい{n}落ちてるわね…",
-  "en": "",
-  "status": ""
+  "en": "Mmm, lots of nuts on the ground...",
+  "status": "done"
  },
  {
   "id": "event_2168_01521",
@@ -1302,8 +1302,8 @@
    21847
   ],
   "jp": "あっしは食べたことないけど、{n}美味しいのかねぇ？{n}とりあえず拾っとこうかね。",
-  "en": "",
-  "status": ""
+  "en": "I've never eaten any myself, but are they any good? I'll pick some up for now.",
+  "status": "done"
  },
  {
   "id": "event_2168_0156C",
@@ -1314,8 +1314,8 @@
    21934
   ],
   "jp": "うほっ②{n}木の実がたくさん落ちてるわ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa! There are tons of nuts here!",
+  "status": "done"
  },
  {
   "id": "event_2168_01592",
@@ -1326,8 +1326,8 @@
    22023
   ],
   "jp": "大漁よ、大漁！{n}フィーバーじゃな～い？",
-  "en": "",
-  "status": ""
+  "en": "What a haul, what a haul! Isn't this a jackpot?",
+  "status": "done"
  },
  {
   "id": "event_2168_01652",
@@ -1350,8 +1350,8 @@
    5816
   ],
   "jp": "アルベルト民兵隊A",
-  "en": "",
-  "status": ""
+  "en": "Albelt Militia A",
+  "status": "done"
  },
  {
   "id": "event_2168_0179C",
@@ -1362,7 +1362,7 @@
    6041
   ],
   "jp": "アルベルト民兵隊B",
-  "en": "",
-  "status": ""
+  "en": "Albelt Militia B",
+  "status": "done"
  }
 ]

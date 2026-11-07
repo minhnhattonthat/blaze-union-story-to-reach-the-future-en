@@ -19,6 +19,9 @@ Tactical RPG, prequel to Yggdra Union. Young rebels against a rotten empire: war
 - A line any speaker could have said is a mistake: see the style reference.
 - Honorifics stay (Garlot-san, Pamela-sama). 団長 = Captain.
 - A speaker of `？？？` or a descriptive label stays unnamed in your wording as well: no reveals.
+- A sexual remark aimed at a young or young-looking character (Siskier, Aegina, Luciana, Eimi, Cerica, Pamela and the like): keep the taunt, drop the sexual content.
+- Byff's puns ("なーんつって" = "Ha, just kidding") need a new English pun, not a literal line; a later line that explains the pun must match it. Other people's reactions follow your pun.
+- Lint: a katakana name + 様/さん/ちゃん/殿 needs the honorific in English (Garlot-sama, Elena-dono, Viper-chan). A glossary term stays literal even in plurals ("Sweet Berry" bush, not "Sweet Berries"). Inline `<speaker>` names have a byte limit: try the short form first.
 - Mistakes so far: (add reviewer lessons here)
 
 ## Consistency

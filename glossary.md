@@ -99,4 +99,6 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 ## Decisions from earlier batches
 - 団長 -> "Captain" (allies addressing Garlot); ダンチョー (Byff's and rough speakers' spelling) also "Captain".
 - 方伯 -> "Margrave". 帝国 -> "the Empire", 王国 -> "the Kingdom".
+- 義賊 -> "thief of justice"; ブレイズ盗賊団 (what real thieves call them) -> "the Blaze Thieves". 総隊長 -> "Commander". 教団 alone -> "the Order"; 教主様, 教祖様 -> "the Pontiff". 大将 (Pandra's men, of him) -> "boss"; Pandra's word for his enemy -> "chief".
+- Not in the table because their JP also occurs in longer forms: ウルズ・ティア Urd's Tear, メリア教国 Holy Nation of Melia, ユベロン Yuberon, クレドの森 the Kred forest, ドロミノス湿地帯 Dorominos Marshes, ワドニム Wadonim, グロフ Groff, ギルギト大橋 Gilgit Bridge, アイク帝 Emperor Eik, アニス様 Anis-sama, オーガニウム Ogrenium, チカラダケ Power Cap, ココリの実 Cocori Nuts, 千年雪 Thousand-Year Snow, アイテム図鑑 Item Encyclopedia, マントラップ Man Trap, 地形スキル Terrain Skill, 地形効果 terrain effects.
 - ヒック -> *hic*. フフフ -> "Heh heh heh" (Nessiah: "Hehehe..."). ケーッケッケッケ -> "Keh-keh-keh-keh!"

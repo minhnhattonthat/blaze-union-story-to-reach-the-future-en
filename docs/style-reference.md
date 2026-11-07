@@ -22,6 +22,12 @@ Voice per character: the JP markers and the English devices that carry them. Gro
 | Leon | 俺, 冷静 | Terse, soldierly, tired. |
 | Baldus | 俺/儂, military | Gruff old commander: "lad", "hmph". |
 | Soltier | 朕/余 | Imperial, disdainful, archaic: "We". |
+| Eudy | 私, ～わよ, きゃはは, 様 | Cheerfully amoral genius in glasses: "Kyahaha!", "the great Eudy-sama", talks of cannons as art, sharp comebacks. |
+| Sleip | あっし, ヒック, ウィ～ | Undine drunk: "*hic*", "ooh", rough "ain't", "y'hear", then sudden plain sadness. Calls Mizer "sonny". |
+| Mizer | オイラ, ～だぜ, 親分 | Cocky young pickpocket: "Coin, get!", quick talker, grumbles, never self-pitying. |
+| Pandra | 俺, ～だぜ, 大将 | Scruffy rebel chief: leering jokes at adults, "chief", "hey, hey", big cause when cornered. |
+| Inzaghi | 俺, ～だゼ, プロ | Mercenary who says he's a pro: bored, money first, "client". |
+| Zilva | 私, 体言止め | Clipped assassin: short flat sentences, no contractions, "Such is the will of the Order." |
 | Thugs, bandits | ～ぜ, ～やす, 旦那 | Rough and clipped: "ain't", "boss", "yessir", dropped g's where it helps. |
 | Drunkard | ヒック, ～だぁ | Slurred "*hic*", drawn-out words. |
 
