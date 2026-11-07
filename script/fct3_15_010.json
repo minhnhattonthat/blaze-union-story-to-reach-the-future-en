@@ -18,8 +18,8 @@
    57
   ],
   "jp": "おいッ……{n}タクティクスカードがない…",
-  "en": "",
-  "status": ""
+  "en": "Hey... We're out of Tactics Cards...",
+  "status": "done"
  },
  {
   "id": "fct3_15_010_0012E",
@@ -30,8 +30,8 @@
    67
   ],
   "jp": "これじゃ部隊を動かせない。",
-  "en": "",
-  "status": ""
+  "en": "We can't move the units like this.",
+  "status": "done"
  },
  {
   "id": "fct3_15_010_00149",
@@ -42,8 +42,8 @@
    88
   ],
   "jp": "俺の作戦ミスなのか…",
-  "en": "",
-  "status": ""
+  "en": "Was this a mistake in my plan...",
+  "status": "done"
  },
  {
   "id": "fct3_15_010_0015E",
@@ -54,8 +54,8 @@
    218
   ],
   "jp": "これ以上、進軍できない…{n}戦術を見誤った結果か…",
-  "en": "",
-  "status": ""
+  "en": "We can't advance any further... The result of misjudging my tactics...",
+  "status": "done"
  },
  {
   "id": "fct3_15_010_0018E",
@@ -66,8 +66,8 @@
    239
   ],
   "jp": "俺の選んだ道の誤り……{n}クッ……",
-  "en": "",
-  "status": ""
+  "en": "The path I chose was wrong... Gh...",
+  "status": "done"
  },
  {
   "id": "fct3_15_010_001AE",
@@ -78,8 +78,8 @@
    148
   ],
   "jp": "まずいッ！{n}もうタクティクスカードがない…",
-  "en": "",
-  "status": ""
+  "en": "Oh no! We're out of Tactics Cards...",
+  "status": "done"
  },
  {
   "id": "fct3_15_010_001D8",
@@ -90,7 +90,7 @@
    158
   ],
   "jp": "これじゃ戦線を維持できないよ。{n}あたしの失策、って事か……",
-  "en": "",
-  "status": ""
+  "en": "We can't hold the line like this. So it was my blunder...",
+  "status": "done"
  }
 ]

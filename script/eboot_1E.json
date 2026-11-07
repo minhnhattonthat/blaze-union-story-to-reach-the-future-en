@@ -10,8 +10,8 @@
    }
   ],
   "jp": "ゲージが破壊されているので、{n}スキルは使えません！",
-  "en": "",
-  "status": ""
+  "en": "The Gauge is broken, so Skills can't be used!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0034",
@@ -24,8 +24,8 @@
    }
   ],
   "jp": "このスキルは重複して使えません！",
-  "en": "",
-  "status": ""
+  "en": "This Skill can't be stacked!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0058",
@@ -38,8 +38,8 @@
    }
   ],
   "jp": "ジェノサイド中は操作できません！",
-  "en": "",
-  "status": ""
+  "en": "No control during Genocide!",
+  "status": "done"
  },
  {
   "id": "eboot_1E007C",
@@ -52,8 +52,8 @@
    }
   ],
   "jp": "このスキルはシスキア専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Siskier only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E009C",
@@ -66,8 +66,8 @@
    }
   ],
   "jp": "このスキルはフェンサー専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Fencers only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E00C0",
@@ -80,8 +80,8 @@
    }
   ],
   "jp": "このスキルはヴァルキリー専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Valkyries only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E00E4",
@@ -94,8 +94,8 @@
    }
   ],
   "jp": "このスキルは騎馬タイプ専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Cavalry Types only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0108",
@@ -108,8 +108,8 @@
    }
   ],
   "jp": "このスキルはアサシン専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Assassins only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0128",
@@ -122,8 +122,8 @@
    }
   ],
   "jp": "このスキルはハンター専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Hunters only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0148",
@@ -136,8 +136,8 @@
    }
   ],
   "jp": "このスキルはウィッチ専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Witches only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0168",
@@ -150,8 +150,8 @@
    }
   ],
   "jp": "このスキルはスケルトン専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Skeletons only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E018C",
@@ -164,8 +164,8 @@
    }
   ],
   "jp": "このスキルはゴーレム専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Golems only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E01AC",
@@ -178,8 +178,8 @@
    }
   ],
   "jp": "このスキルはガルカーサ専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Gulcasa only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E01D0",
@@ -192,8 +192,8 @@
    }
   ],
   "jp": "このスキルはネシア専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Nessiah only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E01F0",
@@ -206,8 +206,8 @@
    }
   ],
   "jp": "このスキルはメデューテ専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Medoute only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0214",
@@ -220,8 +220,8 @@
    }
   ],
   "jp": "このスキルはユニオンリーダー専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for the Union Leader only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E023C",
@@ -234,8 +234,8 @@
    }
   ],
   "jp": "このスキルは相手がドラゴン系でないと使えません！",
-  "en": "",
-  "status": ""
+  "en": "This Skill only works on Dragon-type opponents!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0270",
@@ -248,8 +248,8 @@
    }
   ],
   "jp": "このスキルは、サイズと性別が{n}相手と同じでないと使えません！",
-  "en": "",
-  "status": ""
+  "en": "This Skill needs the opponent to match in size and gender!",
+  "status": "done"
  },
  {
   "id": "eboot_1E02AC",
@@ -262,8 +262,8 @@
    }
   ],
   "jp": "このスキルはパメラ専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Pamela only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E02CC",
@@ -276,8 +276,8 @@
    }
   ],
   "jp": "このスキルはベアトリーヌ専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Baretreenu only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E02F0",
@@ -290,8 +290,8 @@
    }
   ],
   "jp": "このスキルはバイフー専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for Byff only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0310",
@@ -304,8 +304,8 @@
    }
   ],
   "jp": "このスキルは女性ユニオンリーダー専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for a female Union Leader only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E033C",
@@ -318,8 +318,8 @@
    }
   ],
   "jp": "このスキルは男性ユニオンリーダー専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill is for a male Union Leader only!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0368",
@@ -332,8 +332,8 @@
    }
   ],
   "jp": "このスキルは夜間専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill can only be used at Night!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0384",
@@ -346,8 +346,8 @@
    }
   ],
   "jp": "このスキルは昼間専用です！",
-  "en": "",
-  "status": ""
+  "en": "This Skill can only be used in the Day!",
+  "status": "done"
  },
  {
   "id": "eboot_1E03A0",
@@ -360,8 +360,8 @@
    }
   ],
   "jp": "このスキルはヘッド１人のとき以外、使えません！",
-  "en": "",
-  "status": ""
+  "en": "This Skill can only be used when the Head is alone!",
+  "status": "done"
  },
  {
   "id": "eboot_1E03D0",
@@ -374,8 +374,8 @@
    }
   ],
   "jp": "ゲージが満タンにならないと、{n}スキルは使えません！",
-  "en": "",
-  "status": ""
+  "en": "The Gauge must be full to use Skills!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0404",
@@ -388,8 +388,8 @@
    }
   ],
   "jp": "「スキル使用不可」により{n}スキルを使用できません！",
-  "en": "",
-  "status": ""
+  "en": "\"Skills Disabled\" prevents Skill use!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0438",
@@ -402,8 +402,8 @@
    }
   ],
   "jp": "ヘッドが戦闘不能なので{n}スキルを使用できません！",
-  "en": "",
-  "status": ""
+  "en": "The Head can't fight, so Skills can't be used!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0468",
@@ -416,8 +416,8 @@
    }
   ],
   "jp": "ヘッドが戦闘不能なので{n}指示できません！",
-  "en": "",
-  "status": ""
+  "en": "The Head can't fight, so no orders can be given!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0490",
@@ -430,8 +430,8 @@
    }
   ],
   "jp": "グラムブレイズのユニットでないので{n}指示できません！",
-  "en": "",
-  "status": ""
+  "en": "Not a Gram Blaze unit, so no orders can be given!",
+  "status": "done"
  },
  {
   "id": "eboot_1E04C4",
@@ -444,8 +444,8 @@
    }
   ],
   "jp": "王国軍のユニットでないので{n}指示できません！",
-  "en": "",
-  "status": ""
+  "en": "Not a Kingdom Army unit, so no orders can be given!",
+  "status": "done"
  },
  {
   "id": "eboot_1E04F0",
@@ -458,8 +458,8 @@
    }
   ],
   "jp": "アイギナは単独行動中なので{n}指示できません！",
-  "en": "",
-  "status": ""
+  "en": "Aegina is acting alone, so no orders can be given!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0748",
@@ -488,8 +488,8 @@
    }
   ],
   "jp": "%sの士気が",
-  "en": "",
-  "status": ""
+  "en": "The morale of %s",
+  "status": "done"
  },
  {
   "id": "eboot_1E07C4",
@@ -503,8 +503,8 @@
    }
   ],
   "jp": "ゼロになりました…",
-  "en": "",
-  "status": ""
+  "en": "has hit zero...",
+  "status": "done"
  },
  {
   "id": "eboot_1E07D8",
@@ -518,8 +518,8 @@
    }
   ],
   "jp": "「退却ペナルティなし」の効果で",
-  "en": "",
-  "status": ""
+  "en": "Thanks to \"No Retreat Penalty,\"",
+  "status": "done"
  },
  {
   "id": "eboot_1E07F8",
@@ -533,8 +533,8 @@
    }
   ],
   "jp": "経験値は維持されます。",
-  "en": "",
-  "status": ""
+  "en": "experience is kept.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0810",
@@ -548,8 +548,8 @@
    }
   ],
   "jp": "%sの経験値は",
-  "en": "",
-  "status": ""
+  "en": "The experience of %s",
+  "status": "done"
  },
  {
   "id": "eboot_1E0820",
@@ -563,8 +563,8 @@
    }
   ],
   "jp": "リセットされました…",
-  "en": "",
-  "status": ""
+  "en": "has been reset...",
+  "status": "done"
  },
  {
   "id": "eboot_1E08F8",
@@ -607,8 +607,8 @@
    }
   ],
   "jp": "喰らえっ！",
-  "en": "",
-  "status": ""
+  "en": "Take this!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0A3B",
@@ -621,8 +621,8 @@
    }
   ],
   "jp": "蹴散らすぜ！",
-  "en": "",
-  "status": ""
+  "en": "I'll scatter you!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0A48",
@@ -635,8 +635,8 @@
    }
   ],
   "jp": "これでどうだ！",
-  "en": "",
-  "status": ""
+  "en": "How's this!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0A57",
@@ -649,8 +649,8 @@
    }
   ],
   "jp": "道を開けろぉ！",
-  "en": "",
-  "status": ""
+  "en": "Clear the way!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0A66",
@@ -663,8 +663,8 @@
    }
   ],
   "jp": "喰らいやがれっ！",
-  "en": "",
-  "status": ""
+  "en": "Eat this!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0A77",
@@ -677,8 +677,8 @@
    }
   ],
   "jp": "……どうしてっ！",
-  "en": "",
-  "status": ""
+  "en": "...Why?!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0A88",
@@ -691,8 +691,8 @@
    }
   ],
   "jp": "覚悟はいいか③",
-  "en": "",
-  "status": ""
+  "en": "Are you ready?!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0A97",
@@ -705,8 +705,8 @@
    }
   ],
   "jp": "容赦はせんぞ②",
-  "en": "",
-  "status": ""
+  "en": "No mercy!!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0AA6",
@@ -719,8 +719,8 @@
    }
   ],
   "jp": "もらったわ！",
-  "en": "",
-  "status": ""
+  "en": "You're mine!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0AB3",
@@ -733,8 +733,8 @@
    }
   ],
   "jp": "先手はいただき！",
-  "en": "",
-  "status": ""
+  "en": "First strike's mine!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0AC4",
@@ -747,8 +747,8 @@
    }
   ],
   "jp": "……放て！",
-  "en": "",
-  "status": ""
+  "en": "...Fire!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0ACF",
@@ -761,8 +761,8 @@
    }
   ],
   "jp": "先制するわ！",
-  "en": "",
-  "status": ""
+  "en": "I'll strike first!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0ADC",
@@ -775,8 +775,8 @@
    }
   ],
   "jp": "どうして、こんなこと……",
-  "en": "",
-  "status": ""
+  "en": "Why does it have to be this...",
+  "status": "done"
  },
  {
   "id": "eboot_1E0AF5",
@@ -789,8 +789,8 @@
    }
   ],
   "jp": "しっかり見ていてよね！",
-  "en": "",
-  "status": ""
+  "en": "Watch closely, okay!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0B0C",
@@ -803,8 +803,8 @@
    }
   ],
   "jp": "まずは、この一撃で！",
-  "en": "",
-  "status": ""
+  "en": "First, this blow!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0B21",
@@ -817,8 +817,8 @@
    }
   ],
   "jp": "消えろ…",
-  "en": "",
-  "status": ""
+  "en": "Vanish...",
+  "status": "done"
  },
  {
   "id": "eboot_1E0B2A",
@@ -831,8 +831,8 @@
    }
   ],
   "jp": "叩き潰す！",
-  "en": "",
-  "status": ""
+  "en": "I'll crush you!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0B35",
@@ -845,8 +845,8 @@
    }
   ],
   "jp": "どうしてなの……",
-  "en": "",
-  "status": ""
+  "en": "Why must it be...",
+  "status": "done"
  },
  {
   "id": "eboot_1E0B46",
@@ -859,8 +859,8 @@
    }
   ],
   "jp": "止めてやる……！",
-  "en": "",
-  "status": ""
+  "en": "I'll stop you...!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0B57",
@@ -873,8 +873,8 @@
    }
   ],
   "jp": "突撃だー！",
-  "en": "",
-  "status": ""
+  "en": "Charge!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0B62",
@@ -887,8 +887,8 @@
    }
   ],
   "jp": "もっともっと～！",
-  "en": "",
-  "status": ""
+  "en": "More, more~!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0B73",
@@ -901,8 +901,8 @@
    }
   ],
   "jp": "切り込みます！",
-  "en": "",
-  "status": ""
+  "en": "I will cut in!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0B82",
@@ -915,8 +915,8 @@
    }
   ],
   "jp": "許しはしない…！",
-  "en": "",
-  "status": ""
+  "en": "I will not forgive you...!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0B93",
@@ -929,8 +929,8 @@
    }
   ],
   "jp": "黙らせてあげる！",
-  "en": "",
-  "status": ""
+  "en": "I'll shut you up!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0BA4",
@@ -943,8 +943,8 @@
    }
   ],
   "jp": "突破してやるぜ！",
-  "en": "",
-  "status": ""
+  "en": "I'm breaking through!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0BB5",
@@ -957,8 +957,8 @@
    }
   ],
   "jp": "いざ！",
-  "en": "",
-  "status": ""
+  "en": "Have at you!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0BBC",
@@ -971,8 +971,8 @@
    }
   ],
   "jp": "行くぞ。",
-  "en": "",
-  "status": ""
+  "en": "Here I go.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0BC5",
@@ -985,8 +985,8 @@
    }
   ],
   "jp": "ここで消えてもらう！",
-  "en": "",
-  "status": ""
+  "en": "You vanish here!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0BDA",
@@ -999,8 +999,8 @@
    }
   ],
   "jp": "消えてもらいます。",
-  "en": "",
-  "status": ""
+  "en": "Kindly vanish.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0BED",
@@ -1013,8 +1013,8 @@
    }
   ],
   "jp": "消えなさい！",
-  "en": "",
-  "status": ""
+  "en": "Vanish!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0BFA",
@@ -1027,8 +1027,8 @@
    }
   ],
   "jp": "行きます……",
-  "en": "",
-  "status": ""
+  "en": "Here I go...",
+  "status": "done"
  },
  {
   "id": "eboot_1E0C07",
@@ -1041,8 +1041,8 @@
    }
   ],
   "jp": "遠巻きに射掛けろ……",
-  "en": "",
-  "status": ""
+  "en": "Shoot from afar...",
+  "status": "done"
  },
  {
   "id": "eboot_1E0C1C",
@@ -1055,8 +1055,8 @@
    }
   ],
   "jp": "それ、行くぜー！",
-  "en": "",
-  "status": ""
+  "en": "Here we go!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0C2D",
@@ -1069,8 +1069,8 @@
    }
   ],
   "jp": "突っ込むゼ！",
-  "en": "",
-  "status": ""
+  "en": "Chargin' in!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0C3A",
@@ -1083,8 +1083,8 @@
    }
   ],
   "jp": "小僧の分際で！",
-  "en": "",
-  "status": ""
+  "en": "You little brat!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0C49",
@@ -1097,8 +1097,8 @@
    }
   ],
   "jp": "薙ぎ払え！",
-  "en": "",
-  "status": ""
+  "en": "Mow them down!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0C54",
@@ -1111,8 +1111,8 @@
    }
   ],
   "jp": "うりゃーっ②",
-  "en": "",
-  "status": ""
+  "en": "Yaaah!!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0C61",
@@ -1125,8 +1125,8 @@
    }
   ],
   "jp": "バイフー突っ込む！オイオイ！",
-  "en": "",
-  "status": ""
+  "en": "Byff charges! Hey, hey!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0C7E",
@@ -1139,8 +1139,8 @@
    }
   ],
   "jp": "歌を聴かせて差し上げましょう",
-  "en": "",
-  "status": ""
+  "en": "Allow me to sing for you",
+  "status": "done"
  },
  {
   "id": "eboot_1E0C9B",
@@ -1153,8 +1153,8 @@
    }
   ],
   "jp": "加減はなしだ！",
-  "en": "",
-  "status": ""
+  "en": "I won't hold back!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0CAA",
@@ -1167,8 +1167,8 @@
    }
   ],
   "jp": "両断する！",
-  "en": "",
-  "status": ""
+  "en": "I'll cut you in two!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0CB5",
@@ -1181,8 +1181,8 @@
    }
   ],
   "jp": "邪魔者は消えぃ！",
-  "en": "",
-  "status": ""
+  "en": "Begone, nuisance!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0CC6",
@@ -1195,8 +1195,8 @@
    }
   ],
   "jp": "ぼちぼち行くぜぃ。",
-  "en": "",
-  "status": ""
+  "en": "Might as well get goin'.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0CD9",
@@ -1209,8 +1209,8 @@
    }
   ],
   "jp": "セリカ様の攻撃ーっ！",
-  "en": "",
-  "status": ""
+  "en": "Cerica-sama's attack!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0CEE",
@@ -1223,8 +1223,8 @@
    }
   ],
   "jp": "今度こそー！",
-  "en": "",
-  "status": ""
+  "en": "This time for sure!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0CFB",
@@ -1237,8 +1237,8 @@
    }
   ],
   "jp": "攻めをもって、守りと為す！",
-  "en": "",
-  "status": ""
+  "en": "Attack is the best defense!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0D16",
@@ -1251,8 +1251,8 @@
    }
   ],
   "jp": "ぶちこんでやるぜ！",
-  "en": "",
-  "status": ""
+  "en": "I'll let you have it!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0D29",
@@ -1265,8 +1265,8 @@
    }
   ],
   "jp": "ヒック、いくわよー。",
-  "en": "",
-  "status": ""
+  "en": "*hic*, here I go.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0D3E",
@@ -1279,8 +1279,8 @@
    }
   ],
   "jp": "覚悟はいいか？",
-  "en": "",
-  "status": ""
+  "en": "Are you ready?",
+  "status": "done"
  },
  {
   "id": "eboot_1E0D4D",
@@ -1293,8 +1293,8 @@
    }
   ],
   "jp": "いただきだ！",
-  "en": "",
-  "status": ""
+  "en": "Got you!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0D5A",
@@ -1307,8 +1307,8 @@
    }
   ],
   "jp": "裁きの時間だ！",
-  "en": "",
-  "status": ""
+  "en": "Time for judgment!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0D69",
@@ -1321,8 +1321,8 @@
    }
   ],
   "jp": "ここは任せな！",
-  "en": "",
-  "status": ""
+  "en": "Leave this to me!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0D78",
@@ -1335,8 +1335,8 @@
    }
   ],
   "jp": "この国から出て行け！",
-  "en": "",
-  "status": ""
+  "en": "Get out of this country!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0D8D",
@@ -1349,8 +1349,8 @@
    }
   ],
   "jp": "先制するぞ！",
-  "en": "",
-  "status": ""
+  "en": "Striking first!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0D9A",
@@ -1363,8 +1363,8 @@
    }
   ],
   "jp": "妬ましい…",
-  "en": "",
-  "status": ""
+  "en": "How I envy you...",
+  "status": "done"
  },
  {
   "id": "eboot_1E0DA5",
@@ -1377,8 +1377,8 @@
    }
   ],
   "jp": "この一撃でッ…！",
-  "en": "",
-  "status": ""
+  "en": "With this blow...!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0DB6",
@@ -1391,8 +1391,8 @@
    }
   ],
   "jp": "喰らいなさい！",
-  "en": "",
-  "status": ""
+  "en": "Take this!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0DC5",
@@ -1405,8 +1405,8 @@
    }
   ],
   "jp": "愚かな…",
-  "en": "",
-  "status": ""
+  "en": "How foolish...",
+  "status": "done"
  },
  {
   "id": "eboot_1E0DCE",
@@ -1419,8 +1419,8 @@
    }
   ],
   "jp": "受けてみなさい！",
-  "en": "",
-  "status": ""
+  "en": "Try this!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0DDF",
@@ -1433,8 +1433,8 @@
    }
   ],
   "jp": "退きなさい！",
-  "en": "",
-  "status": ""
+  "en": "Stand aside!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0DEC",
@@ -1447,8 +1447,8 @@
    }
   ],
   "jp": "こちらから仕掛けます！",
-  "en": "",
-  "status": ""
+  "en": "I will make the first move!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E03",
@@ -1461,8 +1461,8 @@
    }
   ],
   "jp": "いけぇ②",
-  "en": "",
-  "status": ""
+  "en": "Go!!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E0C",
@@ -1475,8 +1475,8 @@
    }
   ],
   "jp": "邪魔だ！",
-  "en": "",
-  "status": ""
+  "en": "Out of my way!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E15",
@@ -1489,8 +1489,8 @@
    }
   ],
   "jp": "突っ込めぇ！",
-  "en": "",
-  "status": ""
+  "en": "Charge in!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E22",
@@ -1503,8 +1503,8 @@
    }
   ],
   "jp": "吹っ飛べぇ！",
-  "en": "",
-  "status": ""
+  "en": "Get blown away!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E2F",
@@ -1517,8 +1517,8 @@
    }
   ],
   "jp": "覚悟せよ！",
-  "en": "",
-  "status": ""
+  "en": "Prepare yourself!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E3A",
@@ -1531,8 +1531,8 @@
    }
   ],
   "jp": "打ち砕く！",
-  "en": "",
-  "status": ""
+  "en": "I'll smash you!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E45",
@@ -1545,8 +1545,8 @@
    }
   ],
   "jp": "お先に一発！",
-  "en": "",
-  "status": ""
+  "en": "One shot, on me!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E52",
@@ -1559,8 +1559,8 @@
    }
   ],
   "jp": "挨拶代わりよ②",
-  "en": "",
-  "status": ""
+  "en": "Here's a hello!!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E61",
@@ -1573,8 +1573,8 @@
    }
   ],
   "jp": "退きなさい！",
-  "en": "",
-  "status": ""
+  "en": "Stand aside!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E6E",
@@ -1587,8 +1587,8 @@
    }
   ],
   "jp": "勢いに乗せて…！",
-  "en": "",
-  "status": ""
+  "en": "Riding the momentum...!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E7F",
@@ -1601,8 +1601,8 @@
    }
   ],
   "jp": "苦しみを…",
-  "en": "",
-  "status": ""
+  "en": "Suffer...",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E8A",
@@ -1615,8 +1615,8 @@
    }
   ],
   "jp": "ぶちかませ！",
-  "en": "",
-  "status": ""
+  "en": "Let 'em have it!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0E97",
@@ -1629,8 +1629,8 @@
    }
   ],
   "jp": "イッちまいなッ！",
-  "en": "",
-  "status": ""
+  "en": "Go on, get lost!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0EA8",
@@ -1643,8 +1643,8 @@
    }
   ],
   "jp": "へへっ、喰らいな！",
-  "en": "",
-  "status": ""
+  "en": "Heh heh, eat this!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0EBB",
@@ -1657,8 +1657,8 @@
    }
   ],
   "jp": "ぶっ飛ばすぜ！",
-  "en": "",
-  "status": ""
+  "en": "I'll blast you!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0ECA",
@@ -1671,8 +1671,8 @@
    }
   ],
   "jp": "……壊す。",
-  "en": "",
-  "status": ""
+  "en": "...Break.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0ED5",
@@ -1685,8 +1685,8 @@
    }
   ],
   "jp": "先手はもらうよ！",
-  "en": "",
-  "status": ""
+  "en": "First strike's mine!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0EE6",
@@ -1699,8 +1699,8 @@
    }
   ],
   "jp": "黙らせてあげる！",
-  "en": "",
-  "status": ""
+  "en": "I'll shut you up!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0EF7",
@@ -1713,8 +1713,8 @@
    }
   ],
   "jp": "力を貸してよ！",
-  "en": "",
-  "status": ""
+  "en": "Lend me your strength!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0F06",
@@ -1727,8 +1727,8 @@
    }
   ],
   "jp": "大人しくしなさい！",
-  "en": "",
-  "status": ""
+  "en": "Be a good little thing!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0F19",
@@ -1741,8 +1741,8 @@
    }
   ],
   "jp": "これでも喰らえ！",
-  "en": "",
-  "status": ""
+  "en": "Eat this, then!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0F2A",
@@ -1755,8 +1755,8 @@
    }
   ],
   "jp": "防げるかしら③",
-  "en": "",
-  "status": ""
+  "en": "Can you block this?!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0F39",
@@ -1769,8 +1769,8 @@
    }
   ],
   "jp": "アアー！",
-  "en": "",
-  "status": ""
+  "en": "Aaah!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0F42",
@@ -1783,8 +1783,8 @@
    }
   ],
   "jp": "それっ、一斉射撃だ！",
-  "en": "",
-  "status": ""
+  "en": "There, volley fire!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0F57",
@@ -1797,8 +1797,8 @@
    }
   ],
   "jp": "コイツをプレゼントだ！",
-  "en": "",
-  "status": ""
+  "en": "Here's a present!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0F6E",
@@ -1811,8 +1811,8 @@
    }
   ],
   "jp": "撃ち抜け②",
-  "en": "",
-  "status": ""
+  "en": "Shoot them through!!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0F79",
@@ -1825,8 +1825,8 @@
    }
   ],
   "jp": "さて、始めるか！",
-  "en": "",
-  "status": ""
+  "en": "Well, let's begin!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0F8A",
@@ -1839,8 +1839,8 @@
    }
   ],
   "jp": "飛ばしていくぞ！",
-  "en": "",
-  "status": ""
+  "en": "Flat out now!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0F9B",
@@ -1853,8 +1853,8 @@
    }
   ],
   "jp": "よし、今だ！",
-  "en": "",
-  "status": ""
+  "en": "Good, now!",
+  "status": "done"
  },
  {
   "id": "eboot_1E0FA8",
@@ -1867,8 +1867,8 @@
    }
   ],
   "jp": "今ならば、刺せる。",
-  "en": "",
-  "status": ""
+  "en": "Now I can stab.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0FBB",
@@ -1881,8 +1881,8 @@
    }
   ],
   "jp": "仕掛けるぞ。",
-  "en": "",
-  "status": ""
+  "en": "Attacking.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0FC8",
@@ -1895,8 +1895,8 @@
    }
   ],
   "jp": "攻撃、開始。",
-  "en": "",
-  "status": ""
+  "en": "Commencing attack.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0FD5",
@@ -1909,8 +1909,8 @@
    }
   ],
   "jp": "反撃できまい。",
-  "en": "",
-  "status": ""
+  "en": "You can't counter.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0FE4",
@@ -1923,8 +1923,8 @@
    }
   ],
   "jp": "喰らえ。",
-  "en": "",
-  "status": ""
+  "en": "Take this.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0FED",
@@ -1937,8 +1937,8 @@
    }
   ],
   "jp": "逝け。",
-  "en": "",
-  "status": ""
+  "en": "Die.",
+  "status": "done"
  },
  {
   "id": "eboot_1E0FF4",
@@ -1951,8 +1951,8 @@
    }
   ],
   "jp": "見えているか？",
-  "en": "",
-  "status": ""
+  "en": "Can you see it?",
+  "status": "done"
  },
  {
   "id": "eboot_1E1003",
@@ -1965,8 +1965,8 @@
    }
   ],
   "jp": "苦しかろう？",
-  "en": "",
-  "status": ""
+  "en": "Painful, isn't it?",
+  "status": "done"
  },
  {
   "id": "eboot_1E1010",
@@ -1979,8 +1979,8 @@
    }
   ],
   "jp": "痛撃を浴びせよう！",
-  "en": "",
-  "status": ""
+  "en": "A painful blow for you!",
+  "status": "done"
  },
  {
   "id": "eboot_1E1023",
@@ -1993,8 +1993,8 @@
    }
   ],
   "jp": "退けい！",
-  "en": "",
-  "status": ""
+  "en": "Fall back!",
+  "status": "done"
  },
  {
   "id": "eboot_1E102C",
@@ -2007,8 +2007,8 @@
    }
   ],
   "jp": "一捻りにしてあげる。",
-  "en": "",
-  "status": ""
+  "en": "I'll crush you with one twist.",
+  "status": "done"
  },
  {
   "id": "eboot_1E1041",
@@ -2021,8 +2021,8 @@
    }
   ],
   "jp": "こんなのはイカガ？",
-  "en": "",
-  "status": ""
+  "en": "How about this?",
+  "status": "done"
  },
  {
   "id": "eboot_1E1054",
@@ -2035,8 +2035,8 @@
    }
   ],
   "jp": "受けてみなさい！",
-  "en": "",
-  "status": ""
+  "en": "Try this!",
+  "status": "done"
  },
  {
   "id": "eboot_1E1065",
@@ -2049,8 +2049,8 @@
    }
   ],
   "jp": "討ち払ってやるわ！",
-  "en": "",
-  "status": ""
+  "en": "I'll cut you down!",
+  "status": "done"
  },
  {
   "id": "eboot_1E1078",
@@ -2063,8 +2063,8 @@
    }
   ],
   "jp": "覚悟なさい！",
-  "en": "",
-  "status": ""
+  "en": "Prepare yourself!",
+  "status": "done"
  },
  {
   "id": "eboot_1E1085",
@@ -2077,8 +2077,8 @@
    }
   ],
   "jp": "ケケッ、ケケケーッ！",
-  "en": "",
-  "status": ""
+  "en": "Keh-keh, keh-keh-keh!",
+  "status": "done"
  },
  {
   "id": "eboot_1E109A",
@@ -2091,8 +2091,8 @@
    }
   ],
   "jp": "ケーイッ！",
-  "en": "",
-  "status": ""
+  "en": "Keeei!",
+  "status": "done"
  },
  {
   "id": "eboot_1E10A5",
@@ -2105,8 +2105,8 @@
    }
   ],
   "jp": "カカカカカッ！",
-  "en": "",
-  "status": ""
+  "en": "Kakakakaka!",
+  "status": "done"
  },
  {
   "id": "eboot_1E10B4",
@@ -2119,8 +2119,8 @@
    }
   ],
   "jp": "グオォーッ！",
-  "en": "",
-  "status": ""
+  "en": "Grooooh!",
+  "status": "done"
  },
  {
   "id": "eboot_1E10C1",
@@ -2133,8 +2133,8 @@
    }
   ],
   "jp": "ゴォォォオオオッ！",
-  "en": "",
-  "status": ""
+  "en": "Goooooh!",
+  "status": "done"
  },
  {
   "id": "eboot_1E10D4",
@@ -2147,8 +2147,8 @@
    }
   ],
   "jp": "グァ！",
-  "en": "",
-  "status": ""
+  "en": "Gwah!",
+  "status": "done"
  },
  {
   "id": "eboot_1E10DB",
@@ -2175,8 +2175,8 @@
    }
   ],
   "jp": "喰らえ。",
-  "en": "",
-  "status": ""
+  "en": "Take this.",
+  "status": "done"
  },
  {
   "id": "eboot_1E10F1",
@@ -3085,8 +3085,8 @@
    }
   ],
   "jp": "黙らせてあげる！",
-  "en": "",
-  "status": ""
+  "en": "I'll shut you up!",
+  "status": "done"
  },
  {
   "id": "eboot_1E14D8",
@@ -6487,8 +6487,8 @@
    }
   ],
   "jp": "愚かな…",
-  "en": "",
-  "status": ""
+  "en": "How foolish...",
+  "status": "done"
  },
  {
   "id": "eboot_1E2741",
@@ -7761,8 +7761,8 @@
    }
   ],
   "jp": "大人しくしなさい！",
-  "en": "",
-  "status": ""
+  "en": "Be a good little thing!",
+  "status": "done"
  },
  {
   "id": "eboot_1E2DEC",

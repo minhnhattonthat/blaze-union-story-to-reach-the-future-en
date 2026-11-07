@@ -2684,8 +2684,8 @@
    5288
   ],
   "jp": "駆け抜けようにもこの泥濘だ。{n}歩行ユニットは１ターンにつき{n}１歩しか進めない。",
-  "en": "",
-  "status": ""
+  "en": "And there's no running through this mud. Foot units can only advance one step per turn.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04F22",
@@ -2696,8 +2696,8 @@
    5306
   ],
   "jp": "なるべく沼には入らないように{n}しないとね……",
-  "en": "",
-  "status": ""
+  "en": "We should try not to go into the swamp, then...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04F4E",
@@ -2708,8 +2708,8 @@
    5434
   ],
   "jp": "こんな雪の中だと、{n}行軍に支障が出るんじゃないか？",
-  "en": "",
-  "status": ""
+  "en": "In snow like this, isn't marching going to be a problem?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04F80",
@@ -2720,8 +2720,8 @@
    5452
   ],
   "jp": "そうだな。",
-  "en": "",
-  "status": ""
+  "en": "That's right.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04F8B",
@@ -2732,8 +2732,8 @@
    5465
   ],
   "jp": "雪原地形上を進軍する場合、{n}歩行ユニットは１ターンにつき{n}１歩しか進めなくなる。",
-  "en": "",
-  "status": ""
+  "en": "When marching over snowfield terrain, foot units can only advance one step per turn.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_04FDA",
@@ -2744,8 +2744,8 @@
    5483
   ],
   "jp": "できるだけ雪原地形は避けて{n}雪道を進んだ方がいいな。",
-  "en": "",
-  "status": ""
+  "en": "We'd better keep off the snowfields as much as we can and stick to the snow roads.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0500E",
@@ -2756,8 +2756,8 @@
    5501
   ],
   "jp": "もう１つ注意が必要なのが、{n}この寒さだ。",
-  "en": "",
-  "status": ""
+  "en": "One more thing to watch out for is this cold.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05036",
@@ -2768,8 +2768,8 @@
    5513
   ],
   "jp": "特に、日の光が届かない夜間には{n}雪山の寒さも厳しさを増す。",
-  "en": "",
-  "status": ""
+  "en": "At night especially, with no sunlight, the cold on a snowy mountain gets even harsher.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05070",
@@ -2780,8 +2780,8 @@
    5531
   ],
   "jp": "雪道や雪原地形の上で{n}夜間を迎えると、寒さによる{n}士気低下は避けられない。",
-  "en": "",
-  "status": ""
+  "en": "If night falls while you're on a snow road or snowfield, the cold will drop your morale. No avoiding it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_050B9",
@@ -2792,8 +2792,8 @@
    5549
   ],
   "jp": "その点にも、気をつけないとな…",
-  "en": "",
-  "status": ""
+  "en": "We'll have to watch out for that too...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_050D8",
@@ -2804,8 +2804,8 @@
    5688
   ],
   "jp": "あの敵さん、見たこともない{n}タクティクスカードを{n}持っているわ。一体どんな力が…",
-  "en": "",
-  "status": ""
+  "en": "That enemy has a Tactics Card I've never seen before. What kind of power could it...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05127",
@@ -2816,8 +2816,8 @@
    5706
   ],
   "jp": "…あれは、敵にステータス異常を{n}付与するスキルだったハズ。{n}十分気を付けないと。",
-  "en": "",
-  "status": ""
+  "en": "...That should be a Skill that inflicts a status ailment on the enemy. We need to be careful.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05176",
@@ -2828,8 +2828,8 @@
    5724
   ],
   "jp": "ステータス異常……{n}なんだそりゃ？",
-  "en": "",
-  "status": ""
+  "en": "Status ailment... What the heck's that?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05198",
@@ -2840,8 +2840,8 @@
    5764
   ],
   "jp": "部隊の進軍や戦闘に支障をきたす{n}特殊な状態の事だね。",
-  "en": "",
-  "status": ""
+  "en": "It's a special condition that hinders a unit's marching and fighting.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_051CC",
@@ -2852,8 +2852,8 @@
    5771
   ],
   "jp": "『冒毒』は、ターンごとに士気が{n}減少し、戦闘時の耐久度も下がる。",
-  "en": "",
-  "status": ""
+  "en": "\"Poison\" lowers morale every turn, and lowers endurance in battle too.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0520C",
@@ -2864,8 +2864,8 @@
    5778
   ],
   "jp": "『呪縛』は、１ターンに１歩しか{n}移動できず、更に戦闘能力も{n}低下してしまう。",
-  "en": "",
-  "status": ""
+  "en": "\"Curse\" limits you to one step of movement per turn, and lowers your fighting ability as well.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05257",
@@ -2876,8 +2876,8 @@
    5785
   ],
   "jp": "『昏睡』にかかると、{n}深い眠りに落ちて移動もできず、{n}戦闘では無抵抗に陥ってしまう。",
-  "en": "",
-  "status": ""
+  "en": "\"Sleep\" puts you into a deep slumber. You can't move, and you can't resist in battle.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_052AA",
@@ -2888,8 +2888,8 @@
    5792
   ],
   "jp": "『炎上』状態になると、装備品が{n}燃え上がり、ターンごとに士気が{n}減少してしまう。",
-  "en": "",
-  "status": ""
+  "en": "\"Burn\" sets your equipment ablaze and lowers morale every turn.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_052F9",
@@ -2900,8 +2900,8 @@
    5804
   ],
   "jp": "『マヒ』は、兵士の身体の自由が{n}利かず、移動ができなくなる。",
-  "en": "",
-  "status": ""
+  "en": "\"Paralysis\" takes away the soldiers' control of their bodies, so they can't move.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05335",
@@ -2912,8 +2912,8 @@
    5811
   ],
   "jp": "『鈍足』はその名の通り、{n}移動能力を制限され、１ターンに{n}１歩しか移動できなくなるよ。",
-  "en": "",
-  "status": ""
+  "en": "\"Slow\" is just what it sounds like. It limits movement to one step per turn.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0538A",
@@ -2924,8 +2924,8 @@
    5818
   ],
   "jp": "そして、最後は{n}身体が石になってしまい移動も{n}デュエルもできなくなる『石化』",
-  "en": "",
-  "status": ""
+  "en": "And last of all, \"Stone.\" Your body turns to stone, and you can neither move nor Duel.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_053D5",
@@ -2936,8 +2936,8 @@
    5825
   ],
   "jp": "まあ、こんなところかな？{n}どれも致命的になりうる症状だよ。",
-  "en": "",
-  "status": ""
+  "en": "Well, that about covers it, I think. Any one of them can prove fatal.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0540F",
@@ -2948,8 +2948,8 @@
    5843
   ],
   "jp": "確かに致命的だな……",
-  "en": "",
-  "status": ""
+  "en": "Fatal is right...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05424",
@@ -2960,8 +2960,8 @@
    5850
   ],
   "jp": "もしステータス異常になって{n}しまったら解消できるのか？",
-  "en": "",
-  "status": ""
+  "en": "If we do get a status ailment, can we get rid of it?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0545A",
@@ -2972,8 +2972,8 @@
    5874
   ],
   "jp": "そうだね……{n}スキルの『リフレッシュメント』{n}をつかえば回復できるよ。",
-  "en": "",
-  "status": ""
+  "en": "Let's see... The Skill \"Refreshment\" will cure it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0549F",
@@ -2984,8 +2984,8 @@
    5881
   ],
   "jp": "あとは、ターン経過で{n}自然回復を待つしかないね。",
-  "en": "",
-  "status": ""
+  "en": "Other than that, you just have to wait for it to wear off as turns pass.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_054CF",
@@ -2996,8 +2996,8 @@
    5899
   ],
   "jp": "そうそう、装備をすれば{n}ステータス異常を予防できる{n}アイテムもあるみたいだね。",
-  "en": "",
-  "status": ""
+  "en": "Oh yes, it seems there are items you can equip to prevent status ailments too.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0551C",
@@ -3008,8 +3008,8 @@
    5917
   ],
   "jp": "それに、スキルを使いこなせば、{n}逆に敵にステータス異常を{n}かけてやることもできる。",
-  "en": "",
-  "status": ""
+  "en": "And if you master your Skills, you can turn around and inflict status ailments on the enemy.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0556D",
@@ -3020,8 +3020,8 @@
    5935
   ],
   "jp": "説明が長いぞ、ジェノン。",
-  "en": "",
-  "status": ""
+  "en": "You talk too long, Jenon.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05586",
@@ -3032,8 +3032,8 @@
    6067
   ],
   "jp": "メデューテ。{n}奴らが移動に利用していた船が{n}停泊しているけど……",
-  "en": "",
-  "status": ""
+  "en": "Medoute. The ship those guys used to get around is still moored here, but...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_055C5",
@@ -3044,8 +3044,8 @@
    6074
   ],
   "jp": "何かに利用できないかな？",
-  "en": "",
-  "status": ""
+  "en": "Could we use it for something?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_055DE",
@@ -3056,8 +3056,8 @@
    6098
   ],
   "jp": "ちょうど陸地に接しているんだ。{n}陸伝いに移動すれば、{n}対岸に渡ることもできるだろう。",
-  "en": "",
-  "status": ""
+  "en": "It's right up against the land. If you move along the shore, you could get across to the far bank.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05631",
@@ -3068,8 +3068,8 @@
    6116
   ],
   "jp": "ただ、甲板の広さから言って、{n}船の上に待機するのは難しい。",
-  "en": "",
-  "status": ""
+  "en": "But with a deck that size, it would be hard to wait on board the ship.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0566B",
@@ -3080,8 +3080,8 @@
    6134
   ],
   "jp": "今は交戦中だし、{n}なにより敵の船だ。{n}罠があるかもしれない。",
-  "en": "",
-  "status": ""
+  "en": "We're in the middle of a fight, and above all it's an enemy ship. It might be trapped.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_056A6",
@@ -3092,8 +3092,8 @@
    6152
   ],
   "jp": "うーん、確かにそうだね…{n}近寄っても大丈夫かなぁ？",
-  "en": "",
-  "status": ""
+  "en": "Hmm, you've got a point... I wonder if it's safe to go near it?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_056D8",
@@ -3104,8 +3104,8 @@
    6280
   ],
   "jp": "おっと、{n}チュートリアルコーナーだな！",
-  "en": "",
-  "status": ""
+  "en": "Whoa there, it's Tutorial Corner time!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_056FE",
@@ -3116,8 +3116,8 @@
    6298
   ],
   "jp": "いよいよオレが活躍する日が{n}来たってわけか！{n}待っていたゼ！　この日を②",
-  "en": "",
-  "status": ""
+  "en": "At last, the day I get to shine has come! Been waitin' for this day!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05745",
@@ -3128,8 +3128,8 @@
    6316
   ],
   "jp": "この場をお借りして、{n}ちょっとクセの強い私達の特性を{n}説明しますわ♪",
-  "en": "",
-  "status": ""
+  "en": "Allow us to use this moment to explain our, shall we say, rather peculiar traits♪",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05788",
@@ -3140,8 +3140,8 @@
    6334
   ],
   "jp": "まず私達は、時間帯によって{n}性別、さらにはユニット特性が{n}入れ替わる特色がありますの。",
-  "en": "",
-  "status": ""
+  "en": "First, depending on the time of day, our gender and even our unit traits switch places.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_057DD",
@@ -3152,8 +3152,8 @@
    6341
   ],
   "jp": "日の出ている間、{n}つまり『昼間』と『夕方』は{n}可憐なる美少女の私が…",
-  "en": "",
-  "status": ""
+  "en": "While the sun is up, that is, during \"Day\" and \"Evening,\" it is I, the lovely, pretty maiden...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05820",
@@ -3164,8 +3164,8 @@
    6359
   ],
   "jp": "日が沈んでいる『夜間』には{n}猛々しいオレが、この身体を{n}支配するのさ！",
-  "en": "",
-  "status": ""
+  "en": "And once the sun goes down, at \"Night,\" this body belongs to fierce, savage me!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05865",
@@ -3176,8 +3176,8 @@
    6377
   ],
   "jp": "では、『昼間』と『夕方』の{n}私の特性について{n}説明いたしましょう♪",
-  "en": "",
-  "status": ""
+  "en": "Now then, let me explain my traits for \"Day\" and \"Evening\"♪",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_058A6",
@@ -3188,8 +3188,8 @@
    6401
   ],
   "jp": "私は女性らしく優雅に、{n}竪琴の演奏で敵を攻撃しますわ。",
-  "en": "",
-  "status": ""
+  "en": "In ladylike elegance, I attack the enemy by playing my lyre.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_058DC",
@@ -3200,8 +3200,8 @@
    6408
   ],
   "jp": "演奏攻撃は、相手に反撃させずに{n}一方的に突撃できますが、{n}逆に、反撃はできませんわ。",
-  "en": "",
-  "status": ""
+  "en": "A performance attack lets me charge one-sidedly with no counterattack, but in turn, I can't counterattack.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0592F",
@@ -3212,8 +3212,8 @@
    6426
   ],
   "jp": "弓兵と同じだと考えてもらえば、{n}よろしくってよ。",
-  "en": "",
-  "status": ""
+  "en": "Just think of it as the same as an archer, if you please.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0595F",
@@ -3224,8 +3224,8 @@
    6444
   ],
   "jp": "戦闘時の相性ですが、{n}どのユニットとも互角に戦えます。",
-  "en": "",
-  "status": ""
+  "en": "As for battle matchups, I fight evenly with any unit.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05995",
@@ -3236,8 +3236,8 @@
    6451
   ],
   "jp": "剣と剣、杖と杖が戦うのと{n}同じような戦闘力というのが{n}わかりやすいですわね♪",
-  "en": "",
-  "status": ""
+  "en": "The easy way to understand it is the same fighting strength as sword against sword, or staff against staff♪",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_059E0",
@@ -3248,8 +3248,8 @@
    6458
   ],
   "jp": "私の最大の特徴は、{n}リーダーが『エース』でなくとも{n}スキルを使えてしまうコトかしら。",
-  "en": "",
-  "status": ""
+  "en": "My greatest feature, I suppose, is that I can use Skills even when the leader isn't an \"Ace.\"",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05A33",
@@ -3260,8 +3260,8 @@
    6465
   ],
   "jp": "『バニッシュ』など、{n}使用条件が特にないカードならば、{n}制約なく使えるのです♪",
-  "en": "",
-  "status": ""
+  "en": "Cards like \"Vanish,\" with no particular conditions for use, I can use freely♪",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05A80",
@@ -3272,8 +3272,8 @@
    6483
   ],
   "jp": "ああ、なんて優美なんでしょう…",
-  "en": "",
-  "status": ""
+  "en": "Ah, how very graceful I am...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05A9F",
@@ -3284,8 +3284,8 @@
    6501
   ],
   "jp": "おっと！{n}もうオメェの出番は終わりだ、{n}次はオレの紹介だぜ！",
-  "en": "",
-  "status": ""
+  "en": "Hey! Your turn's over, sister, next up it's my introduction!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05ADA",
@@ -3296,8 +3296,8 @@
    6524
   ],
   "jp": "夜のオレの突撃は男らしいぜぇ…{n}竪琴で演奏なんてしない！{n}楽器はブン殴る為にあるのさ②",
-  "en": "",
-  "status": ""
+  "en": "Night me charges like a real man... No playin' any lyre! An instrument's for smashin' people with!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05B2F",
@@ -3308,8 +3308,8 @@
    6531
   ],
   "jp": "反撃も好きにさせてやる！{n}このオレの突撃を喰らって、{n}誰が生きて帰れるんだよォォ②",
-  "en": "",
-  "status": ""
+  "en": "And I'll let you counterattack all you like! Who's gonna walk away alive after takin' my charge?!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05B80",
@@ -3320,8 +3320,8 @@
    6549
   ],
   "jp": "ま、剣兵や槍兵みたいな{n}普通の打撃ユニットと一緒、って{n}考えれば間違いないさ。",
-  "en": "",
-  "status": ""
+  "en": "Basically, just think of me as the same as a regular striking unit, like a swordsman or spearman.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05BCD",
@@ -3332,8 +3332,8 @@
    6556
   ],
   "jp": "戦闘時の相性だがよ、{n}どんなユニットとも有利に{n}戦いを運ぶ事ができるぜ！",
-  "en": "",
-  "status": ""
+  "en": "As for battle matchups, I get the upper hand on every kind of unit!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05C14",
@@ -3344,8 +3344,8 @@
    6563
   ],
   "jp": "繰り返すけど、{n}どんな相手にも有利なんだぜ？{n}な？　やっぱりオレって最強だろ！",
-  "en": "",
-  "status": ""
+  "en": "I'll say it again: I've got the upper hand on anybody, got it? See? I really am the strongest!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05C61",
@@ -3356,8 +3356,8 @@
    6581
   ],
   "jp": "アアン？　スキルだと？",
-  "en": "",
-  "status": ""
+  "en": "Huh? Skills, you say?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05C78",
@@ -3368,8 +3368,8 @@
    6599
   ],
   "jp": "そんな女々しいモノはいらねぇ。{n}オトコなら腕一本で勝負だぜ！",
-  "en": "",
-  "status": ""
+  "en": "I got no need for sissy stuff like that. A real man fights with his bare arm alone!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05CB4",
@@ -3380,8 +3380,8 @@
    6622
   ],
   "jp": "おっと、言い忘れるところだった。{n}フォーメーションタイプは{n}それぞれの性別に依存するぜ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa, almost forgot to mention. Formation Type depends on which gender's out!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05D0B",
@@ -3392,8 +3392,8 @@
    6629
   ],
   "jp": "つまり、『昼間』と『夕方』は{n}『＋』タイプで、『夜間』は{n}『×』タイプだ。簡単だろ？",
-  "en": "",
-  "status": ""
+  "en": "So \"Day\" and \"Evening\" are \"+\" Type, and \"Night\" is \"X\" Type. Easy, right?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05D5E",
@@ -3404,8 +3404,8 @@
    6647
   ],
   "jp": "…とまぁ、ちょっとクセの強い{n}ユニットなのは間違いないですね。",
-  "en": "",
-  "status": ""
+  "en": "...So, yes, there's no doubt this unit is a little peculiar.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05D9C",
@@ -3416,8 +3416,8 @@
    6665
   ],
   "jp": "使いこなせば{n}非常に優秀なユニットなので、{n}是非とも使ってくださいまし♪",
-  "en": "",
-  "status": ""
+  "en": "But once mastered, it's an excellent unit, so do please use it♪",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05DE3",
@@ -3428,8 +3428,8 @@
    6824
   ],
   "jp": "本日よりお前達グラムブレイズは、{n}私の出したミッションに従って{n}出撃してもらう。",
-  "en": "",
-  "status": ""
+  "en": "From this day on, you of Gram Blaze will sortie according to the Missions I issue.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05E32",
@@ -3440,8 +3440,8 @@
    6842
   ],
   "jp": "ミッション？　なんだ、それは。",
-  "en": "",
-  "status": ""
+  "en": "Missions? What's that?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05E51",
@@ -3452,8 +3452,8 @@
    6860
   ],
   "jp": "賊の退治や、仲間の登用など、{n}私が必要を感じた作戦の事だ。",
-  "en": "",
-  "status": ""
+  "en": "Operations I deem necessary, such as wiping out outlaws or recruiting allies.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05E8B",
@@ -3464,8 +3464,8 @@
    6867
   ],
   "jp": "お前達グラムブレイズの{n}出撃先と言い換えてもいいな。",
-  "en": "",
-  "status": ""
+  "en": "You could also call them Gram Blaze's sortie destinations.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05EBF",
@@ -3476,8 +3476,8 @@
    6874
   ],
   "jp": "私が選び出した候補の中から、{n}実行したいミッションを選ぶのだ。",
-  "en": "",
-  "status": ""
+  "en": "From the candidates I select, you choose the Mission you wish to carry out.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05EFD",
@@ -3488,8 +3488,8 @@
    6892
   ],
   "jp": "選ぶって…{n}具体的にはどうするの？",
-  "en": "",
-  "status": ""
+  "en": "Choose... How exactly do we do that?",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05F1F",
@@ -3500,8 +3500,8 @@
    6916
   ],
   "jp": "ミッション選択画面に入ると、{n}まず帝国の地図が表示される。",
-  "en": "",
-  "status": ""
+  "en": "When you enter the Mission selection screen, a map of the Empire is shown first.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05F59",
@@ -3512,8 +3512,8 @@
    6923
   ],
   "jp": "Ｌボタン／Ｒボタンで、{n}出撃候補となるミッションを{n}選ぶのだ。",
-  "en": "",
-  "status": ""
+  "en": "Use the L button and R button to pick among the candidate Missions.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05F96",
@@ -3524,8 +3524,8 @@
    6930
   ],
   "jp": "ミッションによって{n}戦場や敵勢力が異なるのは{n}言うまでもないが…",
-  "en": "",
-  "status": ""
+  "en": "It goes without saying that the battlefield and enemy forces differ from Mission to Mission...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_05FD5",
@@ -3536,8 +3536,8 @@
    6942
   ],
   "jp": "表示される概要や難易度を元に、{n}どのミッションに出撃するかを{n}選択してほしい。",
-  "en": "",
-  "status": ""
+  "en": "Use the summary and difficulty shown to decide which Mission to sortie on.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_06022",
@@ -3548,8 +3548,8 @@
    6960
   ],
   "jp": "…自分達の実力に合った{n}ミッションを選べるわけですね。",
-  "en": "",
-  "status": ""
+  "en": "...So we can choose Missions that suit our own strength.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_06058",
@@ -3560,8 +3560,8 @@
    6978
   ],
   "jp": "その通りだ。",
-  "en": "",
-  "status": ""
+  "en": "Precisely.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_06065",
@@ -3572,8 +3572,8 @@
    6996
   ],
   "jp": "低い難易度のミッションを選んで{n}作戦を確実にこなすのもよし…",
-  "en": "",
-  "status": ""
+  "en": "You may choose a low-difficulty Mission and carry it out without fail...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_060A1",
@@ -3584,8 +3584,8 @@
    7003
   ],
   "jp": "逆に、高い難易度のミッションで{n}レベルの底上げを図るのも{n}ひとつの戦略だな。",
-  "en": "",
-  "status": ""
+  "en": "Or conversely, take on a high-difficulty Mission to raise your levels. That too is a strategy.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_060EC",
@@ -3608,8 +3608,8 @@
    7045
   ],
   "jp": "このミッションを繰り返して{n}もらう事で、帝政の変革が{n}進んでいくととらえて欲しい。",
-  "en": "",
-  "status": ""
+  "en": "Think of it this way: each Mission you repeat moves the reform of the Empire forward.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0614A",
@@ -3620,8 +3620,8 @@
    7052
   ],
   "jp": "頼んだぞ、ガーロット…{n}そしてグラムブレイズよ！",
-  "en": "",
-  "status": ""
+  "en": "I'm counting on you, Garlot... and you, Gram Blaze!",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0617A",
@@ -3632,8 +3632,8 @@
    7208
   ],
   "jp": "おかしいわね。{n}ネシアは、武器らしい武器を{n}持っていないみたいだけど…",
-  "en": "",
-  "status": ""
+  "en": "That's odd. Nessiah doesn't seem to have anything you could really call a weapon...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_061BF",
@@ -3644,8 +3644,8 @@
    7226
   ],
   "jp": "確かにそうだな。{n}丸腰でやろう、ってのか？{n}ナメられたもんだぜ。",
-  "en": "",
-  "status": ""
+  "en": "You're right. He's gonna do this empty-handed? He's making fools of us.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_061FE",
@@ -3656,8 +3656,8 @@
    7244
   ],
   "jp": "フフフ…{n}私の書物の力を侮ると{n}後悔しますよ…",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... Underestimate the power of my books, and you will regret it...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0622B",
@@ -3668,8 +3668,8 @@
    7257
   ],
   "jp": "屍兵を操る『書』のユニットは、{n}知識を武器にする『杖』に対して{n}極めて有効です。",
-  "en": "",
-  "status": ""
+  "en": "\"Book\" units command corpse soldiers, and are extremely effective against knowledge-wielding \"Staff.\"",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0627A",
@@ -3680,8 +3680,8 @@
    7275
   ],
   "jp": "遠距離から仕掛ける弓兵は{n}苦手ですがね……",
-  "en": "",
-  "status": ""
+  "en": "Archers, who strike from long range, do give me trouble, though...",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_062A4",
@@ -3692,8 +3692,8 @@
    7293
   ],
   "jp": "汎用の剣兵・槍兵・斧兵のほか、{n}あの『鎌』ユニットとも{n}互角に渡り合えるでしょう。",
-  "en": "",
-  "status": ""
+  "en": "I can hold my own against ordinary swordsmen, spearmen and axemen, and those \"Scythe\" units too.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_062F5",
@@ -3704,8 +3704,8 @@
    7311
   ],
   "jp": "『鎌』？{n}それも聞いたことのない兵科だね。",
-  "en": "",
-  "status": ""
+  "en": "\"Scythe\"? There's another branch of arms I've never heard of.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_0631F",
@@ -3716,8 +3716,8 @@
    7329
   ],
   "jp": "あたしは知っているよ。{n}ドラゴンに跨って戦う{n}帝国の皇騎兵が扱う武器だ。",
-  "en": "",
-  "status": ""
+  "en": "I know them. It's the weapon of the Empire's Imperial Cavalry, who fight astride dragons.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_06366",
@@ -3728,8 +3728,8 @@
    7352
   ],
   "jp": "『鎌』は非常に優秀で{n}剣兵・槍兵・斧兵のいずれにも{n}有利に戦う事ができます。",
-  "en": "",
-  "status": ""
+  "en": "The \"Scythe\" is exceptional, with the advantage over swordsmen, spearmen and axemen alike.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_063B1",
@@ -3740,8 +3740,8 @@
    7370
   ],
   "jp": "さらに苦手なユニットもおらず、{n}極めて強力な武器と言えます。",
-  "en": "",
-  "status": ""
+  "en": "It has no unit it's weak against either. An extremely powerful weapon, you could say.",
+  "status": "done"
  },
  {
   "id": "fct3_15_008_063ED",
@@ -3752,7 +3752,7 @@
    7388
   ],
   "jp": "そんな兵科があるのか…",
-  "en": "",
-  "status": ""
+  "en": "There's a branch of arms like that...",
+  "status": "done"
  }
 ]

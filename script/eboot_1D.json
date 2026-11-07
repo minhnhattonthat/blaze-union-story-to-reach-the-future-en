@@ -11,8 +11,8 @@
    }
   ],
   "jp": "カードがありません",
-  "en": "",
-  "status": ""
+  "en": "No cards",
+  "status": "done"
  },
  {
   "id": "eboot_1D1188",
@@ -101,7 +101,7 @@
    }
   ],
   "jp": "リーダーがエースでないので、{n}スキルは使えません！",
-  "en": "",
-  "status": ""
+  "en": "The leader isn't an Ace, so Skills can't be used!",
+  "status": "done"
  }
 ]
