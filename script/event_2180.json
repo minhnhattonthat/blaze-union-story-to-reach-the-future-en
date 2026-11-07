@@ -8,8 +8,8 @@
    6596
   ],
   "jp": "{voice:00380C}最近の塩の価格高騰には、{n}本当にまいったよね。",
-  "en": "",
-  "status": ""
+  "en": "This recent spike in the price of salt has been really rough.",
+  "status": "done"
  },
  {
   "id": "event_2180_0005A",
@@ -20,8 +20,8 @@
    6617
   ],
   "jp": "{voice:00390C}塩の値に吊られて、{n}他の食料品の価格も上がっている。",
-  "en": "",
-  "status": ""
+  "en": "With the price of salt, the price of other food's going up too.",
+  "status": "done"
  },
  {
   "id": "event_2180_00092",
@@ -32,8 +32,8 @@
    6638
   ],
   "jp": "{voice:003A0C}塩は水と一緒で、生きていくには{n}必要な品だからね。",
-  "en": "",
-  "status": ""
+  "en": "Salt's just like water, something you need to live.",
+  "status": "done"
  },
  {
   "id": "event_2180_000C8",
@@ -44,8 +44,8 @@
    6659
   ],
   "jp": "{voice:003B0C}貴族様とか役人様とかって、{n}ホントに自分勝手だよ。",
-  "en": "",
-  "status": ""
+  "en": "The nobles and officials are so selfish, really.",
+  "status": "done"
  },
  {
   "id": "event_2180_000FE",
@@ -56,8 +56,8 @@
    6666
   ],
   "jp": "{voice:003C0C}ガッツリ調べて、{n}悪い奴はふん捕まえないとね！",
-  "en": "",
-  "status": ""
+  "en": "We'll get to the bottom of this, and nab the bad guys!",
+  "status": "done"
  },
  {
   "id": "event_2180_00130",
@@ -68,8 +68,8 @@
    6687
   ],
   "jp": "{voice:003D0C}ですが、今回の件にはいささか{n}不可解な部分があります。",
-  "en": "",
-  "status": ""
+  "en": "However, there is something rather puzzling about this affair.",
+  "status": "done"
  },
  {
   "id": "event_2180_0016A",
@@ -92,8 +92,8 @@
    6729
   ],
   "jp": "{voice:003F0C}今回の一件は、役人が私腹を{n}肥やすというレベルでは{n}考えられない金額が動いています。",
-  "en": "",
-  "status": ""
+  "en": "The sums involved in this are unthinkable for an official merely lining his pockets.",
+  "status": "done"
  },
  {
   "id": "event_2180_001D4",
@@ -104,8 +104,8 @@
    6750
   ],
   "jp": "{voice:00400C}きっと、考えられない金額を{n}懐に入れてるのよ！",
-  "en": "",
-  "status": ""
+  "en": "He must be pocketing an unthinkable amount, then!",
+  "status": "done"
  },
  {
   "id": "event_2180_00206",
@@ -116,8 +116,8 @@
    6771
   ],
   "jp": "{voice:00410C}私には、そうは思えません。{n}すぐバレて捕まってしまうような{n}事をするでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "I do not think so. Would he do something that would get him caught so quickly?",
+  "status": "done"
  },
  {
   "id": "event_2180_00259",
@@ -128,8 +128,8 @@
    6792
   ],
   "jp": "{voice:00420C}じゃあ、不正に得た金は一体…？",
-  "en": "",
-  "status": ""
+  "en": "Then what's happening to all that dirty money...?",
+  "status": "done"
  },
  {
   "id": "event_2180_0027C",
@@ -140,8 +140,8 @@
    6813
   ],
   "jp": "{voice:00430C}例えば…、何らかの勢力が資金{n}集めの手段としているとか……",
-  "en": "",
-  "status": ""
+  "en": "For instance... Some power may be using it as a way to raise funds...",
+  "status": "done"
  },
  {
   "id": "event_2180_002BA",
@@ -152,8 +152,8 @@
    6820
   ],
   "jp": "{voice:00440C}要するにパトロンですね。{n}その組織が大きくなる事は、{n}役人にとって好都合なのでしょう。",
-  "en": "",
-  "status": ""
+  "en": "A patron, in short. That group's growth would suit the officials nicely.",
+  "status": "done"
  },
  {
   "id": "event_2180_00313",
@@ -164,8 +164,8 @@
    6841
   ],
   "jp": "{voice:00450C}ふむ。なかなか大胆な仮説ね。",
-  "en": "",
-  "status": ""
+  "en": "Hm. That's quite a bold theory.",
+  "status": "done"
  },
  {
   "id": "event_2180_00334",
@@ -174,8 +174,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00460C}これは推測に過ぎませんがね。{n}まあ今回の調査で、{n}全て明らかになるでしょう。",
-  "en": "",
-  "status": ""
+  "en": "This is only speculation, mind you. Well, this investigation should bring all to light.",
+  "status": "done"
  },
  {
   "id": "event_2180_00383",
@@ -186,8 +186,8 @@
    6949
   ],
   "jp": "{voice:00470C}見えてきたわ、トキノの関所よ。",
-  "en": "",
-  "status": ""
+  "en": "I can see it, that's the Tokino checkpoint.",
+  "status": "done"
  },
  {
   "id": "event_2180_003A6",
@@ -198,8 +198,8 @@
    7005
   ],
   "jp": "{voice:00480C}でもさ…{n}なんだか様子がおかしくない？",
-  "en": "",
-  "status": ""
+  "en": "But... doesn't something look wrong?",
+  "status": "done"
  },
  {
   "id": "event_2180_003D0",
@@ -210,8 +210,8 @@
    7026
   ],
   "jp": "{voice:00490C}関所の前に部隊が展開している…",
-  "en": "",
-  "status": ""
+  "en": "There are units deployed in front of the checkpoint...",
+  "status": "done"
  },
  {
   "id": "event_2180_003F3",
@@ -222,8 +222,8 @@
    7047
   ],
   "jp": "{voice:004A0C}しかも、あの数は尋常じゃないぜ。",
-  "en": "",
-  "status": ""
+  "en": "And that's a crazy number of them.",
+  "status": "done"
  },
  {
   "id": "event_2180_00418",
@@ -234,8 +234,8 @@
    7068
   ],
   "jp": "{voice:004B0C}我々が来る事を予想して{n}兵を展開していたのでしょう。",
-  "en": "",
-  "status": ""
+  "en": "They must have expected us and deployed their soldiers.",
+  "status": "done"
  },
  {
   "id": "event_2180_00450",
@@ -246,8 +246,8 @@
    7089
   ],
   "jp": "{voice:004C0C}やるしかねぇって事か。",
-  "en": "",
-  "status": ""
+  "en": "Guess we've got no choice.",
+  "status": "done"
  },
  {
   "id": "event_2180_0046B",
@@ -258,8 +258,8 @@
    7285
   ],
   "jp": "{voice:004D0C}おおっ、マズイ！{n}ヴェルマン方伯の手の者が{n}来てしまいましたよ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, no, this is bad! Margrave Velleman's people have come!",
+  "status": "done"
  },
  {
   "id": "event_2180_004AE",
@@ -270,8 +270,8 @@
    7292
   ],
   "jp": "{voice:004E0C}お、おい！{n}大丈夫なんでしょうね③",
-  "en": "",
-  "status": ""
+  "en": "H-hey! You've got this under control, yes?!",
+  "status": "done"
  },
  {
   "id": "event_2180_004D4",
@@ -282,8 +282,8 @@
    7313
   ],
   "jp": "{voice:004F0C}…ここは俺達が防ぎますから、{n}早く帳簿の整理をしてください。",
-  "en": "",
-  "status": ""
+  "en": "...We'll hold them here, so hurry up and put the ledgers in order.",
+  "status": "done"
  },
  {
   "id": "event_2180_00514",
@@ -294,8 +294,8 @@
    7331
   ],
   "jp": "{voice:00500C}奴らには賄賂が通じないと{n}聞いています……",
-  "en": "",
-  "status": ""
+  "en": "They say bribes do not work on those people...",
+  "status": "done"
  },
  {
   "id": "event_2180_00542",
@@ -306,8 +306,8 @@
    7338
   ],
   "jp": "{voice:00510C}ああそうだ！{n}いっそ彼らに投降しましょうか？",
-  "en": "",
-  "status": ""
+  "en": "Oh, I know! Should we just surrender to them?",
+  "status": "done"
  },
  {
   "id": "event_2180_00572",
@@ -318,8 +318,8 @@
    7359
   ],
   "jp": "{voice:00520C}帝国軍に知れれば、{n}全員死罪です。{n}もう後には引けないのですよ！",
-  "en": "",
-  "status": ""
+  "en": "If the Imperial Army finds out, it's death for all of us. There's no turning back now!",
+  "status": "done"
  },
  {
   "id": "event_2180_005B5",
@@ -330,8 +330,8 @@
    7377
   ],
   "jp": "{voice:00530C}そ、そうでしたね。{n}モチロン、わかっておりますよ…{n}それにしても…ブツブツ…",
-  "en": "",
-  "status": ""
+  "en": "R-right, of course. Naturally, I understand... But even so... mutter mutter...",
+  "status": "done"
  },
  {
   "id": "event_2180_00604",
@@ -342,8 +342,8 @@
    7441
   ],
   "jp": "{voice:00540C}準備はできているな、全軍前進！",
-  "en": "",
-  "status": ""
+  "en": "Everyone ready? All forces, advance!",
+  "status": "done"
  },
  {
   "id": "event_2180_00627",
@@ -354,8 +354,8 @@
    30628
   ],
   "jp": "{voice:00550C}お前がトキノの関所の役人だな？",
-  "en": "",
-  "status": ""
+  "en": "You're the official of the Tokino checkpoint, right?",
+  "status": "done"
  },
  {
   "id": "event_2180_0064A",
@@ -366,8 +366,8 @@
    30646
   ],
   "jp": "{voice:00560C}あ、赤い髪！{n}お、お前があ、あの、{n}悪名高い団長ガーロットか③",
-  "en": "",
-  "status": ""
+  "en": "R-red hair! Y-you must be that n-notorious Captain Garlot?!",
+  "status": "done"
  },
  {
   "id": "event_2180_0068B",
@@ -378,8 +378,8 @@
    30667
   ],
   "jp": "{voice:00570C}何が悪名だ！{n}お前のような薄汚い人間に{n}言われる筋合はないぜ！",
-  "en": "",
-  "status": ""
+  "en": "What do you mean, notorious! A dirty guy like you's got no right to say that!",
+  "status": "done"
  },
  {
   "id": "event_2180_006CC",
@@ -390,8 +390,8 @@
    30685
   ],
   "jp": "{voice:00580C}薄汚い？　な、なんの事だ…{n}私は…、なにもしていませんよ。",
-  "en": "",
-  "status": ""
+  "en": "Dirty? Wh-what do you mean... I... I have done nothing.",
+  "status": "done"
  },
  {
   "id": "event_2180_0070A",
@@ -402,8 +402,8 @@
    30706
   ],
   "jp": "{voice:00590C}塩に法外な税をかけてるのは{n}とっくに調べが済んでいるんだ！",
-  "en": "",
-  "status": ""
+  "en": "We've already found out you're slapping crazy taxes on salt!",
+  "status": "done"
  },
  {
   "id": "event_2180_00748",
@@ -414,8 +414,8 @@
    30727
   ],
   "jp": "{voice:005A0C}その金を誰に渡している？",
-  "en": "",
-  "status": ""
+  "en": "Who are you giving that money to?",
+  "status": "done"
  },
  {
   "id": "event_2180_00765",
@@ -426,8 +426,8 @@
    30745
   ],
   "jp": "{voice:005B0C}な、ん、し、知らん、知らんぞ！",
-  "en": "",
-  "status": ""
+  "en": "Wh-what, I, I don't know, I don't know!",
+  "status": "done"
  },
  {
   "id": "event_2180_00788",
@@ -438,8 +438,8 @@
    30766
   ],
   "jp": "{voice:005C0C}どうも置かれてる状況が、{n}理解できていないようだな。",
-  "en": "",
-  "status": ""
+  "en": "You don't seem to grasp the position you're in.",
+  "status": "done"
  },
  {
   "id": "event_2180_007C0",
@@ -450,8 +450,8 @@
    30773
   ],
   "jp": "{voice:005D0C}お前の命は、俺の気分１つで{n}好きにできるんだぜ。",
-  "en": "",
-  "status": ""
+  "en": "Your life depends on nothing but my mood.",
+  "status": "done"
  },
  {
   "id": "event_2180_007F4",
@@ -462,8 +462,8 @@
    30791
   ],
   "jp": "{voice:005E0C}ま、待て！　分かった、言う！{n}パンドラだ！{n}パンドラという男に渡したのだ②",
-  "en": "",
-  "status": ""
+  "en": "W-wait! All right, I'll tell you! Pandra! I gave it to a man named Pandra!",
+  "status": "done"
  },
  {
   "id": "event_2180_00841",
@@ -474,8 +474,8 @@
    30812
   ],
   "jp": "{voice:005F0C}ちょっと待て、パンドラって…{n}反乱軍の、あのパンドラか？",
-  "en": "",
-  "status": ""
+  "en": "Hold on, Pandra... You mean that Pandra, of the rebel army?",
+  "status": "done"
  },
  {
   "id": "event_2180_0087D",
@@ -486,8 +486,8 @@
    31010
   ],
   "jp": "{voice:00600C}あーあ、既に手遅れかよ……{n}参ったな、全く。",
-  "en": "",
-  "status": ""
+  "en": "Aah, I'm already too late... Jeez, what a mess.",
+  "status": "done"
  },
  {
   "id": "event_2180_008AD",
@@ -498,8 +498,8 @@
    31017
   ],
   "jp": "{voice:00610C}あの旗印はグラムブレイズだな。{n}まったく、どこまで俺の邪魔を{n}するつもりなんだ？",
-  "en": "",
-  "status": ""
+  "en": "That banner's Gram Blaze. Honestly, how far are they going to get in my way?",
+  "status": "done"
  },
  {
   "id": "event_2180_00900",
@@ -510,8 +510,8 @@
    31081
   ],
   "jp": "{voice:00620C}お前、帝国の役人だろッ！{n}反乱軍の資金集めに荷担してる{n}とはどういう事だ②",
-  "en": "",
-  "status": ""
+  "en": "You're an Imperial official, aren't you! What's the idea, helping the rebels raise money!",
+  "status": "done"
  },
  {
   "id": "event_2180_0094D",
@@ -522,8 +522,8 @@
    31099
   ],
   "jp": "{voice:00630C}こんな田舎の関所の管理などで{n}一生を過ごせるものか……{n}私は帝都で華々しく働きたいのだ。",
-  "en": "",
-  "status": ""
+  "en": "I cannot spend my whole life running some backwoods checkpoint... I want a brilliant career in the capital.",
+  "status": "done"
  },
  {
   "id": "event_2180_009A8",
@@ -534,8 +534,8 @@
    31106
   ],
   "jp": "{voice:00640C}反乱軍が帝国を倒せば、{n}私には資金援助した功臣として{n}国務大臣のイスが待っている！",
-  "en": "",
-  "status": ""
+  "en": "When the rebels bring down the Empire, I'll be the loyal backer, with a Minister of State's chair waiting!",
+  "status": "done"
  },
  {
   "id": "event_2180_009FD",
@@ -546,8 +546,8 @@
    31127
   ],
   "jp": "{voice:00650C}はぁ？　バカかよ、お前…{n}パンドラの言う事を{n}真に受けるなんて…",
-  "en": "",
-  "status": ""
+  "en": "Huh? Are you stupid... Believing what Pandra says...",
+  "status": "done"
  },
  {
   "id": "event_2180_00A40",
@@ -558,8 +558,8 @@
    31205
   ],
   "jp": "{voice:00660C}ぶえっくしょい②",
-  "en": "",
-  "status": ""
+  "en": "Ah-CHOO!",
+  "status": "done"
  },
  {
   "id": "event_2180_00A55",
@@ -570,8 +570,8 @@
    31226
   ],
   "jp": "{voice:00670C}あー、誰か俺の噂してるな。",
-  "en": "",
-  "status": ""
+  "en": "Aah, somebody's talking about me.",
+  "status": "done"
  },
  {
   "id": "event_2180_00A74",
@@ -582,8 +582,8 @@
    31247
   ],
   "jp": "{voice:00680C}さては俺がいい男過ぎるから、{n}帝都の女どもが…、くふふ。",
-  "en": "",
-  "status": ""
+  "en": "I bet it's 'cause I'm such a looker, the women in the capital... Heh heh.",
+  "status": "done"
  },
  {
   "id": "event_2180_00AB0",
@@ -594,8 +594,8 @@
    31254
   ],
   "jp": "{voice:00690C}あ～あ、久しぶりに{n}都会の女を抱きたくなってきたぜ。{n}田舎の女はどうもなぁ…",
-  "en": "",
-  "status": ""
+  "en": "Aah, I sure could go for some big-city company. Country women just aren't the same...",
+  "status": "done"
  },
  {
   "id": "event_2180_00AFF",
@@ -606,8 +606,8 @@
    31261
   ],
   "jp": "{voice:006A0C}…そのためには、{n}やはりあの帳簿が必要だな。{n}奴らの手に落ちてなきゃいいが…",
-  "en": "",
-  "status": ""
+  "en": "...And for that, I'll need that ledger. Hope it hasn't fallen into their hands...",
+  "status": "done"
  },
  {
   "id": "event_2180_00B4E",
@@ -618,8 +618,8 @@
    31282
   ],
   "jp": "{voice:006B0C}よし、行くぜ！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's go!",
+  "status": "done"
  },
  {
   "id": "event_2180_00B61",
@@ -630,8 +630,8 @@
    31719
   ],
   "jp": "{voice:006C0C}ガーロット様、反乱軍です！{n}反乱軍の部隊が現れました②",
-  "en": "",
-  "status": ""
+  "en": "Garlot-sama, it's the rebels! A rebel unit's shown up!",
+  "status": "done"
  },
  {
   "id": "event_2180_00B9B",
@@ -643,8 +643,8 @@
    7825
   ],
   "jp": "…最近、山に罠を仕掛けても{n}獲物が掛からなくなったんだ。",
-  "en": "",
-  "status": ""
+  "en": "...Lately, even when I set traps on the mountain, nothing gets caught.",
+  "status": "done"
  },
  {
   "id": "event_2180_00BD3",
@@ -656,8 +656,8 @@
    7832
   ],
   "jp": "罠ごとなくなっているから、{n}きっと誰かが横取りしてるんだ…{n}まさか、反乱軍の連中かな？",
-  "en": "",
-  "status": ""
+  "en": "The traps themselves are gone too, so someone must be stealing them... Could it be the rebels?",
+  "status": "done"
  },
  {
   "id": "event_2180_00C28",
@@ -669,8 +669,8 @@
    7839
   ],
   "jp": "おかげで、罠のストックが{n}減ってきててね…",
-  "en": "",
-  "status": ""
+  "en": "Thanks to that, my stock of traps is running low...",
+  "status": "done"
  },
  {
   "id": "event_2180_00C52",
@@ -682,8 +682,8 @@
    7857
   ],
   "jp": "次に行商が来るのは一月先…{n}ストックが先に尽きたら{n}どうしよう？",
-  "en": "",
-  "status": ""
+  "en": "The peddler's next visit is a month off... What'll I do if I run out first?",
+  "status": "done"
  },
  {
   "id": "event_2180_00C91",
@@ -695,8 +695,8 @@
    7875
   ],
   "jp": "…あ！　君達、『トラップ』を{n}持ってるじゃないか！",
-  "en": "",
-  "status": ""
+  "en": "...Oh! You've got a 'Trap'!",
+  "status": "done"
  },
  {
   "id": "event_2180_00CC3",
@@ -708,8 +708,8 @@
    7893
   ],
   "jp": "悪いんだけど、{n}それを譲ってくれないか？{n}もちろん、タダとは言わないよ。",
-  "en": "",
-  "status": ""
+  "en": "Sorry to ask, but could you let me have that? Not for free, of course.",
+  "status": "done"
  },
  {
   "id": "event_2180_00D0A",
@@ -721,8 +721,8 @@
    7966
   ],
   "jp": "いいのかい？　ありがとう！{n}お返しにコレをあげるよ！",
-  "en": "",
-  "status": ""
+  "en": "You will? Thanks! I'll give you this in return!",
+  "status": "done"
  },
  {
   "id": "event_2180_00D3E",
@@ -734,8 +734,8 @@
    8065
   ],
   "jp": "巨大な獣を狩ったとき、{n}そのキバを削り出したものだ。{n}高値で取り引きできるハズだよ。",
-  "en": "",
-  "status": ""
+  "en": "It's carved from the fang of a huge beast I hunted. It should fetch a high price.",
+  "status": "done"
  },
  {
   "id": "event_2180_00D91",
@@ -747,8 +747,8 @@
    8145
   ],
   "jp": "さっき渡したキバを持てば、{n}獣性とも言うべきものが{n}身に宿るハズだよ。",
-  "en": "",
-  "status": ""
+  "en": "Carry that fang I gave you, and something like a beast's nature should come to dwell in you.",
+  "status": "done"
  },
  {
   "id": "event_2180_00DD6",
@@ -760,8 +760,8 @@
    8163
   ],
   "jp": "その代わり、獣としての欠点も{n}一緒に備えてしまうから、{n}使う際には十分気を付けてね。",
-  "en": "",
-  "status": ""
+  "en": "But you'll also get a beast's weaknesses with it, so be very careful when you use it.",
+  "status": "done"
  },
  {
   "id": "event_2180_00E29",
@@ -773,8 +773,8 @@
    8089
   ],
   "jp": "…最近、山に罠を仕掛けても{n}獲物が掛からなくなったんだ。",
-  "en": "",
-  "status": ""
+  "en": "...Lately, even when I set traps on the mountain, nothing gets caught.",
+  "status": "done"
  },
  {
   "id": "event_2180_00E61",
@@ -786,8 +786,8 @@
    8096
   ],
   "jp": "罠ごとなくなっているから、{n}きっと誰かが横取りしてるんだ…{n}まさか、反乱軍の連中かな？",
-  "en": "",
-  "status": ""
+  "en": "The traps themselves are gone too, so someone must be stealing them... Could it be the rebels?",
+  "status": "done"
  },
  {
   "id": "event_2180_00EB6",
@@ -799,8 +799,8 @@
    8103
   ],
   "jp": "おかげで、罠のストックが{n}減ってきててね…",
-  "en": "",
-  "status": ""
+  "en": "Thanks to that, my stock of traps is running low...",
+  "status": "done"
  },
  {
   "id": "event_2180_00EE0",
@@ -812,8 +812,8 @@
    8121
   ],
   "jp": "次に行商が来るのは一月先…{n}ストックが先に尽きたら{n}どうしよう？",
-  "en": "",
-  "status": ""
+  "en": "The peddler's next visit is a month off... What'll I do if I run out first?",
+  "status": "done"
  },
  {
   "id": "event_2180_00F1F",
@@ -825,8 +825,8 @@
    18985
   ],
   "jp": "これはグラムブレイズの方々…{n}噂はかねがね伺っています。",
-  "en": "",
-  "status": ""
+  "en": "Ah, you are the people of Gram Blaze... I have heard much about you.",
+  "status": "done"
  },
  {
   "id": "event_2180_00F57",
@@ -838,8 +838,8 @@
    18992
   ],
   "jp": "…役人の不正を正すために{n}出撃したのですか？{n}塩の営利で私腹を肥やす、と…",
-  "en": "",
-  "status": ""
+  "en": "...You have come to correct the officials' corruption? Lining their pockets with salt profits, they say...",
+  "status": "done"
  },
  {
   "id": "event_2180_00FA0",
@@ -851,8 +851,8 @@
    18999
   ],
   "jp": "なるほど。{n}しかし、役人の横暴には{n}困ったものですね…",
-  "en": "",
-  "status": ""
+  "en": "I see. The officials' high-handedness is such a trial...",
+  "status": "done"
  },
  {
   "id": "event_2180_00FD5",
@@ -864,8 +864,8 @@
    19006
   ],
   "jp": "…あなた方に、{n}これを差し上げましょう。",
-  "en": "",
-  "status": ""
+  "en": "...Let me give you this.",
+  "status": "done"
  },
  {
   "id": "event_2180_00FFD",
@@ -877,8 +877,8 @@
    19091
   ],
   "jp": "先代の神父から受け継いだ{n}不思議なクリスタルです。",
-  "en": "",
-  "status": ""
+  "en": "A mysterious crystal, handed down to me from the priest before me.",
+  "status": "done"
  },
  {
   "id": "event_2180_0102F",
@@ -890,8 +890,8 @@
    19098
   ],
   "jp": "…なに、礼には及びません。{n}私どもには戦う力がない…{n}せめて、戦える人に託すのみです。",
-  "en": "",
-  "status": ""
+  "en": "...Oh, no need to thank me. We have no power to fight... We can only entrust it to those who can.",
+  "status": "done"
  },
  {
   "id": "event_2180_01084",
@@ -903,8 +903,8 @@
    19322
   ],
   "jp": "おや、兵隊さんですか…{n}見たところ、正規軍や反乱軍とは{n}違うようですが…",
-  "en": "",
-  "status": ""
+  "en": "Oh, soldiers, are you... You look different from the regular army or the rebels...",
+  "status": "done"
  },
  {
   "id": "event_2180_010CB",
@@ -916,8 +916,8 @@
    19329
   ],
   "jp": "…役人の不正を正すために{n}出撃したのですか？{n}塩の営利で私腹を肥やす、と…",
-  "en": "",
-  "status": ""
+  "en": "...You have come to correct the officials' corruption? Lining their pockets with salt profits, they say...",
+  "status": "done"
  },
  {
   "id": "event_2180_01114",
@@ -929,8 +929,8 @@
    19336
   ],
   "jp": "なるほど。{n}しかし、役人の横暴には{n}困ったものですね…",
-  "en": "",
-  "status": ""
+  "en": "I see. The officials' high-handedness is such a trial...",
+  "status": "done"
  },
  {
   "id": "event_2180_01149",
@@ -942,8 +942,8 @@
    19343
   ],
   "jp": "…あなた方に、{n}これを差し上げましょう。",
-  "en": "",
-  "status": ""
+  "en": "...Let me give you this.",
+  "status": "done"
  },
  {
   "id": "event_2180_01171",
@@ -955,8 +955,8 @@
    19428
   ],
   "jp": "私が若い頃から使っている{n}アクセサリ状のロザリオです。",
-  "en": "",
-  "status": ""
+  "en": "This is a rosary, made like an accessory, that I have used since I was young.",
+  "status": "done"
  },
  {
   "id": "event_2180_011A7",
@@ -968,8 +968,8 @@
    19435
   ],
   "jp": "…礼には及びません。{n}ただ、あなた方に{n}希望を託したいのです。",
-  "en": "",
-  "status": ""
+  "en": "...No need to thank me. I merely wish to entrust my hope to you.",
+  "status": "done"
  },
  {
   "id": "event_2180_011E4",
@@ -983,8 +983,8 @@
    19122
   ],
   "jp": "力のない者は、力ある者に{n}希望を託すしかありません。{n}秩序を求めるしかありません。",
-  "en": "",
-  "status": ""
+  "en": "The powerless can only entrust their hope to the powerful. They can only seek order.",
+  "status": "done"
  },
  {
   "id": "event_2180_01235",
@@ -998,8 +998,8 @@
    19129
   ],
   "jp": "ですが、もし力ある者が{n}秩序を乱し始めたら、{n}我々はどうすればいいのですか？",
-  "en": "",
-  "status": ""
+  "en": "But if the powerful begin to disturb order, what should we do?",
+  "status": "done"
  },
  {
   "id": "event_2180_01280",
@@ -1013,8 +1013,8 @@
    19136
   ],
   "jp": "あるいは我々も{n}力を得るべきなのでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Or should we too gain power?",
+  "status": "done"
  },
  {
   "id": "event_2180_012AC",
@@ -1028,8 +1028,8 @@
    19143
   ],
   "jp": "…私には、わかりません。",
-  "en": "",
-  "status": ""
+  "en": "...I do not know.",
+  "status": "done"
  },
  {
   "id": "event_2180_012C5",
@@ -1041,8 +1041,8 @@
    17768
   ],
   "jp": "おや、滝じゃないの。{n}海にも滝はないからねぇ{n}壮観だわ。ヒック②",
-  "en": "",
-  "status": ""
+  "en": "Oh, a waterfall. Ain't no waterfalls in the sea, y'know. What a sight. *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2180_01304",
@@ -1054,8 +1054,8 @@
    17786
   ],
   "jp": "…ちょっと面白そうだわ。{n}遊んでいこう、っと。{n}ウィ～。",
-  "en": "",
-  "status": ""
+  "en": "...Looks like fun. Let's go play. Ooh~.",
+  "status": "done"
  },
  {
   "id": "event_2180_0133B",
@@ -1067,8 +1067,8 @@
    18219
   ],
   "jp": "うっほー、{n}水勢があって面白いわぁ！{n}うぃ～っ②",
-  "en": "",
-  "status": ""
+  "en": "Whee, the water's so strong, what fun! Ooh~!",
+  "status": "done"
  },
  {
   "id": "event_2180_0136A",
@@ -1080,8 +1080,8 @@
    18248
   ],
   "jp": "んん？　なんか光ったわね、今！{n}…水中のあっしからは{n}逃げ切られないわ！　それーっ②",
-  "en": "",
-  "status": ""
+  "en": "Hm? Somethin' just shined! ...Nothin' in the water gets away from me! There!",
+  "status": "done"
  },
  {
   "id": "event_2180_013BD",
@@ -1093,8 +1093,8 @@
    18764
   ],
   "jp": "金色のドゼウね。{n}……おいしくなさそう。{n}これじゃ鍋にもできないわ…",
-  "en": "",
-  "status": ""
+  "en": "A golden loach. ...Don't look tasty. Can't even make it into a hot pot...",
+  "status": "done"
  },
  {
   "id": "event_2180_014B6",
@@ -1117,8 +1117,8 @@
    5370
   ],
   "jp": "帝国軍",
-  "en": "",
-  "status": ""
+  "en": "Empire",
+  "status": "done"
  },
  {
   "id": "event_2180_015DB",
@@ -1153,8 +1153,8 @@
    38982
   ],
   "jp": "{voice:006D0C}おおっ、パンドラ！{n}助けに来てくれたのですね！",
-  "en": "",
-  "status": ""
+  "en": "Oh, Pandra! You've come to save me!",
+  "status": "done"
  },
  {
   "id": "event_2180_07C92",
@@ -1165,8 +1165,8 @@
    39003
   ],
   "jp": "{voice:006E0C}お前、まだ帳簿は持ってるんだな？",
-  "en": "",
-  "status": ""
+  "en": "You've still got the ledger, right?",
+  "status": "done"
  },
  {
   "id": "event_2180_07CB7",
@@ -1177,8 +1177,8 @@
    39021
   ],
   "jp": "{voice:006F0C}ええ、持っていますとも。{n}いいから早く！",
-  "en": "",
-  "status": ""
+  "en": "Yes, I have it, I assure you. Just hurry!",
+  "status": "done"
  },
  {
   "id": "event_2180_07CE3",
@@ -1189,8 +1189,8 @@
    39042
   ],
   "jp": "{voice:00700C}よしよし、じゃあ助けてやるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Good, good. Then I'll save you.",
+  "status": "done"
  },
  {
   "id": "event_2180_07D06",
@@ -1201,8 +1201,8 @@
    69562
   ],
   "jp": "{voice:00710C}お。お。ドンパチやってんなぁ。{n}商売のチャンスだな！",
-  "en": "",
-  "status": ""
+  "en": "Oh. Oh. There's a brawl going on. Business opportunity!",
+  "status": "done"
  },
  {
   "id": "event_2180_07D3E",
@@ -1213,8 +1213,8 @@
    69571
   ],
   "jp": "{voice:00720C}片方はパンドラの反乱軍で、{n}もう片方は…{n}お、グラムブレイズか②",
-  "en": "",
-  "status": ""
+  "en": "One side's Pandra's rebels, and the other's... Oh, Gram Blaze!",
+  "status": "done"
  },
  {
   "id": "event_2180_07D81",
@@ -1225,8 +1225,8 @@
    69592
   ],
   "jp": "{voice:00730C}よう、インザーギじゃねぇか！{n}いいところに来たな。",
-  "en": "",
-  "status": ""
+  "en": "Hey, it's Inzaghi! You came at a good time.",
+  "status": "done"
  },
  {
   "id": "event_2180_07DB7",
@@ -1237,8 +1237,8 @@
    69599
   ],
   "jp": "{voice:00740C}見ての通りチャンバラタイムだ。{n}なぁ助勢してくれよ、頼む！",
-  "en": "",
-  "status": ""
+  "en": "As you can see, it's sword-fight time. Hey, give us a hand, please!",
+  "status": "done"
  },
  {
   "id": "event_2180_07DF5",
@@ -1249,8 +1249,8 @@
    69620
   ],
   "jp": "{voice:00750C}いくら出す？",
-  "en": "",
-  "status": ""
+  "en": "How much'll you pay?",
+  "status": "done"
  },
  {
   "id": "event_2180_07E06",
@@ -1261,8 +1261,8 @@
    69641
   ],
   "jp": "{voice:00760C}…バカ野郎、戦闘中だぜ。{n}価格交渉やってる場合じゃ{n}ねえだろ②",
-  "en": "",
-  "status": ""
+  "en": "...You moron, this is the middle of a battle. It's no time to haggle!",
+  "status": "done"
  },
  {
   "id": "event_2180_07E47",
@@ -1273,8 +1273,8 @@
    69662
   ],
   "jp": "{voice:00770C}相手はグラムブレイズだろ？{n}願いましては～、{n}そうだな、金貨３０００枚だ。",
-  "en": "",
-  "status": ""
+  "en": "Against Gram Blaze, right? Let me tot it up... Three thousand gold coins.",
+  "status": "done"
  },
  {
   "id": "event_2180_07E94",
@@ -1285,8 +1285,8 @@
    69683
   ],
   "jp": "{voice:00780C}２０００枚にまけろ。",
-  "en": "",
-  "status": ""
+  "en": "Make it two thousand.",
+  "status": "done"
  },
  {
   "id": "event_2180_07EAD",
@@ -1297,8 +1297,8 @@
    69704
   ],
   "jp": "{voice:00790C}最近儲けてるって聞いたゼ。{n}後払いで２５００枚ならどうだ。",
-  "en": "",
-  "status": ""
+  "en": "Heard you've been raking it in lately. How about two thousand five hundred, payable later.",
+  "status": "done"
  },
  {
   "id": "event_2180_07EEB",
@@ -1309,8 +1309,8 @@
    69725
   ],
   "jp": "{voice:007A0C}チクショウ、足下見やがって…{n}分かったよ、２４００枚な。",
-  "en": "",
-  "status": ""
+  "en": "Damn it, you're taking advantage of me... Fine, two thousand four hundred.",
+  "status": "done"
  },
  {
   "id": "event_2180_07F27",
@@ -1321,8 +1321,8 @@
    69746
   ],
   "jp": "{voice:007B0C}ちっ、みみっちい奴だゼ。{n}まあいい、交渉成立だ。",
-  "en": "",
-  "status": ""
+  "en": "Tch, what a tightwad. Whatever, it's a deal.",
+  "status": "done"
  },
  {
   "id": "event_2180_07F5B",
@@ -1333,8 +1333,8 @@
    69794
   ],
   "jp": "{voice:007C0C}……やっぱりレオンを{n}連れて来た方がよかったな。",
-  "en": "",
-  "status": ""
+  "en": "...Should've brought Leon after all.",
+  "status": "done"
  },
  {
   "id": "event_2180_07F8F",
@@ -1343,8 +1343,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:007D0C}クソッ、なんてこった……",
-  "en": "",
-  "status": ""
+  "en": "Damn it, what the hell...",
+  "status": "done"
  },
  {
   "id": "event_2180_07FAC",
