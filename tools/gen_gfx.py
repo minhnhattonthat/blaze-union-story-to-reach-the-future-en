@@ -32,6 +32,11 @@ STYLES = {
     "panel": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="l"),
     "panel-c": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="c"),
     "panel-r": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="r"),
+    "panel-w": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=None, clear="bg", align="c"),
+    "panel-y": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 0), stroke=None, clear="bg", align="c"),
+    "paper": dict(font="SourceSans3-Bold.ttf", fill=(0, 0, 0), stroke=None, clear=(253, 252, 252, 255), align="c"),
+    "menu-r": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="r"),
+    "note": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="l", wrap=True, max=15),
     # text over art: "art" with EN "-" smears the art over the Japanese box, then "over" draws in a box of its own
     "art": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear="inpaint", align="l"),
     "mirror": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(2, (16, 16, 32)), clear="mirror", align="l"),
@@ -169,6 +174,8 @@ def draw(img, box, style, en, s=1.0):
         dark = tuple(sum(p[i] for p in ink) // len(ink) for i in range(3))
         fills = [dark] * h
         img.paste(Image.new("RGBA", (w, h), bgc), (x, y))
+    elif isinstance(st["clear"], tuple):
+        img.paste(Image.new("RGBA", (w, h), st["clear"]), (x, y))
     elif st["clear"] == "inpaint":
         inpaint(img, box)
     elif st["clear"] == "pill":

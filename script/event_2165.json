@@ -2034,7 +2034,7 @@
    15441
   ],
   "jp": "喰らえ！　『マントラップ』②",
-  "en": "Take this! \"Man Trap\"!",
+  "en": "Take this! \"Mantrap\"!",
   "status": "done"
  },
  {
@@ -2073,7 +2073,7 @@
    15511
   ],
   "jp": "毒沼にいない相手に{n}『マントラップ』を使っても{n}威力は小さい…",
-  "en": "Use \"Man Trap\" on someone not in a poison swamp, and it has little power...",
+  "en": "Use \"Mantrap\" on someone not in a poison swamp, and it has little power...",
   "status": "done"
  },
  {
@@ -2151,7 +2151,7 @@
    15667
   ],
   "jp": "『マントラップ』の場合、{n}毒沼にいる敵には非常に強力だ。",
-  "en": "In the case of \"Man Trap,\" it's extremely strong against enemies in a poison swamp.",
+  "en": "In the case of \"Mantrap,\" it's extremely strong against enemies in a poison swamp.",
   "status": "done"
  },
  {

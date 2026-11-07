@@ -82,9 +82,24 @@ the original ISO without `--iso`); the rest in preview. Card list 1771@36ad0 (39
 styles `panel` and `panel-r`): English from the EBOOT card table at 0x2799D8 and the card poems' credits (0x261F3C..);
 Rebellion's 天使長フラウヴェル has no poem record, romanised "Frauvel the Archangel". Preview only: the screen that shows
 it isn't known.
-Still Japanese: the prep screen's vertical location under the vertical title
-(`ティエラ・ネザー地区中央`: in no chapter file and no text record; not located), and the rest of the survey table below
-from trait lines on.
+Done 2026-11-07 (sixth and seventh sessions): trait lines 3@14d300-1779a0 and the 2700 copy, skill use conditions 3@3a1370-3aa270,
+equip limits 2687 and 2700, unit and team names 3@177e70-19c940, the card screens 2683 (`@25b30`, `@32f30`, `@4c700`, `@551c0`,
+`@5e860`, `@5f310`), 2684 (`@f0`, `@2c10`, `@3710`, `@e4b0`, `@1cc20`, `@23da0`, `@37b60`), 2687 `@260`, `@5ea0`, MEMO sheet
+2642@c0 (the card screen's line that no record held; ★ can't be drawn, so its two rows keep the Japanese star), card owners
+2642@d940, encyclopedia copies 2703@140bf0, `@164b50`, `@16ffb0`, `@17b410`, whole trait sheet 3@335440 (484x481), skill names
+3@389080, 3@104960, 1824@b2e0 and the 38 single sprites 3@3aa5a0-3b2990, the prep location list **3@10f380** (370x198, 42 rows of
+9 px: this is the "not located" vertical location), damage popups 3@53b260-54c420, prompts 3@3d8800, 3@4c5430 (`ここまでの戦いの
+記録をセーブしますか?`, `次のマップに進む`: the save prompt no record held), 3@4ca450, option text 4@5e190, 4@67540, reward count
+2689@20, scenario list 2690@30, difficulty 2690@13a50, extras menu 2700@90ff0, `@9c090`, `@b11b0`, `@b2620`, `@db3f0`, and 2701's
+Emilio, Thortie, Rapis, Ordean redrawn to the glossary's names. Preview only unless a scene says otherwise.
+Card names now follow the card art 2642@19030+ (D2): Rauher, Vise, Revellion, Mantrap, Thunder Bolt, Sand Storm, Rock Fall.
+Row helpers: `tools/debug/gfx_grid.py` (list sheets, English from gfx.tsv or the script), `gfx_view.py` (sheet with ruler, `--built`
+shows the English; the ruler's y 0 is the top of the sprite, 26 px below its label), `gfx_inkrows.py` (tighten rows to the ink,
+needed in packed groups), `gfx_redo.py` (replace a label's rows), `near.py` (script records around a string). Sweep sizes in
+`index.tsv` are half the real size for many sheets: read `sprite.image(label).size`.
+Still Japanese: credits 2112, tutorial 2140, chronicle titles 2700@1129d0-128650, name list 2700@bb050, Sound Mode tracks 2702,
+skill card captions 216-295, reward prompts 2683@67cb0, 2687@bc60, 2683's other bars, 3@ff7e0, lists 1522@6e170 and the small
+rows of 2137-2140, `PIC1.PNG`, title ruby. Seen in game 2026-11-07 and still Japanese, sheets not found yet: Card Select's `選択可能 N / 5 枚` and `:カードデータ`, Character Select's `出撃可能 N / N 人`, the unit name on the equip bar (`ガーロット`), class tag on the equip bar. Check each against the survey table below.
 
 ## Survey (static sweep complete; the in-game tour in phases 5 and 8 adds to it)
 
