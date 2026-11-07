@@ -3344,8 +3344,8 @@
    }
   ],
   "jp": "読んで字の如く、飲んだくれた男が住むほったて小屋",
-  "en": "",
-  "status": ""
+  "en": "Just what it says on the sign: a shack where a drunk lives",
+  "status": "done"
  },
  {
   "id": "eboot_28510B",
@@ -3358,8 +3358,8 @@
    }
   ],
   "jp": "魔術師の家",
-  "en": "",
-  "status": ""
+  "en": "Mage's House",
+  "status": "done"
  },
  {
   "id": "eboot_285116",
@@ -3372,8 +3372,8 @@
    }
   ],
   "jp": "魔術の研鑚を重ねる魔術師がひとりで暮らす一軒屋",
-  "en": "",
-  "status": ""
+  "en": "A lone house where a mage hones the magic arts alone",
+  "status": "done"
  },
  {
   "id": "eboot_285145",
@@ -3386,8 +3386,8 @@
    }
   ],
   "jp": "北の区画",
-  "en": "",
-  "status": ""
+  "en": "Northern Block",
+  "status": "done"
  },
  {
   "id": "eboot_28514E",
@@ -3400,8 +3400,8 @@
    }
   ],
   "jp": "避難民が集まる区画。一刻も早く救出しよう！",
-  "en": "",
-  "status": ""
+  "en": "A block full of refugees. Rescue them as soon as you can!",
+  "status": "done"
  },
  {
   "id": "eboot_285179",
@@ -3428,8 +3428,8 @@
    }
   ],
   "jp": "ネザー地区では珍しい商人が営業する小さなお店",
-  "en": "",
-  "status": ""
+  "en": "A small shop in the Nether District, run by a rare breed of merchant",
+  "status": "done"
  },
  {
   "id": "eboot_2851B5",
@@ -3456,8 +3456,8 @@
    }
   ],
   "jp": "流れの魔導師が住まう一軒屋。アイテムの知識が豊富",
-  "en": "",
-  "status": ""
+  "en": "Home of a wandering sorcerer who knows all about items",
+  "status": "done"
  },
  {
   "id": "eboot_2851F3",
@@ -3554,8 +3554,8 @@
    }
   ],
   "jp": "大要塞パンドラ",
-  "en": "",
-  "status": ""
+  "en": "Great Fortress Pandra",
+  "status": "done"
  },
  {
   "id": "eboot_2852BE",
@@ -3568,8 +3568,8 @@
    }
   ],
   "jp": "反乱軍大将の名を冠した砦。心なしかバージョンアップ",
-  "en": "",
-  "status": ""
+  "en": "A fort named for the rebel general. Somehow feels upgraded",
+  "status": "done"
  },
  {
   "id": "eboot_2852F1",
@@ -3582,8 +3582,8 @@
    }
   ],
   "jp": "ヴェルマン邸",
-  "en": "",
-  "status": ""
+  "en": "Velleman Manor",
+  "status": "done"
  },
  {
   "id": "eboot_2852FE",
@@ -3596,8 +3596,8 @@
    }
   ],
   "jp": "暗殺者がこの地点に侵入すれば敗北…必ず阻止しよう！",
-  "en": "",
-  "status": ""
+  "en": "You lose if an assassin reaches this spot... Stop them at all costs!",
+  "status": "done"
  },
  {
   "id": "eboot_285331",
@@ -3610,8 +3610,8 @@
    }
   ],
   "jp": "ヴェルマン邸",
-  "en": "",
-  "status": ""
+  "en": "Velleman Manor",
+  "status": "done"
  },
  {
   "id": "eboot_28533E",
@@ -3624,8 +3624,8 @@
    }
   ],
   "jp": "暗殺者がこの地点に侵入すれば敗北…必ず阻止しよう！",
-  "en": "",
-  "status": ""
+  "en": "You lose if an assassin reaches this spot... Stop them at all costs!",
+  "status": "done"
  },
  {
   "id": "eboot_285371",
@@ -3638,8 +3638,8 @@
    }
   ],
   "jp": "ヴェルマン邸",
-  "en": "",
-  "status": ""
+  "en": "Velleman Manor",
+  "status": "done"
  },
  {
   "id": "eboot_28537E",
@@ -3652,8 +3652,8 @@
    }
   ],
   "jp": "暗殺者がこの地点に侵入すれば敗北…必ず阻止しよう！",
-  "en": "",
-  "status": ""
+  "en": "You lose if an assassin reaches this spot... Stop them at all costs!",
+  "status": "done"
  },
  {
   "id": "eboot_2853B1",
@@ -3694,8 +3694,8 @@
    }
   ],
   "jp": "東仮設街区",
-  "en": "",
-  "status": ""
+  "en": "East Temporary Quarter",
+  "status": "done"
  },
  {
   "id": "eboot_2853FC",
@@ -3708,8 +3708,8 @@
    }
   ],
   "jp": "焼け落ちたネザー地区住民に提供された仮設街区",
-  "en": "",
-  "status": ""
+  "en": "Temporary housing for the burned-out Nether District residents",
+  "status": "done"
  },
  {
   "id": "eboot_285429",
@@ -3722,8 +3722,8 @@
    }
   ],
   "jp": "西仮設街区",
-  "en": "",
-  "status": ""
+  "en": "West Temporary Quarter",
+  "status": "done"
  },
  {
   "id": "eboot_285434",
@@ -3736,8 +3736,8 @@
    }
   ],
   "jp": "焼け落ちたネザー地区住民に提供された仮設街区",
-  "en": "",
-  "status": ""
+  "en": "Temporary housing for the burned-out Nether District residents",
+  "status": "done"
  },
  {
   "id": "eboot_285461",
@@ -3750,8 +3750,8 @@
    }
   ],
   "jp": "ノーセイユ区",
-  "en": "",
-  "status": ""
+  "en": "Norseille Ward",
+  "status": "done"
  },
  {
   "id": "eboot_28546E",
@@ -3764,8 +3764,8 @@
    }
   ],
   "jp": "居住区が集中する帝都の一区画",
-  "en": "",
-  "status": ""
+  "en": "A ward of the Imperial capital full of residences",
+  "status": "done"
  },
  {
   "id": "eboot_28548B",
@@ -3778,8 +3778,8 @@
    }
   ],
   "jp": "南ヴェルク街",
-  "en": "",
-  "status": ""
+  "en": "South Verk Street",
+  "status": "done"
  },
  {
   "id": "eboot_285498",
@@ -3792,8 +3792,8 @@
    }
   ],
   "jp": "帝都フレアヴェルク主要街の１つ。豪商達が邸宅を構える",
-  "en": "",
-  "status": ""
+  "en": "A main street of Flarewerk. Wealthy merchants have mansions here",
+  "status": "done"
  },
  {
   "id": "eboot_2854CD",
@@ -3806,8 +3806,8 @@
    }
   ],
   "jp": "北ヴェルク街",
-  "en": "",
-  "status": ""
+  "en": "North Verk Street",
+  "status": "done"
  },
  {
   "id": "eboot_2854DA",
@@ -3820,8 +3820,8 @@
    }
   ],
   "jp": "帝都フレアヴェルク主要街の１つ。巨大な武器工房がある",
-  "en": "",
-  "status": ""
+  "en": "A main street of Flarewerk. Home to a huge weapons workshop",
+  "status": "done"
  },
  {
   "id": "eboot_28550F",
@@ -3834,8 +3834,8 @@
    }
   ],
   "jp": "アッサム通り",
-  "en": "",
-  "status": ""
+  "en": "Assam Avenue",
+  "status": "done"
  },
  {
   "id": "eboot_28551C",
@@ -3848,8 +3848,8 @@
    }
   ],
   "jp": "主要街外れのショップが立ち並ぶ通り",
-  "en": "",
-  "status": ""
+  "en": "A row of shops on the edge of the main street",
+  "status": "done"
  },
  {
   "id": "eboot_28553F",
@@ -3862,8 +3862,8 @@
    }
   ],
   "jp": "寒村エラク",
-  "en": "",
-  "status": ""
+  "en": "Erak, a Poor Village",
+  "status": "done"
  },
  {
   "id": "eboot_28554A",
@@ -3876,8 +3876,8 @@
    }
   ],
   "jp": "王国と帝国の国境にある小さな村",
-  "en": "",
-  "status": ""
+  "en": "A small village on the border of the Kingdom and the Empire",
+  "status": "done"
  },
  {
   "id": "eboot_285569",
@@ -3904,8 +3904,8 @@
    }
   ],
   "jp": "『星屑の錬金術師』が住むという簡素な屋敷",
-  "en": "",
-  "status": ""
+  "en": "Modest mansion said to house the 'Stardust Alchemist'",
+  "status": "done"
  },
  {
   "id": "eboot_2855A1",
@@ -3918,8 +3918,8 @@
    }
   ],
   "jp": "王都の大砲",
-  "en": "",
-  "status": ""
+  "en": "Royal Capital Cannon",
+  "status": "done"
  },
  {
   "id": "eboot_2855AC",
@@ -3932,8 +3932,8 @@
    }
   ],
   "jp": "城壁の上の大砲。ユーディ曰く『結構な上物』らしい",
-  "en": "",
-  "status": ""
+  "en": "A cannon on the ramparts. Eudy calls it 'pretty high-grade'",
+  "status": "done"
  },
  {
   "id": "eboot_2855DD",
@@ -3946,8 +3946,8 @@
    }
   ],
   "jp": "妖精の集会場",
-  "en": "",
-  "status": ""
+  "en": "Fairy Gathering Place",
+  "status": "done"
  },
  {
   "id": "eboot_2855EA",
@@ -3960,8 +3960,8 @@
    }
   ],
   "jp": "岩山に住む妖精の集会場。運がよければ遭遇できる？",
-  "en": "",
-  "status": ""
+  "en": "Where the mountain fairies meet. Might you run into one?",
+  "status": "done"
  },
  {
   "id": "eboot_28561B",
@@ -3974,8 +3974,8 @@
    }
   ],
   "jp": "イシュナート城",
-  "en": "",
-  "status": ""
+  "en": "Ishnart Castle",
+  "status": "done"
  },
  {
   "id": "eboot_28562A",
@@ -3988,8 +3988,8 @@
    }
   ],
   "jp": "堅牢を誇るイシュナート要塞の本城",
-  "en": "",
-  "status": ""
+  "en": "Main castle of the impregnable Ishnart Fortress",
+  "status": "done"
  },
  {
   "id": "eboot_28564B",
@@ -4002,8 +4002,8 @@
    }
   ],
   "jp": "要塞内溝渠",
-  "en": "",
-  "status": ""
+  "en": "Fortress Canal",
+  "status": "done"
  },
  {
   "id": "eboot_285656",
@@ -4016,8 +4016,8 @@
    }
   ],
   "jp": "この水路にジェノンが転落したはずだが……",
-  "en": "",
-  "status": ""
+  "en": "Jenon should have fallen into this waterway, but...",
+  "status": "done"
  },
  {
   "id": "eboot_28567F",
@@ -4030,8 +4030,8 @@
    }
   ],
   "jp": "メーテ武器工房",
-  "en": "",
-  "status": ""
+  "en": "Mete Weapons Workshop",
+  "status": "done"
  },
  {
   "id": "eboot_28568E",
@@ -4044,8 +4044,8 @@
    }
   ],
   "jp": "伝説の素材『オリハルコン』を捜し求める鍛冶屋が営む工房",
-  "en": "",
-  "status": ""
+  "en": "Run by a smith on a quest for the legendary 'Orichalcum'",
+  "status": "done"
  },
  {
   "id": "eboot_2859F4",
@@ -4367,8 +4367,8 @@
    }
   ],
   "jp": "ミスティックウィッチ",
-  "en": "",
-  "status": ""
+  "en": "Mystic Witch",
+  "status": "done"
  },
  {
   "id": "eboot_28ABC0",
@@ -4423,8 +4423,8 @@
    }
   ],
   "jp": "アサルト",
-  "en": "",
-  "status": ""
+  "en": "Assault",
+  "status": "done"
  },
  {
   "id": "eboot_28ABF0",
@@ -4457,8 +4457,8 @@
    }
   ],
   "jp": "キディ・ブロンガ",
-  "en": "",
-  "status": ""
+  "en": "Kiddy Brongaa",
+  "status": "done"
  },
  {
   "id": "eboot_28AC12",
@@ -4471,8 +4471,8 @@
    }
   ],
   "jp": "ジ・エインシャント",
-  "en": "",
-  "status": ""
+  "en": "The Ancient",
+  "status": "done"
  },
  {
   "id": "eboot_28AC25",
@@ -4485,8 +4485,8 @@
    }
   ],
   "jp": "エンペラー",
-  "en": "",
-  "status": ""
+  "en": "Emperor",
+  "status": "done"
  },
  {
   "id": "eboot_28AC30",
@@ -4502,8 +4502,8 @@
    }
   ],
   "jp": "ドラゴンナイト",
-  "en": "",
-  "status": ""
+  "en": "Dragon Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28AC3F",
@@ -4519,8 +4519,8 @@
    }
   ],
   "jp": "プラウラー",
-  "en": "",
-  "status": ""
+  "en": "Prowler",
+  "status": "done"
  },
  {
   "id": "eboot_28AC4A",
@@ -4536,8 +4536,8 @@
    }
   ],
   "jp": "ガーディアンナイト",
-  "en": "",
-  "status": ""
+  "en": "Guardian Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28AC5D",
@@ -4556,8 +4556,8 @@
    }
   ],
   "jp": "キング",
-  "en": "",
-  "status": ""
+  "en": "King",
+  "status": "done"
  },
  {
   "id": "eboot_28AC64",
@@ -4570,8 +4570,8 @@
    }
   ],
   "jp": "ノーブル",
-  "en": "",
-  "status": ""
+  "en": "Noble",
+  "status": "done"
  },
  {
   "id": "eboot_28AC6D",
@@ -4584,8 +4584,8 @@
    }
   ],
   "jp": "ブロンガナイト",
-  "en": "",
-  "status": ""
+  "en": "Brongaa Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28AC7C",
@@ -4598,8 +4598,8 @@
    }
   ],
   "jp": "ラビッドナイト",
-  "en": "",
-  "status": ""
+  "en": "Rabid Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28AC8B",
@@ -4612,8 +4612,8 @@
    }
   ],
   "jp": "リヴォルタ",
-  "en": "",
-  "status": ""
+  "en": "Rivolta",
+  "status": "done"
  },
  {
   "id": "eboot_28AC96",
@@ -4766,8 +4766,8 @@
    }
   ],
   "jp": "カタパルト",
-  "en": "",
-  "status": ""
+  "en": "Catapult",
+  "status": "done"
  },
  {
   "id": "eboot_28AD04",
@@ -5243,8 +5243,8 @@
    }
   ],
   "jp": "ミスティックウィッチ",
-  "en": "",
-  "status": ""
+  "en": "Mystic Witch",
+  "status": "done"
  },
  {
   "id": "eboot_28BC27",
@@ -5302,8 +5302,8 @@
    }
   ],
   "jp": "ジ・エインシャント",
-  "en": "",
-  "status": ""
+  "en": "The Ancient",
+  "status": "done"
  },
  {
   "id": "eboot_28BC61",
@@ -5316,8 +5316,8 @@
    }
   ],
   "jp": "ドラゴンナイト",
-  "en": "",
-  "status": ""
+  "en": "Dragon Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28BC70",
@@ -5333,8 +5333,8 @@
    }
   ],
   "jp": "プラウラー",
-  "en": "",
-  "status": ""
+  "en": "Prowler",
+  "status": "done"
  },
  {
   "id": "eboot_28BC7B",
@@ -5350,8 +5350,8 @@
    }
   ],
   "jp": "ガーディアンナイト",
-  "en": "",
-  "status": ""
+  "en": "Guardian Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28BC8E",
@@ -5364,8 +5364,8 @@
    }
   ],
   "jp": "ブロンガナイト",
-  "en": "",
-  "status": ""
+  "en": "Brongaa Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28C8E8",

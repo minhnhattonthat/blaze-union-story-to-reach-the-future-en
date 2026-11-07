@@ -758,8 +758,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...",
+  "status": "auto"
  },
  {
   "id": "event_2154_00C6D",
@@ -796,8 +796,8 @@
    3305
   ],
   "jp": "ブレイズ義賊団",
-  "en": "",
-  "status": ""
+  "en": "Blaze Corps",
+  "status": "done"
  },
  {
   "id": "event_2154_00D4F",
@@ -820,8 +820,8 @@
    3618
   ],
   "jp": "セリカ遊撃隊",
-  "en": "",
-  "status": ""
+  "en": "Cerica Troop",
+  "status": "done"
  },
  {
   "id": "event_2154_02E98",
@@ -1168,8 +1168,8 @@
    19670
   ],
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...",
+  "status": "auto"
  },
  {
   "id": "event_2154_03494",

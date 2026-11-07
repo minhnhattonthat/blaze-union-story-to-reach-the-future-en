@@ -1,29 +1,102 @@
 # Glossary - Blaze Union: Story to Reach the Future
 
-Binding for every translator and reviewer. Agents propose additions in reports; only the controller edits this file.
+Binding for every translator and reviewer. Agents propose additions in reports; only the controller edits this file. The lint (`tools/batches.py`) fails a line whose JP has a term here and whose English lacks it, so a row must be a form that always appears.
 
 ## Rulings (asked of the user once; options and reasons in docs/decisions.md)
-- Honorifics: kept, hyphenated (Johannes-san). Name order: Western (given name first).
-- Romanisation source: official English names where they exist (Yggdra Union, Atlus USA), else an earlier fan patch, else Hepburn without macrons.
+- Honorifics: kept, hyphenated (Garlot-san, Pamela-sama). Name order: Western (given name first).
+- Romanisation source: official English names where they exist (Yggdra Union, Atlus USA), else English sources for the game (Wikipedia, artbook), else Hepburn without macrons. No earlier patch exists.
 - Credits: English.
-- Register / flavour: <decide at phase 6>. Sound effects: <decide at phase 6>.
+- Register: modern, plain fantasy English with each speaker's voice carried by devices, see docs/style-reference.md. Contractions are normal except for formal speakers.
+- Sound effects and verbal tics: written out inline, `*hic*`, `Heh heh heh...`, not bracketed notes.
 - Abbreviations: full names and terms everywhere, prefer engine changes over shortening.
 
 ## Style rules
-- Punctuation map: 「」 -> "...", 『』 -> '...', ・・・ -> ..., ！？ -> !?, <more>.
-- <voice notes per character, or point to docs/style-reference.md>
+- Punctuation: 「」 -> "...", 『』 -> '...', …… -> ..., ！？ -> !?, ～ -> ~, ― -> --. 【】 -> [ ] in help text, or drop them on titles.
+- ② and ③ are the game's emphasis marks: ② = !!, ③ = !? or ?!. Use one ! where !! reads shouty in English; ③ keeps its surprise.
+- Full-width digits and Latin become ASCII. ♪ ☆ ★ ■ □ ○ ● ◎ are in the font and stay. No other non-ASCII.
+- Keep `{sub:..}`, `{sub16:..}`, `%s`, `%d` exactly. No suffix after a variable. No a/an before one.
+- {n} only where a break must fall (poems, verse, lists). Everything else is word-wrapped by the tool to the window.
 
 ## Characters
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
+| ガーロット | Garlot | | leader of Gram Blaze; 団長 "Captain" | Galot |
+| ガルカーサ | Gulcasa | | Garlot's true name; official | |
+| シスキア | Siskier | | | Siscia / Shiskia |
+| ジェノン | Jenon | | | |
+| メデューテ | Medoute | | | Medute |
+| エミリオ | Emilia | | official, Eimi's true name | Emilio |
+| エイミ | Eimi | | | Amy |
+| アイギナ | Aegina | | official | |
+| ルシエナ | Luciana | | official | |
+| ユーディ | Eudy | | official | |
+| レオン | Leon | | official | |
+| バルドゥス | Baldus | | official | |
+| ヴェルマン | Velleman | | margrave (方伯) | Berman |
+| ソルティエ | Soltier | | the emperor | |
+| ネシア | Nessiah | | official | |
+| ベアトリーヌ | Baretreenu | | | Beatrine |
+| ジルヴァ | Zilva | | official | |
+| パンドラ | Pandra | | | Pandora |
+| ミゼル | Mizer | | official; はだしのミゼル "Barefoot Mizer" | Mizel |
+| インザーギ | Inzaghi | | official | |
+| ノルン | Norn | | | |
+| デイヴィド | David | | | |
+| パメラ | Pamela | | official; パメラサマ "Pamela-sama" | |
+| バイフー | Byff | | | Baifu / Bifu |
+| イータ | Eater | | | Eta |
+| ラッセル | Russell | | official | |
+| オルディーン | Ordene | | King of Fantasinia | |
+| アランゼーム | Alanjame | | | |
+| ラピス | Lapis | | | |
+| セリカ | Cerica | | | Celica / Serica |
+| スレイプ | Sleip | | | |
+| ユグドラ | Yggdra | | official | |
+| エレナ | Elena | | official | |
+| ブロンガ | Brongaa | | the demon god; キディ・ブロンガ Kiddy Brongaa | Bronga |
+| アルベルト | Albelt | | marquis | Albert |
+| バリン | Balin | | duke | |
 
 ## Places
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
+| ブロンキア | Bronquia | | official | Bronchia |
+| ファンタジニア | Fantasinia | | official | |
+| ティエラ | Tiera | | | Tierra |
+| フレアヴェルク | Flarewerk | | capital, official | |
+| カローナ | Karona | | official | |
+| ロスト・アリエス | Lost Aries | | | |
+| カタル・ブリッジ | Catal Bridge | | | |
+| トキノ | Tokino | | mountain | |
+| イシュナート | Ishnart | | fortress | |
+| ケルヌガ | Kernuga | | | |
+| シャーミネル | Sharminel | | | |
+| ニーベル | Nibel | | ニーベル街区 Nibel Quarter | |
+| ネザー | Nether | | ネザー地区 Nether District | |
+| イーザー | Ether | | イーザー渓谷 Ether Gorge | |
+| エリス | Eris | | エリス居住区 Eris Residential Quarter | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
+| グラムブレイズ | Gram Blaze | | the army | |
+| ブレイズ義賊団 | Blaze Justice Corps / Blaze Corps | | earlier name; Blaze Corps only in 14-byte unit names | |
+| 神生教団 | Blessed Papal Army | | | |
+| タクティクスカード | Tactics Card | | | |
+| スキルゲージ | Skill Gauge | | | |
+| ユニオンリーダー | Union Leader | | | |
+| グラン・センチュリオ | Gran Centurio | | official | |
+| ショップマキナ | Shop Machina | | Machina is official | |
+| エースタイプ | Ace Type | | | |
+| ジェノサイド | Genocide | | battle mode | |
+| グリフライダー | Griffon Rider | | unit class | |
+| リップフェイク | Rip Fake | | | |
+| マナストーン | Mana Stone | | | |
+| オリハルコン | Orichalcum | | | |
+| スウィートベリー | Sweet Berry | | | |
+| アイテムブレイク | Item Break | | | |
 
 ## Decisions from earlier batches
-- <batch> <JP> -> <EN> (reason)
+- 団長 -> "Captain" (allies addressing Garlot); ダンチョー (Byff's and rough speakers' spelling) also "Captain".
+- 方伯 -> "Margrave". 帝国 -> "the Empire", 王国 -> "the Kingdom".
+- ヒック -> *hic*. フフフ -> "Heh heh heh" (Nessiah: "Hehehe..."). ケーッケッケッケ -> "Keh-keh-keh-keh!"

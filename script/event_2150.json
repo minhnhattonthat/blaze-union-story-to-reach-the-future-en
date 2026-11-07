@@ -8,8 +8,8 @@
    4801
   ],
   "jp": "{voice:005000}悪い奴ほど逃げ足が速いって{n}言うけど、本当の話ね。{n}ノルンを見失っちゃったわ。",
-  "en": "",
-  "status": ""
+  "en": "They say the worst crooks run the fastest, and it's true. We've lost Norn.",
+  "status": "done"
  },
  {
   "id": "event_2150_00079",
@@ -20,8 +20,8 @@
    4822
   ],
   "jp": "{voice:005100}ン？{n}待てシスキア、感じるか？",
-  "en": "",
-  "status": ""
+  "en": "Hm? Wait, Siskier. You feel that?",
+  "status": "done"
  },
  {
   "id": "event_2150_0009B",
@@ -32,8 +32,8 @@
    4843
   ],
   "jp": "{voice:005200}後ろからの気配でしょ？{n}え？　今頃気付いたの？",
-  "en": "",
-  "status": ""
+  "en": "The presence behind us, right? Huh? You only just noticed?",
+  "status": "done"
  },
  {
   "id": "event_2150_000CD",
@@ -44,8 +44,8 @@
    4861
   ],
   "jp": "{voice:005300}……殺気を感じなかったからだ。{n}随分前から、気付いてはいた。",
-  "en": "",
-  "status": ""
+  "en": "...I didn't sense any killing intent. I noticed a while back.",
+  "status": "done"
  },
  {
   "id": "event_2150_0010D",
@@ -56,8 +56,8 @@
    4879
   ],
   "jp": "{voice:005400}また、もう！",
-  "en": "",
-  "status": ""
+  "en": "Oh, you!",
+  "status": "done"
  },
  {
   "id": "event_2150_0011E",
@@ -68,8 +68,8 @@
    4897
   ],
   "jp": "{voice:005500}おい、俺達を付けているヤツ、{n}いい加減に出てこい！",
-  "en": "",
-  "status": ""
+  "en": "Hey, you tailing us! Quit it and come out already!",
+  "status": "done"
  },
  {
   "id": "event_2150_00154",
@@ -80,8 +80,8 @@
    4907
   ],
   "jp": "{voice:005600}それとも、{n}名乗る前に殺されたいか？",
-  "en": "",
-  "status": ""
+  "en": "Or would you rather die before you give a name?",
+  "status": "done"
  },
  {
   "id": "event_2150_0017C",
@@ -92,8 +92,8 @@
    5000
   ],
   "jp": "{voice:005700}まって、殺さないで！",
-  "en": "",
-  "status": ""
+  "en": "Wait, don't kill me!",
+  "status": "done"
  },
  {
   "id": "event_2150_00195",
@@ -104,8 +104,8 @@
    5134
   ],
   "jp": "{voice:005800}ボクはね、{n}助けて貰ったお礼を{n}言いたかっただけなの…",
-  "en": "",
-  "status": ""
+  "en": "Y'see, I... I just wanted to say thank you for saving me...",
+  "status": "done"
  },
  {
   "id": "event_2150_001CE",
@@ -116,8 +116,8 @@
    5155
   ],
   "jp": "{voice:005900}あら、あなたはさっきの{n}お嬢ちゃんじゃない。",
-  "en": "",
-  "status": ""
+  "en": "Oh, you're that little girl from before.",
+  "status": "done"
  },
  {
   "id": "event_2150_001FE",
@@ -128,8 +128,8 @@
    5173
   ],
   "jp": "{voice:005A00}お嬢ちゃんじゃないよ、{n}ボクは、エイミって言うんだ。",
-  "en": "",
-  "status": ""
+  "en": "I'm not a little girl! Y'see, my name is Eimi.",
+  "status": "done"
  },
  {
   "id": "event_2150_00236",
@@ -140,8 +140,8 @@
    5191
   ],
   "jp": "{voice:005B00}そう、じゃあエイミちゃん、{n}まだ近くには悪い人がいるから{n}早くお家に戻ってなさい。",
-  "en": "",
-  "status": ""
+  "en": "All right then, Eimi-chan. There are still bad people around, so hurry on home.",
+  "status": "done"
  },
  {
   "id": "event_2150_0028B",
@@ -152,8 +152,8 @@
    5209
   ],
   "jp": "{voice:005C00}ボクにはね、お家はないの。{n}だからもどる場所はないの。",
-  "en": "",
-  "status": ""
+  "en": "Y'see, I don't have a home. So there's no place to go back to.",
+  "status": "done"
  },
  {
   "id": "event_2150_002C5",
@@ -164,8 +164,8 @@
    5227
   ],
   "jp": "{voice:005D00}さっきいたおじさんは、{n}お父さんじゃないの？",
-  "en": "",
-  "status": ""
+  "en": "That man from earlier, isn't he your father?",
+  "status": "done"
  },
  {
   "id": "event_2150_002F5",
@@ -176,8 +176,8 @@
    5245
   ],
   "jp": "{voice:005E00}あれはちがうの、{n}旅芸人のおじさん。",
-  "en": "",
-  "status": ""
+  "en": "No, he isn't. He's a traveling performer.",
+  "status": "done"
  },
  {
   "id": "event_2150_0031D",
@@ -188,8 +188,8 @@
    5263
   ],
   "jp": "{voice:005F00}ボクはね、お兄様を探して{n}旅をしているのよ。",
-  "en": "",
-  "status": ""
+  "en": "Y'see, I'm traveling around looking for my big brother.",
+  "status": "done"
  },
  {
   "id": "event_2150_0034D",
@@ -200,8 +200,8 @@
    5281
   ],
   "jp": "{voice:006000}おい、チビ！{n}建物の陰に隠れるんだ、今すぐ！",
-  "en": "",
-  "status": ""
+  "en": "Hey, shrimp! Get behind that building, now!",
+  "status": "done"
  },
  {
   "id": "event_2150_0037D",
@@ -212,8 +212,8 @@
    5302
   ],
   "jp": "{voice:006100}え？　え？{n}チビってボクのこと？",
-  "en": "",
-  "status": ""
+  "en": "Huh? Huh? \"Shrimp\"? You mean me?",
+  "status": "done"
  },
  {
   "id": "event_2150_003A1",
@@ -224,8 +224,8 @@
    5631
   ],
   "jp": "{voice:006200}軽装の荒い足音が複数。{n}ノルンの私兵達だ。",
-  "en": "",
-  "status": ""
+  "en": "Light armor, heavy footsteps, a bunch of them. Norn's private soldiers.",
+  "status": "done"
  },
  {
   "id": "event_2150_003CF",
@@ -236,8 +236,8 @@
    5649
   ],
   "jp": "{voice:006300}時間稼ぎのつもりかしら……",
-  "en": "",
-  "status": ""
+  "en": "Trying to buy time, I suppose...",
+  "status": "done"
  },
  {
   "id": "event_2150_003EE",
@@ -248,8 +248,8 @@
    5656
   ],
   "jp": "{voice:006400}でも、今さら足止めってさ、{n}何かの罠じゃないよね？",
-  "en": "",
-  "status": ""
+  "en": "But holding us up now, of all times? It's not some kind of trap, is it?",
+  "status": "done"
  },
  {
   "id": "event_2150_00424",
@@ -260,8 +260,8 @@
    5677
   ],
   "jp": "{voice:006500}さあな…、{n}とにかく突破するのみだ。",
-  "en": "",
-  "status": ""
+  "en": "Who knows... We just break through, that's all.",
+  "status": "done"
  },
  {
   "id": "event_2150_0044C",
@@ -272,8 +272,8 @@
    5854
   ],
   "jp": "{voice:006600}行くぞ、シスキア！{n}チビは大丈夫だろうな？",
-  "en": "",
-  "status": ""
+  "en": "Let's go, Siskier! The shrimp'll be all right, won't she?",
+  "status": "done"
  },
  {
   "id": "event_2150_0047A",
@@ -284,8 +284,8 @@
    5872
   ],
   "jp": "{voice:006700}ええ、路地から逃げるように、{n}言っておいたから。",
-  "en": "",
-  "status": ""
+  "en": "Yeah. I told her to escape down the alley.",
+  "status": "done"
  },
  {
   "id": "event_2150_004AE",
@@ -296,8 +296,8 @@
    8779
   ],
   "jp": "{voice:006800}さてと、皆さんご注目。",
-  "en": "",
-  "status": ""
+  "en": "Well now, eyes on me, everybody.",
+  "status": "done"
  },
  {
   "id": "event_2150_004C9",
@@ -308,8 +308,8 @@
    8789
   ],
   "jp": "{voice:006900}勝負の基本はモチ、勝つ事。{n}そして、勝利の基本は挟み撃ち。",
-  "en": "",
-  "status": ""
+  "en": "Rule one of a fight is winning, duh. And rule one of winning is the pincer attack.",
+  "status": "done"
  },
  {
   "id": "event_2150_00507",
@@ -320,8 +320,8 @@
    8810
   ],
   "jp": "{voice:006A00}ま・さ・か、セリカ達が{n}そぉ～っと回り込んでいたとは{n}思ってもみなかったでしょ？",
-  "en": "",
-  "status": ""
+  "en": "Bet. You. Never. Thought Cerica's crew had snuck aaall the way around behind you, did you?",
+  "status": "done"
  },
  {
   "id": "event_2150_0055A",
@@ -332,8 +332,8 @@
    8831
   ],
   "jp": "{voice:006B00}アンタらを殺った賞金で、{n}ディナーがどんだけ豪華になるか{n}考えただけで、もぅ気絶しそう…",
-  "en": "",
-  "status": ""
+  "en": "Just thinking how fancy dinner's gonna be with the bounty for killing you lot... Cerica could faint!",
+  "status": "done"
  },
  {
   "id": "event_2150_005B5",
@@ -344,8 +344,8 @@
    8917
   ],
   "jp": "{voice:006C00}あれで、挟み撃ちのつもり？{n}だいぶ距離が離れているけど……",
-  "en": "",
-  "status": ""
+  "en": "That's supposed to be a pincer attack? They're pretty far off...",
+  "status": "done"
  },
  {
   "id": "event_2150_005F3",
@@ -356,8 +356,8 @@
    8938
   ],
   "jp": "{voice:006D00}雇い主もバカなら、雇われる兵も{n}バカって事なんだろ。",
-  "en": "",
-  "status": ""
+  "en": "I guess when the boss is an idiot, so are the soldiers he hires.",
+  "status": "done"
  },
  {
   "id": "event_2150_0062B",
@@ -368,8 +368,8 @@
    8959
   ],
   "jp": "{voice:006E00}それに、ふざけた格好しやがって{n}俺が片付けてくるぜ！",
-  "en": "",
-  "status": ""
+  "en": "And look at that stupid getup. I'll go take care of them!",
+  "status": "done"
  },
  {
   "id": "event_2150_00663",
@@ -380,8 +380,8 @@
    8977
   ],
   "jp": "{voice:006F00}待って、ガーロット！{n}確かにバカ丸出しの連中だけど、{n}奴らは斧兵よ。",
-  "en": "",
-  "status": ""
+  "en": "Wait, Garlot! Sure, they're obvious idiots, but they're axe fighters.",
+  "status": "done"
  },
  {
   "id": "event_2150_006AA",
@@ -392,8 +392,8 @@
    8984
   ],
   "jp": "{voice:007000}槍兵のガーロットじゃ、{n}武器同士の相性が悪いわ。{n}私に任せてちょうだい。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, your spear is a bad match against axes. Leave this one to me.",
+  "status": "done"
  },
  {
   "id": "event_2150_006F5",
@@ -404,8 +404,8 @@
    9029
   ],
   "jp": "{voice:007100}おいーっ、そこの露出狂の女！{n}セリカのコト、バカ呼ばわり{n}したのを取り消せー！",
-  "en": "",
-  "status": ""
+  "en": "Hey! You, the flasher! Take back calling Cerica an idiot!",
+  "status": "done"
  },
  {
   "id": "event_2150_00746",
@@ -416,8 +416,8 @@
    9047
   ],
   "jp": "{voice:007200}大体ね、自分を名前で呼ぶのが、{n}バカな証拠なの！",
-  "en": "",
-  "status": ""
+  "en": "For one thing, calling yourself by your own name proves you're an idiot!",
+  "status": "done"
  },
  {
   "id": "event_2150_0077A",
@@ -428,8 +428,8 @@
    9065
   ],
   "jp": "{voice:007300}何それ何それ、嫉妬？　嫉妬？{n}ま、いいわよ、アンタから先に、{n}殺ってやろうじゃないの。",
-  "en": "",
-  "status": ""
+  "en": "What's that, what's that? Jealous? Jealous? Fine by Cerica! You get killed first!",
+  "status": "done"
  },
  {
   "id": "event_2150_007D3",
@@ -440,8 +440,8 @@
    6959
   ],
   "jp": "{voice:007400}痛い！{n}何すんのよー！　もうっ！",
-  "en": "",
-  "status": ""
+  "en": "Ow! What's your problem?! Ugh!",
+  "status": "done"
  },
  {
   "id": "event_2150_007F7",
@@ -452,8 +452,8 @@
    6977
   ],
   "jp": "{voice:007500}あーっもう、やめやめ。{n}セリカ、痛いから今日は帰る！",
-  "en": "",
-  "status": ""
+  "en": "Ugh, forget it, forget it. Cerica's hurting, so Cerica's going home today!",
+  "status": "done"
  },
  {
   "id": "event_2150_0082F",
@@ -464,8 +464,8 @@
    6998
   ],
   "jp": "{voice:007600}でもね、覚えときなさいよ。{n}セリカをバカ扱いしたこと{n}謝らせてやるんだから！",
-  "en": "",
-  "status": ""
+  "en": "But you remember this! Cerica's gonna make you say sorry for calling her an idiot!",
+  "status": "done"
  },
  {
   "id": "event_2150_0087E",
@@ -476,8 +476,8 @@
    10128
   ],
   "jp": "{voice:007700}なんだったんだよ、アイツ…、{n}調子の狂うヤツだな。",
-  "en": "",
-  "status": ""
+  "en": "What the hell was that all about...? She throws me right off.",
+  "status": "done"
  },
  {
   "id": "event_2150_008B4",
@@ -488,8 +488,8 @@
    10149
   ],
   "jp": "{voice:007800}でも、時間稼ぎ、されちゃったね。{n}急ぎましょう！",
-  "en": "",
-  "status": ""
+  "en": "But she did buy them time. Let's hurry!",
+  "status": "done"
  },
  {
   "id": "event_2150_008E8",
@@ -500,8 +500,8 @@
    10581
   ],
   "jp": "{voice:007900}エイミちゃん、もう大丈夫よ。",
-  "en": "",
-  "status": ""
+  "en": "It's all right now, Eimi-chan.",
+  "status": "done"
  },
  {
   "id": "event_2150_00909",
@@ -512,8 +512,8 @@
    10707
   ],
   "jp": "{voice:007A00}でもね、この辺りが危ないって{n}分かったでしょ？",
-  "en": "",
-  "status": ""
+  "en": "But you see how dangerous it is around here, don't you?",
+  "status": "done"
  },
  {
   "id": "event_2150_0093B",
@@ -524,8 +524,8 @@
    10714
   ],
   "jp": "{voice:007B00}いいわね、おじさんのところへ{n}戻るのよ？",
-  "en": "",
-  "status": ""
+  "en": "Be a good girl and go back to that man, okay?",
+  "status": "done"
  },
  {
   "id": "event_2150_00967",
@@ -536,8 +536,8 @@
    10732
   ],
   "jp": "{voice:007C00}うん、わかった……{n}ボク、言う通りにする。",
-  "en": "",
-  "status": ""
+  "en": "Okay, I understand... I'll do what you say.",
+  "status": "done"
  },
  {
   "id": "event_2150_00995",
@@ -548,8 +548,8 @@
    10750
   ],
   "jp": "{voice:007D00}お兄さん、{n}見つかるといいわね。",
-  "en": "",
-  "status": ""
+  "en": "I hope you find your big brother.",
+  "status": "done"
  },
  {
   "id": "event_2150_009B9",
@@ -560,8 +560,8 @@
    10768
   ],
   "jp": "{voice:007E00}うん、ありがとう。",
-  "en": "",
-  "status": ""
+  "en": "Yeah. Thank you.",
+  "status": "done"
  },
  {
   "id": "event_2150_009D0",
@@ -572,8 +572,8 @@
    10879
   ],
   "jp": "{voice:007F00}しかし、とんだ足止めを{n}喰らってしまったな。",
-  "en": "",
-  "status": ""
+  "en": "Still, that was a hell of a holdup.",
+  "status": "done"
  },
  {
   "id": "event_2150_00A00",
@@ -584,8 +584,8 @@
    10897
   ],
   "jp": "{voice:008000}まあ、{n}相手がバカで助かったけどね。",
-  "en": "",
-  "status": ""
+  "en": "Well, lucky for us they were idiots.",
+  "status": "done"
  },
  {
   "id": "event_2150_00A28",
@@ -596,8 +596,8 @@
    10915
   ],
   "jp": "{voice:008100}でも、これでノルン達に時間を{n}与えてしまったわね。",
-  "en": "",
-  "status": ""
+  "en": "But now we've given Norn and his men time.",
+  "status": "done"
  },
  {
   "id": "event_2150_00A5E",
@@ -608,8 +608,8 @@
    10922
   ],
   "jp": "{voice:008200}罠とか、小細工をされてなきゃ{n}いいんだけど……",
-  "en": "",
-  "status": ""
+  "en": "I just hope they haven't set up traps or anything...",
+  "status": "done"
  },
  {
   "id": "event_2150_00A90",
@@ -620,8 +620,8 @@
    10943
   ],
   "jp": "{voice:008300}シスキアは心配症だな。{n}罠だろうが、小細工だろうが、{n}喰い破ればいいだけだ。",
-  "en": "",
-  "status": ""
+  "en": "You worry too much, Siskier. Traps, tricks, whatever. We'll just chew right through them.",
+  "status": "done"
  },
  {
   "id": "event_2150_00ADF",
@@ -632,8 +632,8 @@
    10961
   ],
   "jp": "{voice:008400}ガーロット、{n}相手を甘く見ると、とんだ{n}しっぺ返しを貰うわよ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, if you underestimate them, it's going to come back and bite you.",
+  "status": "done"
  },
  {
   "id": "event_2150_00B20",
@@ -644,8 +644,8 @@
    10982
   ],
   "jp": "{voice:008500}突破できない事なんて、{n}無いさ……",
-  "en": "",
-  "status": ""
+  "en": "There's nothing we can't break through...",
+  "status": "done"
  },
  {
   "id": "event_2150_00B46",
@@ -656,8 +656,8 @@
    11000
   ],
   "jp": "{voice:008600}急ごうシスキア。{n}ノルンに追いつくんだ！",
-  "en": "",
-  "status": ""
+  "en": "Let's hurry, Siskier. We've got to catch Norn!",
+  "status": "done"
  },
  {
   "id": "event_2150_00B72",
@@ -668,8 +668,8 @@
    11195
   ],
   "jp": "{voice:008700}義賊団か……{n}面白い事を考える奴らも{n}いるもんだね。",
-  "en": "",
-  "status": ""
+  "en": "A band of noble thieves, huh... Takes all kinds to dream up something like that.",
+  "status": "done"
  },
  {
   "id": "event_2150_00BA9",
@@ -680,8 +680,8 @@
    11202
   ],
   "jp": "{voice:008800}戦い方は、素人に毛が生えた{n}程度だけどさ……",
-  "en": "",
-  "status": ""
+  "en": "They fight like amateurs with a little practice, though...",
+  "status": "done"
  },
  {
   "id": "event_2150_00BD9",
@@ -692,8 +692,8 @@
    11223
   ],
   "jp": "{voice:008900}ま、折角だし、{n}もう少し見学させてもらうか……",
-  "en": "",
-  "status": ""
+  "en": "Well, since I'm here, might as well watch a while longer...",
+  "status": "done"
  },
  {
   "id": "event_2150_00C0B",
@@ -704,8 +704,8 @@
    6402
   ],
   "jp": "バカに付き合う時間はないんだ{n}手短に頼むぜ。",
-  "en": "",
-  "status": ""
+  "en": "I don't have time for idiots. Make it quick.",
+  "status": "done"
  },
  {
   "id": "event_2150_00C37",
@@ -716,8 +716,8 @@
    6423
   ],
   "jp": "あら、アンタってよく見たら{n}意外にイケてる感じね。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, take a good look at you. You're kinda hot, actually.",
+  "status": "done"
  },
  {
   "id": "event_2150_00C69",
@@ -728,8 +728,8 @@
    6436
   ],
   "jp": "『ゆるしてー』って言ったら、{n}セリカの部下にしてあげても{n}いいのよ。",
-  "en": "",
-  "status": ""
+  "en": "If you say 'I'm sorry', Cerica might even let you be one of her men.",
+  "status": "done"
  },
  {
   "id": "event_2150_00CAC",
@@ -740,8 +740,8 @@
    6457
   ],
   "jp": "冗談は、いい加減にしろ。",
-  "en": "",
-  "status": ""
+  "en": "Quit joking around.",
+  "status": "done"
  },
  {
   "id": "event_2150_00CC5",
@@ -752,8 +752,8 @@
    6681
   ],
   "jp": "セリカをバカって言った事、{n}後悔させてあげるんだから！",
-  "en": "",
-  "status": ""
+  "en": "Cerica's gonna make you regret calling her an idiot!",
+  "status": "done"
  },
  {
   "id": "event_2150_00CFB",
@@ -764,8 +764,8 @@
    6702
   ],
   "jp": "なによ、そのセリフ。{n}本当にアンタはバカね！",
-  "en": "",
-  "status": ""
+  "en": "What kind of line is that? You really are an idiot!",
+  "status": "done"
  },
  {
   "id": "event_2150_00D27",
@@ -776,8 +776,8 @@
    6723
   ],
   "jp": "あーっ、やっぱセリカの美女度に{n}嫉妬してるんだなぁ。",
-  "en": "",
-  "status": ""
+  "en": "Aha! You ARE jealous of how gorgeous Cerica is.",
+  "status": "done"
  },
  {
   "id": "event_2150_00D5B",
@@ -788,8 +788,8 @@
    7404
   ],
   "jp": "アハハ、{n}ちょっと油断しちゃったかな？",
-  "en": "",
-  "status": ""
+  "en": "Ahaha, guess Cerica got a little careless, huh?",
+  "status": "done"
  },
  {
   "id": "event_2150_00D81",
@@ -800,8 +800,8 @@
    7425
   ],
   "jp": "えらく余裕ぬかすじゃねぇか。",
-  "en": "",
-  "status": ""
+  "en": "You've got a lot of nerve, acting so relaxed.",
+  "status": "done"
  },
  {
   "id": "event_2150_00D9E",
@@ -812,8 +812,8 @@
    7715
   ],
   "jp": "飛び道具だなんて、この卑怯者！{n}女なら、色気か斧で勝負しろーッ②",
-  "en": "",
-  "status": ""
+  "en": "Using long-range weapons, you coward! If you're a woman, fight with sex appeal or an axe!!",
+  "status": "done"
  },
  {
   "id": "event_2150_00DDE",
@@ -824,8 +824,8 @@
    7736
   ],
   "jp": "何言ってんの、あの女……",
-  "en": "",
-  "status": ""
+  "en": "What is that girl even saying...",
+  "status": "done"
  },
  {
   "id": "event_2150_00DF7",
@@ -836,8 +836,8 @@
    7497
   ],
   "jp": "結構、やるじゃねえか。",
-  "en": "",
-  "status": ""
+  "en": "You're not half bad.",
+  "status": "done"
  },
  {
   "id": "event_2150_00E0E",
@@ -848,8 +848,8 @@
    7521
   ],
   "jp": "あれ、{n}まだ本気出してないんだけどさ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, Cerica's not even trying yet.",
+  "status": "done"
  },
  {
   "id": "event_2150_00E34",
@@ -860,8 +860,8 @@
    7808
   ],
   "jp": "さぁさぁ、セリカの事、{n}バカって言ったの謝んなさいよ！",
-  "en": "",
-  "status": ""
+  "en": "Come on, come on, apologize for calling Cerica an idiot!",
+  "status": "done"
  },
  {
   "id": "event_2150_00E6A",
@@ -872,8 +872,8 @@
    7829
   ],
   "jp": "一回勝っただけで、なによ。",
-  "en": "",
-  "status": ""
+  "en": "You won one fight. So what?",
+  "status": "done"
  },
  {
   "id": "event_2150_00E85",
@@ -884,8 +884,8 @@
    6074
   ],
   "jp": "アンタらは、ブレイズ義賊団の…",
-  "en": "",
-  "status": ""
+  "en": "You folks are from the Blaze Justice Corps...",
+  "status": "done"
  },
  {
   "id": "event_2150_00EA4",
@@ -896,8 +896,8 @@
    6081
   ],
   "jp": "なにっ③{n}またニーベル街区の連中と{n}ドンパチやってるのか？",
-  "en": "",
-  "status": ""
+  "en": "What?! Are you scrapping with those Nibel Quarter people again?",
+  "status": "done"
  },
  {
   "id": "event_2150_00EDD",
@@ -908,8 +908,8 @@
    6092
   ],
   "jp": "そういう事なら{n}コレを持って行ってくれ！{n}代金はいらないよ！",
-  "en": "",
-  "status": ""
+  "en": "In that case, take this with you! It's on the house!",
+  "status": "done"
  },
  {
   "id": "event_2150_00F18",
@@ -921,8 +921,8 @@
    6188
   ],
   "jp": "高慢チキな街区連中の{n}鼻っ柱、叩き折ってくれよ！{n}頼むぜ！",
-  "en": "",
-  "status": ""
+  "en": "Break those stuck-up Quarter folks' noses for me! I'm counting on you!",
+  "status": "done"
  },
  {
   "id": "event_2150_00F87",
@@ -933,8 +933,8 @@
    3972
   ],
   "jp": "ブレイズ義賊団",
-  "en": "",
-  "status": ""
+  "en": "Blaze Corps",
+  "status": "done"
  },
  {
   "id": "event_2150_00FC8",
@@ -945,8 +945,8 @@
    4037
   ],
   "jp": "ノルン足止め隊",
-  "en": "",
-  "status": ""
+  "en": "Norn's Decoys",
+  "status": "done"
  },
  {
   "id": "event_2150_01036",
@@ -957,7 +957,7 @@
    4147
   ],
   "jp": "セリカ遊撃隊",
-  "en": "",
-  "status": ""
+  "en": "Cerica Troop",
+  "status": "done"
  }
 ]

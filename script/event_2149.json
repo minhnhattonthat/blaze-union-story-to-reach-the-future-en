@@ -8,8 +8,8 @@
    3049
   ],
   "jp": "{voice:002800}これは、困りましたねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Well now, this is a problem.",
+  "status": "done"
  },
  {
   "id": "event_2149_00045",
@@ -20,8 +20,8 @@
    3056
   ],
   "jp": "{voice:002900}返済期日を過ぎても、金を返す{n}アテが無い、とはね……",
-  "en": "",
-  "status": ""
+  "en": "Past your due date, and no prospect of paying me back...",
+  "status": "done"
  },
  {
   "id": "event_2149_0007D",
@@ -32,8 +32,8 @@
    3074
   ],
   "jp": "{voice:002A00}アテが無い訳じゃないんです、{n}３日…、いや、あと２日だけ{n}待ってもらえれば、必ず！",
-  "en": "",
-  "status": ""
+  "en": "It's not that I have no prospects! Three days... no, just two more days and I'll pay, I swear!",
+  "status": "done"
  },
  {
   "id": "event_2149_000D2",
@@ -44,8 +44,8 @@
    3095
   ],
   "jp": "{voice:002B00}期限はとうに過ぎてるんだよ！{n}おいッ、金目のものを運び出せ②",
-  "en": "",
-  "status": ""
+  "en": "The deadline's long past! Hey, haul out anything of value!!",
+  "status": "done"
  },
  {
   "id": "event_2149_00112",
@@ -56,8 +56,8 @@
    3197
   ],
   "jp": "{voice:002C00}ヘイ、わかりやした{n}ノルンの旦那。",
-  "en": "",
-  "status": ""
+  "en": "Yessir, right away, Boss Norn.",
+  "status": "done"
  },
  {
   "id": "event_2149_00138",
@@ -68,8 +68,8 @@
    3215
   ],
   "jp": "{voice:002D00}お、お願いです！{n}なんとか、なんとかお慈悲を②",
-  "en": "",
-  "status": ""
+  "en": "P-please! Have mercy, please, have mercy!!",
+  "status": "done"
  },
  {
   "id": "event_2149_0016A",
@@ -80,8 +80,8 @@
    3320
   ],
   "jp": "{voice:002E00}旦那ァ！{n}部屋の奥に小娘がいやしたぜ。",
-  "en": "",
-  "status": ""
+  "en": "Boss! There's a little girl in the back room.",
+  "status": "done"
  },
  {
   "id": "event_2149_00194",
@@ -92,8 +92,8 @@
    3341
   ],
   "jp": "{voice:002F00}やだッ！　離してよ②{n}助けて、おじさん助けて！",
-  "en": "",
-  "status": ""
+  "en": "No! Let me go!! Help, mister, help me!",
+  "status": "done"
  },
  {
   "id": "event_2149_001C6",
@@ -104,8 +104,8 @@
    3359
   ],
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...",
+  "status": "auto"
  },
  {
   "id": "event_2149_001D1",
@@ -116,8 +116,8 @@
    3377
   ],
   "jp": "{voice:003000}借金、返せるじゃないですか？{n}街でこの娘を売ればね……",
-  "en": "",
-  "status": ""
+  "en": "Why, you CAN pay off your debt, can't you? Just sell this girl in town...",
+  "status": "done"
  },
  {
   "id": "event_2149_0020B",
@@ -128,8 +128,8 @@
    3398
   ],
   "jp": "{voice:003100}ボクは関係ないよ！{n}ここの家の子じゃないんだよ！",
-  "en": "",
-  "status": ""
+  "en": "I've got nothing to do with this! I'm not a kid from this house!",
+  "status": "done"
  },
  {
   "id": "event_2149_0023F",
@@ -140,8 +140,8 @@
    3419
   ],
   "jp": "{voice:003200}そうか、それは不運だったな。{n}おい、連れて行きなさい！",
-  "en": "",
-  "status": ""
+  "en": "I see. How unfortunate for you. Hey, take her away!",
+  "status": "done"
  },
  {
   "id": "event_2149_00279",
@@ -152,8 +152,8 @@
    3440
   ],
   "jp": "{voice:003300}離してったら！{n}やだ！　やだよぉ②",
-  "en": "",
-  "status": ""
+  "en": "I said let go! No! Noooo!!",
+  "status": "done"
  },
  {
   "id": "event_2149_0029F",
@@ -164,8 +164,8 @@
    3541
   ],
   "jp": "{voice:003400}ぐあッ！",
-  "en": "",
-  "status": ""
+  "en": "Gah!",
+  "status": "done"
  },
  {
   "id": "event_2149_002AC",
@@ -176,8 +176,8 @@
    3621
   ],
   "jp": "{voice:003500}なっ、なんだ？{n}弓矢ですと？　だ、誰だっ③",
-  "en": "",
-  "status": ""
+  "en": "Wh-what? Arrows? Wh-who's there?!",
+  "status": "done"
  },
  {
   "id": "event_2149_002DA",
@@ -188,8 +188,8 @@
    3755
   ],
   "jp": "{voice:003600}そこまでよ、ノルン。",
-  "en": "",
-  "status": ""
+  "en": "That's far enough, Norn.",
+  "status": "done"
  },
  {
   "id": "event_2149_002F3",
@@ -200,8 +200,8 @@
    3776
   ],
   "jp": "{voice:003700}ガーロット、女の子は？",
-  "en": "",
-  "status": ""
+  "en": "Garlot, the girl?",
+  "status": "done"
  },
  {
   "id": "event_2149_0030E",
@@ -212,8 +212,8 @@
    3899
   ],
   "jp": "{voice:003800}少女は無事だ。{n}シスキア、{n}これで思う存分、暴れられるぜ。",
-  "en": "",
-  "status": ""
+  "en": "She's safe. Siskier, now we can cut loose all we want.",
+  "status": "done"
  },
  {
   "id": "event_2149_0034B",
@@ -224,8 +224,8 @@
    3920
   ],
   "jp": "{voice:003900}観念するのね！{n}悪徳商人、ノルン②",
-  "en": "",
-  "status": ""
+  "en": "Give up! You crooked merchant, Norn!!",
+  "status": "done"
  },
  {
   "id": "event_2149_00371",
@@ -236,8 +236,8 @@
    3985
   ],
   "jp": "{voice:003A00}ガーロット…、シスキア？{n}もしや、{n}貴様らブレイズ義賊団か…",
-  "en": "",
-  "status": ""
+  "en": "Garlot... Siskier? Don't tell me... You're the Blaze Justice Corps...",
+  "status": "done"
  },
  {
   "id": "event_2149_003B0",
@@ -248,8 +248,8 @@
    4003
   ],
   "jp": "{voice:003B00}そういう、ことだ。",
-  "en": "",
-  "status": ""
+  "en": "That's right.",
+  "status": "done"
  },
  {
   "id": "event_2149_003C7",
@@ -260,8 +260,8 @@
    4021
   ],
   "jp": "{voice:003C00}ヒッヒッヒッヒッヒッ！",
-  "en": "",
-  "status": ""
+  "en": "Hee hee hee hee hee!",
+  "status": "done"
  },
  {
   "id": "event_2149_003E2",
@@ -272,8 +272,8 @@
    4042
   ],
   "jp": "{voice:003D00}あら、ノルン、追い詰められて{n}おかしくなっちゃったの？",
-  "en": "",
-  "status": ""
+  "en": "Oh, Norn, did being cornered drive you crazy?",
+  "status": "done"
  },
  {
   "id": "event_2149_0041C",
@@ -284,8 +284,8 @@
    4060
   ],
   "jp": "{voice:003E00}いえね、私は運が良いなと。{n}そう思うと、笑いが抑えられなく{n}なりましてね……",
-  "en": "",
-  "status": ""
+  "en": "Oh, no. I was only thinking how lucky I am. The thought makes it so hard not to laugh...",
+  "status": "done"
  },
  {
   "id": "event_2149_0046B",
@@ -296,8 +296,8 @@
    4078
   ],
   "jp": "{voice:003F00}クックックッ、{n}私達善良な商人を脅かす、偽善者{n}集団ブレイズ義賊団を倒せば、",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh. If I defeat the Blaze Justice Corps, that gang of hypocrites who menace us good merchants,",
+  "status": "done"
  },
  {
   "id": "event_2149_004BA",
@@ -308,8 +308,8 @@
    4088
   ],
   "jp": "{voice:004000}私の名声は、{n}さらに上がるというもの。",
-  "en": "",
-  "status": ""
+  "en": "my reputation will only rise.",
+  "status": "done"
  },
  {
   "id": "event_2149_004E4",
@@ -320,8 +320,8 @@
    4109
   ],
   "jp": "{voice:004100}返り討ちにしてあげましょう！",
-  "en": "",
-  "status": ""
+  "en": "I'll turn the tables on you!",
+  "status": "done"
  },
  {
   "id": "event_2149_00505",
@@ -332,8 +332,8 @@
    4173
   ],
   "jp": "{voice:004200}ほざくのは、{n}俺に片膝を付かせてからに{n}するんだな。",
-  "en": "",
-  "status": ""
+  "en": "Save your big talk till you've got me down on one knee.",
+  "status": "done"
  },
  {
   "id": "event_2149_0053C",
@@ -344,8 +344,8 @@
    4367
   ],
   "jp": "{voice:004300}行くぞ、シスキア！{n}遅れて、孤立するんじゃねぇぜ。",
-  "en": "",
-  "status": ""
+  "en": "Let's go, Siskier! Don't fall behind and get cut off.",
+  "status": "done"
  },
  {
   "id": "event_2149_00572",
@@ -356,8 +356,8 @@
    4388
   ],
   "jp": "{voice:004400}言われなくても分かってるよ！{n}アンタこそ気を抜かないでよね②",
-  "en": "",
-  "status": ""
+  "en": "You don't have to tell me! Just don't get careless yourself!!",
+  "status": "done"
  },
  {
   "id": "event_2149_005B2",
@@ -368,8 +368,8 @@
    5853
   ],
   "jp": "{voice:004500}義賊団ごときに、何を手こずって{n}いるのですか！",
-  "en": "",
-  "status": ""
+  "en": "What's taking you so long against a mere band of thieves?!",
+  "status": "done"
  },
  {
   "id": "event_2149_005E4",
@@ -380,8 +380,8 @@
    5863
   ],
   "jp": "{voice:004600}高い金を払っているんですよ！{n}さぁ、貴奴らを早く倒しなさい！",
-  "en": "",
-  "status": ""
+  "en": "I'm paying you good money! Now, hurry up and finish those rats!",
+  "status": "done"
  },
  {
   "id": "event_2149_00624",
@@ -392,8 +392,8 @@
    7528
   ],
   "jp": "{voice:004700}キィーッ、なんと低俗な連中！{n}私の服が泥まみれではないか③{n}もう付き合ってはおれん！",
-  "en": "",
-  "status": ""
+  "en": "Eeek, what vulgar people! My clothes are covered in mud?! I've had enough of this!",
+  "status": "done"
  },
  {
   "id": "event_2149_0067B",
@@ -404,8 +404,8 @@
    7837
   ],
   "jp": "{voice:004800}これで、全員片付いたわね。",
-  "en": "",
-  "status": ""
+  "en": "Okay, that's all of them.",
+  "status": "done"
  },
  {
   "id": "event_2149_0069A",
@@ -416,8 +416,8 @@
    7858
   ],
   "jp": "{voice:004900}いや、まだだ。{n}ノルンを逃がしてしまっただろ。",
-  "en": "",
-  "status": ""
+  "en": "No, not yet. We let Norn get away.",
+  "status": "done"
  },
  {
   "id": "event_2149_006CC",
@@ -428,8 +428,8 @@
    7876
   ],
   "jp": "{voice:004A00}そうだけど……",
-  "en": "",
-  "status": ""
+  "en": "That's true, but...",
+  "status": "done"
  },
  {
   "id": "event_2149_006DF",
@@ -440,8 +440,8 @@
    7894
   ],
   "jp": "{voice:004B00}この半年追っていた、ノルンを{n}やっと追い詰めたんだ。",
-  "en": "",
-  "status": ""
+  "en": "We've chased Norn for half a year, and we finally cornered him.",
+  "status": "done"
  },
  {
   "id": "event_2149_00717",
@@ -452,8 +452,8 @@
    7915
   ],
   "jp": "{voice:004C00}ヤツに贖罪をさせなければ。",
-  "en": "",
-  "status": ""
+  "en": "He's got to pay for what he did.",
+  "status": "done"
  },
  {
   "id": "event_2149_00736",
@@ -464,8 +464,8 @@
    7936
   ],
   "jp": "{voice:004D00}いくぞ、シスキア。{n}俺達の足なら、ヤツが貴族街に{n}逃げ帰る前に追いつけるはずだ。",
-  "en": "",
-  "status": ""
+  "en": "Let's go, Siskier. On our feet, we can catch him before he runs home to the noble quarter.",
+  "status": "done"
  },
  {
   "id": "event_2149_00789",
@@ -476,8 +476,8 @@
    7954
   ],
   "jp": "{voice:004E00}ちょっと、{n}ジェノンはどうするワケ？",
-  "en": "",
-  "status": ""
+  "en": "Hey, what about Jenon?",
+  "status": "done"
  },
  {
   "id": "event_2149_007B1",
@@ -488,8 +488,8 @@
    7975
   ],
   "jp": "{voice:004F00}アイツなら大丈夫だろ。{n}きっと、俺達の動きを見ながら{n}次の手を考えているはずさ。",
-  "en": "",
-  "status": ""
+  "en": "He'll be fine. I bet he's watching us right now and planning his next move.",
+  "status": "done"
  },
  {
   "id": "event_2149_00804",
@@ -500,8 +500,8 @@
    5287
   ],
   "jp": "正義という言葉を、自分勝手に{n}解釈しすぎのようですね。{n}反吐が出ますよ！",
-  "en": "",
-  "status": ""
+  "en": "You seem to interpret the word \"justice\" quite selfishly. It makes me sick!",
+  "status": "done"
  },
  {
   "id": "event_2149_0084B",
@@ -512,8 +512,8 @@
    5308
   ],
   "jp": "だから言ったろ、{n}ほざくのは後にしろってさ！",
-  "en": "",
-  "status": ""
+  "en": "Like I said, save the big talk for later!",
+  "status": "done"
  },
  {
   "id": "event_2149_00877",
@@ -524,8 +524,8 @@
    4823
   ],
   "jp": "お、コイツは…",
-  "en": "",
-  "status": ""
+  "en": "Oh, what's this...",
+  "status": "done"
  },
  {
   "id": "event_2149_00886",
@@ -536,8 +536,8 @@
    4909
   ],
   "jp": "非常食だ。{n}いただいておくか。",
-  "en": "",
-  "status": ""
+  "en": "Emergency rations. Guess I'll take them.",
+  "status": "done"
  },
  {
   "id": "event_2149_008A4",
@@ -548,8 +548,8 @@
    4957
   ],
   "jp": "あれ、イモが自生してる。{n}誰かが植えた……{n}ってワケじゃなさそうね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, wild potatoes. Doesn't look like anyone planted them...",
+  "status": "done"
  },
  {
   "id": "event_2149_008E7",
@@ -560,8 +560,8 @@
    5043
   ],
   "jp": "少し実を分けてもらっても、{n}バチは当たらないわよね？",
-  "en": "",
-  "status": ""
+  "en": "A few of them won't bring down any curses, right?",
+  "status": "done"
  },
  {
   "id": "event_2149_00945",
@@ -572,8 +572,8 @@
    2370
   ],
   "jp": "ブレイズ義賊団",
-  "en": "",
-  "status": ""
+  "en": "Blaze Corps",
+  "status": "done"
  },
  {
   "id": "event_2149_00976",
@@ -584,7 +584,7 @@
    2419
   ],
   "jp": "ノルン一味",
-  "en": "",
-  "status": ""
+  "en": "Norn Gang",
+  "status": "done"
  }
 ]

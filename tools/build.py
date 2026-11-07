@@ -59,12 +59,30 @@ def build_marker(out=MARKER):
     return build(out, repl=repl, keep_same=False, eboot=eboot)
 
 
+class Translated:
+    """Text source for insert.build: the English in script/*.json, Japanese left where a record has none yet."""
+
+    def __call__(self, r, name):
+        import fit
+        return fit.wrapped(r) if r.get("en") else None
+
+
+def build_en(out=OUT):
+    import insert
+    repl, eboot, count = insert.build(Translated())
+    print("English strings:", count, "EBOOT", len(eboot))
+    return build(out, repl=repl, keep_same=False, eboot=eboot)
+
+
 if __name__ == "__main__":
     t = time.time()
     check_rom.check()
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
     if "--marker" in sys.argv:
         out = build_marker()
+    elif "--identity" in sys.argv:
+        out = build(args[0] if args else OUT)
     else:
-        out = build(sys.argv[1] if len(sys.argv) > 1 else OUT)
+        out = build_en(args[0] if args else OUT)
     with open(out, "rb") as f:
         print(out, out.stat().st_size, "sha1", hashlib.file_digest(f, "sha1").hexdigest(), f"{time.time() - t:.0f}s")
