@@ -10,7 +10,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 - Verify: `python -X utf8 tools/verify_build.py` (after a build: romdiff over the EBOOT's write log, disc and Data.cpk change only what they should)
 - Smoke:  `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/blaze_union_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:   `python -X utf8 tools/debug/warp.py 3_10_A --out work/qa/w --frames 1200 --every 300 --mash circle` (cold boot to any stage; `tools/debug/warp_all.py` does the 151 reachable). `docs/re/debug.md` has the rest. Never ask the user to play to a scene.
-- Scenes: `python -X utf8 tools/debug/scenes.py --stages --jobs 6` (every menu, battle screen, ending, credits and extras from a cold boot; shots in `work/qa/scenes/`, `--states` also saves states).
+- Scenes: `python -X utf8 tools/debug/scenes.py --stages --jobs 6 --iso build/blaze_union_en.iso` (every menu, battle screen, ending, credits and extras from a cold boot; shots in `work/qa/scenes/`, `--states` also saves states; with no `--iso` or `BU_ISO`, it and `warp.py` run the Japanese ISO).
 - Release: `python -X utf8 tools/release.py --version 1.0` (every gate, xdelta3 patch, re-apply, zip in `release/`; never publish without the user)
 - Clean:  `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 
