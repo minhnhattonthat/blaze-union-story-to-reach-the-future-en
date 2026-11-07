@@ -8,8 +8,8 @@
    14116
   ],
   "jp": "{voice:00AC06}こっちの準備はＯＫ！{n}河口への工作部隊の配置は完了。",
-  "en": "",
-  "status": ""
+  "en": "All set over here! The sabotage crew's in position at the river mouth.",
+  "status": "done"
  },
  {
   "id": "event_2167_00060",
@@ -20,8 +20,8 @@
    14137
   ],
   "jp": "{voice:00AD06}作戦通りに行けば、船は浸水。{n}完全に足止めできる。",
-  "en": "",
-  "status": ""
+  "en": "If the plan works, the ship takes on water and is stopped dead.",
+  "status": "done"
  },
  {
   "id": "event_2167_00096",
@@ -32,8 +32,8 @@
    14158
   ],
   "jp": "{voice:00AE06}あとは連中の船が{n}ここまで来るのを待つだけだな…",
-  "en": "",
-  "status": ""
+  "en": "Now we just wait for their ship to get here...",
+  "status": "done"
  },
  {
   "id": "event_2167_000CA",
@@ -44,8 +44,8 @@
    14179
   ],
   "jp": "{voice:00AF06}いいね、僕達がヴェルマン方伯の{n}手の者だとバレたらまずい。",
-  "en": "",
-  "status": ""
+  "en": "Listen, it'd be bad if they found out we work for Margrave Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2167_00108",
@@ -56,8 +56,8 @@
    14200
   ],
   "jp": "{voice:00B006}目撃者は絶対に残せない。{n}敵は全滅させなければな……",
-  "en": "",
-  "status": ""
+  "en": "We can't leave any witnesses. The enemy has to be wiped out...",
+  "status": "done"
  },
  {
   "id": "event_2167_00140",
@@ -68,8 +68,8 @@
    14221
   ],
   "jp": "{voice:00B106}ああ…、分かってる。",
-  "en": "",
-  "status": ""
+  "en": "Yeah... I know.",
+  "status": "done"
  },
  {
   "id": "event_2167_00159",
@@ -80,8 +80,8 @@
    14272
   ],
   "jp": "{voice:00B206}でもさ、やっぱ貴族様って{n}お気楽な商売ね。",
-  "en": "",
-  "status": ""
+  "en": "But you know, nobles sure have it easy.",
+  "status": "done"
  },
  {
   "id": "event_2167_00187",
@@ -92,8 +92,8 @@
    14290
   ],
   "jp": "{voice:00B306}貢ぎ物って要するに賄賂でしょ？{n}あのいや～みな皇帝への。",
-  "en": "",
-  "status": ""
+  "en": "Tribute's just a bribe, right? For that nasty Emperor.",
+  "status": "done"
  },
  {
   "id": "event_2167_001C3",
@@ -104,8 +104,8 @@
    14297
   ],
   "jp": "{voice:00B406}それをさ、{n}みんなから集めた税を使って、{n}やろうとしてるんだよね？",
-  "en": "",
-  "status": ""
+  "en": "And they're using taxes they squeezed out of everyone to do it, right?",
+  "status": "done"
  },
  {
   "id": "event_2167_00208",
@@ -116,8 +116,8 @@
    14321
   ],
   "jp": "{voice:00B506}あーっ、考えただけで腹が立つ！",
-  "en": "",
-  "status": ""
+  "en": "Aaagh, just thinking about it makes me mad!",
+  "status": "done"
  },
  {
   "id": "event_2167_0022B",
@@ -128,8 +128,8 @@
    14342
   ],
   "jp": "{voice:00B606}そうだ、許せない。{n}だからこそ、俺達が止めるんだ。",
-  "en": "",
-  "status": ""
+  "en": "That's right, it's unforgivable. And that's why we'll stop it.",
+  "status": "done"
  },
  {
   "id": "event_2167_00261",
@@ -140,8 +140,8 @@
    14407
   ],
   "jp": "{voice:00B706}それにしても…、わざわざ海から{n}何を運び入れるんでしょうね？",
-  "en": "",
-  "status": ""
+  "en": "Still... what could they be going to such trouble to bring in by sea?",
+  "status": "done"
  },
  {
   "id": "event_2167_002A1",
@@ -152,8 +152,8 @@
    14428
   ],
   "jp": "{voice:00B806}賄賂というくらいだからね、{n}金銀財宝の類じゃないかな？",
-  "en": "",
-  "status": ""
+  "en": "A bribe, so I'd guess gold, silver and treasures.",
+  "status": "done"
  },
  {
   "id": "event_2167_002DB",
@@ -164,8 +164,8 @@
    14435
   ],
   "jp": "{voice:00B906}あとは、世界各地の美女とか。",
-  "en": "",
-  "status": ""
+  "en": "Or maybe beautiful women from all over the world.",
+  "status": "done"
  },
  {
   "id": "event_2167_002FC",
@@ -176,8 +176,8 @@
    14459
   ],
   "jp": "{voice:00BA06}やーね、そういう考え！",
-  "en": "",
-  "status": ""
+  "en": "Ew, what a way to think!",
+  "status": "done"
  },
  {
   "id": "event_2167_00317",
@@ -188,8 +188,8 @@
    14483
   ],
   "jp": "{voice:00BB06}ちょ、ちょっと待ってシスキア。{n}僕は一般的な話を……",
-  "en": "",
-  "status": ""
+  "en": "H-hey, wait, Siskier. I'm only speaking generally...",
+  "status": "done"
  },
  {
   "id": "event_2167_0034F",
@@ -200,8 +200,8 @@
    14504
   ],
   "jp": "{voice:00BC06}ま、何にせよ、{n}宝である事に間違いないだろう。",
-  "en": "",
-  "status": ""
+  "en": "Well, either way, it's bound to be treasure.",
+  "status": "done"
  },
  {
   "id": "event_2167_00381",
@@ -212,8 +212,8 @@
    14511
   ],
   "jp": "{voice:00BD06}海の向こうで買い付けた、な。",
-  "en": "",
-  "status": ""
+  "en": "Bought across the sea.",
+  "status": "done"
  },
  {
   "id": "event_2167_003A2",
@@ -224,8 +224,8 @@
    14532
   ],
   "jp": "{voice:00BE06}へぇ…、海の向こうね。",
-  "en": "",
-  "status": ""
+  "en": "Huh... Across the sea.",
+  "status": "done"
  },
  {
   "id": "event_2167_003BD",
@@ -236,8 +236,8 @@
    14553
   ],
   "jp": "{voice:00BF06}世界には、たくさんの国がある。{n}それぞれ文化が違うんだ。{n}そして色々な特産物がある……",
-  "en": "",
-  "status": ""
+  "en": "The world has lots of countries, each with its own culture. And all sorts of local specialties...",
+  "status": "done"
  },
  {
   "id": "event_2167_00416",
@@ -248,8 +248,8 @@
    14618
   ],
   "jp": "{voice:00C006}国ってどれぐらいあるんだ？",
-  "en": "",
-  "status": ""
+  "en": "How many countries are there?",
+  "status": "done"
  },
  {
   "id": "event_2167_00435",
@@ -260,8 +260,8 @@
    14639
   ],
   "jp": "{voice:00C106}正確な数字は誰も分からない。{n}あたしが行った事があるのは{n}ざっと30かな。",
-  "en": "",
-  "status": ""
+  "en": "Nobody knows the exact number. I've been to about 30.",
+  "status": "done"
  },
  {
   "id": "event_2167_00480",
@@ -272,8 +272,8 @@
    14663
   ],
   "jp": "{voice:00C206}さ、30！　嘘でしょ！",
-  "en": "",
-  "status": ""
+  "en": "Th-thirty! No way!",
+  "status": "done"
  },
  {
   "id": "event_2167_00499",
@@ -284,8 +284,8 @@
    14684
   ],
   "jp": "{voice:00C306}小さな国も、合わせてだがな。",
-  "en": "",
-  "status": ""
+  "en": "Counting the little ones, mind you.",
+  "status": "done"
  },
  {
   "id": "event_2167_004BA",
@@ -296,8 +296,8 @@
    14705
   ],
   "jp": "{voice:00C406}へぇ…、じゃあ最果ての地、{n}ロスト・アリエスにも行ったの？",
-  "en": "",
-  "status": ""
+  "en": "Huh... So have you been to the farthest land, Lost Aries?",
+  "status": "done"
  },
  {
   "id": "event_2167_004F8",
@@ -308,8 +308,8 @@
    14726
   ],
   "jp": "{voice:00C506}ロスト・アリエスか……",
-  "en": "",
-  "status": ""
+  "en": "Lost Aries...",
+  "status": "done"
  },
  {
   "id": "event_2167_00513",
@@ -320,8 +320,8 @@
    14733
   ],
   "jp": "{voice:00C606}いや、旅でロスト・アリエスを{n}訪ねた事はないな……",
-  "en": "",
-  "status": ""
+  "en": "No, I've never visited Lost Aries on my travels...",
+  "status": "done"
  },
  {
   "id": "event_2167_00549",
@@ -332,8 +332,8 @@
    14754
   ],
   "jp": "{voice:00C706}あれ、意外だね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, that's a surprise.",
+  "status": "done"
  },
  {
   "id": "event_2167_0055E",
@@ -344,8 +344,8 @@
    14761
   ],
   "jp": "{voice:00C806}それだけ旅してるんだから{n}行ってると思ったよ。",
-  "en": "",
-  "status": ""
+  "en": "With all your traveling, I figured you had.",
+  "status": "done"
  },
  {
   "id": "event_2167_00590",
@@ -368,8 +368,8 @@
    14867
   ],
   "jp": "{voice:00C906}…シスキア様。{n}標的の船が見えてまいりました。",
-  "en": "",
-  "status": ""
+  "en": "...Siskier-sama. The target ship is in sight.",
+  "status": "done"
  },
  {
   "id": "event_2167_005CD",
@@ -380,8 +380,8 @@
    14931
   ],
   "jp": "{voice:00CA06}ガーロット！",
-  "en": "",
-  "status": ""
+  "en": "Garlot!",
+  "status": "done"
  },
  {
   "id": "event_2167_005DE",
@@ -392,8 +392,8 @@
    14952
   ],
   "jp": "{voice:00CB06}全軍、作戦通りの配置に付け！{n}動きがあり次第、前進を開始する②",
-  "en": "",
-  "status": ""
+  "en": "All units, take your positions as planned! We advance as soon as they make a move!",
+  "status": "done"
  },
  {
   "id": "event_2167_00620",
@@ -404,8 +404,8 @@
    15257
   ],
   "jp": "{voice:00CC06}船底から浸水です！",
-  "en": "",
-  "status": ""
+  "en": "We're taking on water in the hold!",
+  "status": "done"
  },
  {
   "id": "event_2167_00637",
@@ -416,8 +416,8 @@
    15278
   ],
   "jp": "{voice:00CD06}ひょっとして、座礁したの？",
-  "en": "",
-  "status": ""
+  "en": "Did we run aground?",
+  "status": "done"
  },
  {
   "id": "event_2167_00656",
@@ -428,8 +428,8 @@
    15296
   ],
   "jp": "{voice:00CE06}いや…、そんなはずは……{n}この辺りでは考えられません。",
-  "en": "",
-  "status": ""
+  "en": "No... that can't be... Not around here.",
+  "status": "done"
  },
  {
   "id": "event_2167_00690",
@@ -440,8 +440,8 @@
    15303
   ],
   "jp": "{voice:00CF06}も、もしかして…",
-  "en": "",
-  "status": ""
+  "en": "C-could it be...",
+  "status": "done"
  },
  {
   "id": "event_2167_006A5",
@@ -452,8 +452,8 @@
    15324
   ],
   "jp": "{voice:00D006}そうね、敵襲って事ね！",
-  "en": "",
-  "status": ""
+  "en": "Yes, we're under attack!",
+  "status": "done"
  },
  {
   "id": "event_2167_006C0",
@@ -464,8 +464,8 @@
    15388
   ],
   "jp": "{voice:00D106}船の動きは完全に止まりました。",
-  "en": "",
-  "status": ""
+  "en": "The ship has stopped completely.",
+  "status": "done"
  },
  {
   "id": "event_2167_006E3",
@@ -476,8 +476,8 @@
    15409
   ],
   "jp": "{voice:00D206}よしっ、目標は船員の全滅だ！{n}進め！",
-  "en": "",
-  "status": ""
+  "en": "All right, the goal's to wipe out the crew! Forward!",
+  "status": "done"
  },
  {
   "id": "event_2167_0070B",
@@ -488,8 +488,8 @@
    15470
   ],
   "jp": "{voice:00D306}隊長！　賊です②",
-  "en": "",
-  "status": ""
+  "en": "Captain! Thieves!",
+  "status": "done"
  },
  {
   "id": "event_2167_00720",
@@ -500,8 +500,8 @@
    15491
   ],
   "jp": "{voice:00D406}なんとしても荷を守るのです！{n}全隊、心してかかりなさい！",
-  "en": "",
-  "status": ""
+  "en": "Protect the cargo no matter what! All units, stay sharp!",
+  "status": "done"
  },
  {
   "id": "event_2167_0075C",
@@ -512,8 +512,8 @@
    15659
   ],
   "jp": "{voice:00D506}ヘ～イ、ルックアットミー！{n}こっちを向くんだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Heyyy, look at me! Look over here, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2167_00792",
@@ -524,8 +524,8 @@
    15680
   ],
   "jp": "{voice:00D606}なんだ？{n}あのキテレツな格好をした女は…",
-  "en": "",
-  "status": ""
+  "en": "What's that? That woman in the bizarre getup...",
+  "status": "done"
  },
  {
   "id": "event_2167_007BE",
@@ -536,8 +536,8 @@
    15701
   ],
   "jp": "{voice:00D706}その船の積荷は、このパメラ様が{n}先にツバつけたものなんだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama called dibs on that ship's cargo first, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2167_00800",
@@ -548,8 +548,8 @@
    15708
   ],
   "jp": "{voice:00D806}いい③　人間社会はね、{n}スタック積んでりゃいいってもの{n}じゃないの。早い者勝ちなの！",
-  "en": "",
-  "status": ""
+  "en": "Listen up!? Human society isn't about how much stack you pile up. It's first come, first served!",
+  "status": "done"
  },
  {
   "id": "event_2167_00857",
@@ -560,8 +560,8 @@
    15729
   ],
   "jp": "{voice:00D906}何を言ってんだ、あの女？",
-  "en": "",
-  "status": ""
+  "en": "What's that woman talking about?",
+  "status": "done"
  },
  {
   "id": "event_2167_00874",
@@ -572,8 +572,8 @@
    15750
   ],
   "jp": "{voice:00DA06}まあいいわ。言いたいこと言って{n}ストレスの残高もゼロだし{n}お先にいただいちゃうわよ～♪",
-  "en": "",
-  "status": ""
+  "en": "Oh well. I've said my piece and my stress balance is zero, so I'll be taking it first~ ♪",
+  "status": "done"
  },
  {
   "id": "event_2167_008CD",
@@ -584,8 +584,8 @@
    15779
   ],
   "jp": "{voice:00DB06}世を紡ぐ次元の英霊…{n}我が行く先をその眼で照らせ…",
-  "en": "",
-  "status": ""
+  "en": "Heroic spirits of the dimension that weave the world... Light my way with your eyes...",
+  "status": "done"
  },
  {
   "id": "event_2167_00903",
@@ -596,8 +596,8 @@
    15839
   ],
   "jp": "{voice:00DC06}アレ、ご主人もよく使ってた！{n}あの呪文、モノ軽々運ぶ！",
-  "en": "",
-  "status": ""
+  "en": "Byff's master often used that! That spell moves things with ease!",
+  "status": "done"
  },
  {
   "id": "event_2167_0093D",
@@ -608,8 +608,8 @@
    15906
   ],
   "jp": "{voice:00DD06}…魔法の詠唱ね。{n}積荷を奪い去るつもりじゃない？{n}しかし、随分と高度な呪文ね…",
-  "en": "",
-  "status": ""
+  "en": "...A magic chant. She's trying to make off with the cargo, isn't she? And that's a pretty advanced spell...",
+  "status": "done"
  },
  {
   "id": "event_2167_0098E",
@@ -620,8 +620,8 @@
    15963
   ],
   "jp": "{voice:00DE06}どうなってるんだ③{n}誰かこの状況を説明してくれ……",
-  "en": "",
-  "status": ""
+  "en": "What's going on here!? Somebody explain this...",
+  "status": "done"
  },
  {
   "id": "event_2167_009C4",
@@ -632,8 +632,8 @@
    24847
   ],
   "jp": "{voice:00DF06}むきぃーッ！　怒り120％②{n}なんなのよコイツら②{n}パメラ様の詠唱の邪魔をしてぇー！",
-  "en": "",
-  "status": ""
+  "en": "Grrrr! Rage at 120%! What's with these people! They interrupted Pamela-sama's chant!",
+  "status": "done"
  },
  {
   "id": "event_2167_00A18",
@@ -644,8 +644,8 @@
    24868
   ],
   "jp": "{voice:00E006}あーああ、もうなんだか{n}面倒くさくなってきちゃったわ。",
-  "en": "",
-  "status": ""
+  "en": "Aaah, this is all starting to feel like too much of a bother.",
+  "status": "done"
  },
  {
   "id": "event_2167_00A52",
@@ -656,8 +656,8 @@
    24892
   ],
   "jp": "{voice:00E106}そうだ！{n}お家の、カウチで、ポテチなんて{n}しーちゃおーっと♪",
-  "en": "",
-  "status": ""
+  "en": "I know! I'll go home and be a couch potato with some chips ♪",
+  "status": "done"
  },
  {
   "id": "event_2167_00A91",
@@ -668,8 +668,8 @@
    24990
   ],
   "jp": "{voice:00E206}これでよかったのか？",
-  "en": "",
-  "status": ""
+  "en": "Was that it?",
+  "status": "done"
  },
  {
   "id": "event_2167_00AAA",
@@ -680,8 +680,8 @@
    25158
   ],
   "jp": "{voice:00E306}ただの盗賊かと思ったけど、{n}どうやら違うようね……",
-  "en": "",
-  "status": ""
+  "en": "I took them for ordinary thieves, but it seems not...",
+  "status": "done"
  },
  {
   "id": "event_2167_00AE0",
@@ -692,8 +692,8 @@
    25179
   ],
   "jp": "{voice:00E406}お前達！{n}死ぬ気で荷を守りなさい②",
-  "en": "",
-  "status": ""
+  "en": "You lot! Protect the cargo with your lives!",
+  "status": "done"
  },
  {
   "id": "event_2167_00B06",
@@ -704,8 +704,8 @@
    25197
   ],
   "jp": "{voice:00E506}そ、そんな……",
-  "en": "",
-  "status": ""
+  "en": "Oh, n-no...",
+  "status": "done"
  },
  {
   "id": "event_2167_00B19",
@@ -716,8 +716,8 @@
    25218
   ],
   "jp": "{voice:00E606}逃げるなら…{n}わかってるわよね？",
-  "en": "",
-  "status": ""
+  "en": "If you run... you know what happens, right?",
+  "status": "done"
  },
  {
   "id": "event_2167_00B3D",
@@ -728,8 +728,8 @@
    25236
   ],
   "jp": "{voice:00E706}ひ、ヒィ！　仰せのままに②",
-  "en": "",
-  "status": ""
+  "en": "E-eek! As you command!",
+  "status": "done"
  },
  {
   "id": "event_2167_00B5C",
@@ -740,8 +740,8 @@
    25370
   ],
   "jp": "{voice:00E806}よ～し、詠唱完了！{n}こんな戦場にもう用はないわ！{n}アディオス、アスタレ～ゴ！",
-  "en": "",
-  "status": ""
+  "en": "All right, chant complete! I've got no more business on this battlefield! Adios, hasta luegooo!",
+  "status": "done"
  },
  {
   "id": "event_2167_00BAB",
@@ -752,8 +752,8 @@
    25474
   ],
   "jp": "{voice:00E906}あのキテレツ女、消えたぞ。{n}なんだよ一体……",
-  "en": "",
-  "status": ""
+  "en": "That bizarre woman vanished. What the hell...",
+  "status": "done"
  },
  {
   "id": "event_2167_00BDB",
@@ -764,8 +764,8 @@
    24402
   ],
   "jp": "{voice:00EA06}バ、バリン公爵、お許しを……",
-  "en": "",
-  "status": ""
+  "en": "F-forgive me, Duke Balin...",
+  "status": "done"
  },
  {
   "id": "event_2167_00BFC",
@@ -776,8 +776,8 @@
    29289
   ],
   "jp": "{voice:00EB06}さあ急げ、{n}輸送船内の掃討にかかれ！",
-  "en": "",
-  "status": ""
+  "en": "Now hurry, sweep the inside of the ship!",
+  "status": "done"
  },
  {
   "id": "event_2167_00C24",
@@ -788,8 +788,8 @@
    29705
   ],
   "jp": "{voice:00EC06}討ち漏らしは無い？",
-  "en": "",
-  "status": ""
+  "en": "Any stragglers left?",
+  "status": "done"
  },
  {
   "id": "event_2167_00C3B",
@@ -800,8 +800,8 @@
    29726
   ],
   "jp": "{voice:00ED06}大丈夫だろう、{n}河口にはシスキアの別働隊がいる。",
-  "en": "",
-  "status": ""
+  "en": "Should be fine. Siskier's other unit is at the river mouth.",
+  "status": "done"
  },
  {
   "id": "event_2167_00C6F",
@@ -812,8 +812,8 @@
    29747
   ],
   "jp": "{voice:00EE06}陸路経由は問題なさそうね。{n}あとは船の残兵を倒せば……",
-  "en": "",
-  "status": ""
+  "en": "The land route seems fine. Now we just have to take out what's left on the ship...",
+  "status": "done"
  },
  {
   "id": "event_2167_00CA9",
@@ -824,8 +824,8 @@
    29768
   ],
   "jp": "{voice:00EF06}船内にはシスキアとジェノンが{n}行っている。そろそろ戻って…",
-  "en": "",
-  "status": ""
+  "en": "Siskier and Jenon went aboard. They should be back soon...",
+  "status": "done"
  },
  {
   "id": "event_2167_00CE7",
@@ -836,8 +836,8 @@
    29966
   ],
   "jp": "{voice:00F006}ガ、ガーロット、大変だよ！{n}船の中が…、中が……",
-  "en": "",
-  "status": ""
+  "en": "G-Garlot, this is terrible! Inside the ship... inside...",
+  "status": "done"
  },
  {
   "id": "event_2167_00D1B",
@@ -848,8 +848,8 @@
    29987
   ],
   "jp": "{voice:00F106}どうしたんだ、シスキア。",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, Siskier?",
+  "status": "done"
  },
  {
   "id": "event_2167_00D38",
@@ -860,8 +860,8 @@
    30008
   ],
   "jp": "{voice:00F206}ウンディーネが、いっぱい…{n}いっぱい死んでるの……",
-  "en": "",
-  "status": ""
+  "en": "Undines, so many... So many of them, dead...",
+  "status": "done"
  },
  {
   "id": "event_2167_00D6E",
@@ -872,8 +872,8 @@
    30029
   ],
   "jp": "{voice:00F306}ウンディーネが③",
-  "en": "",
-  "status": ""
+  "en": "Undines!?",
+  "status": "done"
  },
  {
   "id": "event_2167_00D83",
@@ -884,8 +884,8 @@
    30050
   ],
   "jp": "{voice:00F406}鎖に繋がれて、{n}体中アザだらけな子もいて……",
-  "en": "",
-  "status": ""
+  "en": "In chains, and some of them covered in bruises...",
+  "status": "done"
  },
  {
   "id": "event_2167_00DB3",
@@ -896,8 +896,8 @@
    30057
   ],
   "jp": "{voice:00F506}だめ、私、もう……",
-  "en": "",
-  "status": ""
+  "en": "No, I can't...",
+  "status": "done"
  },
  {
   "id": "event_2167_00DCA",
@@ -908,8 +908,8 @@
    30078
   ],
   "jp": "{voice:00F606}きっと、酷い扱いを受けてたんだ。",
-  "en": "",
-  "status": ""
+  "en": "They must have been treated horribly.",
+  "status": "done"
  },
  {
   "id": "event_2167_00DEF",
@@ -920,8 +920,8 @@
    30099
   ],
   "jp": "{voice:00F706}つまり、あの船が運んでいた{n}積荷というのは…",
-  "en": "",
-  "status": ""
+  "en": "So what that ship was carrying was...",
+  "status": "done"
  },
  {
   "id": "event_2167_00E1F",
@@ -932,8 +932,8 @@
    30120
   ],
   "jp": "{voice:00F806}多分、ウンディーネ達……",
-  "en": "",
-  "status": ""
+  "en": "Probably the Undines...",
+  "status": "done"
  },
  {
   "id": "event_2167_00E3C",
@@ -944,8 +944,8 @@
    30198
   ],
   "jp": "{voice:00F906}待てよ。{n}どうしてウンディーネが{n}皇帝への貢ぎ物になるんだ？",
-  "en": "",
-  "status": ""
+  "en": "Hold on. Why would Undines be tribute for the Emperor?",
+  "status": "done"
  },
  {
   "id": "event_2167_00E7B",
@@ -956,8 +956,8 @@
    30219
   ],
   "jp": "{voice:00FA06}海のウンディーネは稀少だ。{n}死体だとしても、金銀に劣らない。",
-  "en": "",
-  "status": ""
+  "en": "Sea Undines are rare. Even dead, they're worth as much as gold and silver.",
+  "status": "done"
  },
  {
   "id": "event_2167_00EBB",
@@ -968,8 +968,8 @@
    30240
   ],
   "jp": "{voice:00FB06}……信じられません。",
-  "en": "",
-  "status": ""
+  "en": "...I cannot believe it.",
+  "status": "done"
  },
  {
   "id": "event_2167_00ED4",
@@ -980,8 +980,8 @@
    30261
   ],
   "jp": "{voice:00FC06}貴族様はどこまで傲慢なの！",
-  "en": "",
-  "status": ""
+  "en": "How arrogant can nobles get!",
+  "status": "done"
  },
  {
   "id": "event_2167_00EF3",
@@ -992,8 +992,8 @@
    30282
   ],
   "jp": "{voice:00FD06}今すぐにでも、バリンとかいう{n}貴族の首を取ってやりたい気分だ。",
-  "en": "",
-  "status": ""
+  "en": "Right now, I feel like taking the head of this Balin, whoever he is.",
+  "status": "done"
  },
  {
   "id": "event_2167_00F35",
@@ -1004,8 +1004,8 @@
    30303
   ],
   "jp": "{voice:00FE06}できるなら、あたしもそうしたい。",
-  "en": "",
-  "status": ""
+  "en": "If I could, I'd do the same.",
+  "status": "done"
  },
  {
   "id": "event_2167_00F5A",
@@ -1016,8 +1016,8 @@
    30310
   ],
   "jp": "{voice:00FF06}だが、今のグラムブレイズでは{n}それは叶わないだろう。",
-  "en": "",
-  "status": ""
+  "en": "But Gram Blaze as it is now can't manage it.",
+  "status": "done"
  },
  {
   "id": "event_2167_00F92",
@@ -1028,8 +1028,8 @@
    30331
   ],
   "jp": "{voice:000007}まだ、俺達には力が足りない……{n}そう言う事か。",
-  "en": "",
-  "status": ""
+  "en": "We still don't have enough power... That's what you mean.",
+  "status": "done"
  },
  {
   "id": "event_2167_00FC4",
@@ -1040,8 +1040,8 @@
    30352
   ],
   "jp": "{voice:000107}そうだ、力も、知恵も。{n}そして理も足りない。",
-  "en": "",
-  "status": ""
+  "en": "That's right, power and brains. And right on our side, too.",
+  "status": "done"
  },
  {
   "id": "event_2167_00FF4",
@@ -1052,8 +1052,8 @@
    30446
   ],
   "jp": "{voice:000207}シスキア様！{n}船内にウンディーネの生存者が②",
-  "en": "",
-  "status": ""
+  "en": "Siskier-sama! There is an Undine survivor on the ship!",
+  "status": "done"
  },
  {
   "id": "event_2167_01024",
@@ -1064,8 +1064,8 @@
    30467
   ],
   "jp": "{voice:000307}…えっ？　本当！",
-  "en": "",
-  "status": ""
+  "en": "...What? Really!",
+  "status": "done"
  },
  {
   "id": "event_2167_01039",
@@ -1076,8 +1076,8 @@
    30485
   ],
   "jp": "{voice:000407}意識はあるの？　ケガは？",
-  "en": "",
-  "status": ""
+  "en": "Is she conscious? Is she hurt?",
+  "status": "done"
  },
  {
   "id": "event_2167_01056",
@@ -1088,8 +1088,8 @@
    30503
   ],
   "jp": "{voice:000507}それが…",
-  "en": "",
-  "status": ""
+  "en": "Well...",
+  "status": "done"
  },
  {
   "id": "event_2167_01063",
@@ -1100,8 +1100,8 @@
    30667
   ],
   "jp": "{voice:000607}…ヒック。{n}うーい、っときたもんだ。",
-  "en": "",
-  "status": ""
+  "en": "...*hic*. Ooh, there she goes.",
+  "status": "done"
  },
  {
   "id": "event_2167_0108B",
@@ -1112,8 +1112,8 @@
    30688
   ],
   "jp": "{voice:000707}うわっ酒臭いぞ。{n}おい、酔っぱらいか？",
-  "en": "",
-  "status": ""
+  "en": "Whoa, she stinks of booze. Hey, is she drunk?",
+  "status": "done"
  },
  {
   "id": "event_2167_010B5",
@@ -1124,8 +1124,8 @@
    30709
   ],
   "jp": "{voice:000807}バ～カ言っちゃいけないよ……{n}こんなのは、…酔ったうちに{n}入らねぇっつぅの、ヒック。",
-  "en": "",
-  "status": ""
+  "en": "Don't talk stupid... This don't even count as drunk, y'hear, *hic*.",
+  "status": "done"
  },
  {
   "id": "event_2167_0110C",
@@ -1136,8 +1136,8 @@
    30730
   ],
   "jp": "{voice:000907}君、仲間がどうなったのか{n}わかってるのか！",
-  "en": "",
-  "status": ""
+  "en": "Do you know what happened to your friends!?",
+  "status": "done"
  },
  {
   "id": "event_2167_0113A",
@@ -1148,8 +1148,8 @@
    30751
   ],
   "jp": "{voice:000A07}……わかってるっつーのさ。",
-  "en": "",
-  "status": ""
+  "en": "...'Course I know.",
+  "status": "done"
  },
  {
   "id": "event_2167_01159",
@@ -1160,8 +1160,8 @@
    30769
   ],
   "jp": "{voice:000B07}みんな逝っちゃったよ。{n}あっしの手の届かない世界に……{n}…ヒック。",
-  "en": "",
-  "status": ""
+  "en": "They're all gone. Off to a world I can't reach... ...*hic*.",
+  "status": "done"
  },
  {
   "id": "event_2167_0119E",
@@ -1172,8 +1172,8 @@
    30787
   ],
   "jp": "{voice:000C07}飲まずに、いられるかってんだ！{n}ったくよぉ、人間ってのは{n}湿っぽいぜ……",
-  "en": "",
-  "status": ""
+  "en": "How could I not drink! Humans, I swear, you're such a gloomy bunch...",
+  "status": "done"
  },
  {
   "id": "event_2167_011E9",
@@ -1184,8 +1184,8 @@
    30808
   ],
   "jp": "{voice:000D07}……よかった、{n}無事だったんだね。",
-  "en": "",
-  "status": ""
+  "en": "...I'm glad you're all right.",
+  "status": "done"
  },
  {
   "id": "event_2167_0120F",
@@ -1196,8 +1196,8 @@
    30877
   ],
   "jp": "{voice:000E07}あっしはスレイプ、…ヒック。{n}あんた達は？",
-  "en": "",
-  "status": ""
+  "en": "I'm Sleip... *hic*. And you people?",
+  "status": "done"
  },
  {
   "id": "event_2167_0123D",
@@ -1208,8 +1208,8 @@
    30898
   ],
   "jp": "{voice:000F07}俺はガーロット。{n}あの船を沈める為に、ここへ来た。",
-  "en": "",
-  "status": ""
+  "en": "I'm Garlot. We came here to sink that ship.",
+  "status": "done"
  },
  {
   "id": "event_2167_01273",
@@ -1220,8 +1220,8 @@
    30905
   ],
   "jp": "{voice:001007}荷がまさかウンディーネだとは{n}思わなかった。",
-  "en": "",
-  "status": ""
+  "en": "I had no idea the cargo was Undines.",
+  "status": "done"
  },
  {
   "id": "event_2167_012A3",
@@ -1232,8 +1232,8 @@
    30926
   ],
   "jp": "{voice:001107}…ヒック、まぁあんた達のせいで{n}仲間が死んだワケじゃない。",
-  "en": "",
-  "status": ""
+  "en": "...*hic*, well, it ain't your fault my friends are dead.",
+  "status": "done"
  },
  {
   "id": "event_2167_012E1",
@@ -1244,8 +1244,8 @@
    30947
   ],
   "jp": "{voice:001207}あっしを助けてくれたのは、{n}ヒック、感謝してるぜ、{n}ういーっ。",
-  "en": "",
-  "status": ""
+  "en": "You saved me, *hic*, so I'm grateful, ooh.",
+  "status": "done"
  },
  {
   "id": "event_2167_01322",
@@ -1256,8 +1256,8 @@
    30968
   ],
   "jp": "{voice:001307}みんな…、連れて行かれた。{n}海に戻っても、もう誰もいない…",
-  "en": "",
-  "status": ""
+  "en": "Everyone... got taken away. Even if I go back to the sea, there's nobody left...",
+  "status": "done"
  },
  {
   "id": "event_2167_01360",
@@ -1268,8 +1268,8 @@
    31037
   ],
   "jp": "{voice:001407}ガーロット、{n}彼女の事なんとかならないかな。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, can't we do something for her?",
+  "status": "done"
  },
  {
   "id": "event_2167_01390",
@@ -1280,8 +1280,8 @@
    31058
   ],
   "jp": "{voice:001507}なんとかするさ、俺達が。",
-  "en": "",
-  "status": ""
+  "en": "We'll do something.",
+  "status": "done"
  },
  {
   "id": "event_2167_013AD",
@@ -1292,8 +1292,8 @@
    31079
   ],
   "jp": "{voice:001607}…何？　あっしを連れて{n}行ってくれるの？　ヒック…",
-  "en": "",
-  "status": ""
+  "en": "...What? You'll take me along? *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2167_013E3",
@@ -1316,8 +1316,8 @@
    31121
   ],
   "jp": "{voice:001807}おう！　仕事は何でもするよ。{n}ヒック、それより！　あんた！{n}お酒付き合いなさい！",
-  "en": "",
-  "status": ""
+  "en": "Hey! I'll do any kind of work. *hic*, more to the point! You! Have a drink with me!",
+  "status": "done"
  },
  {
   "id": "event_2167_01443",
@@ -1328,8 +1328,8 @@
    31142
   ],
   "jp": "{voice:001907}俺がか？{n}いや、酒はちょっと…",
-  "en": "",
-  "status": ""
+  "en": "Me? No, I don't really drink...",
+  "status": "done"
  },
  {
   "id": "event_2167_01465",
@@ -1340,8 +1340,8 @@
    31163
   ],
   "jp": "{voice:001A07}何だとぉ！{n}このあっしの、ヒック{n}お酒が飲めないっちゅうのか！",
-  "en": "",
-  "status": ""
+  "en": "What'd you say! You, *hic*, won't drink with me!?",
+  "status": "done"
  },
  {
   "id": "event_2167_014A6",
@@ -1352,8 +1352,8 @@
    31184
   ],
   "jp": "{voice:001B07}こいつらはまだ子供だからな。{n}あたしでよければ付き合うよ。",
-  "en": "",
-  "status": ""
+  "en": "They're still kids, these ones. I'll join you, if I'll do.",
+  "status": "done"
  },
  {
   "id": "event_2167_014E4",
@@ -1364,8 +1364,8 @@
    31205
   ],
   "jp": "{voice:001C07}チッ、……女かよ。",
-  "en": "",
-  "status": ""
+  "en": "Tch... A woman.",
+  "status": "done"
  },
  {
   "id": "event_2167_014FB",
@@ -1376,8 +1376,8 @@
    31242
   ],
   "jp": "{voice:001D07}……よかった、元気そうで。",
-  "en": "",
-  "status": ""
+  "en": "...I'm glad she seems okay.",
+  "status": "done"
  },
  {
   "id": "event_2167_0151A",
@@ -1388,8 +1388,8 @@
    31263
   ],
   "jp": "{voice:001E07}カラ元気、だろうけどね。",
-  "en": "",
-  "status": ""
+  "en": "A brave face, probably.",
+  "status": "done"
  },
  {
   "id": "event_2167_01537",
@@ -1400,8 +1400,8 @@
    31463
   ],
   "jp": "{voice:001F07}ちょっと待ったぁ～②",
-  "en": "",
-  "status": ""
+  "en": "Hold it right there!",
+  "status": "done"
  },
  {
   "id": "event_2167_01550",
@@ -1412,8 +1412,8 @@
    31484
   ],
   "jp": "{voice:002007}また出たか。{n}何者なんだ、お前は。",
-  "en": "",
-  "status": ""
+  "en": "You again. Who are you?",
+  "status": "done"
  },
  {
   "id": "event_2167_01576",
@@ -1424,8 +1424,8 @@
    31505
   ],
   "jp": "{voice:002107}さっきも言ったけど、船の積荷は{n}パメラ様が先に目星を付けたのよ！",
-  "en": "",
-  "status": ""
+  "en": "Like I said, Pamela-sama marked that ship's cargo first!",
+  "status": "done"
  },
  {
   "id": "event_2167_015BA",
@@ -1436,8 +1436,8 @@
    31515
   ],
   "jp": "{voice:002207}横取りハンターイ！{n}そんなのズルイんだわさ！{n}横暴よッ！",
-  "en": "",
-  "status": ""
+  "en": "No stealing! That's so unfair, y'know! So high-handed!",
+  "status": "done"
  },
  {
   "id": "event_2167_015F5",
@@ -1448,8 +1448,8 @@
    31536
   ],
   "jp": "{voice:002307}積み荷というのは、{n}ウンディーネの事か？",
-  "en": "",
-  "status": ""
+  "en": "By cargo, you mean the Undines?",
+  "status": "done"
  },
  {
   "id": "event_2167_01621",
@@ -1460,8 +1460,8 @@
    31557
   ],
   "jp": "{voice:002407}そうよ！{n}それがどうかしたの？",
-  "en": "",
-  "status": ""
+  "en": "That's right! What about it?",
+  "status": "done"
  },
  {
   "id": "event_2167_01643",
@@ -1472,8 +1472,8 @@
    31578
   ],
   "jp": "{voice:002507}ウンディーネ達は、{n}輸送隊の連中に虐殺された。",
-  "en": "",
-  "status": ""
+  "en": "The Undines were massacred by the transport crew.",
+  "status": "done"
  },
  {
   "id": "event_2167_01675",
@@ -1484,8 +1484,8 @@
    31585
   ],
   "jp": "{voice:002607}このスレイプは、{n}俺達と一緒に来る事になった。",
-  "en": "",
-  "status": ""
+  "en": "And this Sleip's coming with us.",
+  "status": "done"
  },
  {
   "id": "event_2167_016A7",
@@ -1496,8 +1496,8 @@
    31606
   ],
   "jp": "{voice:002707}お前みたいな{n}得体の知れない女に渡せるか！",
-  "en": "",
-  "status": ""
+  "en": "I can't hand her over to some shady woman like you!",
+  "status": "done"
  },
  {
   "id": "event_2167_016D5",
@@ -1508,8 +1508,8 @@
    31627
   ],
   "jp": "{voice:002807}むむっ…{n}それは困ったわね～",
-  "en": "",
-  "status": ""
+  "en": "Hmm... That's a problem~",
+  "status": "done"
  },
  {
   "id": "event_2167_016F5",
@@ -1520,8 +1520,8 @@
    31651
   ],
   "jp": "{voice:002907}そうだ☆　こうしましょ！{n}あたしもアンタ達と一緒に行くわ。",
-  "en": "",
-  "status": ""
+  "en": "I know ☆ Here's what we'll do! I'll go with you too.",
+  "status": "done"
  },
  {
   "id": "event_2167_01733",
@@ -1532,8 +1532,8 @@
    31661
   ],
   "jp": "{voice:002A07}ね、あたしはウンディーネを{n}近くで観察できればいいの！{n}ハイ、これにて一件落着。",
-  "en": "",
-  "status": ""
+  "en": "See, I just need to watch that Undine up close! Okay, case closed.",
+  "status": "done"
  },
  {
   "id": "event_2167_01786",
@@ -1544,8 +1544,8 @@
    31682
   ],
   "jp": "{voice:002B07}ダメに決まってるだろ！",
-  "en": "",
-  "status": ""
+  "en": "Of course not!",
+  "status": "done"
  },
  {
   "id": "event_2167_017A1",
@@ -1556,8 +1556,8 @@
    31703
   ],
   "jp": "{voice:002C07}いえ～い、さすが太っ腹～！{n}団長さん、気が利くゥ！",
-  "en": "",
-  "status": ""
+  "en": "Yaaay, how generous~! Captain, you're so thoughtful!",
+  "status": "done"
  },
  {
   "id": "event_2167_017D7",
@@ -1568,8 +1568,8 @@
    31724
   ],
   "jp": "{voice:002D07}お、おい！",
-  "en": "",
-  "status": ""
+  "en": "H-hey!",
+  "status": "done"
  },
  {
   "id": "event_2167_017E6",
@@ -1580,8 +1580,8 @@
    31745
   ],
   "jp": "{voice:002E07}と、いうわけで、パメラ様よ！{n}世紀の大魔法使い、よろぴく♪",
-  "en": "",
-  "status": ""
+  "en": "So there you have it, it's Pamela-sama! Grand sorceress of the century, nice to meetcha ♪",
+  "status": "done"
  },
  {
   "id": "event_2167_01824",
@@ -1592,8 +1592,8 @@
    16242
   ],
   "jp": "ん？{n}木の上から何かが落ちてきて…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something fell out of the tree...",
+  "status": "done"
  },
  {
   "id": "event_2167_01846",
@@ -1604,8 +1604,8 @@
    16263
   ],
   "jp": "これ、ハチの巣じゃないか！{n}ヤバイぜ、ハチ相手じゃ{n}槍なんか当たりっこないぞ？",
-  "en": "",
-  "status": ""
+  "en": "This is a beehive! That's bad, a spear won't do any good against bees!",
+  "status": "done"
  },
  {
   "id": "event_2167_01893",
@@ -1628,8 +1628,8 @@
    16363
   ],
   "jp": "…ハチがいなかったのか…{n}ふぅ。焦ったぜ、まったく。",
-  "en": "",
-  "status": ""
+  "en": "...No bees, huh... Whew. Scared me, honestly.",
+  "status": "done"
  },
  {
   "id": "event_2167_018D2",
@@ -1640,8 +1640,8 @@
    16453
   ],
   "jp": "あら？{n}何か降ってきたけど…",
-  "en": "",
-  "status": ""
+  "en": "Oh? Something fell down...",
+  "status": "done"
  },
  {
   "id": "event_2167_018EE",
@@ -1652,8 +1652,8 @@
    16478
   ],
   "jp": "げげっ、ハチの巣じゃない③{n}まずい、逃げないと…",
-  "en": "",
-  "status": ""
+  "en": "Yikes, it's a beehive!? This is bad, I gotta run...",
+  "status": "done"
  },
  {
   "id": "event_2167_0191E",
@@ -1664,8 +1664,8 @@
    16553
   ],
   "jp": "…な、なんだ。空っぽか…{n}ああ～、焦ったな、もう。",
-  "en": "",
-  "status": ""
+  "en": "...Oh, what. It's empty... Aaah, that scared me, honestly.",
+  "status": "done"
  },
  {
   "id": "event_2167_01950",
@@ -1676,8 +1676,8 @@
    16643
   ],
   "jp": "おや？　上から何か…",
-  "en": "",
-  "status": ""
+  "en": "Oh? Something from above...",
+  "status": "done"
  },
  {
   "id": "event_2167_01965",
@@ -1688,8 +1688,8 @@
    16668
   ],
   "jp": "って、ハチの巣③{n}大変だ、ハチの大群に襲われたら{n}打つ手がないよ！",
-  "en": "",
-  "status": ""
+  "en": "Wait, a beehive!? This is terrible, there's nothing I can do against a swarm of bees!",
+  "status": "done"
  },
  {
   "id": "event_2167_019A6",
@@ -1700,8 +1700,8 @@
    16757
   ],
   "jp": "…出てこない。{n}ビックリしたなぁ、もう…",
-  "en": "",
-  "status": ""
+  "en": "...Nothing's coming out. What a shock, honestly...",
+  "status": "done"
  },
  {
   "id": "event_2167_019CE",
@@ -1712,8 +1712,8 @@
    16854
   ],
   "jp": "ん？　何か落っこちて…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something fell...",
+  "status": "done"
  },
  {
   "id": "event_2167_019E5",
@@ -1724,8 +1724,8 @@
    16879
   ],
   "jp": "うわっ、ハチの巣じゃないか②{n}これはまずいな、{n}早くこの場を離れて…",
-  "en": "",
-  "status": ""
+  "en": "Whoa, it's a beehive! This is bad, I'd better get away from here...",
+  "status": "done"
  },
  {
   "id": "event_2167_01A28",
@@ -1736,8 +1736,8 @@
    16968
   ],
   "jp": "…って、一匹も出てこない。{n}既に使われていない巣だったのか。",
-  "en": "",
-  "status": ""
+  "en": "...Wait, not one came out. It must've been abandoned already.",
+  "status": "done"
  },
  {
   "id": "event_2167_01A64",
@@ -1748,8 +1748,8 @@
    17065
   ],
   "jp": "あら？　木の上から何かが…",
-  "en": "",
-  "status": ""
+  "en": "Oh? Something from the tree...",
+  "status": "done"
  },
  {
   "id": "event_2167_01A7F",
@@ -1760,8 +1760,8 @@
    17090
   ],
   "jp": "…これって、ハチの巣ですか③{n}ハチになんて襲われたら、{n}とても抵抗できませんよ！",
-  "en": "",
-  "status": ""
+  "en": "...Is this a beehive!? If bees attack me, I could never fight them off!",
+  "status": "done"
  },
  {
   "id": "event_2167_01ACE",
@@ -1772,8 +1772,8 @@
    17179
   ],
   "jp": "襲って、こない…{n}留守だったみたいですね。{n}よかった…",
-  "en": "",
-  "status": ""
+  "en": "They are not attacking... It seems no one is home. Thank goodness...",
+  "status": "done"
  },
  {
   "id": "event_2167_01B03",
@@ -1784,8 +1784,8 @@
    17269
   ],
   "jp": "む？　なんか、降ってきたなぁ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something fell down.",
+  "status": "done"
  },
  {
   "id": "event_2167_01B22",
@@ -1796,8 +1796,8 @@
    17294
   ],
   "jp": "な、なんだこれは③{n}数え切れないほどの穴が整然と{n}並んでいるぞッ②",
-  "en": "",
-  "status": ""
+  "en": "Wh-what is this!? Countless holes, lined up in perfect order!",
+  "status": "done"
  },
  {
   "id": "event_2167_01B63",
@@ -1808,8 +1808,8 @@
    17383
   ],
   "jp": "きっと珍しいものに違いない。{n}いただいておこう。",
-  "en": "",
-  "status": ""
+  "en": "It must be something rare. Byff will take it.",
+  "status": "done"
  },
  {
   "id": "event_2167_01B93",
@@ -1820,8 +1820,8 @@
    17473
   ],
   "jp": "あら、何か落ちてきたわね…",
-  "en": "",
-  "status": ""
+  "en": "Oh, something fell...",
+  "status": "done"
  },
  {
   "id": "event_2167_01BAE",

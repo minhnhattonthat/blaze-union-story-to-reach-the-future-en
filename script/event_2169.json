@@ -2034,8 +2034,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "到達した。",
-  "en": "",
-  "status": ""
+  "en": "We've arrived.",
+  "status": "done"
  },
  {
   "id": "event_2169_01DB1",

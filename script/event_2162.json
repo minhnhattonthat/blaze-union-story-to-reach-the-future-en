@@ -1594,8 +1594,8 @@
    36363
   ],
   "jp": "む、むむ…{n}なんだこのカバン！{n}全然開かないぞ③",
-  "en": "",
-  "status": ""
+  "en": "Hm, hmm... What's with this bag! It won't open at all!?",
+  "status": "done"
  },
  {
   "id": "event_2162_01A23",
@@ -1606,8 +1606,8 @@
    36384
   ],
   "jp": "お、おかしいな。{n}私が、カバン１つ{n}開けれないなんて…",
-  "en": "",
-  "status": ""
+  "en": "Th-that's odd. For me to be unable to open one little bag...",
+  "status": "done"
  },
  {
   "id": "event_2162_01A58",
@@ -1618,8 +1618,8 @@
    36478
   ],
   "jp": "カバンが落ちていますね…",
-  "en": "",
-  "status": ""
+  "en": "There is a bag lying here...",
+  "status": "done"
  },
  {
   "id": "event_2162_01A71",
@@ -1630,8 +1630,8 @@
    36553
   ],
   "jp": "あら？　このカバン…{n}口が固くて、開きませんね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? This bag... The mouth is stiff, it will not open.",
+  "status": "done"
  },
  {
   "id": "event_2162_01AA1",
@@ -1642,8 +1642,8 @@
    36637
   ],
   "jp": "ん？　何か落ちているな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something is lying here...",
+  "status": "done"
  },
  {
   "id": "event_2162_01ABA",
@@ -1654,8 +1654,8 @@
    36726
   ],
   "jp": "カバンか。中には何が入って…{n}って、開かない③{n}なんじゃあ、このカバン③",
-  "en": "",
-  "status": ""
+  "en": "A bag. What is in it... Wait, it will not open!? What is with this bag!?",
+  "status": "done"
  },
  {
   "id": "event_2162_01B01",
@@ -1666,8 +1666,8 @@
    36817
   ],
   "jp": "んん？　何か落ちているわね。",
-  "en": "",
-  "status": ""
+  "en": "Hmm? Something's lying here.",
+  "status": "done"
  },
  {
   "id": "event_2162_01B1E",
@@ -1678,8 +1678,8 @@
    36906
   ],
   "jp": "カバンね。{n}全然開いてくれないんだけど…{n}根性曲がってるのね、きっと。",
-  "en": "",
-  "status": ""
+  "en": "A bag. It won't open for me at all... Must have a twisted personality.",
+  "status": "done"
  },
  {
   "id": "event_2162_01B63",
@@ -1690,8 +1690,8 @@
    37000
   ],
   "jp": "お、カバンだ！{n}何が入っているんだろうな？{n}さっそく中身を…",
-  "en": "",
-  "status": ""
+  "en": "Oh, a bag! Wonder what's inside? Let's have a look...",
+  "status": "done"
  },
  {
   "id": "event_2162_01B9E",
@@ -1702,8 +1702,8 @@
    37089
   ],
   "jp": "…って、アレ③{n}開かないぞ、このカバン！{n}くっ、なんか負けた気分だぜぇ…",
-  "en": "",
-  "status": ""
+  "en": "...Wait, huh!? This bag won't open! Tch, I feel like I lost somehow...",
+  "status": "done"
  },
  {
   "id": "event_2162_01BE5",
@@ -1714,8 +1714,8 @@
    37193
   ],
   "jp": "うぃ～っく…{n}んん？　なんか、落ちてるわねぇ。",
-  "en": "",
-  "status": ""
+  "en": "*hiiic*... Hmm? Something's lying here.",
+  "status": "done"
  },
  {
   "id": "event_2162_01C13",
@@ -1726,8 +1726,8 @@
    37215
   ],
   "jp": "カバンか…{n}ちょっと気持ち悪くなってきたし、{n}フクロ欲しかったのよね、ヒック。",
-  "en": "",
-  "status": ""
+  "en": "A bag... I'm starting to feel sick, so I wanted a sack anyway, *hic*.",
+  "status": "done"
  },
  {
   "id": "event_2162_01C60",
@@ -1738,8 +1738,8 @@
    37304
   ],
   "jp": "あら③　な、なによこのカバン、{n}全然開かないじゃない…！",
-  "en": "",
-  "status": ""
+  "en": "Oh!? Wh-what's with this bag, it won't open at all...!",
+  "status": "done"
  },
  {
   "id": "event_2162_01C98",
@@ -1750,8 +1750,8 @@
    37325
   ],
   "jp": "ん、ん、あっ、開かない…！{n}…も、もうダメよぉ。",
-  "en": "",
-  "status": ""
+  "en": "Mm, mm, ah, it won't open...! ...I-I can't hold it...",
+  "status": "done"
  },
  {
   "id": "event_2162_01CC8",
@@ -1762,8 +1762,8 @@
    37351
   ],
   "jp": "ウェッ…②",
-  "en": "",
-  "status": ""
+  "en": "*urp*...!",
+  "status": "done"
  },
  {
   "id": "event_2162_01CD3",
@@ -1774,8 +1774,8 @@
    37466
   ],
   "jp": "ん～？{n}カバンが落ちてるわね。{n}ちょっくら中身を拝け～ん、っと。",
-  "en": "",
-  "status": ""
+  "en": "Hmmm? A bag on the ground. Let's take a little peek inside~",
+  "status": "done"
  },
  {
   "id": "event_2162_01D12",
@@ -1786,8 +1786,8 @@
    37552
   ],
   "jp": "ムムッ③　あ、開かない③{n}か、カバンのくせに生意気ね②",
-  "en": "",
-  "status": ""
+  "en": "Hm!? I-it won't open!? H-how cheeky, for a bag!",
+  "status": "done"
  },
  {
   "id": "event_2162_01D48",
@@ -1798,8 +1798,8 @@
    37573
   ],
   "jp": "でも、こうなると意地でも{n}開けたくなってくるわよねぇ。{n}キェーッ②　開けぇー②",
-  "en": "",
-  "status": ""
+  "en": "But now I really gotta get it open, out of sheer spite. Kyaaah! Open uuup!",
+  "status": "done"
  },
  {
   "id": "event_2162_01D95",
@@ -1810,8 +1810,8 @@
    37749
   ],
   "jp": "ここは領主の屋敷かな？",
-  "en": "",
-  "status": ""
+  "en": "Is this the lord's mansion?",
+  "status": "done"
  },
  {
   "id": "event_2162_01DAC",
@@ -1822,8 +1822,8 @@
    37824
   ],
   "jp": "お。ピカピカのバッジが{n}落ちているな。{n}どれ、もらっておくか。",
-  "en": "",
-  "status": ""
+  "en": "Oh. A shiny badge lying here. Well, guess I'll take it.",
+  "status": "done"
  },
  {
   "id": "event_2162_01DE9",
@@ -1834,8 +1834,8 @@
    37914
   ],
   "jp": "…バカにデカイ屋敷ね。",
-  "en": "",
-  "status": ""
+  "en": "...Ridiculously huge mansion.",
+  "status": "done"
  },
  {
   "id": "event_2162_01E00",
@@ -1846,8 +1846,8 @@
    37939
   ],
   "jp": "どうせ、金にものを言わせて{n}建てさせたのね。{n}…ったく、気に入らないわ…",
-  "en": "",
-  "status": ""
+  "en": "Bet they threw money around to get it built. ...Honestly, I can't stand it...",
+  "status": "done"
  },
  {
   "id": "event_2162_01E47",
@@ -1858,8 +1858,8 @@
    38028
   ],
   "jp": "このバッジも、{n}この家の住人の持ち物かな？{n}…フン。くすねてやる。",
-  "en": "",
-  "status": ""
+  "en": "Maybe this badge belongs to whoever lives here? ...Hmph. I'm swiping it.",
+  "status": "done"
  },
  {
   "id": "event_2162_01E88",
@@ -1870,8 +1870,8 @@
    38119
   ],
   "jp": "ここは、領主の館みたいだね。",
-  "en": "",
-  "status": ""
+  "en": "This looks like the lord's manor.",
+  "status": "done"
  },
  {
   "id": "event_2162_01EA5",
@@ -1882,8 +1882,8 @@
    38197
   ],
   "jp": "おや、バッジが落ちてるね。{n}もらっておこうかな？",
-  "en": "",
-  "status": ""
+  "en": "Oh, there's a badge lying here. Shall I take it?",
+  "status": "done"
  },
  {
   "id": "event_2162_01ED5",
@@ -1894,8 +1894,8 @@
    38277
   ],
   "jp": "む？　何か落ちているな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something's lying here...",
+  "status": "done"
  },
  {
   "id": "event_2162_01EEE",
@@ -1906,8 +1906,8 @@
    38363
   ],
   "jp": "勲章としてはイマイチだけど、{n}もらっておこうかしら。",
-  "en": "",
-  "status": ""
+  "en": "Not much as medals go, but I think I'll take it.",
+  "status": "done"
  },
  {
   "id": "event_2162_01F22",
@@ -1918,8 +1918,8 @@
    38443
   ],
   "jp": "このあたりは、{n}街の中心部ですかね？",
-  "en": "",
-  "status": ""
+  "en": "Would this area be the center of town?",
+  "status": "done"
  },
  {
   "id": "event_2162_01F46",
@@ -1930,8 +1930,8 @@
    38529
   ],
   "jp": "あら、バッジですね。{n}いただいておきましょうか。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a badge. Let me take it.",
+  "status": "done"
  },
  {
   "id": "event_2162_01F76",
@@ -1942,8 +1942,8 @@
    38616
   ],
   "jp": "ん？　何か落ちているな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something is lying here...",
+  "status": "done"
  },
  {
   "id": "event_2162_01F8F",
@@ -1954,8 +1954,8 @@
    38702
   ],
   "jp": "シルバーバッジだな！{n}銀色に光っていて、カッコイイな。",
-  "en": "",
-  "status": ""
+  "en": "A Silver Badge! It shines silver, it looks cool.",
+  "status": "done"
  },
  {
   "id": "event_2162_01FC5",
@@ -1966,8 +1966,8 @@
    38789
   ],
   "jp": "あら、何か落ちてるんじゃない？",
-  "en": "",
-  "status": ""
+  "en": "Oh, isn't there something on the ground?",
+  "status": "done"
  },
  {
   "id": "event_2162_01FE4",
@@ -1978,8 +1978,8 @@
    38864
   ],
   "jp": "バッジじゃない。{n}ちょっと子どもっぽいけど、{n}ま、もらっておこうかしら？",
-  "en": "",
-  "status": ""
+  "en": "Why, it's a badge. A bit childish, but well, I'll take it, I suppose?",
+  "status": "done"
  },
  {
   "id": "event_2162_0202B",
@@ -1990,8 +1990,8 @@
    38954
   ],
   "jp": "んん？　なんだろう、{n}金目のものの気配がするぜ…",
-  "en": "",
-  "status": ""
+  "en": "Hmm? Something's telling me there's valuables around...",
+  "status": "done"
  },
  {
   "id": "event_2162_0205B",
@@ -2002,8 +2002,8 @@
    38976
   ],
   "jp": "そこかッ②",
-  "en": "",
-  "status": ""
+  "en": "There!",
+  "status": "done"
  },
  {
   "id": "event_2162_02066",
@@ -2014,8 +2014,8 @@
    39065
   ],
   "jp": "よし、ゲットしたぜぇ！",
-  "en": "",
-  "status": ""
+  "en": "All right, got it!",
+  "status": "done"
  },
  {
   "id": "event_2162_0207D",
@@ -2026,8 +2026,8 @@
    39159
   ],
   "jp": "ヒ～ック、酔っ払っちまったよ、{n}ウィ～…",
-  "en": "",
-  "status": ""
+  "en": "*hiiic*, I'm all drunk, ooh...",
+  "status": "done"
  },
  {
   "id": "event_2162_020A5",
@@ -2038,8 +2038,8 @@
    39184
   ],
   "jp": "……ん？{n}なんか、足元擦ってるわねぇ…{n}しかも、なんか痛い、痛い…",
-  "en": "",
-  "status": ""
+  "en": "...Hm? Something's rubbing at my foot... And it kinda hurts, it hurts...",
+  "status": "done"
  },
  {
   "id": "event_2162_020E6",
@@ -2050,8 +2050,8 @@
    39270
   ],
   "jp": "あー、このバッジか…{n}針が刺さったのね。{n}どおりで痛いわけよね…",
-  "en": "",
-  "status": ""
+  "en": "Oh, this badge... The pin stuck me. No wonder it hurts...",
+  "status": "done"
  },
  {
   "id": "event_2162_02125",
@@ -2062,8 +2062,8 @@
    39364
   ],
   "jp": "ウホッ②{n}なーんか知らないけど{n}レアアイテムの気配がするわ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa! I dunno what, but I sense a rare item!",
+  "status": "done"
  },
  {
   "id": "event_2162_02160",
@@ -2074,8 +2074,8 @@
    39392
   ],
   "jp": "そこかっ②",
-  "en": "",
-  "status": ""
+  "en": "There!",
+  "status": "done"
  },
  {
   "id": "event_2162_0216B",
@@ -2086,8 +2086,8 @@
    39481
   ],
   "jp": "銀色のバッジ…{n}フンフン、まぁまぁなシロモノ{n}ってところかしらね？",
-  "en": "",
-  "status": ""
+  "en": "A silver badge... Hm, hm, I'd say it's pretty so-so?",
+  "status": "done"
  },
  {
   "id": "event_2162_02266",
@@ -2110,8 +2110,8 @@
    8908
   ],
   "jp": "盗賊団A",
-  "en": "",
-  "status": ""
+  "en": "Thief A",
+  "status": "done"
  },
  {
   "id": "event_2162_02378",
@@ -2122,7 +2122,7 @@
    9077
   ],
   "jp": "盗賊団B",
-  "en": "",
-  "status": ""
+  "en": "Thief B",
+  "status": "done"
  }
 ]

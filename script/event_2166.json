@@ -8,8 +8,8 @@
    9709
   ],
   "jp": "{voice:004606}ううぅっ、息苦しい……",
-  "en": "",
-  "status": ""
+  "en": "Ugh, it's hard to breathe...",
+  "status": "done"
  },
  {
   "id": "event_2166_00043",
@@ -20,8 +20,8 @@
    9727
   ],
   "jp": "{voice:004706}毒沼の瘴気のせいだ。{n}沼には注意しろ。毒素が触れれば{n}肌がただれるわよ。",
-  "en": "",
-  "status": ""
+  "en": "That's the miasma from the poison swamp. Careful. Touch the toxins and your skin will blister.",
+  "status": "done"
  },
  {
   "id": "event_2166_0008E",
@@ -32,8 +32,8 @@
    9745
   ],
   "jp": "{voice:004806}うわ、そうなのね……{n}この服、着てくるんじゃなかった。",
-  "en": "",
-  "status": ""
+  "en": "Yikes, really... I shouldn't have worn this outfit.",
+  "status": "done"
  },
  {
   "id": "event_2166_000C8",
@@ -44,8 +44,8 @@
    9847
   ],
   "jp": "{voice:004906}そうか、毒かあ。{n}濃縮して大砲の弾に詰めれば{n}対人戦闘力、大幅アップねぇ……",
-  "en": "",
-  "status": ""
+  "en": "Oh, poison, huh. Concentrate it and pack it in a cannonball, and my anti-personnel power goes way up...",
+  "status": "done"
  },
  {
   "id": "event_2166_00117",
@@ -56,8 +56,8 @@
    9865
   ],
   "jp": "{voice:004A06}危険な発想だな、呆れるよ。",
-  "en": "",
-  "status": ""
+  "en": "That's a dangerous idea. You amaze me.",
+  "status": "done"
  },
  {
   "id": "event_2166_00136",
@@ -68,8 +68,8 @@
    9872
   ],
   "jp": "{voice:004B06}それに、市街戦で使ったら、{n}しばらく人が住めなくなるだろ？",
-  "en": "",
-  "status": ""
+  "en": "Besides, use it in a street fight and nobody could live there for a good while, right?",
+  "status": "done"
  },
  {
   "id": "event_2166_00174",
@@ -80,8 +80,8 @@
    9890
   ],
   "jp": "{voice:004C06}あらそう？{n}ま、それは後で考えるとして。{n}この計画、進めてみようかしら。",
-  "en": "",
-  "status": ""
+  "en": "Oh, really? Well, I'll think about that later. Maybe I'll push ahead with this plan.",
+  "status": "done"
  },
  {
   "id": "event_2166_001BF",
@@ -104,8 +104,8 @@
    9984
   ],
   "jp": "{voice:004D06}ここでの戦闘は避けたいね。{n}兵の消耗が激しいし。",
-  "en": "",
-  "status": ""
+  "en": "I'd like to avoid fighting here. It's hard on the troops.",
+  "status": "done"
  },
  {
   "id": "event_2166_001FE",
@@ -116,8 +116,8 @@
    10002
   ],
   "jp": "{voice:004E06}まだ、着かないのか？",
-  "en": "",
-  "status": ""
+  "en": "Are we not there yet?",
+  "status": "done"
  },
  {
   "id": "event_2166_00217",
@@ -128,8 +128,8 @@
    10020
   ],
   "jp": "{voice:004F06}もう少しだって。",
-  "en": "",
-  "status": ""
+  "en": "Almost.",
+  "status": "done"
  },
  {
   "id": "event_2166_0022C",
@@ -140,8 +140,8 @@
    10027
   ],
   "jp": "{voice:005006}ところで……{n}そっちの人が雇い主の貴族さん？",
-  "en": "",
-  "status": ""
+  "en": "By the way... that guy there's the noble who's your employer?",
+  "status": "done"
  },
  {
   "id": "event_2166_0025C",
@@ -152,8 +152,8 @@
    10045
   ],
   "jp": "{voice:005106}その通りだ、はだしのミゼル。",
-  "en": "",
-  "status": ""
+  "en": "That is correct, Barefoot Mizer.",
+  "status": "done"
  },
  {
   "id": "event_2166_0027D",
@@ -164,8 +164,8 @@
    10063
   ],
   "jp": "{voice:005206}うーん…、やっぱり見覚えないな。{n}大体、こんな隙のないヤツ…{n}いや貴族様からはスらないし。",
-  "en": "",
-  "status": ""
+  "en": "Hmm... I really don't recognize him. Besides, someone so careful... I mean, a noble, I wouldn't lift from.",
+  "status": "done"
  },
  {
   "id": "event_2166_002DA",
@@ -176,8 +176,8 @@
    10081
   ],
   "jp": "{voice:005306}お前の戦利品を改めればわかる。",
-  "en": "",
-  "status": ""
+  "en": "We will know when we examine your loot.",
+  "status": "done"
  },
  {
   "id": "event_2166_002FD",
@@ -188,8 +188,8 @@
    10099
   ],
   "jp": "{voice:005406}フン…、{n}愛想のないヤツ、いや貴族様だな。",
-  "en": "",
-  "status": ""
+  "en": "Hmph... Not a friendly guy... I mean, noble.",
+  "status": "done"
  },
  {
   "id": "event_2166_0032B",
@@ -212,8 +212,8 @@
    10182
   ],
   "jp": "{voice:005506}……ガーロット、{n}右前方に伏兵の気配がする！",
-  "en": "",
-  "status": ""
+  "en": "...Garlot, I sense an ambush ahead to the right!",
+  "status": "done"
  },
  {
   "id": "event_2166_00366",
@@ -224,8 +224,8 @@
    10200
   ],
   "jp": "{voice:005606}やられたッ！{n}矢に警戒！　盾を構えろ②",
-  "en": "",
-  "status": ""
+  "en": "We've been had! Watch for arrows! Shields up!",
+  "status": "done"
  },
  {
   "id": "event_2166_00390",
@@ -236,8 +236,8 @@
    10440
   ],
   "jp": "{voice:005706}お前の差し金か！　ミゼルッ②",
-  "en": "",
-  "status": ""
+  "en": "This was your doing! Mizer!",
+  "status": "done"
  },
  {
   "id": "event_2166_003B1",
@@ -248,8 +248,8 @@
    10468
   ],
   "jp": "{voice:005806}ま、こういう事は想定済みってね！",
-  "en": "",
-  "status": ""
+  "en": "Well, I'd planned for something like this, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2166_003D6",
@@ -260,8 +260,8 @@
    10513
   ],
   "jp": "{voice:005906}親分！　ご無事で③",
-  "en": "",
-  "status": ""
+  "en": "Boss! You're safe!?",
+  "status": "done"
  },
  {
   "id": "event_2166_003ED",
@@ -272,8 +272,8 @@
    10541
   ],
   "jp": "{voice:005A06}お前ら、よくやったぜ！{n}さあ行くぜ！　オイラ達の戦い方、{n}見せてやろうぜ！",
-  "en": "",
-  "status": ""
+  "en": "Nice work, you lot! Now let's go! Let's show them how we fight!",
+  "status": "done"
  },
  {
   "id": "event_2166_0043A",
@@ -284,8 +284,8 @@
    10559
   ],
   "jp": "{voice:005B06}俺はお前を信じてたんだぞ。{n}裏切りやがって……",
-  "en": "",
-  "status": ""
+  "en": "I trusted you. You double-crossing...",
+  "status": "done"
  },
  {
   "id": "event_2166_0046C",
@@ -296,8 +296,8 @@
    10577
   ],
   "jp": "{voice:005C06}はぁ？　裏切ってなんかないよ。{n}信じたのはアンタの勝手だろ。",
-  "en": "",
-  "status": ""
+  "en": "Huh? I didn't double-cross anybody. Trusting me was your own choice.",
+  "status": "done"
  },
  {
   "id": "event_2166_004AC",
@@ -308,8 +308,8 @@
    10721
   ],
   "jp": "{voice:005D06}許さねぇぜ、ミゼル②",
-  "en": "",
-  "status": ""
+  "en": "I won't forgive this, Mizer!",
+  "status": "done"
  },
  {
   "id": "event_2166_004C5",
@@ -320,8 +320,8 @@
    10914
   ],
   "jp": "{voice:005E06}奴らは森の中だ！{n}今は見えないが、必ずいる②",
-  "en": "",
-  "status": ""
+  "en": "They're in the forest! I can't see them now, but they're there!",
+  "status": "done"
  },
  {
   "id": "event_2166_004F5",
@@ -332,8 +332,8 @@
    10921
   ],
   "jp": "{voice:005F06}悔しいが、地の利は奴らにある。{n}慎重さを忘れるな！",
-  "en": "",
-  "status": ""
+  "en": "I hate to say it, but they've got the home advantage. Don't forget to be careful!",
+  "status": "done"
  },
  {
   "id": "event_2166_0052B",
@@ -344,8 +344,8 @@
    63203
   ],
   "jp": "{voice:006006}今だッ、攻めろッ！",
-  "en": "",
-  "status": ""
+  "en": "Now! Attack!",
+  "status": "done"
  },
  {
   "id": "event_2166_00542",
@@ -356,8 +356,8 @@
    63221
   ],
   "jp": "{voice:006106}そこかっ！",
-  "en": "",
-  "status": ""
+  "en": "There!",
+  "status": "done"
  },
  {
   "id": "event_2166_00551",
@@ -368,8 +368,8 @@
    64987
   ],
   "jp": "{voice:006206}なんだアイツ等、{n}地形の不利をものともしてない……",
-  "en": "",
-  "status": ""
+  "en": "What's with those guys, the bad terrain's not bothering them at all...",
+  "status": "done"
  },
  {
   "id": "event_2166_00587",
@@ -380,8 +380,8 @@
    65008
   ],
   "jp": "{voice:006306}一旦引き上げて態勢を整えるぜ！",
-  "en": "",
-  "status": ""
+  "en": "Let's pull back for now and regroup!",
+  "status": "done"
  },
  {
   "id": "event_2166_005AA",
@@ -392,8 +392,8 @@
    65026
   ],
   "jp": "{voice:006406}了解です、親分！",
-  "en": "",
-  "status": ""
+  "en": "Got it, boss!",
+  "status": "done"
  },
  {
   "id": "event_2166_005BF",
@@ -404,8 +404,8 @@
    65168
   ],
   "jp": "{voice:006506}やはり逃げ足の早さは相当だな。",
-  "en": "",
-  "status": ""
+  "en": "He sure is quick to run away.",
+  "status": "done"
  },
  {
   "id": "event_2166_005E2",
@@ -418,8 +418,8 @@
    11124
   ],
   "jp": "おや？　このあたりでは見ない{n}珍しい種類の蝶だね…",
-  "en": "",
-  "status": ""
+  "en": "Oh? That's a rare kind of butterfly, you don't see those around here...",
+  "status": "done"
  },
  {
   "id": "event_2166_00614",
@@ -432,8 +432,8 @@
    11131
   ],
   "jp": "その蝶、譲ってくれないか？{n}今度、家に戻ったとき、{n}娘に見せてやりたいんだ。",
-  "en": "",
-  "status": ""
+  "en": "Would you let me have that butterfly? I'd love to show it to my daughter next time I'm home.",
+  "status": "done"
  },
  {
   "id": "event_2166_0065F",
@@ -446,8 +446,8 @@
    11142
   ],
   "jp": "やあ、いいのかい？{n}恩に着るよ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, really? I owe you one.",
+  "status": "done"
  },
  {
   "id": "event_2166_0067F",
@@ -460,8 +460,8 @@
    11217
   ],
   "jp": "お礼にこれをあげるよ。{n}持って行ってくれ。{n}きっと役に立つはずさ。",
-  "en": "",
-  "status": ""
+  "en": "Take this as thanks. Go on. It's sure to come in handy.",
+  "status": "done"
  },
  {
   "id": "event_2166_006C0",
@@ -474,8 +474,8 @@
    11241
   ],
   "jp": "蝶をありがとう。",
-  "en": "",
-  "status": ""
+  "en": "Thanks for the butterfly.",
+  "status": "done"
  },
  {
   "id": "event_2166_006D1",
@@ -488,8 +488,8 @@
    11248
   ],
   "jp": "娘は、植物や昆虫に{n}興味があるみたいなんだ。{n}きっと喜んでくれると思うよ。",
-  "en": "",
-  "status": ""
+  "en": "My daughter's interested in plants and insects, you see. I'm sure she'll be glad.",
+  "status": "done"
  },
  {
   "id": "event_2166_0071A",
@@ -502,8 +502,8 @@
    11255
   ],
   "jp": "俺達の家？{n}川向こうにある集落にあるよ。",
-  "en": "",
-  "status": ""
+  "en": "Our house? It's in the settlement across the river.",
+  "status": "done"
  },
  {
   "id": "event_2166_00742",
@@ -516,8 +516,8 @@
    11262
   ],
   "jp": "そんな大した距離じゃないけど、{n}家族と離れて過ごす時間は{n}やっぱり寂しいものさ。",
-  "en": "",
-  "status": ""
+  "en": "It's not that far, but being away from your family is still lonely.",
+  "status": "done"
  },
  {
   "id": "event_2166_00791",
@@ -530,8 +530,8 @@
    11286
   ],
   "jp": "俺と弟は、この小屋に寝泊りして、{n}すぐ傍にあるギルギト大橋を{n}見張っているんだ。",
-  "en": "",
-  "status": ""
+  "en": "My brother and I sleep in this hut and keep watch on Gilgit Bridge right next to it.",
+  "status": "done"
  },
  {
   "id": "event_2166_007E0",
@@ -544,8 +544,8 @@
    11293
   ],
   "jp": "もし橋が落とされたら{n}帝国東部の交易が停滞する……{n}野盗が考えそうな事だろ？",
-  "en": "",
-  "status": ""
+  "en": "If the bridge fell, trade in the east of the Empire would stall... Just what bandits would think up, right?",
+  "status": "done"
  },
  {
   "id": "event_2166_0082B",
@@ -558,8 +558,8 @@
    11300
   ],
   "jp": "もっとも、最近のここいらは{n}ミゼルファミリーの力が強くて、{n}野盗は大人しいものだけどね。",
-  "en": "",
-  "status": ""
+  "en": "Though the Mizer Family's so strong around here lately that the bandits have been keeping quiet.",
+  "status": "done"
  },
  {
   "id": "event_2166_00882",
@@ -572,8 +572,8 @@
    11307
   ],
   "jp": "そこで俺達兄弟は、{n}見張りを交代制にして、{n}片方は家に戻るようにしたんだ。",
-  "en": "",
-  "status": ""
+  "en": "So my brother and I take turns on watch, and one of us goes home.",
+  "status": "done"
  },
  {
   "id": "event_2166_008CB",
@@ -586,8 +586,8 @@
    11314
   ],
   "jp": "俺達の家？{n}川向こうにある集落にあるよ。",
-  "en": "",
-  "status": ""
+  "en": "Our house? It's in the settlement across the river.",
+  "status": "done"
  },
  {
   "id": "event_2166_008F3",
@@ -600,8 +600,8 @@
    11321
   ],
   "jp": "そんな大した距離じゃないけど、{n}家族と離れて過ごす時間は{n}やっぱり寂しいものさ。",
-  "en": "",
-  "status": ""
+  "en": "It's not that far, but being away from your family is still lonely.",
+  "status": "done"
  },
  {
   "id": "event_2166_00942",
@@ -614,8 +614,8 @@
    11435
   ],
   "jp": "あ？　兵隊さん、兵隊さん。{n}ビーズ、持ってない？",
-  "en": "",
-  "status": ""
+  "en": "Oh? Soldier, soldier. Do you have any beads?",
+  "status": "done"
  },
  {
   "id": "event_2166_00972",
@@ -628,8 +628,8 @@
    11442
   ],
   "jp": "…わあっ、キレイなビーズ…",
-  "en": "",
-  "status": ""
+  "en": "...Wow, what pretty beads...",
+  "status": "done"
  },
  {
   "id": "event_2166_0098D",
@@ -642,8 +642,8 @@
    11449
   ],
   "jp": "ねぇ、コレでアクセサリを{n}作ったら、ダメかな？",
-  "en": "",
-  "status": ""
+  "en": "Hey, could I make jewelry with these?",
+  "status": "done"
  },
  {
   "id": "event_2166_009BB",
@@ -656,8 +656,8 @@
    11460
   ],
   "jp": "…いいのっ？　ありがとう！{n}ちょっと待ってて、{n}すぐに仕上げるからね！",
-  "en": "",
-  "status": ""
+  "en": "...Really? Thank you! Wait a second, I'll finish it right away!",
+  "status": "done"
  },
  {
   "id": "event_2166_00A00",
@@ -670,8 +670,8 @@
    11535
   ],
   "jp": "はい、お待たせ！{n}どう？　上手なものでしょ。",
-  "en": "",
-  "status": ""
+  "en": "Here, sorry to keep you! How's that? Pretty good, huh?",
+  "status": "done"
  },
  {
   "id": "event_2166_00A2C",
@@ -684,8 +684,8 @@
    11542
   ],
   "jp": "大事に使ってね！",
-  "en": "",
-  "status": ""
+  "en": "Take good care of it!",
+  "status": "done"
  },
  {
   "id": "event_2166_00A3D",
@@ -698,8 +698,8 @@
    11566
   ],
   "jp": "ドロミノス湿地帯は、{n}男手が必要な仕事があちこちに{n}点在しているんです。",
-  "en": "",
-  "status": ""
+  "en": "The Dorominos Marshes have jobs all over the place that need strong men.",
+  "status": "done"
  },
  {
   "id": "event_2166_00A84",
@@ -712,8 +712,8 @@
    11573
   ],
   "jp": "瘴気の出る泥濘を埋め立てたり、{n}急流に橋を架けたり…{n}色々ですね。",
-  "en": "",
-  "status": ""
+  "en": "Filling in the mud that gives off miasma, building bridges over the rapids... All kinds of things.",
+  "status": "done"
  },
  {
   "id": "event_2166_00AC5",
@@ -726,8 +726,8 @@
    11580
   ],
   "jp": "私の旦那も、義弟と一緒に{n}川向こうで橋守りをしています。",
-  "en": "",
-  "status": ""
+  "en": "My husband's also across the river with his brother, watching the bridge.",
+  "status": "done"
  },
  {
   "id": "event_2166_00AFD",
@@ -740,8 +740,8 @@
    11587
   ],
   "jp": "出稼ぎみたいなものです。{n}だからこの集落は、大人の男性が{n}極端に少ないんですよ。",
-  "en": "",
-  "status": ""
+  "en": "They're sort of working away from home. So this settlement has very few grown men.",
+  "status": "done"
  },
  {
   "id": "event_2166_00B4C",
@@ -754,8 +754,8 @@
    11594
   ],
   "jp": "たまに戻ってきますけど、{n}やっぱり心配ですよね…",
-  "en": "",
-  "status": ""
+  "en": "He comes back now and then, but I do worry...",
+  "status": "done"
  },
  {
   "id": "event_2166_00B7C",
@@ -768,8 +768,8 @@
    11700
   ],
   "jp": "ハァ…{n}私って、どうしてこんなに{n}運がないのかな？",
-  "en": "",
-  "status": ""
+  "en": "*sigh*... Why am I so unlucky?",
+  "status": "done"
  },
  {
   "id": "event_2166_00BAD",
@@ -782,8 +782,8 @@
    11707
   ],
   "jp": "薄暗い森の中に生まれて、{n}ニワトリに囲まれた青春を過ごし、{n}一生を終える…",
-  "en": "",
-  "status": ""
+  "en": "Born in a dim forest, spending my youth surrounded by chickens, and that's the end of my life...",
+  "status": "done"
  },
  {
   "id": "event_2166_00BF6",
@@ -796,8 +796,8 @@
    11714
   ],
   "jp": "…ふ、不幸だわっ！{n}こんな一生、どう考えても②",
-  "en": "",
-  "status": ""
+  "en": "...H-how miserable! Any way you look at it, what a life!",
+  "status": "done"
  },
  {
   "id": "event_2166_00C24",
@@ -810,8 +810,8 @@
    11721
   ],
   "jp": "え？{n}どんな一生なら幸せか、って？",
-  "en": "",
-  "status": ""
+  "en": "Huh? What kind of life would make me happy?",
+  "status": "done"
  },
  {
   "id": "event_2166_00C46",
@@ -824,8 +824,8 @@
    11728
   ],
   "jp": "そうねぇ…{n}まず、生まれは帝都の一市民ね。{n}最初から高くはノゾマナイ。",
-  "en": "",
-  "status": ""
+  "en": "Let's see... First, I'd be born an ordinary citizen of the capital. I wouldn't ask for much at the start.",
+  "status": "done"
  },
  {
   "id": "event_2166_00C8B",
@@ -838,8 +838,8 @@
    11735
   ],
   "jp": "…でもある日の夜、{n}ちょっとした手違いで{n}社交界に迷い込んじゃうのよ。",
-  "en": "",
-  "status": ""
+  "en": "...But one night, by some little mix-up, I'd wander into high society.",
+  "status": "done"
  },
  {
   "id": "event_2166_00CD0",
@@ -852,8 +852,8 @@
    11742
   ],
   "jp": "で、若くて格好いい貴族様と{n}ダンスを踊った挙句、最終的には{n}玉の輿に乗っちゃったりして…",
-  "en": "",
-  "status": ""
+  "en": "And after dancing with a young, handsome noble, I'd end up marrying into money...",
+  "status": "done"
  },
  {
   "id": "event_2166_00D27",
@@ -866,8 +866,8 @@
    11749
   ],
   "jp": "…ウヘヘ、いいわねぇ。{n}ねぇ、悪くないと思わない？",
-  "en": "",
-  "status": ""
+  "en": "...Hee hee, wouldn't that be nice. Hey, not bad, right?",
+  "status": "done"
  },
  {
   "id": "event_2166_00D59",
@@ -880,8 +880,8 @@
    11756
   ],
   "jp": "はぁ…{n}それに比べて現実の私は、{n}なんて不幸なのかしらぁ…",
-  "en": "",
-  "status": ""
+  "en": "*sigh*... And compared to that, how miserable the real me is...",
+  "status": "done"
  },
  {
   "id": "event_2166_00D92",
@@ -894,8 +894,8 @@
    11763
   ],
   "jp": "……ん？",
-  "en": "",
-  "status": ""
+  "en": "...Hm?",
+  "status": "done"
  },
  {
   "id": "event_2166_00D9B",
@@ -908,8 +908,8 @@
    11770
   ],
   "jp": "あ～ッ！　ピッピーのタマゴから{n}ひよこが生まれてる！",
-  "en": "",
-  "status": ""
+  "en": "Aaah! A chick's hatched from Pippy's egg!",
+  "status": "done"
  },
  {
   "id": "event_2166_00DCF",
@@ -922,8 +922,8 @@
    11781
   ],
   "jp": "よかったわね、ピッピー！{n}あなたのタマゴはいつも大きくて、{n}すぐに売られてたからね！",
-  "en": "",
-  "status": ""
+  "en": "Good for you, Pippy! Your eggs were always big, so they got sold right away!",
+  "status": "done"
  },
  {
   "id": "event_2166_00E22",
@@ -936,8 +936,8 @@
    11856
   ],
   "jp": "よかったね、ピッピー…{n}本当に、よかったね…",
-  "en": "",
-  "status": ""
+  "en": "Good for you, Pippy... So very good...",
+  "status": "done"
  },
  {
   "id": "event_2166_00E4E",
@@ -950,8 +950,8 @@
    11880
   ],
   "jp": "…養鶏場で過ごす人生も、{n}捨てたモンじゃないわね。",
-  "en": "",
-  "status": ""
+  "en": "...A life on a chicken farm isn't so bad after all.",
+  "status": "done"
  },
  {
   "id": "event_2166_00E80",
@@ -964,8 +964,8 @@
    11994
   ],
   "jp": "あ、お客人…{n}あなた、日記とかつけてません？",
-  "en": "",
-  "status": ""
+  "en": "Oh, guests... Do you keep a diary or anything?",
+  "status": "done"
  },
  {
   "id": "event_2166_00EAC",
@@ -978,8 +978,8 @@
    12001
   ],
   "jp": "…つけてない、そうですか。{n}ハァ、残念です…",
-  "en": "",
-  "status": ""
+  "en": "...You don't, I see. *sigh*, too bad...",
+  "status": "done"
  },
  {
   "id": "event_2166_00ED8",
@@ -992,8 +992,8 @@
    12008
   ],
   "jp": "……？　あ、あなた！{n}日記をつけていませんが{n}日記を持っていますねッ！",
-  "en": "",
-  "status": ""
+  "en": "...? H-hey, you! You don't keep one, but you've got a diary on you!",
+  "status": "done"
  },
  {
   "id": "event_2166_00F1D",
@@ -1006,8 +1006,8 @@
    12015
   ],
   "jp": "まさか！　私と同じ趣味の人③{n}私以外に、こんな奇特な趣味の{n}人がいるなんて、オドロキです②",
-  "en": "",
-  "status": ""
+  "en": "Could it be! Someone with the same hobby as me!? Amazing, someone else with such a peculiar hobby!",
+  "status": "done"
  },
  {
   "id": "event_2166_00F76",
@@ -1020,8 +1020,8 @@
    12022
   ],
   "jp": "あの、もしできるなら…{n}その手持ちの日記を、{n}私にくれませんか？",
-  "en": "",
-  "status": ""
+  "en": "Um, if you can... would you give me that diary of yours?",
+  "status": "done"
  },
  {
   "id": "event_2166_00FB5",
@@ -1034,8 +1034,8 @@
    12029
   ],
   "jp": "…わぁ、ありがとうございます！{n}では私からもお礼に、{n}お気に入りの日記を一冊…",
-  "en": "",
-  "status": ""
+  "en": "...Wow, thank you! Then let me give you one of my favorite diaries in thanks...",
+  "status": "done"
  },
  {
   "id": "event_2166_01002",
@@ -1048,8 +1048,8 @@
    12036
   ],
   "jp": "え、いらない？　そうですか…{n}抱腹絶倒の爆笑モノなのに、{n}残念です。",
-  "en": "",
-  "status": ""
+  "en": "Huh, you don't want it? I see... It's a side-splitting riot, too. What a shame.",
+  "status": "done"
  },
  {
   "id": "event_2166_01045",
@@ -1062,8 +1062,8 @@
    12047
   ],
   "jp": "では、せめて代わりにコレを…",
-  "en": "",
-  "status": ""
+  "en": "Then at least take this instead...",
+  "status": "done"
  },
  {
   "id": "event_2166_01062",
@@ -1076,8 +1076,8 @@
    12122
   ],
   "jp": "これでしばらくの間は、{n}退屈せずに済みそうですよ。{n}今日はいい日だ！",
-  "en": "",
-  "status": ""
+  "en": "That should keep me from getting bored for a while. Today's a good day!",
+  "status": "done"
  },
  {
   "id": "event_2166_010A5",
@@ -1104,8 +1104,8 @@
    12153
   ],
   "jp": "あ、お客さん…",
-  "en": "",
-  "status": ""
+  "en": "Oh, customer...",
+  "status": "done"
  },
  {
   "id": "event_2166_010BF",
@@ -1118,8 +1118,8 @@
    12160
   ],
   "jp": "この日記、すごく、泣けます…{n}涙も枯れるほど、感動して…",
-  "en": "",
-  "status": ""
+  "en": "This diary, it really makes you cry... So moved my tears ran dry...",
+  "status": "done"
  },
  {
   "id": "event_2166_010F7",
@@ -1132,8 +1132,8 @@
    12167
   ],
   "jp": "これは、超大作ですよ。{n}…ぐすん……",
-  "en": "",
-  "status": ""
+  "en": "This is an epic masterpiece. ...*sniff*...",
+  "status": "done"
  },
  {
   "id": "event_2166_0111B",
@@ -1146,8 +1146,8 @@
    12191
   ],
   "jp": "あ、お客人…{n}あなた、日記とかつけてません？",
-  "en": "",
-  "status": ""
+  "en": "Oh, guests... Do you keep a diary or anything?",
+  "status": "done"
  },
  {
   "id": "event_2166_01147",
@@ -1160,8 +1160,8 @@
    12198
   ],
   "jp": "…つけてない、そうですか。{n}ハァ、残念です…",
-  "en": "",
-  "status": ""
+  "en": "...You don't, I see. *sigh*, too bad...",
+  "status": "done"
  },
  {
   "id": "event_2166_01173",
@@ -1174,8 +1174,8 @@
    12205
   ],
   "jp": "ああ、失礼。{n}私、人の日記を読むのが{n}趣味なんです。",
-  "en": "",
-  "status": ""
+  "en": "Oh, excuse me. Reading other people's diaries is my hobby.",
+  "status": "done"
  },
  {
   "id": "event_2166_011A6",
@@ -1188,8 +1188,8 @@
    12212
   ],
   "jp": "それで、訪ねてきた人がいたら、{n}毎回尋ねているんですよ。",
-  "en": "",
-  "status": ""
+  "en": "So I ask everyone who comes by.",
+  "status": "done"
  },
  {
   "id": "event_2166_011DE",
@@ -1202,8 +1202,8 @@
    12219
   ],
   "jp": "……ああ、日記読みたいなぁ。{n}もう３日も新作読んでない…",
-  "en": "",
-  "status": ""
+  "en": "...Ah, I want to read a diary. Three whole days with nothing new to read...",
+  "status": "done"
  },
  {
   "id": "event_2166_01216",
@@ -1216,8 +1216,8 @@
    12226
   ],
   "jp": "…読みたい…",
-  "en": "",
-  "status": ""
+  "en": "...I want to read...",
+  "status": "done"
  },
  {
   "id": "event_2166_01223",
@@ -1226,8 +1226,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "あなた、ミゼルちゃんと{n}ケンカしてるの？",
-  "en": "",
-  "status": ""
+  "en": "Are you fighting with Mizer-chan?",
+  "status": "done"
  },
  {
   "id": "event_2166_0124B",
@@ -1236,8 +1236,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "ミゼルちゃんはいい人よ。{n}やんちゃなところもあるけれど、{n}みんなに食べ物を分けてくれるの。",
-  "en": "",
-  "status": ""
+  "en": "Mizer-chan's a good person. He's a bit of a scamp, but he shares food with everyone.",
+  "status": "done"
  },
  {
   "id": "event_2166_012A4",
@@ -1246,8 +1246,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "ミゼルちゃんの仲間は{n}他の盗賊とは違って、{n}村や集落を荒らす事もないわ。",
-  "en": "",
-  "status": ""
+  "en": "Mizer-chan's friends aren't like other thieves. They don't raid villages or settlements.",
+  "status": "done"
  },
  {
   "id": "event_2166_012EB",
@@ -1256,8 +1256,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "その反対に、{n}ミゼルちゃんのおかげで{n}盗賊や乱暴者も減ったのよ。",
-  "en": "",
-  "status": ""
+  "en": "On the contrary, thanks to Mizer-chan there are fewer thieves and thugs around.",
+  "status": "done"
  },
  {
   "id": "event_2166_0132A",
@@ -1266,8 +1266,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "だから、ケンカはやめて、{n}ミゼルちゃんの話も{n}聞いてあげてね。",
-  "en": "",
-  "status": ""
+  "en": "So please stop fighting, and listen to what Mizer-chan has to say.",
+  "status": "done"
  },
  {
   "id": "event_2166_01367",
@@ -1280,8 +1280,8 @@
    59546
   ],
   "jp": "ここはひょっとして…{n}ミゼルのアジトか？{n}さすが、色々と溜め込んでいるな。",
-  "en": "",
-  "status": ""
+  "en": "Could this be... Mizer's hideout? He's sure got a lot stashed away.",
+  "status": "done"
  },
  {
   "id": "event_2166_013B0",
@@ -1294,8 +1294,8 @@
    59557
   ],
   "jp": "どれ、ちょっと物色するか…",
-  "en": "",
-  "status": ""
+  "en": "Well, let's have a little look around...",
+  "status": "done"
  },
  {
   "id": "event_2166_013CB",
@@ -1308,8 +1308,8 @@
    59621
   ],
   "jp": "…タクティクスカードだな。{n}アイツと決着をつけるまで、{n}貰っておく事にしよう。",
-  "en": "",
-  "status": ""
+  "en": "...A Tactics Card. I'll hang on to it until I settle things with him.",
+  "status": "done"
  },
  {
   "id": "event_2166_01418",
@@ -1322,8 +1322,8 @@
    59714
   ],
   "jp": "ここってまさか、{n}ミゼルのアジトかな？",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me this is Mizer's hideout?",
+  "status": "done"
  },
  {
   "id": "event_2166_0143E",
@@ -1336,8 +1336,8 @@
    59721
   ],
   "jp": "あ！　ひょっとしたら{n}ヴェルマンの探し物も{n}ここにあるんじゃないの？",
-  "en": "",
-  "status": ""
+  "en": "Oh! Maybe what Velleman's looking for is here too!",
+  "status": "done"
  },
  {
   "id": "event_2166_01481",
@@ -1350,8 +1350,8 @@
    59743
   ],
   "jp": "よしよし、大義名分も立ったし{n}物色開始といきますか～。",
-  "en": "",
-  "status": ""
+  "en": "Good, good, that gives me a fine excuse. Let's start looking around~",
+  "status": "done"
  },
  {
   "id": "event_2166_014B7",
@@ -1364,8 +1364,8 @@
    59807
   ],
   "jp": "…見つかったのは{n}タクティクスカードだけ、か。{n}ちぇ、つまんなーい。",
-  "en": "",
-  "status": ""
+  "en": "...All I found was a Tactics Card, huh. Tch, boooring.",
+  "status": "done"
  },
  {
   "id": "event_2166_014FA",
@@ -1378,8 +1378,8 @@
    59900
   ],
   "jp": "変な小屋だな…{n}森の中では役に立たないものが{n}たくさん溜め込んである。",
-  "en": "",
-  "status": ""
+  "en": "What an odd hut... It's stocked with lots of things that are no use in a forest.",
+  "status": "done"
  },
  {
   "id": "event_2166_0153F",
@@ -1392,8 +1392,8 @@
    59918
   ],
   "jp": "あ。ひょっとしてここって、{n}ミゼルの隠れ家か何かかな？",
-  "en": "",
-  "status": ""
+  "en": "Oh. Could this be Mizer's hideout or something?",
+  "status": "done"
  },
  {
   "id": "event_2166_01575",
@@ -1406,8 +1406,8 @@
    59929
   ],
   "jp": "…彼が補充に戻ってくるのも{n}十分考えられるな。{n}今のうちに処分してしまおう。",
-  "en": "",
-  "status": ""
+  "en": "...He might well come back for supplies. I'd better get rid of them while I can.",
+  "status": "done"
  },
  {
   "id": "event_2166_015C0",
@@ -1420,8 +1420,8 @@
    59993
   ],
   "jp": "タクティクスカード以外、{n}取り立てて使えそうなものは{n}置いてないね…",
-  "en": "",
-  "status": ""
+  "en": "Apart from the Tactics Card, there's nothing here that looks especially useful...",
+  "status": "done"
  },
  {
   "id": "event_2166_01603",
@@ -1434,8 +1434,8 @@
    60079
   ],
   "jp": "ここは恐らく{n}ミゼルのアジトか何かだな。",
-  "en": "",
-  "status": ""
+  "en": "This must be Mizer's hideout or something.",
+  "status": "done"
  },
  {
   "id": "event_2166_0162B",
@@ -1448,8 +1448,8 @@
    60090
   ],
   "jp": "木々の上に小屋を作るとは…{n}まあ、森の中での動きを見れば{n}うなずけない事もない、か。",
-  "en": "",
-  "status": ""
+  "en": "Building a hut up in the trees... Well, the way he moves in a forest, that does make sense.",
+  "status": "done"
  },
  {
   "id": "event_2166_0167E",
@@ -1462,8 +1462,8 @@
    60154
   ],
   "jp": "お、タクティクスカードか。{n}敵の陣地で獲得したんだ、{n}わざわざ返す義理はないかな。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a Tactics Card. I got it from enemy territory, so I've got no duty to go returning it.",
+  "status": "done"
  },
  {
   "id": "event_2166_016CF",
@@ -1476,8 +1476,8 @@
    60247
   ],
   "jp": "ん？{n}はだしのミゼルが掲げてるものと{n}全く同じエンブレムですね…",
-  "en": "",
-  "status": ""
+  "en": "Hm? This emblem is exactly the same as the one Barefoot Mizer carries...",
+  "status": "done"
  },
  {
   "id": "event_2166_0170E",
@@ -1490,8 +1490,8 @@
    60254
   ],
   "jp": "という事は、{n}ここはミゼルのアジトか何か、{n}でしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Which means this might be Mizer's hideout or some such?",
+  "status": "done"
  },
  {
   "id": "event_2166_01745",
@@ -1504,8 +1504,8 @@
    60265
   ],
   "jp": "たくさん溜め込んでいますし、{n}間違いなさそうですね。",
-  "en": "",
-  "status": ""
+  "en": "With so much stashed away, there seems to be no doubt.",
+  "status": "done"
  },
  {
   "id": "event_2166_01779",
@@ -1518,8 +1518,8 @@
    60329
   ],
   "jp": "これは、タクティクスカード？",
-  "en": "",
-  "status": ""
+  "en": "Is this a Tactics Card?",
+  "status": "done"
  },
  {
   "id": "event_2166_01796",
@@ -1532,8 +1532,8 @@
    60347
   ],
   "jp": "…ミゼルに使われたら厄介です。{n}泥棒みたいですが、{n}これはいただいておきましょう。",
-  "en": "",
-  "status": ""
+  "en": "...It would be troublesome if Mizer used it. It feels like thievery, but I will take this.",
+  "status": "done"
  },
  {
   "id": "event_2166_017E7",
@@ -1546,8 +1546,8 @@
    60440
   ],
   "jp": "ん？　ここ、ひょっとして、{n}ミゼルの秘密基地か？",
-  "en": "",
-  "status": ""
+  "en": "Hm? Could this be Mizer's secret base?",
+  "status": "done"
  },
  {
   "id": "event_2166_01817",
@@ -1560,8 +1560,8 @@
    60451
   ],
   "jp": "モノが溢れかえっている…{n}全部、盗品だろうか？",
-  "en": "",
-  "status": ""
+  "en": "It is overflowing with things... Are they all stolen goods?",
+  "status": "done"
  },
  {
   "id": "event_2166_01845",
@@ -1574,8 +1574,8 @@
    60515
   ],
   "jp": "む、タクティクスカードだ！{n}盗んだものだ、盗まれたって{n}文句は言えないだろうな！",
-  "en": "",
-  "status": ""
+  "en": "Hm, a Tactics Card! It was stolen, so Mizer cannot complain if it gets stolen!",
+  "status": "done"
  },
  {
   "id": "event_2166_01894",
@@ -1588,8 +1588,8 @@
    60997
   ],
   "jp": "ここってミゼルのアジトかしら？",
-  "en": "",
-  "status": ""
+  "en": "Is this Mizer's hideout?",
+  "status": "done"
  },
  {
   "id": "event_2166_018B3",
@@ -1602,8 +1602,8 @@
    61015
   ],
   "jp": "…モノでいっぱいじゃない。{n}それに、頭悪そうなものばっかり。",
-  "en": "",
-  "status": ""
+  "en": "...It's stuffed with things. And all of them look stupid.",
+  "status": "done"
  },
  {
   "id": "event_2166_018EF",
@@ -1616,8 +1616,8 @@
    61026
   ],
   "jp": "どうせ盗むなら、{n}もっとマシなものを{n}盗みなさいよね、まったく。",
-  "en": "",
-  "status": ""
+  "en": "If you're going to steal, steal something better, honestly.",
+  "status": "done"
  },
  {
   "id": "event_2166_0192E",
@@ -1630,8 +1630,8 @@
    61104
   ],
   "jp": "あら、タクティクスカードね。{n}そうそう、話がわかるじゃないの。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a Tactics Card. Yes, yes, now you're talking.",
+  "status": "done"
  },
  {
   "id": "event_2166_0196C",
@@ -1644,8 +1644,8 @@
    60797
   ],
   "jp": "うぃー、ひっく…",
-  "en": "",
-  "status": ""
+  "en": "Ooh, *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2166_0197D",
@@ -1658,8 +1658,8 @@
    60804
   ],
   "jp": "ここって、まさか…{n}ミゼルの秘密基地かしら？",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me this is... Mizer's secret base?",
+  "status": "done"
  },
  {
   "id": "event_2166_019A9",
@@ -1672,8 +1672,8 @@
    60815
   ],
   "jp": "…貴金属とかばかりで、{n}お酒類が全然ないわね…{n}もう、残念。",
-  "en": "",
-  "status": ""
+  "en": "...All precious metals and stuff, and not one drop of booze... Honestly, what a shame.",
+  "status": "done"
  },
  {
   "id": "event_2166_019E4",
@@ -1686,8 +1686,8 @@
    60879
   ],
   "jp": "タクティクスカードね…",
-  "en": "",
-  "status": ""
+  "en": "A Tactics Card...",
+  "status": "done"
  },
  {
   "id": "event_2166_019FB",
@@ -1700,8 +1700,8 @@
    60897
   ],
   "jp": "これがお酒だったら、{n}どれほど幸せな事か……{n}そう思わずにはいられないわねぇ。",
-  "en": "",
-  "status": ""
+  "en": "If this were booze, how happy I'd be... I can't help thinking that.",
+  "status": "done"
  },
  {
   "id": "event_2166_01A48",
@@ -1714,8 +1714,8 @@
    60608
   ],
   "jp": "んんんっ③{n}なんだかお宝の匂いがプンプン{n}するわねぇ…",
-  "en": "",
-  "status": ""
+  "en": "Mmmm!? I can really smell treasure around here...",
+  "status": "done"
  },
  {
   "id": "event_2166_01A7D",
@@ -1728,8 +1728,8 @@
    60615
   ],
   "jp": "…匂う、匂うわよ。{n}きっとこの小屋の中に{n}スペシャルなお宝が…",
-  "en": "",
-  "status": ""
+  "en": "...I smell it, I smell it. There must be special treasure in this hut...",
+  "status": "done"
  },
  {
   "id": "event_2166_01ABA",
@@ -1742,8 +1742,8 @@
    60679
   ],
   "jp": "うほっ！{n}タクティクスカードげぇ～っと②",
-  "en": "",
-  "status": ""
+  "en": "Whoa! Tactics Card, get!",
+  "status": "done"
  },
  {
   "id": "event_2166_01AE2",
@@ -1756,8 +1756,8 @@
    60697
   ],
   "jp": "ゴミの山から逸品を見つけ出す！{n}パメラ様にしかできない芸当よね。{n}ウフッ②",
-  "en": "",
-  "status": ""
+  "en": "Finding a gem in a pile of junk! Only Pamela-sama can pull that off. Ufu!",
+  "status": "done"
  },
  {
   "id": "event_2166_01B2B",
@@ -1770,8 +1770,8 @@
    61249
   ],
   "jp": "くそっ、ぬかるみに足をとられて{n}歩きづらいぜ…",
-  "en": "",
-  "status": ""
+  "en": "Damn it, this mud's grabbing at my feet and it's hard to walk...",
+  "status": "done"
  },
  {
   "id": "event_2166_01B59",
@@ -1784,8 +1784,8 @@
    61271
   ],
   "jp": "…ん？　つま先に何か当たった…{n}底に何かあるのか？",
-  "en": "",
-  "status": ""
+  "en": "...Hm? My toe hit something... Is there something at the bottom?",
+  "status": "done"
  },
  {
   "id": "event_2166_01B8B",
@@ -1798,8 +1798,8 @@
    61357
   ],
   "jp": "へぇ、金塊じゃないか。{n}…けど、なんでこんなところに？",
-  "en": "",
-  "status": ""
+  "en": "Huh, a gold nugget. ...But why's it here?",
+  "status": "done"
  },
  {
   "id": "event_2166_01BC1",
@@ -1812,8 +1812,8 @@
    61464
   ],
   "jp": "ああ～、足元気持ちワルイ…{n}早く終わらせて{n}全身洗いたいわね、もう。",
-  "en": "",
-  "status": ""
+  "en": "Aaah, my feet feel so gross... I wanna finish this and wash all over, honestly.",
+  "status": "done"
  },
  {
   "id": "event_2166_01C04",
@@ -1826,8 +1826,8 @@
    61486
   ],
   "jp": "うわ、なんか踏んじゃった。{n}なんなのよ、もう！",
-  "en": "",
-  "status": ""
+  "en": "Ew, I stepped on something. What is it, honestly!",
+  "status": "done"
  },
  {
   "id": "event_2166_01C32",
@@ -1840,8 +1840,8 @@
    61572
   ],
   "jp": "…金塊…",
-  "en": "",
-  "status": ""
+  "en": "...A gold nugget...",
+  "status": "done"
  },
  {
   "id": "event_2166_01C3B",
@@ -1854,8 +1854,8 @@
    61590
   ],
   "jp": "ま、まあ沼地だって{n}悪いことばかりじゃないわよね。{n}見直したわよ、沼地。",
-  "en": "",
-  "status": ""
+  "en": "W-well, marshes aren't all bad. I take it back, marsh.",
+  "status": "done"
  },
  {
   "id": "event_2166_01C82",
@@ -1868,8 +1868,8 @@
    61690
   ],
   "jp": "とんでもない場所にアジトを{n}作るもんだね、ミゼルも。",
-  "en": "",
-  "status": ""
+  "en": "What an awful place for Mizer to build a hideout.",
+  "status": "done"
  },
  {
   "id": "event_2166_01CB6",
@@ -1882,8 +1882,8 @@
    61712
   ],
   "jp": "ん？{n}靴底が何かにぶつかったな。",
-  "en": "",
-  "status": ""
+  "en": "Hm? The sole of my shoe hit something.",
+  "status": "done"
  },
  {
   "id": "event_2166_01CD6",
@@ -1896,8 +1896,8 @@
    61798
   ],
   "jp": "うわ、純金だよ…{n}すごい拾い物だね、これは。",
-  "en": "",
-  "status": ""
+  "en": "Wow, pure gold... What a find this is.",
+  "status": "done"
  },
  {
   "id": "event_2166_01D02",
@@ -1910,8 +1910,8 @@
    61891
   ],
   "jp": "いくつになっても、{n}深い泥沼を歩くのは{n}好きになれそうにないわね…",
-  "en": "",
-  "status": ""
+  "en": "No matter how old I get, I'll never learn to like walking through a deep mud swamp...",
+  "status": "done"
  },
  {
   "id": "event_2166_01D43",
@@ -1924,8 +1924,8 @@
    61913
   ],
   "jp": "…ん？{n}なんだろう、沼の底に何か…",
-  "en": "",
-  "status": ""
+  "en": "...Hm? What's this at the bottom of the swamp...",
+  "status": "done"
  },
  {
   "id": "event_2166_01D65",
@@ -1938,8 +1938,8 @@
    61999
   ],
   "jp": "この硬さ、形…{n}金塊かしら？{n}洗わないと泥で見えないけど。",
-  "en": "",
-  "status": ""
+  "en": "This hardness, this shape... A gold nugget? I'll have to wash it, the mud's covering it.",
+  "status": "done"
  },
  {
   "id": "event_2166_01D9E",
@@ -1952,8 +1952,8 @@
    62099
   ],
   "jp": "ここで襲われたらマズイですね。{n}早く沼地を抜けないと…",
-  "en": "",
-  "status": ""
+  "en": "It would be bad to be attacked here. We must get out of this marsh quickly...",
+  "status": "done"
  },
  {
   "id": "event_2166_01DD4",
@@ -1966,8 +1966,8 @@
    62121
   ],
   "jp": "あら？　なんでしょうか…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What could this be...",
+  "status": "done"
  },
  {
   "id": "event_2166_01DED",
@@ -1980,8 +1980,8 @@
    62207
   ],
   "jp": "わあ、金塊ですね！{n}…はだしのミゼル達の落し物、{n}でしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Oh my, a gold nugget! ...Could Barefoot Mizer's people have dropped it?",
+  "status": "done"
  },
  {
   "id": "event_2166_01E2A",
@@ -1994,8 +1994,8 @@
    62300
   ],
   "jp": "うぐぇ…{n}沼地ってドロドロしてて、{n}バイフー、好きじゃないな。",
-  "en": "",
-  "status": ""
+  "en": "Ugh... Marshes are all muddy. Byff does not like them.",
+  "status": "done"
  },
  {
   "id": "event_2166_01E67",
@@ -2008,8 +2008,8 @@
    62311
   ],
   "jp": "お？{n}何かが肉球に触れてきたな…{n}なんじゃろう？",
-  "en": "",
-  "status": ""
+  "en": "Oh? Something touched Byff's paw pad... What is it?",
+  "status": "done"
  },
  {
   "id": "event_2166_01E96",
@@ -2022,8 +2022,8 @@
    62397
   ],
   "jp": "こ、これは金塊だ！{n}バイフーがもらってもいいのか？",
-  "en": "",
-  "status": ""
+  "en": "Th-this is a gold nugget! May Byff keep it?",
+  "status": "done"
  },
  {
   "id": "event_2166_01EC8",
@@ -2036,8 +2036,8 @@
    62924
   ],
   "jp": "うわぁ、ローブが台無しだわ…{n}ミゼルをふん捕まえたら{n}着替えを要求しないとね。",
-  "en": "",
-  "status": ""
+  "en": "Ugh, my robe's ruined... Once we nab Mizer, I'm demanding a change of clothes.",
+  "status": "done"
  },
  {
   "id": "event_2166_01F15",
@@ -2050,8 +2050,8 @@
    62946
   ],
   "jp": "あら？　何かしら…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's this...",
+  "status": "done"
  },
  {
   "id": "event_2166_01F28",
@@ -2064,8 +2064,8 @@
    63032
   ],
   "jp": "…金塊ね。{n}こいつを売り払ったお金で、{n}新しいローブでも買おうかしら。",
-  "en": "",
-  "status": ""
+  "en": "...A gold nugget. I'll sell it and buy myself a new robe, I suppose.",
+  "status": "done"
  },
  {
   "id": "event_2166_01F6D",
@@ -2078,8 +2078,8 @@
    62716
   ],
   "jp": "さすがに沼地じゃあ{n}水の上みたいにスイスイとは{n}行かないわね。ヒック…",
-  "en": "",
-  "status": ""
+  "en": "Even I can't glide through a marsh like I do on water. *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2166_01FB2",
@@ -2092,8 +2092,8 @@
    62738
   ],
   "jp": "…ん。{n}なにかしら？",
-  "en": "",
-  "status": ""
+  "en": "...Hm. What's that?",
+  "status": "done"
  },
  {
   "id": "event_2166_01FC6",
@@ -2106,8 +2106,8 @@
    62824
   ],
   "jp": "あら、金塊だわ。{n}…そういえばお酒が足りないわね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a gold nugget. ...Now that I think of it, I'm low on booze.",
+  "status": "done"
  },
  {
   "id": "event_2166_01FF8",
@@ -2134,8 +2134,8 @@
    62512
   ],
   "jp": "…ムキーッ②{n}なんでパメラ様が、こんな沼地を{n}歩かなきゃいけないワケ③",
-  "en": "",
-  "status": ""
+  "en": "...Grrrr! Why does Pamela-sama have to walk through a swamp like this!?",
+  "status": "done"
  },
  {
   "id": "event_2166_02048",
@@ -2148,8 +2148,8 @@
    62598
   ],
   "jp": "うほっ、金塊拾って超ラッキー！",
-  "en": "",
-  "status": ""
+  "en": "Whoa, I found a gold nugget, super lucky!",
+  "status": "done"
  },
  {
   "id": "event_2166_02067",
@@ -2162,8 +2162,8 @@
    62616
   ],
   "jp": "…なんて言うと思ったかッ！{n}責任者出て来なさ～い②{n}金塊程度じゃ誤魔化されないわ②",
-  "en": "",
-  "status": ""
+  "en": "...Is what you thought I'd say! Bring me whoever's in charge! A gold nugget won't fool me!",
+  "status": "done"
  },
  {
   "id": "event_2166_020B8",
@@ -2176,8 +2176,8 @@
    12322
   ],
   "jp": "あなた、ミゼルちゃんと{n}ケンカしてるの？",
-  "en": "",
-  "status": ""
+  "en": "Are you fighting with Mizer-chan?",
+  "status": "done"
  },
  {
   "id": "event_2166_020E0",
@@ -2190,8 +2190,8 @@
    12329
   ],
   "jp": "ミゼルちゃんはいい人よ。{n}やんちゃなところもあるけど、{n}みんなに食べ物を分けてくれるの。",
-  "en": "",
-  "status": ""
+  "en": "Mizer-chan's a good person. He's a bit of a scamp, but he shares food with everyone.",
+  "status": "done"
  },
  {
   "id": "event_2166_02137",
@@ -2204,8 +2204,8 @@
    12336
   ],
   "jp": "ミゼルちゃんの仲間は{n}他の盗賊とは違って、{n}村や集落を荒らす事もないわ。",
-  "en": "",
-  "status": ""
+  "en": "Mizer-chan's friends aren't like other thieves. They don't raid villages or settlements.",
+  "status": "done"
  },
  {
   "id": "event_2166_0217E",
@@ -2218,8 +2218,8 @@
    12343
   ],
   "jp": "その反対に、{n}ミゼルちゃんのおかげで{n}盗賊や乱暴者も減ったのよ。",
-  "en": "",
-  "status": ""
+  "en": "On the contrary, thanks to Mizer-chan there are fewer thieves and thugs around.",
+  "status": "done"
  },
  {
   "id": "event_2166_021BD",
@@ -2232,8 +2232,8 @@
    12350
   ],
   "jp": "だから、ケンカはやめて、{n}ミゼルちゃんの話も{n}聞いてあげてね。",
-  "en": "",
-  "status": ""
+  "en": "So please stop fighting, and listen to what Mizer-chan has to say.",
+  "status": "done"
  },
  {
   "id": "event_2166_0229C",
@@ -2256,8 +2256,8 @@
    8951
   ],
   "jp": "ミゼルファミリー",
-  "en": "",
-  "status": ""
+  "en": "Mizer Family",
+  "status": "done"
  },
  {
   "id": "event_2166_0233E",
@@ -2268,8 +2268,8 @@
    9019
   ],
   "jp": "ミゼルファミリー",
-  "en": "",
-  "status": ""
+  "en": "Mizer Family",
+  "status": "done"
  },
  {
   "id": "event_2166_02382",
@@ -2280,8 +2280,8 @@
    9087
   ],
   "jp": "ミゼルファミリー",
-  "en": "",
-  "status": ""
+  "en": "Mizer Family",
+  "status": "done"
  },
  {
   "id": "event_2166_0FF04",
@@ -2292,8 +2292,8 @@
    66231
   ],
   "jp": "{voice:006606}ミゼルを逃がすな！{n}追うぞ！",
-  "en": "",
-  "status": ""
+  "en": "Don't let Mizer get away! After him!",
+  "status": "done"
  },
  {
   "id": "event_2166_0FF24",
@@ -2304,8 +2304,8 @@
    118516
   ],
   "jp": "{voice:006706}ここまで来た事、後悔させてやる！",
-  "en": "",
-  "status": ""
+  "en": "I'll make you regret coming this far!",
+  "status": "done"
  },
  {
   "id": "event_2166_0FF49",
@@ -2316,8 +2316,8 @@
    118537
   ],
   "jp": "{voice:006806}何度も同じ手が通じると思うな②",
-  "en": "",
-  "status": ""
+  "en": "Don't think the same trick works every time!",
+  "status": "done"
  },
  {
   "id": "event_2166_0FF6C",
@@ -2328,8 +2328,8 @@
    120283
   ],
   "jp": "{voice:006906}なんだよ、マジで強えぇ。",
-  "en": "",
-  "status": ""
+  "en": "What the hell, they're seriously strong.",
+  "status": "done"
  },
  {
   "id": "event_2166_0FF89",
@@ -2340,8 +2340,8 @@
    120293
   ],
   "jp": "{voice:006A06}奥に引いて、後続の連中との{n}合流を優先させよう！",
-  "en": "",
-  "status": ""
+  "en": "Let's pull back and link up with the rest first!",
+  "status": "done"
  },
  {
   "id": "event_2166_0FFBD",
@@ -2352,8 +2352,8 @@
    120314
   ],
   "jp": "{voice:006B06}親分、こいつら只者じゃないっす。{n}これ以上は危険っすよ。",
-  "en": "",
-  "status": ""
+  "en": "Boss, these guys are no joke. It's dangerous to go on.",
+  "status": "done"
  },
  {
   "id": "event_2166_0FFF9",
@@ -2364,8 +2364,8 @@
    120335
   ],
   "jp": "{voice:006C06}分かってるけどよ……{n}そうするしか、ないだろ！",
-  "en": "",
-  "status": ""
+  "en": "I know that... But we've got no other choice!",
+  "status": "done"
  },
  {
   "id": "event_2166_1002B",
@@ -2376,8 +2376,8 @@
    120529
   ],
   "jp": "{voice:006D06}奴ら、相当士気が下がってるな。{n}一気に追撃だ！",
-  "en": "",
-  "status": ""
+  "en": "Their morale's way down. Run them down now!",
+  "status": "done"
  },
  {
   "id": "event_2166_1D71C",
@@ -2388,8 +2388,8 @@
    123900
   ],
   "jp": "{voice:006E06}アイツら、逃げ足と隠れる能力は、{n}間違いなく世界一だな。",
-  "en": "",
-  "status": ""
+  "en": "Running away and hiding, they've got to be the best in the world at that.",
+  "status": "done"
  },
  {
   "id": "event_2166_1D758",
@@ -2400,8 +2400,8 @@
    176190
   ],
   "jp": "{voice:006F06}こうなったら、ヤケクソだ！{n}三度目の正直！　受けてみやがれ②",
-  "en": "",
-  "status": ""
+  "en": "This is it, I don't care anymore! Third time's the charm! Take this!",
+  "status": "done"
  },
  {
   "id": "event_2166_1D798",
@@ -2412,8 +2412,8 @@
    176211
   ],
   "jp": "{voice:007006}決着をつけてやるぜ！",
-  "en": "",
-  "status": ""
+  "en": "I'll settle this!",
+  "status": "done"
  },
  {
   "id": "event_2166_1D7B1",
@@ -2424,8 +2424,8 @@
    177881
   ],
   "jp": "{voice:007106}ぐくっ…{n}チックショ～、負けだ、負けだ！",
-  "en": "",
-  "status": ""
+  "en": "Gah... Damn it all, I lose, I lose!",
+  "status": "done"
  },
  {
   "id": "event_2166_1D7DD",
@@ -2436,8 +2436,8 @@
    178025
   ],
   "jp": "{voice:007206}降参する！　無条件全面降参！",
-  "en": "",
-  "status": ""
+  "en": "I surrender! Total, unconditional surrender!",
+  "status": "done"
  },
  {
   "id": "event_2166_1D7FE",
@@ -2448,8 +2448,8 @@
    178035
   ],
   "jp": "{voice:007306}責めはリーダーのオイラが受ける。{n}部下は助けてやってくれ……",
-  "en": "",
-  "status": ""
+  "en": "I'm the leader, so I'll take the blame. Spare my men...",
+  "status": "done"
  },
  {
   "id": "event_2166_1D83E",
@@ -2460,8 +2460,8 @@
    178056
   ],
   "jp": "{voice:007406}お、親分…！",
-  "en": "",
-  "status": ""
+  "en": "B-boss...!",
+  "status": "done"
  },
  {
   "id": "event_2166_1D84F",
@@ -2472,8 +2472,8 @@
    178074
   ],
   "jp": "{voice:007506}全員武器を棄てろ！{n}大人しくしてもらうぜ②",
-  "en": "",
-  "status": ""
+  "en": "Everyone drop your weapons! You're going to behave now!",
+  "status": "done"
  },
  {
   "id": "event_2166_1D87D",
@@ -2484,8 +2484,8 @@
    178609
   ],
   "jp": "{voice:007606}聞かせてくれ、{n}お前達は本当に義賊なのか？",
-  "en": "",
-  "status": ""
+  "en": "Tell me, are you really thieves of justice?",
+  "status": "done"
  },
  {
   "id": "event_2166_1D8AB",
@@ -2496,8 +2496,8 @@
    178627
   ],
   "jp": "{voice:007706}けっ、オイラ達はスリの集団だ。{n}だが、弱い者いじめはしない。",
-  "en": "",
-  "status": ""
+  "en": "Heh, we're a gang of pickpockets. But we don't bully the weak.",
+  "status": "done"
  },
  {
   "id": "event_2166_1D8EB",
@@ -2508,8 +2508,8 @@
    178645
   ],
   "jp": "{voice:007806}狙うのは、金持ちや貴族だけさ。",
-  "en": "",
-  "status": ""
+  "en": "We only go after the rich and the nobles.",
+  "status": "done"
  },
  {
   "id": "event_2166_1D90E",
@@ -2520,8 +2520,8 @@
    178652
   ],
   "jp": "{voice:007906}けどよ、{n}義賊という肩書きは嫌いだ。{n}それは自分達を誤魔化す言葉さ。",
-  "en": "",
-  "status": ""
+  "en": "But I hate that label, \"thief of justice.\" It's words to fool yourself with.",
+  "status": "done"
  },
  {
   "id": "event_2166_1D955",
@@ -2544,8 +2544,8 @@
    178688
   ],
   "jp": "{voice:007A06}俺は子供の頃、{n}靴も買ってもらえないほどの{n}貧乏だった……",
-  "en": "",
-  "status": ""
+  "en": "When I was a kid, we were so poor I couldn't even get shoes...",
+  "status": "done"
  },
  {
   "id": "event_2166_1D99D",
@@ -2556,8 +2556,8 @@
    178695
   ],
   "jp": "{voice:007B06}だから、虐げられるみんなの{n}気持ちが、わかるんだ。",
-  "en": "",
-  "status": ""
+  "en": "So I know how downtrodden folks feel.",
+  "status": "done"
  },
  {
   "id": "event_2166_1D9D3",
@@ -2568,8 +2568,8 @@
    178702
   ],
   "jp": "{voice:007C06}その気持ちを忘れないように、{n}今も靴は履いていない。",
-  "en": "",
-  "status": ""
+  "en": "So I won't forget that feeling, I still don't wear shoes.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DA0B",
@@ -2580,8 +2580,8 @@
    178720
   ],
   "jp": "{voice:007D06}はだしのミゼルの二つ名は{n}そう言う事か。",
-  "en": "",
-  "status": ""
+  "en": "So that is why they call you Barefoot Mizer.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DA37",
@@ -2592,8 +2592,8 @@
    178796
   ],
   "jp": "{voice:007E06}方伯、{n}目当ての物は見つかったんですか？",
-  "en": "",
-  "status": ""
+  "en": "Margrave, did you find what you were after?",
+  "status": "done"
  },
  {
   "id": "event_2166_1DA63",
@@ -2604,8 +2604,8 @@
    178814
   ],
   "jp": "{voice:007F06}ああ、彼らの戦利品の山の中に{n}私のペンダントはあった。",
-  "en": "",
-  "status": ""
+  "en": "Yes, my pendant was in that mountain of loot.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DA9D",
@@ -2616,8 +2616,8 @@
    178821
   ],
   "jp": "{voice:008006}ただ……",
-  "en": "",
-  "status": ""
+  "en": "However...",
+  "status": "done"
  },
  {
   "id": "event_2166_1DAAA",
@@ -2628,8 +2628,8 @@
    179106
   ],
   "jp": "{voice:008106}湿地帯に落ちていたらしい。{n}それをミゼルの子分が拾った。",
-  "en": "",
-  "status": ""
+  "en": "It seems it had been dropped in the marshes. One of Mizer's men picked it up.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DAE6",
@@ -2640,8 +2640,8 @@
    179124
   ],
   "jp": "{voice:008206}え？{n}じゃあ、ミゼルが盗んだってのは、{n}ヴェルマンの勘違い？",
-  "en": "",
-  "status": ""
+  "en": "Huh? So Mizer stealing it was your mistake, Velleman?",
+  "status": "done"
  },
  {
   "id": "event_2166_1DB25",
@@ -2652,8 +2652,8 @@
    179142
   ],
   "jp": "{voice:008306}そうなるな。",
-  "en": "",
-  "status": ""
+  "en": "So it seems.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DB36",
@@ -2664,8 +2664,8 @@
    179149
   ],
   "jp": "{voice:008406}決めつけた事は謝ろう。{n}あの時は、とにかく取り乱して{n}いたのだ。",
-  "en": "",
-  "status": ""
+  "en": "I apologize for assuming. I was quite beside myself at the time.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DB79",
@@ -2676,8 +2676,8 @@
    179167
   ],
   "jp": "{voice:008506}いや、オイラはスリだし{n}疑われるのには慣れてるけど…",
-  "en": "",
-  "status": ""
+  "en": "Nah, I'm a pickpocket, I'm used to being suspected, but...",
+  "status": "done"
  },
  {
   "id": "event_2166_1DBB1",
@@ -2688,8 +2688,8 @@
    179174
   ],
   "jp": "{voice:008606}ペンダントって、十歳くらいの{n}女の子の肖像画が入ったアレか？",
-  "en": "",
-  "status": ""
+  "en": "That pendant, is that the one with the portrait of a girl around ten?",
+  "status": "done"
  },
  {
   "id": "event_2166_1DBF1",
@@ -2700,8 +2700,8 @@
    179277
   ],
   "jp": "{voice:008706}……ん。",
-  "en": "",
-  "status": ""
+  "en": "...Mm.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DBFE",
@@ -2712,8 +2712,8 @@
    179295
   ],
   "jp": "{voice:008806}オッサン、あれアンタのか？{n}あまり感心できる趣味じゃないぜ。",
-  "en": "",
-  "status": ""
+  "en": "Old man, that's yours? Not a hobby I can admire.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DC3E",
@@ -2724,8 +2724,8 @@
    179313
   ],
   "jp": "{voice:008906}え…、なに？{n}ヴェルマンって、ひょっとして{n}年齢制限的な何かがあるの？",
-  "en": "",
-  "status": ""
+  "en": "Wh... what? Velleman, could you have some kind of... age thing going on?",
+  "status": "done"
  },
  {
   "id": "event_2166_1DC87",
@@ -2736,8 +2736,8 @@
    179331
   ],
   "jp": "{voice:008A06}聞け、はだしのミゼルよ！{n}突然だがお前に提案がある②",
-  "en": "",
-  "status": ""
+  "en": "Listen, Barefoot Mizer! This is sudden, but I have a proposal for you!",
+  "status": "done"
  },
  {
   "id": "event_2166_1DCBF",
@@ -2748,8 +2748,8 @@
    179349
   ],
   "jp": "{voice:008B06}実は私はかねてより、森の中で{n}動ける部隊を探していたのだ！",
-  "en": "",
-  "status": ""
+  "en": "In fact, I have long been looking for a unit that can move through forests!",
+  "status": "done"
  },
  {
   "id": "event_2166_1DCFD",
@@ -2760,8 +2760,8 @@
    179356
   ],
   "jp": "{voice:008C06}どうだ！{n}我が私兵団で、この国を変える為{n}共に戦おうではないか②",
-  "en": "",
-  "status": ""
+  "en": "What say you! Join my private army, and let us fight together to change this country!",
+  "status": "done"
  },
  {
   "id": "event_2166_1DD40",
@@ -2772,8 +2772,8 @@
    179374
   ],
   "jp": "{voice:008D06}え…、えぇ？",
-  "en": "",
-  "status": ""
+  "en": "Wh... whaaat?",
+  "status": "done"
  },
  {
   "id": "event_2166_1DD51",
@@ -2784,8 +2784,8 @@
    179516
   ],
   "jp": "{voice:008E06}（誤魔化した……）",
-  "en": "",
-  "status": ""
+  "en": "(He changed the subject...)",
+  "status": "done"
  },
  {
   "id": "event_2166_1DD68",
@@ -2796,8 +2796,8 @@
    179534
   ],
   "jp": "{voice:008F06}（誤魔化してる……）",
-  "en": "",
-  "status": ""
+  "en": "(He's changing the subject...)",
+  "status": "done"
  },
  {
   "id": "event_2166_1DD81",
@@ -2808,8 +2808,8 @@
    179552
   ],
   "jp": "{voice:009006}（誤魔化したな……）",
-  "en": "",
-  "status": ""
+  "en": "(He changed the subject...)",
+  "status": "done"
  },
  {
   "id": "event_2166_1DD9A",
@@ -2820,8 +2820,8 @@
    179570
   ],
   "jp": "{voice:009106}（スゴイ勢いで提案して{n}　誤魔化したよね……）",
-  "en": "",
-  "status": ""
+  "en": "(What a burst of energy, proposing that to change the subject...)",
+  "status": "done"
  },
  {
   "id": "event_2166_1DDCC",
@@ -2844,8 +2844,8 @@
    179836
   ],
   "jp": "{voice:009206}ムッツリしてるけど、{n}案外そーゆー男に限って{n}イケナイ趣味持ってんのよね～。",
-  "en": "",
-  "status": ""
+  "en": "He's all sullen, but those are exactly the guys with shady hobbies~",
+  "status": "done"
  },
  {
   "id": "event_2166_1DE26",
@@ -2856,8 +2856,8 @@
    179647
   ],
   "jp": "{voice:009306}（誤魔化したわね……）",
-  "en": "",
-  "status": ""
+  "en": "(He changed the subject...)",
+  "status": "done"
  },
  {
   "id": "event_2166_1DE41",
@@ -2868,8 +2868,8 @@
    179713
   ],
   "jp": "{voice:009406}（人間も、苦労する生き物。）",
-  "en": "",
-  "status": ""
+  "en": "(Humans are creatures who suffer, too.)",
+  "status": "done"
  },
  {
   "id": "event_2166_1DE62",
@@ -2880,8 +2880,8 @@
    179776
   ],
   "jp": "{voice:009506}うー、ヒック……",
-  "en": "",
-  "status": ""
+  "en": "Ugh, *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2166_1DE77",
@@ -2892,8 +2892,8 @@
    179960
   ],
   "jp": "{voice:009606}なんだ、その目は。{n}ん？",
-  "en": "",
-  "status": ""
+  "en": "What are those looks for. Hm?",
+  "status": "done"
  },
  {
   "id": "event_2166_1DE93",
@@ -2904,8 +2904,8 @@
    179978
   ],
   "jp": "{voice:009706}いや、なんというか、その……{n}上司の意外な一面を見た感じだ。",
-  "en": "",
-  "status": ""
+  "en": "No, how do I put it, um... It feels like I've seen an unexpected side of my boss.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DED3",
@@ -2916,8 +2916,8 @@
    179996
   ],
   "jp": "{voice:009806}何か誤解を招いているようなので{n}言っておく、これは娘の絵だ。",
-  "en": "",
-  "status": ""
+  "en": "There seems to be some misunderstanding, so let me say this. It is a portrait of my daughter.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DF13",
@@ -2928,8 +2928,8 @@
    180014
   ],
   "jp": "{voice:009906}娘？　ちょっと待てよ、{n}奥さんいないだろ……",
-  "en": "",
-  "status": ""
+  "en": "Your daughter? Hold on, you don't have a wife...",
+  "status": "done"
  },
  {
   "id": "event_2166_1DF43",
@@ -2940,8 +2940,8 @@
    180032
   ],
   "jp": "{voice:009A06}別れた。{n}もう六年も前の話だ。",
-  "en": "",
-  "status": ""
+  "en": "We parted. Six years ago now.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DF65",
@@ -2952,8 +2952,8 @@
    180039
   ],
   "jp": "{voice:009B06}ペンダントは、そういう事だ。{n}……この話は終わりだ。",
-  "en": "",
-  "status": ""
+  "en": "That is what the pendant is. ...This conversation is over.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DF9D",
@@ -2964,8 +2964,8 @@
    180057
   ],
   "jp": "{voice:009C06}ふーん、色々あるんだね。{n}ま、でも当たり前か。",
-  "en": "",
-  "status": ""
+  "en": "Huh, so there's a lot to it. Well, of course there is.",
+  "status": "done"
  },
  {
   "id": "event_2166_1DFCF",
@@ -2976,8 +2976,8 @@
    180102
   ],
   "jp": "{voice:009D06}おい、オッサン。さっきの話、{n}詳しく聞かせてくれないか？",
-  "en": "",
-  "status": ""
+  "en": "Hey, old man. Tell me more about what you said back there.",
+  "status": "done"
  },
  {
   "id": "event_2166_1E00B",
@@ -2988,8 +2988,8 @@
    180198
   ],
   "jp": "{voice:009E06}終わりだと言っただろ！",
-  "en": "",
-  "status": ""
+  "en": "I said this conversation is over!",
+  "status": "done"
  },
  {
   "id": "event_2166_1E026",
@@ -3000,8 +3000,8 @@
    180216
   ],
   "jp": "{voice:009F06}あ、いや、そっちじゃなくて、{n}私兵団の話だよ。稼ぎになるか？",
-  "en": "",
-  "status": ""
+  "en": "Oh, no, not that. The private army. Is there money in it?",
+  "status": "done"
  },
  {
   "id": "event_2166_1E066",
@@ -3012,8 +3012,8 @@
    180234
   ],
   "jp": "{voice:00A006}働き次第だ。",
-  "en": "",
-  "status": ""
+  "en": "That depends on your work.",
+  "status": "done"
  },
  {
   "id": "event_2166_1E077",
@@ -3024,8 +3024,8 @@
    180252
   ],
   "jp": "{voice:00A106}おい、いいのか？",
-  "en": "",
-  "status": ""
+  "en": "Hey, you sure about this?",
+  "status": "done"
  },
  {
   "id": "event_2166_1E08C",
@@ -3036,8 +3036,8 @@
    180341
   ],
   "jp": "{voice:00A206}さっきの話は、{n}誤魔化しの為の方便ではない。",
-  "en": "",
-  "status": ""
+  "en": "What I said just now was no mere excuse to change the subject.",
+  "status": "done"
  },
  {
   "id": "event_2166_1E0BC",
@@ -3048,8 +3048,8 @@
    180359
   ],
   "jp": "{voice:00A306}オイラは道に迷ったら、{n}いつも稼げる方の道を選んできた。",
-  "en": "",
-  "status": ""
+  "en": "When I lose my way, I've always taken the road where the money is.",
+  "status": "done"
  },
  {
   "id": "event_2166_1E0F8",
@@ -3060,8 +3060,8 @@
    180377
   ],
   "jp": "{voice:00A406}力と意思のある者を私は拒まん。{n}ついて来るがいい。",
-  "en": "",
-  "status": ""
+  "en": "I do not turn away those with strength and will. Come with me.",
+  "status": "done"
  },
  {
   "id": "event_2166_1E12E",
@@ -3072,8 +3072,8 @@
    180430
   ],
   "jp": "{voice:00A506}よし、じゃあ世話になるか！{n}一発当ててやるぜ！",
-  "en": "",
-  "status": ""
+  "en": "All right, I'll take you up on it! I'm gonna hit it big!",
+  "status": "done"
  },
  {
   "id": "event_2166_1E160",
@@ -3084,8 +3084,8 @@
    180448
   ],
   "jp": "{voice:00A606}なんだよ、当てるって。",
-  "en": "",
-  "status": ""
+  "en": "Hit what big, exactly?",
+  "status": "done"
  },
  {
   "id": "event_2166_1E17B",
@@ -3096,7 +3096,7 @@
    180466
   ],
   "jp": "{voice:00A706}だけど、{n}弱い者イジメをしない限りだぜ。",
-  "en": "",
-  "status": ""
+  "en": "But only as long as we don't bully the weak.",
+  "status": "done"
  }
 ]
