@@ -235,7 +235,8 @@ Limits that are not pixels or that the build handles:
   3 lines of 140 px. The build word-wraps for each, so these strings carry no `{n}`. The equip screen's item line isn't in any scene: no items.
 - **Centring and right-anchoring by bytes.** `ready_caption` (0xC62C4), the book title and others compute x from `strlen / 2 * cell`. English runs
   under that estimate, so text sits a little off centre and never overflows on its account. Check by eye in phase 8.
-- **Defeat text** is chains of `{sub16}` parts (0x2B1C6C on): a line's limit applies to its parts' sum.
+- **Defeat text.** Table 0x2B3648 has 16-byte rows; +4 points at a one-part chain, a news line in battle, centred on the screen (0x1157D4); +0xC at a chain for the game over screen (window at 0x1161D4, 5 rows). Each part is one row, so a part that wraps pushes the last row off. The build moves that window from x=252 to x=190 (288 px). `tools/debug/defeat_parts.py` splits the two uses; the parts are shared across chains, so read a change in context with `defeat_text.py --en`.
+- **Text tables to windows:** `SLOT_TABLES` in `tools/debug/boxmap.py`. Windows marked `guess` in `data/windows.json` are read from code or sized to the widest Japanese line; they haven't been measured on screen.
 
 The ISO stays at 1.04 GB: the rebuilt Data.cpk goes after the old one (see Data.cpk above), no problem for the game; the release must check the
 patch size.

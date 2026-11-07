@@ -28,12 +28,15 @@ class Eboot:
         self.blob = bytearray()
         self.rels = []
         self.relocated = rel_offsets(elf)
+        self.writes = []  # (vaddr, old bytes, new bytes): tools/verify_build.py runs romdiff over them
 
     def word(self, vaddr):
         return struct.unpack_from("<I", self.elf, SEG0 + vaddr)[0]
 
     def put(self, vaddr, data):
-        self.elf[SEG0 + vaddr:SEG0 + vaddr + len(data)] = data
+        at = SEG0 + vaddr
+        self.writes.append((vaddr, bytes(self.elf[at:at + len(data)]), bytes(data)))
+        self.elf[at:at + len(data)] = data
 
     def hook(self, vaddr, expect, word, reloc=None):
         """Replace one instruction, checking the original: a different dump fails at build time, not in game."""

@@ -77,7 +77,7 @@ def window_of(r):
 
 
 def is_item_text(r):
-    return r["id"].startswith("eboot_") and ITEM_TEXT[0] <= r["ptr"] < ITEM_TEXT[1]
+    return r["id"].startswith("eboot_") and any(ITEM_TEXT[0] <= s.get("word", 0) < ITEM_TEXT[1] for s in r["slots"])
 
 
 def lead(jp):
@@ -125,6 +125,8 @@ def _selftest():
     assert width("%s") == PLACEHOLDER_PX and width("{sub:12}") == PLACEHOLDER_PX
     assert jp_cells("{voice:005000}あa{n}あ") == (30, 2)
     assert lead("{voice:005000}x") == "{voice:005000}" and lead("x") == ""
+    item = {"id": "eboot_231858", "slots": [{"word": ITEM_TEXT[0]}], "jp": "あ", "en": long}
+    assert is_item_text(item) and "{n}" not in wrapped(item)  # the build wraps item text with break tables; a {n} here throws lines across the screen
     print("selftest ok")
 
 

@@ -4323,7 +4323,7 @@
    }
   ],
   "jp": "威力＝自ＴＥＣ＋１－敵ＧＥＮ{n}自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "Power=Own TEC+1-Foe GEN{n}Works if own TEC>=Foe GEN",
+  "en": "Power=TEC+1-Foe GEN{n}Needs TEC>=Foe GEN",
   "status": "done"
  },
  {
@@ -4351,7 +4351,7 @@
    }
   ],
   "jp": "自ＴＥＣ≧敵ＧＥＮで成功{n}成功時：敵の戦闘力が低下",
-  "en": "Works if own TEC>=Foe GEN{n}On success: foe's strength drops",
+  "en": "Needs TEC>=Foe GEN{n}Lowers foe's strength",
   "status": "done"
  },
  {
@@ -4556,7 +4556,7 @@
    }
   ],
   "jp": "雷撃攻撃でダメージ{n}＋麻痺状態にする",
-  "en": "Lightning attack damage{n}+ Paralysis",
+  "en": "Lightning damage{n}+ Paralysis",
   "status": "done"
  },
  {
@@ -4584,7 +4584,7 @@
    }
   ],
   "jp": "発動中、ドラゴン系に{n}相性☆で戦える",
-  "en": "While active, fight{n}Dragons at ☆ matchup",
+  "en": "Active: ☆ matchup{n}against Dragons",
   "status": "done"
  },
  {
@@ -4612,7 +4612,7 @@
    }
   ],
   "jp": "近辺の石化ユニットや{n}オブジェクトを破壊",
-  "en": "Destroy nearby Stone{n}units and objects",
+  "en": "Smash nearby Stone{n}units and objects",
   "status": "done"
  },
  {
@@ -4626,7 +4626,7 @@
    }
   ],
   "jp": "威力＝敵残存戦力の１／２{n}破壊成功率＝１００％",
-  "en": "Power=1/2 of foe's strength{n}Break rate=100%",
+  "en": "Power=1/2 foe's strength{n}Break rate=100%",
   "status": "done"
  },
  {
@@ -4654,7 +4654,7 @@
    }
   ],
   "jp": "敵メンバーを裏切らせ{n}自分の戦力にする",
-  "en": "Enemy Members betray{n}and join your side",
+  "en": "Foe Members betray{n}and join your side",
   "status": "done"
  },
  {
@@ -4724,7 +4724,7 @@
    }
   ],
   "jp": "ヴァルキリー専用{n}ヘッドのみが残ったとき",
-  "en": "Valkyrie only{n}When only the Head is left",
+  "en": "Valkyrie only{n}When only Head is left",
   "status": "done"
  },
  {
@@ -4766,7 +4766,7 @@
    }
   ],
   "jp": "オルディーン専用{n}ヘッドのみが残ったとき",
-  "en": "Ordene only{n}When only the Head is left",
+  "en": "Ordene only{n}When only Head is left",
   "status": "done"
  },
  {
@@ -4808,7 +4808,7 @@
    }
   ],
   "jp": "ユニオン内の士気と{n}ステータス異常回復",
-  "en": "Cure morale and status{n}ailments in the Union",
+  "en": "Restore morale, cure{n}ailments in the Union",
   "status": "done"
  },
  {
@@ -4850,7 +4850,7 @@
    }
   ],
   "jp": "一定時間、敵を弱め{n}自分を強める。が…",
-  "en": "Weakens the enemy and{n}strengthens you, but...",
+  "en": "Weakens foe and aids{n}you for a time, but...",
   "status": "done"
  },
  {
@@ -4878,7 +4878,7 @@
    }
   ],
   "jp": "発動中、自分も敵も{n}ＬＵＫを力に換える",
-  "en": "While active, you and the{n}foe turn LUK into power",
+  "en": "Active: you and foe{n}turn LUK into power",
   "status": "done"
  },
  {
@@ -4892,7 +4892,7 @@
    }
   ],
   "jp": "敵味方の地形を交換{n}＋敵の命中率が低下",
-  "en": "Swap terrain with enemy{n}+ foe's accuracy drops",
+  "en": "Swap terrain with foe{n}+ its accuracy falls",
   "status": "done"
  },
  {
@@ -5035,7 +5035,7 @@
    }
   ],
   "jp": "【地形スキル：毒沼】{n}該当地形の敵に効果大",
-  "en": "[Terrain Skill: Poison Swamp]{n}Strong on that terrain",
+  "en": "[Terrain Skill]{n}Strong on Poison Swamp",
   "status": "done"
  },
  {
@@ -5063,7 +5063,7 @@
    }
   ],
   "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ{n}自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "Power=Own TEC+2-Foe GEN{n}Works if own TEC>=Foe GEN",
+  "en": "Power=TEC+2-Foe GEN{n}Needs TEC>=Foe GEN",
   "status": "done"
  },
  {
@@ -5091,7 +5091,7 @@
    }
   ],
   "jp": "ユニオン内の仲間への{n}突撃と反撃をガード",
-  "en": "Guards Union allies from{n}charges and counters",
+  "en": "Guards Union allies{n}from charge, counter",
   "status": "done"
  },
  {
@@ -5136,7 +5136,7 @@
    }
   ],
   "jp": "メンバーの命を犠牲に{n}戦闘能力が格段に上昇",
-  "en": "Sacrifice Members' lives{n}to boost fighting power",
+  "en": "Sacrifice Members to{n}boost fighting power",
   "status": "done"
  },
  {
@@ -5178,7 +5178,7 @@
    }
   ],
   "jp": "倒れたメンバーも含め{n}ユニットを転生させる",
-  "en": "Rebirth units, including{n}fallen Members",
+  "en": "Reincarnate units,{n}even fallen Members",
   "status": "done"
  },
  {
@@ -5206,7 +5206,7 @@
    }
   ],
   "jp": "発動中、敵のゲージ／{n}レイジレートを減少",
-  "en": "While active, lowers foe's{n}Gauge and Rage Rate",
+  "en": "Active: lowers foe's{n}Gauge and Rage Rate",
   "status": "done"
  },
  {
@@ -5290,7 +5290,7 @@
    }
   ],
   "jp": "ユニオン内の男性のみ{n}ＡＴＫとＧＥＮが上昇",
-  "en": "Only Union's men gain{n}ATK and GEN",
+  "en": "Union's men only:{n}ATK and GEN up",
   "status": "done"
  },
  {

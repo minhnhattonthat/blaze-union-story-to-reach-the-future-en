@@ -675,7 +675,7 @@
    }
   ],
   "jp": "秘剣と秘技を以て{n}魔竜を倒した男、ギル。{n}英雄死すとも、その刃{n}未だ朽ちるを知らず…",
-  "en": "Gil, the man who felled the demon dragon with secret sword and art. The hero is dead, but his blade knows no decay...",
+  "en": "Gil, the man who felled the demon dragon with secret arts. The hero is dead, but his blade has yet to rust...",
   "status": "done"
  },
  {
@@ -773,7 +773,7 @@
    }
   ],
   "jp": "漆黒の闇より出でる{n}妖艶なる悪魔。{n}赤き瞳に魅せられた者は{n}一夜の快楽に酔いしれる…",
-  "en": "A bewitching demon from the pitch-dark night. Those charmed by her red eyes lose themselves in one night's delight...",
+  "en": "A bewitching demon from pitch-dark night. Those charmed by her red eyes drown in one night's delight...",
   "status": "done"
  },
  {
@@ -843,7 +843,7 @@
    }
   ],
   "jp": "大いなる砂の海を{n}見守る番人。{n}秩序を乱す者に{n}砂嵐の制裁が下る…",
-  "en": "A guardian watching over the great sea of sand. A sandstorm's punishment falls on those who disturb the order...",
+  "en": "A guardian of the great sea of sand. A sandstorm's punishment falls on those who break the order...",
   "status": "done"
  },
  {
@@ -941,7 +941,7 @@
    }
   ],
   "jp": "暁を呼ぶ賢者が{n}黎明の鐘を打ち鳴らすとき、{n}乱世に垂れる深き{n}暗雲の帳は引き裂かれる…",
-  "en": "When the sage who calls the dawn rings the bell of daybreak, the dark clouds over this chaotic age are torn away...",
+  "en": "When the sage who calls the dawn rings its bell, the dark clouds over this chaotic age are torn away...",
   "status": "done"
  },
  {
@@ -1011,7 +1011,7 @@
    }
   ],
   "jp": "奇跡を引き寄せ{n}逆境を越える不屈の射手。{n}その指が弓の弦を離れた時{n}勝利は必然へと歩み寄る…",
-  "en": "An indomitable archer who draws miracles and overcomes adversity. When his fingers leave the bowstring, victory becomes certain...",
+  "en": "An unyielding archer who draws miracles. When his fingers leave the bowstring, victory is at hand...",
   "status": "done"
  },
  {
@@ -1194,7 +1194,7 @@
    }
   ],
   "jp": "知らん部隊",
-  "en": "Unknown Unit",
+  "en": "Unknown",
   "status": "done"
  },
  {
@@ -3109,7 +3109,7 @@
    }
   ],
   "jp": "形無きものをも斬ると云われる究極の刀。千年に一本の作",
-  "en": "The ultimate blade. It cuts the formless.",
+  "en": "A 1000-year blade that cuts even the formless.",
   "status": "done"
  },
  {
@@ -5353,7 +5353,7 @@
    }
   ],
   "jp": "全てを闇に葬り去る悪魔の槍。黒騎士レオン愛用の秘槍",
-  "en": "A devil's spear of darkness. Leon's secret.",
+  "en": "Black Knight Leon's dark devil spear.",
   "status": "done"
  },
  {
@@ -5387,7 +5387,7 @@
    }
   ],
   "jp": "古の時代に魔竜を倒した勇者ギルの栄光を称える硬貨",
-  "en": "A coin honoring the hero Gil's glory.",
+  "en": "Coin honoring Gil, hero who slew the demon dragon.",
   "status": "done"
  },
  {
@@ -7690,7 +7690,7 @@
    }
   ],
   "jp": "千年雪",
-  "en": "1000-Year Snow",
+  "en": "Thousand-Year Snow",
   "status": "done"
  },
  {
@@ -10748,7 +10748,7 @@
    }
   ],
   "jp": "焔帝ガルカーサ",
-  "en": "Emperor Gulcasa",
+  "en": "Flame Emperor Gulcasa",
   "status": "done"
  },
  {
@@ -11094,8 +11094,8 @@
   "kind": "debug",
   "slots": [],
   "jp": "Chapter%s[0A]Continue －%s－[0A]ステージクリア数 %2d[0A]プレイ時間 %02d:%02d:%02d",
-  "en": "",
-  "status": ""
+  "en": "Chapter%s[0A]Continue -%s-[0A]Stages cleared %2d[0A]Play time %02d:%02d:%02d",
+  "status": "done"
  },
  {
   "id": "eboot_2370A4",
@@ -11104,8 +11104,8 @@
   "kind": "debug",
   "slots": [],
   "jp": "Chapter%s[0A]NextScenario －%s－[0A]ステージクリア数 %2d[0A]プレイ時間 %02d:%02d:%02d",
-  "en": "",
-  "status": ""
+  "en": "Chapter%s[0A]Next Scenario -%s-[0A]Stages cleared %2d[0A]Play time %02d:%02d:%02d",
+  "status": "done"
  },
  {
   "id": "eboot_237150",

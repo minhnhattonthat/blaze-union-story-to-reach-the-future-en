@@ -260,8 +260,8 @@
   "kind": "debug",
   "slots": [],
   "jp": "ユグドラ・ユニオンのシステムデータです。[0A]",
-  "en": "",
-  "status": ""
+  "en": "Yggdra Union system data.[0A]",
+  "status": "done"
  },
  {
   "id": "eboot_258D6C",
@@ -4030,7 +4030,7 @@
    }
   ],
   "jp": "アライク孤児院",
-  "en": "Alaik Orphanage",
+  "en": "Araik Orphanage",
   "status": "done"
  },
  {
@@ -4324,7 +4324,7 @@
    }
   ],
   "jp": "トカニク修道院",
-  "en": "Tokaniku Monastery",
+  "en": "Tokanik Abbey",
   "status": "done"
  },
  {
@@ -4422,7 +4422,7 @@
    }
   ],
   "jp": "バルーダー市",
-  "en": "Balder City",
+  "en": "Baluder City",
   "status": "done"
  },
  {
@@ -4450,7 +4450,7 @@
    }
   ],
   "jp": "ビスタ川の集落",
-  "en": "Vista River Settlement",
+  "en": "Bista River Hamlet",
   "status": "done"
  },
  {
@@ -4506,7 +4506,7 @@
    }
   ],
   "jp": "マーロイの集落",
-  "en": "Marloy Settlement",
+  "en": "Maloy Hamlet",
   "status": "done"
  },
  {
@@ -4548,7 +4548,7 @@
    }
   ],
   "jp": "ミネルロード",
-  "en": "Miner Road",
+  "en": "Minel Road",
   "status": "done"
  },
  {
@@ -4576,7 +4576,7 @@
    }
   ],
   "jp": "ムンバール農村",
-  "en": "Mumbar Farm Village",
+  "en": "Mumbal Farm Village",
   "status": "done"
  },
  {
@@ -4646,7 +4646,7 @@
    }
   ],
   "jp": "モザレフの村",
-  "en": "Mozaref Village",
+  "en": "Mozalef Village",
   "status": "done"
  },
  {
@@ -4702,7 +4702,7 @@
    }
   ],
   "jp": "ラーゼス廃村",
-  "en": "Razes Ruined Village",
+  "en": "Rases Ruins",
   "status": "done"
  },
  {
@@ -4716,7 +4716,7 @@
    }
   ],
   "jp": "リヴィア市",
-  "en": "Livia City",
+  "en": "Rivia City",
   "status": "done"
  },
  {
@@ -4758,7 +4758,7 @@
    }
   ],
   "jp": "リーブルの町",
-  "en": "Town of Lieble",
+  "en": "Town of Livre",
   "status": "done"
  },
  {
@@ -6855,7 +6855,7 @@
    }
   ],
   "jp": "セリカ挟撃部隊を圧倒②",
-  "en": "Cerica's pincer force overwhelmed!!",
+  "en": "Crushed Cerica's pincer!!",
   "status": "done"
  },
  {
@@ -8020,7 +8020,7 @@
    }
   ],
   "jp": "預言者ネシアの尖兵を撃破②",
-  "en": "Prophet Nessiah's vanguard defeated!!",
+  "en": "Nessiah's vanguard defeated!!",
   "status": "done"
  },
  {
@@ -9154,7 +9154,7 @@
    }
   ],
   "jp": "遠征に出たエルルク山脈で",
-  "en": "On campaign in the Erruk Mountains,",
+  "en": "Marching in the Erruk Mountains,",
   "status": "done"
  },
  {
@@ -9336,7 +9336,7 @@
    }
   ],
   "jp": "近衛隊もまた、壊滅した…",
-  "en": "the Royal Guard was destroyed too...",
+  "en": "the Royal Guard fell as well...",
   "status": "done"
  },
  {
@@ -9588,7 +9588,7 @@
    }
   ],
   "jp": "国王にして剛剣の使い手",
-  "en": "The king, a master of the great sword,",
+  "en": "The king and great swordsman,",
   "status": "done"
  },
  {
@@ -9630,7 +9630,7 @@
    }
   ],
   "jp": "黒騎士レオンとの死闘中、",
-  "en": "In a deadly fight with Black Knight Leon,",
+  "en": "Battling Black Knight Leon,",
   "status": "done"
  },
  {
@@ -9812,7 +9812,7 @@
    }
   ],
   "jp": "屍兵の群れとの戦闘中、",
-  "en": "While fighting a horde of corpse soldiers,",
+  "en": "Fighting a horde of corpse soldiers,",
   "status": "done"
  },
  {
@@ -10092,7 +10092,7 @@
    }
   ],
   "jp": "神生教団の猛攻に",
-  "en": "Against the Papal Army's fierce attack,",
+  "en": "Under the Papal Army's onslaught,",
   "status": "done"
  },
  {
@@ -10554,7 +10554,7 @@
    }
   ],
   "jp": "盗賊の砦の占拠を狙うも、",
-  "en": "They tried to take the thieves' fort, but",
+  "en": "They went for the thieves' fort, but",
   "status": "done"
  },
  {
@@ -10582,7 +10582,7 @@
    }
   ],
   "jp": "盗賊団の激しい抵抗に遭い",
-  "en": "Against the thieves' fierce resistance,",
+  "en": "Under the thieves' fierce resistance,",
   "status": "done"
  },
  {
@@ -10806,7 +10806,7 @@
    }
   ],
   "jp": "反乱軍主力と激突するも、",
-  "en": "they clashed with the main rebels, but",
+  "en": "they met the main rebel force, but",
   "status": "done"
  },
  {
@@ -11170,7 +11170,7 @@
    }
   ],
   "jp": "目と耳を失った私兵団は",
-  "en": "the private army lost its eyes and ears,",
+  "en": "the private army, blind and deaf,",
   "status": "done"
  },
  {
@@ -11408,7 +11408,7 @@
    }
   ],
   "jp": "力を求め、戦いを望んだ",
-  "en": "who sought power and wanted war...",
+  "en": "who sought power and craved war...",
   "status": "done"
  },
  {
@@ -11478,7 +11478,7 @@
    }
   ],
   "jp": "アニス伯爵領の中枢都市が",
-  "en": "The central city of Count Anis's lands",
+  "en": "The heart of Count Anis's lands",
   "status": "done"
  },
  {
@@ -11506,7 +11506,7 @@
    }
   ],
   "jp": "私兵団は防衛に失敗した…",
-  "en": "and the private army's defense failed...",
+  "en": "and the private army gave way...",
   "status": "done"
  },
  {

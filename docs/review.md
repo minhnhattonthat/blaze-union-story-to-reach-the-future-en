@@ -1,5 +1,7 @@
 # Phase 6 review verdict
 
+**Superseded: this does not meet phase 6's done-when, and a later review found Important issues in lines it didn't read (fixed since). The reviewer pass is pending: `docs/status.md`.**
+
 **Verdict: no Critical or Important issue found in what was read. This is a sampled self-review, not the independent per-batch pass the skill describes.**
 
 - **Who:** the same worker that translated b001 to b034, after a context reset. The dispatch brief forbids subagents and allows a self-review or `codex exec`. `codex exec` failed on all 12 chunks: usage limit, resets 2026-11-11 13:07.

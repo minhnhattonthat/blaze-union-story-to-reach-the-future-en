@@ -178,7 +178,7 @@ SCENES = {
     "victory": (FIELD + [(var, 0xA, 4), (mode, 7), (until, (34,), None, 300), (wait, 120)], (34,)),
     "victory_loot": (FIELD + [(var, 0xA, 4), (mode, 7), (until, (34,), None, 300), (wait, 240), (press, "circle"), (wait, 200)], (34,)),
     "victory_cards": (FIELD + [(var, 0xA, 4), (mode, 7), (until, (34,), None, 300), (wait, 240), (press, "circle", "circle"), (wait, 200)], (34,)),
-    "game_over": (FIELD + [(var, 0xA, 2), (poke, GAME_OVER_ID, b"\x01\x00"), (mode, 7), (until, (11,), None, 300), (wait, 500)], (11,)),
+    "game_over": (FIELD + [(var, 0xA, 2), (poke, GAME_OVER_ID, b"\x01\x00"), (mode, 7), (until, (11,), None, 300), (wait, 1200)], (11,)),
     "save_prompt": (FIELD + [(var, 0xA, 5), (mode, 7), (until, (35,), None, 300), (wait, 180)], (35,)),
     "save_dialog": (FIELD + [(var, 0xA, 5), (mode, 7), (until, (35,), None, 300), (wait, 180), (press, "circle"), (wait, 200)], (35,)),
     # 0-3 full endings (table 0x2B6480), 4-22 bonus scenes (table 0x2B64C0, 19 records of 12 bytes): 0x11F434

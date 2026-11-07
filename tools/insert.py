@@ -155,4 +155,7 @@ def build(text):
     vwf.install(eb, info)
     recs = [r for f in sorted(SCRIPT.glob("eboot_*.json")) for r in json.loads(f.read_text(encoding="utf-8"))]
     count += pack_eboot(eb, recs, text)
+    log = ROOT / "build/writes.txt"
+    log.parent.mkdir(exist_ok=True)
+    log.write_text("".join(f"{v:X} {o.hex()} {n.hex()}\n" for v, o, n in eb.writes), newline="\n")
     return repl, eb.serialize(), count

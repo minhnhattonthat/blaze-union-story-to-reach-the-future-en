@@ -435,6 +435,7 @@ def install(eb, info):
     for site, win, reg, name in ((0xA0324, "a3", "v1", "layout_a"), (0xA052C, "a2", "t0", "layout_b")):
         eb.hook(site, one(f"lh $a0, 0x18(${win})"), jal(name), R_26)
         eb.hook(site + 4, one(f"mult $a0, ${reg}"), one(f"lh $a0, 0x18(${win})"))
+    eb.hook(0x1161B8, one("ori $a0, $zero, 0xfc"), one("ori $a0, $zero, 0xbe"))  # game over text: x=190, so a line of defeat text gets 288 px
     # 12f124, the win condition panel, lays its strings out itself: of ASCII it knows only 'o' (+10) and 'r' (+14), other bytes get
     # no position and stay hidden. Every ASCII byte now takes the 'o' path with the glyph's advance; the loop covers all K * 30 slots
     eb.hook(0x12F464, one("ori $a2, $zero, 0x6f"), one("lbu $a2, 0x1F($s0)"))
