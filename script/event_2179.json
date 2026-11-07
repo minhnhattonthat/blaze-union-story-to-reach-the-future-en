@@ -561,8 +561,8 @@
    60790
   ],
   "jp": "{voice:00F80B}ちっ、血の気の多い野郎だぜ。{n}兵を貸してやってるんだ、{n}もっと敬意を払えよ……",
-  "en": "",
-  "status": ""
+  "en": "Tch, what a hothead. I'm lending you soldiers, show a little more respect...",
+  "status": "done"
  },
  {
   "id": "event_2179_00A6E",
@@ -2470,8 +2470,8 @@
    114452
   ],
   "jp": "{voice:00100C}ぐおおっ！　ぬかったぜ…{n}ちくしょう！{n}こんなところで死ねるかよ②",
-  "en": "",
-  "status": ""
+  "en": "Gwaagh! I slipped up... Damn it! I can't die in a place like this!",
+  "status": "done"
  },
  {
   "id": "event_2179_0F24E",
@@ -2506,8 +2506,8 @@
    124038
   ],
   "jp": "{voice:00130C}反乱軍には俺の命が大切だ。{n}俺は本拠地に戻る！",
-  "en": "",
-  "status": ""
+  "en": "The rebel army needs me alive. I'm going back to base!",
+  "status": "done"
  },
  {
   "id": "event_2179_0F318",
@@ -3032,8 +3032,8 @@
    111691
   ],
   "jp": "お前、妹はどうした？",
-  "en": "",
-  "status": ""
+  "en": "You. What became of your sister?",
+  "status": "done"
  },
  {
   "id": "event_2179_0FA8C",
@@ -3320,8 +3320,8 @@
    113778
   ],
   "jp": "あらあら、なんて力強くて{n}素敵な殿方なのでしょう♪",
-  "en": "",
-  "status": ""
+  "en": "My, my, what a powerful and splendid gentleman ♪",
+  "status": "done"
  },
  {
   "id": "event_2179_0FED8",
@@ -3332,8 +3332,8 @@
    113827
   ],
   "jp": "ですが、弱い犬ほど{n}よく吠える、とも言いますし、{n}実際に戦ってみないことには…",
-  "en": "",
-  "status": ""
+  "en": "But then, they do say the weakest dogs bark the loudest, and one cannot know without fighting...",
+  "status": "done"
  },
  {
   "id": "event_2179_0FF25",
@@ -3368,8 +3368,8 @@
    113971
   ],
   "jp": "ほう？　面白いじゃねぇか。{n}腕っ節自慢、ってわけだな…",
-  "en": "",
-  "status": ""
+  "en": "Oh? That's interesting. So you're proud of your muscles...",
+  "status": "done"
  },
  {
   "id": "event_2179_0FFB7",
@@ -3428,8 +3428,8 @@
    118609
   ],
   "jp": "どうだ！",
-  "en": "",
-  "status": ""
+  "en": "How's that!",
+  "status": "done"
  },
  {
   "id": "event_2179_1006C",
@@ -3440,8 +3440,8 @@
    118630
   ],
   "jp": "ちいっ、腕を上げたな赤髪！{n}だが、そうこなくてはな②",
-  "en": "",
-  "status": ""
+  "en": "Tch, you've gotten better, redhead! But that's how it should be!",
+  "status": "done"
  },
  {
   "id": "event_2179_100A0",
@@ -3452,8 +3452,8 @@
    118702
   ],
   "jp": "その首、もらい受けるぜ！",
-  "en": "",
-  "status": ""
+  "en": "That head of yours is mine!",
+  "status": "done"
  },
  {
   "id": "event_2179_100B9",
@@ -3464,8 +3464,8 @@
    118723
   ],
   "jp": "易くは取らせねぇぜ！{n}これからが本番だ②",
-  "en": "",
-  "status": ""
+  "en": "You won't take it so easily! The real fight starts now!",
+  "status": "done"
  },
  {
   "id": "event_2179_100E1",
@@ -3476,8 +3476,8 @@
    118908
   ],
   "jp": "すごい突破力…{n}受け流すのがやっとだわ。",
-  "en": "",
-  "status": ""
+  "en": "What breakthrough power... It's all I can do to deflect it.",
+  "status": "done"
  },
  {
   "id": "event_2179_10109",
@@ -3488,8 +3488,8 @@
    118929
   ],
   "jp": "おのれ！　次はこうはいかんぞ②",
-  "en": "",
-  "status": ""
+  "en": "Damn you! It won't go like this next time!",
+  "status": "done"
  },
  {
   "id": "event_2179_10128",
@@ -3500,8 +3500,8 @@
    118987
   ],
   "jp": "フッ、貴様はそこで{n}赤髪が串刺しにされるのを{n}黙って見ているがいい！",
-  "en": "",
-  "status": ""
+  "en": "Heh, you can sit right there and watch the redhead get run through!",
+  "status": "done"
  },
  {
   "id": "event_2179_1016B",
@@ -3512,8 +3512,8 @@
    119008
   ],
   "jp": "そんなこと、させるもんかっ！",
-  "en": "",
-  "status": ""
+  "en": "I won't let you!",
+  "status": "done"
  },
  {
   "id": "event_2179_10188",
@@ -3524,8 +3524,8 @@
    119193
   ],
   "jp": "ふぅ…{n}なんとか勢いを殺せたね。",
-  "en": "",
-  "status": ""
+  "en": "Whew... I managed to break his momentum.",
+  "status": "done"
  },
  {
   "id": "event_2179_101A8",
@@ -3536,8 +3536,8 @@
    119214
   ],
   "jp": "だが、次はこうはいかんぞ！{n}覚悟しておけ！",
-  "en": "",
-  "status": ""
+  "en": "But it won't go like this next time! Be ready!",
+  "status": "done"
  },
  {
   "id": "event_2179_101D2",
@@ -3548,8 +3548,8 @@
    119286
   ],
   "jp": "ぐくっ！{n}…やはり強い！",
-  "en": "",
-  "status": ""
+  "en": "Guh! ...He's strong, as I thought!",
+  "status": "done"
  },
  {
   "id": "event_2179_101EA",
@@ -3560,8 +3560,8 @@
    119307
   ],
   "jp": "策にしがみ付いて死にさらせ！",
-  "en": "",
-  "status": ""
+  "en": "Cling to your schemes and die!",
+  "status": "done"
  },
  {
   "id": "event_2179_10207",
@@ -3572,8 +3572,8 @@
    119492
   ],
   "jp": "好き放題暴れられたら厄介だ。{n}ここで大人しくしてもらうよ。",
-  "en": "",
-  "status": ""
+  "en": "It's trouble if you rampage as you please. You'll settle down right here.",
+  "status": "done"
  },
  {
   "id": "event_2179_10241",
@@ -3584,8 +3584,8 @@
    119513
   ],
   "jp": "チッ②{n}相変わらず説教くさい奴め！",
-  "en": "",
-  "status": ""
+  "en": "Tch! Still as preachy as ever!",
+  "status": "done"
  },
  {
   "id": "event_2179_10263",
@@ -3596,8 +3596,8 @@
    119585
   ],
   "jp": "ククッ、惜しかったな！",
-  "en": "",
-  "status": ""
+  "en": "Heh heh, so close!",
+  "status": "done"
  },
  {
   "id": "event_2179_1027A",
@@ -3608,8 +3608,8 @@
    119606
   ],
   "jp": "…確かに奴の突撃は脅威だが、{n}その分返しの一撃も効きやすい…{n}そこを狙うぞ。いいな？",
-  "en": "",
-  "status": ""
+  "en": "...His charge is a threat, sure, but it leaves him open to a counterblow... We aim there. Got it?",
+  "status": "done"
  },
  {
   "id": "event_2179_102CD",
@@ -3620,8 +3620,8 @@
    119791
   ],
   "jp": "そう簡単に敗れはしません！",
-  "en": "",
-  "status": ""
+  "en": "I will not be beaten so easily!",
+  "status": "done"
  },
  {
   "id": "event_2179_102E8",
@@ -3632,8 +3632,8 @@
    119812
   ],
   "jp": "小娘が…{n}今に見ていろよ！",
-  "en": "",
-  "status": ""
+  "en": "Little girl... You'll see!",
+  "status": "done"
  },
  {
   "id": "event_2179_10302",
@@ -3644,8 +3644,8 @@
    119884
   ],
   "jp": "腕を上げたようだが{n}俺が鍛え上げた騎馬隊の前には{n}無力だったようだな！",
-  "en": "",
-  "status": ""
+  "en": "You've gotten better, but you were helpless against the cavalry I trained!",
+  "status": "done"
  },
  {
   "id": "event_2179_10347",
@@ -3656,8 +3656,8 @@
    119905
   ],
   "jp": "バカにして…{n}私達とて、あの頃とは違います！",
-  "en": "",
-  "status": ""
+  "en": "How dare you mock us... We are not what we were then either!",
+  "status": "done"
  },
  {
   "id": "event_2179_10373",
@@ -3668,8 +3668,8 @@
    120097
   ],
   "jp": "バイフーの攻撃をさばくとは…{n}お前、なかなかの腕前。",
-  "en": "",
-  "status": ""
+  "en": "You handled Byff's attack... You are quite handy with a blade.",
+  "status": "done"
  },
  {
   "id": "event_2179_103A7",
@@ -3680,8 +3680,8 @@
    120118
   ],
   "jp": "ちなみに魚をさばくのは、板前。{n}なーんつっって！",
-  "en": "",
-  "status": ""
+  "en": "And a chef is handy with a fish. You could call it fillet-ing. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2179_103D7",
@@ -3692,8 +3692,8 @@
    120139
   ],
   "jp": "何を言ってやがる②",
-  "en": "",
-  "status": ""
+  "en": "What are you babbling about!",
+  "status": "done"
  },
  {
   "id": "event_2179_103EA",
@@ -3704,8 +3704,8 @@
    120225
   ],
   "jp": "まるで、嵐のような突撃だな…{n}だが、聞く所によると、黒騎士の{n}突撃はいつもああらしい。",
-  "en": "",
-  "status": ""
+  "en": "A charge just like a storm... But Byff hears the Black Knight always takes people by storm.",
+  "status": "done"
  },
  {
   "id": "event_2179_1043F",
@@ -3728,8 +3728,8 @@
    120267
   ],
   "jp": "貴様ァ！{n}さっきからワケのわからん事を{n}ゴチャゴチャぬかしおって②",
-  "en": "",
-  "status": ""
+  "en": "You! You keep spouting all this nonsense!",
+  "status": "done"
  },
  {
   "id": "event_2179_1048F",
@@ -3740,8 +3740,8 @@
    120459
   ],
   "jp": "威勢がいいわねぇ！{n}ああ、大砲さえあればなぁ。{n}ぶっぱなし甲斐があったのに！",
-  "en": "",
-  "status": ""
+  "en": "So full of spirit! Oh, if only I had a cannon. You'd have been so worth blasting!",
+  "status": "done"
  },
  {
   "id": "event_2179_104DA",
@@ -3752,8 +3752,8 @@
    120480
   ],
   "jp": "嬉々として言う事じゃねぇぜ。{n}イカれ女め！",
-  "en": "",
-  "status": ""
+  "en": "That's not something to say so gleefully. You crazy woman!",
+  "status": "done"
  },
  {
   "id": "event_2179_10504",
@@ -3764,8 +3764,8 @@
    120552
   ],
   "jp": "どうした、女魔導師！{n}貴様の攻撃はその程度か？",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, sorceress! Is that all your attack's got?",
+  "status": "done"
  },
  {
   "id": "event_2179_10532",
@@ -3776,8 +3776,8 @@
    120573
   ],
   "jp": "…本気で大砲ブチ込みたいわね。{n}腹立つ。",
-  "en": "",
-  "status": ""
+  "en": "...I really do want to blast you with a cannon. So annoying.",
+  "status": "done"
  },
  {
   "id": "event_2179_1055A",
@@ -3788,8 +3788,8 @@
    120758
   ],
   "jp": "とんでもねぇ力だ②{n}なんだよ、この黒騎士さんは！",
-  "en": "",
-  "status": ""
+  "en": "What insane power! What's with this Black Knight guy!",
+  "status": "done"
  },
  {
   "id": "event_2179_1058A",
@@ -3800,8 +3800,8 @@
    120779
   ],
   "jp": "おのれ姑息な…{n}次はこうはいかんぞ！",
-  "en": "",
-  "status": ""
+  "en": "Damn you, you sneak... It won't go like this next time!",
+  "status": "done"
  },
  {
   "id": "event_2179_105AE",
@@ -3812,8 +3812,8 @@
    120851
   ],
   "jp": "ハッハーッ！{n}藁束の軍勢の方が、{n}まだ手応えがありそうだぜ！",
-  "en": "",
-  "status": ""
+  "en": "Ha ha! An army of straw bundles would give me more of a fight!",
+  "status": "done"
  },
  {
   "id": "event_2179_105E9",
@@ -3824,8 +3824,8 @@
    120872
   ],
   "jp": "…くうっ！　ちょっとこれ、{n}シャレになってないぜ！",
-  "en": "",
-  "status": ""
+  "en": "...Ugh! Hey, this ain't funny!",
+  "status": "done"
  },
  {
   "id": "event_2179_1061B",
@@ -3836,8 +3836,8 @@
    121057
   ],
   "jp": "ウィーック…",
-  "en": "",
-  "status": ""
+  "en": "Oooooh...",
+  "status": "done"
  },
  {
   "id": "event_2179_10628",
@@ -3848,8 +3848,8 @@
    121078
   ],
   "jp": "…一見隙だらけだが、{n}水のように捉えどころがない…{n}やるな、貴様！",
-  "en": "",
-  "status": ""
+  "en": "...Looks wide open at a glance, but slippery as water... You're good!",
+  "status": "done"
  },
  {
   "id": "event_2179_10669",
@@ -3860,8 +3860,8 @@
    121150
   ],
   "jp": "酔いの中で見せる絶妙な回避、{n}見事だが、捉えたぞ！",
-  "en": "",
-  "status": ""
+  "en": "That perfect dodge of yours while drunk is impressive, but I've got you!",
+  "status": "done"
  },
  {
   "id": "event_2179_1069B",
@@ -3872,8 +3872,8 @@
    121171
   ],
   "jp": "…うーん、{n}酒が足んないのかしらね？{n}ヒック…",
-  "en": "",
-  "status": ""
+  "en": "...Mmm, maybe I ain't had enough to drink? *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2179_106C8",
@@ -3884,8 +3884,8 @@
    121356
   ],
   "jp": "ケンカ上等！{n}来るなら来いだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Bring it on! Come at Pamela-sama if you dare, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2179_106EA",
@@ -3896,8 +3896,8 @@
    121377
   ],
   "jp": "勝ってから調子に乗るとは…{n}無粋な奴だぜ！",
-  "en": "",
-  "status": ""
+  "en": "Getting cocky only after you've won... What a boor!",
+  "status": "done"
  },
  {
   "id": "event_2179_10714",
@@ -3908,8 +3908,8 @@
    121449
   ],
   "jp": "ムキィー②{n}下手に出れば調子に乗って！",
-  "en": "",
-  "status": ""
+  "en": "Grrrr! Be nice to you and you get cocky!",
+  "status": "done"
  },
  {
   "id": "event_2179_1073A",
@@ -3920,8 +3920,8 @@
    121456
   ],
   "jp": "いいわ、パメラ様本気モードで{n}粛清してあげるだわさッ②",
-  "en": "",
-  "status": ""
+  "en": "Fine, Pamela-sama will go full power and purge you, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2179_10770",
@@ -3932,8 +3932,8 @@
    121477
   ],
   "jp": "ハッハーッ！{n}やれるモンならやってみやがれ②",
-  "en": "",
-  "status": ""
+  "en": "Ha ha! Try it if you can!",
+  "status": "done"
  },
  {
   "id": "event_2179_1079C",
@@ -3944,8 +3944,8 @@
    121662
   ],
   "jp": "なかなかに。{n}その武力、蛮勇と呼ぶに{n}ふさわしいですね！",
-  "en": "",
-  "status": ""
+  "en": "Quite something. That might of yours truly deserves to be called reckless valor!",
+  "status": "done"
  },
  {
   "id": "event_2179_107D3",
@@ -3956,8 +3956,8 @@
    121683
   ],
   "jp": "おのれ…{n}次はこうはいかんぞッ②",
-  "en": "",
-  "status": ""
+  "en": "Damn you... It won't go like this next time!",
+  "status": "done"
  },
  {
   "id": "event_2179_107F3",
@@ -3968,8 +3968,8 @@
    121755
   ],
   "jp": "オラオラァ！　よそ見してっと、{n}ケガじゃ済まないぜ②",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey! Look away and you'll get more than a scratch!",
+  "status": "done"
  },
  {
   "id": "event_2179_10827",
@@ -3980,8 +3980,8 @@
    121776
   ],
   "jp": "凄まじい武です！{n}いやはや、人間の進化とは{n}目を瞠るものがありますね…",
-  "en": "",
-  "status": ""
+  "en": "What tremendous might! My word, the evolution of humans is truly a marvel...",
+  "status": "done"
  },
  {
   "id": "event_2179_1086C",
@@ -3992,8 +3992,8 @@
    122006
   ],
   "jp": "…期待外れですわねぇ。{n}その太ぉい槍で、私をグリグリと{n}抉ってくれると思いましたのに…",
-  "en": "",
-  "status": ""
+  "en": "...How disappointing. And here I thought that great spear of yours would give me a real thrill...",
+  "status": "done"
  },
  {
   "id": "event_2179_108C1",
@@ -4004,8 +4004,8 @@
    122027
   ],
   "jp": "フン！{n}次は望み通りにしてやろう！",
-  "en": "",
-  "status": ""
+  "en": "Hmph! Next time I'll give you what you want!",
+  "status": "done"
  },
  {
   "id": "event_2179_108E3",
@@ -4016,8 +4016,8 @@
    122136
   ],
   "jp": "ハッハッハ！{n}どうしたぁ、黒騎士よ！{n}評判よりも生温いな！",
-  "en": "",
-  "status": ""
+  "en": "Ha ha ha! What's wrong, Black Knight! You're softer than they say!",
+  "status": "done"
  },
  {
   "id": "event_2179_1091C",
@@ -4028,8 +4028,8 @@
    122157
   ],
   "jp": "やるじゃねぇか、女。{n}次こそ串刺しにしてやるぜ！",
-  "en": "",
-  "status": ""
+  "en": "Not bad, woman. Next time I'll run you through!",
+  "status": "done"
  },
  {
   "id": "event_2179_1094C",
@@ -4040,8 +4040,8 @@
    122209
   ],
   "jp": "女ァ？{n}バーカ、オレは男だよ。",
-  "en": "",
-  "status": ""
+  "en": "Woman? Idiot, I'm a guy.",
+  "status": "done"
  },
  {
   "id": "event_2179_1096A",
@@ -4052,8 +4052,8 @@
    122333
   ],
   "jp": "いやぁん！{n}素敵な一撃でしたわ…",
-  "en": "",
-  "status": ""
+  "en": "Oh my! That was a splendid blow...",
+  "status": "done"
  },
  {
   "id": "event_2179_1098A",
@@ -4064,8 +4064,8 @@
    122385
   ],
   "jp": "ですが、やられっぱなしでは{n}礼に背くというもの…{n}反撃といきましょうか。",
-  "en": "",
-  "status": ""
+  "en": "Still, it would be rude of me to simply take it... Let us have a counterattack.",
+  "status": "done"
  },
  {
   "id": "event_2179_109D1",
@@ -4076,8 +4076,8 @@
    122487
   ],
   "jp": "おおーっ、やるじゃねぇか！",
-  "en": "",
-  "status": ""
+  "en": "Whoa, not bad!",
+  "status": "done"
  },
  {
   "id": "event_2179_109EC",
@@ -4088,8 +4088,8 @@
    122539
   ],
   "jp": "いいねぇ、燃えてきたぜ。{n}たまには本気でやってやるか！",
-  "en": "",
-  "status": ""
+  "en": "Nice, I'm getting fired up. Guess I'll go all out for once!",
+  "status": "done"
  },
  {
   "id": "event_2179_10A22",
@@ -4100,8 +4100,8 @@
    122724
   ],
   "jp": "…ッ②{n}なんて精密な射撃だ。{n}犠牲がなければ近寄れん、か。",
-  "en": "",
-  "status": ""
+  "en": "...! What precise shooting. I can't get close without losses, can I.",
+  "status": "done"
  },
  {
   "id": "event_2179_10A5B",
@@ -4112,8 +4112,8 @@
    122745
   ],
   "jp": "射撃の間隔、等速を維持。{n}隊列は保持したまま、{n}斉射を繰り返し、とどめを刺す。",
-  "en": "",
-  "status": ""
+  "en": "Maintain even firing intervals. Hold formation. Repeat volleys and finish them.",
+  "status": "done"
  },
  {
   "id": "event_2179_10AA8",
@@ -4124,8 +4124,8 @@
    122817
   ],
   "jp": "失策した。{n}一時後退し、態勢を立て直す。",
-  "en": "",
-  "status": ""
+  "en": "A failure. Falling back for now to regroup.",
+  "status": "done"
  },
  {
   "id": "event_2179_10AD0",
@@ -4136,7 +4136,7 @@
    122838
   ],
   "jp": "…なんと隙のない後退だ。{n}追い討ちがためらわれるぜ…",
-  "en": "",
-  "status": ""
+  "en": "...What a retreat, not one opening. I hesitate to pursue...",
+  "status": "done"
  }
 ]

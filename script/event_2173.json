@@ -8,8 +8,8 @@
    4775
   ],
   "jp": "{voice:00ED08}…こっちよガーロット。{n}ほら、神生教団の連中が。",
-  "en": "",
-  "status": ""
+  "en": "...Over here, Garlot. Look, it's those Blessed Papal Army guys.",
+  "status": "done"
  },
  {
   "id": "event_2173_0005C",
@@ -20,8 +20,8 @@
    5031
   ],
   "jp": "{voice:00EE08}…ああ、そうだな。{n}だけど普段と雰囲気が違うよな。",
-  "en": "",
-  "status": ""
+  "en": "...Yeah, you're right. But they don't feel like they usually do.",
+  "status": "done"
  },
  {
   "id": "event_2173_00092",
@@ -32,8 +32,8 @@
    5049
   ],
   "jp": "{voice:00EF08}ジルヴァの姿がないのよ。{n}襲ってくる時は、{n}いつも彼女がいたからね。",
-  "en": "",
-  "status": ""
+  "en": "Zilva isn't with them. She's always there when they attack us.",
+  "status": "done"
  },
  {
   "id": "event_2173_000D9",
@@ -44,8 +44,8 @@
    5067
   ],
   "jp": "{voice:00F008}動きを見ていると、{n}何かを追っている感じだね。",
-  "en": "",
-  "status": ""
+  "en": "Watching how they move, it looks like they're chasing something.",
+  "status": "done"
  },
  {
   "id": "event_2173_0010B",
@@ -56,8 +56,8 @@
    5074
   ],
   "jp": "{voice:00F108}何か別の狙いがあるのかな。{n}他の標的を追っている、とか。",
-  "en": "",
-  "status": ""
+  "en": "Could they have some other aim? Pursuing another target, for instance.",
+  "status": "done"
  },
  {
   "id": "event_2173_00147",
@@ -68,8 +68,8 @@
    5163
   ],
   "jp": "{voice:00F208}神生教団……{n}国境を超えた勢力を抱える{n}巨大な地下組織ですね。",
-  "en": "",
-  "status": ""
+  "en": "The Blessed Papal Army... A vast underground organization with power reaching across borders.",
+  "status": "done"
  },
  {
   "id": "event_2173_00188",
@@ -80,8 +80,8 @@
    5181
   ],
   "jp": "{voice:00F308}知ってるのか、ネシア？",
-  "en": "",
-  "status": ""
+  "en": "You know about them, Nessiah?",
+  "status": "done"
  },
  {
   "id": "event_2173_001A3",
@@ -92,8 +92,8 @@
    5199
   ],
   "jp": "{voice:00F408}闇市場の運営、諜報、暗殺。{n}手の汚れるあらゆる仕事をこなし{n}歴史を裏から操ると聞きます。",
-  "en": "",
-  "status": ""
+  "en": "Black markets, spying, assassination. They do every dirty job and steer history from the shadows, I hear.",
+  "status": "done"
  },
  {
   "id": "event_2173_001FE",
@@ -104,8 +104,8 @@
    5206
   ],
   "jp": "{voice:00F508}全容は掴めず、教団の教義等は{n}謎に包まれていると聞きますが…",
-  "en": "",
-  "status": ""
+  "en": "Its full extent is unknown, and the Order's teachings are said to be shrouded in mystery...",
+  "status": "done"
  },
  {
   "id": "event_2173_0023E",
@@ -116,8 +116,8 @@
    5213
   ],
   "jp": "{voice:00F608}一国を揺るがすほどの力を保持{n}しているとの話です。",
-  "en": "",
-  "status": ""
+  "en": "They are said to hold enough power to shake a nation.",
+  "status": "done"
  },
  {
   "id": "event_2173_00274",
@@ -128,8 +128,8 @@
    5231
   ],
   "jp": "{voice:00F708}詳しいんだな、感心したよ。{n}それも預言なのか？",
-  "en": "",
-  "status": ""
+  "en": "You know a lot. Color me impressed. Is that prophecy too?",
+  "status": "done"
  },
  {
   "id": "event_2173_002A6",
@@ -140,8 +140,8 @@
    5249
   ],
   "jp": "{voice:00F808}これは、知ろうとすれば手に入る{n}ただの情報ですよ。",
-  "en": "",
-  "status": ""
+  "en": "This is merely information, there for anyone who cares to learn it.",
+  "status": "done"
  },
  {
   "id": "event_2173_002DC",
@@ -164,8 +164,8 @@
    5356
   ],
   "jp": "{voice:00F908}地下組織だろうが、アイギナ達の{n}平穏を乱しているのは事実だ。",
-  "en": "",
-  "status": ""
+  "en": "Underground or not, they're disturbing Aegina and her sister's peace, and that's a fact.",
+  "status": "done"
  },
  {
   "id": "event_2173_00327",
@@ -176,8 +176,8 @@
    5374
   ],
   "jp": "{voice:00FA08}今回はこちらから仕掛けよう。",
-  "en": "",
-  "status": ""
+  "en": "This time, we strike first.",
+  "status": "done"
  },
  {
   "id": "event_2173_00348",
@@ -188,8 +188,8 @@
    5392
   ],
   "jp": "{voice:00FB08}お言葉ですが、ガーロット様。{n}神生教団との争いは、私達姉妹の{n}問題です。",
-  "en": "",
-  "status": ""
+  "en": "With respect, Garlot-sama, the fight with the Blessed Papal Army is my sister's and my problem.",
+  "status": "done"
  },
  {
   "id": "event_2173_00393",
@@ -200,8 +200,8 @@
    5410
   ],
   "jp": "{voice:00FC08}それ以上は言うなよ、アイギナ。",
-  "en": "",
-  "status": ""
+  "en": "Don't say any more, Aegina.",
+  "status": "done"
  },
  {
   "id": "event_2173_003B6",
@@ -212,8 +212,8 @@
    5431
   ],
   "jp": "{voice:00FD08}俺達は仲間なんだ。{n}お前達が傷つけられるのは、{n}俺が傷つけられるのと一緒だぜ。",
-  "en": "",
-  "status": ""
+  "en": "We're comrades. If you two get hurt, it's the same as me getting hurt.",
+  "status": "done"
  },
  {
   "id": "event_2173_00407",
@@ -224,8 +224,8 @@
    5449
   ],
   "jp": "{voice:00FE08}しかし……",
-  "en": "",
-  "status": ""
+  "en": "But...",
+  "status": "done"
  },
  {
   "id": "event_2173_00416",
@@ -236,8 +236,8 @@
    5541
   ],
   "jp": "{voice:00FF08}気にしっこなしだよ。{n}私達は仲間、でしょ。",
-  "en": "",
-  "status": ""
+  "en": "Don't sweat it. We're comrades, right?",
+  "status": "done"
  },
  {
   "id": "event_2173_00444",
@@ -248,8 +248,8 @@
    5559
   ],
   "jp": "{voice:000009}…ありがとう、シスキア。{n}皆さん。",
-  "en": "",
-  "status": ""
+  "en": "...Thank you, Siskier. Everyone.",
+  "status": "done"
  },
  {
   "id": "event_2173_0046A",
@@ -260,8 +260,8 @@
    5580
   ],
   "jp": "{voice:000109}決まりだな。{n}各隊配置に付け！",
-  "en": "",
-  "status": ""
+  "en": "That's settled. All units, take your positions!",
+  "status": "done"
  },
  {
   "id": "event_2173_0048C",
@@ -272,8 +272,8 @@
    5762
   ],
   "jp": "{voice:000209}配置、完了しました。",
-  "en": "",
-  "status": ""
+  "en": "Positions ready, sir.",
+  "status": "done"
  },
  {
   "id": "event_2173_004A5",
@@ -284,8 +284,8 @@
    5783
   ],
   "jp": "{voice:000309}よし、今だ！",
-  "en": "",
-  "status": ""
+  "en": "All right, now!",
+  "status": "done"
  },
  {
   "id": "event_2173_004B6",
@@ -296,8 +296,8 @@
    5847
   ],
   "jp": "{voice:000409}あの軍勢は……{n}まさかグラムブレイズ③",
-  "en": "",
-  "status": ""
+  "en": "That force... It can't be Gram Blaze?!",
+  "status": "done"
  },
  {
   "id": "event_2173_004E0",
@@ -308,8 +308,8 @@
    5890
   ],
   "jp": "{voice:000509}行くぞ、全隊攻撃開始だ！",
-  "en": "",
-  "status": ""
+  "en": "Let's go, all units, attack!",
+  "status": "done"
  },
  {
   "id": "event_2173_004FD",
@@ -320,8 +320,8 @@
    9781
   ],
   "jp": "{voice:000609}…ふ、不覚！",
-  "en": "",
-  "status": ""
+  "en": "...Wh-what a blunder!",
+  "status": "done"
  },
  {
   "id": "event_2173_0050E",
@@ -332,8 +332,8 @@
    10109
   ],
   "jp": "{voice:000709}なんだか呆気なかったな……{n}倒したんじゃなくて、{n}追い散らしたって感じだ。",
-  "en": "",
-  "status": ""
+  "en": "That was kind of a letdown... More like we chased them off than beat them.",
+  "status": "done"
  },
  {
   "id": "event_2173_0055B",
@@ -344,8 +344,8 @@
    10130
   ],
   "jp": "{voice:000809}ガーロット！{n}先行した部隊から伝令よ②{n}神生教団の別部隊を発見したって！",
-  "en": "",
-  "status": ""
+  "en": "Garlot! Message from the unit up ahead! They've found another Blessed Papal Army unit!",
+  "status": "done"
  },
  {
   "id": "event_2173_005A6",
@@ -356,8 +356,8 @@
    10137
   ],
   "jp": "{voice:000909}敗走兵はそちらに合流してるわ。",
-  "en": "",
-  "status": ""
+  "en": "The ones who ran are joining up with them.",
+  "status": "done"
  },
  {
   "id": "event_2173_005C9",
@@ -368,8 +368,8 @@
    10155
   ],
   "jp": "{voice:000A09}別部隊…？　どうなってる？",
-  "en": "",
-  "status": ""
+  "en": "Another unit...? What's going on?",
+  "status": "done"
  },
  {
   "id": "event_2173_005E8",
@@ -380,8 +380,8 @@
    10173
   ],
   "jp": "{voice:000B09}やっぱり、今回の狙いは別の所に{n}あるんじゃないかな。",
-  "en": "",
-  "status": ""
+  "en": "I knew it, I don't think we're the target this time.",
+  "status": "done"
  },
  {
   "id": "event_2173_00620",
@@ -392,8 +392,8 @@
    10194
   ],
   "jp": "{voice:000C09}とにかく敗残兵を追おう。",
-  "en": "",
-  "status": ""
+  "en": "Anyway, let's chase the stragglers.",
+  "status": "done"
  },
  {
   "id": "event_2173_0063D",
@@ -404,8 +404,8 @@
    10354
   ],
   "jp": "{voice:000D09}……はあっ……はあっ。",
-  "en": "",
-  "status": ""
+  "en": "...Hah... hah...",
+  "status": "done"
  },
  {
   "id": "event_2173_00658",
@@ -416,8 +416,8 @@
    10418
   ],
   "jp": "{voice:000E09}あれはジルヴァ③{n}別部隊の隊長はコイツか！",
-  "en": "",
-  "status": ""
+  "en": "That's Zilva! So she's leading the other unit!",
+  "status": "done"
  },
  {
   "id": "event_2173_00686",
@@ -428,8 +428,8 @@
    10439
   ],
   "jp": "{voice:000F09}でも、様子がおかしいです。{n}あれではジルヴァが追われている{n}ように見えます。",
-  "en": "",
-  "status": ""
+  "en": "But something is wrong. It looks as if Zilva is the one being chased.",
+  "status": "done"
  },
  {
   "id": "event_2173_006D5",
@@ -440,8 +440,8 @@
    10500
   ],
   "jp": "{voice:001009}グラムブレイズ！{n}なんというタイミングか……",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze! What timing...",
+  "status": "done"
  },
  {
   "id": "event_2173_00705",
@@ -452,8 +452,8 @@
    10518
   ],
   "jp": "{voice:001109}だが、我々の目的は{n}天意を遂行する事……{n}何人にも、邪魔はさせぬ。",
-  "en": "",
-  "status": ""
+  "en": "But our purpose is to carry out the will of Heaven... We will let no one stand in the way.",
+  "status": "done"
  },
  {
   "id": "event_2173_0074A",
@@ -464,8 +464,8 @@
    10581
   ],
   "jp": "{voice:001209}……うっ！",
-  "en": "",
-  "status": ""
+  "en": "...Ugh!",
+  "status": "done"
  },
  {
   "id": "event_2173_00759",
@@ -476,8 +476,8 @@
    10601
   ],
   "jp": "{voice:001309}あの姉妹を何度も取り逃がし、{n}その度に逃げ帰ってくるとは……",
-  "en": "",
-  "status": ""
+  "en": "You let those sisters escape time and again, and came running back each time...",
+  "status": "done"
  },
  {
   "id": "event_2173_00799",
@@ -488,8 +488,8 @@
    10622
   ],
   "jp": "{voice:001409}教団員の誇りをお前は貶めた！{n}死をもって、償うべし②",
-  "en": "",
-  "status": ""
+  "en": "You have disgraced the pride of the Order! You shall atone with your death!",
+  "status": "done"
  },
  {
   "id": "event_2173_007D1",
@@ -500,8 +500,8 @@
    10643
   ],
   "jp": "{voice:001509}………っ！",
-  "en": "",
-  "status": ""
+  "en": ".........Ngh!",
+  "status": "done"
  },
  {
   "id": "event_2173_007E0",
@@ -512,8 +512,8 @@
    10718
   ],
   "jp": "{voice:001609}やはり奴らの狙いはジルヴァか！",
-  "en": "",
-  "status": ""
+  "en": "So Zilva is the target after all!",
+  "status": "done"
  },
  {
   "id": "event_2173_00803",
@@ -524,8 +524,8 @@
    10736
   ],
   "jp": "{voice:001709}ガーロット様、{n}身勝手とはわかっています……",
-  "en": "",
-  "status": ""
+  "en": "Garlot-sama, I know this is selfish of me...",
+  "status": "done"
  },
  {
   "id": "event_2173_00833",
@@ -536,8 +536,8 @@
    10754
   ],
   "jp": "{voice:001809}ですが、お願いです。{n}ジルヴァを助けさせてください。",
-  "en": "",
-  "status": ""
+  "en": "But I beg you. Please let me save Zilva.",
+  "status": "done"
  },
  {
   "id": "event_2173_0086B",
@@ -548,8 +548,8 @@
    10772
   ],
   "jp": "{voice:001909}だが、奴らは！",
-  "en": "",
-  "status": ""
+  "en": "But they're...!",
+  "status": "done"
  },
  {
   "id": "event_2173_0087E",
@@ -560,8 +560,8 @@
    10790
   ],
   "jp": "{voice:001A09}必要ないから棄てられる…{n}害をなすから殺される…",
-  "en": "",
-  "status": ""
+  "en": "Thrown away when no longer needed... Killed for causing harm...",
+  "status": "done"
  },
  {
   "id": "event_2173_008B2",
@@ -572,8 +572,8 @@
    10811
   ],
   "jp": "{voice:001B09}たとえ、私達をつけ狙ってきた{n}ジルヴァであっても、{n}そんなこと許せません！",
-  "en": "",
-  "status": ""
+  "en": "Even if it is Zilva, who has hunted us, I cannot allow such a thing!",
+  "status": "done"
  },
  {
   "id": "event_2173_008FF",
@@ -584,8 +584,8 @@
    10832
   ],
   "jp": "{voice:001C09}わかった、いいぜアイギナ。{n}ジルヴァを助けよう！",
-  "en": "",
-  "status": ""
+  "en": "Fine, okay, Aegina. Let's save Zilva!",
+  "status": "done"
  },
  {
   "id": "event_2173_00933",
@@ -597,8 +597,8 @@
    6097
   ],
   "jp": "石がゴロゴロしてるな…{n}この岩山から欠け落ちたのかな。",
-  "en": "",
-  "status": ""
+  "en": "Stones all over the place... Must've broken off this rocky mountain.",
+  "status": "done"
  },
  {
   "id": "event_2173_00969",
@@ -610,8 +610,8 @@
    6183
   ],
   "jp": "…ドクロの形の岩が混ざってる。{n}流石にコレは自然にできたもの{n}じゃないと思うが…",
-  "en": "",
-  "status": ""
+  "en": "...There's a rock shaped like a skull in with them. I doubt that one formed naturally, though...",
+  "status": "done"
  },
  {
   "id": "event_2173_009B8",
@@ -623,8 +623,8 @@
    6259
   ],
   "jp": "石がたくさん転がってるわね。",
-  "en": "",
-  "status": ""
+  "en": "There's a lot of stones rolling around.",
+  "status": "done"
  },
  {
   "id": "event_2173_009D5",
@@ -636,8 +636,8 @@
    6345
   ],
   "jp": "うわっ、ガイコツ？{n}びっくりした…{n}けど、なんでこんなものが？",
-  "en": "",
-  "status": ""
+  "en": "Eek, a skeleton? That startled me... But why would this be here?",
+  "status": "done"
  },
  {
   "id": "event_2173_00A12",
@@ -649,8 +649,8 @@
    6421
   ],
   "jp": "あまり雨が降らないんだろうね。{n}乾燥のせいで、{n}こんなに石がゴロゴロと…",
-  "en": "",
-  "status": ""
+  "en": "I suppose it doesn't rain much here. All these stones rolling about, thanks to the dryness...",
+  "status": "done"
  },
  {
   "id": "event_2173_00A59",
@@ -662,8 +662,8 @@
    6507
   ],
   "jp": "ん？{n}頭ガイコツの形してるけど、{n}これは作り物だよねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? It's shaped like a skull, but this must be something made by hand.",
+  "status": "done"
  },
  {
   "id": "event_2173_00A90",
@@ -675,8 +675,8 @@
    6583
   ],
   "jp": "乾き切った荒野だからかな？{n}なんとなく、故郷を思い出すな。",
-  "en": "",
-  "status": ""
+  "en": "Maybe because it's a dried-out wasteland? Reminds me of my homeland, somehow.",
+  "status": "done"
  },
  {
   "id": "event_2173_00ACA",
@@ -688,8 +688,8 @@
    6669
   ],
   "jp": "変わった形の石だな。{n}作り物を誰かが落としたんだと{n}思うけど…",
-  "en": "",
-  "status": ""
+  "en": "Strange-shaped stone. Must be something handmade that someone dropped...",
+  "status": "done"
  },
  {
   "id": "event_2173_00B07",
@@ -701,8 +701,8 @@
    6745
   ],
   "jp": "砂漠とは違いますけど、{n}なんだか乾いた土地ですね…",
-  "en": "",
-  "status": ""
+  "en": "It is not a desert, but this land seems dry somehow...",
+  "status": "done"
  },
  {
   "id": "event_2173_00B39",
@@ -714,8 +714,8 @@
    6831
   ],
   "jp": "ヒッ②　が、ガイコツ③{n}…び、びっくりした、{n}作り物じゃないですか、もう…",
-  "en": "",
-  "status": ""
+  "en": "Eek! A-a skeleton?! ...Th-that startled me, it is only something handmade, really...",
+  "status": "done"
  },
  {
   "id": "event_2173_00B82",
@@ -727,8 +727,8 @@
    6907
   ],
   "jp": "見渡す限りの荒野…{n}こう、イヤになっちゃうね。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Wasteland as far as the eye can see... Enough to make Byff waste away. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2173_00BBF",
@@ -740,8 +740,8 @@
    6993
   ],
   "jp": "むおっ、ドクロ③{n}な、なんだ、オブジェか…{n}ビックリしたぞ～…",
-  "en": "",
-  "status": ""
+  "en": "Whoa, a skull?! Wh-what, an ornament... That startled Byff~...",
+  "status": "done"
  },
  {
   "id": "event_2173_00BFC",
@@ -753,8 +753,8 @@
    7555
   ],
   "jp": "大きな一枚岩ね…{n}遮蔽物もないし、大砲の試射には{n}ちょうどいい場所じゃない。",
-  "en": "",
-  "status": ""
+  "en": "What a big single rock... No cover anywhere, either. This is the perfect spot for a cannon test.",
+  "status": "done"
  },
  {
   "id": "event_2173_00C47",
@@ -766,8 +766,8 @@
    7641
   ],
   "jp": "あら、ガイコツじゃない。{n}石で作ってある…{n}ふーん、凝ってるわね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a skeleton. Made of stone... Hmm, that's some nice detail.",
+  "status": "done"
  },
  {
   "id": "event_2173_00C88",
@@ -779,8 +779,8 @@
    7069
   ],
   "jp": "石が転がってるな。{n}この大岩の一部が崩れたんだな。",
-  "en": "",
-  "status": ""
+  "en": "Stones rollin' around. Part of this big rock must've crumbled.",
+  "status": "done"
  },
  {
   "id": "event_2173_00CBA",
@@ -792,8 +792,8 @@
    7155
   ],
   "jp": "うわっ、ガイコツ？{n}…作り物、だよな。{n}元からこの形じゃあない、よな？",
-  "en": "",
-  "status": ""
+  "en": "Whoa, a skeleton? ...It's handmade, right? It wasn't like this from the start, right?",
+  "status": "done"
  },
  {
   "id": "event_2173_00CFF",
@@ -805,8 +805,8 @@
    7393
   ],
   "jp": "うーん…{n}ここいらも乾き切ってて、{n}あっしにはちょっと辛いわねぇ…",
-  "en": "",
-  "status": ""
+  "en": "Mmm... It's bone dry around here too, a bit rough on me, y'hear...",
+  "status": "done"
  },
  {
   "id": "event_2173_00D40",
@@ -818,8 +818,8 @@
    7479
   ],
   "jp": "お、ドロクじゃない。{n}カッコイイわよねぇ、ドクロ。{n}ゲロゲーロ～。",
-  "en": "",
-  "status": ""
+  "en": "Ooh, a skull. Skulls're cool, ain't they. Blehhh~.",
+  "status": "done"
  },
  {
   "id": "event_2173_00D81",
@@ -831,8 +831,8 @@
    7231
   ],
   "jp": "ムキーッ②{n}石ばっか転がってて{n}歩きづらいったらないわ！",
-  "en": "",
-  "status": ""
+  "en": "Grrr! There's nothing but stones rolling around, it's such a pain to walk!",
+  "status": "done"
  },
  {
   "id": "event_2173_00DB8",
@@ -844,8 +844,8 @@
    7317
   ],
   "jp": "…うほっ②{n}よくできたドクロちゃんね！{n}すごい、見直したわよ、石！",
-  "en": "",
-  "status": ""
+  "en": "...Ooh! What a well-made Skull-chan! Wow, Pamela-sama takes it all back, stone!",
+  "status": "done"
  },
  {
   "id": "event_2173_00DF9",
@@ -857,8 +857,8 @@
    7717
   ],
   "jp": "ホウ、これは…",
-  "en": "",
-  "status": ""
+  "en": "Oh, what is this...",
+  "status": "done"
  },
  {
   "id": "event_2173_00E08",
@@ -870,8 +870,8 @@
    7803
   ],
   "jp": "負の力を感じます。{n}ただの作り物ではありませんよ。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "I sense negative power. This is no mere handiwork. Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2173_00E6D",
@@ -918,8 +918,8 @@
    4161
   ],
   "jp": "ジルヴァ",
-  "en": "",
-  "status": ""
+  "en": "Zilva",
+  "status": "done"
  },
  {
   "id": "event_2173_02AD0",
@@ -930,8 +930,8 @@
    14379
   ],
   "jp": "{voice:001D09}ほう、そういう選択ですか……",
-  "en": "",
-  "status": ""
+  "en": "Oh, so that is your choice...",
+  "status": "done"
  },
  {
   "id": "event_2173_02AF1",
@@ -942,8 +942,8 @@
    18264
   ],
   "jp": "{voice:001E09}ぐうっ…{n}…その、女の死は…{n}天意…だ……",
-  "en": "",
-  "status": ""
+  "en": "Ugh... That woman's death... is the will of Heaven...",
+  "status": "done"
  },
  {
   "id": "event_2173_02B1E",
@@ -954,8 +954,8 @@
    18580
   ],
   "jp": "{voice:001F09}キサマらは…、天意に弓を引いた。{n}フフフ…、後悔するぞ。",
-  "en": "",
-  "status": ""
+  "en": "You... have drawn your bow against Heaven's will. Heh heh heh... You will regret it.",
+  "status": "done"
  },
  {
   "id": "event_2173_02B5A",
@@ -966,8 +966,8 @@
    18587
   ],
   "jp": "{voice:002009}いつか裁きが…、下るだろう…",
-  "en": "",
-  "status": ""
+  "en": "Judgment... will fall upon you one day...",
+  "status": "done"
  },
  {
   "id": "event_2173_02B7B",
@@ -978,8 +978,8 @@
    18605
   ],
   "jp": "{voice:002109}黙れ！",
-  "en": "",
-  "status": ""
+  "en": "Silence!",
+  "status": "done"
  },
  {
   "id": "event_2173_02B86",
@@ -990,8 +990,8 @@
    18612
   ],
   "jp": "{voice:002209}例え天意が、死を示すとしても…{n}私達は逆らって生き抜きます！",
-  "en": "",
-  "status": ""
+  "en": "Even if Heaven's will calls for death... we will defy it and live on!",
+  "status": "done"
  },
  {
   "id": "event_2173_02BC6",
@@ -1002,8 +1002,8 @@
    18619
   ],
   "jp": "{voice:002309}決められた運命なんて、無い！{n}自分の生き死には、自分で決める②",
-  "en": "",
-  "status": ""
+  "en": "There is no such thing as a set fate! I decide my own life and death!",
+  "status": "done"
  },
  {
   "id": "event_2173_02C08",
@@ -1014,8 +1014,8 @@
    18647
   ],
   "jp": "{voice:002409}なんと、恐れ多い…こと…を{n}…うぐっ、神生教団に栄光を②",
-  "en": "",
-  "status": ""
+  "en": "How... presumptuous... you are... Ugh, glory to the Blessed Papal Army!",
+  "status": "done"
  },
  {
   "id": "event_2173_02C44",
@@ -1038,8 +1038,8 @@
    19341
   ],
   "jp": "{voice:002509}あんな数の部隊に包囲されて、{n}この程度の傷で済むって、{n}運がいいのね、あなた。",
-  "en": "",
-  "status": ""
+  "en": "Surrounded by that many soldiers, and just these wounds? You're lucky, you know.",
+  "status": "done"
  },
  {
   "id": "event_2173_02CA0",
@@ -1062,8 +1062,8 @@
    19377
   ],
   "jp": "{voice:002609}待ってて、{n}今、手当てしてあげるから。",
-  "en": "",
-  "status": ""
+  "en": "Hold on, I'll treat you right now.",
+  "status": "done"
  },
  {
   "id": "event_2173_02CD5",
@@ -1074,8 +1074,8 @@
    19395
   ],
   "jp": "{voice:002709}……何故助けた。{n}私はお前達の敵だぞ。",
-  "en": "",
-  "status": ""
+  "en": "...Why did you save me. I am your enemy.",
+  "status": "done"
  },
  {
   "id": "event_2173_02CFF",
@@ -1086,8 +1086,8 @@
    19413
   ],
   "jp": "{voice:002809}今は違うでしょ？",
-  "en": "",
-  "status": ""
+  "en": "Not right now, you aren't.",
+  "status": "done"
  },
  {
   "id": "event_2173_02D14",
@@ -1098,8 +1098,8 @@
    19420
   ],
   "jp": "{voice:002909}あなたも、{n}神生教団に追われていた。{n}敵の敵は味方ってね。",
-  "en": "",
-  "status": ""
+  "en": "The Blessed Papal Army was chasing you too. Enemy of my enemy is a friend, as they say.",
+  "status": "done"
  },
  {
   "id": "event_2173_02D51",
@@ -1110,8 +1110,8 @@
    19438
   ],
   "jp": "{voice:002A09}敵は、どんな状況であれ、敵だ。",
-  "en": "",
-  "status": ""
+  "en": "An enemy is an enemy. In any situation.",
+  "status": "done"
  },
  {
   "id": "event_2173_02D74",
@@ -1122,8 +1122,8 @@
    19445
   ],
   "jp": "{voice:002B09}…私は今まで、神生教団以外での{n}生き方を知らずに生きてきた。",
-  "en": "",
-  "status": ""
+  "en": "...I have never known any way to live but the Order's.",
+  "status": "done"
  },
  {
   "id": "event_2173_02DB4",
@@ -1134,8 +1134,8 @@
    19452
   ],
   "jp": "{voice:002C09}教団は私に全てを与えてくれた。{n}食事も、住居も、装備も。{n}殺しの技だって……",
-  "en": "",
-  "status": ""
+  "en": "The Order gave me everything. Food, shelter, gear. Even the art of killing...",
+  "status": "done"
  },
  {
   "id": "event_2173_02E03",
@@ -1146,8 +1146,8 @@
    19459
   ],
   "jp": "{voice:002D09}その教団から、排斥されたんだ。{n}もう私は生きていけない…",
-  "en": "",
-  "status": ""
+  "en": "And I was cast out by it. I can no longer live...",
+  "status": "done"
  },
  {
   "id": "event_2173_02E3F",
@@ -1158,8 +1158,8 @@
    19477
   ],
   "jp": "{voice:002E09}死にたいの？",
-  "en": "",
-  "status": ""
+  "en": "Do you want to die?",
+  "status": "done"
  },
  {
   "id": "event_2173_02E50",
@@ -1170,8 +1170,8 @@
    19495
   ],
   "jp": "{voice:002F09}ああ、それもいい。{n}私を殺せ。",
-  "en": "",
-  "status": ""
+  "en": "Yes. That would be fine. Kill me.",
+  "status": "done"
  },
  {
   "id": "event_2173_02E72",
@@ -1182,8 +1182,8 @@
    19513
   ],
   "jp": "{voice:003009}…はい、治療完了。",
-  "en": "",
-  "status": ""
+  "en": "...There, all patched up.",
+  "status": "done"
  },
  {
   "id": "event_2173_02E89",
@@ -1194,8 +1194,8 @@
    19531
   ],
   "jp": "{voice:003109}聞こえなかったのか？{n}手負いだから躊躇しているのか？",
-  "en": "",
-  "status": ""
+  "en": "Did you not hear me? Do you hesitate because I am wounded?",
+  "status": "done"
  },
  {
   "id": "event_2173_02EC1",
@@ -1206,8 +1206,8 @@
    19538
   ],
   "jp": "{voice:003209}なら、頼もう。{n}私を殺してくれ。",
-  "en": "",
-  "status": ""
+  "en": "Then I will ask. Kill me.",
+  "status": "done"
  },
  {
   "id": "event_2173_02EE5",
@@ -1218,8 +1218,8 @@
    19556
   ],
   "jp": "{voice:003309}…ねえ、ジルヴァ。",
-  "en": "",
-  "status": ""
+  "en": "...Hey, Zilva.",
+  "status": "done"
  },
  {
   "id": "event_2173_02EFC",
@@ -1230,8 +1230,8 @@
    19563
   ],
   "jp": "{voice:003409}確かに今までのあなたには、{n}教団が全てだったのかもしれない。",
-  "en": "",
-  "status": ""
+  "en": "Sure, maybe up to now the Order's been everything to you.",
+  "status": "done"
  },
  {
   "id": "event_2173_02F3C",
@@ -1242,8 +1242,8 @@
    19570
   ],
   "jp": "{voice:003509}だけど私達の人生は、{n}今までよりも、これからの方が{n}ずっと長いんだよ。",
-  "en": "",
-  "status": ""
+  "en": "But our lives from here on are going to be way longer than what's come before.",
+  "status": "done"
  },
  {
   "id": "event_2173_02F85",
@@ -1254,8 +1254,8 @@
    19577
   ],
   "jp": "{voice:003609}それに世界には、{n}あなたの知らない事がきっと{n}沢山ある！",
-  "en": "",
-  "status": ""
+  "en": "And I'm sure there's a whole lot in the world you don't know about!",
+  "status": "done"
  },
  {
   "id": "event_2173_02FC0",
@@ -1266,8 +1266,8 @@
    19584
   ],
   "jp": "{voice:003709}見つけなよ、生きる意味を。{n}変えなよ、自分を。",
-  "en": "",
-  "status": ""
+  "en": "Find it, a reason to live. Change yourself.",
+  "status": "done"
  },
  {
   "id": "event_2173_02FF2",
@@ -1290,8 +1290,8 @@
    19620
   ],
   "jp": "{voice:003809}私の好きな人は変われたよ。{n}孤独な人で、乱暴だったけど…{n}今は仲間を大切にしてる。",
-  "en": "",
-  "status": ""
+  "en": "Somebody I love managed to change. He was lonely and rough, but now he cares about his friends.",
+  "status": "done"
  },
  {
   "id": "event_2173_03052",
@@ -1302,8 +1302,8 @@
    19638
   ],
   "jp": "{voice:003909}…そいつは変われた。{n}だから私も変われると？",
-  "en": "",
-  "status": ""
+  "en": "...He was able to change. So I can too?",
+  "status": "done"
  },
  {
   "id": "event_2173_03082",
@@ -1314,8 +1314,8 @@
    19656
   ],
   "jp": "{voice:003A09}わかんないけどね、{n}でも一つだけ確かな事がある。",
-  "en": "",
-  "status": ""
+  "en": "I don't know, but one thing's for sure.",
+  "status": "done"
  },
  {
   "id": "event_2173_030B6",
@@ -1326,8 +1326,8 @@
    19663
   ],
   "jp": "{voice:003B09}変わろうと思わなければ、{n}いつまでも変われないってこと。",
-  "en": "",
-  "status": ""
+  "en": "If you don't want to change, you never will.",
+  "status": "done"
  },
  {
   "id": "event_2173_030F2",
@@ -1338,8 +1338,8 @@
    19681
   ],
   "jp": "{voice:003C09}……私は。",
-  "en": "",
-  "status": ""
+  "en": "...I.",
+  "status": "done"
  },
  {
   "id": "event_2173_03101",
@@ -1350,8 +1350,8 @@
    20029
   ],
   "jp": "{voice:003D09}よう、治療は終わったか？",
-  "en": "",
-  "status": ""
+  "en": "Hey, is the treatment done?",
+  "status": "done"
  },
  {
   "id": "event_2173_0311E",
@@ -1362,8 +1362,8 @@
    20047
   ],
   "jp": "{voice:003E09}あ、ガーロット。{n}ちょうど終わったところ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, Garlot. Just finished.",
+  "status": "done"
  },
  {
   "id": "event_2173_0314C",
@@ -1374,8 +1374,8 @@
    20065
   ],
   "jp": "{voice:003F09}赤髪の男、{n}私の処遇はどうなる？",
-  "en": "",
-  "status": ""
+  "en": "Red-haired man, what becomes of me?",
+  "status": "done"
  },
  {
   "id": "event_2173_03170",
@@ -1386,8 +1386,8 @@
    20083
   ],
   "jp": "{voice:004009}……殺すのか。",
-  "en": "",
-  "status": ""
+  "en": "...You will kill me, then.",
+  "status": "done"
  },
  {
   "id": "event_2173_03183",
@@ -1398,8 +1398,8 @@
    20101
   ],
   "jp": "{voice:004109}いや、好きなところへ行け。{n}ここでお別れだ。",
-  "en": "",
-  "status": ""
+  "en": "No, go wherever you want. This is goodbye.",
+  "status": "done"
  },
  {
   "id": "event_2173_031B3",
@@ -1410,8 +1410,8 @@
    20119
   ],
   "jp": "{voice:004209}なに？",
-  "en": "",
-  "status": ""
+  "en": "What?",
+  "status": "done"
  },
  {
   "id": "event_2173_031BE",
@@ -1422,8 +1422,8 @@
    20137
   ],
   "jp": "{voice:004309}今のお前は、教団を追われてる。{n}殺す理由は無くなったよ。",
-  "en": "",
-  "status": ""
+  "en": "The Order's chasing you now. I've got no more reason to kill you.",
+  "status": "done"
  },
  {
   "id": "event_2173_031FA",
@@ -1434,8 +1434,8 @@
    20158
   ],
   "jp": "{voice:004409}私は、死ねないのか…",
-  "en": "",
-  "status": ""
+  "en": "So I cannot die...",
+  "status": "done"
  },
  {
   "id": "event_2173_03213",
@@ -1446,8 +1446,8 @@
    20168
   ],
   "jp": "{voice:004509}…教団員でもない私には、{n}意味も価値もないと言うのか？",
-  "en": "",
-  "status": ""
+  "en": "...You are saying I have no meaning or worth, now that I am not of the Order?",
+  "status": "done"
  },
  {
   "id": "event_2173_0324D",
@@ -1458,8 +1458,8 @@
    20186
   ],
   "jp": "{voice:004609}そうじゃないさ。",
-  "en": "",
-  "status": ""
+  "en": "That's not it.",
+  "status": "done"
  },
  {
   "id": "event_2173_03262",
@@ -1470,8 +1470,8 @@
    20289
   ],
   "jp": "{voice:004709}他人にすがって、生や死の理由を{n}求めるのはやめろ。{n}生きる意味を見つけるんだ。",
-  "en": "",
-  "status": ""
+  "en": "Stop clinging to other people for your reasons to live or die. Go find a reason to live.",
+  "status": "done"
  },
  {
   "id": "event_2173_032B3",
@@ -1482,8 +1482,8 @@
    20307
   ],
   "jp": "{voice:004809}……同じ事を言うのだな。",
-  "en": "",
-  "status": ""
+  "en": "...You say the same thing she did.",
+  "status": "done"
  },
  {
   "id": "event_2173_032D0",
@@ -1494,8 +1494,8 @@
    20314
   ],
   "jp": "{voice:004909}…女、{n}さっきお前が言っていたのは、{n}この赤髪の事か？",
-  "en": "",
-  "status": ""
+  "en": "...Woman, the one you spoke of before. Was it this redhead?",
+  "status": "done"
  },
  {
   "id": "event_2173_03309",
@@ -1506,8 +1506,8 @@
    20332
   ],
   "jp": "{voice:004A09}ん？　なんの話だ？",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's she talking about?",
+  "status": "done"
  },
  {
   "id": "event_2173_03320",
@@ -1518,8 +1518,8 @@
    20350
   ],
   "jp": "{voice:004B09}な、何を言い出すのよ！{n}やあねぇ、まったく、もう…",
-  "en": "",
-  "status": ""
+  "en": "Wh-what are you saying! Oh, honestly, really...",
+  "status": "done"
  },
  {
   "id": "event_2173_03356",
@@ -1530,8 +1530,8 @@
    20368
   ],
   "jp": "{voice:004C09}わかった、探してみようと思う…{n}生きる意味を。",
-  "en": "",
-  "status": ""
+  "en": "Very well. I will try to look for it... A reason to live.",
+  "status": "done"
  },
  {
   "id": "event_2173_03388",
@@ -1542,8 +1542,8 @@
    20386
   ],
   "jp": "{voice:004D09}ああ、そうしろ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah. You do that.",
+  "status": "done"
  },
  {
   "id": "event_2173_0339D",
@@ -1554,8 +1554,8 @@
    20404
   ],
   "jp": "{voice:004E09}命を救ってくれた。{n}礼を言うべきなのだろうが……",
-  "en": "",
-  "status": ""
+  "en": "You saved my life. I should thank you, but...",
+  "status": "done"
  },
  {
   "id": "event_2173_033D1",
@@ -1566,8 +1566,8 @@
    20411
   ],
   "jp": "{voice:004F09}黙って去る事にする。{n}今の私では、きっと気持ちを{n}伝えられないと思うから。",
-  "en": "",
-  "status": ""
+  "en": "I will leave without a word. As I am now, I could not convey how I feel.",
+  "status": "done"
  },
  {
   "id": "event_2173_0341E",
@@ -1578,8 +1578,8 @@
    20429
   ],
   "jp": "{voice:005009}私の名前はジルヴァ。{n}覚えていてくれたら嬉しい。",
-  "en": "",
-  "status": ""
+  "en": "My name is Zilva. I would be glad if you remembered it.",
+  "status": "done"
  },
  {
   "id": "event_2173_03452",
@@ -1590,8 +1590,8 @@
    20550
   ],
   "jp": "{voice:005109}…行っちゃったね。",
-  "en": "",
-  "status": ""
+  "en": "...She's gone.",
+  "status": "done"
  },
  {
   "id": "event_2173_03469",
@@ -1602,8 +1602,8 @@
    20632
   ],
   "jp": "{voice:005209}本当によかったのか？",
-  "en": "",
-  "status": ""
+  "en": "Are you sure about that?",
+  "status": "done"
  },
  {
   "id": "event_2173_03482",
@@ -1614,8 +1614,8 @@
    20650
   ],
   "jp": "{voice:005309}ええ……",
-  "en": "",
-  "status": ""
+  "en": "Yes...",
+  "status": "done"
  },
  {
   "id": "event_2173_0348F",
@@ -1626,8 +1626,8 @@
    20657
   ],
   "jp": "{voice:005409}ジルヴァの気持ちが私には{n}わかる気がします。",
-  "en": "",
-  "status": ""
+  "en": "I feel I understand how Zilva feels.",
+  "status": "done"
  },
  {
   "id": "event_2173_034BF",
@@ -1638,8 +1638,8 @@
    20675
   ],
   "jp": "{voice:005509}神生教団は、言わば彼女の親です。{n}信じていた存在に、命を狙われる…{n}辛いでしょうね。",
-  "en": "",
-  "status": ""
+  "en": "The Blessed Papal Army is a kind of parent to her. Hunted by the one she trusted... It must be painful.",
+  "status": "done"
  },
  {
   "id": "event_2173_03516",
@@ -1650,8 +1650,8 @@
    20693
   ],
   "jp": "{voice:005609}セリカみたいに僕達を追い回す{n}存在にならないか心配だよ。",
-  "en": "",
-  "status": ""
+  "en": "I'm worried she'll end up chasing us around like Cerica.",
+  "status": "done"
  },
  {
   "id": "event_2173_03552",
@@ -1662,8 +1662,8 @@
    20711
   ],
   "jp": "{voice:005709}ま、それはないだろ。",
-  "en": "",
-  "status": ""
+  "en": "Well, that won't happen.",
+  "status": "done"
  },
  {
   "id": "event_2173_0356B",
@@ -1674,8 +1674,8 @@
    20729
   ],
   "jp": "{voice:005809}どうしてそう思う？",
-  "en": "",
-  "status": ""
+  "en": "What makes you think so?",
+  "status": "done"
  },
  {
   "id": "event_2173_03582",
@@ -1686,8 +1686,8 @@
    20747
   ],
   "jp": "{voice:005909}いやね、今のガーロットなら、{n}大丈夫って事。",
-  "en": "",
-  "status": ""
+  "en": "Let's just say that with Garlot the way he is now, it'll be fine.",
+  "status": "done"
  },
  {
   "id": "event_2173_035B2",
@@ -1698,8 +1698,8 @@
    20765
   ],
   "jp": "{voice:005A09}え？　どういう事？",
-  "en": "",
-  "status": ""
+  "en": "Huh? What does that mean?",
+  "status": "done"
  },
  {
   "id": "event_2173_035C9",
@@ -1710,7 +1710,7 @@
    20783
   ],
   "jp": "{voice:005B09}直感、ってとこ。",
-  "en": "",
-  "status": ""
+  "en": "Call it a hunch.",
+  "status": "done"
  }
 ]

@@ -8,8 +8,8 @@
    12121
   ],
   "jp": "{voice:007408}随分深い森ですね。{n}日の光が、薄い。",
-  "en": "",
-  "status": ""
+  "en": "This forest is very deep. So little daylight comes through.",
+  "status": "done"
  },
  {
   "id": "event_2172_00050",
@@ -20,8 +20,8 @@
    12139
   ],
   "jp": "{voice:007508}こんなところで暮らすなんて、{n}よっぽどの変わり者だね。",
-  "en": "",
-  "status": ""
+  "en": "Living in a place like this, he must be quite the oddball.",
+  "status": "done"
  },
  {
   "id": "event_2172_0008A",
@@ -32,8 +32,8 @@
    12284
   ],
   "jp": "{voice:007608}それにしても、人里と離れすぎよ。{n}頭、おかしいんじゃないの？",
-  "en": "",
-  "status": ""
+  "en": "Even so, this is way too far from civilization. Is he out of his mind?",
+  "status": "done"
  },
  {
   "id": "event_2172_000CA",
@@ -44,8 +44,8 @@
    12302
   ],
   "jp": "{voice:007708}……お前が言うかよ。{n}山奥で実験三昧だったくせに。",
-  "en": "",
-  "status": ""
+  "en": "...You're one to talk. You were up in the mountains doing nothing but experiments.",
+  "status": "done"
  },
  {
   "id": "event_2172_00100",
@@ -56,8 +56,8 @@
    12521
   ],
   "jp": "{voice:007808}ジェノンは、その預言者に対して{n}えらく否定的な態度だな。",
-  "en": "",
-  "status": ""
+  "en": "Jenon, you're awfully down on this prophet.",
+  "status": "done"
  },
  {
   "id": "event_2172_0013C",
@@ -68,8 +68,8 @@
    12539
   ],
   "jp": "{voice:007908}あ～、もしかしてジェノン！{n}その預言者が加入したら、{n}自分の立場がないとか思ってる？",
-  "en": "",
-  "status": ""
+  "en": "Aha, could it be, Jenon! You think if this prophet joins up, there'll be no place left for you?",
+  "status": "done"
  },
  {
   "id": "event_2172_00193",
@@ -80,8 +80,8 @@
    12557
   ],
   "jp": "{voice:007A08}…それ、嫉妬って事？{n}やめてよ。そんなんじゃないって。",
-  "en": "",
-  "status": ""
+  "en": "...You mean I'm jealous? Please. It's nothing like that.",
+  "status": "done"
  },
  {
   "id": "event_2172_001CD",
@@ -92,8 +92,8 @@
    12575
   ],
   "jp": "{voice:007B08}ガーロット、斥候から報告だ。{n}あと少し歩いた場所に、{n}古ぼけた館があるってさ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, report from the scouts. A little farther on, there's a run-down old mansion.",
+  "status": "done"
  },
  {
   "id": "event_2172_0021E",
@@ -104,8 +104,8 @@
    12593
   ],
   "jp": "{voice:007C08}多分、そこだろう。{n}行ってみよう。",
-  "en": "",
-  "status": ""
+  "en": "That's probably it. Let's go.",
+  "status": "done"
  },
  {
   "id": "event_2172_00244",
@@ -116,8 +116,8 @@
    13003
   ],
   "jp": "{voice:007D08}ここ？{n}うわぁ、気味が悪い。",
-  "en": "",
-  "status": ""
+  "en": "Here? Ew, this place is creepy.",
+  "status": "done"
  },
  {
   "id": "event_2172_00264",
@@ -128,8 +128,8 @@
    13128
   ],
   "jp": "{voice:007E08}グラムブレイズの皆様ですね。{n}お待ちしていましたよ。",
-  "en": "",
-  "status": ""
+  "en": "You must be Gram Blaze. I have been expecting you.",
+  "status": "done"
  },
  {
   "id": "event_2172_0029C",
@@ -152,8 +152,8 @@
    13173
   ],
   "jp": "{voice:007F08}誰だ！{n}何故、俺達の事を知っている？",
-  "en": "",
-  "status": ""
+  "en": "Who's there! How do you know about us?",
+  "status": "done"
  },
  {
   "id": "event_2172_002C7",
@@ -164,8 +164,8 @@
    13191
   ],
   "jp": "{voice:008008}誰だ、と聞かれる？{n}おやおや、私を探しに来られたと{n}思っていたのですが。",
-  "en": "",
-  "status": ""
+  "en": "You ask who I am? Dear me, and I thought you came here looking for me.",
+  "status": "done"
  },
  {
   "id": "event_2172_00312",
@@ -176,8 +176,8 @@
    13212
   ],
   "jp": "{voice:008108}これが、預言③",
-  "en": "",
-  "status": ""
+  "en": "So this is prophecy?!",
+  "status": "done"
  },
  {
   "id": "event_2172_00325",
@@ -188,8 +188,8 @@
    13230
   ],
   "jp": "{voice:008208}こんな場所まで来る人間は、{n}彼に会うぐらいしかないだろ？{n}預言じゃない、推論だよ。",
-  "en": "",
-  "status": ""
+  "en": "Who else would come all this way except to meet him? That's no prophecy, it's reasoning.",
+  "status": "done"
  },
  {
   "id": "event_2172_0037A",
@@ -200,8 +200,8 @@
    13248
   ],
   "jp": "{voice:008308}そうかもしれませんね。",
-  "en": "",
-  "status": ""
+  "en": "Perhaps so.",
+  "status": "done"
  },
  {
   "id": "event_2172_00395",
@@ -212,8 +212,8 @@
    13255
   ],
   "jp": "{voice:008408}ですが、{n}あなた方がグラムブレイズだと{n}わかった事はどう説明しますか？",
-  "en": "",
-  "status": ""
+  "en": "However, how do you explain my knowing that you are Gram Blaze?",
+  "status": "done"
  },
  {
   "id": "event_2172_003DE",
@@ -224,8 +224,8 @@
    13273
   ],
   "jp": "{voice:008508}……それは、{n}当てずっぽうだ。",
-  "en": "",
-  "status": ""
+  "en": "...That was a lucky guess.",
+  "status": "done"
  },
  {
   "id": "event_2172_00400",
@@ -236,8 +236,8 @@
    13291
   ],
   "jp": "{voice:008608}その可能性も、{n}今は否定できないな。",
-  "en": "",
-  "status": ""
+  "en": "Can't rule that out either, for now.",
+  "status": "done"
  },
  {
   "id": "event_2172_00428",
@@ -248,8 +248,8 @@
    13309
   ],
   "jp": "{voice:008708}まあ、いいでしょう。",
-  "en": "",
-  "status": ""
+  "en": "Well, no matter.",
+  "status": "done"
  },
  {
   "id": "event_2172_00441",
@@ -260,8 +260,8 @@
    13477
   ],
   "jp": "{voice:008808}あれ、お姉ちゃん？",
-  "en": "",
-  "status": ""
+  "en": "Huh? Big Sis?",
+  "status": "done"
  },
  {
   "id": "event_2172_00458",
@@ -272,8 +272,8 @@
    13501
   ],
   "jp": "{voice:008908}あなたは…、お嬢ちゃん③",
-  "en": "",
-  "status": ""
+  "en": "You're... that little girl?!",
+  "status": "done"
  },
  {
   "id": "event_2172_00475",
@@ -284,8 +284,8 @@
    13519
   ],
   "jp": "{voice:008A08}お嬢ちゃんじゃないよ、{n}ボクはエイミだよ。",
-  "en": "",
-  "status": ""
+  "en": "I'm not a little girl. I'm Eimi.",
+  "status": "done"
  },
  {
   "id": "event_2172_004A3",
@@ -296,8 +296,8 @@
    13537
   ],
   "jp": "{voice:008B08}あはは、ごめんエイミちゃん。{n}けど、どうしてここに？",
-  "en": "",
-  "status": ""
+  "en": "Ahaha, sorry, Eimi-chan. But why are you here?",
+  "status": "done"
  },
  {
   "id": "event_2172_004DB",
@@ -308,8 +308,8 @@
    13555
   ],
   "jp": "{voice:008C08}お兄様を探す旅の途中だよー。",
-  "en": "",
-  "status": ""
+  "en": "I'm on my trip looking for my big brother.",
+  "status": "done"
  },
  {
   "id": "event_2172_004FC",
@@ -320,8 +320,8 @@
    13562
   ],
   "jp": "{voice:008D08}何でも知ってる預言者さんが、{n}いるって聞いたから、来たんだよ。",
-  "en": "",
-  "status": ""
+  "en": "I heard there's a prophet-san who knows everything, so I came here.",
+  "status": "done"
  },
  {
   "id": "event_2172_0053E",
@@ -332,8 +332,8 @@
    13580
   ],
   "jp": "{voice:008E08}そっか、{n}じゃあ私達と目的は一緒だね。",
-  "en": "",
-  "status": ""
+  "en": "I see. Then we're here for the same reason.",
+  "status": "done"
  },
  {
   "id": "event_2172_00568",
@@ -344,8 +344,8 @@
    13601
   ],
   "jp": "{voice:008F08}（相変わらずというか、{n}　幼いのにすごい行動力ね…）",
-  "en": "",
-  "status": ""
+  "en": "(As always, I guess... She's so little, but she sure gets around...)",
+  "status": "done"
  },
  {
   "id": "event_2172_005A0",
@@ -356,8 +356,8 @@
    13622
   ],
   "jp": "{voice:009008}お知り合いだったのですか。{n}これは奇遇ですね。",
-  "en": "",
-  "status": ""
+  "en": "So you are acquainted. What a coincidence.",
+  "status": "done"
  },
  {
   "id": "event_2172_005D2",
@@ -368,8 +368,8 @@
    13640
   ],
   "jp": "{voice:009108}あのね、ネシアさん{n}すごいんだよ！{n}何でも知ってるの！",
-  "en": "",
-  "status": ""
+  "en": "Um, Nessiah-san's amazing! He knows everything!",
+  "status": "done"
  },
  {
   "id": "event_2172_0060B",
@@ -380,8 +380,8 @@
    13647
   ],
   "jp": "{voice:009208}ちょうど今、お兄様のことを{n}聞くところだったの！",
-  "en": "",
-  "status": ""
+  "en": "I was just about to ask him about my big brother!",
+  "status": "done"
  },
  {
   "id": "event_2172_0063F",
@@ -392,8 +392,8 @@
    13736
   ],
   "jp": "{voice:009308}それについてですが……{n}預言の結果が出ていますよ、{n}エイミさん。",
-  "en": "",
-  "status": ""
+  "en": "Regarding that... I have the result of the prophecy, Eimi-san.",
+  "status": "done"
  },
  {
   "id": "event_2172_00682",
@@ -404,8 +404,8 @@
    13743
   ],
   "jp": "{voice:009408}残念ながら、今すぐお兄様と{n}会うのは難しいようです。",
-  "en": "",
-  "status": ""
+  "en": "Sadly, it seems meeting your brother right away will be difficult.",
+  "status": "done"
  },
  {
   "id": "event_2172_006BA",
@@ -416,8 +416,8 @@
    13764
   ],
   "jp": "{voice:009508}ええ～、そんなぁ…",
-  "en": "",
-  "status": ""
+  "en": "Awww, no way...",
+  "status": "done"
  },
  {
   "id": "event_2172_006D1",
@@ -428,8 +428,8 @@
    13782
   ],
   "jp": "{voice:009608}お兄様は、巧妙な結界の中に{n}封じ込められ、外に出られずに{n}いるのです。",
-  "en": "",
-  "status": ""
+  "en": "Your brother is shut inside an ingenious barrier, you see, and cannot get out.",
+  "status": "done"
  },
  {
   "id": "event_2172_0071A",
@@ -440,8 +440,8 @@
    13803
   ],
   "jp": "{voice:009708}（巧妙な結界？{n}　何を言っているんだ？）",
-  "en": "",
-  "status": ""
+  "en": "(An ingenious barrier? What's he talking about?)",
+  "status": "done"
  },
  {
   "id": "event_2172_00746",
@@ -452,8 +452,8 @@
    13824
   ],
   "jp": "{voice:009808}ですが、この人達と一緒にいれば{n}近いうちに再会できるようです。",
-  "en": "",
-  "status": ""
+  "en": "However, it seems if you stay with these people, you will be reunited before long.",
+  "status": "done"
  },
  {
   "id": "event_2172_00788",
@@ -464,8 +464,8 @@
    13916
   ],
   "jp": "{voice:009908}なんだその預言？{n}一体どうしてそうなるんだ！",
-  "en": "",
-  "status": ""
+  "en": "What kind of prophecy is that? How does that even follow!",
+  "status": "done"
  },
  {
   "id": "event_2172_007B8",
@@ -476,8 +476,8 @@
    13934
   ],
   "jp": "{voice:009A08}厳密には預言ではありません。{n}私のこの瞼の裏に言葉が{n}刻まれているのです。",
-  "en": "",
-  "status": ""
+  "en": "Strictly speaking, it is not prophecy. The words are engraved on the backs of my eyelids.",
+  "status": "done"
  },
  {
   "id": "event_2172_00805",
@@ -486,8 +486,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:009B08}私はそれを告げているだけです。",
-  "en": "",
-  "status": ""
+  "en": "I merely convey them.",
+  "status": "done"
  },
  {
   "id": "event_2172_00828",
@@ -498,8 +498,8 @@
    13952
   ],
   "jp": "{voice:009C08}……預言は絶対なのか？",
-  "en": "",
-  "status": ""
+  "en": "...Are your prophecies absolute?",
+  "status": "done"
  },
  {
   "id": "event_2172_00843",
@@ -510,8 +510,8 @@
    13970
   ],
   "jp": "{voice:009D08}小さな物は外れる場合もあります。{n}ですが、大きな流れを変えるのは{n}難しいと考えています。",
-  "en": "",
-  "status": ""
+  "en": "Small things can go astray. But I believe the great flow is difficult to change.",
+  "status": "done"
  },
  {
   "id": "event_2172_0089E",
@@ -522,8 +522,8 @@
    13977
   ],
   "jp": "{voice:009E08}川の流れと同じようなものだと{n}思って頂ければ……",
-  "en": "",
-  "status": ""
+  "en": "Think of it as much like the flow of a river...",
+  "status": "done"
  },
  {
   "id": "event_2172_008D2",
@@ -534,8 +534,8 @@
    13995
   ],
   "jp": "{voice:009F08}僕は信じないね。{n}それが事実なら、人の自由意思を{n}否定する事になる。",
-  "en": "",
-  "status": ""
+  "en": "I don't believe it. If that were true, it would deny people's free will.",
+  "status": "done"
  },
  {
   "id": "event_2172_00919",
@@ -546,8 +546,8 @@
    14013
   ],
   "jp": "{voice:00A008}まぁ、考えは人それぞれです。{n}私も真実は理解していませんから。",
-  "en": "",
-  "status": ""
+  "en": "Well, everyone has their own view. I do not understand the truth of it myself.",
+  "status": "done"
  },
  {
   "id": "event_2172_0095B",
@@ -558,8 +558,8 @@
    14116
   ],
   "jp": "{voice:00A108}ねえ！　ボク、お姉ちゃんと{n}一緒にいてもいい？{n}お兄様に会いたいの！",
-  "en": "",
-  "status": ""
+  "en": "Hey! Can I stay with you, Big Sis? I wanna see my big brother!",
+  "status": "done"
  },
  {
   "id": "event_2172_009A2",
@@ -570,8 +570,8 @@
    14134
   ],
   "jp": "{voice:00A208}私は構わないけど……{n}でもホラ、髪の赤いお兄ちゃん{n}にもお願いして。",
-  "en": "",
-  "status": ""
+  "en": "I don't mind... But look, you need to ask the big brother with the red hair too.",
+  "status": "done"
  },
  {
   "id": "event_2172_009E9",
@@ -582,8 +582,8 @@
    14141
   ],
   "jp": "{voice:00A308}あの人が団長さんだから。{n}偉いんだよ！",
-  "en": "",
-  "status": ""
+  "en": "He's our captain, y'see. He's a big deal!",
+  "status": "done"
  },
  {
   "id": "event_2172_00A13",
@@ -594,8 +594,8 @@
    14162
   ],
   "jp": "{voice:00A408}偉いってなんだよ！",
-  "en": "",
-  "status": ""
+  "en": "What do you mean, a big deal!",
+  "status": "done"
  },
  {
   "id": "event_2172_00A2A",
@@ -606,8 +606,8 @@
    14180
   ],
   "jp": "{voice:00A508}ねえ、ダンチョーお兄ちゃん…{n}一緒にいても、いい？",
-  "en": "",
-  "status": ""
+  "en": "Hey, Big Brother Captain... Can I stay with you?",
+  "status": "done"
  },
  {
   "id": "event_2172_00A60",
@@ -618,8 +618,8 @@
    14198
   ],
   "jp": "{voice:00A608}俺の一存じゃ、決められねぇ。{n}だけど、雇い主に聞いてやるよ。",
-  "en": "",
-  "status": ""
+  "en": "I can't decide that on my own. But I'll ask our employer for you.",
+  "status": "done"
  },
  {
   "id": "event_2172_00AA0",
@@ -630,8 +630,8 @@
    14219
   ],
   "jp": "{voice:00A708}やったあ！　ありがとう、{n}ダンチョーお兄ちゃん！{n}これでお兄様に会えるよ②",
-  "en": "",
-  "status": ""
+  "en": "Yay! Thank you, Big Brother Captain! Now I can see my big brother!",
+  "status": "done"
  },
  {
   "id": "event_2172_00AED",
@@ -642,8 +642,8 @@
    14237
   ],
   "jp": "{voice:00A808}待て、俺にはガーロットという{n}名前があってだな……",
-  "en": "",
-  "status": ""
+  "en": "Hold on, I've got a name, it's Garlot...",
+  "status": "done"
  },
  {
   "id": "event_2172_00B23",
@@ -654,8 +654,8 @@
    14255
   ],
   "jp": "{voice:00A908}よろしくねー、{n}ダンチョーお兄ちゃん！",
-  "en": "",
-  "status": ""
+  "en": "Nice to meet you, Big Brother Captain!",
+  "status": "done"
  },
  {
   "id": "event_2172_00B4D",
@@ -666,8 +666,8 @@
    14273
   ],
   "jp": "{voice:00AA08}聞いてねぇよ、このチビ……",
-  "en": "",
-  "status": ""
+  "en": "She's not listening, the little shrimp...",
+  "status": "done"
  },
  {
   "id": "event_2172_00B6C",
@@ -678,8 +678,8 @@
    14351
   ],
   "jp": "{voice:00AB08}いい呼び名じゃん、{n}ダンチョーお兄ちゃん。",
-  "en": "",
-  "status": ""
+  "en": "It's a good name, Big Brother Captain.",
+  "status": "done"
  },
  {
   "id": "event_2172_00B9A",
@@ -690,8 +690,8 @@
    14372
   ],
   "jp": "{voice:00AC08}そうだね、ダンチョーお兄ちゃん。",
-  "en": "",
-  "status": ""
+  "en": "Quite so, Big Brother Captain.",
+  "status": "done"
  },
  {
   "id": "event_2172_00BBF",
@@ -702,8 +702,8 @@
    14393
   ],
   "jp": "{voice:00AD08}お前らなぁーっ！",
-  "en": "",
-  "status": ""
+  "en": "You two...!",
+  "status": "done"
  },
  {
   "id": "event_2172_00BD4",
@@ -714,8 +714,8 @@
    14411
   ],
   "jp": "{voice:00AE08}あぁ…、ガルカーサ兄様に{n}早く会いたいなぁ。",
-  "en": "",
-  "status": ""
+  "en": "Aah... I wanna see Brother Gulcasa soon...",
+  "status": "done"
  },
  {
   "id": "event_2172_00C04",
@@ -726,8 +726,8 @@
    14532
   ],
   "jp": "{voice:00AF08}さて、これでエイミさんの件は{n}解決です。{n}では、次はガーロットさん。",
-  "en": "",
-  "status": ""
+  "en": "Now then, that settles Eimi-san's matter. Next, Garlot-san.",
+  "status": "done"
  },
  {
   "id": "event_2172_00C4B",
@@ -738,8 +738,8 @@
    14553
   ],
   "jp": "{voice:00B008}アンタ、{n}俺の名前まで知ってんのか！",
-  "en": "",
-  "status": ""
+  "en": "You even know my name!",
+  "status": "done"
  },
  {
   "id": "event_2172_00C73",
@@ -750,8 +750,8 @@
    14574
   ],
   "jp": "{voice:00B108}さっき、名乗ったでしょ……",
-  "en": "",
-  "status": ""
+  "en": "You told him a minute ago...",
+  "status": "done"
  },
  {
   "id": "event_2172_00C92",
@@ -762,8 +762,8 @@
    14604
   ],
   "jp": "{voice:00B208}ガーロット、いいボケだ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, that is a good gag.",
+  "status": "done"
  },
  {
   "id": "event_2172_00CAF",
@@ -774,8 +774,8 @@
    14622
   ],
   "jp": "{voice:00B308}ご用件を？",
-  "en": "",
-  "status": ""
+  "en": "And your business?",
+  "status": "done"
  },
  {
   "id": "event_2172_00CBE",
@@ -786,8 +786,8 @@
    14640
   ],
   "jp": "{voice:00B408}あ、ああ、そうだったな。",
-  "en": "",
-  "status": ""
+  "en": "Oh, uh, right.",
+  "status": "done"
  },
  {
   "id": "event_2172_00CDB",
@@ -798,8 +798,8 @@
    14647
   ],
   "jp": "{voice:00B508}俺達は、お前が有用な人材なら{n}仲間に欲しいと思っている。",
-  "en": "",
-  "status": ""
+  "en": "If you're useful, we want you with us.",
+  "status": "done"
  },
  {
   "id": "event_2172_00D17",
@@ -810,8 +810,8 @@
    14665
   ],
   "jp": "{voice:00B608}ほう…、単刀直入ですね。{n}それでいかがですか？{n}私は有用だとお思いですか？",
-  "en": "",
-  "status": ""
+  "en": "Oh... How direct. And what do you think? Do you consider me useful?",
+  "status": "done"
  },
  {
   "id": "event_2172_00D64",
@@ -822,8 +822,8 @@
    14683
   ],
   "jp": "{voice:00B708}正直、よくわからない男だ。{n}アンタの預言の言葉だけで{n}判断するのは、少し難しいな。",
-  "en": "",
-  "status": ""
+  "en": "Honestly, I can't figure you out. It's hard to judge you from your prophecies alone.",
+  "status": "done"
  },
  {
   "id": "event_2172_00DB9",
@@ -834,8 +834,8 @@
    14701
   ],
   "jp": "{voice:00B808}私兵団の仲間ならば、{n}武力があれば十分でしょう。",
-  "en": "",
-  "status": ""
+  "en": "For a private army, surely military might is enough.",
+  "status": "done"
  },
  {
   "id": "event_2172_00DED",
@@ -846,8 +846,8 @@
    14719
   ],
   "jp": "{voice:00B908}武力だけが力じゃない。{n}アンタのその、知恵と経験を{n}俺達の戦力に加えたい。",
-  "en": "",
-  "status": ""
+  "en": "Might isn't the only strength. I want your wisdom and experience added to our forces.",
+  "status": "done"
  },
  {
   "id": "event_2172_00E3A",
@@ -858,8 +858,8 @@
    14737
   ],
   "jp": "{voice:00BA08}力が欲しければ勝ち取ればよい…",
-  "en": "",
-  "status": ""
+  "en": "If you desire strength, then win it...",
+  "status": "done"
  },
  {
   "id": "event_2172_00E5D",
@@ -870,8 +870,8 @@
    15096
   ],
   "jp": "{voice:00BB08}…魔術で兵を呼び出した？{n}だが、奴ら、生気が感じられない。",
-  "en": "",
-  "status": ""
+  "en": "...He summoned soldiers with magic? But there's no life in them.",
+  "status": "done"
  },
  {
   "id": "event_2172_00E9B",
@@ -882,8 +882,8 @@
    15117
   ],
   "jp": "{voice:00BC08}ネクロマンサー、死人使い。{n}それが私のもう１つの顔です。",
-  "en": "",
-  "status": ""
+  "en": "A necromancer, a master of the dead. That is my other face.",
+  "status": "done"
  },
  {
   "id": "event_2172_00ED7",
@@ -894,8 +894,8 @@
    15138
   ],
   "jp": "{voice:00BD08}……屍兵か。",
-  "en": "",
-  "status": ""
+  "en": "...Corpse soldiers.",
+  "status": "done"
  },
  {
   "id": "event_2172_00EE8",
@@ -906,8 +906,8 @@
    15156
   ],
   "jp": "{voice:00BE08}私の知恵と経験は恐らく地上一。{n}それは保証しましょう。",
-  "en": "",
-  "status": ""
+  "en": "My wisdom and experience are likely the greatest on this earth. That much I guarantee.",
+  "status": "done"
  },
  {
   "id": "event_2172_00F22",
@@ -918,8 +918,8 @@
    15163
   ],
   "jp": "{voice:00BF08}私を仲間に入れたなら、{n}グラムブレイズは、更に強大な{n}力を手に入れられるでしょう。",
-  "en": "",
-  "status": ""
+  "en": "Should I join you, Gram Blaze would gain still greater power.",
+  "status": "done"
  },
  {
   "id": "event_2172_00F77",
@@ -930,8 +930,8 @@
    15184
   ],
   "jp": "{voice:00C008}ですから、私が有用かどうか、{n}あなた方が決めるのではない。",
-  "en": "",
-  "status": ""
+  "en": "And so it is not you who decide whether I am useful.",
+  "status": "done"
  },
  {
   "id": "event_2172_00FB5",
@@ -942,8 +942,8 @@
    15191
   ],
   "jp": "{voice:00C108}私が決めるのです。{n}あなた方が私の与える力に{n}相応しいかをね。",
-  "en": "",
-  "status": ""
+  "en": "I decide. I decide whether you are worthy of the strength I would give.",
+  "status": "done"
  },
  {
   "id": "event_2172_00FF6",
@@ -954,8 +954,8 @@
    15209
   ],
   "jp": "{voice:00C208}えらい自信家だな。",
-  "en": "",
-  "status": ""
+  "en": "You're awfully sure of yourself.",
+  "status": "done"
  },
  {
   "id": "event_2172_0100D",
@@ -966,8 +966,8 @@
    15227
   ],
   "jp": "{voice:00C308}あなたもね。",
-  "en": "",
-  "status": ""
+  "en": "As are you.",
+  "status": "done"
  },
  {
   "id": "event_2172_0101E",
@@ -978,8 +978,8 @@
    15245
   ],
   "jp": "{voice:00C408}まあ、私からの試練だと、{n}そう思ってください。",
-  "en": "",
-  "status": ""
+  "en": "Well then, think of this as a trial from me.",
+  "status": "done"
  },
  {
   "id": "event_2172_01050",
@@ -990,8 +990,8 @@
    15425
   ],
   "jp": "{voice:00C508}なるほどな、面白い。{n}受けてやろうじゃねぇか！",
-  "en": "",
-  "status": ""
+  "en": "Okay, sounds fun. You're on!",
+  "status": "done"
  },
  {
   "id": "event_2172_01082",
@@ -1002,8 +1002,8 @@
    15675
   ],
   "jp": "{voice:00C608}ケケーッ、ケーッ！",
-  "en": "",
-  "status": ""
+  "en": "Keh-keh! Keeeh!",
+  "status": "done"
  },
  {
   "id": "event_2172_01099",
@@ -1014,8 +1014,8 @@
    15723
   ],
   "jp": "{voice:00C708}まずは両翼の屍兵を倒す！{n}全軍前進だ②",
-  "en": "",
-  "status": ""
+  "en": "First we take out the corpse soldiers on both wings! All forces, advance!",
+  "status": "done"
  },
  {
   "id": "event_2172_010C3",
@@ -1026,8 +1026,8 @@
    23883
   ],
   "jp": "{voice:00C808}ケケーッ、ケー…",
-  "en": "",
-  "status": ""
+  "en": "Keh-keh! Keh...",
+  "status": "done"
  },
  {
   "id": "event_2172_010D8",
@@ -1038,8 +1038,8 @@
    23949
   ],
   "jp": "{voice:00C908}屍兵を自在に呼び出す力か、{n}恐ろしい力だな。",
-  "en": "",
-  "status": ""
+  "en": "He can call corpse soldiers at will... That's scary power.",
+  "status": "done"
  },
  {
   "id": "event_2172_01108",
@@ -1050,8 +1050,8 @@
    25386
   ],
   "jp": "{voice:00CA08}これで両翼は潰したぜ！",
-  "en": "",
-  "status": ""
+  "en": "That finishes off both wings!",
+  "status": "done"
  },
  {
   "id": "event_2172_01123",
@@ -1062,8 +1062,8 @@
    25450
   ],
   "jp": "{voice:00CB08}なるほど。{n}いや、なかなかのものです。",
-  "en": "",
-  "status": ""
+  "en": "I see. Well, not bad at all.",
+  "status": "done"
  },
  {
   "id": "event_2172_0114D",
@@ -1074,8 +1074,8 @@
    25591
   ],
   "jp": "{voice:00CC08}さあ、第二幕と行きましょう。",
-  "en": "",
-  "status": ""
+  "en": "Now, let us move on to the second act.",
+  "status": "done"
  },
  {
   "id": "event_2172_0116E",
@@ -1086,8 +1086,8 @@
    25655
   ],
   "jp": "{voice:00CD08}ちっ、まだいるのかよ！",
-  "en": "",
-  "status": ""
+  "en": "Tch, there's more of them!",
+  "status": "done"
  },
  {
   "id": "event_2172_01189",
@@ -1099,8 +1099,8 @@
    16006
   ],
   "jp": "…誰もいないようだが…",
-  "en": "",
-  "status": ""
+  "en": "...Doesn't look like anyone's here...",
+  "status": "done"
  },
  {
   "id": "event_2172_011A0",
@@ -1112,8 +1112,8 @@
    16079
   ],
   "jp": "何かしら、この村…{n}ゾッと寒気がする。恐いわね…",
-  "en": "",
-  "status": ""
+  "en": "What's with this village... It gives me the chills. Scary...",
+  "status": "done"
  },
  {
   "id": "event_2172_011D0",
@@ -1125,8 +1125,8 @@
    16152
   ],
   "jp": "なんだろう、悪寒がするな。{n}…あまり非現実的なものは{n}信じないようにしてるけど…",
-  "en": "",
-  "status": ""
+  "en": "Strange, I've got a shiver... I try not to believe in anything unreal, but...",
+  "status": "done"
  },
  {
   "id": "event_2172_0121F",
@@ -1138,8 +1138,8 @@
    16225
   ],
   "jp": "人のいない村…{n}ゴーストタウンだな。",
-  "en": "",
-  "status": ""
+  "en": "A village with no people... A ghost town.",
+  "status": "done"
  },
  {
   "id": "event_2172_01243",
@@ -1151,8 +1151,8 @@
    16298
   ],
   "jp": "この村、生活の匂いがしません。{n}廃村なのでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "This village has no scent of life. Has it been abandoned?",
+  "status": "done"
  },
  {
   "id": "event_2172_01277",
@@ -1164,8 +1164,8 @@
    16371
   ],
   "jp": "この村、廃村なんだってよ！{n}ハイ、来るだけソンですね？{n}…イマイチだな。",
-  "en": "",
-  "status": ""
+  "en": "This village is abandoned, they say! Byff would abandon coming here, yes? ...Not Byff's best.",
+  "status": "done"
  },
  {
   "id": "event_2172_012BE",
@@ -1177,8 +1177,8 @@
    16444
   ],
   "jp": "…やだ。何か恐いわね。{n}ゾクゾクくるじゃない、もう…",
-  "en": "",
-  "status": ""
+  "en": "...Ugh. This is kinda scary. It's giving me goosebumps, jeez...",
+  "status": "done"
  },
  {
   "id": "event_2172_012F2",
@@ -1190,8 +1190,8 @@
    16517
   ],
   "jp": "うわっ！{n}何か、出そうな村だな…{n}早期退散と行こうぜ。",
-  "en": "",
-  "status": ""
+  "en": "Whoa! This village looks like somethin's gonna pop out... Let's clear out early.",
+  "status": "done"
  },
  {
   "id": "event_2172_01327",
@@ -1203,8 +1203,8 @@
    16590
   ],
   "jp": "…なにかしら、この村。{n}誰も、住んでいないみたいね。{n}ヒック！",
-  "en": "",
-  "status": ""
+  "en": "...What's with this village? Don't look like anybody lives here. *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2172_01364",
@@ -1216,8 +1216,8 @@
    16663
   ],
   "jp": "んんー…{n}何か感じるんだけど…{n}何もないのかしら？　気になる…",
-  "en": "",
-  "status": ""
+  "en": "Mmm... Pamela-sama senses something... Or is there nothing? It bugs her...",
+  "status": "done"
  },
  {
   "id": "event_2172_013A1",
@@ -1229,8 +1229,8 @@
    16750
   ],
   "jp": "生ある者がわざわざ来るとは…{n}よほど命が惜しくないと見える。",
-  "en": "",
-  "status": ""
+  "en": "For the living to come here on purpose... You must not value your lives.",
+  "status": "done"
  },
  {
   "id": "event_2172_013DD",
@@ -1242,8 +1242,8 @@
    16757
   ],
   "jp": "ここは生きとし生ける世界の淵…{n}踏み込めばそこには、{n}死の世界が待っている。",
-  "en": "",
-  "status": ""
+  "en": "Here lies the edge of the world of all that lives... Step inside, and the world of death awaits.",
+  "status": "done"
  },
  {
   "id": "event_2172_01428",
@@ -1255,8 +1255,8 @@
    16764
   ],
   "jp": "…死の世界において、{n}最も価値があるのは命だ。",
-  "en": "",
-  "status": ""
+  "en": "...In the world of death, the most valuable thing is life.",
+  "status": "done"
  },
  {
   "id": "event_2172_01456",
@@ -1268,8 +1268,8 @@
    16771
   ],
   "jp": "命をよこせ。{n}そうすれば、その価値に{n}見合うだけの力をくれてやろう。",
-  "en": "",
-  "status": ""
+  "en": "Give me your life. Do so, and I will give you power to match its worth.",
+  "status": "done"
  },
  {
   "id": "event_2172_01499",
@@ -1281,8 +1281,8 @@
    16789
   ],
   "jp": "命が惜しいのか？{n}フム、いかにも人間らしいな。",
-  "en": "",
-  "status": ""
+  "en": "You value your life? Hm, how very human.",
+  "status": "done"
  },
  {
   "id": "event_2172_014C7",
@@ -1294,8 +1294,8 @@
    16807
   ],
   "jp": "ならば、秘宝を捧げよ。{n}命には一段劣るが、{n}相応の力をくれてやろう。",
-  "en": "",
-  "status": ""
+  "en": "Then offer up treasures. They rank a step below a life, but I will give you power to suit.",
+  "status": "done"
  },
  {
   "id": "event_2172_0150A",
@@ -1307,8 +1307,8 @@
    16947
   ],
   "jp": "『賢者の石』と{n}『ロストマテリアル』か…",
-  "en": "",
-  "status": ""
+  "en": "A 'Philosopher's Stone' and a 'Lost Material'...",
+  "status": "done"
  },
  {
   "id": "event_2172_01532",
@@ -1320,8 +1320,8 @@
    16954
   ],
   "jp": "…よかろう、生者よ。{n}死の力、持って行くがよい。",
-  "en": "",
-  "status": ""
+  "en": "...Very well, living one. Take with you the power of death.",
+  "status": "done"
  },
  {
   "id": "event_2172_01562",
@@ -1333,8 +1333,8 @@
    17094
   ],
   "jp": "死の力は、元々は異界のもの…{n}本来の力を取り戻すには、{n}長い時間を要するだろう。",
-  "en": "",
-  "status": ""
+  "en": "The power of death is by nature of another world... It will take a long time to regain its true strength.",
+  "status": "done"
  },
  {
   "id": "event_2172_015B1",
@@ -1346,8 +1346,8 @@
    17101
   ],
   "jp": "その過程で、{n}この力は錆びつくかもしれん。",
-  "en": "",
-  "status": ""
+  "en": "In that process, this power may rust.",
+  "status": "done"
  },
  {
   "id": "event_2172_015DB",
@@ -1359,8 +1359,8 @@
    17108
   ],
   "jp": "生と死の世界は馴染み難いもの…{n}その時は、運が悪かったと{n}諦めるほかあるまい。",
-  "en": "",
-  "status": ""
+  "en": "Life and death do not mix well... Should it happen, there is nothing for it but to call it bad luck.",
+  "status": "done"
  },
  {
   "id": "event_2172_01628",
@@ -1372,8 +1372,8 @@
    17180
   ],
   "jp": "死の世界では{n}最も価値があるのは命だと、{n}そう言ったな…",
-  "en": "",
-  "status": ""
+  "en": "I told you that in the world of death, the most valuable thing is life...",
+  "status": "done"
  },
  {
   "id": "event_2172_0165F",
@@ -1385,8 +1385,8 @@
    17198
   ],
   "jp": "では、生の世界で{n}最も価値があるのは一体なんだ？",
-  "en": "",
-  "status": ""
+  "en": "Then what is the most valuable thing in the world of the living?",
+  "status": "done"
  },
  {
   "id": "event_2172_0168F",
@@ -1398,8 +1398,8 @@
    17216
   ],
   "jp": "答えは、死だ。",
-  "en": "",
-  "status": ""
+  "en": "The answer is death.",
+  "status": "done"
  },
  {
   "id": "event_2172_0169E",
@@ -1411,8 +1411,8 @@
    17223
   ],
   "jp": "生きとし生ける者はすべて、{n}恐れながらも死に甘美さを抱く。",
-  "en": "",
-  "status": ""
+  "en": "All that lives fears death, and yet finds it sweet.",
+  "status": "done"
  },
  {
   "id": "event_2172_016D8",
@@ -1424,8 +1424,8 @@
    17230
   ],
   "jp": "生と死、それぞれが互いに{n}求める力を持ち合わせている…",
-  "en": "",
-  "status": ""
+  "en": "Life and death each hold the power the other seeks...",
+  "status": "done"
  },
  {
   "id": "event_2172_0170E",
@@ -1437,8 +1437,8 @@
    17237
   ],
   "jp": "皮肉な話だとは思わないか？{n}生ある者よ…",
-  "en": "",
-  "status": ""
+  "en": "Do you not find that ironic? Living one...",
+  "status": "done"
  },
  {
   "id": "event_2172_01736",
@@ -1450,8 +1450,8 @@
    17435
   ],
   "jp": "人間が迷い込んだわよ、珍しい。{n}イタズラしちゃおっかなぁ？{n}クスクス♪",
-  "en": "",
-  "status": ""
+  "en": "A human wandered in, how rare. Shall we play a little prank? Tee hee ♪",
+  "status": "done"
  },
  {
   "id": "event_2172_0177B",
@@ -1463,8 +1463,8 @@
    17453
   ],
   "jp": "でも、久々のお客様だもの…{n}フツーの歓待じゃ物足りないわね。{n}何か、アイディアはないかしら？",
-  "en": "",
-  "status": ""
+  "en": "But it's been so long since we had a guest... An ordinary welcome won't do. Any ideas?",
+  "status": "done"
  },
  {
   "id": "event_2172_017D6",
@@ -1476,8 +1476,8 @@
    17471
   ],
   "jp": "…あ、そうだわ！{n}使いこなせないモノを送って、{n}混乱させるのはどうかしら？",
-  "en": "",
-  "status": ""
+  "en": "...Oh, I know! Let's send something they can't handle, and watch them get all confused!",
+  "status": "done"
  },
  {
   "id": "event_2172_0181F",
@@ -1489,8 +1489,8 @@
    17489
   ],
   "jp": "うふ、決まりね♪",
-  "en": "",
-  "status": ""
+  "en": "Hee hee, that settles it ♪",
+  "status": "done"
  },
  {
   "id": "event_2172_01830",
@@ -1502,8 +1502,8 @@
    17507
   ],
   "jp": "…ようこそ妖精の森へ！{n}こんな奥深い森まで来るなんて、{n}勇気がある人間さんね♪",
-  "en": "",
-  "status": ""
+  "en": "...Welcome to the Fairy Forest! How brave of you humans to come so deep into the woods ♪",
+  "status": "done"
  },
  {
   "id": "event_2172_0187D",
@@ -1515,8 +1515,8 @@
    17514
   ],
   "jp": "人間さんの勇気を労いたいの。{n}これを受け取って！",
-  "en": "",
-  "status": ""
+  "en": "We'd like to reward your courage. Please take this!",
+  "status": "done"
  },
  {
   "id": "event_2172_018AD",
@@ -1528,8 +1528,8 @@
    17586
   ],
   "jp": "魔界で産出する、珍しい物質よ。{n}あなたに使いこなせるかしら？{n}クスクス♪",
-  "en": "",
-  "status": ""
+  "en": "It's a rare material mined in the Demon World. Can you handle it? Tee hee ♪",
+  "status": "done"
  },
  {
   "id": "event_2172_018F4",
@@ -1541,8 +1541,8 @@
    17855
   ],
   "jp": "あら、珍しい…{n}人間が迷い込んだみたいね。{n}イタズラしちゃおうかしら？",
-  "en": "",
-  "status": ""
+  "en": "Oh my, how rare... A human seems to have wandered in. Shall we play a prank?",
+  "status": "done"
  },
  {
   "id": "event_2172_01939",
@@ -1554,8 +1554,8 @@
    17862
   ],
   "jp": "…魔界の果物をプレゼントして、{n}混乱させちゃおう、っと！{n}クスクス♪",
-  "en": "",
-  "status": ""
+  "en": "...I'll give them a Demon World fruit and get them all confused! Tee hee ♪",
+  "status": "done"
  },
  {
   "id": "event_2172_0197C",
@@ -1567,8 +1567,8 @@
    17880
   ],
   "jp": "さっそく決行よ。{n}クスクス♪",
-  "en": "",
-  "status": ""
+  "en": "Let's do it right away. Tee hee ♪",
+  "status": "done"
  },
  {
   "id": "event_2172_01998",
@@ -1580,8 +1580,8 @@
    17898
   ],
   "jp": "…ようこそ妖精の森へ！{n}こんな奥深い森まで来るなんて、{n}勇気がある人間さんね♪",
-  "en": "",
-  "status": ""
+  "en": "...Welcome to the Fairy Forest! How brave of you humans to come so deep into the woods ♪",
+  "status": "done"
  },
  {
   "id": "event_2172_019E5",
@@ -1593,8 +1593,8 @@
    17905
   ],
   "jp": "人間さんの勇気を労いたいの。{n}これを受け取って！",
-  "en": "",
-  "status": ""
+  "en": "We'd like to reward your courage. Please take this!",
+  "status": "done"
  },
  {
   "id": "event_2172_01A15",
@@ -1606,8 +1606,8 @@
    17977
   ],
   "jp": "魔界でしかとれない果実よ。{n}この味に耐えられるかしら？{n}クスクス♪",
-  "en": "",
-  "status": ""
+  "en": "It's a fruit that only grows in the Demon World. Can you stand the taste? Tee hee ♪",
+  "status": "done"
  },
  {
   "id": "event_2172_01A56",
@@ -1621,8 +1621,8 @@
    17610
   ],
   "jp": "やだ…{n}あの人間たち、まだいるわよ。",
-  "en": "",
-  "status": ""
+  "en": "Oh no... Those humans are still here.",
+  "status": "done"
  },
  {
   "id": "event_2172_01A7A",
@@ -1636,8 +1636,8 @@
    17628
   ],
   "jp": "私達の贈り物が{n}そんなに嬉しかったのかしら？",
-  "en": "",
-  "status": ""
+  "en": "Were they really that happy with our gifts?",
+  "status": "done"
  },
  {
   "id": "event_2172_01AA6",
@@ -1651,8 +1651,8 @@
    17646
   ],
   "jp": "どうかしら？　もっと贈り物を{n}欲しがってるだけじゃない？",
-  "en": "",
-  "status": ""
+  "en": "I wonder. Maybe they just want more gifts?",
+  "status": "done"
  },
  {
   "id": "event_2172_01ADE",
@@ -1666,8 +1666,8 @@
    17664
   ],
   "jp": "どちらにしても、卑しいわねぇ。{n}早く帰ればいいのに。{n}クスクス♪",
-  "en": "",
-  "status": ""
+  "en": "Either way, how greedy. They should just go home. Tee hee ♪",
+  "status": "done"
  },
  {
   "id": "event_2172_01B1D",
@@ -1679,8 +1679,8 @@
    18207
   ],
   "jp": "なんだ、この場所？{n}木が密集していて{n}檻の中に入ったみたいだ…",
-  "en": "",
-  "status": ""
+  "en": "What is this place? The trees are so thick, it's like being in a cage...",
+  "status": "done"
  },
  {
   "id": "event_2172_01B5A",
@@ -1692,8 +1692,8 @@
    18260
   ],
   "jp": "お、タクティクスカードだ。{n}…森がこのカードを守っていた、{n}という事か？",
-  "en": "",
-  "status": ""
+  "en": "Oh, a Tactics Card. ...So the forest was protecting this card?",
+  "status": "done"
  },
  {
   "id": "event_2172_01BA1",
@@ -1705,8 +1705,8 @@
    18340
   ],
   "jp": "ん？　あれ？{n}進みにくいな、ここ。{n}木が邪魔、枝が邪魔…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Huh? It's hard to get through here. Stupid trees, stupid branches...",
+  "status": "done"
  },
  {
   "id": "event_2172_01BD8",
@@ -1718,8 +1718,8 @@
    18393
   ],
   "jp": "あら、タクティクスカードね。{n}こんな森の中で拾うなんて、{n}ちょっとラッキーかもね？",
-  "en": "",
-  "status": ""
+  "en": "Oh, a Tactics Card. Finding one in a forest like this, maybe I'm in luck?",
+  "status": "done"
  },
  {
   "id": "event_2172_01C29",
@@ -1731,8 +1731,8 @@
    18469
   ],
   "jp": "木や枝の重なり方がおかしい……{n}自然に生育したら、{n}普通はこんな風にはならないよ。",
-  "en": "",
-  "status": ""
+  "en": "The way these trees and branches overlap is odd... They don't normally grow like this on their own.",
+  "status": "done"
  },
  {
   "id": "event_2172_01C7A",
@@ -1744,8 +1744,8 @@
    18480
   ],
   "jp": "誰かが作為的に…？",
-  "en": "",
-  "status": ""
+  "en": "Is someone doing this on purpose...?",
+  "status": "done"
  },
  {
   "id": "event_2172_01C8D",
@@ -1757,8 +1757,8 @@
    18533
   ],
   "jp": "…タクティクスカードだ。{n}何か、特別なカードなのかな？",
-  "en": "",
-  "status": ""
+  "en": "...A Tactics Card. Is it a special one, I wonder?",
+  "status": "done"
  },
  {
   "id": "event_2172_01CC3",
@@ -1770,8 +1770,8 @@
    18613
   ],
   "jp": "この木と枝の重なり方に、並び。{n}ひょっとして、これは…",
-  "en": "",
-  "status": ""
+  "en": "The way these trees and branches overlap, the way they're lined up. Could this be...",
+  "status": "done"
  },
  {
   "id": "event_2172_01CF9",
@@ -1783,8 +1783,8 @@
    18666
   ],
   "jp": "…竜殺しのタクティクスカード。{n}なるほど、そういう事か。",
-  "en": "",
-  "status": ""
+  "en": "...The dragon-slaying Tactics Card. I see, so that's how it is.",
+  "status": "done"
  },
  {
   "id": "event_2172_01D31",
@@ -1796,8 +1796,8 @@
    18673
   ],
   "jp": "運が悪いな、あたしは。",
-  "en": "",
-  "status": ""
+  "en": "Just my luck.",
+  "status": "done"
  },
  {
   "id": "event_2172_01D48",
@@ -1809,8 +1809,8 @@
    18753
   ],
   "jp": "木が邪魔でしたけど、{n}なんとか入ってこれましたね。",
-  "en": "",
-  "status": ""
+  "en": "The trees were in the way, but I managed to get in somehow.",
+  "status": "done"
  },
  {
   "id": "event_2172_01D7A",
@@ -1822,8 +1822,8 @@
    18817
   ],
   "jp": "タクティクスカードですか。{n}森に、守られていたんですね。",
-  "en": "",
-  "status": ""
+  "en": "A Tactics Card? So the forest was protecting it.",
+  "status": "done"
  },
  {
   "id": "event_2172_01DB2",
@@ -1835,8 +1835,8 @@
    18897
   ],
   "jp": "密集した木と木の中に{n}こんな空き地があるとは…",
-  "en": "",
-  "status": ""
+  "en": "Who knew such a clearing was hidden in all these crowded trees...",
+  "status": "done"
  },
  {
   "id": "event_2172_01DE0",
@@ -1848,8 +1848,8 @@
    18950
   ],
   "jp": "む、カードだな。{n}木の檻に守られていたのか？{n}持ち出していいのだろうか…",
-  "en": "",
-  "status": ""
+  "en": "Hm, a card. Was it protected by the cage of trees? Can Byff take it out of here...",
+  "status": "done"
  },
  {
   "id": "event_2172_01E27",
@@ -1861,8 +1861,8 @@
    18971
   ],
   "jp": "ま、いっカー、ドうせこれから{n}戦線に戻らないといけないし…{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Well, Byff must get back to the front anyway. No time to dis-card this! Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2172_01E70",
@@ -1874,8 +1874,8 @@
    19051
   ],
   "jp": "樹木の檻…{n}人間の手で作れるものじゃない。{n}一体、どうなっているのかしら？",
-  "en": "",
-  "status": ""
+  "en": "A cage of trees... No human hand could make this. How does it even work?",
+  "status": "done"
  },
  {
   "id": "event_2172_01EB9",
@@ -1887,8 +1887,8 @@
    19104
   ],
   "jp": "それにこのカード…{n}なんだか不可解なものを{n}感じさせるわね。",
-  "en": "",
-  "status": ""
+  "en": "And this card... There's something unaccountable about it.",
+  "status": "done"
  },
  {
   "id": "event_2172_01EF4",
@@ -1900,8 +1900,8 @@
    19184
   ],
   "jp": "変なところに迷い込んじゃった…{n}参ったな、抜け出せると{n}いいんだけどな～。",
-  "en": "",
-  "status": ""
+  "en": "Wandered into a weird spot... Jeez, hope I can find my way out.",
+  "status": "done"
  },
  {
   "id": "event_2172_01F3D",
@@ -1913,8 +1913,8 @@
    19237
   ],
   "jp": "お、タクティクスカードか！{n}なんだ、捨てる神がいれば{n}拾う神もいるんだな、やっぱ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a Tactics Card! Hey, when one door closes, another opens, huh.",
+  "status": "done"
  },
  {
   "id": "event_2172_01F8E",
@@ -1926,8 +1926,8 @@
    19317
   ],
   "jp": "ウィ～ック…{n}うん？　ここは、どこだ？",
-  "en": "",
-  "status": ""
+  "en": "Oooh~... *hic* Huh? Where's this?",
+  "status": "done"
  },
  {
   "id": "event_2172_01FB4",
@@ -1939,8 +1939,8 @@
    19370
   ],
   "jp": "あ、タクティクスカードじゃん。{n}ラッキー…",
-  "en": "",
-  "status": ""
+  "en": "Oh, a Tactics Card. Lucky...",
+  "status": "done"
  },
  {
   "id": "event_2172_01FDE",
@@ -1952,8 +1952,8 @@
    19450
   ],
   "jp": "…樹木の檻ね。{n}木々が何かを守っている。{n}あるいは、守らせている…？",
-  "en": "",
-  "status": ""
+  "en": "...A cage of trees. They're protecting something. Or being made to protect it...?",
+  "status": "done"
  },
  {
   "id": "event_2172_02021",
@@ -1965,8 +1965,8 @@
    19503
   ],
   "jp": "これは、竜殺しの言の葉…{n}最古のタクティクスカードね。{n}こんな森の奥に、どうして？",
-  "en": "",
-  "status": ""
+  "en": "These are the words of dragon-slaying... The oldest Tactics Card. Why's it in this deep forest?",
+  "status": "done"
  },
  {
   "id": "event_2172_02072",
@@ -1978,8 +1978,8 @@
    19688
   ],
   "jp": "ん？　つま先に何かが{n}当たったようだ…{n}拾い上げてみるか？",
-  "en": "",
-  "status": ""
+  "en": "Hm? My toe hit something... Should I pick it up?",
+  "status": "done"
  },
  {
   "id": "event_2172_020AB",
@@ -1991,8 +1991,8 @@
    19763
   ],
   "jp": "…なんだろう？{n}妙にキレイな結晶だな。",
-  "en": "",
-  "status": ""
+  "en": "...What's this? It's a weirdly pretty crystal.",
+  "status": "done"
  },
  {
   "id": "event_2172_020D1",
@@ -2004,8 +2004,8 @@
    19889
   ],
   "jp": "…靴底に何か当たったわね。{n}何かしら、一体…",
-  "en": "",
-  "status": ""
+  "en": "...Something hit the sole of my shoe. What is it, I wonder...",
+  "status": "done"
  },
  {
   "id": "event_2172_020FD",
@@ -2017,8 +2017,8 @@
    19964
   ],
   "jp": "…わあ、キレイな石ね。{n}でも、石…？{n}なんか違うような気も…",
-  "en": "",
-  "status": ""
+  "en": "...Wow, what a pretty stone. But is it a stone...? It doesn't quite seem like one...",
+  "status": "done"
  },
  {
   "id": "event_2172_02138",
@@ -2030,8 +2030,8 @@
    20090
   ],
   "jp": "おや？{n}何か固いものを踏んづけた{n}みたいだね…",
-  "en": "",
-  "status": ""
+  "en": "Oh? I seem to have stepped on something hard...",
+  "status": "done"
  },
  {
   "id": "event_2172_02165",
@@ -2043,8 +2043,8 @@
    20165
   ],
   "jp": "これはキレイな石だなぁ。{n}普通の宝石とは{n}透明度が全く違うね。",
-  "en": "",
-  "status": ""
+  "en": "What a pretty stone. It has a clarity quite unlike any ordinary gem.",
+  "status": "done"
  },
  {
   "id": "event_2172_021A2",
@@ -2056,8 +2056,8 @@
    20291
   ],
   "jp": "む…{n}何か蹴飛ばしたみたいだ。",
-  "en": "",
-  "status": ""
+  "en": "Hm... I think I kicked something.",
+  "status": "done"
  },
  {
   "id": "event_2172_021C0",
@@ -2069,8 +2069,8 @@
    20366
   ],
   "jp": "高純度のエレメントか。{n}武器の素材に使えるはずだな。",
-  "en": "",
-  "status": ""
+  "en": "A high-purity Element. It ought to be usable as a weapon material.",
+  "status": "done"
  },
  {
   "id": "event_2172_021F4",
@@ -2082,8 +2082,8 @@
    20492
   ],
   "jp": "なんでしょうか？{n}足先に何かがぶつかりましたね…",
-  "en": "",
-  "status": ""
+  "en": "What might this be? Something bumped against my foot...",
+  "status": "done"
  },
  {
   "id": "event_2172_02224",
@@ -2095,8 +2095,8 @@
    20581
   ],
   "jp": "すごい、キレイな石ですね…{n}でも石なんでしょうか？{n}ちょっと違う気もします。",
-  "en": "",
-  "status": ""
+  "en": "Amazing, what a pretty stone... But is it really a stone? It seems a little different somehow.",
+  "status": "done"
  },
  {
   "id": "event_2172_0226F",
@@ -2108,8 +2108,8 @@
    20707
   ],
   "jp": "んっ③　バイフーの肉球に、{n}何かがタッチしたぞ？",
-  "en": "",
-  "status": ""
+  "en": "Hm?! Something touched Byff's paw pad?",
+  "status": "done"
  },
  {
   "id": "event_2172_0229F",
@@ -2121,8 +2121,8 @@
    20782
   ],
   "jp": "エレーきれいな石だな。{n}…メンと向かって見つめると、{n}吸い込まれるようだぞ…",
-  "en": "",
-  "status": ""
+  "en": "What an ele-gant stone. ...Stare at it for a mo-ment and it pulls you right in...",
+  "status": "done"
  },
  {
   "id": "event_2172_022EA",
@@ -2134,8 +2134,8 @@
    20908
   ],
   "jp": "あら？　何かしら、一体…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's this, I wonder...",
+  "status": "done"
  },
  {
   "id": "event_2172_02303",
@@ -2147,8 +2147,8 @@
    20997
   ],
   "jp": "…高純度の『エレメント』ね。{n}すごい拾い物したわ。",
-  "en": "",
-  "status": ""
+  "en": "...A high-purity 'Element'. What a find.",
+  "status": "done"
  },
  {
   "id": "event_2172_02335",
@@ -2160,8 +2160,8 @@
    21123
   ],
   "jp": "んお？　靴底に何か当たったなぁ。",
-  "en": "",
-  "status": ""
+  "en": "Huh? Somethin' hit the sole of my shoe.",
+  "status": "done"
  },
  {
   "id": "event_2172_02356",
@@ -2173,8 +2173,8 @@
    21212
   ],
   "jp": "おおっ、キレイな石だぜ！{n}高く売れるかもしれないな。",
-  "en": "",
-  "status": ""
+  "en": "Whoa, a pretty stone! Might fetch a good price.",
+  "status": "done"
  },
  {
   "id": "event_2172_0238A",
@@ -2186,8 +2186,8 @@
    21338
   ],
   "jp": "…ん？{n}何か、固いものが落ちてるわね。{n}ぬかるみの中に…",
-  "en": "",
-  "status": ""
+  "en": "...Hm? There's somethin' hard here. In the mud...",
+  "status": "done"
  },
  {
   "id": "event_2172_023C1",
@@ -2199,8 +2199,8 @@
    21427
   ],
   "jp": "あらら、何かの宝石かしら？{n}それにしても、キレイね…",
-  "en": "",
-  "status": ""
+  "en": "Oh my, some sorta jewel? Sure is pretty, though...",
+  "status": "done"
  },
  {
   "id": "event_2172_023F5",
@@ -2212,8 +2212,8 @@
    21553
   ],
   "jp": "およっ③{n}何か落ちてるわね…{n}ビッグチャンスの予感がするわ☆",
-  "en": "",
-  "status": ""
+  "en": "Whoopsie?! Something's on the ground... Pamela-sama smells a big chance ☆",
+  "status": "done"
  },
  {
   "id": "event_2172_02430",
@@ -2225,8 +2225,8 @@
    21642
   ],
   "jp": "うほっ②{n}純正『エレメント』じゃない！{n}お宝ゲットだわさ～②",
-  "en": "",
-  "status": ""
+  "en": "Ooh! Isn't that a pure 'Element'! Treasure get, y'know~!",
+  "status": "done"
  },
  {
   "id": "event_2172_0246B",
@@ -2238,8 +2238,8 @@
    21804
   ],
   "jp": "ん？　何か落ちてるな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something's on the ground...",
+  "status": "done"
  },
  {
   "id": "event_2172_02482",
@@ -2251,8 +2251,8 @@
    21874
   ],
   "jp": "変わった紋様のコインだな。{n}ここに描かれているのは…{n}なんかメデューテの斧みたいだな。",
-  "en": "",
-  "status": ""
+  "en": "A coin with a strange crest. What's drawn here... It kinda looks like Medoute's axe.",
+  "status": "done"
  },
  {
   "id": "event_2172_024D7",
@@ -2264,8 +2264,8 @@
    21954
   ],
   "jp": "あ、コインが落ちてるじゃない。",
-  "en": "",
-  "status": ""
+  "en": "Oh, there's a coin on the ground.",
+  "status": "done"
  },
  {
   "id": "event_2172_024F6",
@@ -2277,8 +2277,8 @@
    22024
   ],
   "jp": "こんなひと気のない森で、{n}誰がコインを落とすのかしら？{n}よくわからないわね…",
-  "en": "",
-  "status": ""
+  "en": "Who'd drop a coin in a forest with nobody around? No idea...",
+  "status": "done"
  },
  {
   "id": "event_2172_02541",
@@ -2290,8 +2290,8 @@
    22104
   ],
   "jp": "おや？　そこに落ちているのは…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's that on the ground...",
+  "status": "done"
  },
  {
   "id": "event_2172_02560",
@@ -2303,8 +2303,8 @@
    22174
   ],
   "jp": "見た事のない模様のコインだね。{n}なんだろう、長柄の農具？{n}ひょっとして斧かな？",
-  "en": "",
-  "status": ""
+  "en": "A coin with a pattern I've never seen. What is it, a long-handled farm tool? Perhaps an axe?",
+  "status": "done"
  },
  {
   "id": "event_2172_025AD",
@@ -2316,8 +2316,8 @@
    22254
   ],
   "jp": "ん、何か落ちているな…",
-  "en": "",
-  "status": ""
+  "en": "Hm, there's something on the ground...",
+  "status": "done"
  },
  {
   "id": "event_2172_025C4",
@@ -2329,8 +2329,8 @@
    22324
   ],
   "jp": "このコインの紋章……{n}まさか、こんなところで{n}お目にかかるなんてね。",
-  "en": "",
-  "status": ""
+  "en": "This coin's crest... Never thought I'd lay eyes on it in a place like this.",
+  "status": "done"
  },
  {
   "id": "event_2172_02607",
@@ -2342,8 +2342,8 @@
    22404
   ],
   "jp": "あら、何か落ちていますね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, something is on the ground.",
+  "status": "done"
  },
  {
   "id": "event_2172_02622",
@@ -2355,8 +2355,8 @@
    22474
   ],
   "jp": "珍しいコインですね。{n}どこで使うものなのでしょう？",
-  "en": "",
-  "status": ""
+  "en": "What an unusual coin. Where would one use it, I wonder?",
+  "status": "done"
  },
  {
   "id": "event_2172_02654",
@@ -2368,8 +2368,8 @@
    22554
   ],
   "jp": "お、なんか落ちてるな。",
-  "en": "",
-  "status": ""
+  "en": "Oh, something on the ground.",
+  "status": "done"
  },
  {
   "id": "event_2172_0266B",
@@ -2381,8 +2381,8 @@
    22624
   ],
   "jp": "コインだな。{n}…なんだか、うまそうだな…",
-  "en": "",
-  "status": ""
+  "en": "A coin. ...Somehow it looks tasty...",
+  "status": "done"
  },
  {
   "id": "event_2172_02693",
@@ -2394,8 +2394,8 @@
    22642
   ],
   "jp": "ああ、しまった！{n}つい勢いで、拾ったコインを{n}間違えて飲み込んじゃった②",
-  "en": "",
-  "status": ""
+  "en": "Oh no! In the heat of the moment, Byff swallowed the coin by mistake!",
+  "status": "done"
  },
  {
   "id": "event_2172_026DA",
@@ -2407,8 +2407,8 @@
    22660
   ],
   "jp": "それはコインじゃなくて誤飲だ！{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "That is not a coin, that is coin-sumption! Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2172_02708",
@@ -2420,8 +2420,8 @@
    22681
   ],
   "jp": "……フリが長すぎるな。{n}バイフー、深く反省する…",
-  "en": "",
-  "status": ""
+  "en": "...That setup was too long. Byff deeply regrets it...",
+  "status": "done"
  },
  {
   "id": "event_2172_02738",
@@ -2433,8 +2433,8 @@
    22761
   ],
   "jp": "ん？{n}いま、何か照り返したわね…{n}何かしら？",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something just glinted... What is it?",
+  "status": "done"
  },
  {
   "id": "event_2172_02763",
@@ -2446,8 +2446,8 @@
    22831
   ],
   "jp": "これはまた、年代物のコインね…{n}いつの時代のものかしら？",
-  "en": "",
-  "status": ""
+  "en": "Now this is a coin of some vintage... What era could it be from?",
+  "status": "done"
  },
  {
   "id": "event_2172_0279B",
@@ -2459,8 +2459,8 @@
    22911
   ],
   "jp": "む？　お金の気配がするな。{n}そこかぁ②",
-  "en": "",
-  "status": ""
+  "en": "Hm? I sense money. Right there!",
+  "status": "done"
  },
  {
   "id": "event_2172_027C1",
@@ -2472,8 +2472,8 @@
    22992
   ],
   "jp": "見た事もない紋章のコイン…{n}いや、コイン…？{n}コレ本当にコインなのか？",
-  "en": "",
-  "status": ""
+  "en": "A coin with a crest I've never seen... Wait, a coin...? Is this really a coin?",
+  "status": "done"
  },
  {
   "id": "event_2172_02806",
@@ -2485,8 +2485,8 @@
    23072
   ],
   "jp": "ウィ～ック、とくらぁ…{n}んん？{n}なんか、いま光ったわね…",
-  "en": "",
-  "status": ""
+  "en": "Oooh~... and so on... Hmm? Somethin' just shined...",
+  "status": "done"
  },
  {
   "id": "event_2172_0283D",
@@ -2498,8 +2498,8 @@
    23153
   ],
   "jp": "あら、コインだわね…{n}…でも、見たことない紋章ね。{n}使えなさそうねぇ、ヒック！",
-  "en": "",
-  "status": ""
+  "en": "Oh, a coin... ...Never seen this crest, though. Don't look like it'd spend. *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2172_0288A",
@@ -2511,8 +2511,8 @@
    23233
   ],
   "jp": "んんっ？{n}キラリと照り返したその光、{n}見逃すパメラ様じゃないわよッ！",
-  "en": "",
-  "status": ""
+  "en": "Mmm? That sparkling glint won't escape Pamela-sama, y'know!",
+  "status": "done"
  },
  {
   "id": "event_2172_028CD",
@@ -2524,8 +2524,8 @@
    23303
   ],
   "jp": "やっぱりコインね♪{n}あら？　この紋章って、確か…",
-  "en": "",
-  "status": ""
+  "en": "I knew it, a coin ♪ Oh? This crest, surely it's...",
+  "status": "done"
  },
  {
   "id": "event_2172_028FD",
@@ -2560,8 +2560,8 @@
    10737
   ],
   "jp": "ネシア屍兵団A",
-  "en": "",
-  "status": ""
+  "en": "Nessiah A",
+  "status": "done"
  },
  {
   "id": "event_2172_02AA9",
@@ -2572,8 +2572,8 @@
    10918
   ],
   "jp": "ネシア屍兵団B",
-  "en": "",
-  "status": ""
+  "en": "Nessiah B",
+  "status": "done"
  },
  {
   "id": "event_2172_02B5E",
@@ -2584,8 +2584,8 @@
    11099
   ],
   "jp": "ネシア本隊",
-  "en": "",
-  "status": ""
+  "en": "Nessiah",
+  "status": "done"
  },
  {
   "id": "event_2172_064A8",
@@ -2596,8 +2596,8 @@
    30757
   ],
   "jp": "{voice:00CE08}このままじゃキリがねぇ。{n}ネシアの本隊を打ち破るぜ！{n}みんな続け！",
-  "en": "",
-  "status": ""
+  "en": "This is getting us nowhere. We'll smash Nessiah's main force! Everyone, follow me!",
+  "status": "done"
  },
  {
   "id": "event_2172_064ED",
@@ -2608,8 +2608,8 @@
    40684
   ],
   "jp": "{voice:00CF08}お見事です…{n}想像以上の、力溢れる攻勢です！",
-  "en": "",
-  "status": ""
+  "en": "Well done... A more powerful assault than I imagined!",
+  "status": "done"
  },
  {
   "id": "event_2172_0651D",
@@ -2620,8 +2620,8 @@
    45351
   ],
   "jp": "{voice:00D008}いや、素晴らしい！",
-  "en": "",
-  "status": ""
+  "en": "Why, that was splendid!",
+  "status": "done"
  },
  {
   "id": "event_2172_06534",
@@ -2632,8 +2632,8 @@
    45358
   ],
   "jp": "{voice:00D108}確かに荒削りな部分はありますが{n}持っている素質は相当なもの。",
-  "en": "",
-  "status": ""
+  "en": "True, there is some rough work, but the talent you possess is considerable.",
+  "status": "done"
  },
  {
   "id": "event_2172_06574",
@@ -2644,8 +2644,8 @@
    45365
   ],
   "jp": "{voice:00D208}これほどの者が世にいるとは……{n}隠棲している場合では{n}なさそうですね。",
-  "en": "",
-  "status": ""
+  "en": "To think such people exist in this world... It seems I cannot go on living in seclusion.",
+  "status": "done"
  },
  {
   "id": "event_2172_065BD",
@@ -2656,8 +2656,8 @@
    45850
   ],
   "jp": "{voice:00D308}私の試練を突破できるとは{n}正直、考えていませんでしたよ。",
-  "en": "",
-  "status": ""
+  "en": "Frankly, I had not thought you could pass my trial.",
+  "status": "done"
  },
  {
   "id": "event_2172_065F9",
@@ -2668,8 +2668,8 @@
    45871
   ],
   "jp": "{voice:00D408}預言者と聞いて、ヨレヨレな奴を{n}想像していたが…{n}お前、戦力としても使えるな。",
-  "en": "",
-  "status": ""
+  "en": "A prophet, I figured some doddering old guy... You're useful in a fight, too.",
+  "status": "done"
  },
  {
   "id": "event_2172_0664A",
@@ -2680,8 +2680,8 @@
    45892
   ],
   "jp": "{voice:00D508}フフフ…、ご評価感謝いたします。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh... I am grateful for your appraisal.",
+  "status": "done"
  },
  {
   "id": "event_2172_0666F",
@@ -2692,8 +2692,8 @@
    45899
   ],
   "jp": "{voice:00D608}私もあなたに興味が湧いて{n}きましたよ。",
-  "en": "",
-  "status": ""
+  "en": "I find my interest in you growing, as well.",
+  "status": "done"
  },
  {
   "id": "event_2172_06699",
@@ -2704,8 +2704,8 @@
    45920
   ],
   "jp": "{voice:00D708}だけどガーロット。{n}ヴェルマン方伯が求めているのは{n}ブレーンだろ？",
-  "en": "",
-  "status": ""
+  "en": "Still, Garlot. What Margrave Velleman's after is a brain, right?",
+  "status": "done"
  },
  {
   "id": "event_2172_066DE",
@@ -2716,8 +2716,8 @@
    45927
   ],
   "jp": "{voice:00D808}必要とされているのは、{n}戦機を読み、{n}戦略を組み立てる能力だわ。",
-  "en": "",
-  "status": ""
+  "en": "What he needs is someone who can read the moment in battle and build a strategy.",
+  "status": "done"
  },
  {
   "id": "event_2172_06721",
@@ -2728,8 +2728,8 @@
    45948
   ],
   "jp": "{voice:00D908}未来を示す預言、…それが{n}本物かどうか、ですね。",
-  "en": "",
-  "status": ""
+  "en": "A prophecy of the future... The question is whether it is genuine, yes?",
+  "status": "done"
  },
  {
   "id": "event_2172_06755",
@@ -2740,8 +2740,8 @@
    45955
   ],
   "jp": "{voice:00DA08}確かに現時点で、{n}私の預言が信用を得る事は{n}難しいでしょうね。",
-  "en": "",
-  "status": ""
+  "en": "Certainly, it would be hard for my prophecies to earn your trust at this point.",
+  "status": "done"
  },
  {
   "id": "event_2172_06796",
@@ -2752,8 +2752,8 @@
    45962
   ],
   "jp": "{voice:00DB08}もし預言が真実で無いとしても、{n}力になれるとは思いますが…",
-  "en": "",
-  "status": ""
+  "en": "Even if the prophecies prove untrue, I do believe I can be of use...",
+  "status": "done"
  },
  {
   "id": "event_2172_067D4",
@@ -2764,8 +2764,8 @@
    45983
   ],
   "jp": "{voice:00DC08}それは、その通りだと思う。",
-  "en": "",
-  "status": ""
+  "en": "I think that's true.",
+  "status": "done"
  },
  {
   "id": "event_2172_067F3",
@@ -2776,8 +2776,8 @@
    46004
   ],
   "jp": "{voice:00DD08}本気か、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "Are you serious, Garlot?",
+  "status": "done"
  },
  {
   "id": "event_2172_0680C",
@@ -2788,8 +2788,8 @@
    46025
   ],
   "jp": "{voice:00DE08}大丈夫ですよ、ジェノンさん。{n}戦術レベルでのあなたの作戦参謀{n}の力、私は評価していますよ。",
-  "en": "",
-  "status": ""
+  "en": "Have no fear, Jenon-san. I think highly of your powers as a staff officer at the tactical level.",
+  "status": "done"
  },
  {
   "id": "event_2172_06869",
@@ -2812,8 +2812,8 @@
    46070
   ],
   "jp": "{voice:00DF08}さあ、急ぎましょう。{n}近いうちに、西部での反乱活動{n}が更に大規模になるはずです。",
-  "en": "",
-  "status": ""
+  "en": "Now, let us hurry. Rebel activity in the west should soon grow larger still.",
+  "status": "done"
  },
  {
   "id": "event_2172_068BF",
@@ -2824,8 +2824,8 @@
    46077
   ],
   "jp": "{voice:00E008}混乱はしかし、飛躍の時でもある。{n}あなた方が上へ上へと{n}高く昇り詰める好機です。",
-  "en": "",
-  "status": ""
+  "en": "But chaos is also a time to soar. Your chance to climb higher and higher.",
+  "status": "done"
  },
  {
   "id": "event_2172_06912",
@@ -2836,8 +2836,8 @@
    46098
   ],
   "jp": "{voice:00E108}……話はわかった。{n}まずは、ヴェルマンに{n}引き合わせよう。",
-  "en": "",
-  "status": ""
+  "en": "...I get it. First, let's introduce you to Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2172_0694F",
@@ -2848,8 +2848,8 @@
    46119
   ],
   "jp": "{voice:00E208}そうですね。{n}帰りの道中に、私の腕を見せる{n}機会もありそうですし……",
-  "en": "",
-  "status": ""
+  "en": "Indeed. And on the way back, I may have a chance to show my skill...",
+  "status": "done"
  },
  {
   "id": "event_2172_06996",
@@ -2860,8 +2860,8 @@
    46140
   ],
   "jp": "{voice:00E308}よし、ティエラに帰還しよう！",
-  "en": "",
-  "status": ""
+  "en": "Right, back to Tiera!",
+  "status": "done"
  },
  {
   "id": "event_2172_069B7",
@@ -2884,8 +2884,8 @@
    46359
   ],
   "jp": "{voice:00E408}…あれ、メデューテ。{n}どうかしたの？",
-  "en": "",
-  "status": ""
+  "en": "...Huh, Medoute. Something wrong?",
+  "status": "done"
  },
  {
   "id": "event_2172_069EA",
@@ -2896,8 +2896,8 @@
    46380
   ],
   "jp": "{voice:00E508}いや、なんでもない。{n}行こうか。",
-  "en": "",
-  "status": ""
+  "en": "No, nothing. Let's go.",
+  "status": "done"
  },
  {
   "id": "event_2172_06A0E",
@@ -2920,8 +2920,8 @@
    46425
   ],
   "jp": "{voice:00E608}シスキアお姉ちゃーん！{n}早く行こうよぉ！",
-  "en": "",
-  "status": ""
+  "en": "Big Sis Siskier! Let's hurry up and go!",
+  "status": "done"
  },
  {
   "id": "event_2172_06A43",
@@ -2932,8 +2932,8 @@
    38552
   ],
   "jp": "なんだ、この胸騒ぎは…",
-  "en": "",
-  "status": ""
+  "en": "What is this uneasy feeling...",
+  "status": "done"
  },
  {
   "id": "event_2172_06A5A",
@@ -2944,8 +2944,8 @@
    38573
   ],
   "jp": "来ましたね…{n}さあその力量、見せてください！",
-  "en": "",
-  "status": ""
+  "en": "Here you are... Now, show me your ability!",
+  "status": "done"
  },
  {
   "id": "event_2172_06A86",
@@ -2956,8 +2956,8 @@
    38767
   ],
   "jp": "死んだ人を戦わせるなんて…{n}ちょっと気に喰わないわね。",
-  "en": "",
-  "status": ""
+  "en": "Making dead people fight... I don't like that one bit.",
+  "status": "done"
  },
  {
   "id": "event_2172_06ABC",
@@ -2968,8 +2968,8 @@
    38788
   ],
   "jp": "覇道に求められるのは{n}過程や方法ではなく、結果です。",
-  "en": "",
-  "status": ""
+  "en": "What the path of conquest asks for is not process or method, but results.",
+  "status": "done"
  },
  {
   "id": "event_2172_06AF0",
@@ -2980,8 +2980,8 @@
    38982
   ],
   "jp": "さあ預言者！{n}僕の剣、受けてもらうよ！",
-  "en": "",
-  "status": ""
+  "en": "Now, prophet! Take my sword, if you would!",
+  "status": "done"
  },
  {
   "id": "event_2172_06B16",
@@ -2992,8 +2992,8 @@
    39003
   ],
   "jp": "参謀が前線に立つとは……{n}感心しませんね。",
-  "en": "",
-  "status": ""
+  "en": "A staff officer on the front line... I cannot approve.",
+  "status": "done"
  },
  {
   "id": "event_2172_06B40",
@@ -3004,8 +3004,8 @@
    39197
   ],
   "jp": "屍術の存在は知っていたが、{n}これほど大規模な軍勢を{n}操るとは、驚きだな……",
-  "en": "",
-  "status": ""
+  "en": "I knew necromancy existed, but commanding an army this size... I'm surprised...",
+  "status": "done"
  },
  {
   "id": "event_2172_06B89",
@@ -3016,8 +3016,8 @@
    39218
   ],
   "jp": "この程度では、{n}まだ序の口に過ぎませんよ。",
-  "en": "",
-  "status": ""
+  "en": "This much is but the beginning.",
+  "status": "done"
  },
  {
   "id": "event_2172_06BB3",
@@ -3028,8 +3028,8 @@
    39412
   ],
   "jp": "あなた、アイギナさんですね…{n}お会いできるのを楽しみに{n}していましたよ……",
-  "en": "",
-  "status": ""
+  "en": "You must be Aegina-san... I have been so looking forward to meeting you...",
+  "status": "done"
  },
  {
   "id": "event_2172_06BFC",
@@ -3052,8 +3052,8 @@
    39627
   ],
   "jp": "ほう、獣人とは珍しい…",
-  "en": "",
-  "status": ""
+  "en": "Oh, a beast-man. How rare...",
+  "status": "done"
  },
  {
   "id": "event_2172_06C1C",
@@ -3064,8 +3064,8 @@
    39648
   ],
   "jp": "獣人はいいぞぉ。{n}何物にも縛られない、まさに{n}自由人だ。なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Being a beast-man is great. Nothing binds Byff. Byff is at his beast when free! Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2172_06C61",
@@ -3076,8 +3076,8 @@
    39842
   ],
   "jp": "あなた、本当に魔法使い？{n}私とはちょっと違いすぎない？",
-  "en": "",
-  "status": ""
+  "en": "Are you really a magician? You seem a little too different from me.",
+  "status": "done"
  },
  {
   "id": "event_2172_06C97",
@@ -3088,8 +3088,8 @@
    39863
   ],
   "jp": "似ていても仕方がないでしょ？{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "There would be no point in our being alike, would there? Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_06CBD",
@@ -3100,8 +3100,8 @@
    40057
   ],
   "jp": "ひえぇ、なんか近くに寄ると{n}背筋がぞっとするぜ…",
-  "en": "",
-  "status": ""
+  "en": "Yikes, get too close and it sends chills down my spine...",
+  "status": "done"
  },
  {
   "id": "event_2172_06CED",
@@ -3112,8 +3112,8 @@
    40078
   ],
   "jp": "フフフフフ……",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_06CFC",
@@ -3124,8 +3124,8 @@
    40272
   ],
   "jp": "死んだ兵を戦わせる…{n}感心しないわねぇ、アンタ。",
-  "en": "",
-  "status": ""
+  "en": "Makin' dead soldiers fight... I don't approve of you, y'hear.",
+  "status": "done"
  },
  {
   "id": "event_2172_06D2C",
@@ -3136,8 +3136,8 @@
    40293
   ],
   "jp": "使えるモノは使う。{n}それまでです。",
-  "en": "",
-  "status": ""
+  "en": "I use what can be used. That is all.",
+  "status": "done"
  },
  {
   "id": "event_2172_06D4E",
@@ -3148,8 +3148,8 @@
    40487
   ],
   "jp": "あんた、キモイんだわさ。",
-  "en": "",
-  "status": ""
+  "en": "You're gross, y'know.",
+  "status": "done"
  },
  {
   "id": "event_2172_06D67",
@@ -3160,8 +3160,8 @@
    40508
   ],
   "jp": "フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_06D70",
@@ -3172,8 +3172,8 @@
    41284
   ],
   "jp": "どうだ！{n}これが、俺達の力だ②",
-  "en": "",
-  "status": ""
+  "en": "How's that! This is our strength!",
+  "status": "done"
  },
  {
   "id": "event_2172_06D8E",
@@ -3184,8 +3184,8 @@
    41305
   ],
   "jp": "圧倒的な力です。{n}勇名を馳せるのもまた頷けます…",
-  "en": "",
-  "status": ""
+  "en": "Overwhelming power. I can see how you earned your fame...",
+  "status": "done"
  },
  {
   "id": "event_2172_06DBE",
@@ -3196,8 +3196,8 @@
    41312
   ],
   "jp": "しかしあなたは、{n}まだ自分の内に眠る真の力に{n}気付いていないようですね。",
-  "en": "",
-  "status": ""
+  "en": "However, you do not yet seem to have noticed the true power sleeping within you.",
+  "status": "done"
  },
  {
   "id": "event_2172_06E05",
@@ -3208,8 +3208,8 @@
    41384
   ],
   "jp": "やるなッ②",
-  "en": "",
-  "status": ""
+  "en": "Not bad!",
+  "status": "done"
  },
  {
   "id": "event_2172_06E10",
@@ -3220,8 +3220,8 @@
    41405
   ],
   "jp": "少し、脇が甘いようですね。",
-  "en": "",
-  "status": ""
+  "en": "Your guard seems a little loose.",
+  "status": "done"
  },
  {
   "id": "event_2172_06E2B",
@@ -3232,8 +3232,8 @@
    41604
   ],
   "jp": "…ふむ。{n}取り立てて言う事のない、{n}普通の人間ですね、あなたは。",
-  "en": "",
-  "status": ""
+  "en": "...Hm. You are an ordinary human, with nothing worth remarking on.",
+  "status": "done"
  },
  {
   "id": "event_2172_06E6A",
@@ -3244,8 +3244,8 @@
    41625
   ],
   "jp": "そんなの、みんな一緒でしょ？",
-  "en": "",
-  "status": ""
+  "en": "Everybody's like that, aren't they?",
+  "status": "done"
  },
  {
   "id": "event_2172_06E87",
@@ -3256,8 +3256,8 @@
    41646
   ],
   "jp": "…集団自体が個だと錯覚する。{n}なるほど、実に人間らしい。",
-  "en": "",
-  "status": ""
+  "en": "...Mistaking the group itself for an individual. I see, how very human.",
+  "status": "done"
  },
  {
   "id": "event_2172_06EBF",
@@ -3268,8 +3268,8 @@
    41667
   ],
   "jp": "何言ってるの、この人？",
-  "en": "",
-  "status": ""
+  "en": "What's this guy talking about?",
+  "status": "done"
  },
  {
   "id": "event_2172_06ED6",
@@ -3280,8 +3280,8 @@
    41688
   ],
   "jp": "フフフフフ……",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_06EE5",
@@ -3292,8 +3292,8 @@
    41718
   ],
   "jp": "ちょっと、気持ち悪い…",
-  "en": "",
-  "status": ""
+  "en": "He's kind of creeping me out...",
+  "status": "done"
  },
  {
   "id": "event_2172_06EFC",
@@ -3304,8 +3304,8 @@
    41739
   ],
   "jp": "フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_06F05",
@@ -3316,8 +3316,8 @@
    41952
   ],
   "jp": "なるほど。{n}確かに剣の腕は立つようです。",
-  "en": "",
-  "status": ""
+  "en": "I see. You are certainly skilled with a sword.",
+  "status": "done"
  },
  {
   "id": "event_2172_06F2D",
@@ -3328,8 +3328,8 @@
    41959
   ],
   "jp": "しかし、あなたの本懐は{n}その知恵と軍略のはず…",
-  "en": "",
-  "status": ""
+  "en": "And yet your true calling should be your wisdom and strategy...",
+  "status": "done"
  },
  {
   "id": "event_2172_06F5B",
@@ -3340,8 +3340,8 @@
    41980
   ],
   "jp": "まぁね、{n}でも戦えるにこした事は{n}ないだろ？",
-  "en": "",
-  "status": ""
+  "en": "Well, sure, but being able to fight doesn't hurt, right?",
+  "status": "done"
  },
  {
   "id": "event_2172_06F86",
@@ -3352,8 +3352,8 @@
    42001
   ],
   "jp": "やれやれ、判っていませんね。",
-  "en": "",
-  "status": ""
+  "en": "Dear me, you do not understand.",
+  "status": "done"
  },
  {
   "id": "event_2172_06FA3",
@@ -3364,8 +3364,8 @@
    42031
   ],
   "jp": "なるほど。{n}あなたは、周りの目を{n}気にしているのですね。",
-  "en": "",
-  "status": ""
+  "en": "I see. You are worried about how others see you.",
+  "status": "done"
  },
  {
   "id": "event_2172_06FDA",
@@ -3376,8 +3376,8 @@
    42038
   ],
   "jp": "指示ばかり出せば仲間から{n}不満を持たれてしまう…{n}だから、戦場に立っているのです。",
-  "en": "",
-  "status": ""
+  "en": "If you did nothing but give orders, your comrades would grumble... And so you stand on the battlefield.",
+  "status": "done"
  },
  {
   "id": "event_2172_0702B",
@@ -3388,8 +3388,8 @@
    42059
   ],
   "jp": "な、なにをいきなり言うんだ……",
-  "en": "",
-  "status": ""
+  "en": "Wh-what are you saying, out of nowhere...",
+  "status": "done"
  },
  {
   "id": "event_2172_0704A",
@@ -3400,8 +3400,8 @@
    42265
   ],
   "jp": "生気のない、屍の軍勢か。{n}相対すのは確かに厄介だが、{n}破れぬほどのものでもない！",
-  "en": "",
-  "status": ""
+  "en": "An army of lifeless corpses. A nuisance to face, sure, but not one we can't break!",
+  "status": "done"
  },
  {
   "id": "event_2172_07099",
@@ -3412,8 +3412,8 @@
    42286
   ],
   "jp": "あなたも人間にしては{n}ずば抜けた力量をお持ちのようだ。{n}団長殿とは力の質が違いますが…",
-  "en": "",
-  "status": ""
+  "en": "You too have exceptional ability for a human. Though different in nature from your captain's...",
+  "status": "done"
  },
  {
   "id": "event_2172_070EE",
@@ -3424,8 +3424,8 @@
    42316
   ],
   "jp": "あなた、なかなかやりますね。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "You are quite good. Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_07114",
@@ -3436,8 +3436,8 @@
    42337
   ],
   "jp": "なんだろう、嫌な感じがする…{n}お前、どこかであたしと{n}会っていないか？",
-  "en": "",
-  "status": ""
+  "en": "Something feels wrong here... Have we met somewhere before?",
+  "status": "done"
  },
  {
   "id": "event_2172_07159",
@@ -3448,8 +3448,8 @@
    42358
   ],
   "jp": "どうでしょうか？{n}私には身に覚えがありませんが。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Have we? I have no memory of it. Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_07192",
@@ -3460,8 +3460,8 @@
    42550
   ],
   "jp": "その、剣技。{n}ふむふむ、なるほど。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "That swordsmanship. Hm, hm, I see. Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_071BD",
@@ -3472,8 +3472,8 @@
    42571
   ],
   "jp": "なんだと言うの③{n}言いたい事があるのなら、{n}はっきりと言いなさい！",
-  "en": "",
-  "status": ""
+  "en": "What do you mean?! If you have something to say, say it plainly!",
+  "status": "done"
  },
  {
   "id": "event_2172_071FE",
@@ -3484,8 +3484,8 @@
    42650
   ],
   "jp": "あなた、仲間には決して言えない{n}秘密を隠していますね。{n}私には見えます。",
-  "en": "",
-  "status": ""
+  "en": "You are hiding a secret you can never tell your comrades. I can see it.",
+  "status": "done"
  },
  {
   "id": "event_2172_07245",
@@ -3508,8 +3508,8 @@
    42692
   ],
   "jp": "その秘密が、私兵団の仲間をも{n}喰い殺しかねないと、{n}あなたは恐怖を抱いている…",
-  "en": "",
-  "status": ""
+  "en": "You fear that this secret may devour even your friends in the private army...",
+  "status": "done"
  },
  {
   "id": "event_2172_0729B",
@@ -3520,8 +3520,8 @@
    42699
   ],
   "jp": "違いますか？",
-  "en": "",
-  "status": ""
+  "en": "Am I mistaken?",
+  "status": "done"
  },
  {
   "id": "event_2172_072A8",
@@ -3544,8 +3544,8 @@
    42926
   ],
   "jp": "屍が失敗したら、しったい。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "A corpse that fails will die of embarrassment. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2172_072DD",
@@ -3556,8 +3556,8 @@
    42947
   ],
   "jp": "屍は死体、それと『失態』を{n}掛けたわけですか。{n}フフフ……",
-  "en": "",
-  "status": ""
+  "en": "A corpse is already dead, and so you play on 'die of embarrassment'. Hehehe...",
+  "status": "done"
  },
  {
   "id": "event_2172_07316",
@@ -3568,8 +3568,8 @@
    42968
   ],
   "jp": "説明されると、どうもな。",
-  "en": "",
-  "status": ""
+  "en": "When it is explained, it is not the same.",
+  "status": "done"
  },
  {
   "id": "event_2172_0732F",
@@ -3580,8 +3580,8 @@
    42998
   ],
   "jp": "バイフー、死体にやられた、{n}コレは失態！{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Byff was beaten by a corpse. Byff could die of embarrassment! Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2172_07366",
@@ -3592,8 +3592,8 @@
    43019
   ],
   "jp": "フフフ……",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_07371",
@@ -3604,8 +3604,8 @@
    43218
   ],
   "jp": "あなた、本当に異質だわ…{n}一体、何者なの？",
-  "en": "",
-  "status": ""
+  "en": "You really are something else... Just what are you?",
+  "status": "done"
  },
  {
   "id": "event_2172_0739B",
@@ -3616,8 +3616,8 @@
    43239
   ],
   "jp": "ご覧の通りの存在ですよ。{n}それ以外の何者でもありません。",
-  "en": "",
-  "status": ""
+  "en": "I am what you see. Nothing more than that.",
+  "status": "done"
  },
  {
   "id": "event_2172_073D3",
@@ -3628,8 +3628,8 @@
    43311
   ],
   "jp": "つ、強い！",
-  "en": "",
-  "status": ""
+  "en": "S-strong!",
+  "status": "done"
  },
  {
   "id": "event_2172_073DE",
@@ -3640,8 +3640,8 @@
    43332
   ],
   "jp": "いえいえ、{n}あなたもなかなかですよ。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "No, no, you are quite good too. Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_0740B",
@@ -3652,8 +3652,8 @@
    43517
   ],
   "jp": "これでどうだいっ③",
-  "en": "",
-  "status": ""
+  "en": "How's this?!",
+  "status": "done"
  },
  {
   "id": "event_2172_0741E",
@@ -3664,8 +3664,8 @@
    43538
   ],
   "jp": "…フム。{n}あなたは普通の人間のようですね。",
-  "en": "",
-  "status": ""
+  "en": "...Hm. You appear to be an ordinary human.",
+  "status": "done"
  },
  {
   "id": "event_2172_07448",
@@ -3676,8 +3676,8 @@
    43559
   ],
   "jp": "なんだよ、それ！{n}なんかムカツクなぁ……",
-  "en": "",
-  "status": ""
+  "en": "What's that supposed to mean! That kinda ticks me off...",
+  "status": "done"
  },
  {
   "id": "event_2172_07470",
@@ -3688,8 +3688,8 @@
    43631
   ],
   "jp": "なんだよ、{n}見た目よりも全然強ぇぜ！",
-  "en": "",
-  "status": ""
+  "en": "What the heck, you're way stronger than you look!",
+  "status": "done"
  },
  {
   "id": "event_2172_07494",
@@ -3700,8 +3700,8 @@
    43652
   ],
   "jp": "惜しいですね。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "A pity. Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_074AC",
@@ -3712,8 +3712,8 @@
    43851
   ],
   "jp": "アンタ、タダ者じゃないね。",
-  "en": "",
-  "status": ""
+  "en": "You ain't just anybody.",
+  "status": "done"
  },
  {
   "id": "event_2172_074C7",
@@ -3724,8 +3724,8 @@
    43872
   ],
   "jp": "あなたもね。{n}フフフフフ……",
-  "en": "",
-  "status": ""
+  "en": "Nor are you. Heh heh heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_074E3",
@@ -3736,8 +3736,8 @@
    43902
   ],
   "jp": "どうしました？{n}屍相手では刃も鈍りますか？{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "What is wrong? Do your blades go dull against corpses? Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2172_07516",
@@ -3748,8 +3748,8 @@
    43923
   ],
   "jp": "勝てればよし、ってか。{n}ま、それはそうだわな…{n}ヒック…",
-  "en": "",
-  "status": ""
+  "en": "So winnin' is all that counts, eh. Well, that's true enough... *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2172_0754D",
@@ -3760,8 +3760,8 @@
    44122
   ],
   "jp": "この力……{n}あなた、人間ではありませんね？",
-  "en": "",
-  "status": ""
+  "en": "This power... You are not human, are you?",
+  "status": "done"
  },
  {
   "id": "event_2172_07577",
@@ -3772,8 +3772,8 @@
    44143
   ],
   "jp": "それはこっちのセリフだわさ。",
-  "en": "",
-  "status": ""
+  "en": "That's Pamela-sama's line, y'know.",
+  "status": "done"
  },
  {
   "id": "event_2172_07594",
@@ -3784,8 +3784,8 @@
    44215
   ],
   "jp": "ぬうっ、しくじったわね…",
-  "en": "",
-  "status": ""
+  "en": "Grr, she messed up, y'know...",
+  "status": "done"
  },
  {
   "id": "event_2172_075AD",
@@ -3796,7 +3796,7 @@
    44236
   ],
   "jp": "なかなかやりますね。",
-  "en": "",
-  "status": ""
+  "en": "You are quite good.",
+  "status": "done"
  }
 ]

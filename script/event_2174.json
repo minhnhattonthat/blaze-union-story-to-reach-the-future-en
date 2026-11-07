@@ -8,8 +8,8 @@
    5469
   ],
   "jp": "{voice:006009}シスキア、随分買い込みましたね。",
-  "en": "",
-  "status": ""
+  "en": "Siskier, you certainly bought a lot.",
+  "status": "done"
  },
  {
   "id": "event_2174_0004D",
@@ -20,8 +20,8 @@
    5487
   ],
   "jp": "{voice:006109}私兵団の給金、{n}使う機会がなかったからね。",
-  "en": "",
-  "status": ""
+  "en": "I never had a chance to spend my pay from the private army.",
+  "status": "done"
  },
  {
   "id": "event_2174_0007B",
@@ -32,8 +32,8 @@
    5494
   ],
   "jp": "{voice:006209}もうね、決めてたの。{n}一日で全部使ってやるって！",
-  "en": "",
-  "status": ""
+  "en": "So I decided! I'm spending it all in one day!",
+  "status": "done"
  },
  {
   "id": "event_2174_000AF",
@@ -44,8 +44,8 @@
    5512
   ],
   "jp": "{voice:006309}しかし、よくこんな布きれを{n}１０枚も２０枚も買うな。",
-  "en": "",
-  "status": ""
+  "en": "But how can you buy ten or twenty of these rags?",
+  "status": "done"
  },
  {
   "id": "event_2174_000E7",
@@ -56,8 +56,8 @@
    5533
   ],
   "jp": "{voice:006409}布きれじゃない！　スカーフ②",
-  "en": "",
-  "status": ""
+  "en": "They are not rags! They're scarves!",
+  "status": "done"
  },
  {
   "id": "event_2174_00108",
@@ -68,8 +68,8 @@
    5551
   ],
   "jp": "{voice:006509}ジェノンの話は本当だったな。{n}スカーフの話題になると、{n}人が変わる。",
-  "en": "",
-  "status": ""
+  "en": "Jenon was telling the truth. Bring up scarves and you turn into someone else.",
+  "status": "done"
  },
  {
   "id": "event_2174_0014F",
@@ -80,8 +80,8 @@
    5572
   ],
   "jp": "{voice:006609}むーっ、なによ！{n}上から目線はんたーい②",
-  "en": "",
-  "status": ""
+  "en": "Hmph, what! Down with your high and mighty attitude!",
+  "status": "done"
  },
  {
   "id": "event_2174_0017B",
@@ -92,8 +92,8 @@
    5590
   ],
   "jp": "{voice:006709}そういうメデューテさんは、{n}何を買ったんですか？",
-  "en": "",
-  "status": ""
+  "en": "And what did you buy, Medoute-san?",
+  "status": "done"
  },
  {
   "id": "event_2174_001AF",
@@ -104,8 +104,8 @@
    5679
   ],
   "jp": "{voice:006809}あたしはね、{n}短剣とか、仕込みの手甲とか。",
-  "en": "",
-  "status": ""
+  "en": "Me? Short swords, a gauntlet with a hidden blade, that kind of thing.",
+  "status": "done"
  },
  {
   "id": "event_2174_001DD",
@@ -116,8 +116,8 @@
    5700
   ],
   "jp": "{voice:006909}あらあら、{n}エレガントなご趣味で。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, what elegant taste.",
+  "status": "done"
  },
  {
   "id": "event_2174_00203",
@@ -128,8 +128,8 @@
    5721
   ],
   "jp": "{voice:006A09}分かってるな、シスキア。{n}見てよ、この手甲は芸術品だよ。",
-  "en": "",
-  "status": ""
+  "en": "You get it, Siskier. Look, this gauntlet's a work of art.",
+  "status": "done"
  },
  {
   "id": "event_2174_0023F",
@@ -140,8 +140,8 @@
    5739
   ],
   "jp": "{voice:006B09}マジレスされちゃったー。",
-  "en": "",
-  "status": ""
+  "en": "Aww, she took that seriously.",
+  "status": "done"
  },
  {
   "id": "event_2174_0025C",
@@ -152,8 +152,8 @@
    5757
   ],
   "jp": "{voice:006C09}女の子なんだから、{n}アクセとか服とかを買おうよ！",
-  "en": "",
-  "status": ""
+  "en": "We're girls, c'mon, buy accessories and clothes!",
+  "status": "done"
  },
  {
   "id": "event_2174_00290",
@@ -164,8 +164,8 @@
    5775
   ],
   "jp": "{voice:006D09}買ってもどうせ着ないからな。{n}勿体ないだけだ。",
-  "en": "",
-  "status": ""
+  "en": "I'd never wear them anyway. It'd just be a waste.",
+  "status": "done"
  },
  {
   "id": "event_2174_002C2",
@@ -176,8 +176,8 @@
    5865
   ],
   "jp": "{voice:006E09}それだけのナイスバディを{n}持ってて、達観し過ぎだわさ{n}あんた。なんか腹立つわね～。",
-  "en": "",
-  "status": ""
+  "en": "With a great figure like that, you're too above it all, y'know. It kinda ticks Pamela-sama off~.",
+  "status": "done"
  },
  {
   "id": "event_2174_00317",
@@ -188,8 +188,8 @@
    5957
   ],
   "jp": "{voice:006F09}もっと買い物を楽しもうよ！",
-  "en": "",
-  "status": ""
+  "en": "Let's enjoy shopping more!",
+  "status": "done"
  },
  {
   "id": "event_2174_00336",
@@ -200,8 +200,8 @@
    5978
   ],
   "jp": "{voice:007009}楽しんでるさ。",
-  "en": "",
-  "status": ""
+  "en": "I am enjoying it.",
+  "status": "done"
  },
  {
   "id": "event_2174_00349",
@@ -212,8 +212,8 @@
    5999
   ],
   "jp": "{voice:007109}そうだ！{n}さっきワクワクする買い物、{n}したんだ②",
-  "en": "",
-  "status": ""
+  "en": "Oh, right! I made a really thrilling purchase earlier!",
+  "status": "done"
  },
  {
   "id": "event_2174_0037C",
@@ -224,8 +224,8 @@
    6017
   ],
   "jp": "{voice:007209}へぇ…、どんな買い物ですか？",
-  "en": "",
-  "status": ""
+  "en": "Oh... What kind of purchase?",
+  "status": "done"
  },
  {
   "id": "event_2174_0039D",
@@ -236,8 +236,8 @@
    6035
   ],
   "jp": "{voice:007309}ボクも気になるー。{n}なんなの、なに買ったの？",
-  "en": "",
-  "status": ""
+  "en": "I wanna know too! What is it, what'd you buy?",
+  "status": "done"
  },
  {
   "id": "event_2174_003CD",
@@ -248,8 +248,8 @@
    6127
   ],
   "jp": "{voice:007409}９０日も日持ちする携帯食料、{n}さっき６割引で買っちゃった。",
-  "en": "",
-  "status": ""
+  "en": "Field rations that last ninety days. Got them just now for sixty percent off.",
+  "status": "done"
  },
  {
   "id": "event_2174_0040B",
@@ -260,8 +260,8 @@
    6148
   ],
   "jp": "{voice:007509}…メデューテ。{n}女の子的に終わってるよ、それは。",
-  "en": "",
-  "status": ""
+  "en": "...Medoute. As a girl, you're a lost cause.",
+  "status": "done"
  },
  {
   "id": "event_2174_0043F",
@@ -272,8 +272,8 @@
    6224
   ],
   "jp": "{voice:007609}ホントね、終わってる②",
-  "en": "",
-  "status": ""
+  "en": "Really, what a lost cause!",
+  "status": "done"
  },
  {
   "id": "event_2174_0045A",
@@ -284,8 +284,8 @@
    6316
   ],
   "jp": "{voice:007709}う、うるさいっ！",
-  "en": "",
-  "status": ""
+  "en": "Sh-shut up!",
+  "status": "done"
  },
  {
   "id": "event_2174_0046F",
@@ -296,8 +296,8 @@
    6346
   ],
   "jp": "{voice:007809}そういうあなたはどうなの？{n}どうせ火薬ばかり買うんでしょ？",
-  "en": "",
-  "status": ""
+  "en": "What about you, then? I bet you buy nothing but gunpowder, right?",
+  "status": "done"
  },
  {
   "id": "event_2174_004AD",
@@ -308,8 +308,8 @@
    6364
   ],
   "jp": "{voice:007909}やあねぇ、一緒にしないでよ。{n}私はメガネを買う気で来てるの。",
-  "en": "",
-  "status": ""
+  "en": "Oh please, don't lump me in with you. I came here to buy glasses.",
+  "status": "done"
  },
  {
   "id": "event_2174_004ED",
@@ -320,8 +320,8 @@
    6382
   ],
   "jp": "{voice:007A09}ボクみたいなフリフリの{n}可愛い服を買えばいいのに。{n}きっと似合うよ！",
-  "en": "",
-  "status": ""
+  "en": "You should buy cute frilly clothes like mine! They'd look really good on you!",
+  "status": "done"
  },
  {
   "id": "event_2174_00534",
@@ -332,8 +332,8 @@
    6400
   ],
   "jp": "{voice:007B09}そ、それは…、ないかな。",
-  "en": "",
-  "status": ""
+  "en": "Th-that's... not likely, no.",
+  "status": "done"
  },
  {
   "id": "event_2174_00551",
@@ -344,8 +344,8 @@
    6418
   ],
   "jp": "{voice:007C09}くっ…くふふ…、いいじゃない！{n}似合うって！　買いに行こう！",
-  "en": "",
-  "status": ""
+  "en": "Pff... hee hee... Why not! They'd suit you! Let's go buy some!",
+  "status": "done"
  },
  {
   "id": "event_2174_00591",
@@ -356,8 +356,8 @@
    6439
   ],
   "jp": "{voice:007D09}冗談は、いい加減にしろっ！",
-  "en": "",
-  "status": ""
+  "en": "Enough with the jokes!",
+  "status": "done"
  },
  {
   "id": "event_2174_005B0",
@@ -368,8 +368,8 @@
    6457
   ],
   "jp": "{voice:007E09}アイギナお姉ちゃんは{n}なにを買ったの？",
-  "en": "",
-  "status": ""
+  "en": "Big Sis Aegina, what did you buy?",
+  "status": "done"
  },
  {
   "id": "event_2174_005DA",
@@ -380,8 +380,8 @@
    6574
   ],
   "jp": "{voice:007F09}私は、姉さんに{n}お菓子を買いましたよ。",
-  "en": "",
-  "status": ""
+  "en": "I bought a sweet for my sister.",
+  "status": "done"
  },
  {
   "id": "event_2174_00604",
@@ -392,8 +392,8 @@
    6592
   ],
   "jp": "{voice:008009}まぁ、嬉しい。",
-  "en": "",
-  "status": ""
+  "en": "Oh, how lovely.",
+  "status": "done"
  },
  {
   "id": "event_2174_00617",
@@ -404,8 +404,8 @@
    6622
   ],
   "jp": "{voice:008109}……そりゃ、お菓子じゃないわ。{n}ヒック…",
-  "en": "",
-  "status": ""
+  "en": "...That there ain't a sweet. *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2174_00643",
@@ -416,8 +416,8 @@
    6640
   ],
   "jp": "{voice:008209}えっ③　そうなんですか？",
-  "en": "",
-  "status": ""
+  "en": "Eh?! It is not?",
+  "status": "done"
  },
  {
   "id": "event_2174_00660",
@@ -428,8 +428,8 @@
    6658
   ],
   "jp": "{voice:008309}ヒック…、それは肉まん。{n}あんまんはまだしも…うっと、{n}肉まんは…お菓子じゃねーわな。",
-  "en": "",
-  "status": ""
+  "en": "*hic*... That's a meat bun. A sweet bean bun, maybe... urp... but a meat bun ain't a... sweet, y'hear.",
+  "status": "done"
  },
  {
   "id": "event_2174_006B9",
@@ -440,8 +440,8 @@
    6676
   ],
   "jp": "{voice:008409}そ、そんな……",
-  "en": "",
-  "status": ""
+  "en": "Wh-what...",
+  "status": "done"
  },
  {
   "id": "event_2174_006CC",
@@ -452,8 +452,8 @@
    6694
   ],
   "jp": "{voice:008509}ええっとアイギナ。{n}私、お肉好きだから、本当よ。",
-  "en": "",
-  "status": ""
+  "en": "Um, Aegina. I do like meat, so really, it's fine.",
+  "status": "done"
  },
  {
   "id": "event_2174_00700",
@@ -464,8 +464,8 @@
    6712
   ],
   "jp": "{voice:008609}しゅん……",
-  "en": "",
-  "status": ""
+  "en": "*droop*...",
+  "status": "done"
  },
  {
   "id": "event_2174_0070F",
@@ -476,8 +476,8 @@
    6834
   ],
   "jp": "{voice:008709}パメラは？　何買った？",
-  "en": "",
-  "status": ""
+  "en": "Pamela? What'd you buy?",
+  "status": "done"
  },
  {
   "id": "event_2174_0072A",
@@ -488,8 +488,8 @@
    6852
   ],
   "jp": "{voice:008809}ホウキとか…、あ、お掃除用ね。{n}何本あっても足りないんだわさ。{n}あと実験の素材とか……",
-  "en": "",
-  "status": ""
+  "en": "Brooms and stuff... Oh, for cleaning. Pamela-sama can never have enough. And experiment materials...",
+  "status": "done"
  },
  {
   "id": "event_2174_00783",
@@ -500,8 +500,8 @@
    6874
   ],
   "jp": "{voice:008909}でも今回最大の収穫は{n}蚤の市で売りに出てた、{n}このチョーレアなカードね！",
-  "en": "",
-  "status": ""
+  "en": "But the biggest catch this time is this super-rare card from the flea market!",
+  "status": "done"
  },
  {
   "id": "event_2174_007CE",
@@ -512,8 +512,8 @@
    7032
   ],
   "jp": "{voice:008A09}よう、姉ちゃん達！{n}楽しそうだなぁ……",
-  "en": "",
-  "status": ""
+  "en": "Hey, you girls! Looks like you're havin' fun...",
+  "status": "done"
  },
  {
   "id": "event_2174_007F8",
@@ -524,8 +524,8 @@
    7062
   ],
   "jp": "{voice:008B09}あー…呑み過ぎたかなー？{n}幻聴が聞こえるわ…ヒック…",
-  "en": "",
-  "status": ""
+  "en": "Aah... Did I drink too much...? I'm hearin' things... *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2174_00830",
@@ -536,8 +536,8 @@
    7080
   ],
   "jp": "{voice:008C09}よぉよぉよぉ②{n}無視かよ？　え？　姉ちゃん。",
-  "en": "",
-  "status": ""
+  "en": "Hey hey hey! You ignorin' me? Huh? Girls?",
+  "status": "done"
  },
  {
   "id": "event_2174_00860",
@@ -548,8 +548,8 @@
    7101
   ],
   "jp": "{voice:008D09}誰か呼びました？",
-  "en": "",
-  "status": ""
+  "en": "Did someone call?",
+  "status": "done"
  },
  {
   "id": "event_2174_00875",
@@ -560,8 +560,8 @@
    7119
   ],
   "jp": "{voice:008E09}こっちだって！{n}こっち！　こっち②",
-  "en": "",
-  "status": ""
+  "en": "Over here! Over here! Here!",
+  "status": "done"
  },
  {
   "id": "event_2174_0089B",
@@ -572,8 +572,8 @@
    7603
   ],
   "jp": "{voice:008F09}…なによ？　なんか用？",
-  "en": "",
-  "status": ""
+  "en": "...What? You want something?",
+  "status": "done"
  },
  {
   "id": "event_2174_008B6",
@@ -584,8 +584,8 @@
    7621
   ],
   "jp": "{voice:009009}どーだい、一緒にお茶しねぇ？{n}いいお店知ってるぜ。",
-  "en": "",
-  "status": ""
+  "en": "How 'bout it, wanna have some tea with us? I know a great place.",
+  "status": "done"
  },
  {
   "id": "event_2174_008EC",
@@ -596,8 +596,8 @@
    7654
   ],
   "jp": "{voice:009109}ナンパかしら？{n}こういうのは無視に限るわ。{n}無視無視。",
-  "en": "",
-  "status": ""
+  "en": "Is this a pickup? Best to just ignore this kind of thing. Ignore, ignore.",
+  "status": "done"
  },
  {
   "id": "event_2174_00925",
@@ -620,8 +620,8 @@
    7761
   ],
   "jp": "{voice:009209}無視すんなよ。{n}おごるからさ、なぁ、いいだろ？",
-  "en": "",
-  "status": ""
+  "en": "Don't ignore us. It's on me, c'mon, what do you say?",
+  "status": "done"
  },
  {
   "id": "event_2174_00962",
@@ -632,8 +632,8 @@
    7782
   ],
   "jp": "{voice:009309}君達みたいなゴロツキじゃ、{n}釣り合わないでしょ。{n}出直してきな。",
-  "en": "",
-  "status": ""
+  "en": "Thugs like you aren't in our league. Come back when you've grown up.",
+  "status": "done"
  },
  {
   "id": "event_2174_009A5",
@@ -644,8 +644,8 @@
    7800
   ],
   "jp": "{voice:009409}おいおい。{n}随分な口きいてくれるじゃんか…",
-  "en": "",
-  "status": ""
+  "en": "Whoa, whoa. You've got some mouth on you...",
+  "status": "done"
  },
  {
   "id": "event_2174_009D3",
@@ -656,8 +656,8 @@
    7821
   ],
   "jp": "{voice:009509}しつこいな。{n}目障りだから消えろ、ナンパ野郎。",
-  "en": "",
-  "status": ""
+  "en": "You're persistent. You're an eyesore, so get lost, Casanova.",
+  "status": "done"
  },
  {
   "id": "event_2174_00A05",
@@ -668,8 +668,8 @@
    7913
   ],
   "jp": "{voice:009609}…ぐおぉぉぉぉ！{n}なんてビッチなセリフ吐くんだ！{n}ナメやがってチクショウ！",
-  "en": "",
-  "status": ""
+  "en": "...Grrraaaagh! What a bitchy thing to say! Lookin' down on us, damn it!",
+  "status": "done"
  },
  {
   "id": "event_2174_00A52",
@@ -680,8 +680,8 @@
    7920
   ],
   "jp": "{voice:009709}ぶちのめしてやる！　そして…{n}もれなくお持ち帰りしてやるぅ②",
-  "en": "",
-  "status": ""
+  "en": "We'll knock you flat! And then... every last one of you is havin' tea with us!",
+  "status": "done"
  },
  {
   "id": "event_2174_00A92",
@@ -692,8 +692,8 @@
    7938
   ],
   "jp": "{voice:009809}わーぉ、火に油状態じゃん。{n}もしかしてメデューテ、機嫌悪い？{n}私のせい？",
-  "en": "",
-  "status": ""
+  "en": "Wow, she just threw oil on the fire. Medoute, are you in a bad mood? Is that my fault?",
+  "status": "done"
  },
  {
   "id": "event_2174_00ADD",
@@ -704,8 +704,8 @@
    7959
   ],
   "jp": "{voice:009909}よし、これでいい……{n}ウサ晴らし、してやる。",
-  "en": "",
-  "status": ""
+  "en": "Right, this'll do... I'll blow off some steam.",
+  "status": "done"
  },
  {
   "id": "event_2174_00B0D",
@@ -716,8 +716,8 @@
    8614
   ],
   "jp": "{voice:009A09}お前ら、手加減する事はねぇぜ！",
-  "en": "",
-  "status": ""
+  "en": "Don't you hold back, boys!",
+  "status": "done"
  },
  {
   "id": "event_2174_00B30",
@@ -728,8 +728,8 @@
    8632
   ],
   "jp": "{voice:009B09}オイラは金髪ロングの娘、{n}二人ともとっぴー！",
-  "en": "",
-  "status": ""
+  "en": "I call the long-haired blondes, both of 'em!",
+  "status": "done"
  },
  {
   "id": "event_2174_00B60",
@@ -740,8 +740,8 @@
    8650
   ],
   "jp": "{voice:009C09}バカ野郎、それは俺のだ！{n}お前はあの大斧女を相手してろ②",
-  "en": "",
-  "status": ""
+  "en": "You moron, those are mine! You deal with the big axe woman!",
+  "status": "done"
  },
  {
   "id": "event_2174_00B9C",
@@ -752,8 +752,8 @@
    8668
   ],
   "jp": "{voice:009D09}やめーっ！　ケンカはやめーッ②{n}兄弟でケンカするなんて、{n}ニイサン、悲・し・い・ぜっ！",
-  "en": "",
-  "status": ""
+  "en": "Stop! Stop your fightin'! Brothers fightin' each other makes Big Bro s-a-d!",
+  "status": "done"
  },
  {
   "id": "event_2174_00BF5",
@@ -764,8 +764,8 @@
    8689
   ],
   "jp": "{voice:009E09}ケンカの元は俺が絶つ！{n}あの金髪ロングは俺がもらう！",
-  "en": "",
-  "status": ""
+  "en": "I'll put an end to what's causin' this! The long-haired blonde is mine!",
+  "status": "done"
  },
  {
   "id": "event_2174_00C2D",
@@ -776,8 +776,8 @@
    8710
   ],
   "jp": "{voice:009F09}アニキぃ、ひでぇよー！",
-  "en": "",
-  "status": ""
+  "en": "Big Bro, that's so mean!",
+  "status": "done"
  },
  {
   "id": "event_2174_00C48",
@@ -788,8 +788,8 @@
    8758
   ],
   "jp": "{voice:00A009}み、みにくいッ…！{n}汚らわしいっ！",
-  "en": "",
-  "status": ""
+  "en": "H-how ugly...! Disgusting!",
+  "status": "done"
  },
  {
   "id": "event_2174_00C6E",
@@ -800,8 +800,8 @@
    8779
   ],
   "jp": "{voice:00A109}へっへっへっ、{n}一晩たったら俺のトリコよ。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh, one cup of tea and she'll be crazy about me.",
+  "status": "done"
  },
  {
   "id": "event_2174_00C9C",
@@ -812,8 +812,8 @@
    8895
   ],
   "jp": "{voice:00A209}おい、末弟。{n}お前はどの子がいいんだ？　ん？",
-  "en": "",
-  "status": ""
+  "en": "Hey, baby brother. Which one do you want? Huh?",
+  "status": "done"
  },
  {
   "id": "event_2174_00CCC",
@@ -824,8 +824,8 @@
    8916
   ],
   "jp": "{voice:00A309}オレ…{n}あの赤い髪の、ヒラヒラした…{n}ちっちゃい子…",
-  "en": "",
-  "status": ""
+  "en": "Me... I just wanna... go home... I'm scared of 'em...",
+  "status": "done"
  },
  {
   "id": "event_2174_00D03",
@@ -836,8 +836,8 @@
    9009
   ],
   "jp": "{voice:00A409}ちょ…、お前、さすがにそれは…{n}…いや、いい。{n}お前は自分の道を征けっ！",
-  "en": "",
-  "status": ""
+  "en": "Wha... You, seriously, that's... No, fine. You walk your own path!",
+  "status": "done"
  },
  {
   "id": "event_2174_00D4E",
@@ -848,8 +848,8 @@
    9064
   ],
   "jp": "{voice:00A509}よし、いくぜ。{n}全軍とつげーき！",
-  "en": "",
-  "status": ""
+  "en": "Okay, let's go. All forces, chaaarge!",
+  "status": "done"
  },
  {
   "id": "event_2174_00D72",
@@ -860,8 +860,8 @@
    9356
   ],
   "jp": "{voice:00A609}ぬぉぉぉぉおおおお！{n}この娘ども、強えぇッ！",
-  "en": "",
-  "status": ""
+  "en": "Nuoooooooh! These girls are strong!",
+  "status": "done"
  },
  {
   "id": "event_2174_00DA2",
@@ -872,8 +872,8 @@
    9377
   ],
   "jp": "{voice:00A709}女だからって甘く見るな！",
-  "en": "",
-  "status": ""
+  "en": "Don't take us lightly just because we're women!",
+  "status": "done"
  },
  {
   "id": "event_2174_00DBF",
@@ -884,8 +884,8 @@
    9398
   ],
   "jp": "{voice:00A809}ひ、ひけーーーーっ！",
-  "en": "",
-  "status": ""
+  "en": "R-retreeeeat!",
+  "status": "done"
  },
  {
   "id": "event_2174_00DD8",
@@ -896,8 +896,8 @@
    12434
   ],
   "jp": "{voice:00A909}ちっきしょぉぉおおお！{n}しかーし、俺は諦めんぞっ。{n}必ずお前らをモノにしてやるッ！",
-  "en": "",
-  "status": ""
+  "en": "Daaaaaamn it! But I ain't givin' up! You girls are gonna be mine for tea, I swear!",
+  "status": "done"
  },
  {
   "id": "event_2174_00E2D",
@@ -908,8 +908,8 @@
    12482
   ],
   "jp": "{voice:00AA09}…いや、無理ですって。",
-  "en": "",
-  "status": ""
+  "en": "...No, really, that is impossible.",
+  "status": "done"
  },
  {
   "id": "event_2174_00E48",
@@ -920,8 +920,8 @@
    12533
   ],
   "jp": "{voice:00AB09}一度態勢を立て直すぜ！{n}しかし、これは勇退である。{n}撤退ではなーい！",
-  "en": "",
-  "status": ""
+  "en": "We're regroupin'! But this is an honorable departure, not a retreat!",
+  "status": "done"
  },
  {
   "id": "event_2174_00E8F",
@@ -932,8 +932,8 @@
    12666
   ],
   "jp": "{voice:00AC09}ふっ…、所詮ナンパな連中だ。{n}しょうもない奴。",
-  "en": "",
-  "status": ""
+  "en": "Hmph... Just a bunch of pickup artists after all. Hopeless.",
+  "status": "done"
  },
  {
   "id": "event_2174_00EC1",
@@ -944,8 +944,8 @@
    12711
   ],
   "jp": "{voice:00AD09}でもさ、アレって全員兄弟？{n}なんかそんな事言ってたけど。",
-  "en": "",
-  "status": ""
+  "en": "But hey, are they all brothers? They said something like that.",
+  "status": "done"
  },
  {
   "id": "event_2174_00EFD",
@@ -956,8 +956,8 @@
    12729
   ],
   "jp": "{voice:00AE09}どうでもいいよ、そんな事。",
-  "en": "",
-  "status": ""
+  "en": "Who cares about that.",
+  "status": "done"
  },
  {
   "id": "event_2174_00F1C",
@@ -968,8 +968,8 @@
    13115
   ],
   "jp": "{voice:00AF09}待て待て！　逃がさんぞ！{n}ビクセン兄弟が撤退した今、{n}ナンパ権は我々に移行した！",
-  "en": "",
-  "status": ""
+  "en": "Wait, wait! You won't get away! Now the Vixen Brothers have pulled out, pickup rights pass to us!",
+  "status": "done"
  },
  {
   "id": "event_2174_00F6F",
@@ -980,8 +980,8 @@
    13136
   ],
   "jp": "{voice:00B009}『なぁ、茶シバキにいかねぇ？』{n}ふっ、決まったっす……",
-  "en": "",
-  "status": ""
+  "en": "'Hey, wanna go grab some tea?' Heh, nailed it, man...",
+  "status": "done"
  },
  {
   "id": "event_2174_00FA9",
@@ -992,8 +992,8 @@
    13200
   ],
   "jp": "{voice:00B109}おい、{n}これって、どういう事だ？",
-  "en": "",
-  "status": ""
+  "en": "Hey, what's this all about?",
+  "status": "done"
  },
  {
   "id": "event_2174_00FCD",
@@ -1004,8 +1004,8 @@
    13221
   ],
   "jp": "{voice:00B209}……さぁ？",
-  "en": "",
-  "status": ""
+  "en": "...Beats me?",
+  "status": "done"
  },
  {
   "id": "event_2174_00FDC",
@@ -1016,8 +1016,8 @@
    13269
   ],
   "jp": "{voice:00B309}こんなに言い寄られるなんて{n}あたしの超時空的な魅力のせい？{n}ああ、あたしって罪なオンナ…♪",
-  "en": "",
-  "status": ""
+  "en": "So many suitors! Must be Pamela-sama's hyperdimensional charm. Ah, what a crime ♪",
+  "status": "done"
  },
  {
   "id": "event_2174_01039",
@@ -1028,8 +1028,8 @@
    13287
   ],
   "jp": "{voice:00B409}もう一戦する、という事ですか？",
-  "en": "",
-  "status": ""
+  "en": "So this means one more fight?",
+  "status": "done"
  },
  {
   "id": "event_2174_0105C",
@@ -1040,8 +1040,8 @@
    13305
   ],
   "jp": "{voice:00B509}この流れだとね……",
-  "en": "",
-  "status": ""
+  "en": "Looks that way...",
+  "status": "done"
  },
  {
   "id": "event_2174_01073",
@@ -1050,8 +1050,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00B609}おいっ、信じられねぇっす。{n}俺の魅力に、女がなびかない……",
-  "en": "",
-  "status": ""
+  "en": "Hey, I can't believe this, man. My charm ain't makin' you girls swoon...",
+  "status": "done"
  },
  {
   "id": "event_2174_010B1",
@@ -1060,8 +1060,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00B709}そうか、分かったぞ。{n}力で奪って欲しいんだろ？{n}そう言う趣味か！",
-  "en": "",
-  "status": ""
+  "en": "I get it now. You want a guy who can beat you in a fight, right? So that's your type!",
+  "status": "done"
  },
  {
   "id": "event_2174_010F4",
@@ -1070,8 +1070,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00B809}おかしい、何かがおかしい……",
-  "en": "",
-  "status": ""
+  "en": "This is weird, something's weird...",
+  "status": "done"
  },
  {
   "id": "event_2174_01115",
@@ -1118,8 +1118,8 @@
    4505
   ],
   "jp": "ゴロツキ",
-  "en": "",
-  "status": ""
+  "en": "Thugs",
+  "status": "done"
  },
  {
   "id": "event_2174_01253",
@@ -1130,8 +1130,8 @@
    4688
   ],
   "jp": "ゴロツキ",
-  "en": "",
-  "status": ""
+  "en": "Thugs",
+  "status": "done"
  },
  {
   "id": "event_2174_03478",
@@ -1142,8 +1142,8 @@
    15400
   ],
   "jp": "{voice:00B609}おいっ、信じられねぇっす。{n}俺の魅力に、女がなびかない……",
-  "en": "",
-  "status": ""
+  "en": "Hey, I can't believe this, man. My charm ain't makin' you girls swoon...",
+  "status": "done"
  },
  {
   "id": "event_2174_034B6",
@@ -1154,8 +1154,8 @@
    15418
   ],
   "jp": "{voice:00B709}そうか、分かったぞ。{n}力で奪って欲しいんだろ？{n}そう言う趣味か！",
-  "en": "",
-  "status": ""
+  "en": "I get it now. You want a guy who can beat you in a fight, right? So that's your type!",
+  "status": "done"
  },
  {
   "id": "event_2174_034F9",
@@ -1166,8 +1166,8 @@
    15490
   ],
   "jp": "{voice:00B809}おかしい、何かがおかしい……",
-  "en": "",
-  "status": ""
+  "en": "This is weird, something's weird...",
+  "status": "done"
  },
  {
   "id": "event_2174_0351A",
@@ -1178,8 +1178,8 @@
    15803
   ],
   "jp": "{voice:00B909}ぬぉぉぉぉおおおお！{n}この娘ども、強いッ！",
-  "en": "",
-  "status": ""
+  "en": "Nuoooooooh! These girls are strong!",
+  "status": "done"
  },
  {
   "id": "event_2174_03548",
@@ -1190,8 +1190,8 @@
    18912
   ],
   "jp": "{voice:00BA09}くそっ…、諦めない。{n}俺は諦めないぜぇぇぇ！",
-  "en": "",
-  "status": ""
+  "en": "Damn it... I won't give up. I ain't givin' uuuup!",
+  "status": "done"
  },
  {
   "id": "event_2174_03578",
@@ -1202,8 +1202,8 @@
    18919
   ],
   "jp": "{voice:00BB09}せっかく、ずっと夢に出てきた{n}女の子に巡り合えたのに……",
-  "en": "",
-  "status": ""
+  "en": "And I finally met the girl who's always in my dreams...",
+  "status": "done"
  },
  {
   "id": "event_2174_035B4",
@@ -1214,8 +1214,8 @@
    18937
   ],
   "jp": "{voice:00BC09}へぇ、意外と純情なのね。{n}ちなみにお目当ては誰？",
-  "en": "",
-  "status": ""
+  "en": "Huh, you're more innocent than I thought. Who's your dream girl, anyway?",
+  "status": "done"
  },
  {
   "id": "event_2174_035E8",
@@ -1238,8 +1238,8 @@
    19034
   ],
   "jp": "{voice:00BD09}うーん、どれにしようかなぁ。",
-  "en": "",
-  "status": ""
+  "en": "Mmm, which one should I pick...",
+  "status": "done"
  },
  {
   "id": "event_2174_03614",
@@ -1250,8 +1250,8 @@
    19052
   ],
   "jp": "{voice:00BE09}…もういい、死になよ。",
-  "en": "",
-  "status": ""
+  "en": "...That's it, die already.",
+  "status": "done"
  },
  {
   "id": "event_2174_0362F",
@@ -1262,8 +1262,8 @@
    19070
   ],
   "jp": "{voice:00BF09}ひやぁぁぁぁ……{n}諦めるしか、無いッスか～。",
-  "en": "",
-  "status": ""
+  "en": "Yaaaagh... I guess I gotta give up, man~.",
+  "status": "done"
  },
  {
   "id": "event_2174_0365F",
@@ -1274,8 +1274,8 @@
    19091
   ],
   "jp": "{voice:00C009}いや、諦めちゃダメだ！",
-  "en": "",
-  "status": ""
+  "en": "No, you can't give up!",
+  "status": "done"
  },
  {
   "id": "event_2174_0367A",
@@ -1286,8 +1286,8 @@
    19223
   ],
   "jp": "{voice:00C109}お、お前らは…、ビクセン兄弟！",
-  "en": "",
-  "status": ""
+  "en": "Y-you guys... The Vixen Brothers!",
+  "status": "done"
  },
  {
   "id": "event_2174_0369D",
@@ -1298,8 +1298,8 @@
    19243
   ],
   "jp": "{voice:00C209}男には引いちゃいけない、{n}ラインがある。{n}そうさ、それは男ライン。",
-  "en": "",
-  "status": ""
+  "en": "There's a line a man must never back down from. That's right. The Man Line.",
+  "status": "done"
  },
  {
   "id": "event_2174_036E2",
@@ -1310,8 +1310,8 @@
    19264
   ],
   "jp": "{voice:00C309}君は、それでもいいのか？{n}男としての誇りやロックな心、{n}失ってもいいのか？",
-  "en": "",
-  "status": ""
+  "en": "Are you okay with that? With losing your pride as a man, your rock-and-roll soul?",
+  "status": "done"
  },
  {
   "id": "event_2174_0372F",
@@ -1322,8 +1322,8 @@
    19285
   ],
   "jp": "{voice:00C409}…ッ③　やべぇ、やべぇっす。{n}もう少しで男ライン、{n}割っちまうトコロでした。",
-  "en": "",
-  "status": ""
+  "en": "...! Oh man, oh man. I almost crossed the Man Line.",
+  "status": "done"
  },
  {
   "id": "event_2174_0377E",
@@ -1334,8 +1334,8 @@
    19306
   ],
   "jp": "{voice:00C509}そうだ…、俺はやるぜ。{n}見ていてくれ、かぁちゃん。",
-  "en": "",
-  "status": ""
+  "en": "That's right... I'll do it. Watch me, Ma.",
+  "status": "done"
  },
  {
   "id": "event_2174_037B4",
@@ -1346,8 +1346,8 @@
    19327
   ],
   "jp": "{voice:00C609}そうだ！　それでこそ男だ②{n}どうだい、近所の桃園で{n}義兄弟の契りをかわさねぇか？",
-  "en": "",
-  "status": ""
+  "en": "Yes! That's a real man! How 'bout swearing brotherhood in the peach orchard down the road?",
+  "status": "done"
  },
  {
   "id": "event_2174_03807",
@@ -1358,8 +1358,8 @@
    19348
   ],
   "jp": "{voice:00C709}いいんっすか？　感動っす②",
-  "en": "",
-  "status": ""
+  "en": "You mean it? I'm so moved, man!",
+  "status": "done"
  },
  {
   "id": "event_2174_03826",
@@ -1370,8 +1370,8 @@
    19369
   ],
   "jp": "{voice:00C809}ああ、共にナンパに励もうぜ！",
-  "en": "",
-  "status": ""
+  "en": "Yeah, we'll work at our pickups together!",
+  "status": "done"
  },
  {
   "id": "event_2174_03847",
@@ -1382,8 +1382,8 @@
    19476
   ],
   "jp": "{voice:00C909}…お前、末弟ね。{n}これでオレも…ついに、アニキ…{n}ふふ…",
-  "en": "",
-  "status": ""
+  "en": "...So you're the baby brother now. So I'm... finally a big bro... Heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2174_03882",
@@ -1394,8 +1394,8 @@
    19565
   ],
   "jp": "{voice:00CA09}…もう付き合ってられない。",
-  "en": "",
-  "status": ""
+  "en": "...I can't deal with this anymore.",
+  "status": "done"
  },
  {
   "id": "event_2174_038A1",
@@ -1406,8 +1406,8 @@
    19583
   ],
   "jp": "{voice:00CB09}みんな、私兵団邸に戻ろう。{n}さすがに武装した邸宅までは{n}追ってこないだろう。",
-  "en": "",
-  "status": ""
+  "en": "Everyone, back to the private army's house. They won't follow us to an armed residence.",
+  "status": "done"
  },
  {
   "id": "event_2174_038F0",
@@ -1418,8 +1418,8 @@
    19601
   ],
   "jp": "{voice:00CC09}もし追ってきたら？",
-  "en": "",
-  "status": ""
+  "en": "What if they do?",
+  "status": "done"
  },
  {
   "id": "event_2174_03907",
@@ -1430,8 +1430,8 @@
    19619
   ],
   "jp": "{voice:00CD09}城壁の上から、釜茹でにした{n}お湯でもぶっかければいいわ。",
-  "en": "",
-  "status": ""
+  "en": "We'll just pour boiling water on them from the top of the wall.",
+  "status": "done"
  },
  {
   "id": "event_2174_04CF8",
@@ -1442,8 +1442,8 @@
    22545
   ],
   "jp": "{voice:00CE09}全軍とつげーき！{n}義兄弟の力を集結し、{n}女の子をクップクさせるのだ！",
-  "en": "",
-  "status": ""
+  "en": "All forces, chaaarge! Gather the power of our sworn brotherhood and make those girls surrender!",
+  "status": "done"
  },
  {
   "id": "event_2174_04D3F",
@@ -1454,8 +1454,8 @@
    22563
   ],
   "jp": "{voice:00CF09}兄者！　一生付いて行くっす！",
-  "en": "",
-  "status": ""
+  "en": "Big Bro! I'll follow you for life, man!",
+  "status": "done"
  },
  {
   "id": "event_2174_04D60",
@@ -1466,8 +1466,8 @@
    22631
   ],
   "jp": "{voice:00D009}バカな男は頭数も体力も無限だな。{n}相手にしないで、さっさと帰ろう。",
-  "en": "",
-  "status": ""
+  "en": "Stupid men have endless numbers and stamina. Ignore them and let's hurry home.",
+  "status": "done"
  },
  {
   "id": "event_2174_04DA6",
@@ -1478,8 +1478,8 @@
    26984
   ],
   "jp": "{voice:00D109}全員揃った？{n}バカどもの相手は終わりにしよう。",
-  "en": "",
-  "status": ""
+  "en": "Everyone here? Let's be done with those idiots.",
+  "status": "done"
  },
  {
   "id": "event_2174_04DD8",
@@ -1490,8 +1490,8 @@
    27116
   ],
   "jp": "{voice:00D209}お、おい、{n}ここ、グラムブレイズの{n}本拠地じゃねぇか……",
-  "en": "",
-  "status": ""
+  "en": "H-hey, this is Gram Blaze's headquarters...",
+  "status": "done"
  },
  {
   "id": "event_2174_04E13",
@@ -1502,8 +1502,8 @@
    27134
   ],
   "jp": "{voice:00D309}アイツら、グラムブレイズの{n}団員だったのか！",
-  "en": "",
-  "status": ""
+  "en": "Those girls were Gram Blaze!",
+  "status": "done"
  },
  {
   "id": "event_2174_04E43",
@@ -1514,8 +1514,8 @@
    27152
   ],
   "jp": "{voice:00D409}どうりで強いワケだぜ、トホホ～。",
-  "en": "",
-  "status": ""
+  "en": "No wonder they're so strong, boo-hoo~.",
+  "status": "done"
  },
  {
   "id": "event_2174_04E68",
@@ -1526,8 +1526,8 @@
    27783
   ],
   "jp": "{voice:00D509}やれやれ、面倒な連中に{n}絡まれてしまったな。",
-  "en": "",
-  "status": ""
+  "en": "Good grief, we got tangled up with a real pain of a crowd.",
+  "status": "done"
  },
  {
   "id": "event_2174_04E98",
@@ -1538,8 +1538,8 @@
    27801
   ],
   "jp": "{voice:00D609}ホントだよ！{n}せっかく楽しい買い物だったのに、{n}最後の最後で台無しよ…",
-  "en": "",
-  "status": ""
+  "en": "Seriously! Shopping was so fun, and then it got ruined right at the very end...",
+  "status": "done"
  },
  {
   "id": "event_2174_04EE1",
@@ -1550,8 +1550,8 @@
    27819
   ],
   "jp": "{voice:00D709}…ところで、{n}ウチの男連中はどこだ？",
-  "en": "",
-  "status": ""
+  "en": "...By the way, where are our boys?",
+  "status": "done"
  },
  {
   "id": "event_2174_04F09",
@@ -1562,8 +1562,8 @@
    27837
   ],
   "jp": "{voice:00D809}さあ……",
-  "en": "",
-  "status": ""
+  "en": "I do not know...",
+  "status": "done"
  },
  {
   "id": "event_2174_04F16",
@@ -1574,8 +1574,8 @@
    27855
   ],
   "jp": "{voice:00D909}私達が買い物に行く準備中に{n}どこかに出かけて行きましたが。",
-  "en": "",
-  "status": ""
+  "en": "They went off somewhere while we were getting ready to go shopping.",
+  "status": "done"
  },
  {
   "id": "event_2174_04F54",
@@ -1586,8 +1586,8 @@
    27991
   ],
   "jp": "{voice:00DA09}…ヒック、なんかねー。{n}帝都で開催する、ヒック…{n}大会に出る、とか、言ってたわ…",
-  "en": "",
-  "status": ""
+  "en": "...*hic*, somethin' about... A tournament, *hic*... in the capital, they said they'd enter it...",
+  "status": "done"
  },
  {
   "id": "event_2174_04FA7",
@@ -1598,8 +1598,8 @@
    28036
   ],
   "jp": "{voice:00DB09}逃げたんだよ、きっと。{n}荷物持ちをやらされると思って。",
-  "en": "",
-  "status": ""
+  "en": "They ran away, I bet. They thought they'd have to carry the bags.",
+  "status": "done"
  },
  {
   "id": "event_2174_04FE1",
@@ -1610,8 +1610,8 @@
    28054
   ],
   "jp": "{voice:00DC09}ダメだなぁ、あいつらは。{n}折角の休みだろ。買い物ぐらい{n}楽しむ余裕を持って欲しいね。",
-  "en": "",
-  "status": ""
+  "en": "Hopeless, those boys. It's our day off. They could at least make room to enjoy some shopping.",
+  "status": "done"
  },
  {
   "id": "event_2174_05038",
@@ -1622,8 +1622,8 @@
    28211
   ],
   "jp": "{voice:00DD09}それ、メデューテお姉ちゃんが{n}言うんだ…",
-  "en": "",
-  "status": ""
+  "en": "And that's coming from you, Big Sis Medoute...",
+  "status": "done"
  },
  {
   "id": "event_2174_05064",
@@ -1634,8 +1634,8 @@
    23551
   ],
   "jp": "{voice:00DE09}そこの殿方ご一同。{n}少々、よろしいかしら？",
-  "en": "",
-  "status": ""
+  "en": "All you gentlemen there. Might I have a moment?",
+  "status": "done"
  },
  {
   "id": "event_2174_05092",
@@ -1646,8 +1646,8 @@
    23571
   ],
   "jp": "{voice:00DF09}なんだなんだ！{n}俺達今、ナンパ道のど真ん中！{n}邪魔をするんじゃ……",
-  "en": "",
-  "status": ""
+  "en": "What, what! We're right in the middle of the Way of the Pickup! Don't you get in our...",
+  "status": "done"
  },
  {
   "id": "event_2174_050D7",
@@ -1658,8 +1658,8 @@
    23592
   ],
   "jp": "{voice:00E009}んなッ！　むっひょー、激マブ②{n}俺、やっぱりこの子にするわ。",
-  "en": "",
-  "status": ""
+  "en": "Whoa! Woo-hoo, what a knockout! I've changed my mind, I'm goin' for this one.",
+  "status": "done"
  },
  {
   "id": "event_2174_05117",
@@ -1670,8 +1670,8 @@
    23667
   ],
   "jp": "{voice:00E109}あら、なかなかのアプローチね。{n}ところであなた、お強いのかしら？",
-  "en": "",
-  "status": ""
+  "en": "My, what an approach. By the way, are you strong?",
+  "status": "done"
  },
  {
   "id": "event_2174_0515B",
@@ -1682,8 +1682,8 @@
    23688
   ],
   "jp": "{voice:00E209}ま、まあな。{n}これでも、ティエラ男魂大会で{n}５年連続６位入賞の男前だぜ！",
-  "en": "",
-  "status": ""
+  "en": "W-well, yeah. Handsome me's placed sixth in the Tiera Man Soul Tournament five years runnin'!",
+  "status": "done"
  },
  {
   "id": "event_2174_051A6",
@@ -1694,8 +1694,8 @@
    23709
   ],
   "jp": "{voice:00E309}それはよろしくてね…、私、強い{n}殿方を探しているの。歌のネタに{n}なる武勇伝をお聞かせなさい。",
-  "en": "",
-  "status": ""
+  "en": "How very nice... I am seeking strong gentlemen. Tell me heroic tales fit to put in song.",
+  "status": "done"
  },
  {
   "id": "event_2174_05205",
@@ -1706,8 +1706,8 @@
    23730
   ],
   "jp": "{voice:00E409}武勇伝？　それは昼の武勇伝かい？{n}それとも夜の武勇伝？{n}まぁ来な、どちらも聞かせてやるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Heroic tales? Ones from my days, or ones from the tavern? Well, come on, I'll tell you both.",
+  "status": "done"
  },
  {
   "id": "event_2174_05262",
@@ -1718,8 +1718,8 @@
    23748
   ],
   "jp": "{voice:00E509}あら、何かしら、この悪臭？{n}どうも先ほどから、{n}これは少々度が過ぎるほど……",
-  "en": "",
-  "status": ""
+  "en": "Oh my, what is this foul odor? It has been rather excessive for some time now...",
+  "status": "done"
  },
  {
   "id": "event_2174_052B1",
@@ -1730,8 +1730,8 @@
    23766
   ],
   "jp": "{voice:00E609}ん？　悪臭？",
-  "en": "",
-  "status": ""
+  "en": "Huh? Foul odor?",
+  "status": "done"
  },
  {
   "id": "event_2174_052C2",
@@ -1742,8 +1742,8 @@
    23787
   ],
   "jp": "{voice:00E709}私に近づくな！{n}あなたです、悪臭の元は！",
-  "en": "",
-  "status": ""
+  "en": "Get away from me! It is you, you are the source of the odor!",
+  "status": "done"
  },
  {
   "id": "event_2174_052EE",
@@ -1754,8 +1754,8 @@
    23876
   ],
   "jp": "{voice:00E809}あら、ごめんあそばせ。{n}例え強い殿方でも、毎日お風呂に{n}入らぬ方はご遠慮願っております。",
-  "en": "",
-  "status": ""
+  "en": "Oh, do pardon me. Even strong gentlemen, I must decline if they do not bathe every day.",
+  "status": "done"
  },
  {
   "id": "event_2174_05349",
@@ -1766,8 +1766,8 @@
    23894
   ],
   "jp": "{voice:00E909}ひょ…？　風呂？{n}なんだそれ？　喰えるのか？{n}それよりさぁ、武勇伝を……",
-  "en": "",
-  "status": ""
+  "en": "Huh...? Bathe? What's that? Can you eat it? Forget that, about those heroic tales...",
+  "status": "done"
  },
  {
   "id": "event_2174_05394",
@@ -1778,8 +1778,8 @@
    23912
   ],
   "jp": "{voice:00EA09}どうも、私の意を{n}ご理解いただけておらぬよう。{n}では改めて申しましょう…",
-  "en": "",
-  "status": ""
+  "en": "You do not seem to grasp what I mean. Then let me say it once more...",
+  "status": "done"
  },
  {
   "id": "event_2174_053DF",
@@ -1790,8 +1790,8 @@
    23933
   ],
   "jp": "{voice:00EB09}息づかいすら腹立たしいので、{n}私の前から消えてくださいまし。",
-  "en": "",
-  "status": ""
+  "en": "Your very breathing vexes me, so kindly vanish from my sight.",
+  "status": "done"
  },
  {
   "id": "event_2174_0541F",
@@ -1802,8 +1802,8 @@
    23951
   ],
   "jp": "{voice:00EC09}ん、なななななな！{n}ちょ、ちょっとカワユイからって{n}調子コキやがって②",
-  "en": "",
-  "status": ""
+  "en": "Wh-wh-wh-what! Just 'cause you're kinda cute, you're gettin' full of yourself!",
+  "status": "done"
  },
  {
   "id": "event_2174_05468",
@@ -1814,8 +1814,8 @@
    24054
   ],
   "jp": "{voice:00ED09}なに、あのゴシック女？{n}連中にケンカふっかけてるけど…",
-  "en": "",
-  "status": ""
+  "en": "What's with that Gothic girl? She's picking a fight with them...",
+  "status": "done"
  },
  {
   "id": "event_2174_054A2",
@@ -1826,8 +1826,8 @@
    24072
   ],
   "jp": "{voice:00EE09}うーん、正直意味がわからんな。{n}しかし奴らを最初に怒らせたのは{n}あたし達だからね……",
-  "en": "",
-  "status": ""
+  "en": "Hmm, honestly, I don't get it. But we're the ones who got them mad in the first place...",
+  "status": "done"
  },
  {
   "id": "event_2174_054F9",
@@ -1838,8 +1838,8 @@
    24090
   ],
   "jp": "{voice:00EF09}助けるべきかもね、ここは。",
-  "en": "",
-  "status": ""
+  "en": "Maybe we should help her out here.",
+  "status": "done"
  },
  {
   "id": "event_2174_06EB0",
@@ -1850,8 +1850,8 @@
    31032
   ],
   "jp": "{voice:00F009}まあ、なんと恐ろしいお顔。{n}どうして怒っているのかしら？",
-  "en": "",
-  "status": ""
+  "en": "My, what a frightful face. Why ever are you angry?",
+  "status": "done"
  },
  {
   "id": "event_2174_06EEC",
@@ -1862,8 +1862,8 @@
    31053
   ],
   "jp": "{voice:00F109}おいおいおーい！{n}どこまで俺達の純情を弄べば{n}気が済むんだ③",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey, hey! How much are you gonna toy with our innocent hearts?!",
+  "status": "done"
  },
  {
   "id": "event_2174_06F2B",
@@ -1874,8 +1874,8 @@
    31063
   ],
   "jp": "{voice:00F209}泣いて許しを乞う事になるぜ！",
-  "en": "",
-  "status": ""
+  "en": "We'll have you cryin' and beggin' forgiveness!",
+  "status": "done"
  },
  {
   "id": "event_2174_06F4C",
@@ -1886,8 +1886,8 @@
    31530
   ],
   "jp": "{voice:00F309}もういい…、女の子の気持ちは{n}俺には理解できないから、諦める！",
-  "en": "",
-  "status": ""
+  "en": "That's it... I can't understand how girls feel, so I give up!",
+  "status": "done"
  },
  {
   "id": "event_2174_06F8E",
@@ -1898,8 +1898,8 @@
    34743
   ],
   "jp": "{voice:00F409}やっぱ女との恋慕よりも{n}男同士の友情っすね！",
-  "en": "",
-  "status": ""
+  "en": "Friendship between men beats chasing girls after all, man!",
+  "status": "done"
  },
  {
   "id": "event_2174_06FBE",
@@ -1910,8 +1910,8 @@
    34764
   ],
   "jp": "{voice:00F509}…お前、いいこと言うな！{n}よし、一杯やりに行くか③",
-  "en": "",
-  "status": ""
+  "en": "...You said a good thing there! All right, let's go have a drink?!",
+  "status": "done"
  },
  {
   "id": "event_2174_06FF4",
@@ -1922,8 +1922,8 @@
    34785
   ],
   "jp": "{voice:00F609}ええっ、行くっすよ②{n}酔った勢いで岩肌にラクガキとか{n}するっすよ②",
-  "en": "",
-  "status": ""
+  "en": "Yeah, let's go, man! We'll get drunk and scribble on the cliffs, man!",
+  "status": "done"
  },
  {
   "id": "event_2174_07039",
@@ -1934,8 +1934,8 @@
    35070
   ],
   "jp": "{voice:00F709}ようやく諦めたわね。{n}まったくタフな連中だよ。",
-  "en": "",
-  "status": ""
+  "en": "They finally gave up. What a tough bunch, honestly.",
+  "status": "done"
  },
  {
   "id": "event_2174_0706B",
@@ -1946,8 +1946,8 @@
    35501
   ],
   "jp": "{voice:00F809}親切な皆様、{n}お助け頂き感謝申し上げますわ。",
-  "en": "",
-  "status": ""
+  "en": "Kind people, I offer you my thanks for coming to my aid.",
+  "status": "done"
  },
  {
   "id": "event_2174_0709B",
@@ -1958,8 +1958,8 @@
    35519
   ],
   "jp": "{voice:00F909}いや、元はと言えば、あたし達が{n}奴らを焚きつけたんだ。",
-  "en": "",
-  "status": ""
+  "en": "No, it was us who stirred them up in the first place.",
+  "status": "done"
  },
  {
   "id": "event_2174_070D5",
@@ -1970,8 +1970,8 @@
    35537
   ],
   "jp": "{voice:00FA09}こっちの方こそ、{n}巻き込んでしまって悪かったな。",
-  "en": "",
-  "status": ""
+  "en": "We're the ones who should apologize for dragging you into it.",
+  "status": "done"
  },
  {
   "id": "event_2174_07109",
@@ -1982,8 +1982,8 @@
    35555
   ],
   "jp": "{voice:00FB09}私はイータ。{n}吟遊詩人のイータと申します。",
-  "en": "",
-  "status": ""
+  "en": "I am Eater. Eater the bard, at your service.",
+  "status": "done"
  },
  {
   "id": "event_2174_07137",
@@ -1994,8 +1994,8 @@
    35573
   ],
   "jp": "{voice:00FC09}私はシスキア。{n}ここにいるのはみんな{n}グラムブレイズの団員だよ。",
-  "en": "",
-  "status": ""
+  "en": "I'm Siskier. Everyone here's part of Gram Blaze.",
+  "status": "done"
  },
  {
   "id": "event_2174_0717A",
@@ -2006,8 +2006,8 @@
    35594
   ],
   "jp": "{voice:00FD09}まあ…！　あなた方が噂の？{n}あの勇壮な戦いぶり…{n}なるほど、合点がいきました。",
-  "en": "",
-  "status": ""
+  "en": "My...! You are the ones they speak of? That gallant way of fighting... I see, it all makes sense.",
+  "status": "done"
  },
  {
   "id": "event_2174_071CB",
@@ -2018,8 +2018,8 @@
    35697
   ],
   "jp": "{voice:00FE09}お姉ちゃんもすごく強かったよ！{n}歌声で敵を倒すなんて{n}オっシャレー。",
-  "en": "",
-  "status": ""
+  "en": "You were really strong too, Big Sis! Beating enemies with your singing, that's so stylish.",
+  "status": "done"
  },
  {
   "id": "event_2174_07212",
@@ -2030,8 +2030,8 @@
    35715
   ],
   "jp": "{voice:00FF09}…見たところ女性ばかりですが、{n}殿方はいらっしゃらないのですか？",
-  "en": "",
-  "status": ""
+  "en": "...I see only women here. Are there no gentlemen with you?",
+  "status": "done"
  },
  {
   "id": "event_2174_07256",
@@ -2042,8 +2042,8 @@
    35733
   ],
   "jp": "{voice:00000A}今日は非番でここにはいません。",
-  "en": "",
-  "status": ""
+  "en": "They are off duty today and not here.",
+  "status": "done"
  },
  {
   "id": "event_2174_07279",
@@ -2054,8 +2054,8 @@
    35754
   ],
   "jp": "{voice:00010A}あらあらあら…、{n}その非番の殿方とは、強く素敵で{n}そしてイケてる殿方なのですか？",
-  "en": "",
-  "status": ""
+  "en": "Oh my, my, my... These off-duty gentlemen, are they strong, splendid and handsome gentlemen?",
+  "status": "done"
  },
  {
   "id": "event_2174_072CC",
@@ -2066,8 +2066,8 @@
    35772
   ],
   "jp": "{voice:00020A}素敵って、どうかわかんないけど{n}まぁ、強い連中が揃ってるよ。",
-  "en": "",
-  "status": ""
+  "en": "I don't know about splendid, but, well, they're a strong bunch.",
+  "status": "done"
  },
  {
   "id": "event_2174_0730C",
@@ -2078,8 +2078,8 @@
    35793
   ],
   "jp": "{voice:00030A}……、あら、失礼。{n}一度、お会いしたいですわね。{n}その殿方達を、ご紹介頂けますか？",
-  "en": "",
-  "status": ""
+  "en": "......Oh, excuse me. I would so like to meet them. Might you introduce me to those gentlemen?",
+  "status": "done"
  },
  {
   "id": "event_2174_07361",
@@ -2090,8 +2090,8 @@
    35811
   ],
   "jp": "{voice:00040A}えっ③　なんで？",
-  "en": "",
-  "status": ""
+  "en": "Huh?! Why?",
+  "status": "done"
  },
  {
   "id": "event_2174_07376",
@@ -2102,8 +2102,8 @@
    35829
   ],
   "jp": "{voice:00050A}私は吟遊詩人。{n}歌のネタを探して旅しております。",
-  "en": "",
-  "status": ""
+  "en": "I am a bard. I travel in search of material for my songs.",
+  "status": "done"
  },
  {
   "id": "event_2174_073AA",
@@ -2114,8 +2114,8 @@
    35836
   ],
   "jp": "{voice:00060A}素敵な殿方を毎夜……、あら失礼。{n}そうではなく、グラムブレイズを{n}是非に歌にしたいと存じます。",
-  "en": "",
-  "status": ""
+  "en": "Splendid gentlemen are my very favorite... Oh, excuse me. Rather, I do wish to put Gram Blaze in song.",
+  "status": "done"
  },
  {
   "id": "event_2174_0740B",
@@ -2126,8 +2126,8 @@
    35971
   ],
   "jp": "{voice:00070A}そろそろ日が暮れてきたな。{n}立ち話もなんだし、中で待つか？",
-  "en": "",
-  "status": ""
+  "en": "The sun's about to set. Why stand around talking? Want to wait inside?",
+  "status": "done"
  },
  {
   "id": "event_2174_07449",
@@ -2138,8 +2138,8 @@
    36068
   ],
   "jp": "{voice:00080A}お、気が利くねぇ、アンタ{n}じゃあ待たせてもらおうか。{n}あー、カッタリィ、この服…",
-  "en": "",
-  "status": ""
+  "en": "Oh, you're on the ball there. Guess I'll wait, then. Ugh, what a drag, these clothes...",
+  "status": "done"
  },
  {
   "id": "event_2174_0749C",
@@ -2150,8 +2150,8 @@
    36086
   ],
   "jp": "{voice:00090A}そうそう、メシ無い、メシ？{n}腹へってんだよな、オレ。{n}ハラヘリって感じ？　だろ？",
-  "en": "",
-  "status": ""
+  "en": "Oh yeah, got any grub? Grub? I'm starving. Totally starving, y'know? Right?",
+  "status": "done"
  },
  {
   "id": "event_2174_074EF",
@@ -2162,8 +2162,8 @@
    36104
   ],
   "jp": "{voice:000A0A}アンタ誰？",
-  "en": "",
-  "status": ""
+  "en": "Who are you?",
+  "status": "done"
  },
  {
   "id": "event_2174_074FE",
@@ -2174,8 +2174,8 @@
    36122
   ],
   "jp": "{voice:000B0A}なに言ってんだよバーカ。{n}さっき名乗ったろ、イータだよ。",
-  "en": "",
-  "status": ""
+  "en": "The hell are you on about, stupid. I told you a sec ago, I'm Eater.",
+  "status": "done"
  },
  {
   "id": "event_2174_0753A",
@@ -2186,8 +2186,8 @@
    36215
   ],
   "jp": "{voice:000C0A}もしや、二重人格では？",
-  "en": "",
-  "status": ""
+  "en": "Might this be a split personality?",
+  "status": "done"
  },
  {
   "id": "event_2174_07555",
@@ -2198,8 +2198,8 @@
    36233
   ],
   "jp": "{voice:000D0A}あ、悪い悪い、言うの忘れたわ。{n}オレ、夜になると男になんだよね。{n}よ・ろ・し・く、ってね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, my bad, forgot to say. I turn into a guy at night. Pleased to meet ya, okay?",
+  "status": "done"
  },
  {
   "id": "event_2174_075B2",
@@ -2210,8 +2210,8 @@
    36251
   ],
   "jp": "{voice:000E0A}は？",
-  "en": "",
-  "status": ""
+  "en": "What?",
+  "status": "done"
  },
  {
   "id": "event_2174_075BB",
@@ -2222,8 +2222,8 @@
    36269
   ],
   "jp": "{voice:000F0A}男！　夜になると男になるの。{n}ＯＫ？　理解した？{n}あーしかしウゼェ、この服ウゼェ…",
-  "en": "",
-  "status": ""
+  "en": "A guy! I turn into a guy at night. Okay? Got it? Man, these clothes are a pain in the ass...",
+  "status": "done"
  },
  {
   "id": "event_2174_07610",
@@ -2234,8 +2234,8 @@
    36303
   ],
   "jp": "{voice:00100A}また、変なの来ちゃったよ……",
-  "en": "",
-  "status": ""
+  "en": "Another weirdo's turned up...",
+  "status": "done"
  },
  {
   "id": "event_2174_07631",
@@ -2246,8 +2246,8 @@
    34201
   ],
   "jp": "あーら、こんなに傷を負って{n}しまいましたわ。",
-  "en": "",
-  "status": ""
+  "en": "Oh dear, I have taken such wounds.",
+  "status": "done"
  },
  {
   "id": "event_2174_0765D",
@@ -2258,7 +2258,7 @@
    34237
   ],
   "jp": "…な、何をなさいますの！{n}汚らわしい、{n}離してくださいませ！",
-  "en": "",
-  "status": ""
+  "en": "...Wh-what are you doing! You filthy thing, unhand me!",
+  "status": "done"
  }
 ]

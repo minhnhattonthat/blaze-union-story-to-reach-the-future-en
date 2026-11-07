@@ -8,8 +8,8 @@
    3487
   ],
   "jp": "{voice:00140A}正直言うと、僕は残りたかったよ。{n}女の子達と買い物したかったし。",
-  "en": "",
-  "status": ""
+  "en": "To be honest, I wanted to stay. I wanted to go shopping with the girls.",
+  "status": "done"
  },
  {
   "id": "event_2175_0006C",
@@ -20,8 +20,8 @@
    3505
   ],
   "jp": "{voice:00150A}まあ、そう言うなよ。{n}どうせ荷物持たされるだけだぜ。",
-  "en": "",
-  "status": ""
+  "en": "Don't be like that. They'd just make you carry the bags.",
+  "status": "done"
  },
  {
   "id": "event_2175_000A4",
@@ -32,8 +32,8 @@
    3526
   ],
   "jp": "{voice:00160A}それにさ、面白そうじゃないか。{n}俺達の実力を示すいい機会だ。",
-  "en": "",
-  "status": ""
+  "en": "Besides, this sounds fun. It's a good chance to show what we can do.",
+  "status": "done"
  },
  {
   "id": "event_2175_000E4",
@@ -44,8 +44,8 @@
    3608
   ],
   "jp": "{voice:00170A}団長の言う通りです。{n}勝ち残れば、グラムブレイズの{n}名も高まるでしょう。",
-  "en": "",
-  "status": ""
+  "en": "The Captain is right. If we keep winning, the Gram Blaze name will rise as well.",
+  "status": "done"
  },
  {
   "id": "event_2175_0012F",
@@ -56,8 +56,8 @@
    3615
   ],
   "jp": "{voice:00180A}ましてや、ここはソルティエ帝の{n}お膝元・帝都フレアヴェルクです。",
-  "en": "",
-  "status": ""
+  "en": "All the more so, as this is the capital Flarewerk, at Emperor Soltier's own feet.",
+  "status": "done"
  },
  {
   "id": "event_2175_00173",
@@ -68,8 +68,8 @@
    3633
   ],
   "jp": "{voice:00190A}勝者にもたらされる声望は{n}より大きなものでしょう。",
-  "en": "",
-  "status": ""
+  "en": "The renown that comes to the winner will be all the greater.",
+  "status": "done"
  },
  {
   "id": "event_2175_001A9",
@@ -80,8 +80,8 @@
    3795
   ],
   "jp": "{voice:001A0A}大会に、行きタイカイ。{n}なーんつって。てへ。",
-  "en": "",
-  "status": ""
+  "en": "Byff was tourna-meant to go. Ha, just kidding. Tee hee.",
+  "status": "done"
  },
  {
   "id": "event_2175_001D9",
@@ -92,8 +92,8 @@
    3947
   ],
   "jp": "{voice:001B0A}ふむふむ……{n}上位者には賞金も出るんだな。",
-  "en": "",
-  "status": ""
+  "en": "Hm, hm... There's prize money for the top finishers.",
+  "status": "done"
  },
  {
   "id": "event_2175_00207",
@@ -104,8 +104,8 @@
    4019
   ],
   "jp": "{voice:001C0A}僕は、もっとみんなと親睦を{n}深めたかったんだよね。",
-  "en": "",
-  "status": ""
+  "en": "I just wanted to get closer to everyone, you know.",
+  "status": "done"
  },
  {
   "id": "event_2175_0023D",
@@ -116,8 +116,8 @@
    4037
   ],
   "jp": "{voice:001D0A}みんな、じゃなくて、{n}女の子と、だろ？",
-  "en": "",
-  "status": ""
+  "en": "Not everyone. The girls, right?",
+  "status": "done"
  },
  {
   "id": "event_2175_00267",
@@ -128,8 +128,8 @@
    4058
   ],
   "jp": "{voice:001E0A}いやいやいや……",
-  "en": "",
-  "status": ""
+  "en": "No, no, no...",
+  "status": "done"
  },
  {
   "id": "event_2175_0027C",
@@ -140,8 +140,8 @@
    4151
   ],
   "jp": "{voice:001F0A}ふむ。{n}賞金を高めに設定したせいか、{n}人の集まりは良いな。",
-  "en": "",
-  "status": ""
+  "en": "Hm. Setting the prize money high seems to have drawn a good crowd.",
+  "status": "done"
  },
  {
   "id": "event_2175_002B9",
@@ -152,8 +152,8 @@
    4169
   ],
   "jp": "{voice:00200A}陛下…{n}今回の大会の意図は、一体？",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty... What is your intent with this tournament?",
+  "status": "done"
  },
  {
   "id": "event_2175_002DF",
@@ -164,8 +164,8 @@
    4187
   ],
   "jp": "{voice:00210A}在野の連中が、どれほどの力を{n}持っているのか見ておきたくてな。",
-  "en": "",
-  "status": ""
+  "en": "I want to see how much strength these commoners have.",
+  "status": "done"
  },
  {
   "id": "event_2175_00321",
@@ -176,8 +176,8 @@
    4194
   ],
   "jp": "{voice:00220A}こいつらは兵として使えるのか。{n}あるいは、帝国に刃を向けたら{n}危惧すべき戦力なのか…",
-  "en": "",
-  "status": ""
+  "en": "Whether they can be used as soldiers. Or whether they're a threat to fear if they turn on the Empire...",
+  "status": "done"
  },
  {
   "id": "event_2175_00378",
@@ -188,8 +188,8 @@
    4212
   ],
   "jp": "{voice:00230A}…もし、有能な人材がいたら？",
-  "en": "",
-  "status": ""
+  "en": "...And if there are capable people among them?",
+  "status": "done"
  },
  {
   "id": "event_2175_00399",
@@ -200,8 +200,8 @@
    4230
   ],
   "jp": "{voice:00240A}登用もありうるな。{n}有用な奴がいればの話だが。",
-  "en": "",
-  "status": ""
+  "en": "We might recruit them. If any turn out to be useful, that is.",
+  "status": "done"
  },
  {
   "id": "event_2175_003CB",
@@ -212,8 +212,8 @@
    4248
   ],
   "jp": "{voice:00250A}なるほど……",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "done"
  },
  {
   "id": "event_2175_003DC",
@@ -224,8 +224,8 @@
    4266
   ],
   "jp": "{voice:00260A}…ん？　あの赤髪、{n}どこかで見た覚えがあるな。",
-  "en": "",
-  "status": ""
+  "en": "...Hm? I've seen that redhead somewhere.",
+  "status": "done"
  },
  {
   "id": "event_2175_0040E",
@@ -236,8 +236,8 @@
    4284
   ],
   "jp": "{voice:00270A}ヴェルマン方伯の私兵共で{n}ございます。",
-  "en": "",
-  "status": ""
+  "en": "He is one of Margrave Velleman's private soldiers.",
+  "status": "done"
  },
  {
   "id": "event_2175_00438",
@@ -248,8 +248,8 @@
    4291
   ],
   "jp": "{voice:00280A}確か、グラムブレイズと{n}名乗っていたかと…",
-  "en": "",
-  "status": ""
+  "en": "They call themselves Gram Blaze, I believe...",
+  "status": "done"
  },
  {
   "id": "event_2175_00466",
@@ -260,8 +260,8 @@
    4309
   ],
   "jp": "{voice:00290A}グラムブレイズ。{n}怒れる炎か……",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze. An angry flame, is it...",
+  "status": "done"
  },
  {
   "id": "event_2175_0048A",
@@ -272,8 +272,8 @@
    4327
   ],
   "jp": "{voice:002A0A}そろそろ開始の時間でございます。",
-  "en": "",
-  "status": ""
+  "en": "It is nearly time to begin.",
+  "status": "done"
  },
  {
   "id": "event_2175_004AF",
@@ -284,8 +284,8 @@
    4475
   ],
   "jp": "{voice:002B0A}大会は、勝ち抜きの{n}トーナメント方式で執り行う。",
-  "en": "",
-  "status": ""
+  "en": "The tournament will be held in elimination format.",
+  "status": "done"
  },
  {
   "id": "event_2175_004E3",
@@ -296,8 +296,8 @@
    4482
   ],
   "jp": "{voice:002C0A}難しい事は考えなくてもいい。{n}部隊を率い、対戦相手を次々と{n}打ち負かせばいいだけだ。",
-  "en": "",
-  "status": ""
+  "en": "Don't overthink it. Lead your unit and defeat one opponent after another. That's all.",
+  "status": "done"
  },
  {
   "id": "event_2175_0053A",
@@ -308,8 +308,8 @@
    4489
   ],
   "jp": "{voice:002D0A}倒すのは、相手の隊長だけでいい。{n}隊長だけを狙うのも戦術だ。",
-  "en": "",
-  "status": ""
+  "en": "You need only defeat the enemy leader. Targeting only the leader is also a valid tactic.",
+  "status": "done"
  },
  {
   "id": "event_2175_0057A",
@@ -320,8 +320,8 @@
    4510
   ],
   "jp": "{voice:002E0A}では、これより試合を始める！{n}第一試合、ガーロット部隊②{n}前に出ろ！",
-  "en": "",
-  "status": ""
+  "en": "The matches will now begin! Match one, the Garlot Unit! Step forward!",
+  "status": "done"
  },
  {
   "id": "event_2175_005C1",
@@ -332,8 +332,8 @@
    4613
   ],
   "jp": "{voice:002F0A}お、いきなり俺達の出番か…",
-  "en": "",
-  "status": ""
+  "en": "Oh, we're up first...",
+  "status": "done"
  },
  {
   "id": "event_2175_005E0",
@@ -344,8 +344,8 @@
    4634
   ],
   "jp": "{voice:00300A}対するは、{n}インザーギ傭兵部隊！",
-  "en": "",
-  "status": ""
+  "en": "Your opponent, the Inzaghi Mercenary Unit!",
+  "status": "done"
  },
  {
   "id": "event_2175_00604",
@@ -356,8 +356,8 @@
    4968
   ],
   "jp": "{voice:00310A}げっ、こいつらが相手かよ…",
-  "en": "",
-  "status": ""
+  "en": "Ugh, I'm up against these guys...",
+  "status": "done"
  },
  {
   "id": "event_2175_00623",
@@ -368,8 +368,8 @@
    4986
   ],
   "jp": "{voice:00320A}インザーギじゃないか。{n}小銭欲しさに大会に出たのか？",
-  "en": "",
-  "status": ""
+  "en": "Hey, it's Inzaghi. You entered this for the pocket money?",
+  "status": "done"
  },
  {
   "id": "event_2175_0065B",
@@ -380,8 +380,8 @@
    5007
   ],
   "jp": "{voice:00330A}お前もそうじゃないのか？{n}きっと給金、少ないんだろ！",
-  "en": "",
-  "status": ""
+  "en": "Aren't you doing the same? Bet your pay's lousy!",
+  "status": "done"
  },
  {
   "id": "event_2175_00693",
@@ -392,8 +392,8 @@
    5028
   ],
   "jp": "{voice:00340A}肩馴らしにはちょうどいい相手だ。{n}行くぜ！",
-  "en": "",
-  "status": ""
+  "en": "He's just right for a warmup. Here we go!",
+  "status": "done"
  },
  {
   "id": "event_2175_006C1",
@@ -404,8 +404,8 @@
    5633
   ],
   "jp": "{voice:00350A}しかし、お前らもヒマだな。{n}こんな大会に出るなんて。",
-  "en": "",
-  "status": ""
+  "en": "But you've got a lot of free time, entering a tournament like this.",
+  "status": "done"
  },
  {
   "id": "event_2175_006F9",
@@ -416,8 +416,8 @@
    5651
   ],
   "jp": "{voice:00360A}だが悪いなぁ。{n}優勝するのはこの俺だってこと、{n}身体に直接教えてやるゼ②",
-  "en": "",
-  "status": ""
+  "en": "Sorry though. The winner's going to be me, and I'll teach you that the hard way!",
+  "status": "done"
  },
  {
   "id": "event_2175_00744",
@@ -428,8 +428,8 @@
    7201
   ],
   "jp": "{voice:00370A}だぁぁッ！{n}ちくしょう、また負けかよっ②",
-  "en": "",
-  "status": ""
+  "en": "Daaagh! Damn it, I lost again!",
+  "status": "done"
  },
  {
   "id": "event_2175_00770",
@@ -440,8 +440,8 @@
    7483
   ],
   "jp": "{voice:00380A}勝者、ガーロット部隊！",
-  "en": "",
-  "status": ""
+  "en": "Winner, the Garlot Unit!",
+  "status": "done"
  },
  {
   "id": "event_2175_0078B",
@@ -452,8 +452,8 @@
    7504
   ],
   "jp": "{voice:00390A}楽勝だな。{n}もっと手強い奴はいないのか③",
-  "en": "",
-  "status": ""
+  "en": "Easy win. Isn't there anyone tougher?!",
+  "status": "done"
  },
  {
   "id": "event_2175_007B7",
@@ -464,8 +464,8 @@
    7522
   ],
   "jp": "{voice:003A0A}待て、勝手に退場するな！{n}大会の超過密スケジュールにより、{n}お前達は連戦なのだ！",
-  "en": "",
-  "status": ""
+  "en": "Wait, don't leave on your own! Thanks to the tournament's packed schedule, you fight back to back!",
+  "status": "done"
  },
  {
   "id": "event_2175_0080A",
@@ -476,8 +476,8 @@
    7543
   ],
   "jp": "{voice:003B0A}なにっ③{n}トーナメントじゃなかったのか？",
-  "en": "",
-  "status": ""
+  "en": "What?! I thought this was a tournament?",
+  "status": "done"
  },
  {
   "id": "event_2175_00836",
@@ -488,8 +488,8 @@
    7564
   ],
   "jp": "{voice:003C0A}お前らの相手はシードなんだよ！{n}次の対戦相手は…{n}こ、皇帝親衛隊長のラピス様③",
-  "en": "",
-  "status": ""
+  "en": "Your opponent has a seed! Your next opponent is... Th-the Imperial Guard's Captain, Lapis-sama?!",
+  "status": "done"
  },
  {
   "id": "event_2175_00887",
@@ -500,8 +500,8 @@
    7585
   ],
   "jp": "{voice:003D0A}何ぃっ③",
-  "en": "",
-  "status": ""
+  "en": "What?!",
+  "status": "done"
  },
  {
   "id": "event_2175_00894",
@@ -512,8 +512,8 @@
    7677
   ],
   "jp": "{voice:003E0A}ええっ③",
-  "en": "",
-  "status": ""
+  "en": "Whaaat?!",
+  "status": "done"
  },
  {
   "id": "event_2175_008A1",
@@ -524,8 +524,8 @@
    7695
   ],
   "jp": "{voice:003F0A}俺が申し込んでおいたんだ。",
-  "en": "",
-  "status": ""
+  "en": "I signed you up.",
+  "status": "done"
  },
  {
   "id": "event_2175_008C0",
@@ -536,8 +536,8 @@
    7702
   ],
   "jp": "{voice:00400A}お前の力も久しぶりに見てみたい。{n}行ってこい、ラピス。",
-  "en": "",
-  "status": ""
+  "en": "It's been a while since I saw your strength too. Go on, Lapis.",
+  "status": "done"
  },
  {
   "id": "event_2175_008FA",
@@ -548,8 +548,8 @@
    7720
   ],
   "jp": "{voice:00410A}は、はぁ。ご命令とあらば……",
-  "en": "",
-  "status": ""
+  "en": "Y-yes. If you so command...",
+  "status": "done"
  },
  {
   "id": "event_2175_0091B",
@@ -560,8 +560,8 @@
    7811
   ],
   "jp": "{voice:00420A}…さて。{n}どう出るかな、赤髪？",
-  "en": "",
-  "status": ""
+  "en": "...Now then. What will you do, redhead?",
+  "status": "done"
  },
  {
   "id": "event_2175_0093D",
@@ -572,8 +572,8 @@
    8175
   ],
   "jp": "{voice:00430A}あいつには一度会っている……{n}本気で来るのか？",
-  "en": "",
-  "status": ""
+  "en": "I've met her once before... Is she coming at us for real?",
+  "status": "done"
  },
  {
   "id": "event_2175_00999",
@@ -584,8 +584,8 @@
    2454
   ],
   "jp": "ガーロット部隊",
-  "en": "",
-  "status": ""
+  "en": "Garlot Unit",
+  "status": "done"
  },
  {
   "id": "event_2175_009CE",
@@ -608,8 +608,8 @@
    2619
   ],
   "jp": "ラピス親衛隊",
-  "en": "",
-  "status": ""
+  "en": "Lapis Guard",
+  "status": "done"
  },
  {
   "id": "event_2175_00AB1",
@@ -620,8 +620,8 @@
    2734
   ],
   "jp": "バルドゥス鋼鉄騎団",
-  "en": "",
-  "status": ""
+  "en": "Baldus Steel",
+  "status": "done"
  },
  {
   "id": "event_2175_00B2A",
@@ -632,8 +632,8 @@
    2855
   ],
   "jp": "ジルヴァ",
-  "en": "",
-  "status": ""
+  "en": "Zilva",
+  "status": "done"
  },
  {
   "id": "event_2175_02070",
@@ -644,8 +644,8 @@
    9971
   ],
   "jp": "{voice:00440A}何故このような大会に……{n}私の剣は、陛下を守る為だけに{n}存在しているというのに。",
-  "en": "",
-  "status": ""
+  "en": "Why am I in a tournament like this... My sword exists solely to protect His Majesty.",
+  "status": "done"
  },
  {
   "id": "event_2175_020C3",
@@ -656,8 +656,8 @@
    11518
   ],
   "jp": "{voice:00450A}私が、負けた……",
-  "en": "",
-  "status": ""
+  "en": "I lost...",
+  "status": "done"
  },
  {
   "id": "event_2175_020D8",
@@ -668,8 +668,8 @@
    11536
   ],
   "jp": "{voice:00460A}侮りがあったのは認めよう。{n}しかし、グラムブレイズ……{n}以前よりも力を付けているようだ。",
-  "en": "",
-  "status": ""
+  "en": "I admit I took you lightly. Still, Gram Blaze... you have grown stronger than before.",
+  "status": "done"
  },
  {
   "id": "event_2175_02133",
@@ -680,8 +680,8 @@
    11597
   ],
   "jp": "{voice:00470A}ラピス、もういいぞ。{n}戻れ。",
-  "en": "",
-  "status": ""
+  "en": "That's enough, Lapis. Come back.",
+  "status": "done"
  },
  {
   "id": "event_2175_02153",
@@ -692,8 +692,8 @@
    11615
   ],
   "jp": "{voice:00480A}はっ……、申し訳ありません。",
-  "en": "",
-  "status": ""
+  "en": "Yes... My apologies.",
+  "status": "done"
  },
  {
   "id": "event_2175_02174",
@@ -704,8 +704,8 @@
    11941
   ],
   "jp": "{voice:00490A}勝者、ガーロット部隊！",
-  "en": "",
-  "status": ""
+  "en": "Winner, the Garlot Unit!",
+  "status": "done"
  },
  {
   "id": "event_2175_0218F",
@@ -716,8 +716,8 @@
    11962
   ],
   "jp": "{voice:004A0A}さすがは親衛隊長だな……{n}危なかったぜ。",
-  "en": "",
-  "status": ""
+  "en": "That's the Imperial Guard's Captain for you... That was close.",
+  "status": "done"
  },
  {
   "id": "event_2175_021BB",
@@ -728,8 +728,8 @@
    11983
   ],
   "jp": "{voice:004B0A}よし、残すはあと１試合だ！{n}ガーロット部隊、前に出ろ！",
-  "en": "",
-  "status": ""
+  "en": "Right, one match left! Garlot Unit, step forward!",
+  "status": "done"
  },
  {
   "id": "event_2175_021F5",
@@ -740,8 +740,8 @@
    12004
   ],
   "jp": "{voice:004C0A}何っ、俺達は３連戦じゃねぇか！{n}そんなのアリかよ？",
-  "en": "",
-  "status": ""
+  "en": "What, that makes three in a row for us! Is that even allowed?",
+  "status": "done"
  },
  {
   "id": "event_2175_0222B",
@@ -752,8 +752,8 @@
    12022
   ],
   "jp": "{voice:004D0A}お前達が長々と戦っていたために{n}他の試合は既に終わったのだ！",
-  "en": "",
-  "status": ""
+  "en": "You took so long fighting that all the other matches are already over!",
+  "status": "done"
  },
  {
   "id": "event_2175_0226B",
@@ -764,8 +764,8 @@
    12106
   ],
   "jp": "{voice:004E0A}では決勝戦を開始する。{n}対戦相手は…、ん？",
-  "en": "",
-  "status": ""
+  "en": "Now the final match begins. Your opponent is... Hm?",
+  "status": "done"
  },
  {
   "id": "event_2175_02299",
@@ -776,8 +776,8 @@
    12127
   ],
   "jp": "{voice:004F0A}…ば、ば、バルドゥス将軍③",
-  "en": "",
-  "status": ""
+  "en": "...G-G-General Baldus?!",
+  "status": "done"
  },
  {
   "id": "event_2175_022B8",
@@ -788,8 +788,8 @@
    12145
   ],
   "jp": "{voice:00500A}将軍③{n}なんだかすげぇ大会だぜ……",
-  "en": "",
-  "status": ""
+  "en": "A general?! This tournament's something else...",
+  "status": "done"
  },
  {
   "id": "event_2175_022DE",
@@ -800,8 +800,8 @@
    12478
   ],
   "jp": "{voice:00510A}正規軍たる我々が、このような{n}ふざけた試合で全力を出せるか…",
-  "en": "",
-  "status": ""
+  "en": "How could we of the regular army give our all in such a farcical match...",
+  "status": "done"
  },
  {
   "id": "event_2175_0231E",
@@ -812,8 +812,8 @@
    12581
   ],
   "jp": "{voice:00520A}決勝の対戦相手は、{n}自由参戦枠のジルヴァ部隊！",
-  "en": "",
-  "status": ""
+  "en": "Your opponent in the final, the Zilva Unit, from the open entry bracket!",
+  "status": "done"
  },
  {
   "id": "event_2175_02350",
@@ -824,8 +824,8 @@
    12602
   ],
   "jp": "{voice:00530A}ジルヴァ？{n}もしかして、あのジルヴァか③",
-  "en": "",
-  "status": ""
+  "en": "Zilva? Could that be the Zilva?!",
+  "status": "done"
  },
  {
   "id": "event_2175_0237C",
@@ -836,8 +836,8 @@
    12977
   ],
   "jp": "{voice:00540A}赤髪か…、{n}ここで会うとは奇遇だな。",
-  "en": "",
-  "status": ""
+  "en": "Redhead... How strange, meeting you here.",
+  "status": "done"
  },
  {
   "id": "event_2175_023A4",
@@ -848,8 +848,8 @@
    12998
   ],
   "jp": "{voice:00550A}お前こそ、どうして…",
-  "en": "",
-  "status": ""
+  "en": "What about you, why are you...",
+  "status": "done"
  },
  {
   "id": "event_2175_023BD",
@@ -860,8 +860,8 @@
    13019
   ],
   "jp": "{voice:00560A}今の私では、戦いの中でしか、{n}生きる意味や価値を見い出せない。{n}そう思ったからだ。",
-  "en": "",
-  "status": ""
+  "en": "As I am now, I can only find a reason and worth to live in battle. So I thought.",
+  "status": "done"
  },
  {
   "id": "event_2175_02412",
@@ -872,8 +872,8 @@
    13037
   ],
   "jp": "{voice:00570A}間違いだろうか？",
-  "en": "",
-  "status": ""
+  "en": "Am I mistaken?",
+  "status": "done"
  },
  {
   "id": "event_2175_02427",
@@ -884,8 +884,8 @@
    13055
   ],
   "jp": "{voice:00580A}いや。{n}生きていてくれて、嬉しいぜ。",
-  "en": "",
-  "status": ""
+  "en": "No. I'm glad you're alive.",
+  "status": "done"
  },
  {
   "id": "event_2175_0244F",
@@ -908,8 +908,8 @@
    13091
   ],
   "jp": "{voice:00590A}赤髪、良い戦いにしよう……",
-  "en": "",
-  "status": ""
+  "en": "Redhead, let this be a good fight...",
+  "status": "done"
  },
  {
   "id": "event_2175_033A4",
@@ -920,8 +920,8 @@
    16215
   ],
   "jp": "{voice:005A0A}せっかくここまで来たんだ…{n}優勝しないとな。",
-  "en": "",
-  "status": ""
+  "en": "We came all this way... We've got to win it.",
+  "status": "done"
  },
  {
   "id": "event_2175_033D4",
@@ -932,8 +932,8 @@
    17833
   ],
   "jp": "{voice:005B0A}……敗れたか。",
-  "en": "",
-  "status": ""
+  "en": "...Defeated, am I.",
+  "status": "done"
  },
  {
   "id": "event_2175_033E7",
@@ -944,8 +944,8 @@
    17851
   ],
   "jp": "{voice:005C0A}なかなかの練度だ。{n}褒めてやろう、赤髪の小僧よ。",
-  "en": "",
-  "status": ""
+  "en": "Not bad training. You have my praise, red-haired boy.",
+  "status": "done"
  },
  {
   "id": "event_2175_0341B",
@@ -956,8 +956,8 @@
    18070
   ],
   "jp": "{voice:005D0A}あいつ、手を抜いてやがったな。{n}なんだか釈然としないぜ……",
-  "en": "",
-  "status": ""
+  "en": "That guy was holding back. It doesn't sit right with me...",
+  "status": "done"
  },
  {
   "id": "event_2175_03459",
@@ -968,8 +968,8 @@
    18180
   ],
   "jp": "{voice:005E0A}ば、バルドゥス将軍が{n}敗れるとは……",
-  "en": "",
-  "status": ""
+  "en": "F-for General Baldus to lose...",
+  "status": "done"
  },
  {
   "id": "event_2175_03481",
@@ -980,8 +980,8 @@
    18198
   ],
   "jp": "{voice:005F0A}ゆ、優勝はガーロット部隊②",
-  "en": "",
-  "status": ""
+  "en": "Th-the winner is the Garlot Unit!",
+  "status": "done"
  },
  {
   "id": "event_2175_034A0",
@@ -992,8 +992,8 @@
    19185
   ],
   "jp": "{voice:00600A}まさか優勝しちゃうとはね…",
-  "en": "",
-  "status": ""
+  "en": "I can't believe we actually won...",
+  "status": "done"
  },
  {
   "id": "event_2175_034BF",
@@ -1004,8 +1004,8 @@
    19203
   ],
   "jp": "{voice:00610A}なに言ってんだ？{n}出るからには、優勝目指さないで{n}どうする？",
-  "en": "",
-  "status": ""
+  "en": "What are you talking about? If you enter, you aim to win, don't you?",
+  "status": "done"
  },
  {
   "id": "event_2175_034FE",
@@ -1016,8 +1016,8 @@
    19221
   ],
   "jp": "{voice:00620A}負けるよりはよほどいい。{n}さすがですね、団長。",
-  "en": "",
-  "status": ""
+  "en": "Far better than losing. Well done, Captain.",
+  "status": "done"
  },
  {
   "id": "event_2175_03530",
@@ -1028,8 +1028,8 @@
    19239
   ],
   "jp": "{voice:00630A}これでグラムブレイズの声望は{n}ますます上がる事でしょう。",
-  "en": "",
-  "status": ""
+  "en": "This will further raise Gram Blaze's renown.",
+  "status": "done"
  },
  {
   "id": "event_2175_0356C",
@@ -1040,8 +1040,8 @@
    19257
   ],
   "jp": "{voice:00640A}えーっと、その件なんだけど……",
-  "en": "",
-  "status": ""
+  "en": "Um, about that...",
+  "status": "done"
  },
  {
   "id": "event_2175_0358F",
@@ -1052,8 +1052,8 @@
    19264
   ],
   "jp": "{voice:00650A}君さ、大会参加を申請したとき、{n}ガーロット部隊って書いたよね？",
-  "en": "",
-  "status": ""
+  "en": "When you applied to enter, you wrote 'Garlot Unit', didn't you?",
+  "status": "done"
  },
  {
   "id": "event_2175_035D1",
@@ -1064,8 +1064,8 @@
    19282
   ],
   "jp": "{voice:00660A}大会中、グラムブレイズの名前、{n}一度も出てなかったよ。",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze's name never came up once during the tournament.",
+  "status": "done"
  },
  {
   "id": "event_2175_0360B",
@@ -1076,8 +1076,8 @@
    19344
   ],
   "jp": "{voice:00670A}あ……",
-  "en": "",
-  "status": ""
+  "en": "Ah...",
+  "status": "done"
  },
  {
   "id": "event_2175_03616",
@@ -1088,8 +1088,8 @@
    19362
   ],
   "jp": "{voice:00680A}これだよ。計画倒れってやつ？",
-  "en": "",
-  "status": ""
+  "en": "There you go. The whole plan's a bust.",
+  "status": "done"
  },
  {
   "id": "event_2175_03637",
@@ -1100,8 +1100,8 @@
    19380
   ],
   "jp": "{voice:00690A}では、団長の名前だけが{n}有名になったわけですか。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "So only the Captain's name has become famous. Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2175_03674",
@@ -1112,8 +1112,8 @@
    19398
   ],
   "jp": "{voice:006A0A}しまった…、どうしよう。",
-  "en": "",
-  "status": ""
+  "en": "Oh crap... What do I do?",
+  "status": "done"
  },
  {
   "id": "event_2175_03691",
@@ -1124,8 +1124,8 @@
    19416
   ],
   "jp": "{voice:006B0A}もう、どうしようもない事{n}なんだけどね。",
-  "en": "",
-  "status": ""
+  "en": "There's really nothing to be done at this point.",
+  "status": "done"
  },
  {
   "id": "event_2175_036BD",
@@ -1136,8 +1136,8 @@
    16286
   ],
   "jp": "{voice:006C0A}さあ来い、ジルヴァ！",
-  "en": "",
-  "status": ""
+  "en": "Come on, Zilva!",
+  "status": "done"
  },
  {
   "id": "event_2175_036D6",
@@ -1148,8 +1148,8 @@
    18373
   ],
   "jp": "{voice:006D0A}模擬戦とはいえ、{n}お前達と戦う事に、{n}私はどこか抵抗を覚えていた。",
-  "en": "",
-  "status": ""
+  "en": "Even in a mock battle, some part of me resisted fighting you.",
+  "status": "done"
  },
  {
   "id": "event_2175_0371B",
@@ -1160,8 +1160,8 @@
    18380
   ],
   "jp": "{voice:006E0A}今まで感じた事の無い感情。{n}それが私の中で{n}次第に大きくなるのを感じる。",
-  "en": "",
-  "status": ""
+  "en": "A feeling I have never felt before. I can feel it growing inside me, little by little.",
+  "status": "done"
  },
  {
   "id": "event_2175_03766",
@@ -1172,8 +1172,8 @@
    18398
   ],
   "jp": "{voice:006F0A}…これも、私の中の何かが{n}変わったと言えるのだろうか…",
-  "en": "",
-  "status": ""
+  "en": "...Does this too mean that something in me has changed...",
+  "status": "done"
  },
  {
   "id": "event_2175_037A0",
@@ -1184,8 +1184,8 @@
    18642
   ],
   "jp": "{voice:00700A}優勝は、ガーロット部隊！",
-  "en": "",
-  "status": ""
+  "en": "The winner is the Garlot Unit!",
+  "status": "done"
  },
  {
   "id": "event_2175_037BD",
@@ -1196,8 +1196,8 @@
    18660
   ],
   "jp": "{voice:00710A}大丈夫か？{n}手を貸せ、ジルヴァ？",
-  "en": "",
-  "status": ""
+  "en": "You okay? Need a hand, Zilva?",
+  "status": "done"
  },
  {
   "id": "event_2175_037E1",
@@ -1208,8 +1208,8 @@
    18678
   ],
   "jp": "{voice:00720A}……感謝する。",
-  "en": "",
-  "status": ""
+  "en": "...I am grateful.",
+  "status": "done"
  },
  {
   "id": "event_2175_037F4",
@@ -1220,8 +1220,8 @@
    19635
   ],
   "jp": "{voice:00730A}……赤髪、ちょっといいか？",
-  "en": "",
-  "status": ""
+  "en": "...Redhead, may I have a moment?",
+  "status": "done"
  },
  {
   "id": "event_2175_03813",
@@ -1232,8 +1232,8 @@
    19653
   ],
   "jp": "{voice:00740A}ああ、構わないぜ。{n}負け惜しみを言いに来たのか？",
-  "en": "",
-  "status": ""
+  "en": "Yeah, sure. You come to be a sore loser?",
+  "status": "done"
  },
  {
   "id": "event_2175_03847",
@@ -1244,8 +1244,8 @@
    19671
   ],
   "jp": "{voice:00750A}いや、そうではない。",
-  "en": "",
-  "status": ""
+  "en": "No. That is not it.",
+  "status": "done"
  },
  {
   "id": "event_2175_03860",
@@ -1256,8 +1256,8 @@
    19678
   ],
   "jp": "{voice:00760A}お前達と再び戦って、{n}やはり、私には理解できない{n}ものがあるとわかった。",
-  "en": "",
-  "status": ""
+  "en": "Fighting you once more, I learned there is still something I cannot understand.",
+  "status": "done"
  },
  {
   "id": "event_2175_038AB",
@@ -1268,8 +1268,8 @@
    19696
   ],
   "jp": "{voice:00770A}それは、仲間だ。{n}共に戦う仲間というものが、{n}私にはよくわからない。",
-  "en": "",
-  "status": ""
+  "en": "That is, comrades. Comrades who fight together. I do not really understand what they are.",
+  "status": "done"
  },
  {
   "id": "event_2175_038F2",
@@ -1280,8 +1280,8 @@
    19714
   ],
   "jp": "{voice:00780A}神生教団で戦っていた頃は、{n}目的と敵を共有するだけの{n}存在に過ぎなかった。",
-  "en": "",
-  "status": ""
+  "en": "When I fought for the Blessed Papal Army, they were only people who shared my goals and enemies.",
+  "status": "done"
  },
  {
   "id": "event_2175_0393F",
@@ -1292,8 +1292,8 @@
    19732
   ],
   "jp": "{voice:00790A}だが、お前達は違うように見える。{n}一体仲間とはなんなのだ？",
-  "en": "",
-  "status": ""
+  "en": "But you seem different. What exactly is a comrade?",
+  "status": "done"
  },
  {
   "id": "event_2175_0397D",
@@ -1304,8 +1304,8 @@
    19807
   ],
   "jp": "{voice:007A0A}仲間の定義か、難しい命題だね。",
-  "en": "",
-  "status": ""
+  "en": "The definition of a comrade, is it? That's a tough proposition.",
+  "status": "done"
  },
  {
   "id": "event_2175_039A0",
@@ -1316,8 +1316,8 @@
    19825
   ],
   "jp": "{voice:007B0A}悪い、わからねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Sorry, I don't know.",
+  "status": "done"
  },
  {
   "id": "event_2175_039B7",
@@ -1328,8 +1328,8 @@
    19843
   ],
   "jp": "{voice:007C0A}ん？",
-  "en": "",
-  "status": ""
+  "en": "Hm?",
+  "status": "done"
  },
  {
   "id": "event_2175_039C0",
@@ -1340,8 +1340,8 @@
    19861
   ],
   "jp": "{voice:007D0A}ただ、頭ひねって出てくる答えは{n}どれも違うんじゃないかな？",
-  "en": "",
-  "status": ""
+  "en": "It's just, any answer you come up with by thinking too hard is probably wrong, you know?",
+  "status": "done"
  },
  {
   "id": "event_2175_039FE",
@@ -1352,8 +1352,8 @@
    19879
   ],
   "jp": "{voice:007E0A}理論じゃない、気持ちなんだ。",
-  "en": "",
-  "status": ""
+  "en": "It's not theory, it's a feeling.",
+  "status": "done"
  },
  {
   "id": "event_2175_03A1F",
@@ -1364,8 +1364,8 @@
    19897
   ],
   "jp": "{voice:007F0A}…私を、お前達の仲間に{n}加えてもらえないだろうか？",
-  "en": "",
-  "status": ""
+  "en": "...Would you take me in as one of your comrades?",
+  "status": "done"
  },
  {
   "id": "event_2175_03A55",
@@ -1376,8 +1376,8 @@
    19986
   ],
   "jp": "{voice:00800A}それは……",
-  "en": "",
-  "status": ""
+  "en": "Well...",
+  "status": "done"
  },
  {
   "id": "event_2175_03A64",
@@ -1388,8 +1388,8 @@
    20004
   ],
   "jp": "{voice:00810A}身勝手な話だと思う。{n}私は何度も、お前達を殺そうと{n}したんだからな。",
-  "en": "",
-  "status": ""
+  "en": "I know it is selfish. I tried to kill you many times.",
+  "status": "done"
  },
  {
   "id": "event_2175_03AAB",
@@ -1400,8 +1400,8 @@
    20022
   ],
   "jp": "{voice:00820A}難しい問題だと思う。",
-  "en": "",
-  "status": ""
+  "en": "I know it is a hard question.",
+  "status": "done"
  },
  {
   "id": "event_2175_03AC4",
@@ -1412,8 +1412,8 @@
    20029
   ],
   "jp": "{voice:00830A}だけど、お前達のそばにいたら{n}生きる目的が見つかりそうな{n}そんな感じがする。",
-  "en": "",
-  "status": ""
+  "en": "But I feel that if I stay near you, I may find a purpose for living.",
+  "status": "done"
  },
  {
   "id": "event_2175_03B13",
@@ -1424,8 +1424,8 @@
    20047
   ],
   "jp": "{voice:00840A}なにも難しい問題じゃない。{n}いいよ、仲間になろう。",
-  "en": "",
-  "status": ""
+  "en": "That's not hard at all. Sure, you can be one of us.",
+  "status": "done"
  },
  {
   "id": "event_2175_03B49",
@@ -1448,8 +1448,8 @@
    20083
   ],
   "jp": "{voice:00850A}そうさ、問題ないと思うよ。{n}アイギナやルシエナも、君個人を{n}怨んでいるわけじゃないしね。",
-  "en": "",
-  "status": ""
+  "en": "Yes, I don't see any problem. Aegina and Luciana don't hold a grudge against you personally, either.",
+  "status": "done"
  },
  {
   "id": "event_2175_03BAF",
@@ -1460,8 +1460,8 @@
    20101
   ],
   "jp": "{voice:00860A}……礼を言う、赤髪。",
-  "en": "",
-  "status": ""
+  "en": "...You have my thanks, redhead.",
+  "status": "done"
  },
  {
   "id": "event_2175_03BC8",
@@ -1472,8 +1472,8 @@
    20119
   ],
   "jp": "{voice:00870A}いや、仲間になるなら、{n}この呼び方はよくないな。",
-  "en": "",
-  "status": ""
+  "en": "No, if I am to be a comrade, I should not call you that.",
+  "status": "done"
  },
  {
   "id": "event_2175_03BFC",
@@ -1484,8 +1484,8 @@
    20236
   ],
   "jp": "{voice:00880A}なんでもいいさ。",
-  "en": "",
-  "status": ""
+  "en": "Whatever's fine.",
+  "status": "done"
  },
  {
   "id": "event_2175_03C11",
@@ -1496,8 +1496,8 @@
    20254
   ],
   "jp": "{voice:00890A}お兄ちゃん、ってのはどう？",
-  "en": "",
-  "status": ""
+  "en": "How about 'Big Brother'?",
+  "status": "done"
  },
  {
   "id": "event_2175_03C30",
@@ -1508,8 +1508,8 @@
    20272
   ],
   "jp": "{voice:008A0A}お、おにいちゃん？",
-  "en": "",
-  "status": ""
+  "en": "B-big... brother?",
+  "status": "done"
  },
  {
   "id": "event_2175_03C47",
@@ -1520,8 +1520,8 @@
    20290
   ],
   "jp": "{voice:008B0A}やめろって！{n}ジルヴァなら本気にするだろ②",
-  "en": "",
-  "status": ""
+  "en": "Knock it off! Zilva'll take that seriously!",
+  "status": "done"
  },
  {
   "id": "event_2175_03C75",
@@ -1532,8 +1532,8 @@
    20379
   ],
   "jp": "{voice:008C0A}おにいちゃん…",
-  "en": "",
-  "status": ""
+  "en": "Big brother...",
+  "status": "done"
  },
  {
   "id": "event_2175_03C88",
@@ -1544,8 +1544,8 @@
    20397
   ],
   "jp": "{voice:008D0A}いいじゃないか、お兄ちゃん！",
-  "en": "",
-  "status": ""
+  "en": "Why not, Big Brother!",
+  "status": "done"
  },
  {
   "id": "event_2175_03CA9",
@@ -1556,8 +1556,8 @@
    20415
   ],
   "jp": "{voice:008E0A}だから、やめろー②",
-  "en": "",
-  "status": ""
+  "en": "I said knock it off!",
+  "status": "done"
  },
  {
   "id": "event_2175_03CC0",
@@ -1568,7 +1568,7 @@
    20433
   ],
   "jp": "{voice:008F0A}…これが、仲間か……{n}温かいんだな。",
-  "en": "",
-  "status": ""
+  "en": "...So this is what comrades are... It is warm.",
+  "status": "done"
  }
 ]
