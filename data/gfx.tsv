@@ -807,3 +807,452 @@
 1771@36ad0	100,408,130,10	panel-r	// 狂風のネルガー	// Nergar of the Mad Wind
 1771@36ad0	4,418,94,11	panel	ヴァイス	Vice
 1771@36ad0	100,418,130,11	panel-r	// 加護のレティオル	// Retiol of Protection
+# Effect and trait lines with an icon (white, 3@14d300-1779a0); the icon stays, English after it
+3@14d300	18,0,110,16	menu	アイテム図鑑閲覧OK	Unlocks Item Encyclopedia
+3@14deb0	18,0,122,16	menu	キャライラスト閲覧OK	Unlocks Character Art
+3@14e400	18,0,122,16	menu	サウンドモード閲覧OK	Unlocks Sound Mode
+3@14e980	18,0,110,16	menu	ブレイズ戦記閲覧OK	Unlocks Blaze Chronicle
+3@14ee90	18,0,82,16	menu	TECが1になる	TEC becomes 1
+3@14f280	18,0,104,16	menu	ヴァルキリーに弱い	Weak to Valkyries
+3@14f750	18,0,104,16	menu	ウンディーネに弱い	Weak to Undines
+3@14fc50	18,0,100,16	menu	クリティカル率0%	Critical rate 0%
+3@150170	18,0,115,16	menu	グリフライダーに弱い	Weak to Griffon Riders
+3@1506e0	18,0,59,16	menu	ゲージ消耗	Drains Gauge
+3@150a50	18,0,94,16	menu	しばらく移動不可	Can't move for a while
+3@150ea0	18,0,82,16	menu	スキル使用不可	Can't use Skills
+3@151330	18,0,115,16	menu	ネクロマンサーに弱い	Weak to Necromancers
+3@151880	18,0,82,16	menu	ハンターに弱い	Weak to Hunters
+3@151cd0	18,0,82,16	menu	暗黒攻撃に弱い	Weak to Dark attacks
+3@152140	18,0,104,16	menu	移動タイプが鈍足に	Move type: Slow
+3@152630	18,0,82,16	menu	移動で士気低下	Moving lowers Morale
+3@152a80	18,0,82,16	menu	火炎攻撃に弱い	Weak to Fire attacks
+3@152f10	18,0,104,16	menu	弓系ユニットに弱い	Weak to archer units
+3@1533e0	18,0,82,16	menu	砂漠地形が苦手	Poor in Desert
+3@153870	18,0,93,16	menu	少しずつ士気低下	Morale slowly drops
+3@153cc0	18,0,78,16	menu	消費移動力2倍	Move cost doubled
+3@154090	18,0,93,16	menu	食べてATKダウン	Eat: ATK down
+3@1544e0	18,0,95,16	menu	食べてGENダウン	Eat: GEN down
+3@154950	18,0,94,16	menu	食べてLUKダウン	Eat: LUK down
+3@154dc0	18,0,92,16	menu	食べてTECダウン	Eat: TEC down
+3@155210	18,0,82,16	menu	森林地形が苦手	Poor in Forest
+3@155660	18,0,82,16	menu	神聖攻撃に弱い	Weak to Holy attacks
+3@155ab0	18,0,71,16	menu	装備変更不可	Can't change equipment
+3@155ef0	18,0,101,16	menu	全ユニットに弱い	Weak to all units
+3@1563c0	18,0,82,16	menu	昼間は昏睡状態	Asleep in the Day
+3@156810	18,0,48,16	menu	反撃不可	Can't counter
+3@156b10	18,0,119,16	menu	被クリティカル率50%	Takes Criticals 50%
+3@157060	18,0,82,16	menu	雷撃攻撃に弱い	Weak to Lightning
+3@1574b0	18,0,82,16	menu	冷気攻撃に弱い	Weak to Cold attacks
+3@157920	18,0,91,16	menu	POW25%アップ	POW +25%
+3@157d90	18,0,91,16	menu	POW50%アップ	POW +50%
+3@158210	18,0,116,16	menu	アイテムを奪われない	Items can't be stolen
+3@158790	18,0,105,16	menu	オブジェクト破壊可	Can destroy objects
+3@158c90	18,0,93,16	menu	クリティカル回避	Evades Criticals
+3@159110	18,0,108,16	menu	クリティカル率50%	Critical rate 50%
+3@159620	18,0,115,16	menu	グリフライダーに強い	Strong vs. Griffon Riders
+3@159ba0	18,0,120,16	menu	ゲージ/レート高速蓄積	Gauge/Rate fills fast
+3@15a120	18,0,97,16	menu	ゲージ/レート蓄積	Gauge/Rate fills
+3@15a590	18,0,96,16	menu	ゲージMAXになる	Fills the Gauge
+3@15aa00	18,0,82,16	menu	ゴーレムに強い	Strong vs. Golems
+3@15add0	18,0,101,16	menu	スキル持続時間2倍	Skill duration x2
+3@15b2a0	18,0,93,16	menu	スケルトンに強い	Strong vs. Skeletons
+3@15b6f0	18,0,104,16	menu	ステータス異常回復	Cures ailments
+3@15bbc0	18,0,105,16	menu	ステータス異常無効	Immune to ailments
+3@15c090	18,0,104,16	menu	どこでも地形スキル	Terrain Skills anywhere
+3@15c560	18,0,93,16	menu	ドラゴン系に強い	Strong vs. dragons
+3@15c9d0	18,0,82,16	menu	ナイト系に強い	Strong vs. knights
+3@15cda0	18,0,71,16	menu	パニック回避	Avoids Panic
+3@15d170	18,0,71,16	menu	まれに猛反撃	Rare fierce counter
+3@15d570	18,0,93,16	menu	レート上昇を抑制	Curbs the Rate
+3@15d9c0	18,0,82,16	menu	暗黒以外を無効	Immune to all but Dark
+3@15de10	18,0,82,16	menu	暗黒攻撃は無効	Immune to Dark attacks
+3@15e280	18,0,94,16	menu	暗黒攻撃力アップ	Dark attacks up
+3@15e6f0	18,0,82,16	menu	一騎討ちで必勝	Always wins one-on-one
+3@15eb40	18,0,71,16	menu	一度だけ再起	Revives once
+3@15ef10	18,0,82,16	menu	火炎攻撃は無効	Immune to Fire attacks
+3@15f380	18,0,94,16	menu	火炎攻撃力アップ	Fire attacks up
+3@15f7d0	18,0,73,16	menu	獲得経験値+1	EXP gained +1
+3@15fba0	18,0,74,16	menu	獲得経験値+2	EXP gained +2
+3@15ff70	18,0,74,16	menu	獲得経験値+3	EXP gained +3
+3@160340	18,0,93,16	menu	確実に戦利品出現	Spoils always appear
+3@1607c0	18,0,104,16	menu	弓系ユニットに強い	Strong vs. archer units
+3@160c90	18,0,82,16	menu	荒野地形が得意	Good in Wasteland
+3@1610e0	18,0,82,16	menu	砂漠地形が得意	Good in Desert
+3@161530	18,0,105,16	menu	士気ダメージ最大化	Max Morale damage
+3@161a00	18,0,96,16	menu	時々ゲージMAXに	Sometimes fills Gauge
+3@161e50	18,0,71,16	menu	集落破壊が可	Can destroy villages
+3@162220	18,0,70,16	menu	瞬間チャージ	Instant charge
+3@1625f0	18,0,82,16	menu	徐々に士気回復	Morale recovers slowly
+3@162a40	18,0,82,16	menu	勝利で士気吸収	Wins drain Morale
+3@162ec0	18,0,93,16	menu	少しずつ士気回復	Morale recovers a little
+3@163330	18,0,94,16	menu	食べてATKアップ	Eat: ATK up
+3@1637a0	18,0,96,16	menu	食べてGENアップ	Eat: GEN up
+3@163c30	18,0,94,16	menu	食べてLUKアップ	Eat: LUK up
+3@1640c0	18,0,93,16	menu	食べてTECアップ	Eat: TEC up
+3@164530	18,0,105,16	menu	食べて何かがアップ	Eat: something up
+3@164a20	18,0,105,16	menu	食べて全能力アップ	Eat: all stats up
+3@164ef0	18,0,82,16	menu	森林地形が得意	Good in Forest
+3@165340	18,0,82,16	menu	神聖攻撃は無効	Immune to Holy attacks
+3@1657b0	18,0,94,16	menu	神聖攻撃力アップ	Holy attacks up
+3@165c00	18,0,82,16	menu	水辺で士気回復	Morale recovers by water
+3@166050	18,0,104,16	menu	水辺で地形スキル可	Terrain Skills by water
+3@166520	18,0,82,16	menu	水辺地形が得意	Good at Waterside
+3@166970	18,0,82,16	menu	全属性攻撃無効	Immune to all elements
+3@166dc0	18,0,93,16	menu	全属性攻撃力絶大	All elements hugely up
+3@167210	18,0,104,16	menu	全地形効果に+10%	All terrain effects +10%
+3@1676e0	18,0,105,16	menu	全地形効果に+20%	All terrain effects +20%
+3@167bb0	18,0,101,16	menu	相手の地形効果0%	Foe's terrain effect 0%
+3@1680a0	18,0,104,16	menu	退却ペナルティなし	No Retreat Penalty
+3@168570	18,0,59,16	menu	昼間が得意	Good in the Day
+3@1688c0	18,0,104,16	menu	昼間移動で士気回復	Day moves restore Morale
+3@168d90	18,0,93,16	menu	投石を完全ガード	Blocks catapult stones
+3@169200	18,0,105,16	menu	特定アイテムが反応	Reacts to certain items
+3@1696d0	18,0,93,16	menu	毒沼地形を無効化	Ignores Poison Swamp
+3@169b20	18,0,93,16	menu	突撃を完全ガード	Fully blocks Charges
+3@169f70	18,0,93,16	menu	反撃を完全ガード	Fully blocks counters
+3@16a3c0	18,0,104,16	menu	必ずエースになれる	Always becomes Ace
+3@16a890	18,0,59,16	menu	夜間が得意	Good at Night
+3@16abe0	18,0,104,16	menu	夜間移動で士気回復	Night moves restore Morale
+3@16b0b0	18,0,59,16	menu	夕方が得意	Good in the Evening
+3@16b400	18,0,104,16	menu	夕方移動で士気回復	Evening moves restore Morale
+3@16b8d0	18,0,82,16	menu	雷撃攻撃は無効	Immune to Lightning
+3@16bd40	18,0,94,16	menu	雷撃攻撃力アップ	Lightning attacks up
+3@16c190	18,0,82,16	menu	冷気攻撃は無効	Immune to Cold attacks
+3@16c600	18,0,94,16	menu	冷気攻撃力アップ	Cold attacks up
+3@16ca50	18,0,82,16	menu	劣勢で士気回復	Morale recovers when losing
+3@16cec0	18,0,82,16	menu	連戦ハンデなし	No Streak Handicap
+3@16d330	18,0,104,16	menu	移動タイプが騎馬に	Move type: Cavalry
+3@16d820	18,0,104,16	menu	移動タイプが水棲に	Move type: Aquatic
+3@16dd10	18,0,104,16	menu	移動タイプが転移に	Move type: Teleport
+3@16e200	18,0,104,16	menu	移動タイプが飛行に	Move type: Flying
+3@16e6f0	18,0,104,16	menu	移動タイプが竜騎に	Move type: Dragon
+3@16ebc0	18,0,71,16	menu	士気回復専用	Morale recovery only
+3@16ef90	18,0,86,16	menu	常時Aggressive	Always Aggressive
+3@16f3e0	18,0,90,16	menu	全地形効果を0%	All terrain effects 0%
+3@16f850	18,0,93,16	menu	地形に影響しない	Unaffected by terrain
+3@16fcc0	18,0,93,16	menu	同ダメージで反撃	Counters equal damage
+3@1720c0	18,0,116,16	menu	デュエル直後も移動可	Can move after a Duel
+3@172610	18,0,105,16	menu	ネクロゲートを強化	Boosts Necro Gate
+3@172ae0	18,0,71,16	menu	ネシアに強い	Strong vs. Nessiah
+3@173630	18,0,115,16	menu	街道・架橋地形が得意	Good on Road and Bridge
+3@173b00	18,0,104,16	menu	弓突撃を完全ガード	Fully blocks arrow Charges
+3@173fd0	18,0,104,16	menu	強攻撃ダメージ補正	Strong Attack damage up
+3@1744a0	18,0,104,16	menu	強攻撃の頻度が増加	More Strong Attacks
+3@174970	18,0,105,16	menu	強攻撃の頻度が激増	Far more Strong Attacks
+3@174e40	18,0,104,16	menu	砂漠移動制限を無視	Ignores Desert move limit
+3@175310	18,0,93,16	menu	極限で士気全回復	Full Morale at the brink
+3@175760	18,0,105,16	menu	吹雪ダメージは無効	Immune to blizzards
+3@175c60	18,0,114,16	menu	水辺にいる敵に強い	Strong vs. foes by water
+3@176200	18,0,115,16	menu	雪道・雪原地形が得意	Good on snowy terrain
+3@1766d0	18,0,93,16	menu	全ての地形が得意	Good on all terrain
+3@176b40	18,0,93,16	menu	全ユニットに強い	Strong vs. all units
+3@176fb0	18,0,105,16	menu	全属性攻撃力アップ	All element attacks up
+3@1774d0	18,0,115,16	menu	路地・街路地形が得意	Good in Alley and Street
+3@1779a0	18,0,82,16	menu	移動で士気回復	Moving restores Morale
+# The same lines in cream (Item Encyclopedia, 2700@e9c50-112560); the icon glyph stays
+2700@e9c50	6,0,108,16	menu	アイテム図鑑閲覧OK	Unlocks Item Encyclopedia
+2700@ea0e0	6,0,96,16	menu	カード図鑑閲覧OK	Unlocks Card Encyclopedia
+2700@ea570	6,0,113,16	menu	キャライラスト閲覧OK	Unlocks Character Art
+2700@eaa60	6,0,113,16	menu	サウンドモード閲覧OK	Unlocks Sound Mode
+2700@eaf00	6,0,108,16	menu	ブレイズ戦記閲覧OK	Unlocks Blaze Chronicle
+2700@eb3f0	12,0,74,16	menu	TECが1になる	TEC becomes 1
+2700@eb830	12,0,96,16	menu	ヴァルキリーに弱い	Weak to Valkyries
+2700@ebda0	12,0,95,16	menu	ウンディーネに弱い	Weak to Undines
+2700@ec250	12,0,91,16	menu	クリティカル率0%	Critical rate 0%
+2700@ec740	12,0,104,16	menu	グリフライダーに弱い	Weak to Griffon Riders
+2700@ecbd0	12,0,57,16	menu	ゲージ消耗	Drains Gauge
+2700@ecf60	12,0,87,16	menu	しばらく移動不可	Can't move for a while
+2700@ed3c0	12,0,80,16	menu	スキル使用不可	Can't use Skills
+2700@ed870	12,0,106,16	menu	ネクロマンサーに弱い	Weak to Necromancers
+2700@edd60	12,0,75,16	menu	ハンターに弱い	Weak to Hunters
+2700@ee1b0	12,0,82,16	menu	暗黒攻撃に弱い	Weak to Dark attacks
+2700@ee600	12,0,100,16	menu	移動タイプが鈍足に	Move type: Slow
+2700@eeac0	12,0,83,16	menu	移動で士気低下	Moving lowers Morale
+2700@eeee0	12,0,82,16	menu	火炎攻撃に弱い	Weak to Fire attacks
+2700@ef3e0	12,0,97,16	menu	弓系ユニットに弱い	Weak to archer units
+2700@ef830	12,0,84,16	menu	砂漠地形が苦手	Poor in Desert
+2700@efc80	12,0,92,16	menu	少しずつ士気低下	Morale slowly drops
+2700@f0090	12,0,80,16	menu	消費移動力2倍	Move cost doubled
+2700@f04f0	12,0,89,16	menu	食べてATKダウン	Eat: ATK down
+2700@f0930	12,0,90,16	menu	食べてGENダウン	Eat: GEN down
+2700@f0d90	12,0,88,16	menu	食べてLUKダウン	Eat: LUK down
+2700@f11f0	12,0,89,16	menu	食べてTECダウン	Eat: TEC down
+2700@f15e0	12,0,84,16	menu	森林地形が苦手	Poor in Forest
+2700@f19f0	12,0,82,16	menu	神聖攻撃に弱い	Weak to Holy attacks
+2700@f1ed0	12,0,85,16	menu	装備変更不可	Can't change equipment
+2700@f22c0	12,0,71,16	menu	全ユニットに弱い	Weak to all units
+2700@f2690	12,0,84,16	menu	昼間は昏睡状態	Asleep in the Day
+2700@f2a80	12,0,48,16	menu	反撃不可	Can't counter
+2700@f2e10	12,0,110,16	menu	被クリティカル率50%	Takes Criticals 50%
+2700@f32b0	12,0,82,16	menu	雷撃攻撃に弱い	Weak to Lightning
+2700@f36d0	12,0,82,16	menu	冷気攻撃に弱い	Weak to Cold attacks
+2700@f3ac0	12,0,86,16	menu	POW25%アップ	POW +25%
+2700@f3eb0	12,0,86,16	menu	POW50%アップ	POW +50%
+2700@f4370	12,0,106,16	menu	アイテムを奪われない	Items can't be stolen
+2700@f4850	12,0,94,16	menu	オブジェクト破壊可	Can destroy objects
+2700@f4d30	12,0,84,16	menu	クリティカル回避	Evades Criticals
+2700@f51c0	12,0,99,16	menu	クリティカル率50%	Critical rate 50%
+2700@f56b0	12,0,104,16	menu	グリフライダーに強い	Strong vs. Griffon Riders
+2700@f5b80	12,0,115,16	menu	ゲージ/レート高速蓄積	Gauge/Rate fills fast
+2700@f60d0	12,0,91,16	menu	ゲージ/レート蓄積	Gauge/Rate fills
+2700@f65b0	12,0,91,16	menu	ゲージMAXになる	Fills the Gauge
+2700@f6a70	12,0,75,16	menu	ゴーレムに強い	Strong vs. Golems
+2700@f6e90	12,0,100,16	menu	スキル持続時間2倍	Skill duration x2
+2700@f73d0	12,0,84,16	menu	スケルトンに強い	Strong vs. Skeletons
+2700@f77f0	12,0,98,16	menu	ステータス異常回復	Cures ailments
+2700@f7cb0	12,0,98,16	menu	ステータス異常無効	Immune to ailments
+2700@f8180	12,0,98,16	menu	どこでも地形スキル	Terrain Skills anywhere
+2700@f86c0	12,0,86,16	menu	ドラゴン系に強い	Strong vs. dragons
+2700@f8b20	12,0,74,16	menu	ナイト系に強い	Strong vs. knights
+2700@f8ec0	12,0,65,16	menu	パニック回避	Avoids Panic
+2700@f9240	12,0,68,16	menu	まれに猛反撃	Rare fierce counter
+2700@f9600	12,0,86,16	menu	レート上昇を抑制	Curbs the Rate
+2700@f99f0	12,0,82,16	menu	暗黒以外を無効	Immune to all but Dark
+2700@f9de0	12,0,83,16	menu	暗黒攻撃は無効	Immune to Dark attacks
+2700@fa220	12,0,91,16	menu	暗黒攻撃力アップ	Dark attacks up
+2700@fa620	12,0,82,16	menu	一騎討ちで必勝	Always wins one-on-one
+2700@fa9f0	12,0,70,16	menu	一度だけ再起	Revives once
+2700@fad40	12,0,83,16	menu	火炎攻撃は無効	Immune to Fire attacks
+2700@fb180	12,0,91,16	menu	火炎攻撃力アップ	Fire attacks up
+2700@fb540	12,0,73,16	menu	獲得経験値+1	EXP gained +1
+2700@fb8f0	12,0,75,16	menu	獲得経験値+2	EXP gained +2
+2700@fbca0	12,0,76,16	menu	獲得経験値+3	EXP gained +3
+2700@fc090	12,0,95,16	menu	確実に戦利品出現	Spoils always appear
+2700@fc5d0	12,0,97,16	menu	弓系ユニットに強い	Strong vs. archer units
+2700@fca00	12,0,84,16	menu	荒野地形が得意	Good in Wasteland
+2700@fcdb0	12,0,84,16	menu	砂漠地形が得意	Good in Desert
+2700@fd1f0	12,0,102,16	menu	士気ダメージ最大化	Max Morale damage
+2700@fd690	12,0,93,16	menu	時々ゲージMAXに	Sometimes fills Gauge
+2700@fdad0	12,0,72,16	menu	集落破壊が可	Can destroy villages
+2700@fdea0	12,0,66,16	menu	瞬間チャージ	Instant charge
+2700@fe220	12,0,81,16	menu	徐々に士気回復	Morale recovers slowly
+2700@fe630	12,0,83,16	menu	勝利で士気吸収	Wins drain Morale
+2700@fea50	12,0,92,16	menu	少しずつ士気回復	Morale recovers a little
+2700@feec0	12,0,90,16	menu	食べてATKアップ	Eat: ATK up
+2700@ff2e0	12,0,91,16	menu	食べてGENアップ	Eat: GEN up
+2700@ff740	12,0,89,16	menu	食べてLUKアップ	Eat: LUK up
+2700@ffb90	12,0,90,16	menu	食べてTECアップ	Eat: TEC up
+2700@fffd0	12,0,99,16	menu	食べて何かがアップ	Eat: something up
+2700@1004a0	12,0,100,16	menu	食べて全能力アップ	Eat: all stats up
+2700@1008d0	12,0,84,16	menu	森林地形が得意	Good in Forest
+2700@100ca0	12,0,83,16	menu	神聖攻撃は無効	Immune to Holy attacks
+2700@1010b0	12,0,91,16	menu	神聖攻撃力アップ	Holy attacks up
+2700@101540	12,0,83,16	menu	水辺で士気回復	Morale recovers by water
+2700@101980	12,0,102,16	menu	水辺で地形スキル可	Terrain Skills by water
+2700@101db0	12,0,84,16	menu	水辺地形が得意	Good at Waterside
+2700@102180	12,0,83,16	menu	全属性攻撃無効	Immune to all elements
+2700@102590	12,0,96,16	menu	全属性攻撃力絶大	All elements hugely up
+2700@1029e0	12,0,103,16	menu	全地形効果に+10%	All terrain effects +10%
+2700@102e90	12,0,105,16	menu	全地形効果に+20%	All terrain effects +20%
+2700@103350	12,0,101,16	menu	相手の地形効果0%	Foe's terrain effect 0%
+2700@1038a0	12,0,97,16	menu	退却ペナルティなし	No Retreat Penalty
+2700@103cd0	12,0,60,16	menu	昼間が得意	Good in the Day
+2700@104050	12,0,107,16	menu	昼間移動で士気回復	Day moves restore Morale
+2700@104590	12,0,88,16	menu	投石を完全ガード	Blocks catapult stones
+2700@1049e0	12,0,101,16	menu	特定アイテムが反応	Reacts to certain items
+2700@104e30	12,0,95,16	menu	毒沼地形を無効化	Ignores Poison Swamp
+2700@1052f0	12,0,88,16	menu	突撃を完全ガード	Fully blocks Charges
+2700@105710	12,0,88,16	menu	反撃を完全ガード	Fully blocks counters
+2700@105b70	12,0,97,16	menu	必ずエースになれる	Always becomes Ace
+2700@105fa0	12,0,60,16	menu	夜間が得意	Good at Night
+2700@106320	12,0,107,16	menu	夜間移動で士気回復	Night moves restore Morale
+2700@106820	12,0,60,16	menu	夕方が得意	Good in the Evening
+2700@106bf0	12,0,107,16	menu	夕方移動で士気回復	Evening moves restore Morale
+2700@107060	12,0,83,16	menu	雷撃攻撃は無効	Immune to Lightning
+2700@107480	12,0,91,16	menu	雷撃攻撃力アップ	Lightning attacks up
+2700@1078d0	12,0,83,16	menu	冷気攻撃は無効	Immune to Cold attacks
+2700@107cf0	12,0,91,16	menu	冷気攻撃力アップ	Cold attacks up
+2700@108180	12,0,83,16	menu	劣勢で士気回復	Morale recovers when losing
+2700@1085c0	12,0,77,16	menu	連戦ハンデなし	No Streak Handicap
+2700@108980	12,0,100,16	menu	移動タイプが騎馬に	Move type: Cavalry
+2700@108e10	12,0,100,16	menu	移動タイプが水棲に	Move type: Aquatic
+2700@1092b0	12,0,100,16	menu	移動タイプが転移に	Move type: Teleport
+2700@109750	12,0,100,16	menu	移動タイプが飛行に	Move type: Flying
+2700@109bf0	12,0,100,16	menu	移動タイプが竜騎に	Move type: Dragon
+2700@10a060	12,0,71,16	menu	士気回復専用	Morale recovery only
+2700@10a480	12,0,89,16	menu	常時Aggressive	Always Aggressive
+2700@10a900	12,0,88,16	menu	全地形効果を0%	All terrain effects 0%
+2700@10ada0	12,0,90,16	menu	地形に影響しない	Unaffected by terrain
+2700@10b270	12,0,88,16	menu	同ダメージで反撃	Counters equal damage
+2700@10b630	12,0,90,16	menu	MVP判定補正小	MVP odds up a little
+2700@10ba80	12,0,90,16	menu	MVP判定補正中	MVP odds up
+2700@10bed0	12,0,90,16	menu	MVP判定補正大	MVP odds up greatly
+2700@10c340	12,0,88,16	menu	あらゆる敵に有効	Works on any foe
+2700@10c7e0	12,0,86,16	menu	エースタイプ無視	Ignores Ace Type
+2700@10cc20	12,0,113,16	menu	デュエル直後も移動可	Can move after a Duel
+2700@10d170	12,0,94,16	menu	ネクロゲートを強化	Boosts Necro Gate
+2700@10d650	12,0,65,16	menu	ネシアに強い	Strong vs. Nessiah
+2700@10d9e0	12,0,106,16	menu	一定確率で士気回復	Chance to restore Morale
+2700@10de60	12,0,115,16	menu	街道・架橋地形が得意	Good on Road and Bridge
+2700@10e380	12,0,100,16	menu	弓突撃を完全ガード	Fully blocks arrow Charges
+2700@10e820	12,0,102,16	menu	強攻撃ダメージ補正	Strong Attack damage up
+2700@10ec70	12,0,106,16	menu	強攻撃の頻度が増加	More Strong Attacks
+2700@10f130	12,0,106,16	menu	強攻撃の頻度が激増	Far more Strong Attacks
+2700@10f600	12,0,106,16	menu	砂漠移動制限を無視	Ignores Desert move limit
+2700@10fb10	12,0,95,16	menu	極限で士気全回復	Full Morale at the brink
+2700@10ffd0	12,0,101,16	menu	吹雪ダメージは無効	Immune to blizzards
+2700@1104c0	12,0,101,16	menu	水辺にいる敵に強い	Strong vs. foes by water
+2700@110980	12,0,115,16	menu	雪道・雪原地形が得意	Good on snowy terrain
+2700@110e80	12,0,93,16	menu	全ての地形が得意	Good on all terrain
+2700@1113b0	12,0,85,16	menu	全ユニットに強い	Strong vs. all units
+2700@111800	12,0,103,16	menu	全属性攻撃力アップ	All element attacks up
+2700@111c80	12,0,115,16	menu	路地・街路地形が得意	Good in Alley and Street
+2700@112190	12,0,83,16	menu	移動で士気回復	Moving restores Morale
+2700@112560	12,0,69,16	menu	装備効果なし	No equip effect
+# The white lines that are only in the cream list's order (140x24 and 152x24 textures)
+3@14d8b0	18,0,107,17	menu	カード図鑑閲覧OK	Unlocks Card Encyclopedia
+3@1701f0	18,0,97,17	menu	MVP判定補正：小	MVP odds up a little
+3@170820	18,1,97,16	menu	MVP判定補正：中	MVP odds up
+3@170e60	18,1,97,16	menu	MVP判定補正：大	MVP odds up greatly
+3@1714c0	18,1,93,16	menu	あらゆる敵に有効	Works on any foe
+3@171b50	18,0,93,17	menu	エースタイプ無視	Ignores Ace Type
+3@172f90	18,0,114,17	menu	一定確率で士気回復	Chance to restore Morale
+# Skill use conditions (Card Select, lone 12 px textures; English from the EBOOT records of the same lines)
+3@3a1370	0,0,77,12	label	ウィッチ専用	Witch only
+3@3a1790	0,0,122,12	label	ネシア専用/夜間限定	Nessiah only / Night only
+3@3a1cf0	0,0,77,12	label	ハンター専用	Hunter only
+3@3a2110	0,0,90,12	label	スケルトン専用	Skeleton only
+3@3a2530	0,0,90,12	label	フェンサー専用	Fencer only
+3@3a2950	0,0,77,12	label	シスキア専用	Siskier only
+3@3a2d70	0,0,134,12	label	アサシン専用/夜間限定	Assassin only / Night only
+3@3a3410	0,0,96,12	label	騎馬タイプのみ	Cavalry Types only
+3@3a3830	0,0,128,12	label	誰でも、いつでもOK!	Anyone, anytime!
+3@3a3d90	0,0,142,12	label	ウンディーネが使うと…	If an Undine uses it...
+3@3a4430	0,0,103,12	label	ウンディーネ専用	Undine only
+3@3a4990	0,0,200,12	label	メデューテ専用/相手がドラゴン系	Medoute only / Foe is Dragon type
+3@3a52b0	0,0,77,12	label	ゴーレム専用	Golem only
+3@3a56d0	0,0,135,12	label	相手が同サイズ/同性別	Foe same size and gender
+3@3a5d70	0,0,103,12	label	ヴァルキリー専用	Valkyrie only
+3@3a62d0	0,0,103,12	label	オルディーン専用	Ordene only
+3@3a6830	0,0,52,12	label	昼間限定	Daytime only
+3@3a6b10	0,0,156,12	label	女性ユニオンリーダーのみ	Female Union Leaders only
+3@3a71b0	0,0,52,12	label	夜間限定	Night only
+3@3a7490	0,0,156,12	label	男性ユニオンリーダーのみ	Male Union Leaders only
+3@3a7b30	0,0,90,12	label	ガルカーサ専用	Gulcasa only
+3@3a7f50	0,0,104,12	label	ベアトリーヌ専用	Baretreenu only
+3@3a84b0	0,0,122,12	label	パメラ専用/夜間限定	Pamela only / Night only
+3@3a8a10	0,0,77,12	label	バイフー専用	Byff only
+3@3a8e30	0,0,77,12	label	エミリオ専用	Emilia only
+3@3a9250	0,0,160,12	label	エースタイプが合えばOK!	OK if Ace Types match!
+3@3a98f0	0,0,102,12	label	アランゼーム専用	Alanjame only
+3@3a9e50	0,0,90,12	label	ソルティエ専用	Soltier only
+3@3aa270	0,0,64,12	label	ネシア専用	Nessiah only
+# Equip limits (2687@52000-5f590, white italic); joke lines keep the joke
+2687@52000	0,0,90,13	menu	ガーロット専用	Garlot only
+2687@523c0	0,0,93,13	menu	ガルカーサ専用	Gulcasa only
+2687@52770	0,0,77,13	menu	シスキア専用	Siskier only
+2687@52ab0	0,0,74,13	menu	ジェノン専用	Jenon only
+2687@52e20	0,0,90,13	menu	メデューテ専用	Medoute only
+2687@531f0	0,0,78,13	menu	エミリオ専用	Emilia only
+2687@53540	0,0,78,13	menu	アイギナ専用	Aegina only
+2687@538b0	0,0,77,13	menu	ユーディ専用	Eudy only
+2687@53be0	0,0,65,13	menu	レオン専用	Leon only
+2687@53f20	0,0,91,13	menu	バルドゥス専用	Baldus only
+2687@542e0	0,0,66,13	menu	ネシア専用	Nessiah only
+2687@54650	0,0,100,13	menu	ベアトリーヌ専用	Baretreenu only
+2687@54a10	0,0,77,13	menu	ジルヴァ専用	Zilva only
+2687@54d40	0,0,67,13	menu	ミゼル専用	Mizer only
+2687@550b0	0,0,79,13	menu	バイフー専用	Byff only
+2687@553f0	0,0,64,13	menu	イータ専用	Eater only
+2687@556b0	0,0,78,13	menu	スレイプ専用	Sleip only
+2687@55a20	0,0,78,13	menu	バイフー以外	All but Byff
+2687@55d60	0,0,130,13	menu	ガーロット以外の男性	Men but Garlot
+2687@56250	0,0,119,13	menu	バイフー以外の男性	Men but Byff
+2687@566a0	0,0,105,13	menu	イータ以外の女性	Women but Eater
+2687@56ad0	0,0,56,13	menu	男性専用	Men only
+2687@56d80	0,0,56,13	menu	女性専用	Women only
+2687@57030	0,0,110,13	menu	重装備可能な男性	Heavy-armor men
+2687@574a0	0,0,119,13	menu	男性の槍タイプのみ	Male Spear types
+2687@57960	0,0,94,13	menu	一部の女性のみ	Some women only
+2687@57d30	0,0,82,13	menu	Lv5以上必要	Needs Lv 5+
+2687@580a0	0,0,82,13	menu	Lv7以上必要	Needs Lv 7+
+2687@583f0	0,0,82,13	menu	Lv8以上必要	Needs Lv 8+
+2687@58740	0,0,82,13	menu	Lv9以上必要	Needs Lv 9+
+2687@58ac0	0,0,91,13	menu	Lv10以上必要	Needs Lv 10+
+2687@58ec0	0,0,91,13	menu	Lv15以上必要	Needs Lv 15+
+2687@592c0	0,0,91,13	menu	Lv18以上必要	Needs Lv 18+
+2687@59690	0,0,80,13	menu	剣タイプ専用	Sword types only
+2687@59a00	0,0,80,13	menu	槍タイプ専用	Spear types only
+2687@59d50	0,0,80,13	menu	斧タイプ専用	Axe types only
+2687@5a0a0	0,0,80,13	menu	弓タイプ専用	Bow types only
+2687@5a3f0	0,0,80,13	menu	杖タイプ専用	Staff types only
+2687@5a740	0,0,80,13	menu	鎌タイプ専用	Scythe types only
+2687@5aab0	0,0,83,13	menu	剣、槍、斧専用	Sword, Spear, Axe
+2687@5ae00	0,0,79,13	menu	弓タイプ以外	All but Bow types
+2687@5b150	0,0,90,13	menu	ウィッチ系専用	Witches only
+2687@5b510	0,0,93,13	menu	水棲タイプ以外	All but Aquatic
+2687@5b900	0,0,127,13	menu	歩行・転移タイプのみ	Foot, Teleport only
+2687@5bdd0	0,0,93,13	menu	騎馬タイプのみ	Cavalry only
+2687@5c180	0,0,113,13	menu	18歳未満服用禁止	Not for under-18s!
+2687@5c5c0	0,0,139,13	menu	ファンタジニア王家専用	Fantasinia royals only
+2687@5cb10	0,0,120,13	menu	甘系が苦手でない人	Those who like sweets
+2687@5cfd0	0,0,81,13	menu	魔力を持つ者	Those with magic
+2687@5d300	0,0,95,13	menu	読解力のある者	Those who can read
+2687@5d6f0	0,0,117,13	menu	キノコ嫌いな人以外	Mushroom fans
+2687@5dbf0	0,0,98,13	menu	ゲテモノOKな人	Bold eaters only
+2687@5dfa0	0,0,96,13	menu	菜食主義者以外	Not vegetarians
+2687@5e370	0,0,95,13	menu	指が細い人のみ	Slim fingers only
+2687@5e760	0,0,103,13	menu	シッポの似合う人	Those a tail suits
+2687@5eba0	0,0,133,13	menu	派手なものが好きな人	Lovers of flashy things
+2687@5f0e0	0,0,67,13	menu	指の太い人	Thick fingers only
+2687@5f430	0,0,109,13	menu	牛乳嫌いな人以外	Milk drinkers
+# The same in cream (Item Encyclopedia, 2700@dbca0-e98b0); the bullet stays
+2700@dbca0	5,1,76,15	menu	ガルカーサ専用	Gulcasa only
+2700@dc060	5,1,66,15	menu	シスキア専用	Siskier only
+2700@dc430	5,1,62,15	menu	ジェノン専用	Jenon only
+2700@dc750	5,1,76,15	menu	メデューテ専用	Medoute only
+2700@dcb10	5,1,64,15	menu	エミリオ専用	Emilia only
+2700@dce50	5,1,65,15	menu	アイギナ専用	Aegina only
+2700@dd160	5,1,66,15	menu	ユーディ専用	Eudy only
+2700@dd500	5,1,54,15	menu	レオン専用	Leon only
+2700@dd870	5,0,74,16	menu	バルドゥス専用	Baldus only
+2700@ddc10	5,1,55,15	menu	ネシア専用	Nessiah only
+2700@ddfc0	5,1,82,15	menu	ベアトリーヌ専用	Baretreenu only
+2700@de3a0	5,1,66,15	menu	ジルヴァ専用	Zilva only
+2700@de760	5,0,55,16	menu	ミゼル専用	Mizer only
+2700@deab0	5,0,65,16	menu	バイフー専用	Byff only
+2700@dedc0	5,1,53,15	menu	イータ専用	Eater only
+2700@df0e0	5,1,64,15	menu	スレイプ専用	Sleip only
+2700@df400	5,0,66,16	menu	バイフー以外	All but Byff
+2700@df7d0	5,1,108,15	menu	ガーロット以外の男性	Men but Garlot
+2700@dfca0	5,0,100,16	menu	バイフー以外の男性	Men but Byff
+2700@e0140	5,1,88,15	menu	イータ以外の女性	Women but Eater
+2700@e0530	5,1,48,15	menu	男性専用	Men only
+2700@e0830	5,1,48,15	menu	女性専用	Women only
+2700@e0b40	5,0,95,16	menu	重装備可能な男性	Heavy-armor men
+2700@e0f60	5,0,99,16	menu	男性の槍タイプのみ	Male Spear types
+2700@e13e0	5,1,81,15	menu	一部の女性のみ	Some women only
+2700@e1800	5,2,69,14	menu	Lv5以上必要	Needs Lv 5+
+2700@e1bc0	5,2,69,14	menu	Lv7以上必要	Needs Lv 7+
+2700@e1f50	5,2,69,14	menu	Lv8以上必要	Needs Lv 8+
+2700@e22e0	5,2,69,14	menu	Lv9以上必要	Needs Lv 9+
+2700@e26a0	5,2,75,14	menu	Lv10以上必要	Needs Lv 10+
+2700@e2a60	5,2,75,14	menu	Lv15以上必要	Needs Lv 15+
+2700@e2e20	5,2,75,14	menu	Lv18以上必要	Needs Lv 18+
+2700@e31c0	5,1,65,15	menu	剣タイプ専用	Sword types only
+2700@e3560	5,0,65,16	menu	槍タイプ専用	Spear types only
+2700@e3900	5,1,65,15	menu	斧タイプ専用	Axe types only
+2700@e3ca0	5,1,65,15	menu	弓タイプ専用	Bow types only
+2700@e4040	5,1,65,15	menu	杖タイプ専用	Staff types only
+2700@e43c0	5,1,65,15	menu	鎌タイプ専用	Scythe types only
+2700@e4780	5,0,71,16	menu	剣、槍、斧専用	Sword, Spear, Axe
+2700@e4b20	5,1,67,15	menu	弓タイプ以外	All but Bow types
+2700@e4ee0	5,1,75,15	menu	ウィッチ系専用	Witches only
+2700@e5270	5,0,78,16	menu	水棲タイプ以外	All but Aquatic
+2700@e5680	5,0,107,16	menu	歩行・転移タイプのみ	Foot, Teleport only
+2700@e5b40	5,1,76,14	menu	騎馬タイプのみ	Cavalry only
+2700@e5eb0	5,0,98,16	menu	18歳未満服用禁止	Not for under-18s!
+2700@e63c0	5,1,120,15	menu	ファンタジニア王家専用	Fantasinia royals only
+2700@e6950	5,0,104,16	menu	甘系が苦手でない人	Those who like sweets
+2700@e6df0	5,0,69,16	menu	魔力を持つ者	Those with magic
+2700@e7180	5,1,79,15	menu	読解力のある者	Those who can read
+2700@e7630	5,1,100,15	menu	キノコ嫌いな人以外	Mushroom fans
+2700@e7a70	5,1,82,15	menu	ゲテモノOKな人	Bold eaters only
+2700@e7df0	5,0,85,16	menu	菜食主義者以外	Not vegetarians
+2700@e8240	5,1,80,15	menu	指が細い人のみ	Slim fingers only
+2700@e85e0	5,1,88,15	menu	シッポの似合う人	Those a tail suits
+2700@e8a30	5,0,113,16	menu	派手なものが好きな人	Lovers of flashy things
+2700@e8eb0	5,0,58,16	menu	指の太い人	Thick fingers only
+2700@e91d0	5,1,94,15	menu	牛乳嫌いな人以外	Milk drinkers
+2700@e95c0	5,0,60,16	menu	全員装備可	All can equip
+2700@e98b0	5,0,72,16	menu	全員装備不可	None can equip
