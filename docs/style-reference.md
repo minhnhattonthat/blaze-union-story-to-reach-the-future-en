@@ -18,7 +18,6 @@ Voice per character: the JP markers and the English devices that carry them. Gro
 | Velleman | 私, です/ね, schemer | Smooth statesman, measured, gives nothing away. |
 | Byff | バイフー as "I", 食べるぞ | Talks about himself as "Byff": "Byff will eat cheese." Simple present tense, sincere, not broken beyond that. |
 | Pamela | パメラ様, ～♪, ② | Self-important ghost girl: "Pamela-sama", sing-song, ♪ and exclamation marks kept. |
-| Mizer | ケーッケッケ, ゲスな | Sleazy swagger, gloats, "Keh-keh-keh!" |
 | Leon | 俺, 冷静 | Terse, soldierly, tired. |
 | Baldus | 俺/儂, military | Gruff old commander: "lad", "hmph". |
 | Soltier | 俺 (b089, b105), ～だ | Bored, sharp, disdainful military Emperor: plain "I", short sentences, no archaic "We". |

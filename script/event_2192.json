@@ -188,7 +188,7 @@
    5814
   ],
   "jp": "{voice:006F12}ガーロット様……{n}その件で少し話があるのです。",
-  "en": "Garlot-sama... There's something I need to talk to you about in that regard.",
+  "en": "Garlot-sama... There is something I must speak with you about in that regard.",
   "status": "done"
  },
  {
@@ -356,7 +356,7 @@
    6396
   ],
   "jp": "{voice:007D12}いえ、それは違います……",
-  "en": "No, that's not it...",
+  "en": "No, that is not it...",
   "status": "done"
  },
  {
@@ -572,7 +572,7 @@
    7031
   ],
   "jp": "{voice:008F12}君は、邸宅の留守を任せた兵の…",
-  "en": "You're one of the soldiers we left guarding the mansion...",
+  "en": "You're one of the soldiers we left guarding the manor...",
   "status": "done"
  },
  {
@@ -584,7 +584,7 @@
    7049
   ],
   "jp": "{voice:009012}た、大変ですっ！{n}私兵団邸が、何者かに襲撃を…②",
-  "en": "I-It's terrible! The private army's mansion was attacked by someone...!!",
+  "en": "I-It's terrible! The private army's manor was attacked by someone...!!",
   "status": "done"
  },
  {
@@ -668,7 +668,7 @@
    7235
   ],
   "jp": "{voice:009712}全軍全速だ！{n}私兵団邸に急行するぞ②",
-  "en": "All troops, full speed! We're rushing to the mansion!!",
+  "en": "All troops, full speed! We're rushing to the manor!!",
   "status": "done"
  },
  {
@@ -680,7 +680,7 @@
    8141
   ],
   "jp": "{voice:009812}邸宅が完全に包囲されてるよ！",
-  "en": "The mansion's completely surrounded!",
+  "en": "The manor's completely surrounded!",
   "status": "done"
  },
  {
@@ -716,7 +716,7 @@
    8198
   ],
   "jp": "{voice:009B12}とにかく邸宅を奪還しよう！",
-  "en": "Anyway, let's take the mansion back!",
+  "en": "Anyway, let's take the manor back!",
   "status": "done"
  },
  {
@@ -824,7 +824,7 @@
    11395
   ],
   "jp": "{voice:00A412}この狭い邸宅に隠れていても、{n}いずれ見つかってしまうわ。{n}だったら、なんとか外へ！",
-  "en": "If we hide in this cramped mansion, they will find us sooner or later. So we must get outside somehow!",
+  "en": "If we hide in this cramped manor, they will find us sooner or later. So we must get outside somehow!",
   "status": "done"
  },
  {

@@ -10,6 +10,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import batches
 
 ORDER = (range(35, 132), range(132, 147), range(1, 35), range(147, 149))  # story, FCT barks, EBOOT, leftovers
+# Event files per stage prefix (docs/re/debug.md stage table); chapters 3 and 5 split to fit one reviewer's context.
+CHAPTERS = {"c1": (2149, 2154), "c2": (2155, 2157), "c3a": (2158, 2163), "c3b": (2164, 2169), "c4": (2170, 2173),
+            "c5a": (2174, 2177), "c5b": (2178, 2181), "c5c": (2182, 2185), "c6": (2186, 2191), "c7": (2192, 2198),
+            "c8": (2199, 2205)}
 
 
 def chunks(sizes, size):
@@ -31,11 +35,34 @@ def pairs(batch):
         yield f">> {batch}:{n} | {names.get(who, who)} | {box} | {jp.replace('{n}', '/')}\n{out.get(n, '').replace('{n}', ' / ')}\n"
 
 
+def chapter_of(event):
+    return next(c for c, (lo, hi) in CHAPTERS.items() if lo <= event <= hi)
+
+
+def write_chapters(out):
+    """Story pass input: one file per chapter, an EBOOT row inside a story batch stays with the event before it."""
+    texts, cur = {c: [] for c in CHAPTERS}, "c1"
+    for i in ORDER[0]:
+        b = f"b{i:03d}"
+        ids = [r[0] for r in batches.read_tsv(batches.TL / f"{b}.tsv")]
+        for rid, line in zip(ids, pairs(b)):
+            if rid.startswith("event_"):
+                cur = chapter_of(int(rid.split("_")[1]))
+            texts[cur].append(line)
+    Path(out).mkdir(parents=True, exist_ok=True)
+    for c, lines in texts.items():
+        (Path(out) / f"{c}.txt").write_text("".join(lines), encoding="utf-8", newline="\n")
+        print(f"{c} {CHAPTERS[c]} {len(lines)} lines")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--size", type=int, default=1500)
     ap.add_argument("--out", required=True)
+    ap.add_argument("--chapters", action="store_true", help="story pass: one file per chapter instead of chunks")
     a = ap.parse_args()
+    if a.chapters:
+        return write_chapters(a.out)
     names = [f"b{i:03d}" for r in ORDER for i in r]
     sizes = [(b, len(batches.read_tsv(batches.TL / f"{b}.tsv"))) for b in names]
     Path(a.out).mkdir(parents=True, exist_ok=True)

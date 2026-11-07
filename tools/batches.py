@@ -124,7 +124,7 @@ def problems(e, en, terms):
         out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
     for jp_form, en_form in HONORIFICS.items():
         for name in re.findall(rf"([ァ-ヶ][ァ-ヶー]*){jp_form}", jp_plain):  # a bare ー is a long vowel: けーさん, not a name
-            if en_form.lower() not in en.lower():
+            if name != "バァ" and en_form.lower() not in en.lower():  # バァさん is "the wife", a word, not a name
                 out.append(f"honorific {name}{jp_form} needs {en_form}")
     return out + fit.problems(e, en)[0]
 

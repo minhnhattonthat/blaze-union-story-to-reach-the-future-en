@@ -944,7 +944,7 @@
    1840
   ],
   "jp": "連係攻撃ができる範囲と位置、{n}フォーメーションタイプは{n}全部で２種類あるんだ。",
-  "en": "The range and positions for combo attacks, the formation types, come in two kinds in all.",
+  "en": "There are two formation types in all, each with its own range and positions for combo attacks.",
   "status": "done"
  },
  {
@@ -3260,7 +3260,7 @@
    6465
   ],
   "jp": "『バニッシュ』など、{n}使用条件が特にないカードならば、{n}制約なく使えるのです♪",
-  "en": "Cards like \"Banish,\" with no particular conditions for use, I can use freely♪",
+  "en": "Cards like \"Vanish,\" with no particular conditions for use, I can use freely♪",
   "status": "done"
  },
  {
@@ -3368,7 +3368,7 @@
    6599
   ],
   "jp": "そんな女々しいモノはいらねぇ。{n}オトコなら腕一本で勝負だぜ！",
-  "en": "I got no need for sissy stuff like that. A real man fights with his bare arm alone!",
+  "en": "I got no need for sissy stuff like that. A real man fights with nothing but his fists!",
   "status": "done"
  },
  {

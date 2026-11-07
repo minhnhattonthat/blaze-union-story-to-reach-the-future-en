@@ -656,7 +656,7 @@
    7918
   ],
   "jp": "{voice:000C0F}邸内に立てこもって、時間を稼ぎ{n}次の策を考えましょう。",
-  "en": "Let us hole up in the residence, buy time and think of our next move.",
+  "en": "Let us hole up in the manor, buy time and think of our next move.",
   "status": "done"
  },
  {
@@ -1172,7 +1172,7 @@
    15347
   ],
   "jp": "{voice:00330F}周囲を警戒しなきゃ…、{n}邸宅内にも敵がいるかもしれない。",
-  "en": "I have to keep watch all around... There could be enemies in the residence too.",
+  "en": "I have to keep watch all around... There could be enemies in the manor too.",
   "status": "done"
  },
  {
@@ -1352,7 +1352,7 @@
    18086
   ],
   "jp": "{voice:00420F}そうだ、この屋敷に火を掛けよう。{n}そうすれば、時間が稼げるよ。",
-  "en": "I know, let's set fire to this mansion. That'll buy us time.",
+  "en": "I know, let's set fire to this manor. That'll buy us time.",
   "status": "done"
  },
  {
@@ -1520,7 +1520,7 @@
    18951
   ],
   "jp": "{voice:004F0F}邸宅が燃えている…",
-  "en": "The residence is burning...",
+  "en": "The manor is burning...",
   "status": "done"
  },
  {

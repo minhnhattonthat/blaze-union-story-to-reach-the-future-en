@@ -25,4 +25,4 @@ Tactical RPG, prequel to Yggdra Union. Young rebels against a rotten empire: war
 - Mistakes so far: an adult's innuendo about herself or another adult (Baretreenu, b144; Eater, b128 and b134) was sanitised; the content rule covers only young or young-looking targets, so keep the double meaning (also Eater and Medoute in the baths, b081). Game over text is built from parts, one line each, shared between chains: read it assembled (`python -X utf8 tools/debug/defeat_text.py --en`). A Japanese relative clause on line 1 (パンドラ率いる / 反乱軍との戦闘中) must not become an English opener that attaches to Gram Blaze ("Led by Pandra, while fighting the rebels"): make the enemy the subject ("Led by Pandra, / the rebels fought them, and"), keeping each glossary name on its own Japanese line (the lint checks per line).
 
 ## Consistency
-Only the controller edits `glossary.md`. Report: `NEW TERM: jp -> en`, `UNSURE: n - note`, `LONG: n - note`.
+Only the controller edits `glossary.md`. Report: `NEW TERM: jp -> en`, `UNSURE: n - note`, `LONG: n - note`, `CUT: n - what was dropped to fit`.

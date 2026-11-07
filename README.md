@@ -1,6 +1,6 @@
-# <Game title> English translation
+# Blaze Union: Story to Reach the Future English translation
 
-Unofficial English fan translation of **<Game title>** (<platform>, <publisher>, <year>): the source text and tools
+Unofficial English fan translation of **Blaze Union: Story to Reach the Future** (PSP, Sting, 2010): the source text and tools
 that build the patch.
 
 **Just want to play?** Download the patch from [Releases](../../releases) and follow its README. This repository holds
@@ -13,13 +13,14 @@ helps most.
 
 | Part | Status |
 |---|---|
-| <Dialogue / story> | <Translated> |
-| <Menus, items, skills, system messages> | <Translated> |
-| <Title screen, logos, graphics with text> | <Translated / Left in Japanese> |
-| <Name entry> | <Translated / Japanese kana only> |
-| <Songs, voiced lines, credits roll> | <Left in Japanese> |
+| Dialogue and story, all routes and endings | Translated |
+| Menus, items, skills, cards, battle text, system messages | Translated |
+| Title screen, chapter cards, banners, tutorial slides, graphics with text | Translated (the logo's small katakana reading stays, as part of the logo) |
+| Name entry | None in the game |
+| Voices, credits | Voices stay Japanese; credits are translated, staff names romanised |
 
-Known issues: <none known / see [Issues](../../issues)>.
+Known issues: see [Issues](../../issues). Base dump: `Blaze Union - Story to Reach The Future (Japan).iso`, 582,221,824 bytes,
+CRC32 8F901A9F, MD5 6a759f27b03f1133d6cd2c0818f954fa, SHA-1 de0e837fb23e4db73afa3fcaf84e71ac8030fac8.
 
 ## What's here
 
@@ -35,16 +36,18 @@ Known issues: <none known / see [Issues](../../issues)>.
 | `AGENTS.md` | Instructions for coding agents (`CLAUDE.md` points to it). |
 | `.claude/agents/` | Subagent types (translator, reviewer, visual QA, playtester) with only the tools each needs. |
 
-## Build your own patched ROM
+## Build your own patched ISO
 
-Needs Python 3.12+ and your own dump of the Japanese game.
+Needs Python 3.12+, xdelta3 for the release step, and your own dump of the Japanese game.
 
 ```sh
-git clone https://github.com/minhnhattonthat/<repo>
-cd <repo>
-# copy your dump to: rom/<file>
-#   (<size> bytes, SHA-1 <sha1>; the build refuses any other dump, see rom.sha1)
-python -X utf8 tools/build.py                          # -> build/<game>_en.<ext>
+git clone https://github.com/minhnhattonthat/blaze-union-story-to-reach-the-future-en
+cd blaze-union-story-to-reach-the-future-en
+# copy your dump to: rom/Blaze Union - Story to Reach The Future (Japan).iso
+#   (582,221,824 bytes, SHA-1 de0e837fb23e4db73afa3fcaf84e71ac8030fac8; the build refuses any other dump, see rom.sha1)
+python -X utf8 tools/iso9660.py x "rom/Blaze Union - Story to Reach The Future (Japan).iso" work/iso
+python -X utf8 tools/itoc.py x work/iso/PSP_GAME/USRDIR/Data/Data.cpk work/cpk
+python -X utf8 tools/build.py                          # -> build/blaze_union_en.iso
 python -X utf8 tools/check.py                          # tests + text lint
 ```
 
@@ -56,8 +59,8 @@ If you enjoy this translation, you can support my work on Ko-fi:
 
 ## Licence
 
-Tools and English translation: MIT. The original Japanese text in `script/` is <publisher>'s and is included only so
-the translation can be checked against it. <Game title> is (c) <publisher>; this project is not affiliated with them.
-Do not share patched ROMs.
+Tools and English translation: MIT. The original Japanese text in `script/` is Sting's and is included only so
+the translation can be checked against it. Blaze Union is (c) Sting; this project is not affiliated with them.
+Do not share patched ISOs.
 
 The translation was made with extensive AI assistance (Claude by Anthropic). Corrections are very welcome.
