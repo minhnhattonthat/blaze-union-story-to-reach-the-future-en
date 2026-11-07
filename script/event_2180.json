@@ -1355,8 +1355,8 @@
    70870
   ],
   "jp": "{voice:007E0C}おい、帳簿はもういい、諦めだ、{n}撤収するぞ！",
-  "en": "",
-  "status": ""
+  "en": "Hey, forget the ledger, give it up! We're pulling out!",
+  "status": "done"
  },
  {
   "id": "event_2180_07FDC",
@@ -1367,8 +1367,8 @@
    70877
   ],
   "jp": "{voice:007F0C}死んじまったら、{n}どうにもならないからな！",
-  "en": "",
-  "status": ""
+  "en": "Can't do a thing about it once you're dead!",
+  "status": "done"
  },
  {
   "id": "event_2180_0800A",
@@ -1379,8 +1379,8 @@
    71099
   ],
   "jp": "{voice:00800C}ゲゲッ！{n}パンドラの奴、逃げやがった！",
-  "en": "",
-  "status": ""
+  "en": "Gah! That bastard Pandra ran for it!",
+  "status": "done"
  },
  {
   "id": "event_2180_08034",
@@ -1391,8 +1391,8 @@
    71123
   ],
   "jp": "{voice:00810C}アイツからの仕事は、こんなの{n}ばっかりだ、やってられるかよ…{n}俺らもズラかるぞ！",
-  "en": "",
-  "status": ""
+  "en": "Every job from that guy turns out like this. I've had it... We're clearing out too!",
+  "status": "done"
  },
  {
   "id": "event_2180_08087",
@@ -1403,8 +1403,8 @@
    71723
   ],
   "jp": "{voice:00820C}もう誰も助けには来ないぜ！{n}諦めて、パンドラが言ってた{n}帳簿とやらを出せ！",
-  "en": "",
-  "status": ""
+  "en": "Nobody's coming to save you now! Give it up and hand over this ledger Pandra was talking about!",
+  "status": "done"
  },
  {
   "id": "event_2180_080D4",
@@ -1415,8 +1415,8 @@
    71741
   ],
   "jp": "{voice:00830C}ひっ…、{n}こ、これでございます！",
-  "en": "",
-  "status": ""
+  "en": "Eek... H-here it is, sir!",
+  "status": "done"
  },
  {
   "id": "event_2180_080F8",
@@ -1427,8 +1427,8 @@
    71762
   ],
   "jp": "{voice:00840C}ん？　これは……",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's this...",
+  "status": "done"
  },
  {
   "id": "event_2180_0810D",
@@ -1439,8 +1439,8 @@
    71783
   ],
   "jp": "{voice:00850C}ガーロット、凄い！{n}かなりスキャンダラスな内容だ②",
-  "en": "",
-  "status": ""
+  "en": "Garlot, this is amazing! It's positively scandalous!",
+  "status": "done"
  },
  {
   "id": "event_2180_08143",
@@ -1451,8 +1451,8 @@
    71804
   ],
   "jp": "{voice:00860C}反乱軍に資金協力する{n}連中の名前に、資金の流れ…{n}かなり細かく書かれているな。",
-  "en": "",
-  "status": ""
+  "en": "The names of everyone funding the rebels, the flow of the money... It's all written down in fine detail.",
+  "status": "done"
  },
  {
   "id": "event_2180_08194",
@@ -1463,8 +1463,8 @@
    71811
   ],
   "jp": "{voice:00870C}西部地域の豪商、役人、貴族…{n}ほら、見てよ。",
-  "en": "",
-  "status": ""
+  "en": "Wealthy merchants of the western region, officials, nobles... Here, take a look.",
+  "status": "done"
  },
  {
   "id": "event_2180_081C4",
@@ -1475,8 +1475,8 @@
    71832
   ],
   "jp": "{voice:00880C}素晴らしい…{n}ヴェルマン方伯が手にすれば、{n}最大限に利用できるでしょう。",
-  "en": "",
-  "status": ""
+  "en": "Splendid... In Margrave Velleman's hands, this can be put to the fullest possible use.",
+  "status": "done"
  },
  {
   "id": "event_2180_0820F",
@@ -1487,8 +1487,8 @@
    71853
   ],
   "jp": "{voice:00890C}収穫はあったな。{n}ヴェルマンも納得するだろう。",
-  "en": "",
-  "status": ""
+  "en": "So we got something out of it. That'll satisfy Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2180_08241",
@@ -1499,8 +1499,8 @@
    71874
   ],
   "jp": "{voice:008A0C}ん？　そんなバカな……",
-  "en": "",
-  "status": ""
+  "en": "Hm? That's impossible...",
+  "status": "done"
  },
  {
   "id": "event_2180_0825C",
@@ -1511,8 +1511,8 @@
    71895
   ],
   "jp": "{voice:008B0C}どうしたジェノン？",
-  "en": "",
-  "status": ""
+  "en": "What's the matter, Jenon?",
+  "status": "done"
  },
  {
   "id": "event_2180_08273",
@@ -1523,8 +1523,8 @@
    71916
   ],
   "jp": "{voice:008C0C}……いや、何でもない。",
-  "en": "",
-  "status": ""
+  "en": "...No, it's nothing.",
+  "status": "done"
  },
  {
   "id": "event_2180_0828E",
@@ -1535,8 +1535,8 @@
    71937
   ],
   "jp": "{voice:008D0C}そうか、ならいいが。",
-  "en": "",
-  "status": ""
+  "en": "All right, if you say so.",
+  "status": "done"
  },
  {
   "id": "event_2180_082A7",
@@ -1547,8 +1547,8 @@
    72090
   ],
   "jp": "{voice:008E0C}…ジェノン、顔色悪いよ？{n}さっきは急に変な声出すしさ。{n}大丈夫？",
-  "en": "",
-  "status": ""
+  "en": "...Jenon, you look pale, you know? And you made that weird noise just now. You okay?",
+  "status": "done"
  },
  {
   "id": "event_2180_082EA",
@@ -1559,8 +1559,8 @@
    72111
   ],
   "jp": "{voice:008F0C}いや、ちょっとね…{n}さっきの帳簿を見てたら、{n}見覚えのある名前があったから。",
-  "en": "",
-  "status": ""
+  "en": "No, it's just... When I was looking at that ledger, I saw a name I recognized.",
+  "status": "done"
  },
  {
   "id": "event_2180_08339",
@@ -1571,8 +1571,8 @@
    72132
   ],
   "jp": "{voice:00900C}まさか…{n}ヴェルマンじゃないよね？",
-  "en": "",
-  "status": ""
+  "en": "It can't be... It's not Velleman, is it?",
+  "status": "done"
  },
  {
   "id": "event_2180_0835F",
@@ -1583,8 +1583,8 @@
    72153
   ],
   "jp": "{voice:00910C}大丈夫。シスキアやガーロットは{n}知らない人だから。",
-  "en": "",
-  "status": ""
+  "en": "Don't worry, Siskier. It's nobody you or Garlot would know.",
+  "status": "done"
  },
  {
   "id": "event_2180_08395",
@@ -1595,8 +1595,8 @@
    72174
   ],
   "jp": "{voice:00920C}そう…",
-  "en": "",
-  "status": ""
+  "en": "Okay...",
+  "status": "done"
  },
  {
   "id": "event_2180_083A0",
@@ -1607,8 +1607,8 @@
    72217
   ],
   "jp": "{voice:00930C}（どうせ反乱軍が政権を握ったら{n}　政府の要職にしてやるとでも{n}　言われたんだろ……）",
-  "en": "",
-  "status": ""
+  "en": "(I bet they told him he'd get a high post in the government once the rebels take power...)",
+  "status": "done"
  },
  {
   "id": "event_2180_083F7",
@@ -1619,8 +1619,8 @@
    72224
   ],
   "jp": "{voice:00940C}（どこまで愚かなんだ、父さん）",
-  "en": "",
-  "status": ""
+  "en": "(How big a fool can you be, Father?)",
+  "status": "done"
  },
  {
   "id": "event_2180_0841A",
@@ -1631,8 +1631,8 @@
    72272
   ],
   "jp": "{voice:00950C}行きましょう。{n}ガーロット達に置いて行かれるわ。",
-  "en": "",
-  "status": ""
+  "en": "Let's go. Garlot and the others are going to leave us behind.",
+  "status": "done"
  },
  {
   "id": "event_2180_0844E",
@@ -1643,8 +1643,8 @@
    72293
   ],
   "jp": "{voice:00960C}ああそうだね、シスキア。",
-  "en": "",
-  "status": ""
+  "en": "Yes, you're right, Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2180_0846B",
@@ -1655,8 +1655,8 @@
    39261
   ],
   "jp": "よーし、関所の一方は占拠した！",
-  "en": "",
-  "status": ""
+  "en": "All right, one side of the checkpoint is ours!",
+  "status": "done"
  },
  {
   "id": "event_2180_0848A",
@@ -1667,8 +1667,8 @@
    39282
   ],
   "jp": "野郎ども、一気に雪崩れ込め！{n}グラムブレイズを呑み込むんだ！",
-  "en": "",
-  "status": ""
+  "en": "Boys, pour in, all at once! Swallow Gram Blaze whole!",
+  "status": "done"
  },
  {
   "id": "event_2180_084C6",
@@ -1679,8 +1679,8 @@
    39330
   ],
   "jp": "くそっ、勢いを与えてしまった！{n}もう打つ手はないか…",
-  "en": "",
-  "status": ""
+  "en": "Damn it, we let them build up momentum! Is there nothing left we can do...",
+  "status": "done"
  },
  {
   "id": "event_2180_084FA",
@@ -1691,8 +1691,8 @@
    61094
   ],
   "jp": "よう、赤髪。{n}元気そうじゃねぇか。{n}また俺の邪魔しに来たのか？",
-  "en": "",
-  "status": ""
+  "en": "Well, hey there, Red. You're looking lively. Come to get in my way again?",
+  "status": "done"
  },
  {
   "id": "event_2180_08537",
@@ -1703,8 +1703,8 @@
    61115
   ],
   "jp": "お前が大人しくしてれば{n}邪魔なんてしないよ。",
-  "en": "",
-  "status": ""
+  "en": "I wouldn't get in your way if you'd just behave yourself.",
+  "status": "done"
  },
  {
   "id": "event_2180_08563",
@@ -1715,8 +1715,8 @@
    61316
   ],
   "jp": "あんたは西部地域の{n}隅っこにでも引っ込んでなさい！",
-  "en": "",
-  "status": ""
+  "en": "Why don't you go crawl back into some corner of the western region!",
+  "status": "done"
  },
  {
   "id": "event_2180_08595",
@@ -1727,8 +1727,8 @@
    61337
   ],
   "jp": "田舎者を謗るなよ…{n}お兄さん、感心しないぜ？",
-  "en": "",
-  "status": ""
+  "en": "Hey, don't knock country folk... Your big brother here doesn't approve, y'know?",
+  "status": "done"
  },
  {
   "id": "event_2180_085C1",
@@ -1739,8 +1739,8 @@
    61538
   ],
   "jp": "おっと、参謀の兄ちゃんか。{n}お勤めご苦労だね、どうも。",
-  "en": "",
-  "status": ""
+  "en": "Oh ho, if it isn't the strategist kid. Hard at work, I see. Thanks for your service.",
+  "status": "done"
  },
  {
   "id": "event_2180_085F7",
@@ -1751,8 +1751,8 @@
    61545
   ],
   "jp": "…お前さ、昔どこかで{n}俺と会ってないか？",
-  "en": "",
-  "status": ""
+  "en": "...Say, you and me, haven't we met somewhere before?",
+  "status": "done"
  },
  {
   "id": "event_2180_0861F",
@@ -1763,8 +1763,8 @@
    61566
   ],
   "jp": "身に覚えがないね…{n}なに、まさか離間の計のつもり？",
-  "en": "",
-  "status": ""
+  "en": "Can't say I recall... What's this, an attempt to sow discord in our ranks?",
+  "status": "done"
  },
  {
   "id": "event_2180_08651",
@@ -1775,8 +1775,8 @@
    61767
   ],
   "jp": "言を左右し、戦乱を起こす下郎…{n}放っては置けないな。",
-  "en": "",
-  "status": ""
+  "en": "A scoundrel who twists his words and stirs up war... I can't leave you be.",
+  "status": "done"
  },
  {
   "id": "event_2180_08685",
@@ -1787,8 +1787,8 @@
    61788
   ],
   "jp": "俺は本当の事しか言ってないぜ。{n}いつだってな。",
-  "en": "",
-  "status": ""
+  "en": "I only ever tell the truth. Always have.",
+  "status": "done"
  },
  {
   "id": "event_2180_086B3",
@@ -1799,8 +1799,8 @@
    61989
   ],
   "jp": "また懲りずに兵を挙げて…",
-  "en": "",
-  "status": ""
+  "en": "Raising an army again, and still you have not learned...",
+  "status": "done"
  },
  {
   "id": "event_2180_086CC",
@@ -1811,8 +1811,8 @@
    62010
   ],
   "jp": "ククク、俺は諦めが悪いんだ。{n}何度だって立ち上がってやるさ。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh, I'm a sore loser. I'll get back up as many times as it takes.",
+  "status": "done"
  },
  {
   "id": "event_2180_08708",
@@ -1823,8 +1823,8 @@
    62211
   ],
   "jp": "お前、塩の道に関わってるのか？",
-  "en": "",
-  "status": ""
+  "en": "You. You are part of the salt road?",
+  "status": "done"
  },
  {
   "id": "event_2180_08727",
@@ -1835,8 +1835,8 @@
    62232
   ],
   "jp": "フッ、どうだかね？{n}俺に勝てたら教えてやるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Heh, who can say? Beat me and I'll tell you.",
+  "status": "done"
  },
  {
   "id": "event_2180_08755",
@@ -1847,8 +1847,8 @@
    62426
   ],
   "jp": "あれだけ乱暴してる反乱軍が{n}どこから金を調達してるのか、{n}不思議だったけど…",
-  "en": "",
-  "status": ""
+  "en": "I did wonder where those rowdy rebels were getting their money...",
+  "status": "done"
  },
  {
   "id": "event_2180_087A0",
@@ -1859,8 +1859,8 @@
    62433
   ],
   "jp": "役人と癒着して荒稼ぎしてた、{n}ってわけか。なるほど。",
-  "en": "",
-  "status": ""
+  "en": "So they've been cozying up to officials and raking it in. I see.",
+  "status": "done"
  },
  {
   "id": "event_2180_087D4",
@@ -1871,8 +1871,8 @@
    62627
   ],
   "jp": "…性懲りもないなぁ。{n}何度痛めつけられれば{n}気が済むっての？",
-  "en": "",
-  "status": ""
+  "en": "...You never learn, do you? How many beatings is it gonna take before you've had enough?",
+  "status": "done"
  },
  {
   "id": "event_2180_0880F",
@@ -1883,8 +1883,8 @@
    62648
   ],
   "jp": "転んでもタダじゃ起きないぜ。",
-  "en": "",
-  "status": ""
+  "en": "When I fall down, I never get up empty-handed.",
+  "status": "done"
  },
  {
   "id": "event_2180_0882C",
@@ -1895,8 +1895,8 @@
    62849
   ],
   "jp": "ウィ～ック。{n}あら、またあんた…",
-  "en": "",
-  "status": ""
+  "en": "*hic* Ooh. Well now, you again...",
+  "status": "done"
  },
  {
   "id": "event_2180_0884C",
@@ -1907,8 +1907,8 @@
    62870
   ],
   "jp": "おっと、いい男はコレだから{n}辛いんだよなぁ。{n}すぐに顔を覚えられちゃうからな。",
-  "en": "",
-  "status": ""
+  "en": "Oh, the burden of being a handsome man. People remember my face right away.",
+  "status": "done"
  },
  {
   "id": "event_2180_08899",
@@ -1919,8 +1919,8 @@
    63078
   ],
   "jp": "うほっ！{n}反乱軍の大将じゃない！{n}こんなところに何の用？",
-  "en": "",
-  "status": ""
+  "en": "Oho! It's the rebel chief! What brings you to these parts?",
+  "status": "done"
  },
  {
   "id": "event_2180_088D0",
@@ -1931,8 +1931,8 @@
    63096
   ],
   "jp": "ははーん、わかったんだわさ…{n}さては、このパメラ様の魅力の{n}トリコになっちゃったワケね③",
-  "en": "",
-  "status": ""
+  "en": "Aha, Pamela-sama's got it... You've fallen under the spell of Pamela-sama's charm, haven't you!?",
+  "status": "done"
  },
  {
   "id": "event_2180_08927",
@@ -1943,8 +1943,8 @@
    63117
   ],
   "jp": "……ククク。{n}残念ながら違ぇよ。",
-  "en": "",
-  "status": ""
+  "en": "...Heh heh heh. Sorry, but no.",
+  "status": "done"
  },
  {
   "id": "event_2180_08947",
@@ -1955,8 +1955,8 @@
    63325
   ],
   "jp": "お前さ、道を歩いてて{n}モノにぶつかったりしないわけ？",
-  "en": "",
-  "status": ""
+  "en": "Say, don't you bump into things when you're walking down the road?",
+  "status": "done"
  },
  {
   "id": "event_2180_0897B",
@@ -1967,8 +1967,8 @@
    63346
   ],
   "jp": "フフフ…{n}私の力は少し特殊なものでしてね。",
-  "en": "",
-  "status": ""
+  "en": "Heh... Hehehe... My abilities are of a somewhat special nature.",
+  "status": "done"
  },
  {
   "id": "event_2180_089A5",
@@ -1979,8 +1979,8 @@
    63575
   ],
   "jp": "見てくれはいいのに、{n}勿体ないですわね、あなた。",
-  "en": "",
-  "status": ""
+  "en": "You look the part, yet what a waste you are.",
+  "status": "done"
  },
  {
   "id": "event_2180_089D5",
@@ -1991,8 +1991,8 @@
    63596
   ],
   "jp": "ならさ、今晩どうだい？{n}きっと後悔させてやれるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Then how about a rematch? Bet I can make you regret saying that.",
+  "status": "done"
  },
  {
   "id": "event_2180_08A07",
@@ -2003,8 +2003,8 @@
    63623
   ],
   "jp": "陰でコソコソと動き回って…{n}本当につまらん男だな。{n}よくも部下がついてくるもんだぜ。",
-  "en": "",
-  "status": ""
+  "en": "Skulking around behind everybody's back... What a boring man. Amazing that anybody follows you.",
+  "status": "done"
  },
  {
   "id": "event_2180_08A5A",
@@ -2015,8 +2015,8 @@
    63644
   ],
   "jp": "言わせておけば…{n}明日の太陽拝ませねぇぞ、こら。",
-  "en": "",
-  "status": ""
+  "en": "Keep running your mouth... You won't live to see the sun tomorrow, you hear me?",
+  "status": "done"
  },
  {
   "id": "event_2180_08A8A",
@@ -2027,8 +2027,8 @@
    63859
   ],
   "jp": "標的、補足…",
-  "en": "",
-  "status": ""
+  "en": "Target acquired...",
+  "status": "done"
  },
  {
   "id": "event_2180_08A97",
@@ -2039,8 +2039,8 @@
    63880
   ],
   "jp": "…げ。開戦前の挨拶もナシかよ。{n}つれないねぇ、もう…",
-  "en": "",
-  "status": ""
+  "en": "...Ugh. Not even a hello before the fight? So cold...",
+  "status": "done"
  },
  {
   "id": "event_2180_08ACB",
@@ -2051,8 +2051,8 @@
    64662
   ],
   "jp": "お前が塩の流通に加担している、{n}という証言を得ているんだ！",
-  "en": "",
-  "status": ""
+  "en": "We've got testimony that you're mixed up in the salt trade!",
+  "status": "done"
  },
  {
   "id": "event_2180_08B05",
@@ -2063,8 +2063,8 @@
    64683
   ],
   "jp": "んん～？{n}何の話かワカリマセンねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Hmmm? I Have No Idea What You Mean, I'm Afraid.",
+  "status": "done"
  },
  {
   "id": "event_2180_08B29",
@@ -2075,8 +2075,8 @@
    64755
   ],
   "jp": "しまった！",
-  "en": "",
-  "status": ""
+  "en": "Damn it!",
+  "status": "done"
  },
  {
   "id": "event_2180_08B34",
@@ -2087,8 +2087,8 @@
    64776
   ],
   "jp": "大将同士のぶつかり合いで勝利…{n}いいねぇ。こっちの戦意も{n}高揚する、ってもんだぜ。",
-  "en": "",
-  "status": ""
+  "en": "Winning a duel between the leaders... Nice. Does wonders for our fighting spirit.",
+  "status": "done"
  },
  {
   "id": "event_2180_08B85",
@@ -2099,8 +2099,8 @@
    64961
   ],
   "jp": "あんたらが暴れてると、{n}ティエラのみんなが不安がるのよ②",
-  "en": "",
-  "status": ""
+  "en": "When you lot run wild, everyone in Tiera gets scared!",
+  "status": "done"
  },
  {
   "id": "event_2180_08BBD",
@@ -2111,8 +2111,8 @@
    64982
   ],
   "jp": "…そいつはできない相談だな。",
-  "en": "",
-  "status": ""
+  "en": "...Now that's a deal I can't make.",
+  "status": "done"
  },
  {
   "id": "event_2180_08BDA",
@@ -2123,8 +2123,8 @@
    65061
   ],
   "jp": "きゃあ！",
-  "en": "",
-  "status": ""
+  "en": "Aagh!",
+  "status": "done"
  },
  {
   "id": "event_2180_08BE3",
@@ -2135,8 +2135,8 @@
    65082
   ],
   "jp": "お。お。{n}カワイイ声出すもんだな。{n}よーし、もう一回攻めかけようか。",
-  "en": "",
-  "status": ""
+  "en": "Oh ho. What a squeal. All right, let's hit 'em again.",
+  "status": "done"
  },
  {
   "id": "event_2180_08C26",
@@ -2147,8 +2147,8 @@
    65103
   ],
   "jp": "くっ…{n}ふざけないで！",
-  "en": "",
-  "status": ""
+  "en": "Ngh... Don't you mock me!",
+  "status": "done"
  },
  {
   "id": "event_2180_08C3C",
@@ -2159,8 +2159,8 @@
    65309
   ],
   "jp": "これでどうだ！",
-  "en": "",
-  "status": ""
+  "en": "How do you like this!",
+  "status": "done"
  },
  {
   "id": "event_2180_08C4B",
@@ -2171,8 +2171,8 @@
    65330
   ],
   "jp": "…ああ、思い出した！{n}アイツの似てない末子だ。",
-  "en": "",
-  "status": ""
+  "en": "...Ah, now I remember! You're that guy's youngest, the one who looks nothing like him.",
+  "status": "done"
  },
  {
   "id": "event_2180_08C79",
@@ -2183,8 +2183,8 @@
    65351
   ],
   "jp": "家出した、と聞いていたが…{n}私兵なんかに身をやつしていた、{n}ってわけか。",
-  "en": "",
-  "status": ""
+  "en": "I heard you ran away from home... So you sank as low as being somebody's private soldier.",
+  "status": "done"
  },
  {
   "id": "event_2180_08CC0",
@@ -2195,8 +2195,8 @@
    65372
   ],
   "jp": "さっきから、何を…？",
-  "en": "",
-  "status": ""
+  "en": "What are you going on about...?",
+  "status": "done"
  },
  {
   "id": "event_2180_08CD5",
@@ -2207,8 +2207,8 @@
    65458
   ],
   "jp": "どこかで会った気が{n}するんだがなあ…",
-  "en": "",
-  "status": ""
+  "en": "I could swear we've met somewhere...",
+  "status": "done"
  },
  {
   "id": "event_2180_08CF9",
@@ -2219,8 +2219,8 @@
    65479
   ],
   "jp": "…余裕ぶって。今に見ていろ！",
-  "en": "",
-  "status": ""
+  "en": "...So smug. Just you wait!",
+  "status": "done"
  },
  {
   "id": "event_2180_08D16",
@@ -2231,8 +2231,8 @@
    65685
   ],
   "jp": "一気に蹴散らすぞ！",
-  "en": "",
-  "status": ""
+  "en": "Scatter them in one go!",
+  "status": "done"
  },
  {
   "id": "event_2180_08D29",
@@ -2243,8 +2243,8 @@
    65706
   ],
   "jp": "相変わらずの戦闘能力だな…{n}反乱軍に欲しいくらいだぜ。{n}美人だしよ。",
-  "en": "",
-  "status": ""
+  "en": "Fighting skills as sharp as ever... I'd love to have you in the rebel army. Good-looking, too.",
+  "status": "done"
  },
  {
   "id": "event_2180_08D6C",
@@ -2267,8 +2267,8 @@
    65748
   ],
   "jp": "い、一気に蹴散らすわよ！",
-  "en": "",
-  "status": ""
+  "en": "S-scatter them in one go!",
+  "status": "done"
  },
  {
   "id": "event_2180_08D90",
@@ -2279,8 +2279,8 @@
    65827
   ],
   "jp": "よしよし、優勢じゃねぇか。{n}一気に畳み掛けようぜ！",
-  "en": "",
-  "status": ""
+  "en": "Good, good, we've got the upper hand. Let's finish 'em in one big push!",
+  "status": "done"
  },
  {
   "id": "event_2180_08DC2",
@@ -2291,8 +2291,8 @@
    65848
   ],
   "jp": "…くっ！{n}反乱軍を関所に近づけるな！",
-  "en": "",
-  "status": ""
+  "en": "...Ngh! Keep the rebels away from the checkpoint!",
+  "status": "done"
  },
  {
   "id": "event_2180_08DE6",
@@ -2303,8 +2303,8 @@
    66047
   ],
   "jp": "何度でも立ち上がるのなら、{n}何度でも斬ってみせます！",
-  "en": "",
-  "status": ""
+  "en": "If you will stand back up as many times as you please, I will cut you down as many times as I must!",
+  "status": "done"
  },
  {
   "id": "event_2180_08E1A",
@@ -2315,8 +2315,8 @@
    66068
   ],
   "jp": "…ちっ。{n}相変わらず腕の立つ事で。",
-  "en": "",
-  "status": ""
+  "en": "...Tch. Skilled with that blade as ever.",
+  "status": "done"
  },
  {
   "id": "event_2180_08E3C",
@@ -2327,8 +2327,8 @@
    66140
   ],
   "jp": "いけない、手負いましたか…",
-  "en": "",
-  "status": ""
+  "en": "No, I have been wounded...",
+  "status": "done"
  },
  {
   "id": "event_2180_08E57",
@@ -2339,8 +2339,8 @@
    66161
   ],
   "jp": "よしよし、向こうの旗色が{n}悪いうちにカタをつけようぜ！",
-  "en": "",
-  "status": ""
+  "en": "Good, good, let's settle this while their side's flagging!",
+  "status": "done"
  },
  {
   "id": "event_2180_08E8D",
@@ -2351,8 +2351,8 @@
    66360
   ],
   "jp": "よし！　バイフー、勝ったぞ！",
-  "en": "",
-  "status": ""
+  "en": "Yes! Byff won!",
+  "status": "done"
  },
  {
   "id": "event_2180_08EAA",
@@ -2363,8 +2363,8 @@
    66381
   ],
   "jp": "甘いね！　まだ逆転可能な限り、{n}お前は勝っていないんだぜ。",
-  "en": "",
-  "status": ""
+  "en": "Too soft! As long as I can still turn it around, you haven't won.",
+  "status": "done"
  },
  {
   "id": "event_2180_08EE4",
@@ -2375,8 +2375,8 @@
    66460
   ],
   "jp": "どうだい、獣人よ？{n}人様にやられる気分は！",
-  "en": "",
-  "status": ""
+  "en": "How about it, beast-man? How's it feel, getting beaten by a human!",
+  "status": "done"
  },
  {
   "id": "event_2180_08F0E",
@@ -2387,8 +2387,8 @@
    66481
   ],
   "jp": "くっ、油断したか。{n}ここを凌ぐには、勇断が必要だ！{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Ngh, Byff dropped his guard. To get through this, Byff needs a bodyguard! Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2180_08F4F",
@@ -2399,8 +2399,8 @@
    66502
   ],
   "jp": "…全然堪えてないみたいだな…",
-  "en": "",
-  "status": ""
+  "en": "...He doesn't seem fazed at all...",
+  "status": "done"
  },
  {
   "id": "event_2180_08F6C",
@@ -2411,8 +2411,8 @@
    66708
   ],
   "jp": "どうって事ないわね。{n}戦闘より、金を嗅ぎ分ける方が{n}向いてるんじゃない？",
-  "en": "",
-  "status": ""
+  "en": "That was nothing. Maybe you're better suited to sniffing out money than to fighting?",
+  "status": "done"
  },
  {
   "id": "event_2180_08FB3",
@@ -2423,8 +2423,8 @@
    66729
   ],
   "jp": "生憎、人手不足でね…",
-  "en": "",
-  "status": ""
+  "en": "We're short-handed, unfortunately...",
+  "status": "done"
  },
  {
   "id": "event_2180_08FC8",
@@ -2435,8 +2435,8 @@
    66801
   ],
   "jp": "金は重要だぜ？",
-  "en": "",
-  "status": ""
+  "en": "Money's important, y'know.",
+  "status": "done"
  },
  {
   "id": "event_2180_08FD7",
@@ -2447,8 +2447,8 @@
    66822
   ],
   "jp": "知ってるわよ。{n}けど往々として、お金持ちは{n}研究開発への理解に乏しいのよ。",
-  "en": "",
-  "status": ""
+  "en": "I know that. But more often than not, rich people have no appreciation for research and development.",
+  "status": "done"
  },
  {
   "id": "event_2180_09020",
@@ -2459,8 +2459,8 @@
    66829
   ],
   "jp": "だから私はお金は嫌いだけど、{n}お金は必要なのよ。",
-  "en": "",
-  "status": ""
+  "en": "That's why I hate money, and why I need it.",
+  "status": "done"
  },
  {
   "id": "event_2180_09050",
@@ -2471,8 +2471,8 @@
    67028
   ],
   "jp": "転んでもタダじゃ起きないなら、{n}起きれなくなるまで転ばすさ！",
-  "en": "",
-  "status": ""
+  "en": "If you never get up empty-handed, then I'll keep knocking you down till you can't get up!",
+  "status": "done"
  },
  {
   "id": "event_2180_0908C",
@@ -2483,8 +2483,8 @@
    67049
   ],
   "jp": "…オーケー、{n}しぶとさ勝負と行こうか。",
-  "en": "",
-  "status": ""
+  "en": "...Okay, let's see who's more stubborn.",
+  "status": "done"
  },
  {
   "id": "event_2180_090B2",
@@ -2495,8 +2495,8 @@
    67121
   ],
   "jp": "おっと？{n}何の因果か、転んだのは{n}転ばそうとしたそっちだったか。",
-  "en": "",
-  "status": ""
+  "en": "Well now? By some twist of fate, the one who fell was the one trying to trip me.",
+  "status": "done"
  },
  {
   "id": "event_2180_090F1",
@@ -2507,8 +2507,8 @@
    67142
   ],
   "jp": "くっ！{n}逃げ足自慢のはだしのミゼルが{n}足を取られるなんて、不覚だね…",
-  "en": "",
-  "status": ""
+  "en": "Ngh! The fleet-footed Barefoot Mizer, tripped up! How careless of me...",
+  "status": "done"
  },
  {
   "id": "event_2180_09134",
@@ -2519,8 +2519,8 @@
    67341
   ],
   "jp": "ちっ、しくじったかよ。",
-  "en": "",
-  "status": ""
+  "en": "Tch, I botched it.",
+  "status": "done"
  },
  {
   "id": "event_2180_0914B",
@@ -2531,8 +2531,8 @@
    67362
   ],
   "jp": "あらあら～、{n}自称・いい男が台無しよ？{n}ウィック…",
-  "en": "",
-  "status": ""
+  "en": "Oh my~ There goes your self-proclaimed handsomeness, y'hear? *hic*",
+  "status": "done"
  },
  {
   "id": "event_2180_0917C",
@@ -2543,8 +2543,8 @@
    67434
   ],
   "jp": "よし、押し切ったぜ！",
-  "en": "",
-  "status": ""
+  "en": "All right, I pushed through!",
+  "status": "done"
  },
  {
   "id": "event_2180_09191",
@@ -2555,8 +2555,8 @@
    67455
   ],
   "jp": "ヒック…{n}…ヒック…",
-  "en": "",
-  "status": ""
+  "en": "*hic* ...*hic*...",
+  "status": "done"
  },
  {
   "id": "event_2180_091A5",
@@ -2567,8 +2567,8 @@
    67476
   ],
   "jp": "ふふ、見ろよ、フラフラだぜ。{n}…あれ？　最初からフラフラ{n}だったような気もするが…",
-  "en": "",
-  "status": ""
+  "en": "Heh, look at that, she's staggering. ...Huh? Come to think of it, I feel like she was staggering from the start...",
+  "status": "done"
  },
  {
   "id": "event_2180_091F6",
@@ -2579,8 +2579,8 @@
    67675
   ],
   "jp": "１つ積んではパメラ様のため…{n}２つ積んではパメラ様のため…",
-  "en": "",
-  "status": ""
+  "en": "One stone stacked for Pamela-sama... Two stones stacked for Pamela-sama...",
+  "status": "done"
  },
  {
   "id": "event_2180_09230",
@@ -2591,8 +2591,8 @@
    67696
   ],
   "jp": "な、なんだコイツ…{n}宗教屋か何かかよ？",
-  "en": "",
-  "status": ""
+  "en": "Wh-what is with this one... Some kind of religion peddler?",
+  "status": "done"
  },
  {
   "id": "event_2180_09256",
@@ -2603,8 +2603,8 @@
    67717
   ],
   "jp": "ついに追っかけが付いたんだもの、{n}カリスマ性を高めておかないと{n}いけないんだわさ。",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama finally has a fanboy, so Pamela-sama has to work on her charisma!",
+  "status": "done"
  },
  {
   "id": "event_2180_092A7",
@@ -2615,8 +2615,8 @@
    67789
   ],
   "jp": "むきぃー②{n}追っかけも熱心すぎると{n}嫌われちゃうわよ！",
-  "en": "",
-  "status": ""
+  "en": "Eeeek!! Fanboys who try too hard get dumped, you know!",
+  "status": "done"
  },
  {
   "id": "event_2180_092DC",
@@ -2627,8 +2627,8 @@
    67810
   ],
   "jp": "くっ、全くワケがわからないぜ！",
-  "en": "",
-  "status": ""
+  "en": "Ngh, I can't make heads or tails of this!",
+  "status": "done"
  },
  {
   "id": "event_2180_092FB",
@@ -2639,8 +2639,8 @@
    68009
   ],
   "jp": "くっ、やりやがるな…",
-  "en": "",
-  "status": ""
+  "en": "Ngh, not bad...",
+  "status": "done"
  },
  {
   "id": "event_2180_09310",
@@ -2651,8 +2651,8 @@
    68030
   ],
   "jp": "目など見えずとも、{n}目の前にいる敵を屠る方法など{n}いくらでもあるのですよ。",
-  "en": "",
-  "status": ""
+  "en": "Even without eyes, there are countless ways to slaughter the enemy before me.",
+  "status": "done"
  },
  {
   "id": "event_2180_09359",
@@ -2663,8 +2663,8 @@
    68095
   ],
   "jp": "…我々が勝利する未来は{n}既に見えています。{n}ここから是正は可能、という事。",
-  "en": "",
-  "status": ""
+  "en": "...I have already seen a future in which we are victorious. Which is to say, this can still be corrected.",
+  "status": "done"
  },
  {
   "id": "event_2180_093A2",
@@ -2675,8 +2675,8 @@
    68301
   ],
   "jp": "この勝負に勝てたのならば、{n}一晩捧げてもよかったですのに……{n}残念ですわねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Had you won this bout, I might have granted you an evening's chat... What a pity.",
+  "status": "done"
  },
  {
   "id": "event_2180_093EF",
@@ -2687,8 +2687,8 @@
    68322
   ],
   "jp": "ならば無理矢理いただくか！{n}そっちの方が好みだったりしてな。",
-  "en": "",
-  "status": ""
+  "en": "Then I'll just make you talk! Might even like that better.",
+  "status": "done"
  },
  {
   "id": "event_2180_0942B",
@@ -2699,8 +2699,8 @@
    68514
   ],
   "jp": "どうだい？{n}ちょっとは俺を見る目が{n}変わったかな？",
-  "en": "",
-  "status": ""
+  "en": "How about it? Has your opinion of me changed a little?",
+  "status": "done"
  },
  {
   "id": "event_2180_0945C",
@@ -2711,8 +2711,8 @@
    68535
   ],
   "jp": "…多少、程度ですわね。{n}まだまだわかりかねますわ。{n}もっと攻めてくださいませ！",
-  "en": "",
-  "status": ""
+  "en": "...Only slightly. It is still too soon to tell. Do press your attack harder, won't you!",
+  "status": "done"
  },
  {
   "id": "event_2180_094A9",
@@ -2723,8 +2723,8 @@
    68393
   ],
   "jp": "くぅっ、手強いぜ…",
-  "en": "",
-  "status": ""
+  "en": "Ngh, she's a tough one...",
+  "status": "done"
  },
  {
   "id": "event_2180_094BC",
@@ -2735,8 +2735,8 @@
    68414
   ],
   "jp": "おら、どうしたよ！{n}まだ半分も力出してないんだぜ？",
-  "en": "",
-  "status": ""
+  "en": "C'mon, what's the matter! I'm not even using half my strength!",
+  "status": "done"
  },
  {
   "id": "event_2180_094EE",
@@ -2747,8 +2747,8 @@
    68606
   ],
   "jp": "へぇ…{n}ちょっと油断してたぜ。{n}まだまだやれるじゃねぇか。",
-  "en": "",
-  "status": ""
+  "en": "Well now... I got a little careless. Looks like you've still got some fight in you.",
+  "status": "done"
  },
  {
   "id": "event_2180_09527",
@@ -2759,8 +2759,8 @@
    68627
   ],
   "jp": "この程度の戦況、本気を出せば{n}覆すのは容易いぜ！",
-  "en": "",
-  "status": ""
+  "en": "Once I get serious, turning a fight like this around is easy!",
+  "status": "done"
  },
  {
   "id": "event_2180_09557",
@@ -2771,8 +2771,8 @@
    68826
   ],
   "jp": "次だ。",
-  "en": "",
-  "status": ""
+  "en": "Next.",
+  "status": "done"
  },
  {
   "id": "event_2180_0955E",
@@ -2783,8 +2783,8 @@
    68847
   ],
   "jp": "くっ、近寄れねぇ…",
-  "en": "",
-  "status": ""
+  "en": "Ngh, I can't get close...",
+  "status": "done"
  },
  {
   "id": "event_2180_09571",
@@ -2795,8 +2795,8 @@
    68919
   ],
   "jp": "…一時分散。{n}追撃の部隊は生かして返すな。",
-  "en": "",
-  "status": ""
+  "en": "...Scatter for now. Let no pursuers return alive.",
+  "status": "done"
  },
  {
   "id": "event_2180_0959B",
@@ -2807,7 +2807,7 @@
    68940
   ],
   "jp": "チッ、なんて粛然とした退避だ。{n}追撃はなしだ。",
-  "en": "",
-  "status": ""
+  "en": "Tch, what a disciplined withdrawal. No pursuit.",
+  "status": "done"
  }
 ]

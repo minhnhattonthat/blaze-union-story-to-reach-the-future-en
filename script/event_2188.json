@@ -8,8 +8,8 @@
    4870
   ],
   "jp": "{voice:003910}ここが魔竜の神殿か。{n}それにしても、寂しいところだ。",
-  "en": "",
-  "status": ""
+  "en": "So this is the demon dragon's temple. What a lonely place.",
+  "status": "done"
  },
  {
   "id": "event_2188_00060",
@@ -20,8 +20,8 @@
    4877
   ],
   "jp": "{voice:003A10}本当にここで、魔竜に関する{n}最先端の研究をしているのか？",
-  "en": "",
-  "status": ""
+  "en": "Are they really doing the latest research on demon dragons here?",
+  "status": "done"
  },
  {
   "id": "event_2188_0009C",
@@ -32,8 +32,8 @@
    4887
   ],
   "jp": "{voice:003B10}ん…、誰かが来る……",
-  "en": "",
-  "status": ""
+  "en": "Hm... Someone's coming...",
+  "status": "done"
  },
  {
   "id": "event_2188_000B5",
@@ -44,8 +44,8 @@
    4958
   ],
   "jp": "{voice:003C10}誰かとはご挨拶だね。{n}勝手に他人の家に上がりこんだ{n}人が言う台詞？",
-  "en": "",
-  "status": ""
+  "en": "\"Someone,\" he says. Is that what you say after barging into another person's house?",
+  "status": "done"
  },
  {
   "id": "event_2188_000FA",
@@ -56,8 +56,8 @@
    4965
   ],
   "jp": "{voice:003D10}まったく聞いて呆れるわよ。{n}これだからヨソモノは……{n}ん…？",
-  "en": "",
-  "status": ""
+  "en": "Honestly, the nerve of you. That's outsiders for you... Hm...?",
+  "status": "done"
  },
  {
   "id": "event_2188_00139",
@@ -68,8 +68,8 @@
    4986
   ],
   "jp": "{voice:003E10}…力を感じる。{n}あなた、魔竜の血を引く者ね？",
-  "en": "",
-  "status": ""
+  "en": "...I sense power. You carry the demon dragon's blood, don't you?",
+  "status": "done"
  },
  {
   "id": "event_2188_00169",
@@ -80,8 +80,8 @@
    5007
   ],
   "jp": "{voice:003F10}そうらしい。{n}お前は、何か知っているのか？{n}それなら、教えて欲しい。",
-  "en": "",
-  "status": ""
+  "en": "So they tell me. Do you know anything? If so, I'd like you to tell me.",
+  "status": "done"
  },
  {
   "id": "event_2188_001B0",
@@ -92,8 +92,8 @@
    5014
   ],
   "jp": "{voice:004010}俺はどうにかして、{n}この力を自由に使えるように{n}しなくちゃいけないんだ、頼む！",
-  "en": "",
-  "status": ""
+  "en": "I've got to find some way to use this power freely. Please!",
+  "status": "done"
  },
  {
   "id": "event_2188_00201",
@@ -104,8 +104,8 @@
    5035
   ],
   "jp": "{voice:004110}でも、あなた…{n}その力は……",
-  "en": "",
-  "status": ""
+  "en": "But you... That power...",
+  "status": "done"
  },
  {
   "id": "event_2188_00221",
@@ -116,8 +116,8 @@
    5200
   ],
   "jp": "{voice:004210}お客人ですね。よろしければ、{n}私が、ご用件を伺いましょう。",
-  "en": "",
-  "status": ""
+  "en": "You are a guest, I see. If I may, I shall hear your business.",
+  "status": "done"
  },
  {
   "id": "event_2188_0025F",
@@ -128,8 +128,8 @@
    5221
   ],
   "jp": "{voice:004310}アンタは…、{n}何故だろう、以前に会った事が{n}あるような気がする……",
-  "en": "",
-  "status": ""
+  "en": "You... I don't know why, but I feel like I've met you before...",
+  "status": "done"
  },
  {
   "id": "event_2188_002A4",
@@ -140,8 +140,8 @@
    5242
   ],
   "jp": "{voice:004410}申し遅れました。{n}私は、この神殿で魔竜研究を{n}統括するベアトリーヌと申します。",
-  "en": "",
-  "status": ""
+  "en": "Forgive my late introduction. I am Baretreenu, who oversees the demon dragon research at this temple.",
+  "status": "done"
  },
  {
   "id": "event_2188_002F5",
@@ -152,8 +152,8 @@
    5249
   ],
   "jp": "{voice:004510}魔竜の血の力の事ですね……",
-  "en": "",
-  "status": ""
+  "en": "You speak of the power of the demon dragon's blood...",
+  "status": "done"
  },
  {
   "id": "event_2188_00314",
@@ -164,8 +164,8 @@
    5270
   ],
   "jp": "{voice:004610}そうだ、教えてくれ、{n}俺には魔竜の血の力が眠っている。{n}その力を解き放ちたいんだ！",
-  "en": "",
-  "status": ""
+  "en": "That's right, tell me. The power of the demon dragon's blood is sleeping in me. I want to set it free!",
+  "status": "done"
  },
  {
   "id": "event_2188_00369",
@@ -176,8 +176,8 @@
    5291
   ],
   "jp": "{voice:004710}あなたがいつか、{n}ここへ来るであろう事は、{n}予想していました……",
-  "en": "",
-  "status": ""
+  "en": "I expected that you would come here someday...",
+  "status": "done"
  },
  {
   "id": "event_2188_003AC",
@@ -188,8 +188,8 @@
    5298
   ],
   "jp": "{voice:004810}私がいなくなった事で、{n}父親から憎しみを受けていたと、{n}聞いています。",
-  "en": "",
-  "status": ""
+  "en": "I've heard that your father came to hate you when I disappeared.",
+  "status": "done"
  },
  {
   "id": "event_2188_003F5",
@@ -200,8 +200,8 @@
    5305
   ],
   "jp": "{voice:004910}不憫な子、ガーロット。{n}私がさぞ憎い事でしょう……",
-  "en": "",
-  "status": ""
+  "en": "Poor child, Garlot. You must hate me so...",
+  "status": "done"
  },
  {
   "id": "event_2188_0042B",
@@ -212,8 +212,8 @@
    5326
   ],
   "jp": "{voice:004A10}ちょっと待ってくれ。{n}話が理解できない。{n}それに何故俺の名前を知っている。",
-  "en": "",
-  "status": ""
+  "en": "Hold on. I don't follow any of this. And how do you know my name?",
+  "status": "done"
  },
  {
   "id": "event_2188_00478",
@@ -224,8 +224,8 @@
    5333
   ],
   "jp": "{voice:004B10}そうか、アンタには、{n}人の過去を見る力があるんだな。",
-  "en": "",
-  "status": ""
+  "en": "I get it, you've got the power to see people's pasts.",
+  "status": "done"
  },
  {
   "id": "event_2188_004B0",
@@ -236,8 +236,8 @@
    5354
   ],
   "jp": "{voice:004C10}そうではありません、{n}私は知っていたのです。",
-  "en": "",
-  "status": ""
+  "en": "No, that isn't it. I simply knew.",
+  "status": "done"
  },
  {
   "id": "event_2188_004E0",
@@ -248,8 +248,8 @@
    5361
   ],
   "jp": "{voice:004D10}それは、何故ならば、{n}あなたが私の血を分けた{n}息子だからです。",
-  "en": "",
-  "status": ""
+  "en": "And I knew because you are my own son, my own flesh and blood.",
+  "status": "done"
  },
  {
   "id": "event_2188_00521",
@@ -260,8 +260,8 @@
    5382
   ],
   "jp": "{voice:004E10}アンタが、俺の母親…？",
-  "en": "",
-  "status": ""
+  "en": "You're my mother...?",
+  "status": "done"
  },
  {
   "id": "event_2188_0053C",
@@ -272,8 +272,8 @@
    5457
   ],
   "jp": "{voice:004F10}覚えは、ないのでしょうね…{n}物心つく頃に、あなたの前から{n}姿を消しましたから。",
-  "en": "",
-  "status": ""
+  "en": "You wouldn't remember, I suppose... I vanished from your life when you were just old enough to understand.",
+  "status": "done"
  },
  {
   "id": "event_2188_0058D",
@@ -284,8 +284,8 @@
    5464
   ],
   "jp": "{voice:005010}あなたは幼い頃から、{n}魔竜の力に溢れる稀有な子でした。",
-  "en": "",
-  "status": ""
+  "en": "From a young age, you were a rare child overflowing with demon dragon power.",
+  "status": "done"
  },
  {
   "id": "event_2188_005C7",
@@ -296,8 +296,8 @@
    5471
   ],
   "jp": "{voice:005110}あなたのその力を危惧した私は、{n}当時研究をしていた知識を用いて{n}魔竜の血の力を封印したのです。",
-  "en": "",
-  "status": ""
+  "en": "Fearing your power, I used the knowledge from my research at that time to seal the power of your blood.",
+  "status": "done"
  },
  {
   "id": "event_2188_00628",
@@ -308,8 +308,8 @@
    5492
   ],
   "jp": "{voice:005210}何故、親父と俺を置いて消えた？",
-  "en": "",
-  "status": ""
+  "en": "Why'd you vanish and leave Dad and me behind?",
+  "status": "done"
  },
  {
   "id": "event_2188_0064B",
@@ -320,8 +320,8 @@
    5513
   ],
   "jp": "{voice:005310}あなたの封印はまだ未完成です。{n}感情が高ぶれば、{n}一時的に解けてしまうのです。",
-  "en": "",
-  "status": ""
+  "en": "Your seal is still incomplete. When your emotions run high, it comes undone for a time.",
+  "status": "done"
  },
  {
   "id": "event_2188_0069C",
@@ -332,8 +332,8 @@
    5520
   ],
   "jp": "{voice:005410}私は完全なる、封印の研究を{n}する事を決めました。{n}あなたの為に……",
-  "en": "",
-  "status": ""
+  "en": "I resolved to research a complete seal. For your sake...",
+  "status": "done"
  },
  {
   "id": "event_2188_006E1",
@@ -344,8 +344,8 @@
    5527
   ],
   "jp": "{voice:005510}そして、その研究を続けるには、{n}母や妻としての私を、{n}棄てるしかなかったのです。",
-  "en": "",
-  "status": ""
+  "en": "And to continue that research, I had no choice but to abandon myself as mother and wife.",
+  "status": "done"
  },
  {
   "id": "event_2188_00734",
@@ -356,8 +356,8 @@
    5548
   ],
   "jp": "{voice:005610}魔竜の血の力を、{n}封印したのは何故だ……？",
-  "en": "",
-  "status": ""
+  "en": "Why'd you seal the power of the demon dragon's blood...?",
+  "status": "done"
  },
  {
   "id": "event_2188_00762",
@@ -368,8 +368,8 @@
    5569
   ],
   "jp": "{voice:005710}強い力を持つとわかれば、{n}必ず何者かに利用されます。",
-  "en": "",
-  "status": ""
+  "en": "Once people learn someone holds great power, someone will surely use him.",
+  "status": "done"
  },
  {
   "id": "event_2188_0079A",
@@ -380,8 +380,8 @@
    5576
   ],
   "jp": "{voice:005810}魔竜の血の力は人を不幸にする…{n}私は、あなたが不幸になるのを{n}見るのは嫌だったのです。",
-  "en": "",
-  "status": ""
+  "en": "The power of the demon dragon's blood brings misery... I couldn't bear to see you made miserable.",
+  "status": "done"
  },
  {
   "id": "event_2188_007F3",
@@ -392,8 +392,8 @@
    5597
   ],
   "jp": "{voice:005910}魔竜の血の力を封印したから{n}今の俺は不幸ではない。{n}そう言うのか、あんたは！",
-  "en": "",
-  "status": ""
+  "en": "So you're saying I'm not miserable now because you sealed it!",
+  "status": "done"
  },
  {
   "id": "event_2188_00842",
@@ -404,8 +404,8 @@
    5604
   ],
   "jp": "{voice:005A10}母に棄てられ、父に虐げられ、{n}一番の友達まで失った俺が…{n}幸せだとでも言うのか②",
-  "en": "",
-  "status": ""
+  "en": "Abandoned by my mother, abused by my father, and now I've lost my best friend too... You call that happy!!",
+  "status": "done"
  },
  {
   "id": "event_2188_00895",
@@ -416,8 +416,8 @@
    5625
   ],
   "jp": "{voice:005B10}魔竜の血を引く者の不幸を{n}少しでも和らげたいと、{n}研究を重ねて来ましたが…",
-  "en": "",
-  "status": ""
+  "en": "I kept up my research, wishing to ease even a little the misery of those of demon dragon blood...",
+  "status": "done"
  },
  {
   "id": "event_2188_008E2",
@@ -428,8 +428,8 @@
    5643
   ],
   "jp": "{voice:005C10}結果、あなたを不幸にしたのなら、{n}私には研究を続ける資格すら{n}ないのかもしれません。",
-  "en": "",
-  "status": ""
+  "en": "If the result has made you miserable, perhaps I have no right even to continue my research.",
+  "status": "done"
  },
  {
   "id": "event_2188_00939",
@@ -440,8 +440,8 @@
    5664
   ],
   "jp": "{voice:005D10}そう言うつもりじゃ、{n}ないんだよ……",
-  "en": "",
-  "status": ""
+  "en": "That's not what I meant...",
+  "status": "done"
  },
  {
   "id": "event_2188_00961",
@@ -452,8 +452,8 @@
    5685
   ],
   "jp": "{voice:005E10}お聞きなさい、ガーロット。{n}封印を破る方法が、{n}１つだけ存在します。",
-  "en": "",
-  "status": ""
+  "en": "Listen to me, Garlot. There is but one way to break the seal.",
+  "status": "done"
  },
  {
   "id": "event_2188_009A8",
@@ -464,8 +464,8 @@
    5706
   ],
   "jp": "{voice:005F10}術者である私を殺す事です。",
-  "en": "",
-  "status": ""
+  "en": "Kill me, the one who cast it.",
+  "status": "done"
  },
  {
   "id": "event_2188_009C7",
@@ -488,8 +488,8 @@
    5748
   ],
   "jp": "{voice:006010}棄てられたあなたには、{n}不幸だと感じるあなたには、{n}私を貫く権利がある。",
-  "en": "",
-  "status": ""
+  "en": "You, who were abandoned, who feel miserable, have the right to run me through.",
+  "status": "done"
  },
  {
   "id": "event_2188_00A1B",
@@ -500,8 +500,8 @@
    5755
   ],
   "jp": "{voice:006110}そして、封印を施した私には、{n}それを守り抜く義務がある。",
-  "en": "",
-  "status": ""
+  "en": "And I, who laid the seal, have the duty to protect it to the end.",
+  "status": "done"
  },
  {
   "id": "event_2188_00A57",
@@ -512,8 +512,8 @@
    5776
   ],
   "jp": "{voice:006210}ガーロット、意味は分かりますね。{n}私と、戦うのです。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, you understand what this means. You must fight me.",
+  "status": "done"
  },
  {
   "id": "event_2188_00A8F",
@@ -524,8 +524,8 @@
    5786
   ],
   "jp": "{voice:006310}さあ、槍を取りなさい…{n}あなたが魔竜の力を求めるならば。",
-  "en": "",
-  "status": ""
+  "en": "Now, take up your spear... If you seek the power of the demon dragon.",
+  "status": "done"
  },
  {
   "id": "event_2188_00ACB",
@@ -536,8 +536,8 @@
    5970
   ],
   "jp": "{voice:006410}俺は……、母を倒し、{n}そして、力を得る……",
-  "en": "",
-  "status": ""
+  "en": "I'll... I'll defeat my mother and gain the power...",
+  "status": "done"
  },
  {
   "id": "event_2188_00AF9",
@@ -548,8 +548,8 @@
    6833
   ],
   "jp": "{voice:006510}やはりガーロットは、{n}魔竜の血を引く者だったのね。",
-  "en": "",
-  "status": ""
+  "en": "So Garlot does carry the demon dragon's blood after all.",
+  "status": "done"
  },
  {
   "id": "event_2188_00B2F",
@@ -560,8 +560,8 @@
    6840
   ],
   "jp": "{voice:006610}宿命だの運命だの、{n}そんな物に縛られたくなくて{n}家を飛び出してきたけど…",
-  "en": "",
-  "status": ""
+  "en": "I ran away from home because I didn't want to be tied down by things like fate and destiny, but...",
+  "status": "done"
  },
  {
   "id": "event_2188_00B7A",
@@ -572,8 +572,8 @@
    6847
   ],
   "jp": "{voice:006710}結局こうやって、{n}魔竜の末裔に出会ってしまった。",
-  "en": "",
-  "status": ""
+  "en": "And in the end, here I am, meeting a descendant of the demon dragon.",
+  "status": "done"
  },
  {
   "id": "event_2188_00BAE",
@@ -584,8 +584,8 @@
    6854
   ],
   "jp": "{voice:006810}なんだか数奇なものを感じるわ。",
-  "en": "",
-  "status": ""
+  "en": "It feels like a strange twist of fate.",
+  "status": "done"
  },
  {
   "id": "event_2188_00BD1",
@@ -596,8 +596,8 @@
    6872
   ],
   "jp": "{voice:006910}だけど、あたしは、何百年も前の{n}伝説を引きずって戦う事なんて{n}絶対に、しない……",
-  "en": "",
-  "status": ""
+  "en": "But I will never fight dragging along some legend from hundreds of years ago...",
+  "status": "done"
  },
  {
   "id": "event_2188_00C24",
@@ -608,8 +608,8 @@
    7951
   ],
   "jp": "{voice:006A10}やったか？",
-  "en": "",
-  "status": ""
+  "en": "Did I get her?",
+  "status": "done"
  },
  {
   "id": "event_2188_00C33",
@@ -632,8 +632,8 @@
    7993
   ],
   "jp": "{voice:006B10}足りないわ、ガーロット。{n}覚悟が足りな過ぎる。",
-  "en": "",
-  "status": ""
+  "en": "Not enough, Garlot. You don't have nearly enough resolve.",
+  "status": "done"
  },
  {
   "id": "event_2188_00C70",
@@ -644,8 +644,8 @@
    8018
   ],
   "jp": "{voice:006C10}なんだって……！",
-  "en": "",
-  "status": ""
+  "en": "What did you say...!",
+  "status": "done"
  },
  {
   "id": "event_2188_00C85",
@@ -656,8 +656,8 @@
    8039
   ],
   "jp": "{voice:006D10}あなたが手を伸ばす魔竜の力は{n}降伏も命乞いも許さない{n}破壊と犠牲と侵略の力なのよ。",
-  "en": "",
-  "status": ""
+  "en": "The power you reach for allows no surrender and no pleas for life. It is destruction, sacrifice, conquest.",
+  "status": "done"
  },
  {
   "id": "event_2188_00CDA",
@@ -668,8 +668,8 @@
    8046
   ],
   "jp": "{voice:006E10}魔竜の力を手に入れれば、{n}人ではなくなるの。{n}その覚悟が、あなたには足りない。",
-  "en": "",
-  "status": ""
+  "en": "Gain the demon dragon's power, and you cease to be human. You lack the resolve for that.",
+  "status": "done"
  },
  {
   "id": "event_2188_00D2B",
@@ -680,8 +680,8 @@
    8053
   ],
   "jp": "{voice:006F10}もし覚悟がないなら、{n}私の前から永遠に立ち去りなさい。",
-  "en": "",
-  "status": ""
+  "en": "If you lack it, leave my sight forever.",
+  "status": "done"
  },
  {
   "id": "event_2188_00D65",
@@ -692,8 +692,8 @@
    8074
   ],
   "jp": "{voice:007010}俺の…、覚悟？",
-  "en": "",
-  "status": ""
+  "en": "My... resolve?",
+  "status": "done"
  },
  {
   "id": "event_2188_00D78",
@@ -704,8 +704,8 @@
    8128
   ],
   "jp": "{voice:007110}理不尽を打ち砕く力が欲しい。",
-  "en": "",
-  "status": ""
+  "en": "I want the power to smash injustice.",
+  "status": "done"
  },
  {
   "id": "event_2188_00D99",
@@ -716,8 +716,8 @@
    8149
   ],
   "jp": "{voice:007210}シスキアのような悲劇を{n}二度と繰り返さない。{n}そんな力が欲しいんだ。",
-  "en": "",
-  "status": ""
+  "en": "So a tragedy like Siskier's never happens again. That's the power I want.",
+  "status": "done"
  },
  {
   "id": "event_2188_00DE0",
@@ -728,8 +728,8 @@
    8170
   ],
   "jp": "{voice:007310}その先に、シスキアと望んだ{n}世界があるはずだ。{n}だから…！",
-  "en": "",
-  "status": ""
+  "en": "Beyond that lies the world Siskier and I wanted. So...!",
+  "status": "done"
  },
  {
   "id": "event_2188_00E1D",
@@ -740,8 +740,8 @@
    8220
   ],
   "jp": "{voice:007410}では、全力で掛かってきなさい。{n}そして、私を貫くのです。",
-  "en": "",
-  "status": ""
+  "en": "Then come at me with all your strength. And run me through.",
+  "status": "done"
  },
  {
   "id": "event_2188_00E59",
@@ -752,8 +752,8 @@
    8227
   ],
   "jp": "{voice:007510}力を得る通過儀礼として、{n}子として、母の血を浴びるのです。",
-  "en": "",
-  "status": ""
+  "en": "As the rite of passage to gain this power, as a child, bathe in your mother's blood.",
+  "status": "done"
  },
  {
   "id": "event_2188_00E97",
@@ -764,8 +764,8 @@
    8248
   ],
   "jp": "{voice:007610}人である事を棄てた時、{n}封印は解き放たれるでしょう！",
-  "en": "",
-  "status": ""
+  "en": "When you cast away your humanity, the seal will break!",
+  "status": "done"
  },
  {
   "id": "event_2188_00F0D",
@@ -788,8 +788,8 @@
    3909
   ],
   "jp": "ベアトリーヌ隊",
-  "en": "",
-  "status": ""
+  "en": "Baretreenu",
+  "status": "done"
  },
  {
   "id": "event_2188_022FC",
@@ -800,8 +800,8 @@
    11045
   ],
   "jp": "{voice:007710}強い力が手に入るなら…",
-  "en": "",
-  "status": ""
+  "en": "If it gets me great power...",
+  "status": "done"
  },
  {
   "id": "event_2188_02317",
@@ -812,8 +812,8 @@
    11066
   ],
   "jp": "{voice:007810}シスキアと一緒に望んだ{n}世界を目指せるなら…{n}俺は、母を貫ける②",
-  "en": "",
-  "status": ""
+  "en": "If I can reach for the world Siskier and I wanted... I can run my mother through!!",
+  "status": "done"
  },
  {
   "id": "event_2188_0235A",
@@ -824,8 +824,8 @@
    11711
   ],
   "jp": "{voice:007910}グフッ……！",
-  "en": "",
-  "status": ""
+  "en": "Gah...!",
+  "status": "done"
  },
  {
   "id": "event_2188_0236B",
@@ -836,8 +836,8 @@
    11732
   ],
   "jp": "{voice:007A10}うおぉぉぉおおお②",
-  "en": "",
-  "status": ""
+  "en": "Raaaaaaaagh!!",
+  "status": "done"
  },
  {
   "id": "event_2188_02382",
@@ -848,8 +848,8 @@
    13334
   ],
   "jp": "{voice:007B10}ハァ…、ハァ……",
-  "en": "",
-  "status": ""
+  "en": "Hah... Hah...",
+  "status": "done"
  },
  {
   "id": "event_2188_02397",
@@ -860,8 +860,8 @@
    13355
   ],
   "jp": "{voice:007C10}あなたの決意の程を…、{n}見せて、貰いました……",
-  "en": "",
-  "status": ""
+  "en": "I have seen... how far your resolve goes...",
+  "status": "done"
  },
  {
   "id": "event_2188_023C9",
@@ -872,8 +872,8 @@
    13362
   ],
   "jp": "{voice:007D10}ガーロット…{n}いえ、ガルカーサよ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot... No, Gulcasa.",
+  "status": "done"
  },
  {
   "id": "event_2188_023EF",
@@ -884,8 +884,8 @@
    13383
   ],
   "jp": "{voice:007E10}ガルカーサ？　それは……",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa? That's...",
+  "status": "done"
  },
  {
   "id": "event_2188_0240C",
@@ -896,8 +896,8 @@
    13431
   ],
   "jp": "{voice:007F10}あなたの、真の名です。{n}ガーロットは…、血の力を封じる{n}ために授けた、仮の名です。",
-  "en": "",
-  "status": ""
+  "en": "That is your true name. Garlot... was a false name, given to seal the power of your blood.",
+  "status": "done"
  },
  {
   "id": "event_2188_02461",
@@ -908,8 +908,8 @@
    13438
   ],
   "jp": "{voice:008010}ガルカーサと、{n}これからは、そう名乗りなさい…",
-  "en": "",
-  "status": ""
+  "en": "From now on, call yourself Gulcasa...",
+  "status": "done"
  },
  {
   "id": "event_2188_02493",
@@ -920,8 +920,8 @@
    13445
   ],
   "jp": "{voice:008110}真の名を呼ばれ続ける事で、{n}魔竜の力は増していくでしょう…",
-  "en": "",
-  "status": ""
+  "en": "The more you are called by your true name, the greater the demon dragon's power will grow...",
+  "status": "done"
  },
  {
   "id": "event_2188_024D1",
@@ -932,8 +932,8 @@
    13452
   ],
   "jp": "{voice:008210}さらばですガルカーサ…{n}力を制御し、己を忘れずに。",
-  "en": "",
-  "status": ""
+  "en": "Farewell, Gulcasa... Control your power, and do not lose yourself.",
+  "status": "done"
  },
  {
   "id": "event_2188_02507",
@@ -944,8 +944,8 @@
    13473
   ],
   "jp": "{voice:008310}そして、あなたが望む世界を{n}シスキアという女性が、{n}夢見た世界を創れますように……",
-  "en": "",
-  "status": ""
+  "en": "And may you build the world you wish for, the world that woman, Siskier, dreamed of...",
+  "status": "done"
  },
  {
   "id": "event_2188_0255C",
@@ -956,8 +956,8 @@
    13480
   ],
   "jp": "{voice:008410}あなたの妹、エイミによろしくと。",
-  "en": "",
-  "status": ""
+  "en": "Give my regards to your sister, Eimi.",
+  "status": "done"
  },
  {
   "id": "event_2188_02581",
@@ -968,8 +968,8 @@
    13501
   ],
   "jp": "{voice:008510}母さん、あなたは……",
-  "en": "",
-  "status": ""
+  "en": "Mother, you...",
+  "status": "done"
  },
  {
   "id": "event_2188_0259A",
@@ -980,8 +980,8 @@
    13522
   ],
   "jp": "{voice:008610}大人となった子を信じ、{n}子の夢を叶える事。{n}それが、親の……、役割です。",
-  "en": "",
-  "status": ""
+  "en": "To believe in a child who has grown up, and make that child's dream come true. That is a parent's... role.",
+  "status": "done"
  },
  {
   "id": "event_2188_025E5",
@@ -992,8 +992,8 @@
    13532
   ],
   "jp": "{voice:008710}あなたを、信じています……",
-  "en": "",
-  "status": ""
+  "en": "I believe in you...",
+  "status": "done"
  },
  {
   "id": "event_2188_02604",
@@ -1004,8 +1004,8 @@
    14002
   ],
   "jp": "{voice:008810}人である事を棄てる覚悟が{n}魔竜の力を強くすると、{n}そう言っていたな。",
-  "en": "",
-  "status": ""
+  "en": "She said the resolve to cast away my humanity makes the demon dragon's power stronger.",
+  "status": "done"
  },
  {
   "id": "event_2188_0264B",
@@ -1016,8 +1016,8 @@
    14009
   ],
   "jp": "{voice:008910}このガルカーサという名前が、{n}これからの俺の名前だ。",
-  "en": "",
-  "status": ""
+  "en": "This name, Gulcasa, is my name from now on.",
+  "status": "done"
  },
  {
   "id": "event_2188_02683",
@@ -1028,8 +1028,8 @@
    14016
   ],
   "jp": "{voice:008A10}元の名は、徐々に忘れていこう。{n}弱き、名だからだ……",
-  "en": "",
-  "status": ""
+  "en": "I'll slowly forget my old name. It's a weak name...",
+  "status": "done"
  },
  {
   "id": "event_2188_026BB",
@@ -1040,8 +1040,8 @@
    14023
   ],
   "jp": "{voice:008B10}俺はいつか、世界一強くなる…{n}そうなった時こそ、{n}あらゆる理不尽を消してやる…",
-  "en": "",
-  "status": ""
+  "en": "Someday I'll be the strongest in the world... And when I am, I'll wipe out every injustice...",
+  "status": "done"
  },
  {
   "id": "event_2188_0270C",
@@ -1052,8 +1052,8 @@
    14030
   ],
   "jp": "{voice:008C10}俺やシスキアやジェノンのような、{n}不幸にまみれる者は、{n}この世からいなくなるだろう。",
-  "en": "",
-  "status": ""
+  "en": "People buried in misery like me, Siskier and Jenon will vanish from this world.",
+  "status": "done"
  },
  {
   "id": "event_2188_02763",
@@ -1064,8 +1064,8 @@
    14051
   ],
   "jp": "{voice:008D10}…もうすぐだシスキア。{n}世界を変えてみせるぞ！{n}俺達が望んだ、新しい世界に…！",
-  "en": "",
-  "status": ""
+  "en": "...It won't be long, Siskier. I'll change the world! Into the new world we wanted...!",
+  "status": "done"
  },
  {
   "id": "event_2188_027B4",
@@ -1076,8 +1076,8 @@
    11329
   ],
   "jp": "あの台座に祀られているのは…",
-  "en": "",
-  "status": ""
+  "en": "What's enshrined on that pedestal...",
+  "status": "done"
  },
  {
   "id": "event_2188_027D1",
@@ -1088,8 +1088,8 @@
    11336
   ],
   "jp": "鎌、か。{n}鎌なんて扱った事もないが……{n}なんて力強さなんだ。",
-  "en": "",
-  "status": ""
+  "en": "A scythe, huh. I've never handled a scythe, but... What power.",
+  "status": "done"
  },
  {
   "id": "event_2188_0280C",
@@ -1100,8 +1100,8 @@
    11343
   ],
   "jp": "まるで燃え盛る炎だ。{n}すべてを焼き尽くす、炎…",
-  "en": "",
-  "status": ""
+  "en": "It's like a raging flame. A flame that burns everything up...",
+  "status": "done"
  },
  {
   "id": "event_2188_0283A",
@@ -1124,8 +1124,8 @@
    11368
   ],
   "jp": "…何をためらう。{n}理不尽を打ち砕く力が{n}目の前にあるんだぞ？",
-  "en": "",
-  "status": ""
+  "en": "...What am I hesitating for? The power to smash injustice is right in front of me.",
+  "status": "done"
  },
  {
   "id": "event_2188_02880",
@@ -1136,8 +1136,8 @@
    11393
   ],
   "jp": "手を伸ばせ！{n}掴み取るんだよ、力を②",
-  "en": "",
-  "status": ""
+  "en": "Reach out! Grab it, grab that power!!",
+  "status": "done"
  },
  {
   "id": "event_2188_028A4",
@@ -1148,7 +1148,7 @@
    11475
   ],
   "jp": "この力で、俺は…！",
-  "en": "",
-  "status": ""
+  "en": "With this power, I'll...!",
+  "status": "done"
  }
 ]

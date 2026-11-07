@@ -1581,8 +1581,8 @@
    33483
   ],
   "jp": "{voice:00CE0F}俺は、シスキアを守れなかった。",
-  "en": "",
-  "status": ""
+  "en": "I couldn't protect Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2187_0396B",
@@ -1593,8 +1593,8 @@
    33490
   ],
   "jp": "{voice:00CF0F}強くなってきたのは何の為だ？{n}こんな理不尽を、ぶっ潰す為{n}じゃなかったのか？",
-  "en": "",
-  "status": ""
+  "en": "What did I get stronger for? Wasn't it to smash this kind of injustice?",
+  "status": "done"
  },
  {
   "id": "event_2187_039BA",
@@ -1605,8 +1605,8 @@
    33497
   ],
   "jp": "{voice:00D00F}……もっと強かったら{n}俺はシスキアを守れたのか？",
-  "en": "",
-  "status": ""
+  "en": "...If I'd been stronger, could I have protected Siskier?",
+  "status": "done"
  },
  {
   "id": "event_2187_039EE",
@@ -1617,8 +1617,8 @@
    33504
   ],
   "jp": "{voice:00D10F}俺がもっと、強かったら……",
-  "en": "",
-  "status": ""
+  "en": "If only I'd been stronger...",
+  "status": "done"
  },
  {
   "id": "event_2187_03A0D",
@@ -1629,8 +1629,8 @@
    33551
   ],
   "jp": "{voice:00D20F}うぉぉぉぉおおお②",
-  "en": "",
-  "status": ""
+  "en": "Raaaaaaaaagh!!",
+  "status": "done"
  },
  {
   "id": "event_2187_03A24",
@@ -1641,8 +1641,8 @@
    33826
   ],
   "jp": "{voice:00D30F}ハァ、ハァ、ハァ……",
-  "en": "",
-  "status": ""
+  "en": "Hah, hah, hah...",
+  "status": "done"
  },
  {
   "id": "event_2187_03A3D",
@@ -1653,8 +1653,8 @@
    33876
   ],
   "jp": "{voice:00D40F}なんだ、あのガーロットの姿。{n}それに肌を打つこの感じ……",
-  "en": "",
-  "status": ""
+  "en": "What is that, what's happening to Garlot? And this feeling hitting my skin...",
+  "status": "done"
  },
  {
   "id": "event_2187_03A79",
@@ -1665,8 +1665,8 @@
    33883
   ],
   "jp": "{voice:00D50F}気持ちがざわつく。{n}こんなの…、生まれて初めてだ！",
-  "en": "",
-  "status": ""
+  "en": "It's making my heart pound. I've... I've never felt anything like this in my life!",
+  "status": "done"
  },
  {
   "id": "event_2187_03AAF",
@@ -1677,8 +1677,8 @@
    33929
   ],
   "jp": "{voice:00D60F}魔竜の力が遂に解放されましたか。{n}団長から感じていた、底知れぬ力{n}の源は、これだったのですね。",
-  "en": "",
-  "status": ""
+  "en": "So the demon dragon's power is unleashed at last. That explains the Captain's bottomless power.",
+  "status": "done"
  },
  {
   "id": "event_2187_03B10",
@@ -1689,8 +1689,8 @@
    33947
   ],
   "jp": "{voice:00D70F}ガーロットに何が起きたんだ？",
-  "en": "",
-  "status": ""
+  "en": "What happened to Garlot?",
+  "status": "done"
  },
  {
   "id": "event_2187_03B31",
@@ -1701,8 +1701,8 @@
    33965
   ],
   "jp": "{voice:00D80F}…私は、幻でも見ているのか。",
-  "en": "",
-  "status": ""
+  "en": "...Am I seeing an illusion?",
+  "status": "done"
  },
  {
   "id": "event_2187_03B52",
@@ -1713,8 +1713,8 @@
    33983
   ],
   "jp": "{voice:00D90F}……力が湧いてくる。{n}これならば、誰にも負けない。",
-  "en": "",
-  "status": ""
+  "en": "...Power is welling up in me. With this, I can't lose to anyone.",
+  "status": "done"
  },
  {
   "id": "event_2187_03B88",
@@ -1725,8 +1725,8 @@
    33990
   ],
   "jp": "{voice:00DA0F}この力を持っていれば、{n}シスキアもきっと助けられた②",
-  "en": "",
-  "status": ""
+  "en": "If I'd had this power, I could've saved Siskier!!",
+  "status": "done"
  },
  {
   "id": "event_2187_03BC0",
@@ -1737,8 +1737,8 @@
    34008
   ],
   "jp": "{voice:00DB0F}うぐっ③",
-  "en": "",
-  "status": ""
+  "en": "Ngh!?",
+  "status": "done"
  },
  {
   "id": "event_2187_03BCD",
@@ -1749,8 +1749,8 @@
    34261
   ],
   "jp": "{voice:00DC0F}は、はぁ…はぁ…！",
-  "en": "",
-  "status": ""
+  "en": "H-hah... hah...!",
+  "status": "done"
  },
  {
   "id": "event_2187_03BE4",
@@ -1761,8 +1761,8 @@
    34282
   ],
   "jp": "{voice:00DD0F}元に戻った……{n}全く、理解できない。",
-  "en": "",
-  "status": ""
+  "en": "He's back to normal... I don't understand any of this.",
+  "status": "done"
  },
  {
   "id": "event_2187_03C0C",
@@ -1773,8 +1773,8 @@
    28822
   ],
   "jp": "{voice:00DE0F}そうか、ここで終わるのか……",
-  "en": "",
-  "status": ""
+  "en": "I see, so it ends here...",
+  "status": "done"
  },
  {
   "id": "event_2187_03C2D",
@@ -1785,8 +1785,8 @@
    35362
   ],
   "jp": "{voice:00DF0F}ヴェルマン、俺はアンタの事、{n}親父だったらいいのにと、{n}そう、思ってたんだぜ。",
-  "en": "",
-  "status": ""
+  "en": "Velleman, you know, I used to wish you were my father.",
+  "status": "done"
  },
  {
   "id": "event_2187_03C7E",
@@ -1797,8 +1797,8 @@
    35383
   ],
   "jp": "{voice:00E00F}それなのに、それなのに……",
-  "en": "",
-  "status": ""
+  "en": "And yet, and yet...",
+  "status": "done"
  },
  {
   "id": "event_2187_03C9D",
@@ -1809,8 +1809,8 @@
    35433
   ],
   "jp": "{voice:00E10F}私は、弱い人間だった。{n}お前を、信じられなかった。",
-  "en": "",
-  "status": ""
+  "en": "I was a weak man. I could not believe in you.",
+  "status": "done"
  },
  {
   "id": "event_2187_03CD3",
@@ -1821,8 +1821,8 @@
    35440
   ],
   "jp": "{voice:00E20F}信じられたら良いのにと、{n}そう思っていたが、無理だった。",
-  "en": "",
-  "status": ""
+  "en": "I wished I could, but I could not.",
+  "status": "done"
  },
  {
   "id": "event_2187_03D0F",
@@ -1833,8 +1833,8 @@
    35447
   ],
   "jp": "{voice:00E30F}貴族の世界は嘘だらけだ。{n}私も多くの嘘をついてきた。",
-  "en": "",
-  "status": ""
+  "en": "The world of nobles is full of lies. I have told many of my own.",
+  "status": "done"
  },
  {
   "id": "event_2187_03D47",
@@ -1845,8 +1845,8 @@
    35468
   ],
   "jp": "{voice:00E40F}そして、{n}いつしか人を信じられない人間に{n}成り下がっていたのだ。",
-  "en": "",
-  "status": ""
+  "en": "And somewhere along the way, I sank into a man who could not trust anyone.",
+  "status": "done"
  },
  {
   "id": "event_2187_03D8A",
@@ -1857,8 +1857,8 @@
    35489
   ],
   "jp": "{voice:00E50F}それに気付くのが遅かったよ。{n}もう少し早く出会っていたかった。",
-  "en": "",
-  "status": ""
+  "en": "I realized it too late. I wish I had met you a little sooner.",
+  "status": "done"
  },
  {
   "id": "event_2187_03DCC",
@@ -1869,8 +1869,8 @@
    35496
   ],
   "jp": "{voice:00E60F}私を怨め、ガーロット。{n}この、弱い私を……",
-  "en": "",
-  "status": ""
+  "en": "Hate me, Garlot. Hate this weak man...",
+  "status": "done"
  },
  {
   "id": "event_2187_03DFA",
@@ -1881,8 +1881,8 @@
    35514
   ],
   "jp": "{voice:00E70F}願わくば、私への怨みが、{n}お前が前へと進む為の、{n}糧であらん事を…",
-  "en": "",
-  "status": ""
+  "en": "I only pray your hatred of me will nourish you as you move forward...",
+  "status": "done"
  },
  {
   "id": "event_2187_03E3F",
@@ -1893,8 +1893,8 @@
    35611
   ],
   "jp": "{voice:00E80F}怨むぜ、ヴェルマン。",
-  "en": "",
-  "status": ""
+  "en": "I'll hate you, Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2187_03E58",
@@ -1905,8 +1905,8 @@
    35618
   ],
   "jp": "{voice:00E90F}だが、忘れない……{n}お前の生き様を。",
-  "en": "",
-  "status": ""
+  "en": "But I won't forget... How you lived.",
+  "status": "done"
  },
  {
   "id": "event_2187_03E80",
@@ -1929,8 +1929,8 @@
    36142
   ],
   "jp": "{voice:00EA0F}シスキア…{n}どうして、こんな事に……",
-  "en": "",
-  "status": ""
+  "en": "Siskier... How could this happen...",
+  "status": "done"
  },
  {
   "id": "event_2187_03EB3",
@@ -1941,8 +1941,8 @@
    36163
   ],
   "jp": "{voice:00EB0F}アイギナ…{n}静かに、送ってあげましょう。",
-  "en": "",
-  "status": ""
+  "en": "Aegina... Let us send her off quietly.",
+  "status": "done"
  },
  {
   "id": "event_2187_03EDF",
@@ -1953,8 +1953,8 @@
    36184
   ],
   "jp": "{voice:00EC0F}ねぇ、シスキアお姉ちゃんは{n}朝になったら目を開けるよね？",
-  "en": "",
-  "status": ""
+  "en": "Hey, Big Sis Siskier's gonna open her eyes when morning comes, right?",
+  "status": "done"
  },
  {
   "id": "event_2187_03F1B",
@@ -1965,8 +1965,8 @@
    36191
   ],
   "jp": "{voice:00ED0F}大丈夫だよね？　ね？",
-  "en": "",
-  "status": ""
+  "en": "She's okay, right? Right?",
+  "status": "done"
  },
  {
   "id": "event_2187_03F34",
@@ -1977,8 +1977,8 @@
    36212
   ],
   "jp": "{voice:00EE0F}ん？　微かだが脈がある……",
-  "en": "",
-  "status": ""
+  "en": "Hm? It's faint, but there's a pulse...",
+  "status": "done"
  },
  {
   "id": "event_2187_03F53",
@@ -1989,8 +1989,8 @@
    36290
   ],
   "jp": "{voice:00EF0F}…う……",
-  "en": "",
-  "status": ""
+  "en": "...Ngh...",
+  "status": "done"
  },
  {
   "id": "event_2187_03F60",
@@ -2001,8 +2001,8 @@
    36311
   ],
   "jp": "{voice:00F00F}シスキア！",
-  "en": "",
-  "status": ""
+  "en": "Siskier!",
+  "status": "done"
  },
  {
   "id": "event_2187_03F6F",
@@ -2013,8 +2013,8 @@
    36332
   ],
   "jp": "{voice:00F10F}ガーロット…、みんな…",
-  "en": "",
-  "status": ""
+  "en": "Garlot... Everyone...",
+  "status": "done"
  },
  {
   "id": "event_2187_03F8A",
@@ -2025,8 +2025,8 @@
    36353
   ],
   "jp": "{voice:00F20F}医者を探しに行こう！",
-  "en": "",
-  "status": ""
+  "en": "Let's go find a doctor!",
+  "status": "done"
  },
  {
   "id": "event_2187_03FA3",
@@ -2037,8 +2037,8 @@
    36600
   ],
   "jp": "{voice:00F30F}戦い、終わったんだね…{n}ヴェルマンは？",
-  "en": "",
-  "status": ""
+  "en": "So the fight's over... What about Velleman?",
+  "status": "done"
  },
  {
   "id": "event_2187_03FCD",
@@ -2049,8 +2049,8 @@
    36618
   ],
   "jp": "{voice:00F40F}倒したよ。",
-  "en": "",
-  "status": ""
+  "en": "I beat him.",
+  "status": "done"
  },
  {
   "id": "event_2187_03FDC",
@@ -2061,8 +2061,8 @@
    36636
   ],
   "jp": "{voice:00F50F}…そっか。貴族は嫌いだけど…{n}ヴェルマンは、私、好きだったよ。",
-  "en": "",
-  "status": ""
+  "en": "...I see. I hate nobles, but... I liked Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2187_0401E",
@@ -2073,8 +2073,8 @@
    36654
   ],
   "jp": "{voice:00F60F}お前を人質にとるような男だった。{n}だから、倒した。{n}でも、俺も辛かった。",
-  "en": "",
-  "status": ""
+  "en": "He was the kind of man who'd take you hostage. So I beat him. But it was hard for me too.",
+  "status": "done"
  },
  {
   "id": "event_2187_04069",
@@ -2085,8 +2085,8 @@
    36672
   ],
   "jp": "{voice:00F70F}そっか、そうだよね……",
-  "en": "",
-  "status": ""
+  "en": "I see, I guess it would be...",
+  "status": "done"
  },
  {
   "id": "event_2187_04084",
@@ -2097,8 +2097,8 @@
    36690
   ],
   "jp": "{voice:00F80F}もういいから、あまり喋るな。{n}苦しくなるだろ。",
-  "en": "",
-  "status": ""
+  "en": "That's enough, don't talk too much. It'll only hurt.",
+  "status": "done"
  },
  {
   "id": "event_2187_040B6",
@@ -2109,8 +2109,8 @@
    36697
   ],
   "jp": "{voice:00F90F}いま、メデューテ達が{n}近くの村に医者を呼びに行ってる。{n}だからそれまで……",
-  "en": "",
-  "status": ""
+  "en": "Medoute and the others went to the nearby village to get a doctor. So until then...",
+  "status": "done"
  },
  {
   "id": "event_2187_04103",
@@ -2121,8 +2121,8 @@
    36715
   ],
   "jp": "{voice:00FA0F}ううん、もう多分駄目…",
-  "en": "",
-  "status": ""
+  "en": "No, I don't think I'm going to make it...",
+  "status": "done"
  },
  {
   "id": "event_2187_0411E",
@@ -2133,8 +2133,8 @@
    36733
   ],
   "jp": "{voice:00FB0F}お前がいなくなったら、{n}俺は誰に相談したらいいんだ。",
-  "en": "",
-  "status": ""
+  "en": "Who am I supposed to talk to if you're gone?",
+  "status": "done"
  },
  {
   "id": "event_2187_04156",
@@ -2145,8 +2145,8 @@
    36751
   ],
   "jp": "{voice:00FC0F}大丈夫、みんながいるし……",
-  "en": "",
-  "status": ""
+  "en": "It's okay, you've got everyone...",
+  "status": "done"
  },
  {
   "id": "event_2187_04175",
@@ -2157,8 +2157,8 @@
    36796
   ],
   "jp": "{voice:00FD0F}ジェノン…{n}３人が２人になっちゃうね…{n}幼なじみ、ね、ごめんね。",
-  "en": "",
-  "status": ""
+  "en": "Jenon... Three's going to be two now... Your childhood friend. I'm sorry.",
+  "status": "done"
  },
  {
   "id": "event_2187_041B8",
@@ -2169,8 +2169,8 @@
    36803
   ],
   "jp": "{voice:00FE0F}男の子ばかりになるね……",
-  "en": "",
-  "status": ""
+  "en": "It'll be just you boys...",
+  "status": "done"
  },
  {
   "id": "event_2187_041D5",
@@ -2181,8 +2181,8 @@
    36824
   ],
   "jp": "{voice:00FF0F}…シスキアっ。",
-  "en": "",
-  "status": ""
+  "en": "...Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2187_041E8",
@@ -2205,8 +2205,8 @@
    36876
   ],
   "jp": "{voice:000010}いいの、今、こうしてくれて、{n}結構……、幸せな気分なの……",
-  "en": "",
-  "status": ""
+  "en": "It's okay. Being held like this right now, I feel pretty... happy...",
+  "status": "done"
  },
  {
   "id": "event_2187_04231",
@@ -2217,8 +2217,8 @@
    36883
   ],
   "jp": "{voice:000110}だから、このままで、{n}しばらくいさせて……",
-  "en": "",
-  "status": ""
+  "en": "So let me stay like this, just for a while...",
+  "status": "done"
  },
  {
   "id": "event_2187_0425F",
@@ -2243,8 +2243,8 @@
    36935
   ],
   "jp": "{voice:000210}おい、シスキア？{n}シスキア③",
-  "en": "",
-  "status": ""
+  "en": "Hey, Siskier? Siskier!?",
+  "status": "done"
  },
  {
   "id": "event_2187_0428A",
@@ -2255,8 +2255,8 @@
    36942
   ],
   "jp": "{voice:000310}シスキアが、シスキアが……",
-  "en": "",
-  "status": ""
+  "en": "Siskier, she's... She's...",
+  "status": "done"
  },
  {
   "id": "event_2187_042A9",
@@ -2291,8 +2291,8 @@
    37393
   ],
   "jp": "{voice:000410}黙ってても、始まらないでしょ。{n}団長、しっかりしてよ。",
-  "en": "",
-  "status": ""
+  "en": "Staying silent won't get us anywhere. Captain, pull yourself together.",
+  "status": "done"
  },
  {
   "id": "event_2187_042F9",
@@ -2315,8 +2315,8 @@
    37462
   ],
   "jp": "{voice:000510}じゃあ、あたしから話す。",
-  "en": "",
-  "status": ""
+  "en": "Then I'll talk first.",
+  "status": "done"
  },
  {
   "id": "event_2187_04321",
@@ -2327,8 +2327,8 @@
    37469
   ],
   "jp": "{voice:000610}グラムブレイズの、{n}今後の方針を決める必要がある。{n}意見があれば言ってちょうだい。",
-  "en": "",
-  "status": ""
+  "en": "We need to decide on a course for Gram Blaze. If anyone has an opinion, let's hear it.",
+  "status": "done"
  },
  {
   "id": "event_2187_04376",
@@ -2339,8 +2339,8 @@
    37490
   ],
   "jp": "{voice:000710}みんな、その前に、１ついいか？",
-  "en": "",
-  "status": ""
+  "en": "Everyone, before that, can I say one thing?",
+  "status": "done"
  },
  {
   "id": "event_2187_04399",
@@ -2351,8 +2351,8 @@
    37511
   ],
   "jp": "{voice:000810}どうぞ、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "Go ahead, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2187_043B2",
@@ -2363,8 +2363,8 @@
    37559
   ],
   "jp": "{voice:000910}はっきり言う。{n}シスキアを死に追いやったのは{n}俺だと思っている。",
-  "en": "",
-  "status": ""
+  "en": "I'll say it straight. I think I'm the one who drove Siskier to her death.",
+  "status": "done"
  },
  {
   "id": "event_2187_043F5",
@@ -2375,8 +2375,8 @@
    37580
   ],
   "jp": "{voice:000A10}ガーロット、それって…",
-  "en": "",
-  "status": ""
+  "en": "Garlot, that's...",
+  "status": "done"
  },
  {
   "id": "event_2187_04410",
@@ -2387,8 +2387,8 @@
    37601
   ],
   "jp": "{voice:000B10}言わせてくれ、ジェノン。",
-  "en": "",
-  "status": ""
+  "en": "Let me finish, Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2187_0442D",
@@ -2399,8 +2399,8 @@
    37608
   ],
   "jp": "{voice:000C10}俺はヴェルマンの傍にいながら、{n}奴の苦悩を感じ取る事が{n}できなかった。",
-  "en": "",
-  "status": ""
+  "en": "I was right beside Velleman, and I couldn't sense what he was going through.",
+  "status": "done"
  },
  {
   "id": "event_2187_04476",
@@ -2411,8 +2411,8 @@
    37615
   ],
   "jp": "{voice:000D10}ヴェルマンの苦悩こそが、{n}今回の事態の原因だ。",
-  "en": "",
-  "status": ""
+  "en": "Velleman's anguish is what caused all this.",
+  "status": "done"
  },
  {
   "id": "event_2187_044A8",
@@ -2423,8 +2423,8 @@
    37622
   ],
   "jp": "{voice:000E10}だから、俺にも責任はある。{n}話はそれだけだ。",
-  "en": "",
-  "status": ""
+  "en": "So I'm responsible too. That's all I wanted to say.",
+  "status": "done"
  },
  {
   "id": "event_2187_044D8",
@@ -2435,8 +2435,8 @@
    37643
   ],
   "jp": "{voice:000F10}そうやって仲間の死を……{n}全部背負っていく気かよ、テメェ。",
-  "en": "",
-  "status": ""
+  "en": "So that's how you do it... You're gonna shoulder every friend's death yourself, you bastard.",
+  "status": "done"
  },
  {
   "id": "event_2187_04516",
@@ -2459,8 +2459,8 @@
    37777
   ],
   "jp": "{voice:001010}では、今後の方針について、{n}私の提案を述べて良いですか？",
-  "en": "",
-  "status": ""
+  "en": "Then, may I offer my proposal for our course from here?",
+  "status": "done"
  },
  {
   "id": "event_2187_0455D",
@@ -2471,8 +2471,8 @@
    37798
   ],
   "jp": "{voice:001110}ええ、どうぞ。",
-  "en": "",
-  "status": ""
+  "en": "Yes, go ahead.",
+  "status": "done"
  },
  {
   "id": "event_2187_04570",
@@ -2483,8 +2483,8 @@
    37819
   ],
   "jp": "{voice:001210}まず、この人数を維持する為には{n}兵糧が必要です。{n}膨大な量になるでしょう。",
-  "en": "",
-  "status": ""
+  "en": "First, to sustain this many people, we need provisions. A vast amount.",
+  "status": "done"
  },
  {
   "id": "event_2187_045BD",
@@ -2495,8 +2495,8 @@
    37830
   ],
   "jp": "{voice:001310}後ろ盾を失った私達には、{n}集めきれない量です。",
-  "en": "",
-  "status": ""
+  "en": "Having lost our backer, we cannot gather that much.",
+  "status": "done"
  },
  {
   "id": "event_2187_045EF",
@@ -2507,8 +2507,8 @@
    37851
   ],
   "jp": "{voice:001410}では、様々な場所から、{n}貰うというのはどうでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "So then, how about receiving them from various places?",
+  "status": "done"
  },
  {
   "id": "event_2187_04629",
@@ -2517,8 +2517,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:001510}そうではありません、{n}民衆から自然と貰えるように{n}するわけですよ。",
-  "en": "",
-  "status": ""
+  "en": "No, that is not what I mean. We arrange for the people to give them to us naturally.",
+  "status": "done"
  },
  {
   "id": "event_2187_0466E",
@@ -2529,8 +2529,8 @@
    37872
   ],
   "jp": "{voice:001610}……具体的には？",
-  "en": "",
-  "status": ""
+  "en": "...Specifically?",
+  "status": "done"
  },
  {
   "id": "event_2187_04683",
@@ -2541,8 +2541,8 @@
    37893
   ],
   "jp": "{voice:001710}掲げるのです、反帝国の旗を。",
-  "en": "",
-  "status": ""
+  "en": "We raise the anti-Empire banner.",
+  "status": "done"
  },
  {
   "id": "event_2187_046A4",
@@ -2553,8 +2553,8 @@
    37900
   ],
   "jp": "{voice:001810}ガーロット様の勇名ならば、{n}それだけで物資の提供を{n}受けられるはずです。",
-  "en": "",
-  "status": ""
+  "en": "With the fame of Garlot-sama's name, that alone should bring in supplies.",
+  "status": "done"
  },
  {
   "id": "event_2187_046EF",
@@ -2565,8 +2565,8 @@
    37907
   ],
   "jp": "{voice:001910}更に、幾多の兵も集まるでしょう。",
-  "en": "",
-  "status": ""
+  "en": "And many soldiers will gather besides.",
+  "status": "done"
  },
  {
   "id": "event_2187_04714",
@@ -2577,8 +2577,8 @@
    37955
   ],
   "jp": "{voice:001A10}しかし、シスキアを失い、{n}ヴェルマンと決別した俺達の力で、{n}帝国の打倒が可能だろうか？",
-  "en": "",
-  "status": ""
+  "en": "But having lost Siskier and split with Velleman, do we have the strength to bring down the Empire?",
+  "status": "done"
  },
  {
   "id": "event_2187_0476D",
@@ -2589,8 +2589,8 @@
    37962
   ],
   "jp": "{voice:001B10}力があればいい…{n}だけど俺達は、シスキアすら{n}守れなかったんだ。",
-  "en": "",
-  "status": ""
+  "en": "If only we had the power... But we couldn't even protect Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2187_047B0",
@@ -2601,8 +2601,8 @@
    37983
   ],
   "jp": "{voice:001C10}あの力は、どうですか？{n}さっきの戦いでみせた、絶大な力。",
-  "en": "",
-  "status": ""
+  "en": "What of that power? The tremendous power you showed in the last battle.",
+  "status": "done"
  },
  {
   "id": "event_2187_047EC",
@@ -2613,8 +2613,8 @@
    38004
   ],
   "jp": "{voice:001D10}あの時の力……",
-  "en": "",
-  "status": ""
+  "en": "That power...",
+  "status": "done"
  },
  {
   "id": "event_2187_047FF",
@@ -2625,8 +2625,8 @@
    38025
   ],
   "jp": "{voice:001E10}ヴェルマンとの戦いの中で見せた、{n}あの異形の戦士になった時の事？",
-  "en": "",
-  "status": ""
+  "en": "You mean when you turned into that monstrous warrior during the fight with Velleman?",
+  "status": "done"
  },
  {
   "id": "event_2187_04843",
@@ -2637,8 +2637,8 @@
    38046
   ],
   "jp": "{voice:001F10}そうです。",
-  "en": "",
-  "status": ""
+  "en": "Yes.",
+  "status": "done"
  },
  {
   "id": "event_2187_04852",
@@ -2649,8 +2649,8 @@
    38067
   ],
   "jp": "{voice:002010}あの時は、{n}自分でも信じられないほど、{n}力が湧き出てくるのを感じた。",
-  "en": "",
-  "status": ""
+  "en": "Back then I felt a power welling up that I couldn't believe myself.",
+  "status": "done"
  },
  {
   "id": "event_2187_04899",
@@ -2661,8 +2661,8 @@
    38074
   ],
   "jp": "{voice:002110}確かにあの力を使いこなせれば{n}帝国の打倒もできる気がする。",
-  "en": "",
-  "status": ""
+  "en": "If I could really master it, I feel like I could bring down the Empire.",
+  "status": "done"
  },
  {
   "id": "event_2187_048D7",
@@ -2673,8 +2673,8 @@
    38095
   ],
   "jp": "{voice:002210}私が思うに、あれはかつて、{n}世界を暗黒時代に貶めた、{n}魔竜ブロンガの力でしょう。",
-  "en": "",
-  "status": ""
+  "en": "As I see it, that is the power of the demon dragon Brongaa, who once cast the world into a dark age.",
+  "status": "done"
  },
  {
   "id": "event_2187_0492A",
@@ -2697,8 +2697,8 @@
    38140
   ],
   "jp": "{voice:002310}魔竜…、ブロンガの？",
-  "en": "",
-  "status": ""
+  "en": "The demon dragon... Brongaa's?",
+  "status": "done"
  },
  {
   "id": "event_2187_0494C",
@@ -2709,8 +2709,8 @@
    38161
   ],
   "jp": "{voice:002410}ブロンキア帝国の皇帝は代々、{n}魔竜ブロンガとの契約によって{n}絶大な力を手に入れます。",
-  "en": "",
-  "status": ""
+  "en": "Each Emperor of Bronquia gains immense power through a pact with the demon dragon Brongaa.",
+  "status": "done"
  },
  {
   "id": "event_2187_049A3",
@@ -2721,8 +2721,8 @@
    38168
   ],
   "jp": "{voice:002510}また、それとは別に、{n}この地上界には魔竜の血を引いた{n}者がいると言われています。",
-  "en": "",
-  "status": ""
+  "en": "Apart from that, it is said that there are those in this world who carry the demon dragon's blood.",
+  "status": "done"
  },
  {
   "id": "event_2187_049F6",
@@ -2733,8 +2733,8 @@
    38175
   ],
   "jp": "{voice:002610}恐らく団長の身体には、{n}そのブロンガの血が{n}色濃く流れているのでしょう。",
-  "en": "",
-  "status": ""
+  "en": "Most likely, Brongaa's blood runs thick in the Captain's body.",
+  "status": "done"
  },
  {
   "id": "event_2187_04A41",
@@ -2745,8 +2745,8 @@
    38196
   ],
   "jp": "{voice:002710}魔竜の血の力を持っていれば、{n}帝国を倒す事ができるのか？",
-  "en": "",
-  "status": ""
+  "en": "If I've got the power of the demon dragon's blood, can I bring down the Empire?",
+  "status": "done"
  },
  {
   "id": "event_2187_04A7D",
@@ -2757,8 +2757,8 @@
    38217
   ],
   "jp": "{voice:002810}シスキアの望んだ、{n}理不尽のない新しい世界を{n}創り出す事ができるのか？",
-  "en": "",
-  "status": ""
+  "en": "Can I create the new world Siskier wanted, one without injustice?",
+  "status": "done"
  },
  {
   "id": "event_2187_04AC6",
@@ -2769,8 +2769,8 @@
    38238
   ],
   "jp": "{voice:002910}おい、ガーロット…",
-  "en": "",
-  "status": ""
+  "en": "Hey, Garlot...",
+  "status": "done"
  },
  {
   "id": "event_2187_04ADD",
@@ -2781,8 +2781,8 @@
    38259
   ],
   "jp": "{voice:002A10}それは、そうでしょう。",
-  "en": "",
-  "status": ""
+  "en": "That you can, indeed.",
+  "status": "done"
  },
  {
   "id": "event_2187_04AF8",
@@ -2793,8 +2793,8 @@
    38266
   ],
   "jp": "{voice:002B10}ですが、団長の魔竜の血の力は、{n}おそらく何らかの形で、{n}封じられていると思います。",
-  "en": "",
-  "status": ""
+  "en": "However, I believe your demon blood's power has been sealed in some way, Captain.",
+  "status": "done"
  },
  {
   "id": "event_2187_04B4D",
@@ -2805,8 +2805,8 @@
    38273
   ],
   "jp": "{voice:002C10}その封印を解けば、{n}魔竜の血の力を自在に操る事が{n}できるはずです。",
-  "en": "",
-  "status": ""
+  "en": "If that seal is broken, you should be able to wield the demon dragon's blood at will.",
+  "status": "done"
  },
  {
   "id": "event_2187_04B92",
@@ -2817,8 +2817,8 @@
    38294
   ],
   "jp": "{voice:002D10}どうすればいい、ネシア。{n}その方法を俺に教えてくれ！",
-  "en": "",
-  "status": ""
+  "en": "What do I do, Nessiah? Tell me how to do it!",
+  "status": "done"
  },
  {
   "id": "event_2187_04BCA",
@@ -2829,8 +2829,8 @@
    38315
   ],
   "jp": "{voice:002E10}魔竜と、勇者ギルとが死闘を{n}繰り広げたという、伝説の地{n}ロスト・アリエスに行きましょう。",
-  "en": "",
-  "status": ""
+  "en": "Let us go to Lost Aries, the legendary land where the demon dragon fought the hero Gil to the death.",
+  "status": "done"
  },
  {
   "id": "event_2187_04C25",
@@ -2841,8 +2841,8 @@
    38322
   ],
   "jp": "{voice:002F10}魔竜の血や魔術について{n}研究を重ねる者も多いと聞きます。",
-  "en": "",
-  "status": ""
+  "en": "I hear that many there study the demon dragon's blood and sorcery.",
+  "status": "done"
  },
  {
   "id": "event_2187_04C61",
@@ -2853,8 +2853,8 @@
    38343
   ],
   "jp": "{voice:003010}よし、俺はロスト・アリエスに{n}行ってくる。",
-  "en": "",
-  "status": ""
+  "en": "All right, I'm going to Lost Aries.",
+  "status": "done"
  },
  {
   "id": "event_2187_04C8F",
@@ -2865,8 +2865,8 @@
    38350
   ],
   "jp": "{voice:003110}他のメンバーは帝国に残り、{n}反乱連合の結成を呼びかけて、{n}兵糧集めをしてくれ。",
-  "en": "",
-  "status": ""
+  "en": "The others stay in the Empire, call for a rebel alliance and gather provisions.",
+  "status": "done"
  },
  {
   "id": "event_2187_04CE0",
@@ -2877,8 +2877,8 @@
    38371
   ],
   "jp": "{voice:003210}早速準備に掛かるぞ。{n}解散！",
-  "en": "",
-  "status": ""
+  "en": "Let's get ready right away. Dismissed!",
+  "status": "done"
  },
  {
   "id": "event_2187_04D00",
@@ -2901,8 +2901,8 @@
    38492
   ],
   "jp": "{voice:003310}ガーロットが魔竜の血を引く者？{n}なんの冗談だ……",
-  "en": "",
-  "status": ""
+  "en": "Garlot, of demon dragon blood? What kind of joke is this...",
+  "status": "done"
  },
  {
   "id": "event_2187_04D3F",
@@ -2913,8 +2913,8 @@
    38499
   ],
   "jp": "{voice:003410}それとも、{n}これが、血の宿命なのか……",
-  "en": "",
-  "status": ""
+  "en": "Or is this the destiny of blood...",
+  "status": "done"
  },
  {
   "id": "event_2187_04D69",
@@ -2925,8 +2925,8 @@
    25636
   ],
   "jp": "ヴェルマン……",
-  "en": "",
-  "status": ""
+  "en": "Velleman...",
+  "status": "done"
  },
  {
   "id": "event_2187_04D78",
@@ -2937,8 +2937,8 @@
    25657
   ],
   "jp": "もう、何も言うな！{n}ガーロット②",
-  "en": "",
-  "status": ""
+  "en": "Say no more! Garlot!!",
+  "status": "done"
  },
  {
   "id": "event_2187_04D98",
@@ -2949,8 +2949,8 @@
    25865
   ],
   "jp": "どうしてなんです、方伯！",
-  "en": "",
-  "status": ""
+  "en": "Why, Margrave!",
+  "status": "done"
  },
  {
   "id": "event_2187_04DB1",
@@ -2961,8 +2961,8 @@
    25886
   ],
   "jp": "ジェノン、お前にも{n}私の気持ちが理解できる日が{n}きっと来るはずだ……",
-  "en": "",
-  "status": ""
+  "en": "Jenon, a day will surely come when you too understand how I feel...",
+  "status": "done"
  },
  {
   "id": "event_2187_04DF4",
@@ -2973,8 +2973,8 @@
    25904
   ],
   "jp": "あれは…、{n}ガーロットは我々とは違う。{n}そうなんだ、だからッ②",
-  "en": "",
-  "status": ""
+  "en": "That... Garlot is not like us. That is the truth, and that is why!!",
+  "status": "done"
  },
  {
   "id": "event_2187_04E31",
@@ -2985,8 +2985,8 @@
    26126
   ],
   "jp": "やり方に道理が感じられないぞ、{n}目が曇ったのか！　方伯ッ②",
-  "en": "",
-  "status": ""
+  "en": "I can't see any reason in what you're doing. Have your eyes clouded over! Margrave!!",
+  "status": "done"
  },
  {
   "id": "event_2187_04E6B",
@@ -2997,8 +2997,8 @@
    26147
   ],
   "jp": "フッ、そうだ……{n}それは理解しているつもりだ。",
-  "en": "",
-  "status": ""
+  "en": "Heh, yes... I do believe I understand that.",
+  "status": "done"
  },
  {
   "id": "event_2187_04E99",
@@ -3009,8 +3009,8 @@
    26165
   ],
   "jp": "しかしなメデューテ、{n}そうさせたのは他でもない、{n}ガーロットなのだ②",
-  "en": "",
-  "status": ""
+  "en": "But, Medoute, the one who made me do this is none other than Garlot!!",
+  "status": "done"
  },
  {
   "id": "event_2187_04EDC",
@@ -3021,8 +3021,8 @@
    26183
   ],
   "jp": "ここで私を倒せたとしても、{n}この言葉だけは忘れるな！",
-  "en": "",
-  "status": ""
+  "en": "Even if you defeat me here, do not forget these words!",
+  "status": "done"
  },
  {
   "id": "event_2187_04F10",
@@ -3033,8 +3033,8 @@
    26405
   ],
   "jp": "帝国の為、国民の為と偽り、{n}私達を騙して来たのですね！",
-  "en": "",
-  "status": ""
+  "en": "You deceived us, pretending it was for the Empire and for its people!",
+  "status": "done"
  },
  {
   "id": "event_2187_04F46",
@@ -3045,8 +3045,8 @@
    26426
   ],
   "jp": "それは違う、信じて欲しい。",
-  "en": "",
-  "status": ""
+  "en": "That is not so. I ask you to believe me.",
+  "status": "done"
  },
  {
   "id": "event_2187_04F61",
@@ -3057,8 +3057,8 @@
    26433
   ],
   "jp": "私は常に、帝国の未来を考え{n}行動してきた。",
-  "en": "",
-  "status": ""
+  "en": "I have always acted with the future of the Empire in mind.",
+  "status": "done"
  },
  {
   "id": "event_2187_04F8B",
@@ -3069,8 +3069,8 @@
    26451
   ],
   "jp": "この選択も、後悔はしていない！",
-  "en": "",
-  "status": ""
+  "en": "I do not regret this choice either!",
+  "status": "done"
  },
  {
   "id": "event_2187_04FAA",
@@ -3081,8 +3081,8 @@
    26659
   ],
   "jp": "ヴェルマン、裏切った、{n}バイフー、声が裏返った、{n}なーんつって、苦しいか？",
-  "en": "",
-  "status": ""
+  "en": "Velleman turned on us. Byff's stomach turned over. Ha, just kidding. Too forced?",
+  "status": "done"
  },
  {
   "id": "event_2187_04FF3",
@@ -3105,8 +3105,8 @@
    26888
   ],
   "jp": "結局こうなるのね。{n}ま、正直どうでもいいけれど。",
-  "en": "",
-  "status": ""
+  "en": "So it comes to this after all. Well, frankly, I don't care.",
+  "status": "done"
  },
  {
   "id": "event_2187_05030",
@@ -3117,8 +3117,8 @@
    26895
   ],
   "jp": "今まで私の研究に、{n}理解を示してくれた事は、{n}感謝するわ。",
-  "en": "",
-  "status": ""
+  "en": "I am grateful you showed an understanding of my research all this time.",
+  "status": "done"
  },
  {
   "id": "event_2187_05069",
@@ -3129,8 +3129,8 @@
    26916
   ],
   "jp": "ユーディ、{n}お前は私の側に付いてくれると{n}思っていたのだがな。",
-  "en": "",
-  "status": ""
+  "en": "Eudy, I had thought you would take my side.",
+  "status": "done"
  },
  {
   "id": "event_2187_050A6",
@@ -3141,8 +3141,8 @@
    26937
   ],
   "jp": "あら、そうなの？{n}それは少し甘いお考えで。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, had you? That's a little naive of you.",
+  "status": "done"
  },
  {
   "id": "event_2187_050D0",
@@ -3153,8 +3153,8 @@
    27138
   ],
   "jp": "なんなんだよこれ…{n}冗談のつもりかよ？",
-  "en": "",
-  "status": ""
+  "en": "What is all this... Is this your idea of a joke?",
+  "status": "done"
  },
  {
   "id": "event_2187_050F6",
@@ -3165,8 +3165,8 @@
    27332
   ],
   "jp": "仲間を失って、泣いて、泣いて、{n}悲しみの涙は枯れ果てたと、{n}そう思ったのに……",
-  "en": "",
-  "status": ""
+  "en": "I lost my friends, cried and cried, and I thought my tears of grief had all run dry...",
+  "status": "done"
  },
  {
   "id": "event_2187_05143",
@@ -3177,8 +3177,8 @@
    27353
   ],
   "jp": "許しを乞おうとは思わぬ。{n}これが私の選んだ道なのだ。",
-  "en": "",
-  "status": ""
+  "en": "I won't ask for forgiveness. This is the path I chose.",
+  "status": "done"
  },
  {
   "id": "event_2187_05177",
@@ -3189,8 +3189,8 @@
    27554
   ],
   "jp": "パメラ、{n}お前は気付いているのだろ？{n}ガーロットの隠された恐怖に…",
-  "en": "",
-  "status": ""
+  "en": "Pamela, you have noticed, haven't you? The hidden terror in Garlot...",
+  "status": "done"
  },
  {
   "id": "event_2187_051B8",
@@ -3201,8 +3201,8 @@
    27575
   ],
   "jp": "ま、それはそうだけど、{n}あんたの恐ろしさもビンビン{n}感じているんだわさ。",
-  "en": "",
-  "status": ""
+  "en": "Well, sure, but Pamela-sama can feel how scary you are too, loud and clear.",
+  "status": "done"
  },
  {
   "id": "event_2187_051FF",
@@ -3213,8 +3213,8 @@
    27776
   ],
   "jp": "これが方伯の下した決断ですか。{n}フフフ……",
-  "en": "",
-  "status": ""
+  "en": "So this is the decision the Margrave has reached. Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2187_05229",
@@ -3237,8 +3237,8 @@
    27818
   ],
   "jp": "ご心配なく…、{n}グラムブレイズは前に進みます。{n}方伯無しでもね。",
-  "en": "",
-  "status": ""
+  "en": "Have no fear... Gram Blaze will move forward. Even without the Margrave.",
+  "status": "done"
  },
  {
   "id": "event_2187_05275",
@@ -3249,8 +3249,8 @@
    28057
   ],
   "jp": "ちょっと許せねぇな。{n}お前、やっちゃいけねぇ事を{n}やっちまったよ、方伯。",
-  "en": "",
-  "status": ""
+  "en": "This I can't let slide. You did something you shouldn't have done, Margrave.",
+  "status": "done"
  },
  {
   "id": "event_2187_052BC",
@@ -3261,8 +3261,8 @@
    28078
   ],
   "jp": "男の時のお前のセリフには、{n}熱さはあっても厚みは全く無いな…",
-  "en": "",
-  "status": ""
+  "en": "When you're a man, your lines have heat, but no depth at all...",
+  "status": "done"
  },
  {
   "id": "event_2187_052F8",
@@ -3273,8 +3273,8 @@
    28130
   ],
   "jp": "ンだと、ゴラァ②{n}指、全部折ってやるぜチクショウ！",
-  "en": "",
-  "status": ""
+  "en": "Whaddya say, punk!! I'll break every one of your fingers, damn it!",
+  "status": "done"
  },
  {
   "id": "event_2187_0532A",
@@ -3285,8 +3285,8 @@
    28338
   ],
   "jp": "なぜだ、なぜなのだ……{n}仲間では無かったのか？",
-  "en": "",
-  "status": ""
+  "en": "Why, why is this... Were we not comrades?",
+  "status": "done"
  },
  {
   "id": "event_2187_05358",
@@ -3297,8 +3297,8 @@
    28359
   ],
   "jp": "違うな、ジルヴァ。{n}私はお前達を仲間と思った事は…",
-  "en": "",
-  "status": ""
+  "en": "No, Zilva. I never thought of you as comrades...",
+  "status": "done"
  },
  {
   "id": "event_2187_0538A",
@@ -3309,8 +3309,8 @@
    28366
   ],
   "jp": "一度もない……",
-  "en": "",
-  "status": ""
+  "en": "Not once...",
+  "status": "done"
  },
  {
   "id": "event_2187_05399",
@@ -3321,8 +3321,8 @@
    28387
   ],
   "jp": "本当なのか、方伯……",
-  "en": "",
-  "status": ""
+  "en": "Is that true, Margrave...",
+  "status": "done"
  },
  {
   "id": "event_2187_053AE",
@@ -3333,8 +3333,8 @@
    28588
   ],
   "jp": "なんだよ、またワケのわかんねぇ{n}展開になって来やがってよ！",
-  "en": "",
-  "status": ""
+  "en": "What the hell, here we go again with another crazy turn of events!",
+  "status": "done"
  },
  {
   "id": "event_2187_053E8",
@@ -3345,8 +3345,8 @@
    28609
   ],
   "jp": "まぁいいぜ、{n}目の前の敵を倒す、それだけだ。",
-  "en": "",
-  "status": ""
+  "en": "Whatever, I'll beat the enemy in front of me, and that's it.",
+  "status": "done"
  },
  {
   "id": "event_2187_05414",
@@ -3357,8 +3357,8 @@
    29635
   ],
   "jp": "これが、お前の槍か。{n}流石だな、ガーロット……",
-  "en": "",
-  "status": ""
+  "en": "So this is your spear. Impressive, Garlot...",
+  "status": "done"
  },
  {
   "id": "event_2187_05442",
@@ -3369,8 +3369,8 @@
    29653
   ],
   "jp": "お前は常に果敢に戦い、{n}誰もが諦めるような状況でも{n}力を振り絞り勝ち抜いてきた…",
-  "en": "",
-  "status": ""
+  "en": "You always fought boldly, and even when anyone else would give up, you summoned your strength and won...",
+  "status": "done"
  },
  {
   "id": "event_2187_05491",
@@ -3381,8 +3381,8 @@
    29660
   ],
   "jp": "私にはそれが誇らしくもあり、{n}同時に………",
-  "en": "",
-  "status": ""
+  "en": "That has made me proud, and at the same time.........",
+  "status": "done"
  },
  {
   "id": "event_2187_054BB",
@@ -3393,8 +3393,8 @@
    29681
   ],
   "jp": "何が言いたいんだよ！{n}ヴェルマン②",
-  "en": "",
-  "status": ""
+  "en": "What are you trying to say! Velleman!!",
+  "status": "done"
  },
  {
   "id": "event_2187_054DD",
@@ -3405,8 +3405,8 @@
    29711
   ],
   "jp": "どうしたそれまでか……{n}ガーロット！",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, is that all... Garlot!",
+  "status": "done"
  },
  {
   "id": "event_2187_05501",
@@ -3417,8 +3417,8 @@
    29732
   ],
   "jp": "ちくしょう、{n}何故、突撃が鈍る……",
-  "en": "",
-  "status": ""
+  "en": "Damn it, why's my charge getting sluggish...",
+  "status": "done"
  },
  {
   "id": "event_2187_05523",
@@ -3429,8 +3429,8 @@
    29945
   ],
   "jp": "その剣に迷いはない、か……",
-  "en": "",
-  "status": ""
+  "en": "No hesitation in that sword, I see...",
+  "status": "done"
  },
  {
   "id": "event_2187_0553E",
@@ -3453,8 +3453,8 @@
    29996
   ],
   "jp": "ガーロットが恐ろしい存在に{n}なっていくのを感じているだろ！",
-  "en": "",
-  "status": ""
+  "en": "You must feel it, Garlot becoming something terrifying!",
+  "status": "done"
  },
  {
   "id": "event_2187_05583",
@@ -3465,8 +3465,8 @@
    30014
   ],
   "jp": "今ならば、止められるのだ。",
-  "en": "",
-  "status": ""
+  "en": "Now is when he can be stopped.",
+  "status": "done"
  },
  {
   "id": "event_2187_0559E",
@@ -3477,8 +3477,8 @@
    30035
   ],
   "jp": "だからって、{n}あなたのやり方は許せないだろ②",
-  "en": "",
-  "status": ""
+  "en": "Even so, I can't accept what you've done!!",
+  "status": "done"
  },
  {
   "id": "event_2187_055CA",
@@ -3489,8 +3489,8 @@
    30241
   ],
   "jp": "ガーロットの存在は私を越えた。{n}そして、更に大きくなるだろう！",
-  "en": "",
-  "status": ""
+  "en": "Garlot has surpassed me. And he will grow greater still!",
+  "status": "done"
  },
  {
   "id": "event_2187_05608",
@@ -3501,8 +3501,8 @@
    30248
   ],
   "jp": "今の内に、止めねばならんのだ。",
-  "en": "",
-  "status": ""
+  "en": "He must be stopped while we still can.",
+  "status": "done"
  },
  {
   "id": "event_2187_05627",
@@ -3513,8 +3513,8 @@
    30269
   ],
   "jp": "何を言おうとしている③",
-  "en": "",
-  "status": ""
+  "en": "What are you trying to say!?",
+  "status": "done"
  },
  {
   "id": "event_2187_0563E",
@@ -3525,8 +3525,8 @@
    30299
   ],
   "jp": "太刀筋が鈍っているぞ！",
-  "en": "",
-  "status": ""
+  "en": "Your blade is getting sluggish!",
+  "status": "done"
  },
  {
   "id": "event_2187_05655",
@@ -3537,8 +3537,8 @@
    30320
   ],
   "jp": "方伯。{n}いや、ヴェルマン……",
-  "en": "",
-  "status": ""
+  "en": "Margrave. No, Velleman...",
+  "status": "done"
  },
  {
   "id": "event_2187_05671",
@@ -3549,8 +3549,8 @@
    30327
   ],
   "jp": "ここでお前を斬ったところで、{n}何か変わるのか？",
-  "en": "",
-  "status": ""
+  "en": "If I cut you down here, will that change anything?",
+  "status": "done"
  },
  {
   "id": "event_2187_0569F",
@@ -3561,8 +3561,8 @@
    30348
   ],
   "jp": "どうした、メデューテ。{n}もう、話合える段階ではないと、{n}わかっているのだろ。",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, Medoute? You must know we are past the point of talking.",
+  "status": "done"
  },
  {
   "id": "event_2187_056EA",
@@ -3573,8 +3573,8 @@
    30547
   ],
   "jp": "帝国の未来に、{n}何故ガーロット様が不必要なのか{n}私には全く分からない……",
-  "en": "",
-  "status": ""
+  "en": "I cannot understand at all why the Empire's future has no need of Garlot-sama...",
+  "status": "done"
  },
  {
   "id": "event_2187_05731",
@@ -3585,8 +3585,8 @@
    30568
   ],
   "jp": "本当はわかっているのだろ？{n}奴の力が大きくなっていくのを。",
-  "en": "",
-  "status": ""
+  "en": "You truly do understand, don't you? How his power keeps growing.",
+  "status": "done"
  },
  {
   "id": "event_2187_0576B",
@@ -3597,8 +3597,8 @@
    30575
   ],
   "jp": "このままでは、ガーロットは{n}人の存在すら超えてしまうかも{n}しれない。",
-  "en": "",
-  "status": ""
+  "en": "If this goes on, Garlot may go beyond being human altogether.",
+  "status": "done"
  },
  {
   "id": "event_2187_057AE",
@@ -3609,8 +3609,8 @@
    30596
   ],
   "jp": "そんな、唐突な話……",
-  "en": "",
-  "status": ""
+  "en": "That is so sudden...",
+  "status": "done"
  },
  {
   "id": "event_2187_057C3",
@@ -3621,8 +3621,8 @@
    30675
   ],
   "jp": "容赦はしない、{n}それが私の礼儀と知れ……",
-  "en": "",
-  "status": ""
+  "en": "I will show no mercy. Know that this is my courtesy to you...",
+  "status": "done"
  },
  {
   "id": "event_2187_057EB",
@@ -3633,8 +3633,8 @@
    30696
   ],
   "jp": "ああ、何故悲しい方向へと{n}私達は進んでいくの……",
-  "en": "",
-  "status": ""
+  "en": "Ah, why do we keep walking toward sorrow...",
+  "status": "done"
  },
  {
   "id": "event_2187_0581B",
@@ -3645,8 +3645,8 @@
    30881
   ],
   "jp": "バイフー、悲しいぞ。{n}ヴェルマン、今からでも遅くない{n}考えを変えろ。",
-  "en": "",
-  "status": ""
+  "en": "Byff is sad. Velleman, it is not too late. Change your mind.",
+  "status": "done"
  },
  {
   "id": "event_2187_0585E",
@@ -3669,8 +3669,8 @@
    30932
   ],
   "jp": "バイフー、頭はよくない。{n}自分でそう思う。",
-  "en": "",
-  "status": ""
+  "en": "Byff is not smart. Byff thinks so too.",
+  "status": "done"
  },
  {
   "id": "event_2187_05897",
@@ -3681,8 +3681,8 @@
    30939
   ],
   "jp": "そのせいか？{n}ヴェルマンと戦う理由、{n}バイフーには今もわからない。",
-  "en": "",
-  "status": ""
+  "en": "Is that why? Byff still does not know why we fight Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2187_058D8",
@@ -3693,8 +3693,8 @@
    31131
   ],
   "jp": "ぐッ、グググ……",
-  "en": "",
-  "status": ""
+  "en": "Ngh, nggg...",
+  "status": "done"
  },
  {
   "id": "event_2187_058E9",
@@ -3705,8 +3705,8 @@
    31152
   ],
   "jp": "諦めた方が良いんじゃない？{n}方伯様。",
-  "en": "",
-  "status": ""
+  "en": "Don't you think you should give up? Margrave-sama.",
+  "status": "done"
  },
  {
   "id": "event_2187_0590D",
@@ -3717,8 +3717,8 @@
    31182
   ],
   "jp": "あら、結構実戦もこなせるって{n}感じじゃない。",
-  "en": "",
-  "status": ""
+  "en": "My, you seem pretty handy in real combat too.",
+  "status": "done"
  },
  {
   "id": "event_2187_05939",
@@ -3729,8 +3729,8 @@
    31203
   ],
   "jp": "お前達の用兵は、{n}全て知り尽くしている。{n}そう言う事だ。",
-  "en": "",
-  "status": ""
+  "en": "I know all of your tactics inside and out. That is all there is to it.",
+  "status": "done"
  },
  {
   "id": "event_2187_05970",
@@ -3741,8 +3741,8 @@
    31395
   ],
   "jp": "どうしてこうなる前に、{n}話をしてくれなかったんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Why didn't you talk to us before it came to this!",
+  "status": "done"
  },
  {
   "id": "event_2187_059A4",
@@ -3753,8 +3753,8 @@
    31416
   ],
   "jp": "お前に話したところで、{n}なんの解決にもならなかった…",
-  "en": "",
-  "status": ""
+  "en": "Telling you would not have solved anything...",
+  "status": "done"
  },
  {
   "id": "event_2187_059D8",
@@ -3765,8 +3765,8 @@
    31437
   ],
   "jp": "決めつけんなよッ！{n}くそっ、ハラが立つぜ②",
-  "en": "",
-  "status": ""
+  "en": "Don't you decide that for me! Damn it, this makes me so mad!!",
+  "status": "done"
  },
  {
   "id": "event_2187_05A02",
@@ -3777,8 +3777,8 @@
    31467
   ],
   "jp": "クソッ！　痛ってーな②{n}本気、出しちまうぞ②",
-  "en": "",
-  "status": ""
+  "en": "Damn it! That hurt!! Now you've done it, I'm getting serious!!",
+  "status": "done"
  },
  {
   "id": "event_2187_05A2E",
@@ -3801,8 +3801,8 @@
    31680
   ],
   "jp": "これが、あなたの力ってワケ…",
-  "en": "",
-  "status": ""
+  "en": "So this here's your strength...",
+  "status": "done"
  },
  {
   "id": "event_2187_05A58",
@@ -3813,8 +3813,8 @@
    31687
   ],
   "jp": "ヒック…{n}悲しいね、悲しい力だよ……{n}それに迷いがある。",
-  "en": "",
-  "status": ""
+  "en": "*hic* ...Sad, ain't it. Sad kinda strength... And there's doubt in it.",
+  "status": "done"
  },
  {
   "id": "event_2187_05A8F",
@@ -3825,8 +3825,8 @@
    31708
   ],
   "jp": "断ち切ったはずなのだがな。{n}迷いは……",
-  "en": "",
-  "status": ""
+  "en": "I thought I had cut it away. My doubt...",
+  "status": "done"
  },
  {
   "id": "event_2187_05AB5",
@@ -3837,8 +3837,8 @@
    31738
   ],
   "jp": "泣いても、仇を討っても、{n}あの子は甦らないのね。",
-  "en": "",
-  "status": ""
+  "en": "Cry or take revenge, that girl won't come back to life.",
+  "status": "done"
  },
  {
   "id": "event_2187_05AE5",
@@ -3849,8 +3849,8 @@
    31745
   ],
   "jp": "あたしにできるのは、{n}悲しむことだけよ…",
-  "en": "",
-  "status": ""
+  "en": "All I can do is grieve...",
+  "status": "done"
  },
  {
   "id": "event_2187_05B0D",
@@ -3861,8 +3861,8 @@
    31937
   ],
   "jp": "時々お前が羨ましく感じる。{n}その自由奔放な立ち振る舞いにな。",
-  "en": "",
-  "status": ""
+  "en": "At times I envy you. That free and easy way of yours.",
+  "status": "done"
  },
  {
   "id": "event_2187_05B49",
@@ -3873,8 +3873,8 @@
    31958
   ],
   "jp": "あんたに羨ましがられるのは{n}危険なフラグなんだわさ。{n}とっとと消えなっ！",
-  "en": "",
-  "status": ""
+  "en": "Getting envied by you is a dangerous death flag, that's what. Get lost already!",
+  "status": "done"
  },
  {
   "id": "event_2187_05B90",
@@ -3885,8 +3885,8 @@
    32051
   ],
   "jp": "へーんだ、{n}オマケの一太刀だけだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Hmph, that was just one bonus hit!",
+  "status": "done"
  },
  {
   "id": "event_2187_05BB6",
@@ -3897,8 +3897,8 @@
    32030
   ],
   "jp": "お前に一太刀浴びせる事が{n}できるとはな。",
-  "en": "",
-  "status": ""
+  "en": "So I managed to land one blow on you.",
+  "status": "done"
  },
  {
   "id": "event_2187_05BDE",
@@ -3909,8 +3909,8 @@
    32243
   ],
   "jp": "ヴェルマン方伯、{n}素晴らしい役者ぶりですよ。",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman, what splendid acting.",
+  "status": "done"
  },
  {
   "id": "event_2187_05C0A",
@@ -3921,8 +3921,8 @@
    32250
   ],
   "jp": "私の想定を、非常に高いレベルで{n}上回ってくれています。{n}フフフ……",
-  "en": "",
-  "status": ""
+  "en": "You have surpassed my expectations by a very high margin. Heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2187_05C4B",
@@ -3933,8 +3933,8 @@
    32271
   ],
   "jp": "まさかお前……",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me you...",
+  "status": "done"
  },
  {
   "id": "event_2187_05C5A",
@@ -3957,8 +3957,8 @@
    32378
   ],
   "jp": "なんだ、その笑みは……",
-  "en": "",
-  "status": ""
+  "en": "What is that smile...",
+  "status": "done"
  },
  {
   "id": "event_2187_05C7C",
@@ -3969,8 +3969,8 @@
    32399
   ],
   "jp": "まさか、お前！",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me, you...!",
+  "status": "done"
  },
  {
   "id": "event_2187_05C8B",
@@ -3993,8 +3993,8 @@
    32664
   ],
   "jp": "俺に向かってデカイ口叩いた事、{n}後悔したか？　え？",
-  "en": "",
-  "status": ""
+  "en": "Regretting that big talk you threw at me? Huh?",
+  "status": "done"
  },
  {
   "id": "event_2187_05CC8",
@@ -4005,8 +4005,8 @@
    32612
   ],
   "jp": "うっ……",
-  "en": "",
-  "status": ""
+  "en": "Ugh...",
+  "status": "done"
  },
  {
   "id": "event_2187_05CD1",
@@ -4017,8 +4017,8 @@
    32788
   ],
   "jp": "おっ、ちょっ、おまッ！{n}ぐっ……",
-  "en": "",
-  "status": ""
+  "en": "Whoa, hey, you...! Ngh...",
+  "status": "done"
  },
  {
   "id": "event_2187_05CF1",
@@ -4029,8 +4029,8 @@
    32736
   ],
   "jp": "力にも厚みがないとはな。",
-  "en": "",
-  "status": ""
+  "en": "So your strength has no depth either.",
+  "status": "done"
  },
  {
   "id": "event_2187_05D0A",
@@ -4041,8 +4041,8 @@
    32973
   ],
   "jp": "気持ちを持ち戦う事が、{n}これ程までに辛い事だとは……",
-  "en": "",
-  "status": ""
+  "en": "To fight with feeling... I did not know it could be so painful...",
+  "status": "done"
  },
  {
   "id": "event_2187_05D3E",
@@ -4053,8 +4053,8 @@
    33003
   ],
   "jp": "私が今、人として生きているのは{n}シスキアのお陰だ。",
-  "en": "",
-  "status": ""
+  "en": "I live as a human now thanks to Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2187_05D70",
@@ -4065,8 +4065,8 @@
    33024
   ],
   "jp": "だから、お前は！{n}許さない②",
-  "en": "",
-  "status": ""
+  "en": "So you! I will not forgive!!",
+  "status": "done"
  },
  {
   "id": "event_2187_05D8C",
@@ -4077,8 +4077,8 @@
    33216
   ],
   "jp": "おらっ、どうした②",
-  "en": "",
-  "status": ""
+  "en": "C'mon, what's wrong!!",
+  "status": "done"
  },
  {
   "id": "event_2187_05D9F",
@@ -4089,8 +4089,8 @@
    33237
   ],
   "jp": "凄まじい破壊力だ……{n}この男をも従えるガーロット、{n}やはり、恐ろしい！",
-  "en": "",
-  "status": ""
+  "en": "Terrifying destructive power... Garlot commands even this man. He truly is frightening!",
+  "status": "done"
  },
  {
   "id": "event_2187_05DE4",
@@ -4101,8 +4101,8 @@
    33267
   ],
   "jp": "ちっ！　ぬかったぜ…",
-  "en": "",
-  "status": ""
+  "en": "Tch! I screwed up...",
+  "status": "done"
  },
  {
   "id": "event_2187_05DF9",
@@ -4113,7 +4113,7 @@
    33288
   ],
   "jp": "だが、この程度で諦めはしない！{n}次は覚悟せよッ②",
-  "en": "",
-  "status": ""
+  "en": "But I won't give up over this much! Next time, brace yourself!!",
+  "status": "done"
  }
 ]

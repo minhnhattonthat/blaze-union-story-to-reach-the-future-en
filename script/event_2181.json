@@ -8,8 +8,8 @@
    7475
   ],
   "jp": "{voice:009B0C}あれが帝国の正規軍か。{n}レオンの辺境部隊を除けば、{n}間近で見るのは初めてだね。",
-  "en": "",
-  "status": ""
+  "en": "So that's the Empire's regular army. Leaving out Leon's border unit, this is my first look at them up close.",
+  "status": "done"
  },
  {
   "id": "event_2181_00079",
@@ -20,8 +20,8 @@
    7496
   ],
   "jp": "{voice:009C0C}整然とした隊列だ。{n}やはり賊まがいの連中とは違うな。",
-  "en": "",
-  "status": ""
+  "en": "Those are tidy ranks. Nothing like that bandit trash, that's for sure.",
+  "status": "done"
  },
  {
   "id": "event_2181_000B1",
@@ -32,8 +32,8 @@
    7517
   ],
   "jp": "{voice:009D0C}見てみろ、ガーロット。{n}帝国一精強な鋼鉄騎団を率いる{n}バルドゥス将軍だ。",
-  "en": "",
-  "status": ""
+  "en": "Look there, Garlot. That is General Baldus, who leads the Steel Knights, the mightiest force in the Empire.",
+  "status": "done"
  },
  {
   "id": "event_2181_000FC",
@@ -56,8 +56,8 @@
    7622
   ],
   "jp": "{voice:009E0C}あれが軍神バルドゥス……{n}名前は聞いた事があるけど、{n}見るのは初めてだ。",
-  "en": "",
-  "status": ""
+  "en": "So that's Baldus, the War God... I've heard the name, but this is the first time I've seen him.",
+  "status": "done"
  },
  {
   "id": "event_2181_00152",
@@ -68,8 +68,8 @@
    7643
   ],
   "jp": "{voice:009F0C}長い間、帝国の軍を支え{n}『軍神』と渾名される…{n}いわば軍の頂点に立つ男だ。",
-  "en": "",
-  "status": ""
+  "en": "For many years he has held up the Empire's army. The War God... The man at the very top of the military.",
+  "status": "done"
  },
  {
   "id": "event_2181_0019F",
@@ -80,8 +80,8 @@
    7664
   ],
   "jp": "{voice:00A00C}でも本当にお爺ちゃんね。{n}騎馬隊の指揮なんかできるの？",
-  "en": "",
-  "status": ""
+  "en": "But he really is an old grandpa, you know. Can he even command a cavalry unit?",
+  "status": "done"
  },
  {
   "id": "event_2181_001D9",
@@ -92,8 +92,8 @@
    7685
   ],
   "jp": "{voice:00A10C}戦場を駆け回って戦い続け、{n}叩き上げであの地位を得た男だ。{n}決して侮るな。",
-  "en": "",
-  "status": ""
+  "en": "He fought his way up to that rank, one battlefield after another. Do not underestimate him.",
+  "status": "done"
  },
  {
   "id": "event_2181_00226",
@@ -104,8 +104,8 @@
    7733
   ],
   "jp": "{voice:00A20C}…ヴェルマン方伯。{n}この演習は何か裏があると{n}思っていますか？",
-  "en": "",
-  "status": ""
+  "en": "...Margrave Velleman. Do you think there's something behind this exercise?",
+  "status": "done"
  },
  {
   "id": "event_2181_00267",
@@ -116,8 +116,8 @@
    7754
   ],
   "jp": "{voice:00A30C}ああ、恐らくは貴族が持つ力を{n}計ろうというお考えであろう。",
-  "en": "",
-  "status": ""
+  "en": "Yes. Most likely His Majesty means to gauge the strength the nobles hold.",
+  "status": "done"
  },
  {
   "id": "event_2181_002A5",
@@ -128,8 +128,8 @@
    7761
   ],
   "jp": "{voice:00A40C}我々が力を持ち過ぎる事を{n}陛下は警戒されているのだ。",
-  "en": "",
-  "status": ""
+  "en": "His Majesty is wary of our growing too powerful.",
+  "status": "done"
  },
  {
   "id": "event_2181_002DD",
@@ -140,8 +140,8 @@
    7768
   ],
   "jp": "{voice:00A50C}過小な評価を受け、{n}ソルティエ帝の警戒心が{n}和らげばよいのだが…",
-  "en": "",
-  "status": ""
+  "en": "If we were underrated, Emperor Soltier might let down his guard somewhat...",
+  "status": "done"
  },
  {
   "id": "event_2181_00320",
@@ -152,8 +152,8 @@
    7789
   ],
   "jp": "{voice:00A60C}手を抜け、って事か？{n}それは相手の力量と戦い方次第だ。{n}今回は難しいぜ。",
-  "en": "",
-  "status": ""
+  "en": "Go easy, huh? That depends on how strong they are and how they fight. Won't be easy this time.",
+  "status": "done"
  },
  {
   "id": "event_2181_0036B",
@@ -164,8 +164,8 @@
    7810
   ],
   "jp": "{voice:00A70C}…そうであろうな。{n}相手はあの軍神なのだから。",
-  "en": "",
-  "status": ""
+  "en": "...I suppose not. Your opponent is the War God, after all.",
+  "status": "done"
  },
  {
   "id": "event_2181_0039D",
@@ -176,8 +176,8 @@
    7902
   ],
   "jp": "{voice:00A80C}貴族の私兵が相手とは…{n}我が鋼鉄騎団の調練になるものか。",
-  "en": "",
-  "status": ""
+  "en": "Up against nobles' private soldiers... This will be no drill at all for my Steel Knights.",
+  "status": "done"
  },
  {
   "id": "event_2181_003D9",
@@ -188,8 +188,8 @@
    8156
   ],
   "jp": "{voice:00A90C}これは陛下。{n}いかがなされましたか？",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty. What brings you here?",
+  "status": "done"
  },
  {
   "id": "event_2181_00401",
@@ -200,8 +200,8 @@
    8177
   ],
   "jp": "{voice:00AA0C}バルドゥスよ。{n}貴族の私兵共をどう見る？",
-  "en": "",
-  "status": ""
+  "en": "Baldus. What do you make of these nobles' private soldiers?",
+  "status": "done"
  },
  {
   "id": "event_2181_0042D",
@@ -212,8 +212,8 @@
    8198
   ],
   "jp": "{voice:00AB0C}はっきりと申し上げれば、{n}…寄せ集めでございますな。",
-  "en": "",
-  "status": ""
+  "en": "To speak plainly, sire... A mere rabble.",
+  "status": "done"
  },
  {
   "id": "event_2181_00465",
@@ -224,8 +224,8 @@
    8219
   ],
   "jp": "{voice:00AC0C}ヴェルマンの私兵はどうだ？{n}巷を騒がせるグラムブレイズだ。",
-  "en": "",
-  "status": ""
+  "en": "And Velleman's private soldiers? Gram Blaze, the talk of the town.",
+  "status": "done"
  },
  {
   "id": "event_2181_004A3",
@@ -236,8 +236,8 @@
    8304
   ],
   "jp": "{voice:00AD0C}あの赤髪の若武者達とは、{n}一度剣を交えた事がございます。",
-  "en": "",
-  "status": ""
+  "en": "I have crossed swords once with that red-haired young warrior and his men.",
+  "status": "done"
  },
  {
   "id": "event_2181_004DF",
@@ -248,8 +248,8 @@
    8325
   ],
   "jp": "{voice:00AE0C}そうだな。{n}一度お前を破った連中だ。",
-  "en": "",
-  "status": ""
+  "en": "So you have. And they defeated you.",
+  "status": "done"
  },
  {
   "id": "event_2181_00507",
@@ -260,8 +260,8 @@
    8346
   ],
   "jp": "{voice:00AF0C}あの時は、失礼ながら余興と存じ、{n}実力は出しておりません。",
-  "en": "",
-  "status": ""
+  "en": "That day, begging your pardon, I took it for a diversion and did not show my true ability.",
+  "status": "done"
  },
  {
   "id": "event_2181_00545",
@@ -272,8 +272,8 @@
    8375
   ],
   "jp": "{voice:00B00C}…あの赤髪の若武者が団長ですな。",
-  "en": "",
-  "status": ""
+  "en": "...That red-haired young warrior is their captain, then.",
+  "status": "done"
  },
  {
   "id": "event_2181_0056A",
@@ -284,8 +284,8 @@
    8382
   ],
   "jp": "{voice:00B10C}他に比べれば、{n}いくらかマシという程度でしょう。",
-  "en": "",
-  "status": ""
+  "en": "Compared with the others, I would call them somewhat better. No more than that.",
+  "status": "done"
  },
  {
   "id": "event_2181_0059E",
@@ -296,8 +296,8 @@
    8403
   ],
   "jp": "{voice:00B20C}部隊の強弱は、実際に{n}ぶつかってみなければわからない。{n}違うか、軍神よ？",
-  "en": "",
-  "status": ""
+  "en": "The strength of a force can't be known until you actually clash with it. Isn't that so, War God?",
+  "status": "done"
  },
  {
   "id": "event_2181_005E9",
@@ -308,8 +308,8 @@
    8424
   ],
   "jp": "{voice:00B30C}…御意にございます。",
-  "en": "",
-  "status": ""
+  "en": "...As you say, sire.",
+  "status": "done"
  },
  {
   "id": "event_2181_00602",
@@ -320,8 +320,8 @@
    8488
   ],
   "jp": "{voice:00B40C}まあよい。{n}奴らの真の力を引き出し、計れ。{n}よいな？",
-  "en": "",
-  "status": ""
+  "en": "Very well. Draw out their true strength and measure it. Understood?",
+  "status": "done"
  },
  {
   "id": "event_2181_00639",
@@ -332,8 +332,8 @@
    8509
   ],
   "jp": "{voice:00B50C}仰せのままに。",
-  "en": "",
-  "status": ""
+  "en": "As you command.",
+  "status": "done"
  },
  {
   "id": "event_2181_0064C",
@@ -344,8 +344,8 @@
    8636
   ],
   "jp": "{voice:00B60C}グラムブレイズ…{n}民衆の間でその名を馳せる、{n}義軍と評判の連中か。",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze... Famed among the people, known as a righteous army.",
+  "status": "done"
  },
  {
   "id": "event_2181_00691",
@@ -356,8 +356,8 @@
    8643
   ],
   "jp": "{voice:00B70C}治安維持や不正者の取り締まり…{n}本来ならば我々が負うべき戦いに{n}率先して身を投じていると聞く。",
-  "en": "",
-  "status": ""
+  "en": "Keeping the peace, cracking down on wrongdoers... I hear they rush into battles that ought rightly to be ours.",
+  "status": "done"
  },
  {
   "id": "event_2181_006F2",
@@ -368,8 +368,8 @@
    8661
   ],
   "jp": "{voice:00B80C}それと知りながら、{n}こんな演習に召喚するとは……{n}陛下の真意が理解できぬ。",
-  "en": "",
-  "status": ""
+  "en": "And His Majesty, knowing as much, summons them to an exercise like this... I cannot fathom his true intent.",
+  "status": "done"
  },
  {
   "id": "event_2181_0073F",
@@ -380,8 +380,8 @@
    8887
   ],
   "jp": "{voice:00B90C}陛下…、今回の演習、{n}本当に反乱分子を炙り出すのが{n}目的なのでございますか？",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty... Is the true purpose of this exercise to flush out rebel elements?",
+  "status": "done"
  },
  {
   "id": "event_2181_0078E",
@@ -392,8 +392,8 @@
    8908
   ],
   "jp": "{voice:00BA0C}それもある。もう１つは、{n}噂に聞くグラムブレイズの{n}実力を測る事だな。",
-  "en": "",
-  "status": ""
+  "en": "That's part of it. The other part is to measure the ability of this Gram Blaze I keep hearing about.",
+  "status": "done"
  },
  {
   "id": "event_2181_007D7",
@@ -404,8 +404,8 @@
    8915
   ],
   "jp": "{voice:00BB0C}ヴェルマンもそうだが、{n}どうも奴らは近い将来、俺の前に{n}立ちはだかるような気がするのだ。",
-  "en": "",
-  "status": ""
+  "en": "Velleman too, but somehow I have a feeling those people will stand in my way before long.",
+  "status": "done"
  },
  {
   "id": "event_2181_00832",
@@ -416,8 +416,8 @@
    8936
   ],
   "jp": "{voice:00BC0C}陛下……",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty...",
+  "status": "done"
  },
  {
   "id": "event_2181_0083F",
@@ -428,8 +428,8 @@
    8957
   ],
   "jp": "{voice:00BD0C}よし、演習を開始せよ。{n}まずはヴェルマンの私兵からだ。",
-  "en": "",
-  "status": ""
+  "en": "All right, begin the exercise. Velleman's private soldiers go first.",
+  "status": "done"
  },
  {
   "id": "event_2181_00879",
@@ -440,8 +440,8 @@
    9049
   ],
   "jp": "{voice:00BE0C}俺達からか…！{n}ヴェルマン、さっきも言ったが、{n}手を抜くのは難しいと思う。",
-  "en": "",
-  "status": ""
+  "en": "We're up first...! Velleman, like I said before, I don't think we can go easy.",
+  "status": "done"
  },
  {
   "id": "event_2181_008C6",
@@ -452,8 +452,8 @@
    9070
   ],
   "jp": "{voice:00BF0C}いいだろう、ガーロット。{n}全力でやれ。",
-  "en": "",
-  "status": ""
+  "en": "Very well, Garlot. Do it with all your strength.",
+  "status": "done"
  },
  {
   "id": "event_2181_008F0",
@@ -464,8 +464,8 @@
    9091
   ],
   "jp": "{voice:00C00C}いいのか、ヴェルマン？",
-  "en": "",
-  "status": ""
+  "en": "You sure, Velleman?",
+  "status": "done"
  },
  {
   "id": "event_2181_0090B",
@@ -476,8 +476,8 @@
    9112
   ],
   "jp": "{voice:00C10C}あの軍神が見ているのだ、{n}手を抜けば分かってしまうだろう。",
-  "en": "",
-  "status": ""
+  "en": "The War God himself is watching. If you hold back, he will know it.",
+  "status": "done"
  },
  {
   "id": "event_2181_00949",
@@ -488,8 +488,8 @@
    9133
   ],
   "jp": "{voice:00C20C}何より私は、{n}お前達の成長ぶりを見てみたい。",
-  "en": "",
-  "status": ""
+  "en": "Above all, I want to see how much you've grown.",
+  "status": "done"
  },
  {
   "id": "event_2181_00979",
@@ -500,8 +500,8 @@
    9154
   ],
   "jp": "{voice:00C30C}言ってくれるな。{n}なら見せてやるぜ、ヴェルマン！{n}ビビって腰抜かすなよ！",
-  "en": "",
-  "status": ""
+  "en": "Big talk. Then watch this, Velleman! Don't wet yourself!",
+  "status": "done"
  },
  {
   "id": "event_2181_009C4",
@@ -512,8 +512,8 @@
    9389
   ],
   "jp": "{voice:00C40C}…いや、{n}やはり貴族の私兵ごときに{n}拙者が出る事は無いだろう。",
-  "en": "",
-  "status": ""
+  "en": "...No. For a noble's mere private soldiers, there is no need for me to take the field.",
+  "status": "done"
  },
  {
   "id": "event_2181_00A05",
@@ -524,8 +524,8 @@
    9410
   ],
   "jp": "{voice:00C50C}バルドゥス様……",
-  "en": "",
-  "status": ""
+  "en": "Baldus-sama...",
+  "status": "done"
  },
  {
   "id": "event_2181_00A1A",
@@ -536,8 +536,8 @@
    9431
   ],
   "jp": "{voice:00C60C}第一部隊、前に出るのだ。{n}拙者は後軍として控えておく。",
-  "en": "",
-  "status": ""
+  "en": "First unit, advance. I shall hold back with the rear guard.",
+  "status": "done"
  },
  {
   "id": "event_2181_00A54",
@@ -548,8 +548,8 @@
    9438
   ],
   "jp": "{voice:00C70C}お主らだけで蹴散らしてみよ。{n}よいな？",
-  "en": "",
-  "status": ""
+  "en": "Scatter them on your own. Understood?",
+  "status": "done"
  },
  {
   "id": "event_2181_00A7E",
@@ -560,8 +560,8 @@
    9502
   ],
   "jp": "{voice:00C80C}なんだ、軍神は出てこないのか？",
-  "en": "",
-  "status": ""
+  "en": "What, the War God's not coming out?",
+  "status": "done"
  },
  {
   "id": "event_2181_00AA1",
@@ -572,8 +572,8 @@
    14562
   ],
   "jp": "{voice:00C90C}…こいつら、{n}本当に一貴族の私兵なのか？{n}相当な調練を積んでいるぞ。",
-  "en": "",
-  "status": ""
+  "en": "...Are these guys really one noble's private soldiers? They've had some serious training.",
+  "status": "done"
  },
  {
   "id": "event_2181_00AE8",
@@ -584,8 +584,8 @@
    14610
   ],
   "jp": "{voice:00CA0C}やはり強いな。{n}一筋縄ではいかないぜ……",
-  "en": "",
-  "status": ""
+  "en": "Yeah, they're strong. This won't be simple...",
+  "status": "done"
  },
  {
   "id": "event_2181_00B14",
@@ -596,8 +596,8 @@
    14710
   ],
   "jp": "{voice:00CB0C}バルドゥス様……{n}申し訳ありません、撤退します！",
-  "en": "",
-  "status": ""
+  "en": "Baldus-sama... Forgive us, we are withdrawing!",
+  "status": "done"
  },
  {
   "id": "event_2181_00B48",
@@ -608,8 +608,8 @@
    16252
   ],
   "jp": "{voice:00CC0C}バカな！　拙者が手塩にかけて{n}鍛え上げた鋼鉄騎団が破られた？",
-  "en": "",
-  "status": ""
+  "en": "Impossible! The Steel Knights I trained with my own hands, defeated?",
+  "status": "done"
  },
  {
   "id": "event_2181_00B88",
@@ -620,8 +620,8 @@
    16270
   ],
   "jp": "{voice:00CD0C}敗因は…、貴族の飼い犬と侮った{n}拙者の心の驕りか。",
-  "en": "",
-  "status": ""
+  "en": "And the cause of defeat... The arrogance in my own heart, dismissing them as a noble's lapdogs.",
+  "status": "done"
  },
  {
   "id": "event_2181_00BBE",
@@ -632,8 +632,8 @@
    16277
   ],
   "jp": "{voice:00CE0C}武人は、いかなる戦いであれ、{n}正面から武で応えるべきか。{n}…恥じるべき行為であった。",
-  "en": "",
-  "status": ""
+  "en": "A warrior must answer any battle head-on, with arms... My conduct was shameful.",
+  "status": "done"
  },
  {
   "id": "event_2181_00C15",
@@ -644,8 +644,8 @@
    16295
   ],
   "jp": "{voice:00CF0C}しかし、なんと勇壮な私兵か…{n}…いや、軍勢だ。{n}武人の血を滾らせる、立派な軍だ。",
-  "en": "",
-  "status": ""
+  "en": "But what valiant private soldiers... No, what an army. A fine army, one that sets a warrior's blood boiling.",
+  "status": "done"
  },
  {
   "id": "event_2181_00C68",
@@ -656,8 +656,8 @@
    16343
   ],
   "jp": "{voice:00D00C}なんだ？{n}何をブツブツと…",
-  "en": "",
-  "status": ""
+  "en": "What? What are you muttering about...",
+  "status": "done"
  },
  {
   "id": "event_2181_00C86",
@@ -668,8 +668,8 @@
    16391
   ],
   "jp": "{voice:00D10C}赤髪の青年よッ②{n}拙者はバルドゥスと申す！{n}名をお聞かせ願いたい。",
-  "en": "",
-  "status": ""
+  "en": "Red-haired youth!! I am called Baldus! I would ask your name!",
+  "status": "done"
  },
  {
   "id": "event_2181_00CCB",
@@ -680,8 +680,8 @@
    16412
   ],
   "jp": "{voice:00D20C}グラムブレイズ団長、{n}ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "Captain of Gram Blaze. Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2181_00CF1",
@@ -692,8 +692,8 @@
    16433
   ],
   "jp": "{voice:00D30C}ガーロット、よき名！{n}いざ、勝負である！",
-  "en": "",
-  "status": ""
+  "en": "Garlot, a fine name! Now, have at you!",
+  "status": "done"
  },
  {
   "id": "event_2181_00D1D",
@@ -704,8 +704,8 @@
    16454
   ],
   "jp": "{voice:00D40C}熱いぜ、軍神。{n}受けて立とうじゃないか！",
-  "en": "",
-  "status": ""
+  "en": "You're fired up, War God. All right, I'll take you on!",
+  "status": "done"
  },
  {
   "id": "event_2181_00D49",
@@ -717,8 +717,8 @@
    9753
   ],
   "jp": "整地された形跡がある…{n}何かの敷地だったのか？",
-  "en": "",
-  "status": ""
+  "en": "Looks like the ground's been leveled... Was this some kind of compound?",
+  "status": "done"
  },
  {
   "id": "event_2181_00D77",
@@ -730,8 +730,8 @@
    9828
   ],
   "jp": "これは、囚人を逃さないために{n}取り付けておく足枷か…{n}じゃあ、ここってひょっとして…",
-  "en": "",
-  "status": ""
+  "en": "This is a shackle, the kind they put on prisoners so they can't escape... So then, could this place be...",
+  "status": "done"
  },
  {
   "id": "event_2181_00DCA",
@@ -743,8 +743,8 @@
    9915
   ],
   "jp": "何か建物でもあったのかな？{n}あれこれ落ちてるけど…",
-  "en": "",
-  "status": ""
+  "en": "Maybe there was a building here? There's all kinds of stuff lying around...",
+  "status": "done"
  },
  {
   "id": "event_2181_00DFC",
@@ -756,8 +756,8 @@
    10001
   ],
   "jp": "…足枷だわ。{n}こんなの付けられたら{n}逃げられないわよ…",
-  "en": "",
-  "status": ""
+  "en": "...It's a leg shackle. If they put this on you, there's no way you're getting away...",
+  "status": "done"
  },
  {
   "id": "event_2181_00E31",
@@ -769,8 +769,8 @@
    10088
   ],
   "jp": "地図によると、ここには昔{n}罪人の収容所があったみたいだね。",
-  "en": "",
-  "status": ""
+  "en": "According to the map, there used to be a prison camp here.",
+  "status": "done"
  },
  {
   "id": "event_2181_00E6B",
@@ -782,8 +782,8 @@
    10163
   ],
   "jp": "この足枷は当時の名残りかな？",
-  "en": "",
-  "status": ""
+  "en": "I suppose this shackle is a relic of those days?",
+  "status": "done"
  },
  {
   "id": "event_2181_00E88",
@@ -795,8 +795,8 @@
    10243
   ],
   "jp": "物々しい雰囲気がするな…{n}この土地、何かがおかしい？",
-  "en": "",
-  "status": ""
+  "en": "There's an ominous feel to this... Is something wrong with this land?",
+  "status": "done"
  },
  {
   "id": "event_2181_00EBC",
@@ -808,8 +808,8 @@
    10318
   ],
   "jp": "鉄球付きの足枷か…{n}収容所でもあったのかな。",
-  "en": "",
-  "status": ""
+  "en": "A leg shackle with an iron ball... There must have been a prison camp here.",
+  "status": "done"
  },
  {
   "id": "event_2181_00EE8",
@@ -821,8 +821,8 @@
    10398
   ],
   "jp": "なんでしょう？{n}気持ちがざわざわします…",
-  "en": "",
-  "status": ""
+  "en": "What is this? I feel uneasy...",
+  "status": "done"
  },
  {
   "id": "event_2181_00F10",
@@ -834,8 +834,8 @@
    10473
   ],
   "jp": "足枷、ですか…{n}こんなの付けられたら{n}身動き取れませんね。",
-  "en": "",
-  "status": ""
+  "en": "A leg shackle, is it... If I were made to wear this, I could not move at all.",
+  "status": "done"
  },
  {
   "id": "event_2181_00F49",
@@ -847,8 +847,8 @@
    10553
   ],
   "jp": "なんだ？{n}デカイ鉄球が落ちてるぞ…",
-  "en": "",
-  "status": ""
+  "en": "What is this? There is a big iron ball lying here...",
+  "status": "done"
  },
  {
   "id": "event_2181_00F6B",
@@ -860,8 +860,8 @@
    10628
   ],
   "jp": "ああ、囚人に付ける足枷か。{n}…バイフーの足には合わないな。{n}じゃあ、もし捕まっても安心だ。",
-  "en": "",
-  "status": ""
+  "en": "Ah, a shackle for prisoners. ...It does not fit Byff's foot. So if Byff gets caught, no worry.",
+  "status": "done"
  },
  {
   "id": "event_2181_00FC4",
@@ -873,8 +873,8 @@
    10715
   ],
   "jp": "何か落ちているわね…",
-  "en": "",
-  "status": ""
+  "en": "Something's lying here...",
+  "status": "done"
  },
  {
   "id": "event_2181_00FD9",
@@ -886,8 +886,8 @@
    10790
   ],
   "jp": "あら、足枷じゃない。{n}こんなの付けられたら{n}とても逃げられないわね。",
-  "en": "",
-  "status": ""
+  "en": "Well, if it isn't a leg shackle. If they put this on you, you'd never get away.",
+  "status": "done"
  },
  {
   "id": "event_2181_0101C",
@@ -899,8 +899,8 @@
    10811
   ],
   "jp": "…私がもらっておきましょ。",
-  "en": "",
-  "status": ""
+  "en": "...I'll just take it for myself.",
+  "status": "done"
  },
  {
   "id": "event_2181_01037",
@@ -912,8 +912,8 @@
    10905
   ],
   "jp": "おや？　なんだろう、{n}デカい鉄の球が落ちてるな。",
-  "en": "",
-  "status": ""
+  "en": "Huh? What's this? There's a big iron ball lying here.",
+  "status": "done"
  },
  {
   "id": "event_2181_01067",
@@ -925,8 +925,8 @@
    10991
   ],
   "jp": "うわ、足枷か。{n}あまりお世話になりたくないね…",
-  "en": "",
-  "status": ""
+  "en": "Yikes, it's a shackle. Not something I wanna get acquainted with...",
+  "status": "done"
  },
  {
   "id": "event_2181_01095",
@@ -938,8 +938,8 @@
    11078
   ],
   "jp": "ウィーック…{n}んん？　なんだ、これ。",
-  "en": "",
-  "status": ""
+  "en": "*hic* Ooh... Mm? What's this now.",
+  "status": "done"
  },
  {
   "id": "event_2181_010B9",
@@ -951,8 +951,8 @@
    11153
   ],
   "jp": "足枷かぁ。{n}まあ、足がないあっしには{n}縁のないアイテムね。ヒック…",
-  "en": "",
-  "status": ""
+  "en": "A shackle, huh. Well, no feet on me, so it's nothin' to do with me, y'hear. *hic*",
+  "status": "done"
  },
  {
   "id": "event_2181_010FA",
@@ -964,8 +964,8 @@
    11233
   ],
   "jp": "…なに、この感覚？{n}気持ちがざらつくわ…",
-  "en": "",
-  "status": ""
+  "en": "...What is this feeling? It's making Pamela-sama all prickly...",
+  "status": "done"
  },
  {
   "id": "event_2181_01122",
@@ -977,8 +977,8 @@
    11308
   ],
   "jp": "これ、足枷じゃない。{n}という事は、まさかココって{n}刑務所か何か？",
-  "en": "",
-  "status": ""
+  "en": "This is a shackle! Which means... Don't tell me this place was a prison or something?",
+  "status": "done"
  },
  {
   "id": "event_2181_01161",
@@ -990,8 +990,8 @@
    11315
   ],
   "jp": "つまりこのあたりには、{n}処刑された人間の魂が{n}うろついてる、ってわけだわね…",
-  "en": "",
-  "status": ""
+  "en": "So what you're saying is, the souls of people who got executed are wandering around here...",
+  "status": "done"
  },
  {
   "id": "event_2181_011AC",
@@ -1003,8 +1003,8 @@
    11395
   ],
   "jp": "おや？{n}何か落ちているようですが…",
-  "en": "",
-  "status": ""
+  "en": "Oh? Something seems to be lying here...",
+  "status": "done"
  },
  {
   "id": "event_2181_011CE",
@@ -1016,8 +1016,8 @@
    11470
   ],
   "jp": "足枷ですか。これを付けられると、{n}機動力は激減するでしょうね。{n}フフ…",
-  "en": "",
-  "status": ""
+  "en": "A leg shackle, I see. Wearing one would drastically reduce one's mobility. Hehe...",
+  "status": "done"
  },
  {
   "id": "event_2181_01213",
@@ -1029,8 +1029,8 @@
    11571
   ],
   "jp": "あらあら、一体なんでしょう？{n}身体がゾクゾクしてきましたわ…",
-  "en": "",
-  "status": ""
+  "en": "Oh my, whatever could it be? I have come over all a-shiver...",
+  "status": "done"
  },
  {
   "id": "event_2181_0124F",
@@ -1042,8 +1042,8 @@
    11663
   ],
   "jp": "鉄球付きの足枷ですわね！{n}…あーんなことや、こーんなこと、{n}色々と使えそうですわね♪",
-  "en": "",
-  "status": ""
+  "en": "A shackle with an iron ball! ...One could find all manner of uses for this♪",
+  "status": "done"
  },
  {
   "id": "event_2181_012A2",
@@ -1055,8 +1055,8 @@
    11741
   ],
   "jp": "んんっ？{n}なんだ、身体にブルブルと{n}震えが来たぜ…",
-  "en": "",
-  "status": ""
+  "en": "Hmm? What's this? I've got the shakes all of a sudden...",
+  "status": "done"
  },
  {
   "id": "event_2181_012D3",
@@ -1068,8 +1068,8 @@
    11830
   ],
   "jp": "お、足枷じゃんか。{n}これを身につければ{n}足のトレーニングができるな！",
-  "en": "",
-  "status": ""
+  "en": "Hey, a leg shackle. If I strap this on, I can train my legs!",
+  "status": "done"
  },
  {
   "id": "event_2181_01316",
@@ -1081,8 +1081,8 @@
    11917
   ],
   "jp": "…ここいらには、{n}囚人の施設でもあったのか？",
-  "en": "",
-  "status": ""
+  "en": "...Was there some kind of prison around here?",
+  "status": "done"
  },
  {
   "id": "event_2181_01342",
@@ -1094,8 +1094,8 @@
    11992
   ],
   "jp": "手錠に、足枷…{n}捕縛用の品物が多く落ちているな。",
-  "en": "",
-  "status": ""
+  "en": "Handcuffs. Leg shackles... Many restraints lying about.",
+  "status": "done"
  },
  {
   "id": "event_2181_01372",
@@ -1107,8 +1107,8 @@
    12154
   ],
   "jp": "ん？{n}何か布が落ちてるな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? There's some cloth lying here...",
+  "status": "done"
  },
  {
   "id": "event_2181_0138C",
@@ -1120,8 +1120,8 @@
    12229
   ],
   "jp": "…って、ただの布か。{n}だが、奇妙なくらい{n}おぞましい気配を感じるな…",
-  "en": "",
-  "status": ""
+  "en": "...It's just cloth. But it gives me a weirdly nasty feeling...",
+  "status": "done"
  },
  {
   "id": "event_2181_013CF",
@@ -1133,8 +1133,8 @@
    12309
   ],
   "jp": "あら、何か落ちているわ…",
-  "en": "",
-  "status": ""
+  "en": "Oh, something's lying here...",
+  "status": "done"
  },
  {
   "id": "event_2181_013E8",
@@ -1146,8 +1146,8 @@
    12384
   ],
   "jp": "…何の変哲もない布だけど、{n}どうしてだろう。{n}手にしていると不安になるわ。",
-  "en": "",
-  "status": ""
+  "en": "...It's a totally ordinary piece of cloth, but I don't know why, holding it makes me nervous.",
+  "status": "done"
  },
  {
   "id": "event_2181_01431",
@@ -1159,8 +1159,8 @@
    12464
   ],
   "jp": "おや？　何か落ちているね。",
-  "en": "",
-  "status": ""
+  "en": "Oh? Something's lying here.",
+  "status": "done"
  },
  {
   "id": "event_2181_0144C",
@@ -1172,8 +1172,8 @@
    12539
   ],
   "jp": "ただの布みたいだけど…{n}何かの役に立つかな？",
-  "en": "",
-  "status": ""
+  "en": "It looks like just a piece of cloth... I wonder if it'll come in handy?",
+  "status": "done"
  },
  {
   "id": "event_2181_01478",
@@ -1185,8 +1185,8 @@
    12619
   ],
   "jp": "何かしら、{n}布が落ちているけど。",
-  "en": "",
-  "status": ""
+  "en": "What's this, I wonder? There's some cloth here.",
+  "status": "done"
  },
  {
   "id": "event_2181_01498",
@@ -1198,8 +1198,8 @@
    12694
   ],
   "jp": "ただの布…？{n}なんでだろう、そうは見えないな。",
-  "en": "",
-  "status": ""
+  "en": "Just cloth...? I don't know why, but it doesn't seem like it.",
+  "status": "done"
  },
  {
   "id": "event_2181_014C6",
@@ -1211,8 +1211,8 @@
    12774
   ],
   "jp": "あら？{n}そこに落ちているのは…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What is that lying there...",
+  "status": "done"
  },
  {
   "id": "event_2181_014E4",
@@ -1224,8 +1224,8 @@
    12849
   ],
   "jp": "布、ですね。{n}風で飛ばされたのでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Cloth, it would seem. Perhaps the wind carried it here?",
+  "status": "done"
  },
  {
   "id": "event_2181_0150E",
@@ -1237,8 +1237,8 @@
    12936
   ],
   "jp": "ん？　なんか落ちてるぞ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something is lying here.",
+  "status": "done"
  },
  {
   "id": "event_2181_01527",
@@ -1250,8 +1250,8 @@
    13025
   ],
   "jp": "布だ。{n}何に使うのか、わからぬのぅ。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Cloth. What is it for? Byff has not the cloth-est idea. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2181_0155A",
@@ -1263,8 +1263,8 @@
    13119
   ],
   "jp": "ん？{n}何かしら、この布は。",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's this cloth?",
+  "status": "done"
  },
  {
   "id": "event_2181_01574",
@@ -1276,8 +1276,8 @@
    13194
   ],
   "jp": "…ははぁ、さては囚人を{n}処刑するときに使う{n}目隠しの布ね。",
-  "en": "",
-  "status": ""
+  "en": "...Aha, it must be the blindfold they used when executing prisoners.",
+  "status": "done"
  },
  {
   "id": "event_2181_015AD",
@@ -1289,8 +1289,8 @@
    13215
   ],
   "jp": "…もらっておきましょうか。",
-  "en": "",
-  "status": ""
+  "en": "...I'll just take it, shall I.",
+  "status": "done"
  },
  {
   "id": "event_2181_015C8",
@@ -1302,8 +1302,8 @@
    13302
   ],
   "jp": "ん？　なんだ、アレ？",
-  "en": "",
-  "status": ""
+  "en": "Huh? What's that?",
+  "status": "done"
  },
  {
   "id": "event_2181_015DD",
@@ -1315,8 +1315,8 @@
    13377
   ],
   "jp": "…なんだ、ただの布か。{n}宝の地図か何かだと思ったのに、{n}残念だぜ、まったく。",
-  "en": "",
-  "status": ""
+  "en": "...Oh, it's just cloth. I thought it was a treasure map or something. What a letdown.",
+  "status": "done"
  },
  {
   "id": "event_2181_01628",
@@ -1328,8 +1328,8 @@
    13457
   ],
   "jp": "おや？{n}なんか落ちてるじゃない…{n}ヒック。",
-  "en": "",
-  "status": ""
+  "en": "Well now? Somethin' lyin' here... *hic*",
+  "status": "done"
  },
  {
   "id": "event_2181_01651",
@@ -1341,8 +1341,8 @@
    13532
   ],
   "jp": "布、かしら…{n}ただの布にしか見えないけど。{n}ヒック！",
-  "en": "",
-  "status": ""
+  "en": "Cloth, is it... Looks like plain old cloth to me. *hic*!",
+  "status": "done"
  },
  {
   "id": "event_2181_01684",
@@ -1354,8 +1354,8 @@
    13612
   ],
   "jp": "なに？　なに？{n}怖気がするんだわさ。",
-  "en": "",
-  "status": ""
+  "en": "What? What? Pamela-sama's getting the chills.",
+  "status": "done"
  },
  {
   "id": "event_2181_016A8",
@@ -1367,8 +1367,8 @@
    13687
   ],
   "jp": "この布には強烈な残留思念が{n}染み付いているんだわさ…",
-  "en": "",
-  "status": ""
+  "en": "Intense lingering thoughts have soaked into this cloth, they have...",
+  "status": "done"
  },
  {
   "id": "event_2181_016DC",
@@ -1380,8 +1380,8 @@
    13767
   ],
   "jp": "ほう、これは…{n}受刑者の目を塞ぐための布ですね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, what's this... A cloth for covering the eyes of the condemned.",
+  "status": "done"
  },
  {
   "id": "event_2181_0170C",
@@ -1393,8 +1393,8 @@
    13842
   ],
   "jp": "私には不要なものですよ。{n}既に目が隠れていますからね。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "I have no need of such a thing. My eyes are already covered, you see. Hehe...",
+  "status": "done"
  },
  {
   "id": "event_2181_0174B",
@@ -1406,8 +1406,8 @@
    13943
   ],
   "jp": "おやぁ？{n}何か布が転がってきましたね。",
-  "en": "",
-  "status": ""
+  "en": "Oh my? Some cloth has rolled up to me.",
+  "status": "done"
  },
  {
   "id": "event_2181_01771",
@@ -1419,8 +1419,8 @@
    14032
   ],
   "jp": "目を塞ぐための布ですね。{n}丈夫で、長さもちょうどいい…{n}逸品だわ。",
-  "en": "",
-  "status": ""
+  "en": "A cloth for covering the eyes. Sturdy, and just the right length... A fine piece of work.",
+  "status": "done"
  },
  {
   "id": "event_2181_017B2",
@@ -1432,8 +1432,8 @@
    14103
   ],
   "jp": "おっ？　なんだぁ？{n}布が転がってきたぜ。",
-  "en": "",
-  "status": ""
+  "en": "Huh? What's this? Some cloth's rolled up here.",
+  "status": "done"
  },
  {
   "id": "event_2181_017DA",
@@ -1445,8 +1445,8 @@
    14178
   ],
   "jp": "何に使う布なのかねぇ？{n}オレには想像もつかないぜ。",
-  "en": "",
-  "status": ""
+  "en": "What's this stuff for, anyway? Beats me.",
+  "status": "done"
  },
  {
   "id": "event_2181_0180C",
@@ -1458,8 +1458,8 @@
    14258
   ],
   "jp": "…む。{n}何か、転がってきたぞ。",
-  "en": "",
-  "status": ""
+  "en": "...Hm. Something has rolled over here.",
+  "status": "done"
  },
  {
   "id": "event_2181_0182A",
@@ -1471,8 +1471,8 @@
    14333
   ],
   "jp": "布だな。{n}…教団が拷問に使った{n}目隠し用のものと似ている。",
-  "en": "",
-  "status": ""
+  "en": "Cloth. ...Similar to the blindfolds the Order used for torture.",
+  "status": "done"
  },
  {
   "id": "event_2181_018BF",
@@ -1495,8 +1495,8 @@
    6391
   ],
   "jp": "バルドゥス鋼鉄騎兵（本隊）",
-  "en": "",
-  "status": ""
+  "en": "Baldus Steel (Main)",
+  "status": "done"
  },
  {
   "id": "event_2181_019A4",
@@ -1507,8 +1507,8 @@
    6561
   ],
   "jp": "バルドゥス鋼鉄騎団第一勢力",
-  "en": "",
-  "status": ""
+  "en": "Baldus Steel 1st Force",
+  "status": "done"
  },
  {
   "id": "event_2181_041B8",
@@ -1519,8 +1519,8 @@
    20815
   ],
   "jp": "{voice:00D50C}これからが本番だな。{n}ラピス…、お前はどう見る？",
-  "en": "",
-  "status": ""
+  "en": "Now the real show begins. Lapis... What do you make of it?",
+  "status": "done"
  },
  {
   "id": "event_2181_041EC",
@@ -1531,8 +1531,8 @@
    20836
   ],
   "jp": "{voice:00D60C}…経験でバルドゥスが勝ります。",
-  "en": "",
-  "status": ""
+  "en": "...In experience, Baldus has the advantage.",
+  "status": "done"
  },
  {
   "id": "event_2181_0420F",
@@ -1543,8 +1543,8 @@
    20843
   ],
   "jp": "{voice:00D70C}集団戦闘は、用兵の優劣が{n}最も結果に表れると存じます。",
-  "en": "",
-  "status": ""
+  "en": "In large-scale combat, I believe the difference in generalship shows most clearly in the result.",
+  "status": "done"
  },
  {
   "id": "event_2181_04249",
@@ -1555,8 +1555,8 @@
    20850
   ],
   "jp": "{voice:00D80C}今のグラムブレイズには、{n}そのような思想が無いと見ます。",
-  "en": "",
-  "status": ""
+  "en": "I do not see that kind of thinking in Gram Blaze as it stands.",
+  "status": "done"
  },
  {
   "id": "event_2181_04285",
@@ -1565,8 +1565,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00D90C}フム…",
-  "en": "",
-  "status": ""
+  "en": "Hmm...",
+  "status": "done"
  },
  {
   "id": "event_2181_04290",
@@ -1577,8 +1577,8 @@
    20871
   ],
   "jp": "{voice:00DA0C}確かに理論的に考察すれば、{n}ラピスの指摘は正しい。",
-  "en": "",
-  "status": ""
+  "en": "Considered logically, your point is indeed correct, Lapis.",
+  "status": "done"
  },
  {
   "id": "event_2181_042C6",
@@ -1589,8 +1589,8 @@
    20878
   ],
   "jp": "{voice:00DB0C}だが、あの赤髪……{n}なにかやりそうな気配を感じる。",
-  "en": "",
-  "status": ""
+  "en": "But that red-haired one... I sense he may be up to something.",
+  "status": "done"
  },
  {
   "id": "event_2181_042FC",
@@ -1601,8 +1601,8 @@
    26264
   ],
   "jp": "{voice:00DC0C}気迫に満ちた攻撃だ。{n}なかなかやるな、ガーロット！",
-  "en": "",
-  "status": ""
+  "en": "An attack brimming with spirit. You're quite good, Garlot!",
+  "status": "done"
  },
  {
   "id": "event_2181_04332",
@@ -1613,8 +1613,8 @@
    26271
   ],
   "jp": "{voice:00DD0C}眠っていた軍人の血が、{n}熱くなってくるのを感じるぞ②",
-  "en": "",
-  "status": ""
+  "en": "I can feel a soldier's sleeping blood growing hot!!",
+  "status": "done"
  },
  {
   "id": "event_2181_0436A",
@@ -1625,8 +1625,8 @@
    26292
   ],
   "jp": "{voice:00DE0C}だが鋼鉄騎団の真髄はこれからだ。{n}このバルドゥス、{n}たやすく敗れはせんぞ…！",
-  "en": "",
-  "status": ""
+  "en": "But the true essence of the Steel Knights begins now. I, Baldus, shall not fall so easily...!",
+  "status": "done"
  },
  {
   "id": "event_2181_043B9",
@@ -1637,8 +1637,8 @@
    26414
   ],
   "jp": "{voice:00DF0C}攻撃も防御も見事なものだ！{n}第一部隊が敗れる訳だ……",
-  "en": "",
-  "status": ""
+  "en": "Splendid in attack and defense alike! No wonder my first unit lost...",
+  "status": "done"
  },
  {
   "id": "event_2181_043F1",
@@ -1649,8 +1649,8 @@
    26421
   ],
   "jp": "{voice:00E00C}このような連中が在野とはな。",
-  "en": "",
-  "status": ""
+  "en": "To think men such as these were out among the common folk.",
+  "status": "done"
  },
  {
   "id": "event_2181_04412",
@@ -1661,8 +1661,8 @@
    26439
   ],
   "jp": "{voice:00E10C}まさか、陛下は知っていたのか？{n}それで拙者にぶつけたのか③",
-  "en": "",
-  "status": ""
+  "en": "Could it be that His Majesty knew? Is that why he set them against me!?",
+  "status": "done"
  },
  {
   "id": "event_2181_04450",
@@ -1673,8 +1673,8 @@
    25933
   ],
   "jp": "{voice:00E20C}お主の武、しかと見届けたぞ。{n}若く、素晴らしい力だ…！",
-  "en": "",
-  "status": ""
+  "en": "I have seen your prowess with my own eyes. Young, and a splendid power...!",
+  "status": "done"
  },
  {
   "id": "event_2181_0448A",
@@ -1685,8 +1685,8 @@
    25940
   ],
   "jp": "{voice:00E30C}貴族の私兵風情と侮ったが、{n}拙者の誤りであった。{n}武人として敬意を表する。",
-  "en": "",
-  "status": ""
+  "en": "I dismissed you as a noble's private soldiers, and I was mistaken. As a warrior, I pay you my respects.",
+  "status": "done"
  },
  {
   "id": "event_2181_044D7",
@@ -1697,8 +1697,8 @@
    25961
   ],
   "jp": "{voice:00E40C}アンタもな。{n}歳を感じさせない動きだったぜ。",
-  "en": "",
-  "status": ""
+  "en": "Same to you. You sure don't move like an old man.",
+  "status": "done"
  },
  {
   "id": "event_2181_04507",
@@ -1709,8 +1709,8 @@
    25982
   ],
   "jp": "{voice:00E50C}願わくばその力、{n}誤った道のために使わぬ事を……",
-  "en": "",
-  "status": ""
+  "en": "I only pray you will not use that power for the wrong path...",
+  "status": "done"
  },
  {
   "id": "event_2181_0453B",
@@ -1721,8 +1721,8 @@
    26003
   ],
   "jp": "{voice:00E60C}もちろんだ。{n}この力は民の為に！",
-  "en": "",
-  "status": ""
+  "en": "Of course not. This power's for the people!",
+  "status": "done"
  },
  {
   "id": "event_2181_0455F",
@@ -1733,8 +1733,8 @@
    26024
   ],
   "jp": "{voice:00E70C}民……、うむ。{n}その意気やよし。",
-  "en": "",
-  "status": ""
+  "en": "The people... Yes. A fine spirit.",
+  "status": "done"
  },
  {
   "id": "event_2181_04583",
@@ -1745,8 +1745,8 @@
    27904
   ],
   "jp": "{voice:00E80C}それまでだ！　この演習は{n}グラムブレイズの勝利とする！",
-  "en": "",
-  "status": ""
+  "en": "Enough! Gram Blaze is the victor of this exercise!",
+  "status": "done"
  },
  {
   "id": "event_2181_045BD",
@@ -1757,8 +1757,8 @@
    27952
   ],
   "jp": "{voice:00E90C}よしっ！",
-  "en": "",
-  "status": ""
+  "en": "Yes!",
+  "status": "done"
  },
  {
   "id": "event_2181_045CA",
@@ -1769,8 +1769,8 @@
    27973
   ],
   "jp": "{voice:00EA0C}やったな、メデューテ！",
-  "en": "",
-  "status": ""
+  "en": "We did it, Medoute!",
+  "status": "done"
  },
  {
   "id": "event_2181_045E5",
@@ -1781,8 +1781,8 @@
    27994
   ],
   "jp": "{voice:00EB0C}ああ、そうだな……",
-  "en": "",
-  "status": ""
+  "en": "Yes, we did...",
+  "status": "done"
  },
  {
   "id": "event_2181_045FC",
@@ -1793,8 +1793,8 @@
    28021
   ],
   "jp": "{voice:00EC0C}（演習とはいえ、{n}　軍神バルドゥスを破った…）",
-  "en": "",
-  "status": ""
+  "en": "(Exercise or not, they beat Baldus, the War God...)",
+  "status": "done"
  },
  {
   "id": "event_2181_0462E",
@@ -1805,8 +1805,8 @@
    28028
   ],
   "jp": "{voice:00ED0C}（グラムブレイズに対する{n}　世間の評価は変わるな。{n}　ただの私兵ではなくなる…）",
-  "en": "",
-  "status": ""
+  "en": "(The world will see Gram Blaze differently now. They won't be mere private soldiers anymore...)",
+  "status": "done"
  },
  {
   "id": "event_2181_04681",
@@ -1817,8 +1817,8 @@
    28113
   ],
   "jp": "{voice:00EE0C}ん？　どうした、メデューテ。{n}ハッキリ言ってくれよ、{n}らしくないぜ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? What's up, Medoute? Just say it, will you? This isn't like you.",
+  "status": "done"
  },
  {
   "id": "event_2181_046C8",
@@ -1829,8 +1829,8 @@
    28134
   ],
   "jp": "{voice:00EF0C}いや、{n}ちょっと言いづらい事なんだが……",
-  "en": "",
-  "status": ""
+  "en": "No, it's just a little hard to say...",
+  "status": "done"
  },
  {
   "id": "event_2181_046F4",
@@ -1841,8 +1841,8 @@
    28155
   ],
   "jp": "{voice:00F00C}知ってると思うけど、{n}あたしは元々、旅の空の人間でさ。",
-  "en": "",
-  "status": ""
+  "en": "As you know, I've always been a drifter, living under open skies.",
+  "status": "done"
  },
  {
   "id": "event_2181_0472E",
@@ -1853,8 +1853,8 @@
    28162
   ],
   "jp": "{voice:00F10C}あたしは、{n}君達の戦いに興味を持った。{n}そして今まで、一緒に戦ってきた。",
-  "en": "",
-  "status": ""
+  "en": "Your fight caught my interest. And I've fought beside you all this time.",
+  "status": "done"
  },
  {
   "id": "event_2181_04779",
@@ -1865,8 +1865,8 @@
    28183
   ],
   "jp": "{voice:00F20C}つい長居をしてしまった。{n}居心地が良すぎたからね……{n}だけど、そろそろ潮時みたい。",
-  "en": "",
-  "status": ""
+  "en": "I ended up staying too long. It was too comfortable here... But it looks like it's about time.",
+  "status": "done"
  },
  {
   "id": "event_2181_047CE",
@@ -1877,8 +1877,8 @@
    28204
   ],
   "jp": "{voice:00F30C}……私兵団を抜けたい。{n}そういう事か？",
-  "en": "",
-  "status": ""
+  "en": "...You want to leave the band. Is that it?",
+  "status": "done"
  },
  {
   "id": "event_2181_047F8",
@@ -1889,8 +1889,8 @@
    28225
   ],
   "jp": "{voice:00F40C}今すぐに、というわけじゃない。",
-  "en": "",
-  "status": ""
+  "en": "Not right this minute.",
+  "status": "done"
  },
  {
   "id": "event_2181_0481B",
@@ -1901,8 +1901,8 @@
    28232
   ],
   "jp": "{voice:00F50C}ただあたしは…、色々な責任から{n}逃げて、旅を始めた人間なの。",
-  "en": "",
-  "status": ""
+  "en": "It's just... I'm someone who started traveling to run away from a lot of responsibilities.",
+  "status": "done"
  },
  {
   "id": "event_2181_0485B",
@@ -1913,8 +1913,8 @@
    28239
   ],
   "jp": "{voice:00F60C}その放棄した責任を思うと、{n}新しい責任を背負う事に{n}抵抗を覚えるのよ。",
-  "en": "",
-  "status": ""
+  "en": "When I think of the ones I abandoned, I balk at taking on new ones.",
+  "status": "done"
  },
  {
   "id": "event_2181_048A4",
@@ -1925,8 +1925,8 @@
    28260
   ],
   "jp": "{voice:00F70C}……そうか、わかった。{n}その時が来たら、言ってくれ。",
-  "en": "",
-  "status": ""
+  "en": "...Okay, got it. When the time comes, tell me.",
+  "status": "done"
  },
  {
   "id": "event_2181_048DC",
@@ -1937,8 +1937,8 @@
    28281
   ],
   "jp": "{voice:00F80C}ありがとう……",
-  "en": "",
-  "status": ""
+  "en": "Thank you...",
+  "status": "done"
  },
  {
   "id": "event_2181_048EF",
@@ -1949,8 +1949,8 @@
    28288
   ],
   "jp": "{voice:00F90C}…あと、シスキアにはしばらく{n}黙っておいてくれないか。",
-  "en": "",
-  "status": ""
+  "en": "...One more thing. Could you keep this from Siskier for a while?",
+  "status": "done"
  },
  {
   "id": "event_2181_04929",
@@ -1961,8 +1961,8 @@
    28309
   ],
   "jp": "{voice:00FA0C}あの子に引き留められると、{n}その、決心が鈍りそうでさ。{n}シスキア、カワイイだろ。",
-  "en": "",
-  "status": ""
+  "en": "If that girl begged me to stay, well, I might lose my nerve. Siskier's a sweet kid, isn't she.",
+  "status": "done"
  },
  {
   "id": "event_2181_0497C",
@@ -1973,8 +1973,8 @@
    28330
   ],
   "jp": "{voice:00FB0C}はははっ、そうか。{n}わかったよ、メデューテ。",
-  "en": "",
-  "status": ""
+  "en": "Hahaha, yeah. All right, Medoute.",
+  "status": "done"
  },
  {
   "id": "event_2181_049AC",
@@ -1985,8 +1985,8 @@
    28811
   ],
   "jp": "{voice:00FC0C}陛下、面目ございませんでした…",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty, I am disgraced...",
+  "status": "done"
  },
  {
   "id": "event_2181_049CF",
@@ -1997,8 +1997,8 @@
    28859
   ],
   "jp": "{voice:00FD0C}構わん、過ぎた事だ。{n}それよりグラムブレイズだ。{n}あれはどうだ？",
-  "en": "",
-  "status": ""
+  "en": "Never mind, it's over and done with. More to the point, Gram Blaze. What of them?",
+  "status": "done"
  },
  {
   "id": "event_2181_04A12",
@@ -2009,8 +2009,8 @@
    28880
   ],
   "jp": "{voice:00FE0C}…まず個々の能力が極めて高く、{n}正規軍と同等かそれ以上の鍛錬が{n}施されております。",
-  "en": "",
-  "status": ""
+  "en": "...First, each one's ability is extremely high, with training equal to the regular army or better.",
+  "status": "done"
  },
  {
   "id": "event_2181_04A67",
@@ -2021,8 +2021,8 @@
    28901
   ],
   "jp": "{voice:00FF0C}赤髪は？",
-  "en": "",
-  "status": ""
+  "en": "And the redhead?",
+  "status": "done"
  },
  {
   "id": "event_2181_04A74",
@@ -2033,8 +2033,8 @@
    28922
   ],
   "jp": "{voice:00000D}ガーロットでございますな。{n}あの男は勇壮な騎士です。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, sire. That man is a valiant knight.",
+  "status": "done"
  },
  {
   "id": "event_2181_04AAC",
@@ -2045,8 +2045,8 @@
    28929
   ],
   "jp": "{voice:00010D}また、常に先頭で戦うため、{n}兵は勇気付けられ、力を出します。",
-  "en": "",
-  "status": ""
+  "en": "And since he always fights at the very front, his soldiers take courage and give their all.",
+  "status": "done"
  },
  {
   "id": "event_2181_04AEC",
@@ -2057,8 +2057,8 @@
    28950
   ],
   "jp": "{voice:00020D}ふむ…{n}実戦では、勝てるか？",
-  "en": "",
-  "status": ""
+  "en": "Hmm... Could you beat him in a real battle?",
+  "status": "done"
  },
  {
   "id": "event_2181_04B0C",
@@ -2069,8 +2069,8 @@
    28971
   ],
   "jp": "{voice:00030D}状況によりますな。{n}ただ、鋼鉄騎団のみの編制での{n}力押しは難しいでしょう。",
-  "en": "",
-  "status": ""
+  "en": "That would depend on the situation. However, brute force from the Steel Knights alone would be difficult.",
+  "status": "done"
  },
  {
   "id": "event_2181_04B59",
@@ -2081,8 +2081,8 @@
    28978
   ],
   "jp": "{voice:00040D}もし倒せとおっしゃるならば、{n}圧倒的な戦力で叩き潰すべきです。",
-  "en": "",
-  "status": ""
+  "en": "Should you command me to destroy them, they must be crushed by overwhelming force.",
+  "status": "done"
  },
  {
   "id": "event_2181_04B9B",
@@ -2093,8 +2093,8 @@
    28999
   ],
   "jp": "{voice:00050D}なるほど…、{n}もうよい、下がれ。",
-  "en": "",
-  "status": ""
+  "en": "I see... That's enough. You may go.",
+  "status": "done"
  },
  {
   "id": "event_2181_04BBF",
@@ -2105,8 +2105,8 @@
    29020
   ],
   "jp": "{voice:00060D}陛下、恐れながら。{n}反乱を企てているのはまさか……",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty, forgive me. Those plotting rebellion surely aren't...",
+  "status": "done"
  },
  {
   "id": "event_2181_04BF5",
@@ -2117,8 +2117,8 @@
    29068
   ],
   "jp": "{voice:00070D}バルドゥスよ。{n}陛下は下がれとおっしゃったのだ。",
-  "en": "",
-  "status": ""
+  "en": "Baldus. His Majesty told you to go.",
+  "status": "done"
  },
  {
   "id": "event_2181_04C29",
@@ -2129,8 +2129,8 @@
    29089
   ],
   "jp": "{voice:00080D}ハッ、御意に。",
-  "en": "",
-  "status": ""
+  "en": "Yes, sire, as you command.",
+  "status": "done"
  },
  {
   "id": "event_2181_04C3C",
@@ -2141,8 +2141,8 @@
    29167
   ],
   "jp": "{voice:00090D}軍神の名も地に落ちましたね。{n}鋼鉄騎団の精鋭を率いながらも{n}敗れるとは……",
-  "en": "",
-  "status": ""
+  "en": "The name of the War God has fallen to the dust. To lose even with the elite of the Steel Knights...",
+  "status": "done"
  },
  {
   "id": "event_2181_04C89",
@@ -2153,8 +2153,8 @@
    29188
   ],
   "jp": "{voice:000A0D}しかし、あれも言っていただろう。{n}今回は騎兵のみの編制であった。",
-  "en": "",
-  "status": ""
+  "en": "But as he said himself, this time his force was cavalry alone.",
+  "status": "done"
  },
  {
   "id": "event_2181_04CCD",
@@ -2165,8 +2165,8 @@
    29195
   ],
   "jp": "{voice:000B0D}それに気付けば、{n}破る事は大して難しくない。",
-  "en": "",
-  "status": ""
+  "en": "Once you notice that, beating them isn't very hard.",
+  "status": "done"
  },
  {
   "id": "event_2181_04CFD",
@@ -2177,8 +2177,8 @@
    29222
   ],
   "jp": "{voice:000C0D}（しかしあの赤髪、何者だ？{n}　まだ力を隠している。{n}　そう思えてならないが…）",
-  "en": "",
-  "status": ""
+  "en": "(But that redhead, what is he? He's still hiding his power. I can't shake that feeling...)",
+  "status": "done"
  },
  {
   "id": "event_2181_04D4E",
@@ -2189,8 +2189,8 @@
    29250
   ],
   "jp": "{voice:000D0D}ラピス、ヴェルマンの周囲を探れ。{n}秘密裏にな。{n}必ず何かが出てくるはずだ。",
-  "en": "",
-  "status": ""
+  "en": "Lapis, look into Velleman's circle. In secret. Something is bound to turn up.",
+  "status": "done"
  },
  {
   "id": "event_2181_04D9B",
@@ -2201,8 +2201,8 @@
    29257
   ],
   "jp": "{voice:000E0D}それを以て聴聞会を開き、{n}ヴェルマンを帝都に召喚するのだ。",
-  "en": "",
-  "status": ""
+  "en": "We'll use it to hold a hearing and summon Velleman to the capital.",
+  "status": "done"
  },
  {
   "id": "event_2181_04DD9",
@@ -2213,8 +2213,8 @@
    29278
   ],
   "jp": "{voice:000F0D}…なるほど。{n}ヴェルマンとグラムブレイズを{n}引き離すのですね。",
-  "en": "",
-  "status": ""
+  "en": "...I see. So we separate Velleman from Gram Blaze.",
+  "status": "done"
  },
  {
   "id": "event_2181_04E1A",
@@ -2225,8 +2225,8 @@
    29299
   ],
   "jp": "{voice:00100D}いや、共に上洛させろ。{n}しばらく帝都で貴奴らを飼い、{n}様子を見る事にする。",
-  "en": "",
-  "status": ""
+  "en": "No, have them come to the capital together. I'll keep them on a leash there a while and watch them.",
+  "status": "done"
  },
  {
   "id": "event_2181_04E67",
@@ -2237,8 +2237,8 @@
    29320
   ],
   "jp": "{voice:00110D}……仰せのままに。",
-  "en": "",
-  "status": ""
+  "en": "...As you command.",
+  "status": "done"
  },
  {
   "id": "event_2181_04E7E",
@@ -2249,8 +2249,8 @@
    29433
   ],
   "jp": "{voice:00120D}あの赤髪の秘めたる力は、{n}俺しか感じていないようだな…",
-  "en": "",
-  "status": ""
+  "en": "It seems I'm the only one who senses that redhead's hidden power...",
+  "status": "done"
  },
  {
   "id": "event_2181_04EB8",
@@ -2261,7 +2261,7 @@
    29454
   ],
   "jp": "{voice:00130D}さて、どう動くヴェルマン。{n}そして赤髪よ…",
-  "en": "",
-  "status": ""
+  "en": "Now then, what will you do, Velleman? And you, Redhead...",
+  "status": "done"
  }
 ]

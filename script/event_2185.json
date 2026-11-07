@@ -8,8 +8,8 @@
    11205
   ],
   "jp": "{voice:00680E}そういえば、この間反乱軍が{n}攻めて来た時の事だけどさ……",
-  "en": "",
-  "status": ""
+  "en": "Now that I think of it, about the time the rebels attacked the other day...",
+  "status": "done"
  },
  {
   "id": "event_2185_00064",
@@ -20,8 +20,8 @@
    11212
   ],
   "jp": "{voice:00690E}ニーベル街区の連中が、避難民の{n}受け入れを拒むかと思ったら、{n}すんなり受け入れてくれたよね。",
-  "en": "",
-  "status": ""
+  "en": "I figured the Nibel Quarter people would refuse to take in the refugees, but they took them in without a fuss.",
+  "status": "done"
  },
  {
   "id": "event_2185_000C3",
@@ -32,8 +32,8 @@
    11230
   ],
   "jp": "{voice:006A0E}正直、そうなるとは、{n}思ってもみなかったよ。",
-  "en": "",
-  "status": ""
+  "en": "Honestly, I never thought that would happen.",
+  "status": "done"
  },
  {
   "id": "event_2185_000F3",
@@ -44,8 +44,8 @@
    11248
   ],
   "jp": "{voice:006B0E}ああ、ヴェルマンの口利きも{n}大きいと思うけど……",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I guess Velleman's word counted for a lot, but...",
+  "status": "done"
  },
  {
   "id": "event_2185_00127",
@@ -56,8 +56,8 @@
    11266
   ],
   "jp": "{voice:006C0E}そうだな、ひょっとしたら、{n}ニーベル街区の連中も{n}変わり始めているのかもな。",
-  "en": "",
-  "status": ""
+  "en": "Then again, maybe the Nibel Quarter people are starting to change.",
+  "status": "done"
  },
  {
   "id": "event_2185_00176",
@@ -68,8 +68,8 @@
    11284
   ],
   "jp": "{voice:006D0E}ニーベル街区とネザー地区の{n}垣根が低くなってるって事？",
-  "en": "",
-  "status": ""
+  "en": "You mean the wall between the Nibel Quarter and the Nether District is coming down?",
+  "status": "done"
  },
  {
   "id": "event_2185_001B0",
@@ -80,8 +80,8 @@
    11302
   ],
   "jp": "{voice:006E0E}だとすると嬉しいね。",
-  "en": "",
-  "status": ""
+  "en": "If so, that would make me happy.",
+  "status": "done"
  },
  {
   "id": "event_2185_001C9",
@@ -92,8 +92,8 @@
    11483
   ],
   "jp": "{voice:006F0E}そう言う雰囲気、感じるぜ。{n}ほら、見てくれ！",
-  "en": "",
-  "status": ""
+  "en": "I can feel that kinda vibe. Here, check this out!",
+  "status": "done"
  },
  {
   "id": "event_2185_001F9",
@@ -104,8 +104,8 @@
    11501
   ],
   "jp": "{voice:00700E}あっ、それ新品の靴じゃない③{n}はだしのミゼルともあろう者が{n}どうしたのよ一体？",
-  "en": "",
-  "status": ""
+  "en": "Oh, those are brand-new shoes!? What's gotten into you, Barefoot Mizer?",
+  "status": "done"
  },
  {
   "id": "event_2185_0024A",
@@ -116,8 +116,8 @@
    11519
   ],
   "jp": "{voice:00710E}これさ、ニーベル街区の警備中に{n}商人のおっちゃんがくれたんだ。",
-  "en": "",
-  "status": ""
+  "en": "A merchant guy gave me these while I was on guard duty in the Nibel Quarter.",
+  "status": "done"
  },
  {
   "id": "event_2185_0028C",
@@ -128,8 +128,8 @@
    11537
   ],
   "jp": "{voice:00720E}最初は断ったんだけど…{n}街を救ってくれたお礼って{n}言われたら、断れないだろ？",
-  "en": "",
-  "status": ""
+  "en": "I said no at first, but... When a guy says it's his thanks for saving the city, you can't say no, right?",
+  "status": "done"
  },
  {
   "id": "event_2185_002DB",
@@ -140,8 +140,8 @@
    11544
   ],
   "jp": "{voice:00730E}まだ動き慣れないから、{n}戦闘の時は履いてないけどさ。",
-  "en": "",
-  "status": ""
+  "en": "Can't move right in 'em yet, so I don't wear 'em when we fight.",
+  "status": "done"
  },
  {
   "id": "event_2185_00313",
@@ -152,8 +152,8 @@
    11562
   ],
   "jp": "{voice:00740E}いつか戦いの世の中が終わって{n}平和な時代が来たら、{n}オイラ、この靴を履くんだ…",
-  "en": "",
-  "status": ""
+  "en": "Someday, when the fighting's over and peace comes, I'm gonna wear these shoes...",
+  "status": "done"
  },
  {
   "id": "event_2185_00364",
@@ -164,8 +164,8 @@
    11580
   ],
   "jp": "{voice:00750E}なるほどね…{n}それで木箱に入れて{n}大事に取ってあるわけか。",
-  "en": "",
-  "status": ""
+  "en": "I see... So that's why you keep them safe in a wooden box.",
+  "status": "done"
  },
  {
   "id": "event_2185_003A1",
@@ -176,8 +176,8 @@
    11683
   ],
   "jp": "{voice:00760E}私達が戦って来た成果が、{n}もしかして、出てるのかな……",
-  "en": "",
-  "status": ""
+  "en": "Maybe all our fighting really is paying off...",
+  "status": "done"
  },
  {
   "id": "event_2185_003DB",
@@ -188,8 +188,8 @@
    11701
   ],
   "jp": "{voice:00770E}そう思えば嬉しいけど。{n}正直、あんま実感わかないのよね。",
-  "en": "",
-  "status": ""
+  "en": "It's nice to think so. Honestly, though, it doesn't really feel real.",
+  "status": "done"
  },
  {
   "id": "event_2185_00417",
@@ -200,8 +200,8 @@
    11719
   ],
   "jp": "{voice:00780E}今まで必死で走ってきたからな。{n}後ろを振り返る余裕がなかった…",
-  "en": "",
-  "status": ""
+  "en": "We've been running flat out this whole time. Haven't had room to look back...",
+  "status": "done"
  },
  {
   "id": "event_2185_00459",
@@ -212,8 +212,8 @@
    11737
   ],
   "jp": "{voice:00790E}必死で走れば、走るほど、{n}気持ちは脆くなり、{n}心は折れやすくなります……",
-  "en": "",
-  "status": ""
+  "en": "The harder one runs, the more fragile one's feelings become, and the more easily one's heart breaks...",
+  "status": "done"
  },
  {
   "id": "event_2185_004A4",
@@ -224,8 +224,8 @@
    11797
   ],
   "jp": "{voice:007A0E}それ、理解できるわね。{n}大砲も連続で撃っていたら、{n}砲身が使い物にならなくなるもの。",
-  "en": "",
-  "status": ""
+  "en": "I understand that. Fire a cannon again and again and the barrel's no good anymore.",
+  "status": "done"
  },
  {
   "id": "event_2185_004FB",
@@ -236,8 +236,8 @@
    11859
   ],
   "jp": "{voice:007B0E}でも、ここまで誰も折れず{n}走って来られました。{n}誇れる事だと、私は思います。",
-  "en": "",
-  "status": ""
+  "en": "Yet we have all come this far without breaking. I believe that is something to be proud of.",
+  "status": "done"
  },
  {
   "id": "event_2185_0054A",
@@ -248,8 +248,8 @@
    11877
   ],
   "jp": "{voice:007C0E}そっか、私達の戦いが{n}少しはみんなの為になってるのか…",
-  "en": "",
-  "status": ""
+  "en": "Right, so our fighting has been doing everyone a little good...",
+  "status": "done"
  },
  {
   "id": "event_2185_00584",
@@ -260,8 +260,8 @@
    11895
   ],
   "jp": "{voice:007D0E}でもさ、きっと一人じゃここまで{n}頑張れなかったよね。",
-  "en": "",
-  "status": ""
+  "en": "But, y'know, I bet I couldn't have made it this far on my own.",
+  "status": "done"
  },
  {
   "id": "event_2185_005BC",
@@ -272,8 +272,8 @@
    11913
   ],
   "jp": "{voice:007E0E}そうだね、ここにいるみんなで{n}支えあったからだよね。",
-  "en": "",
-  "status": ""
+  "en": "That's true. It's because all of us here have held each other up.",
+  "status": "done"
  },
  {
   "id": "event_2185_005F4",
@@ -284,8 +284,8 @@
    11931
   ],
   "jp": "{voice:007F0E}でも、まだ道の途中だ。{n}これから、もっと忙しくなるぜ。",
-  "en": "",
-  "status": ""
+  "en": "But we're still only partway there. Things are going to get even busier.",
+  "status": "done"
  },
  {
   "id": "event_2185_0062E",
@@ -296,8 +296,8 @@
    11949
   ],
   "jp": "{voice:00800E}要するにアレだね。{n}これからもヨロシクってことで！",
-  "en": "",
-  "status": ""
+  "en": "So basically, it's like, here's to more of the same, everybody!",
+  "status": "done"
  },
  {
   "id": "event_2185_00664",
@@ -308,8 +308,8 @@
    12058
   ],
   "jp": "{voice:00810E}おーっ！　ヒック……{n}これからもよろしくねー…",
-  "en": "",
-  "status": ""
+  "en": "Yeahhh! *hic*... Here's to more of the same...",
+  "status": "done"
  },
  {
   "id": "event_2185_00696",
@@ -320,8 +320,8 @@
    12076
   ],
   "jp": "{voice:00820E}ウグッ……、ウェッ！",
-  "en": "",
-  "status": ""
+  "en": "Urk... Bleh!",
+  "status": "done"
  },
  {
   "id": "event_2185_006AF",
@@ -332,8 +332,8 @@
    12094
   ],
   "jp": "{voice:00830E}お、おい、私のローブが……{n}なんという女だ。",
-  "en": "",
-  "status": ""
+  "en": "H-hey, my robe... What a woman.",
+  "status": "done"
  },
  {
   "id": "event_2185_006DF",
@@ -344,8 +344,8 @@
    12112
   ],
   "jp": "{voice:00840E}うぃーっ、っと。{n}気分良くなったぞー！{n}酒は呑んでも、呑まれるなっと♪",
-  "en": "",
-  "status": ""
+  "en": "Whew, there we go. Feelin' better now! Drink the booze, don't let it drink you♪",
+  "status": "done"
  },
  {
   "id": "event_2185_00728",
@@ -368,8 +368,8 @@
    12213
   ],
   "jp": "{voice:00850E}おい、ガーロット。{n}貴様らが、雑談している途中から{n}肌を刺す嫌な感覚がしてるぜ……",
-  "en": "",
-  "status": ""
+  "en": "Hey, Garlot. Ever since you started your little chat, I've had a nasty prickling on my skin...",
+  "status": "done"
  },
  {
   "id": "event_2185_00788",
@@ -380,8 +380,8 @@
    12259
   ],
   "jp": "{voice:00860E}確かに…、押し隠した殺気。{n}暗殺者の気配だな……",
-  "en": "",
-  "status": ""
+  "en": "Indeed... Suppressed killing intent. The presence of assassins...",
+  "status": "done"
  },
  {
   "id": "event_2185_007BC",
@@ -392,8 +392,8 @@
    12293
   ],
   "jp": "{voice:00870E}数と方向はわかるか？",
-  "en": "",
-  "status": ""
+  "en": "Can you tell how many and from where?",
+  "status": "done"
  },
  {
   "id": "event_2185_007D5",
@@ -404,8 +404,8 @@
    12311
   ],
   "jp": "{voice:00880E}そこまでわかるわけねーだろ！",
-  "en": "",
-  "status": ""
+  "en": "How the hell would I know that!",
+  "status": "done"
  },
  {
   "id": "event_2185_007F6",
@@ -416,8 +416,8 @@
    12357
   ],
   "jp": "{voice:00890E}かなりの数だと思う。{n}しかも、分散しているようだ。",
-  "en": "",
-  "status": ""
+  "en": "A considerable number, I think. And it seems they are spread out.",
+  "status": "done"
  },
  {
   "id": "event_2185_0082C",
@@ -428,8 +428,8 @@
    12405
   ],
   "jp": "{voice:008A0E}ガーロット。{n}賊を探す部隊とこのまま護衛する{n}部隊に分けるのはどうかな？",
-  "en": "",
-  "status": ""
+  "en": "Garlot. How about we split into one unit to hunt the assassins and one to keep guarding?",
+  "status": "done"
  },
  {
   "id": "event_2185_00877",
@@ -440,8 +440,8 @@
    12423
   ],
   "jp": "{voice:008B0E}守りすぎれば、固めを崩される。{n}探りすぎれば、隙に付け込まれる。{n}ジェノン、良い案ですね。",
-  "en": "",
-  "status": ""
+  "en": "Guard too much and your defense is broken. Hunt too much and they exploit the gap. A good idea, Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2185_008D4",
@@ -452,8 +452,8 @@
    12441
   ],
   "jp": "{voice:008C0E}よし、何人かで周囲を捜索しよう。{n}残りで邸宅を固める。{n}いいな？",
-  "en": "",
-  "status": ""
+  "en": "All right, a few of us will search the area. The rest of you hold the residence. Got it?",
+  "status": "done"
  },
  {
   "id": "event_2185_00917",
@@ -464,8 +464,8 @@
    12602
   ],
   "jp": "{voice:008D0E}賊がどこかに潜んでいるはずだ。{n}警戒を緩めるな！",
-  "en": "",
-  "status": ""
+  "en": "The assassins have got to be hiding somewhere. Stay alert!",
+  "status": "done"
  },
  {
   "id": "event_2185_0094B",
@@ -488,8 +488,8 @@
    22042
   ],
   "jp": "{voice:008E0E}来たか！{n}あいつらが賊だな③",
-  "en": "",
-  "status": ""
+  "en": "Here they come! Are those the assassins!?",
+  "status": "done"
  },
  {
   "id": "event_2185_00976",
@@ -500,8 +500,8 @@
    22182
   ],
   "jp": "{voice:008F0E}いや待てよ、陽動の可能性もある。",
-  "en": "",
-  "status": ""
+  "en": "No, wait, it could be a diversion.",
+  "status": "done"
  },
  {
   "id": "event_2185_0099B",
@@ -512,8 +512,8 @@
    22203
   ],
   "jp": "{voice:00900E}邸宅の護衛に兵を貼り付けつつ、{n}姿を見せた賊は各個撃破するんだ！",
-  "en": "",
-  "status": ""
+  "en": "Keep soldiers posted to guard the residence, and pick off any assassins who show themselves!",
+  "status": "done"
  },
  {
   "id": "event_2185_009DF",
@@ -527,8 +527,8 @@
    15564
   ],
   "jp": "…戻ってどうしよう、って{n}いうんだ、僕は…",
-  "en": "",
-  "status": ""
+  "en": "...What am I even going back for...",
+  "status": "done"
  },
  {
   "id": "event_2185_00A09",
@@ -542,8 +542,8 @@
    15582
   ],
   "jp": "どうせ遠くから見てるだけだ。{n}あの家に足を踏み入れる度胸も、{n}資格も、僕にはないんだから…",
-  "en": "",
-  "status": ""
+  "en": "All I'll do is watch from far away. I've got neither the nerve nor the right to set foot in that house...",
+  "status": "done"
  },
  {
   "id": "event_2185_00A62",
@@ -557,8 +557,8 @@
    15600
   ],
   "jp": "……ん？",
-  "en": "",
-  "status": ""
+  "en": "...Hm?",
+  "status": "done"
  },
  {
   "id": "event_2185_00A6B",
@@ -572,8 +572,8 @@
    15618
   ],
   "jp": "なんだ？{n}家の周りが、騒々しいな…",
-  "en": "",
-  "status": ""
+  "en": "What's this? There's a commotion around the house...",
+  "status": "done"
  },
  {
   "id": "event_2185_00A8D",
@@ -587,8 +587,8 @@
    15636
   ],
   "jp": "……あ！{n}これはグラムブレイズの方々！{n}お勤めご苦労様です！",
-  "en": "",
-  "status": ""
+  "en": "...Ah! You're from Gram Blaze! Thanks for all your hard work!",
+  "status": "done"
  },
  {
   "id": "event_2185_00AC8",
@@ -602,8 +602,8 @@
    15643
   ],
   "jp": "……あ、この家の事ですか？",
-  "en": "",
-  "status": ""
+  "en": "...Oh, about this house?",
+  "status": "done"
  },
  {
   "id": "event_2185_00AE3",
@@ -617,8 +617,8 @@
    15650
   ],
   "jp": "以前あなた達が、塩で私腹を{n}肥やす役人を取り締まった際、{n}帳簿を押収しましたよね？",
-  "en": "",
-  "status": ""
+  "en": "Before, when you cracked down on that official growing fat on salt, you seized a ledger, right?",
+  "status": "done"
  },
  {
   "id": "event_2185_00B34",
@@ -632,8 +632,8 @@
    15657
   ],
   "jp": "帳簿上に、この屋敷に住む官僚が{n}塩の流通に加担している、との{n}記載が見つかったのですよ。",
-  "en": "",
-  "status": ""
+  "en": "In the ledger, we found an entry showing the official who lives in this mansion was part of the salt trade.",
+  "status": "done"
  },
  {
   "id": "event_2185_00B8B",
@@ -647,8 +647,8 @@
    15664
   ],
   "jp": "それで、我らが調査に来たものの、{n}ご覧の通りもぬけの殻…{n}というわけなのです。",
-  "en": "",
-  "status": ""
+  "en": "So we came to investigate, but as you can see, the place is deserted...",
+  "status": "done"
  },
  {
   "id": "event_2185_00BD8",
@@ -662,8 +662,8 @@
    15671
   ],
   "jp": "恐らく、我らの気配を察して{n}逃げ出したのでしょう。{n}どこまでも姑息な奴だ…",
-  "en": "",
-  "status": ""
+  "en": "Probably sensed us coming and ran off. What a sneaky bastard...",
+  "status": "done"
  },
  {
   "id": "event_2185_00C21",
@@ -677,8 +677,8 @@
    15678
   ],
   "jp": "今、他に証拠となるものがないか、{n}家捜しの真っ最中なのです。{n}では、失礼します！",
-  "en": "",
-  "status": ""
+  "en": "We're in the middle of searching the house for any other evidence. Well, excuse me!",
+  "status": "done"
  },
  {
   "id": "event_2185_00C70",
@@ -707,8 +707,8 @@
    15714
   ],
   "jp": "父さんと母さんが街から消えた…{n}僕らのせい、か…",
-  "en": "",
-  "status": ""
+  "en": "Father and Mother have vanished from the city... Because of us...",
+  "status": "done"
  },
  {
   "id": "event_2185_00CAB",
@@ -722,8 +722,8 @@
    15732
   ],
   "jp": "…いや、違うッ。{n}奴らは不正を犯したんだ！{n}自業自得じゃないか！",
-  "en": "",
-  "status": ""
+  "en": "...No, that's wrong. They committed a crime! They brought it on themselves!",
+  "status": "done"
  },
  {
   "id": "event_2185_00CEA",
@@ -737,8 +737,8 @@
    15739
   ],
   "jp": "そうさ！{n}正しいのは僕らの方だ！",
-  "en": "",
-  "status": ""
+  "en": "That's right! We're the ones in the right!",
+  "status": "done"
  },
  {
   "id": "event_2185_00D0A",
@@ -752,8 +752,8 @@
    15757
   ],
   "jp": "…もう、やめよう。",
-  "en": "",
-  "status": ""
+  "en": "...Enough of this.",
+  "status": "done"
  },
  {
   "id": "event_2185_00D1D",
@@ -767,8 +767,8 @@
    15775
   ],
   "jp": "悔いても、誇っても、叫んでも、{n}この街に父さんと母さんは{n}いないんだ…",
-  "en": "",
-  "status": ""
+  "en": "Regret it, take pride in it, scream about it, Father and Mother aren't in this city anymore...",
+  "status": "done"
  },
  {
   "id": "event_2185_00D62",
@@ -782,8 +782,8 @@
    15884
   ],
   "jp": "…戻ってどうしよう、って{n}いうんだ、僕は…",
-  "en": "",
-  "status": ""
+  "en": "...What am I even going back for...",
+  "status": "done"
  },
  {
   "id": "event_2185_00D8C",
@@ -797,8 +797,8 @@
    15902
   ],
   "jp": "どうせ遠くから見てるだけだ。{n}あの家に足を踏み入れる度胸も、{n}資格も、僕にはないんだから…",
-  "en": "",
-  "status": ""
+  "en": "All I'll do is watch from far away. I've got neither the nerve nor the right to set foot in that house...",
+  "status": "done"
  },
  {
   "id": "event_2185_00DE5",
@@ -812,8 +812,8 @@
    15920
   ],
   "jp": "…ん？{n}あそこにいるのは、母さん？",
-  "en": "",
-  "status": ""
+  "en": "...Hm? Is that... Mother, over there?",
+  "status": "done"
  },
  {
   "id": "event_2185_00E07",
@@ -827,8 +827,8 @@
    15938
   ],
   "jp": "……母さん…",
-  "en": "",
-  "status": ""
+  "en": "...Mother...",
+  "status": "done"
  },
  {
   "id": "event_2185_00E14",
@@ -842,8 +842,8 @@
    15956
   ],
   "jp": "…ダメだ、ジェノン。{n}僕は自分の意思であの家を出た。{n}あの家には戻らない、そう決めた。",
-  "en": "",
-  "status": ""
+  "en": "...No, Jenon. I left that house of my own free will. I decided I'd never go back.",
+  "status": "done"
  },
  {
   "id": "event_2185_00E69",
@@ -857,8 +857,8 @@
    15974
   ],
   "jp": "だから、ダメなんだよ…",
-  "en": "",
-  "status": ""
+  "en": "So I can't...",
+  "status": "done"
  },
  {
   "id": "event_2185_00E80",
@@ -872,8 +872,8 @@
    15992
   ],
   "jp": "……もう行こう。{n}ここにいたって、時間のムダさ。",
-  "en": "",
-  "status": ""
+  "en": "...Let's go. Staying here is a waste of time.",
+  "status": "done"
  },
  {
   "id": "event_2185_00EB0",
@@ -887,8 +887,8 @@
    16066
   ],
   "jp": "もう、ここに来る事もない、か。",
-  "en": "",
-  "status": ""
+  "en": "I won't be coming here again, I guess.",
+  "status": "done"
  },
  {
   "id": "event_2185_00ECF",
@@ -902,8 +902,8 @@
    16122
   ],
   "jp": "……もう行こう。{n}ここにいたって、時間のムダさ。",
-  "en": "",
-  "status": ""
+  "en": "...Let's go. Staying here is a waste of time.",
+  "status": "done"
  },
  {
   "id": "event_2185_00EFF",
@@ -917,8 +917,8 @@
    16194
   ],
   "jp": "……あ！{n}これはグラムブレイズの方々！{n}お勤めご苦労様です！",
-  "en": "",
-  "status": ""
+  "en": "...Ah! You're from Gram Blaze! Thanks for all your hard work!",
+  "status": "done"
  },
  {
   "id": "event_2185_00F3A",
@@ -932,8 +932,8 @@
    16201
   ],
   "jp": "……あ、この家の事ですか？",
-  "en": "",
-  "status": ""
+  "en": "...Oh, about this house?",
+  "status": "done"
  },
  {
   "id": "event_2185_00F55",
@@ -947,8 +947,8 @@
    16208
   ],
   "jp": "以前あなた達が、塩で私腹を{n}肥やす役人を取り締まった際、{n}帳簿を押収しましたよね？",
-  "en": "",
-  "status": ""
+  "en": "Before, when you cracked down on that official growing fat on salt, you seized a ledger, right?",
+  "status": "done"
  },
  {
   "id": "event_2185_00FA6",
@@ -962,8 +962,8 @@
    16215
   ],
   "jp": "帳簿上に、この屋敷に住む官僚が{n}塩の流通に加担している、との{n}記載が見つかったのですよ。",
-  "en": "",
-  "status": ""
+  "en": "In the ledger, we found an entry showing the official who lives in this mansion was part of the salt trade.",
+  "status": "done"
  },
  {
   "id": "event_2185_00FFD",
@@ -977,8 +977,8 @@
    16222
   ],
   "jp": "それで、我らが調査に来たものの、{n}ご覧の通りもぬけの殻…{n}というわけなのです。",
-  "en": "",
-  "status": ""
+  "en": "So we came to investigate, but as you can see, the place is deserted...",
+  "status": "done"
  },
  {
   "id": "event_2185_0104A",
@@ -992,8 +992,8 @@
    16229
   ],
   "jp": "恐らく、我らの気配を察して{n}逃げ出したのでしょう。{n}どこまでも姑息な奴だ…",
-  "en": "",
-  "status": ""
+  "en": "Probably sensed us coming and ran off. What a sneaky bastard...",
+  "status": "done"
  },
  {
   "id": "event_2185_01093",
@@ -1007,8 +1007,8 @@
    16236
   ],
   "jp": "今、他に証拠となるものがないか、{n}家捜しの真っ最中なのです。{n}では、失礼します！",
-  "en": "",
-  "status": ""
+  "en": "We're in the middle of searching the house for any other evidence. Well, excuse me!",
+  "status": "done"
  },
  {
   "id": "event_2185_010E2",
@@ -1022,8 +1022,8 @@
    16308
   ],
   "jp": "あの、兵隊さん…？{n}少しだけ、お時間を{n}よろしいでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Um, soldier...? Could you spare me just a moment of your time?",
+  "status": "done"
  },
  {
   "id": "event_2185_0111D",
@@ -1037,8 +1037,8 @@
    16315
   ],
   "jp": "すみません、呼び止めてしまって。{n}実は、折り入って{n}お願いがあるのです。",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry to stop you. The truth is, I have a special favor to ask.",
+  "status": "done"
  },
  {
   "id": "event_2185_01164",
@@ -1052,8 +1052,8 @@
    16322
   ],
   "jp": "私には息子がいたんですが、{n}何年も前に家を飛び出して以来、{n}一度も帰ってきていないんです。",
-  "en": "",
-  "status": ""
+  "en": "I had a son, but he ran away from home years ago and has never once come back.",
+  "status": "done"
  },
  {
   "id": "event_2185_011BD",
@@ -1067,8 +1067,8 @@
    16329
   ],
   "jp": "もし生きていたとしても{n}この家に寄り付く事はないと、{n}夫は言うんですが…",
-  "en": "",
-  "status": ""
+  "en": "My husband says that even if he's alive, he'd never come near this house...",
+  "status": "done"
  },
  {
   "id": "event_2185_01204",
@@ -1082,8 +1082,8 @@
    16336
   ],
   "jp": "私、そうは思えないんです。{n}あの子はいつも、{n}傍にいる気がしていて…",
-  "en": "",
-  "status": ""
+  "en": "But I can't believe that. I always feel as though that boy is close by...",
+  "status": "done"
  },
  {
   "id": "event_2185_01247",
@@ -1097,8 +1097,8 @@
    16343
   ],
   "jp": "お願いは、その息子の事……",
-  "en": "",
-  "status": ""
+  "en": "The favor is about my son...",
+  "status": "done"
  },
  {
   "id": "event_2185_01262",
@@ -1112,8 +1112,8 @@
    16354
   ],
   "jp": "もし、兵隊さん達が{n}どこかで息子と会う事があれば、{n}これを渡して欲しいのです。",
-  "en": "",
-  "status": ""
+  "en": "If any of you soldiers should ever meet him somewhere, I'd like you to give him this.",
+  "status": "done"
  },
  {
   "id": "event_2185_012AF",
@@ -1127,8 +1127,8 @@
    16429
   ],
   "jp": "それから、自分の生き方に{n}決して後悔を残さないようにと、{n}伝えていただきたいのです。",
-  "en": "",
-  "status": ""
+  "en": "And please tell him to live his life so that he has no regrets at all.",
+  "status": "done"
  },
  {
   "id": "event_2185_01302",
@@ -1142,8 +1142,8 @@
    16436
   ],
   "jp": "どうか、お願いします…",
-  "en": "",
-  "status": ""
+  "en": "Please, I beg you...",
+  "status": "done"
  },
  {
   "id": "event_2185_01319",
@@ -1157,8 +1157,8 @@
    16492
   ],
   "jp": "やっぱり、塩の流通に関する{n}記録ばかり出てくる…",
-  "en": "",
-  "status": ""
+  "en": "Just more records about the salt trade, like we thought...",
+  "status": "done"
  },
  {
   "id": "event_2185_01349",
@@ -1172,8 +1172,8 @@
    16499
   ],
   "jp": "もっと徹底的に探せ！{n}パンドラが西部地域で再び力を{n}蓄えるのを喰い止めるのだ！",
-  "en": "",
-  "status": ""
+  "en": "Search harder! We have to keep Pandra from building up power in the western region again!",
+  "status": "done"
  },
  {
   "id": "event_2185_01396",
@@ -1187,8 +1187,8 @@
    16555
   ],
   "jp": "私は、後悔しています。{n}息子の成長を、この目で見届ける{n}事ができなかったのですから。",
-  "en": "",
-  "status": ""
+  "en": "I have regrets. I never got to see my son grow up with my own eyes.",
+  "status": "done"
  },
  {
   "id": "event_2185_013E9",
@@ -1202,8 +1202,8 @@
    16562
   ],
   "jp": "でも、息子には…{n}ジェノンには、後悔なんて{n}してほしくないのです。",
-  "en": "",
-  "status": ""
+  "en": "But for my son... For Jenon, I don't want any regrets.",
+  "status": "done"
  },
  {
   "id": "event_2185_0142A",
