@@ -1070,7 +1070,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:00B809}おかしい、何かがおかしい……",
-  "en": "This is weird, it's all off",
+  "en": "Weird, it's all off...",
   "status": "done"
  },
  {
@@ -1706,7 +1706,7 @@
    23730
   ],
   "jp": "{voice:00E409}武勇伝？　それは昼の武勇伝かい？{n}それとも夜の武勇伝？{n}まぁ来な、どちらも聞かせてやるぜ。",
-  "en": "Heroic tales? Ones from my days, or ones from the tavern? Well, come on, I'll tell you both.",
+  "en": "Heroic tales? The daytime kind, or the nighttime kind? Well, come on, I'll tell you both.",
   "status": "done"
  },
  {
@@ -2114,7 +2114,7 @@
    35836
   ],
   "jp": "{voice:00060A}素敵な殿方を毎夜……、あら失礼。{n}そうではなく、グラムブレイズを{n}是非に歌にしたいと存じます。",
-  "en": "Splendid gentlemen are my very favorite... Oh, excuse me. Rather, I do wish to put Gram Blaze in song.",
+  "en": "Splendid gentlemen, every night... Oh, excuse me. Rather, I do wish to put Gram Blaze in song.",
   "status": "done"
  },
  {
