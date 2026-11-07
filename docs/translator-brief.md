@@ -22,7 +22,7 @@ Tactical RPG, prequel to Yggdra Union. Young rebels against a rotten empire: war
 - A sexual remark aimed at a young or young-looking character (Siskier, Aegina, Luciana, Eimi, Cerica, Pamela and the like): keep the taunt, drop the sexual content.
 - Byff's puns ("なーんつって" = "Ha, just kidding") need a new English pun, not a literal line; a later line that explains the pun must match it. Other people's reactions follow your pun.
 - Lint: a katakana name + 様/さん/ちゃん/殿 needs the honorific in English (Garlot-sama, Elena-dono, Viper-chan). A glossary term stays literal even in plurals ("Sweet Berry" bush, not "Sweet Berries"). Inline `<speaker>` names have a byte limit: try the short form first.
-- Mistakes so far: an adult's innuendo about herself or another adult (Baretreenu, b144) was sanitised; the content rule covers only young or young-looking targets, so keep the double meaning.
+- Mistakes so far: an adult's innuendo about herself or another adult (Baretreenu, b144; Eater, b128 and b134) was sanitised; the content rule covers only young or young-looking targets, so keep the double meaning.
 
 ## Consistency
 Only the controller edits `glossary.md`. Report: `NEW TERM: jp -> en`, `UNSURE: n - note`, `LONG: n - note`.

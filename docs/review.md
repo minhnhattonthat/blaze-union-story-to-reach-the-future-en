@@ -10,5 +10,6 @@
 - **Fixed from this pass:** Soltier's royal "We" in b041 68, 77, 78; "Nether Quarter" to "Nether District" in b033 137; a period outside a quote in b038 103; the two Warriors' Rest chronicle titles were swapped (read off font 2's custom glyphs).
 - **Per-chunk reviewer pass (`work/qa/review/rNN.report.md`, gitignored; verdicts copied here):**
   - r09 (b138-b146, b001-b004), 2026-11-07, fresh read-only Claude worker: Approved after fixes. 6 Important fixed: Baretreenu's own innuendo (b144:33, 45, 56, 72, 73, 78) had been sanitised with no young target; the content rule doesn't cover it. Minors b001:121, b002:84 fixed; b141:22 to `docs/polish.md`.
-  - r01-r08, r10-r12: pending.
+  - r08 (b124-b137), 2026-11-07, fresh read-only Claude worker: Approved after fixes. 5 Important fixed: Eater's adult innuendo sanitised again (b128:21, b134:80), Garlot's voice (b131:87 "Dear me"), two garbled lines (b129:75, b129:11). 9 Minors fixed; b134:73, b127:94, b137:58, b124:70 to `docs/polish.md`.
+  - r01-r07, r10-r12: pending.
 - **Still to do:** when codex is available again, `python -X utf8 tools/pairs.py --size 1500 --out work/qa/review` then `bash tools/review.sh`; reports land in `work/qa/review/`. The story pass in phase 9 reads every chapter regardless.

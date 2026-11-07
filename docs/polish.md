@@ -18,6 +18,10 @@ Minor fixes to make before release (phase 9 gate: no unticked line). Ids are `bN
 ## From the per-chunk reviewer pass (docs/review.md)
 
 - [ ] r09 b141:22 赤髪 "Red": glossary has "Red" for Pandra and Leon, "the redhead" for Soltier; confirm this item-use block's speaker and match.
+- [ ] r08 b134:73 後で置物にしてやるよ: "Nice ornament, you" is stiff (21-byte bare slot); find a better fit.
+- [ ] r08 b127:94 unref (50 bytes): "...and charge the Sword" lost "Holy" and the trailing "..."; restore if `textcover.py` shows it drawn.
+- [ ] r08 b137:58 腕一本で勝負: "fights with his bare arm alone" -> "fights with nothing but his fists".
+- [ ] r08 b124:70 ギリギリの裏切り puns on 義理 (loyalty); "cutting-edge double-cross" has no pun: find an English one.
 
 ## Cut for space (D4: flagged last resort)
 

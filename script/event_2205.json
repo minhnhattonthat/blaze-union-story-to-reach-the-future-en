@@ -1951,7 +1951,7 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:008D19}聖剣グラン・センチュリオが{n}お、折れた……、バカな。",
-  "en": "Holy Sword Gran Centurio... broke... Impossible.",
+  "en": "Holy Sword Gran Centurio... b-broke... Impossible.",
   "status": "done"
  },
  {
@@ -2215,7 +2215,7 @@
    40272
   ],
   "jp": "{voice:00A019}…やれやれ、重症だな。",
-  "en": "...Dear me, it's serious.",
+  "en": "...Jeez, he's got it bad.",
   "status": "done"
  },
  {
@@ -2407,7 +2407,7 @@
    40538
   ],
   "jp": "{voice:00B019}俺もいる、ますから、心配無用。{n}大船に乗ったつもりでいろよ、{n}いて、いてください、か？",
-  "en": "I'm here too, am, so no worries. You can rest easy, uh, please do be resting easy, or something?",
+  "en": "I'm here too, er, I am here, so no worries. Rest easy, uh, please do be resting easy, or something?",
   "status": "done"
  },
  {
