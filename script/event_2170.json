@@ -860,8 +860,8 @@
    20134
   ],
   "jp": "{voice:000608}ああ、そうだな。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, you're right.",
+  "status": "done"
  },
  {
   "id": "event_2170_00C68",
@@ -1748,8 +1748,8 @@
    5670
   ],
   "jp": "グラムブレイズ",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze",
+  "status": "done"
  },
  {
   "id": "event_2170_01666",

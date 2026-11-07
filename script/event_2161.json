@@ -8,8 +8,8 @@
    11756
   ],
   "jp": "{voice:002604}……ぅぅぅぅぅ。",
-  "en": "",
-  "status": ""
+  "en": "...Mmmmmmm.",
+  "status": "done"
  },
  {
   "id": "event_2161_0003D",
@@ -20,8 +20,8 @@
    11774
   ],
   "jp": "{voice:002704}……大丈夫かい、シスキア？{n}上着貸そうか？",
-  "en": "",
-  "status": ""
+  "en": "...You okay, Siskier? Want to borrow my coat?",
+  "status": "done"
  },
  {
   "id": "event_2161_0006B",
@@ -32,8 +32,8 @@
    11795
   ],
   "jp": "{voice:002804}全然平気だから……{n}この服、意外に防寒なんだから……",
-  "en": "",
-  "status": ""
+  "en": "I'm totally fine... These clothes are warmer than they look...",
+  "status": "done"
  },
  {
   "id": "event_2161_000A3",
@@ -44,8 +44,8 @@
    11813
   ],
   "jp": "{voice:002904}……ウソつけよ。",
-  "en": "",
-  "status": ""
+  "en": "...Liar.",
+  "status": "done"
  },
  {
   "id": "event_2161_000B8",
@@ -56,8 +56,8 @@
    11925
   ],
   "jp": "{voice:002A04}バイフー！{n}そばから離れないでよね！",
-  "en": "",
-  "status": ""
+  "en": "Byff! Don't you go far from me!",
+  "status": "done"
  },
  {
   "id": "event_2161_000E0",
@@ -68,8 +68,8 @@
    11943
   ],
   "jp": "{voice:002B04}バイフー、久々に雪を見た。{n}雪、懐かしい。",
-  "en": "",
-  "status": ""
+  "en": "Byff has not seen snow in a long time. Snow takes Byff back.",
+  "status": "done"
  },
  {
   "id": "event_2161_0010E",
@@ -80,8 +80,8 @@
    11961
   ],
   "jp": "{voice:002C04}そういえばバイフーは、{n}北の雪国から来たんだったな。",
-  "en": "",
-  "status": ""
+  "en": "Come to think of it, Byff, you're from the snow country up north.",
+  "status": "done"
  },
  {
   "id": "event_2161_00146",
@@ -92,8 +92,8 @@
    11982
   ],
   "jp": "{voice:002D04}雪の上で戦うのは得意。{n}雪上戦と口上戦なら、{n}バイフーに任せろ。",
-  "en": "",
-  "status": ""
+  "en": "Byff is good at fighting on snow. Snow fights and word fights, leave them to Byff.",
+  "status": "done"
  },
  {
   "id": "event_2161_00189",
@@ -104,8 +104,8 @@
    12000
   ],
   "jp": "{voice:002E04}口上戦が得意って、{n}……ウソつけよ。",
-  "en": "",
-  "status": ""
+  "en": "Good at word fights... Liar.",
+  "status": "done"
  },
  {
   "id": "event_2161_001B1",
@@ -116,8 +116,8 @@
    12021
   ],
   "jp": "{voice:002F04}しかし、寒いところに来ると、{n}そのフカフカが羨ましいな。",
-  "en": "",
-  "status": ""
+  "en": "Still, in a cold place like this, I do envy that fluff.",
+  "status": "done"
  },
  {
   "id": "event_2161_001ED",
@@ -128,8 +128,8 @@
    12118
   ],
   "jp": "{voice:003004}それにしても、{n}友達を助けるために、自分を含め{n}兵を出すとはな。",
-  "en": "",
-  "status": ""
+  "en": "Even so, sending out troops, yourself included, to save a friend.",
+  "status": "done"
  },
  {
   "id": "event_2161_00230",
@@ -140,8 +140,8 @@
    12136
   ],
   "jp": "{voice:003104}意外と情に厚い所があるんだな、{n}ヴェルマン。",
-  "en": "",
-  "status": ""
+  "en": "You've got a softer heart than I figured, Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2161_00260",
@@ -152,8 +152,8 @@
    12154
   ],
   "jp": "{voice:003204}友達ではない。{n}知人だ。",
-  "en": "",
-  "status": ""
+  "en": "He is no friend. He is an acquaintance.",
+  "status": "done"
  },
  {
   "id": "event_2161_0027C",
@@ -164,8 +164,8 @@
    12172
   ],
   "jp": "{voice:003304}方伯、この雪山で遭難したなら、{n}捜し出すのは至難の業ですね……",
-  "en": "",
-  "status": ""
+  "en": "Margrave, if he's lost on this snowy mountain, finding him will be no easy feat...",
+  "status": "done"
  },
  {
   "id": "event_2161_002BE",
@@ -176,8 +176,8 @@
    12234
   ],
   "jp": "{voice:003404}雪山には遭難者用に設けられた{n}山小屋が点在している。",
-  "en": "",
-  "status": ""
+  "en": "Mountain huts for those in distress are scattered around these slopes.",
+  "status": "done"
  },
  {
   "id": "event_2161_002F6",
@@ -188,8 +188,8 @@
    12241
   ],
   "jp": "{voice:003504}まずは山小屋を重点的に探すのだ。{n}避難していると信じよう。",
-  "en": "",
-  "status": ""
+  "en": "Search the huts first. Let us trust that he has taken shelter.",
+  "status": "done"
  },
  {
   "id": "event_2161_00334",
@@ -200,8 +200,8 @@
    12259
   ],
   "jp": "{voice:003604}そうだな。{n}せっかく俺達が来たんだ、{n}必ず見つけてみせるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Right. We came all this way, so I'll find him, count on it.",
+  "status": "done"
  },
  {
   "id": "event_2161_00373",
@@ -212,8 +212,8 @@
    12277
   ],
   "jp": "{voice:003704}山小屋によっては、{n}山賊がすみかにしている場所も{n}あるはずだ。",
-  "en": "",
-  "status": ""
+  "en": "Some of those huts must have bandits living in them.",
+  "status": "done"
  },
  {
   "id": "event_2161_003B4",
@@ -224,8 +224,8 @@
    12298
   ],
   "jp": "{voice:003804}その話は私も聞く。{n}山小屋を捜索する場合は、{n}遭遇戦に警戒しろ、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "I have heard that too. When you search the huts, be ready for a fight, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2161_00403",
@@ -236,8 +236,8 @@
    12316
   ],
   "jp": "{voice:003904}心配するな、ヴェルマン。{n}賊風情にやられる俺達じゃないぜ。",
-  "en": "",
-  "status": ""
+  "en": "Don't worry, Velleman. We're not about to lose to a bunch of bandits.",
+  "status": "done"
  },
  {
   "id": "event_2161_00441",
@@ -248,8 +248,8 @@
    12337
   ],
   "jp": "{voice:003A04}よし、じゃあここを拠点にして{n}捜索を開始しよう！",
-  "en": "",
-  "status": ""
+  "en": "All right, we'll use this as our base and start searching!",
+  "status": "done"
  },
  {
   "id": "event_2161_00475",
@@ -260,8 +260,8 @@
    12496
   ],
   "jp": "{voice:003B04}私は中央の山小屋で待つ。{n}何かあったら伝令で報告をくれ。",
-  "en": "",
-  "status": ""
+  "en": "I will wait at the central hut. If anything happens, send a runner to report it.",
+  "status": "done"
  },
  {
   "id": "event_2161_004B1",
@@ -272,8 +272,8 @@
    12517
   ],
   "jp": "{voice:003C04}みんな、足場の悪さと吹雪には{n}十分気をつけろ！",
-  "en": "",
-  "status": ""
+  "en": "Everyone, watch out for the bad footing and the blizzard!",
+  "status": "done"
  },
  {
   "id": "event_2161_004E3",
@@ -284,8 +284,8 @@
    42430
   ],
   "jp": "{voice:003D04}この寒さだ、一刻を争うわね。{n}急ぎましょう、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "In this cold, every moment counts. Let's hurry, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2161_0051F",
@@ -296,8 +296,8 @@
    42448
   ],
   "jp": "{voice:003E04}ああ、そうだな。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, you're right.",
+  "status": "done"
  },
  {
   "id": "event_2161_00534",
@@ -308,8 +308,8 @@
    42466
   ],
   "jp": "{voice:003F04}それにしても、メデューテも{n}シスキアも凄いな。{n}この寒さに全く動じていないよな。",
-  "en": "",
-  "status": ""
+  "en": "Still, Medoute and Siskier are something. This cold doesn't faze them at all.",
+  "status": "done"
  },
  {
   "id": "event_2161_00587",
@@ -320,8 +320,8 @@
    42484
   ],
   "jp": "{voice:004004}あの服じゃ雪山に耐えられるとは{n}全く思えないのに……",
-  "en": "",
-  "status": ""
+  "en": "I can't imagine those clothes hold up on a snowy mountain...",
+  "status": "done"
  },
  {
   "id": "event_2161_005BF",
@@ -332,8 +332,8 @@
    42556
   ],
   "jp": "{voice:004104}（寒くないワケないでしょ②{n}　我慢してるだけよ！）",
-  "en": "",
-  "status": ""
+  "en": "(Of course I'm cold! I'm just putting up with it!)",
+  "status": "done"
  },
  {
   "id": "event_2161_005F5",
@@ -344,8 +344,8 @@
    42627
   ],
   "jp": "{voice:004204}（あぁぁぁー！{n}　なんでこんな服なのよ、私！）",
-  "en": "",
-  "status": ""
+  "en": "(Aaaaagh! Why am I dressed like this!)",
+  "status": "done"
  },
  {
   "id": "event_2161_00627",
@@ -356,8 +356,8 @@
    14155
   ],
   "jp": "{voice:004304}だ、誰だ③",
-  "en": "",
-  "status": ""
+  "en": "Wh-who's there!?",
+  "status": "done"
  },
  {
   "id": "event_2161_00636",
@@ -368,8 +368,8 @@
    14243
   ],
   "jp": "{voice:004404}落ち着け、俺はガーロット。{n}グラムブレイズ、ヴェルマンの{n}私兵団の一員だ。",
-  "en": "",
-  "status": ""
+  "en": "Calm down, I'm Garlot. Gram Blaze, Velleman's private army.",
+  "status": "done"
  },
  {
   "id": "event_2161_00683",
@@ -380,8 +380,8 @@
    14344
   ],
   "jp": "{voice:004504}落ち着いて。{n}ヴェルマンの知り合いでしょう？",
-  "en": "",
-  "status": ""
+  "en": "Calm down. You know Velleman, don't you?",
+  "status": "done"
  },
  {
   "id": "event_2161_006B3",
@@ -392,8 +392,8 @@
    14351
   ],
   "jp": "{voice:004604}あなたを助けに来たのよ。{n}いい友達を持ってよかったわね。",
-  "en": "",
-  "status": ""
+  "en": "We came to rescue you. Good thing you've got such a nice friend.",
+  "status": "done"
  },
  {
   "id": "event_2161_006EF",
@@ -404,8 +404,8 @@
    14459
   ],
   "jp": "{voice:004704}ヴェルマン方伯の知り合いかい？{n}ようやく見つけたよ。",
-  "en": "",
-  "status": ""
+  "en": "Are you the acquaintance of Margrave Velleman? Found you at last.",
+  "status": "done"
  },
  {
   "id": "event_2161_00727",
@@ -416,8 +416,8 @@
    14466
   ],
   "jp": "{voice:004804}僕はジェノン。{n}方伯の私兵団、{n}グラムブレイズの参謀だ。",
-  "en": "",
-  "status": ""
+  "en": "I'm Jenon, strategist of Gram Blaze, the Margrave's private army.",
+  "status": "done"
  },
  {
   "id": "event_2161_00762",
@@ -428,8 +428,8 @@
    14484
   ],
   "jp": "{voice:004904}あなたを探していましたよ。",
-  "en": "",
-  "status": ""
+  "en": "We've been looking for you.",
+  "status": "done"
  },
  {
   "id": "event_2161_00781",
@@ -440,8 +440,8 @@
    14599
   ],
   "jp": "{voice:004A04}ヴェルマン方伯の手の者だ。{n}落ち着け。",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman sent me. Calm down.",
+  "status": "done"
  },
  {
   "id": "event_2161_007AB",
@@ -452,8 +452,8 @@
    14617
   ],
   "jp": "{voice:004B04}ヴェルマン様の！",
-  "en": "",
-  "status": ""
+  "en": "Velleman-sama's men!",
+  "status": "done"
  },
  {
   "id": "event_2161_007C0",
@@ -464,8 +464,8 @@
    14635
   ],
   "jp": "{voice:004C04}どうやら遭難したのは君だな。{n}もう安心していい。",
-  "en": "",
-  "status": ""
+  "en": "So you must be the lost one. You can relax now.",
+  "status": "done"
  },
  {
   "id": "event_2161_007F4",
@@ -476,8 +476,8 @@
    14750
   ],
   "jp": "{voice:004D04}私は、ヴェルマン方伯の私兵団に{n}籍を置く者です。",
-  "en": "",
-  "status": ""
+  "en": "I belong to Margrave Velleman's private army.",
+  "status": "done"
  },
  {
   "id": "event_2161_00828",
@@ -488,8 +488,8 @@
    14768
   ],
   "jp": "{voice:004B04}ヴェルマン様の！",
-  "en": "",
-  "status": ""
+  "en": "Velleman-sama's men!",
+  "status": "done"
  },
  {
   "id": "event_2161_0083D",
@@ -500,8 +500,8 @@
    14786
   ],
   "jp": "{voice:004E04}どうやら、{n}あなたに間違いないようですね。",
-  "en": "",
-  "status": ""
+  "en": "It seems you are the one, without doubt.",
+  "status": "done"
  },
  {
   "id": "event_2161_0086B",
@@ -512,8 +512,8 @@
    14793
   ],
   "jp": "{voice:004F04}寒かったでしょう？{n}もう大丈夫ですよ。",
-  "en": "",
-  "status": ""
+  "en": "You must be cold. You are safe now.",
+  "status": "done"
  },
  {
   "id": "event_2161_00895",
@@ -524,8 +524,8 @@
    14905
   ],
   "jp": "{voice:005004}…って、本当に誰だよお前②{n}そ、それはかぶりものか？",
-  "en": "",
-  "status": ""
+  "en": "...Wait, who the hell are you!? I-is that a costume?",
+  "status": "done"
  },
  {
   "id": "event_2161_008CD",
@@ -536,8 +536,8 @@
    14926
   ],
   "jp": "{voice:005104}バイフー、かぶりものでない。{n}どちらかと言えば、カブキ者。",
-  "en": "",
-  "status": ""
+  "en": "Byff is no costume. If anything, Byff is a customer.",
+  "status": "done"
  },
  {
   "id": "event_2161_0090B",
@@ -560,8 +560,8 @@
    14962
   ],
   "jp": "{voice:005204}ヴェルマンの知り合いか？",
-  "en": "",
-  "status": ""
+  "en": "You know Velleman?",
+  "status": "done"
  },
  {
   "id": "event_2161_0092F",
@@ -572,8 +572,8 @@
    14980
   ],
   "jp": "{voice:005304}そ、そうだが……",
-  "en": "",
-  "status": ""
+  "en": "Y-yes, but...",
+  "status": "done"
  },
  {
   "id": "event_2161_00944",
@@ -584,8 +584,8 @@
    15001
   ],
   "jp": "{voice:005404}ならばよし。助けに来た。{n}脚、動くか？　歩けるか？{n}なんなら、バイフーをおぶるか？",
-  "en": "",
-  "status": ""
+  "en": "Good, then. Byff came to rescue you. Can your legs move? Can you walk? If you want, you can carry Byff.",
+  "status": "done"
  },
  {
   "id": "event_2161_00999",
@@ -596,8 +596,8 @@
    15019
   ],
   "jp": "{voice:005504}おぶる、君を？",
-  "en": "",
-  "status": ""
+  "en": "Carry you?",
+  "status": "done"
  },
  {
   "id": "event_2161_009AC",
@@ -608,8 +608,8 @@
    15037
   ],
   "jp": "{voice:005604}冗談だ。{n}バイフー、お前を助けに来た。",
-  "en": "",
-  "status": ""
+  "en": "That is a joke. Byff came to rescue you.",
+  "status": "done"
  },
  {
   "id": "event_2161_009D6",
@@ -620,8 +620,8 @@
    15175
   ],
   "jp": "{voice:005704}助けに来たのに、{n}誰だ、とはご挨拶ね。{n}ヴェルマンが待ってるわよ。",
-  "en": "",
-  "status": ""
+  "en": "We come to rescue you, and all you can say is \"who's there\"? Charming. Velleman's waiting.",
+  "status": "done"
  },
  {
   "id": "event_2161_00A1B",
@@ -632,8 +632,8 @@
    15193
   ],
   "jp": "{voice:005804}ヴェルマン様が？{n}そ、そうか！",
-  "en": "",
-  "status": ""
+  "en": "Velleman-sama is? O-oh!",
+  "status": "done"
  },
  {
   "id": "event_2161_00A3D",
@@ -644,8 +644,8 @@
    15308
   ],
   "jp": "{voice:005904}よくぞ聞いてくれました！{n}あたしこそ、チョースーパー{n}大魔法使い・パメラ様よ②",
-  "en": "",
-  "status": ""
+  "en": "So glad you asked! I am the super-duper grand sorceress, Pamela-sama!",
+  "status": "done"
  },
  {
   "id": "event_2161_00A8E",
@@ -656,8 +656,8 @@
    15326
   ],
   "jp": "{voice:005A04}ノンノンノン♪{n}サインはお断りよ？　{n}握手ならサービスするけどね！",
-  "en": "",
-  "status": ""
+  "en": "No, no, no ♪ Autographs are out, okay? I'll throw in a handshake, though!",
+  "status": "done"
  },
  {
   "id": "event_2161_00AD3",
@@ -680,8 +680,8 @@
    15365
   ],
   "jp": "{voice:005B04}なにボーッとしてるんだわさ！{n}ヴェルマンに言われたから、{n}助けに来てやったのよ！",
-  "en": "",
-  "status": ""
+  "en": "What are you gawking at, y'know! Velleman told me to, so I came to rescue you!",
+  "status": "done"
  },
  {
   "id": "event_2161_00B2D",
@@ -692,8 +692,8 @@
    15484
   ],
   "jp": "{voice:005C04}いたいた、アンタだろ？{n}ヴェルマンの知り合いってさ。",
-  "en": "",
-  "status": ""
+  "en": "There you are, it's you, right? Velleman's acquaintance.",
+  "status": "done"
  },
  {
   "id": "event_2161_00B65",
@@ -704,8 +704,8 @@
    15502
   ],
   "jp": "{voice:005D04}そ、そうだけど……",
-  "en": "",
-  "status": ""
+  "en": "Y-yes, but...",
+  "status": "done"
  },
  {
   "id": "event_2161_00B7C",
@@ -716,8 +716,8 @@
    15520
   ],
   "jp": "{voice:005E04}寒かっただろ？{n}温かいキャンプに戻ろうぜ。{n}立てるか？　ホラ、手を貸しなよ。",
-  "en": "",
-  "status": ""
+  "en": "Must've been cold, huh? Let's get back to a warm camp. Can you stand? Here, I'll give you a hand.",
+  "status": "done"
  },
  {
   "id": "event_2161_00BCB",
@@ -728,8 +728,8 @@
    15642
   ],
   "jp": "{voice:005F04}誰だ、ってぇ？　ヒック…{n}えらくご挨拶ね、マッタク最近の{n}若いモンはよぉ…、ヒック…",
-  "en": "",
-  "status": ""
+  "en": "\"Who's there?\" *hic*... Real polite, you are. Young people these days, I swear... *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2161_00C22",
@@ -740,8 +740,8 @@
    15660
   ],
   "jp": "{voice:006004}ヒック、あっしはあんたを{n}助けにきたんですよぉ～{n}ヴェルマンに言われてよぉ～。",
-  "en": "",
-  "status": ""
+  "en": "*hic*, I came to rescue you, y'know~ Velleman told me to~",
+  "status": "done"
  },
  {
   "id": "event_2161_00C73",
@@ -752,8 +752,8 @@
    15678
   ],
   "jp": "{voice:004B04}ヴェルマン様の！",
-  "en": "",
-  "status": ""
+  "en": "Velleman-sama's men!",
+  "status": "done"
  },
  {
   "id": "event_2161_00C88",
@@ -764,8 +764,8 @@
    15699
   ],
   "jp": "{voice:006104}ま、そういうこと…、ヒック…{n}とりあえず…、酒飲め、ホレ。{n}ヒック…、あったまるじぇ～。",
-  "en": "",
-  "status": ""
+  "en": "So, that's how it is... *hic*... Anyway... have a drink, here. *hic*... warms you right up~",
+  "status": "done"
  },
  {
   "id": "event_2161_00CE3",
@@ -776,8 +776,8 @@
    44062
   ],
   "jp": "{voice:006204}ヴェルマン！{n}遭難者を保護したぞ。",
-  "en": "",
-  "status": ""
+  "en": "Velleman! We've got the lost man safe.",
+  "status": "done"
  },
  {
   "id": "event_2161_00D09",
@@ -788,8 +788,8 @@
    44080
   ],
   "jp": "{voice:006304}よし。{n}荷物は無事だろうな？",
-  "en": "",
-  "status": ""
+  "en": "Good. Is the cargo unharmed?",
+  "status": "done"
  },
  {
   "id": "event_2161_00D29",
@@ -800,8 +800,8 @@
    44098
   ],
   "jp": "{voice:006404}荷物？",
-  "en": "",
-  "status": ""
+  "en": "Cargo?",
+  "status": "done"
  },
  {
   "id": "event_2161_00D34",
@@ -812,8 +812,8 @@
    44116
   ],
   "jp": "{voice:006504}ヴェルマン様、{n}荷は全て無事でございます。",
-  "en": "",
-  "status": ""
+  "en": "Velleman-sama, the cargo is all safe.",
+  "status": "done"
  },
  {
   "id": "event_2161_00D62",
@@ -824,8 +824,8 @@
    44566
   ],
   "jp": "{voice:006604}ヴェルマン様、{n}お助け頂き感謝いたします。{n}いやぁ、一時はどうなるかと……",
-  "en": "",
-  "status": ""
+  "en": "Thank you for saving me, Velleman-sama. Ah, for a while I didn't know what would happen...",
+  "status": "done"
  },
  {
   "id": "event_2161_00DAF",
@@ -836,8 +836,8 @@
    44584
   ],
   "jp": "{voice:006704}本当に荷は全て大丈夫なのだな？",
-  "en": "",
-  "status": ""
+  "en": "The cargo truly is all in order?",
+  "status": "done"
  },
  {
   "id": "event_2161_00DD2",
@@ -848,8 +848,8 @@
    44602
   ],
   "jp": "{voice:006804}ちょっと何よ！{n}さっきから荷物の心配ばっかり。{n}荷物より人でしょ！　人！",
-  "en": "",
-  "status": ""
+  "en": "Hey, what is this! All you've done is worry about the cargo. People before cargo, right! People!",
+  "status": "done"
  },
  {
   "id": "event_2161_00E1D",
@@ -860,8 +860,8 @@
    44620
   ],
   "jp": "{voice:006904}ジェノン、ここに目録がある。{n}荷を確認せよ。",
-  "en": "",
-  "status": ""
+  "en": "Jenon, here is the inventory. Check the cargo.",
+  "status": "done"
  },
  {
   "id": "event_2161_00E4D",
@@ -872,8 +872,8 @@
    44638
   ],
   "jp": "{voice:006A04}ちょっとちょっと！{n}無視しなくてもいいでしょ！",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey! You don't have to ignore me!",
+  "status": "done"
  },
  {
   "id": "event_2161_00E7F",
@@ -884,8 +884,8 @@
    44659
   ],
   "jp": "{voice:006B04}黙れ！{n}これは取引だ、まず荷の確認を{n}するのは当たり前の事だろう！",
-  "en": "",
-  "status": ""
+  "en": "Silence! This is a transaction. Naturally the cargo is checked first!",
+  "status": "done"
  },
  {
   "id": "event_2161_00EC4",
@@ -896,8 +896,8 @@
    44683
   ],
   "jp": "{voice:006C04}取引だと、どういう事だ！{n}知人を助ける為ではなかったのか？{n}まさか、俺達を騙したのか②",
-  "en": "",
-  "status": ""
+  "en": "Transaction? What do you mean! Wasn't this to save someone you know? Did you lie to us!?",
+  "status": "done"
  },
  {
   "id": "event_2161_00F1D",
@@ -908,8 +908,8 @@
    44701
   ],
   "jp": "{voice:006D04}彼は商人であり、知人でもある。{n}騙してはいない。",
-  "en": "",
-  "status": ""
+  "en": "He is a merchant, and also an acquaintance. I have not lied.",
+  "status": "done"
  },
  {
   "id": "event_2161_00F51",
@@ -920,8 +920,8 @@
    44719
   ],
   "jp": "{voice:006E04}こ、この目録は……{n}武器だ、この荷物は武器だ。{n}しかも大量だ。",
-  "en": "",
-  "status": ""
+  "en": "Th-this inventory... Weapons. This cargo is weapons. And a large amount, too.",
+  "status": "done"
  },
  {
   "id": "event_2161_00F92",
@@ -932,8 +932,8 @@
    44726
   ],
   "jp": "{voice:006F04}矢束、剣、斧、盾……{n}それに、輸入が禁止されている{n}高性能の火薬まである。",
-  "en": "",
-  "status": ""
+  "en": "Bundles of arrows, swords, axes, shields... And even high-grade gunpowder, banned from import.",
+  "status": "done"
  },
  {
   "id": "event_2161_00FDF",
@@ -944,8 +944,8 @@
    44733
   ],
   "jp": "{voice:007004}密輸ですね、方伯。",
-  "en": "",
-  "status": ""
+  "en": "This is smuggling, Margrave.",
+  "status": "done"
  },
  {
   "id": "event_2161_00FF6",
@@ -956,8 +956,8 @@
    44758
   ],
   "jp": "{voice:007104}なんだそれはっ！",
-  "en": "",
-  "status": ""
+  "en": "What the hell is this!",
+  "status": "done"
  },
  {
   "id": "event_2161_0100B",
@@ -968,8 +968,8 @@
    44833
   ],
   "jp": "{voice:007204}ああ、武器だ。{n}私は武器の密輸をしているんだよ。",
-  "en": "",
-  "status": ""
+  "en": "Yes, weapons. I am smuggling weapons.",
+  "status": "done"
  },
  {
   "id": "event_2161_0103F",
@@ -980,8 +980,8 @@
    44840
   ],
   "jp": "{voice:007304}私兵団を強化する為には、武器が{n}必要だ。しかし大量の武器購入を{n}国内で行えば反乱を疑われる。",
-  "en": "",
-  "status": ""
+  "en": "A private army needs weapons. But buying so many at home would make me suspected of rebellion.",
+  "status": "done"
  },
  {
   "id": "event_2161_0109E",
@@ -992,8 +992,8 @@
    44847
   ],
   "jp": "{voice:007404}そこで、隣国の商人である{n}この男に密輸を頼んでいる訳だ。",
-  "en": "",
-  "status": ""
+  "en": "And so I have this man, a merchant from a neighboring land, smuggle them for me.",
+  "status": "done"
  },
  {
   "id": "event_2161_010DA",
@@ -1004,8 +1004,8 @@
    44865
   ],
   "jp": "{voice:007504}ヴェルマン様は他の客よりも、{n}良い条件で武器を買ってくれます。",
-  "en": "",
-  "status": ""
+  "en": "Velleman-sama buys weapons on better terms than my other customers.",
+  "status": "done"
  },
  {
   "id": "event_2161_0111C",
@@ -1016,8 +1016,8 @@
    44872
   ],
   "jp": "{voice:007604}払いもいいから、{n}お得意様ってワケでして。",
-  "en": "",
-  "status": ""
+  "en": "And he pays well, so he's one of my best clients.",
+  "status": "done"
  },
  {
   "id": "event_2161_0114A",
@@ -1028,8 +1028,8 @@
    44890
   ],
   "jp": "{voice:007704}お前達の部下が使う武器も、{n}もちろん、彼から仕入れたものだ。{n}文句があるか、ガーロット？",
-  "en": "",
-  "status": ""
+  "en": "The weapons your own men use came from him, of course. Have you any complaint, Garlot?",
+  "status": "done"
  },
  {
   "id": "event_2161_011A5",
@@ -1040,8 +1040,8 @@
    44908
   ],
   "jp": "{voice:007804}……なら、最初から、{n}そう言えばよかっただろ。",
-  "en": "",
-  "status": ""
+  "en": "...Then you could've just said so from the start.",
+  "status": "done"
  },
  {
   "id": "event_2161_011D7",
@@ -1052,8 +1052,8 @@
    44926
   ],
   "jp": "{voice:007904}そうすれば、お前達が出撃しない{n}可能性もあると判断した。",
-  "en": "",
-  "status": ""
+  "en": "I judged that if I did, you might not have sortied.",
+  "status": "done"
  },
  {
   "id": "event_2161_01213",
@@ -1076,8 +1076,8 @@
    44962
   ],
   "jp": "{voice:007B04}私は今回の選択を間違ったとは{n}思っていない。",
-  "en": "",
-  "status": ""
+  "en": "I do not believe I chose wrongly this time.",
+  "status": "done"
  },
  {
   "id": "event_2161_01252",
@@ -1088,8 +1088,8 @@
    44969
   ],
   "jp": "{voice:007C04}なるほど、確かにお前達は有能だ。",
-  "en": "",
-  "status": ""
+  "en": "Certainly, you people are capable.",
+  "status": "done"
  },
  {
   "id": "event_2161_01277",
@@ -1100,8 +1100,8 @@
    44976
   ],
   "jp": "{voice:007D04}しかし過去に、私の命令を聞かず{n}暴走した事があったのも事実だ。",
-  "en": "",
-  "status": ""
+  "en": "But it is also true that you have disobeyed my orders and run wild in the past.",
+  "status": "done"
  },
  {
   "id": "event_2161_012B9",
@@ -1112,8 +1112,8 @@
    44983
   ],
   "jp": "{voice:007E04}今回の密輸は、{n}確実に成功させなければ{n}ならなかった。",
-  "en": "",
-  "status": ""
+  "en": "This smuggling run had to succeed, without fail.",
+  "status": "done"
  },
  {
   "id": "event_2161_012F2",
@@ -1124,8 +1124,8 @@
    44990
   ],
   "jp": "{voice:007F04}だから、知らなくても良い情報は{n}敢えて教えなかった。{n}それだけだ。",
-  "en": "",
-  "status": ""
+  "en": "So I chose not to tell you what you did not need to know. That is all.",
+  "status": "done"
  },
  {
   "id": "event_2161_01337",
@@ -1136,8 +1136,8 @@
    45079
   ],
   "jp": "{voice:008004}ヴェルマン、{n}お前は利己的な奴だよ……",
-  "en": "",
-  "status": ""
+  "en": "Velleman, you're a selfish bastard...",
+  "status": "done"
  },
  {
   "id": "event_2161_01361",
@@ -1148,8 +1148,8 @@
    45086
   ],
   "jp": "{voice:008104}だが、それがお前の強さの源だと{n}思うし、なにより俺はその事を{n}十分理解しているつもりだ。",
-  "en": "",
-  "status": ""
+  "en": "But I think that's where your strength comes from, and more than that, I understand that well enough.",
+  "status": "done"
  },
  {
   "id": "event_2161_013BC",
@@ -1160,8 +1160,8 @@
    45104
   ],
   "jp": "{voice:008204}だけど…、いや、だからこそ。",
-  "en": "",
-  "status": ""
+  "en": "But... no, that's exactly why.",
+  "status": "done"
  },
  {
   "id": "event_2161_013DD",
@@ -1172,8 +1172,8 @@
    45122
   ],
   "jp": "{voice:008304}友達を助けるよう、{n}俺達に命令してくれた事が、{n}とても嬉しかったんだ……",
-  "en": "",
-  "status": ""
+  "en": "When you ordered us to save a friend, I was really glad...",
+  "status": "done"
  },
  {
   "id": "event_2161_01428",
@@ -1184,8 +1184,8 @@
    45140
   ],
   "jp": "{voice:008404}嘘だよ、それは。{n}騙したんだよお前は……",
-  "en": "",
-  "status": ""
+  "en": "That was a lie. You lied to me...",
+  "status": "done"
  },
  {
   "id": "event_2161_01454",
@@ -1196,8 +1196,8 @@
    45161
   ],
   "jp": "{voice:008504}もういい、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "That is enough, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2161_0146F",
@@ -1208,8 +1208,8 @@
    45168
   ],
   "jp": "{voice:008604}強さを求めるのだろう、お前は？{n}ならば、その感情とは{n}早く折り合いを付けるんだな。",
-  "en": "",
-  "status": ""
+  "en": "You seek strength, do you not? Then you had best come to terms with that feeling quickly.",
+  "status": "done"
  },
  {
   "id": "event_2161_014C4",
@@ -1220,8 +1220,8 @@
    45186
   ],
   "jp": "{voice:008704}……引き上げるぞ。{n}メデューテ、団長の代わりに{n}指揮を執れ。",
-  "en": "",
-  "status": ""
+  "en": "...We are pulling out. Medoute, take command in the Captain's place.",
+  "status": "done"
  },
  {
   "id": "event_2161_01503",
@@ -1232,8 +1232,8 @@
    45204
   ],
   "jp": "{voice:008804}……わかりました。",
-  "en": "",
-  "status": ""
+  "en": "...Understood.",
+  "status": "done"
  },
  {
   "id": "event_2161_0151A",
@@ -1256,8 +1256,8 @@
    45431
   ],
   "jp": "{voice:008904}ガーロットさん。{n}結果を見れば、ヴェルマン様は{n}オレを助けてくれました。",
-  "en": "",
-  "status": ""
+  "en": "Garlot-san. When you look at how it turned out, Velleman-sama did save me.",
+  "status": "done"
  },
  {
   "id": "event_2161_01570",
@@ -1268,8 +1268,8 @@
    45449
   ],
   "jp": "{voice:008A04}わかってるよ。{n}ヴェルマンは間違っちゃいない。",
-  "en": "",
-  "status": ""
+  "en": "I know that. Velleman's not wrong.",
+  "status": "done"
  },
  {
   "id": "event_2161_015A2",
@@ -1280,8 +1280,8 @@
    45456
   ],
   "jp": "{voice:008B04}それは分かってる。{n}ただ、俺の気持ちの問題なんだ…",
-  "en": "",
-  "status": ""
+  "en": "I know that. It's just how I feel about it...",
+  "status": "done"
  },
  {
   "id": "event_2161_015D8",
@@ -1292,8 +1292,8 @@
    45474
   ],
   "jp": "{voice:008C04}……ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "...Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2161_015ED",
@@ -1304,8 +1304,8 @@
    45492
   ],
   "jp": "{voice:008D04}ああっ、くそっ！{n}なんなんだよ！{n}なんで気分が悪いんだよ②",
-  "en": "",
-  "status": ""
+  "en": "Aaagh, damn it! What the hell! Why do I feel so lousy!",
+  "status": "done"
  },
  {
   "id": "event_2161_0162A",
@@ -1316,8 +1316,8 @@
    45502
   ],
   "jp": "{voice:008E04}……くそっ！",
-  "en": "",
-  "status": ""
+  "en": "...Damn it!",
+  "status": "done"
  },
  {
   "id": "event_2161_0163B",
@@ -1328,8 +1328,8 @@
    16144
   ],
   "jp": "その格好…{n}君達、ふもとから来たのか？",
-  "en": "",
-  "status": ""
+  "en": "Dressed like that... You came up from the foothills?",
+  "status": "done"
  },
  {
   "id": "event_2161_01661",
@@ -1340,8 +1340,8 @@
    16151
   ],
   "jp": "雪山には危険が多い…{n}十分に気をつけなさい。",
-  "en": "",
-  "status": ""
+  "en": "The snowy mountains are full of dangers... Be very careful.",
+  "status": "done"
  },
  {
   "id": "event_2161_0168D",
@@ -1352,8 +1352,8 @@
    16158
   ],
   "jp": "え？　何が危険かって？",
-  "en": "",
-  "status": ""
+  "en": "Huh? What's dangerous, you ask?",
+  "status": "done"
  },
  {
   "id": "event_2161_016A4",
@@ -1364,8 +1364,8 @@
    16165
   ],
   "jp": "そうだね…{n}最も警戒すべきは、悪天候だ。",
-  "en": "",
-  "status": ""
+  "en": "Let's see... What you need to watch for most is the bad weather.",
+  "status": "done"
  },
  {
   "id": "event_2161_016CC",
@@ -1376,8 +1376,8 @@
    16172
   ],
   "jp": "特に、夜間は吹雪が来やすい。{n}雪の地形の上で夜を迎えるのは{n}非常に危険だ。心したまえ。",
-  "en": "",
-  "status": ""
+  "en": "Blizzards come mostly at night. Being on snowy terrain at nightfall is very dangerous. Mind that.",
+  "status": "done"
  },
  {
   "id": "event_2161_01721",
@@ -1388,8 +1388,8 @@
    16179
   ],
   "jp": "さらに、足を取られる雪原では{n}行軍もままならない。",
-  "en": "",
-  "status": ""
+  "en": "What's more, on snowfields that drag at your feet, marching is hard going.",
+  "status": "done"
  },
  {
   "id": "event_2161_01753",
@@ -1400,8 +1400,8 @@
    16186
   ],
   "jp": "迂闊に雪原に足を踏み入れて{n}何度も夜を迎えれば、{n}吹雪で凍死しかねない…",
-  "en": "",
-  "status": ""
+  "en": "Walk onto the snowfields carelessly, let night fall too many times, and you could freeze in a blizzard...",
+  "status": "done"
  },
  {
   "id": "event_2161_0179A",
@@ -1412,8 +1412,8 @@
    16193
   ],
   "jp": "十分に気をつける事だ。",
-  "en": "",
-  "status": ""
+  "en": "So be very careful.",
+  "status": "done"
  },
  {
   "id": "event_2161_017B1",
@@ -1424,8 +1424,8 @@
    15909
   ],
   "jp": "遭難者？{n}アンタらが探しに行くのかい？",
-  "en": "",
-  "status": ""
+  "en": "Someone's lost? And you lot are going to look for them?",
+  "status": "done"
  },
  {
   "id": "event_2161_017D7",
@@ -1436,8 +1436,8 @@
    15916
   ],
   "jp": "ふもとの人間に、雪山は厳しい。{n}我々が出す捜索隊の報告を{n}待った方がいいと思うが…",
-  "en": "",
-  "status": ""
+  "en": "Snowy mountains are hard on people from below. Better to wait for word from our search party...",
+  "status": "done"
  },
  {
   "id": "event_2161_01828",
@@ -1448,8 +1448,8 @@
    15923
   ],
   "jp": "…それでも行くのかえ。{n}ならば止めぬが…",
-  "en": "",
-  "status": ""
+  "en": "...And you're still going, eh. I won't stop you, then...",
+  "status": "done"
  },
  {
   "id": "event_2161_01850",
@@ -1460,8 +1460,8 @@
    15934
   ],
   "jp": "…アンタは勇者じゃの…{n}これを持っていきなされ。",
-  "en": "",
-  "status": ""
+  "en": "...You're a brave one... Take this with you.",
+  "status": "done"
  },
  {
   "id": "event_2161_01880",
@@ -1472,8 +1472,8 @@
    15987
   ],
   "jp": "万年雪の雪原で見つかった、{n}天然のタクティクスカードじゃ。{n}吹雪を呼び寄せる力がある…",
-  "en": "",
-  "status": ""
+  "en": "A natural Tactics Card found on the eternal snowfield. It has the power to call a blizzard...",
+  "status": "done"
  },
  {
   "id": "event_2161_018D5",
@@ -1484,8 +1484,8 @@
    15994
   ],
   "jp": "…なに、気にせずともよい。{n}吹雪を呼ぶ力など、この雪山では{n}かえって使いづらいものなのじゃ。",
-  "en": "",
-  "status": ""
+  "en": "...Now, don't you mind. The power to call a blizzard is more trouble than it's worth on this mountain.",
+  "status": "done"
  },
  {
   "id": "event_2161_01930",
@@ -1496,8 +1496,8 @@
    16043
   ],
   "jp": "雪山には、遭難者の避難用に{n}山小屋が点在しているが…",
-  "en": "",
-  "status": ""
+  "en": "The mountain's dotted with huts where the lost can take shelter, but...",
+  "status": "done"
  },
  {
   "id": "event_2161_01964",
@@ -1508,8 +1508,8 @@
    16050
   ],
   "jp": "遭難者の荷を狙う山賊どもが{n}小屋を監視しているかもしれん。{n}十分に気をつけなさい。",
-  "en": "",
-  "status": ""
+  "en": "Bandits out for the belongings of lost folk may be watching them. Be very careful.",
+  "status": "done"
  },
  {
   "id": "event_2161_019B5",
@@ -1520,8 +1520,8 @@
    35154
   ],
   "jp": "この避難小屋は無人のようだな。{n}山賊の気配もない、が…",
-  "en": "",
-  "status": ""
+  "en": "This shelter looks empty. No sign of bandits, either, but...",
+  "status": "done"
  },
  {
   "id": "event_2161_019EB",
@@ -1532,8 +1532,8 @@
    35240
   ],
   "jp": "小屋の中にリンゴがあるが…{n}いつから置いてあるんだ？{n}食えるんだろうか？",
-  "en": "",
-  "status": ""
+  "en": "There's an apple in the hut... How long's it been here? Can I even eat this?",
+  "status": "done"
  },
  {
   "id": "event_2161_01A32",
@@ -1544,8 +1544,8 @@
    35344
   ],
   "jp": "…誰もいない。{n}ここじゃなかったか…",
-  "en": "",
-  "status": ""
+  "en": "...Nobody's here. Guess it wasn't this one...",
+  "status": "done"
  },
  {
   "id": "event_2161_01A56",
@@ -1556,8 +1556,8 @@
    35430
   ],
   "jp": "あら、リンゴね？{n}見た目は新鮮そうね。{n}…お腹壊したりしないかしら？",
-  "en": "",
-  "status": ""
+  "en": "Oh, an apple? It looks fresh. ...It won't give me a stomachache, will it?",
+  "status": "done"
  },
  {
   "id": "event_2161_01A99",
@@ -1568,8 +1568,8 @@
    35534
   ],
   "jp": "無人の山小屋、か…",
-  "en": "",
-  "status": ""
+  "en": "An empty mountain hut, huh...",
+  "status": "done"
  },
  {
   "id": "event_2161_01AAC",
@@ -1580,8 +1580,8 @@
    35620
   ],
   "jp": "…フルーツが置いてあるよ。{n}この雪山の寒さのおかげで、{n}新鮮さが保たれているようだね。",
-  "en": "",
-  "status": ""
+  "en": "...There's some fruit here. Thanks to the cold on this mountain, it's stayed fresh.",
+  "status": "done"
  },
  {
   "id": "event_2161_01B01",
@@ -2408,8 +2408,8 @@
    10760
   ],
   "jp": "グラムブレイズ",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze",
+  "status": "done"
  },
  {
   "id": "event_2161_02A4C",
@@ -2420,8 +2420,8 @@
    10825
   ],
   "jp": "山賊団",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "event_2161_02ACA",
@@ -2432,8 +2432,8 @@
    10951
   ],
   "jp": "山賊団",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "event_2161_02B60",
@@ -2444,7 +2444,7 @@
    11101
   ],
   "jp": "山賊団",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  }
 ]

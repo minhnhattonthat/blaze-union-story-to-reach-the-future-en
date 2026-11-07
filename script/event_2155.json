@@ -8,8 +8,8 @@
    3393
   ],
   "jp": "{voice:00DC01}桟道を歩き始めて三日目。{n}谷底の深さにも、{n}すっかり慣れちゃったよね。",
-  "en": "",
-  "status": ""
+  "en": "Day three on this cliff road. I've gotten totally used to how deep the gorge is.",
+  "status": "done"
  },
  {
   "id": "event_2155_00071",
@@ -20,8 +20,8 @@
    3400
   ],
   "jp": "{voice:00DD01}要は気持ちの問題。{n}崖の下を見るからいけないのよ。",
-  "en": "",
-  "status": ""
+  "en": "It's all in your head. The trick is not looking down the cliff.",
+  "status": "done"
  },
  {
   "id": "event_2155_000A7",
@@ -32,8 +32,8 @@
    3421
   ],
   "jp": "{voice:00DE01}ココは高くない…、{n}だから恐くない…、って感じ。",
-  "en": "",
-  "status": ""
+  "en": "It's not high up here... so it's not scary... like that.",
+  "status": "done"
  },
  {
   "id": "event_2155_000DB",
@@ -44,8 +44,8 @@
    3439
   ],
   "jp": "{voice:00DF01}本に書いてあったけど、{n}口数が多いのは{n}緊張してる証拠だって。",
-  "en": "",
-  "status": ""
+  "en": "I read in a book that talking a lot is a sign you're nervous.",
+  "status": "done"
  },
  {
   "id": "event_2155_0011C",
@@ -56,8 +56,8 @@
    3457
   ],
   "jp": "{voice:00E001}なるほどな。",
-  "en": "",
-  "status": ""
+  "en": "Makes sense.",
+  "status": "done"
  },
  {
   "id": "event_2155_0012D",
@@ -68,8 +68,8 @@
    3478
   ],
   "jp": "{voice:00E101}なによ、ジェノン！{n}余計なことを言わないでよね！",
-  "en": "",
-  "status": ""
+  "en": "Hey, Jenon! Keep your comments to yourself!",
+  "status": "done"
  },
  {
   "id": "event_2155_00161",
@@ -80,8 +80,8 @@
    3499
   ],
   "jp": "{voice:00E201}あ、図星だったってこと？",
-  "en": "",
-  "status": ""
+  "en": "Oh, did I hit the mark?",
+  "status": "done"
  },
  {
   "id": "event_2155_0017E",
@@ -92,8 +92,8 @@
    3589
   ],
   "jp": "{voice:00E301}……賑やかだな、しかし。",
-  "en": "",
-  "status": ""
+  "en": "...Lively bunch, I must say.",
+  "status": "done"
  },
  {
   "id": "event_2155_0019B",
@@ -104,8 +104,8 @@
    3607
   ],
   "jp": "{voice:00E401}ちょっと黙らせます？",
-  "en": "",
-  "status": ""
+  "en": "Shall I shut them up a little?",
+  "status": "done"
  },
  {
   "id": "event_2155_001B4",
@@ -116,8 +116,8 @@
    3625
   ],
   "jp": "{voice:00E501}いや、構わん。{n}働きどころで力を出して貰えれば{n}それでいい。",
-  "en": "",
-  "status": ""
+  "en": "No, leave them. So long as they show their strength when there is work to be done, that is enough.",
+  "status": "done"
  },
  {
   "id": "event_2155_001F3",
@@ -128,8 +128,8 @@
    3643
   ],
   "jp": "{voice:00E601}みんな、黙って！",
-  "en": "",
-  "status": ""
+  "en": "Everyone, quiet!",
+  "status": "done"
  },
  {
   "id": "event_2155_00208",
@@ -140,8 +140,8 @@
    3661
   ],
   "jp": "{voice:00E701}構わんと言っただろ。",
-  "en": "",
-  "status": ""
+  "en": "I said to leave them.",
+  "status": "done"
  },
  {
   "id": "event_2155_00221",
@@ -152,8 +152,8 @@
    3679
   ],
   "jp": "{voice:00E801}違います、{n}方伯の言う働きどころですよ。",
-  "en": "",
-  "status": ""
+  "en": "That's not it. This is the work you were talking about, Margrave.",
+  "status": "done"
  },
  {
   "id": "event_2155_0024D",
@@ -164,8 +164,8 @@
    3697
   ],
   "jp": "{voice:00E901}ガーロット、荒い足音！{n}賊よ！",
-  "en": "",
-  "status": ""
+  "en": "Garlot, rough footsteps! Bandits!",
+  "status": "done"
  },
  {
   "id": "event_2155_0026F",
@@ -176,8 +176,8 @@
    4255
   ],
   "jp": "{voice:00EA01}なんだなんだ？{n}姉ちゃん達、えらく物騒なエモノ{n}持ってんなぁ。",
-  "en": "",
-  "status": ""
+  "en": "What's all this? You girls are carrying some mighty dangerous toys.",
+  "status": "done"
  },
  {
   "id": "event_2155_002B0",
@@ -188,8 +188,8 @@
    4262
   ],
   "jp": "{voice:00EB01}もしかして、アレか？{n}用心棒とか言うヤツ？",
-  "en": "",
-  "status": ""
+  "en": "Maybe you're one of them, whaddaya call 'em? Bodyguards?",
+  "status": "done"
  },
  {
   "id": "event_2155_002DE",
@@ -200,8 +200,8 @@
    4280
   ],
   "jp": "{voice:00EC01}へっへっへっ、{n}命が惜しけりゃ、やめときな。{n}荷物を置いて、去った方がいい。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh, if you value your lives, don't try it. Better to leave your stuff and walk away.",
+  "status": "done"
  },
  {
   "id": "event_2155_0032D",
@@ -212,8 +212,8 @@
    4383
   ],
   "jp": "{voice:00ED01}ガーロット、わかるか？",
-  "en": "",
-  "status": ""
+  "en": "Garlot, do you see?",
+  "status": "done"
  },
  {
   "id": "event_2155_00348",
@@ -224,8 +224,8 @@
    4401
   ],
   "jp": "{voice:00EE01}ん…？　何がだ？",
-  "en": "",
-  "status": ""
+  "en": "Hm...? See what?",
+  "status": "done"
  },
  {
   "id": "event_2155_0035D",
@@ -236,8 +236,8 @@
    4419
   ],
   "jp": "{voice:00EF01}今の帝国には、こんなクズ共が{n}溢れかえっているのだ。",
-  "en": "",
-  "status": ""
+  "en": "The Empire today is overflowing with trash such as this.",
+  "status": "done"
  },
  {
   "id": "event_2155_00395",
@@ -248,8 +248,8 @@
    4437
   ],
   "jp": "{voice:00F001}どうしようもねぇな……",
-  "en": "",
-  "status": ""
+  "en": "They're hopeless...",
+  "status": "done"
  },
  {
   "id": "event_2155_003B0",
@@ -260,8 +260,8 @@
    4455
   ],
   "jp": "{voice:00F101}グラムブレイズ、前へ！{n}山賊共に、今までの報いを{n}存分に受けさせよ！",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze, forward! See that these bandits are paid in full for all they have done!",
+  "status": "done"
  },
  {
   "id": "event_2155_003F7",
@@ -272,8 +272,8 @@
    4617
   ],
   "jp": "{voice:00F201}だけど、参ったね……{n}戦うにはちょっと窮屈過ぎる。",
-  "en": "",
-  "status": ""
+  "en": "Still, this is a pain... It's a little too cramped for a fight.",
+  "status": "done"
  },
  {
   "id": "event_2155_0042D",
@@ -284,8 +284,8 @@
    4635
   ],
   "jp": "{voice:00F301}地形が狭い場合は、{n}どうユニオンを結成するか、{n}十分考えて行動しなきゃね。",
-  "en": "",
-  "status": ""
+  "en": "When the ground is this narrow, we'll have to think hard about how we form our Unions.",
+  "status": "done"
  },
  {
   "id": "event_2155_0047A",
@@ -296,8 +296,8 @@
    5553
   ],
   "jp": "{voice:00F401}そ、そんな……",
-  "en": "",
-  "status": ""
+  "en": "N-no way...",
+  "status": "done"
  },
  {
   "id": "event_2155_0048D",
@@ -308,8 +308,8 @@
    7743
   ],
   "jp": "{voice:00F501}大した事は無かったな。{n}正直、拍子抜けだぜ。",
-  "en": "",
-  "status": ""
+  "en": "That was nothing. Honestly, what a letdown.",
+  "status": "done"
  },
  {
   "id": "event_2155_004BD",
@@ -320,8 +320,8 @@
    7761
   ],
   "jp": "{voice:00F601}山賊相手にいい勝負をされたら{n}お前達を雇った意味がない。",
-  "en": "",
-  "status": ""
+  "en": "If bandits could give you a good fight, there would be no point in having hired you.",
+  "status": "done"
  },
  {
   "id": "event_2155_004F9",
@@ -332,8 +332,8 @@
    7782
   ],
   "jp": "{voice:00F701}待って、ガーロット！{n}まだ敵の気配、消えてないって。",
-  "en": "",
-  "status": ""
+  "en": "Wait, Garlot! I can still sense enemies out there.",
+  "status": "done"
  },
  {
   "id": "event_2155_00531",
@@ -344,8 +344,8 @@
    8018
   ],
   "jp": "{voice:00F801}見つけたよッ！{n}ガーロットとその仲間ども！",
-  "en": "",
-  "status": ""
+  "en": "Found you! Garlot and friends!",
+  "status": "done"
  },
  {
   "id": "event_2155_0055F",
@@ -356,8 +356,8 @@
    8039
   ],
   "jp": "{voice:00F901}今日のセリカは準備万端！{n}さぁ、死んで貰うんだから②",
-  "en": "",
-  "status": ""
+  "en": "Cerica's all ready today! Now, time for you to die!",
+  "status": "done"
  },
  {
   "id": "event_2155_00597",
@@ -368,8 +368,8 @@
    8087
   ],
   "jp": "{voice:00FA01}また来たの、あの女……",
-  "en": "",
-  "status": ""
+  "en": "Her again...",
+  "status": "done"
  },
  {
   "id": "event_2155_005B2",
@@ -378,8 +378,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "タダの用心棒にしてはやるな！{n}何者だ、お前ら？",
-  "en": "",
-  "status": ""
+  "en": "You're pretty good for mere bodyguards! Who are you people?",
+  "status": "done"
  },
  {
   "id": "event_2155_005E0",
@@ -388,8 +388,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "俺達は、グラム・ブレイズ。{n}ヴェルマン方伯の私兵団だ！{n}この名、胸に刻んで地獄へ行け！",
-  "en": "",
-  "status": ""
+  "en": "We're Gram Blaze, Margrave Velleman's private army! Carve that name in your heart and go to hell!",
+  "status": "done"
  },
  {
   "id": "event_2155_00635",
@@ -398,8 +398,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "侮るな！{n}こいつ、手ごわいぞ。",
-  "en": "",
-  "status": ""
+  "en": "Don't underestimate him! This one's tough.",
+  "status": "done"
  },
  {
   "id": "event_2155_00653",
@@ -408,8 +408,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "女だからって甘く見ないでよね！",
-  "en": "",
-  "status": ""
+  "en": "Don't go easy on me just because I'm a girl!",
+  "status": "done"
  },
  {
   "id": "event_2155_00672",
@@ -418,8 +418,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "優男の分際でッ！",
-  "en": "",
-  "status": ""
+  "en": "You pretty boy!",
+  "status": "done"
  },
  {
   "id": "event_2155_00683",
@@ -428,8 +428,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "見た目で実力を計る事ほど{n}愚かな事はないっ！",
-  "en": "",
-  "status": ""
+  "en": "Nothing is more foolish than judging strength by looks!",
+  "status": "done"
  },
  {
   "id": "event_2155_006AF",
@@ -438,8 +438,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "浅黒い肌に巨大な斧……{n}この女…、まさかメデューテ③",
-  "en": "",
-  "status": ""
+  "en": "Dark skin, a huge axe... This woman... She couldn't be Medoute!?",
+  "status": "done"
  },
  {
   "id": "event_2155_006E3",
@@ -448,8 +448,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "あたしを知ってるとはね。{n}嬉しくも、何ともないけど。",
-  "en": "",
-  "status": ""
+  "en": "So you've heard of me. Not that I'm flattered in the least.",
+  "status": "done"
  },
  {
   "id": "event_2155_00717",
@@ -458,8 +458,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "くそっ！{n}詰めが甘かったか③",
-  "en": "",
-  "status": ""
+  "en": "Damn it! Did I get careless at the end!?",
+  "status": "done"
  },
  {
   "id": "event_2155_00733",
@@ -468,8 +468,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "とんでもねぇプレッシャーだ。{n}お前ら、油断するんじゃないぞ！",
-  "en": "",
-  "status": ""
+  "en": "The pressure's unreal. Don't let your guard down, you lot!",
+  "status": "done"
  },
  {
   "id": "event_2155_0076F",
@@ -478,8 +478,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "オラオラぁ！{n}盗賊だからって舐めんなよ②",
-  "en": "",
-  "status": ""
+  "en": "C'mon, c'mon! Don't look down on us just 'cause we're bandits!",
+  "status": "done"
  },
  {
   "id": "event_2155_00797",
@@ -488,8 +488,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "俺に戦いを挑むとは、{n}命が惜しくないようだな。",
-  "en": "",
-  "status": ""
+  "en": "Challenging me? I guess you don't value your life.",
+  "status": "done"
  },
  {
   "id": "event_2155_007C5",
@@ -498,8 +498,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "調子に乗ってるね……",
-  "en": "",
-  "status": ""
+  "en": "Getting cocky, aren't you...",
+  "status": "done"
  },
  {
   "id": "event_2155_007DA",
@@ -508,8 +508,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "なんだ、拍子抜けだ。{n}噂ほどの実力は無いようだな。",
-  "en": "",
-  "status": ""
+  "en": "Huh, what a letdown. Not as strong as the rumors say, it seems.",
+  "status": "done"
  },
  {
   "id": "event_2155_0080C",
@@ -518,8 +518,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "油断して、しまったか……",
-  "en": "",
-  "status": ""
+  "en": "I got careless...",
+  "status": "done"
  },
  {
   "id": "event_2155_00825",
@@ -531,8 +531,8 @@
    4839
   ],
   "jp": "真っ黒い岩石だ、珍しいな…",
-  "en": "",
-  "status": ""
+  "en": "A pitch-black rock. That's rare...",
+  "status": "done"
  },
  {
   "id": "event_2155_00840",
@@ -544,8 +544,8 @@
    4914
   ],
   "jp": "黒いと、硬くて強そうでいいな。{n}いただいておくか。",
-  "en": "",
-  "status": ""
+  "en": "Black means hard and strong. Works for me. Guess I'll take it.",
+  "status": "done"
  },
  {
   "id": "event_2155_00872",
@@ -557,8 +557,8 @@
    4976
   ],
   "jp": "黒い色の鉱石ね。",
-  "en": "",
-  "status": ""
+  "en": "A black-colored ore.",
+  "status": "done"
  },
  {
   "id": "event_2155_00883",
@@ -570,8 +570,8 @@
    5051
   ],
   "jp": "加工してもらったら{n}武器になるかもしれないわね。",
-  "en": "",
-  "status": ""
+  "en": "If I have it worked, it might make a weapon.",
+  "status": "done"
  },
  {
   "id": "event_2155_008B3",
@@ -583,8 +583,8 @@
    5113
   ],
   "jp": "ここの岩肌だけ黒い…{n}違う岩石なのかもしれない。",
-  "en": "",
-  "status": ""
+  "en": "Only this rock face is black... It could be a different kind of stone.",
+  "status": "done"
  },
  {
   "id": "event_2155_008E3",
@@ -596,8 +596,8 @@
    5188
   ],
   "jp": "工房で練磨してもらえば{n}武器に使えるかもしれないな。",
-  "en": "",
-  "status": ""
+  "en": "If a workshop refined it, it might be usable for a weapon.",
+  "status": "done"
  },
  {
   "id": "event_2155_00917",
@@ -609,8 +609,8 @@
    5250
   ],
   "jp": "おや、この岩壁…",
-  "en": "",
-  "status": ""
+  "en": "Well now, this rock wall...",
+  "status": "done"
  },
  {
   "id": "event_2155_00928",
@@ -622,8 +622,8 @@
    5325
   ],
   "jp": "やっぱり黒曜石だわ。{n}商人に売ればお金になるわね。",
-  "en": "",
-  "status": ""
+  "en": "It's obsidian, just as I thought. It'll bring good money from a merchant.",
+  "status": "done"
  },
  {
   "id": "event_2155_00984",
@@ -634,8 +634,8 @@
    2433
   ],
   "jp": "グラムブレイズ",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze",
+  "status": "done"
  },
  {
   "id": "event_2155_009C7",
@@ -646,8 +646,8 @@
    2500
   ],
   "jp": "山賊団",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "event_2155_00A75",
@@ -670,8 +670,8 @@
    17440
   ],
   "jp": "{voice:00FB01}どうして届かないのよ……{n}セリカの想いが足りないせい③",
-  "en": "",
-  "status": ""
+  "en": "Why can't Cerica reach you... Is Cerica's love not enough!?",
+  "status": "done"
  },
  {
   "id": "event_2155_021BE",
@@ -682,8 +682,8 @@
    17458
   ],
   "jp": "{voice:00FC01}敵討ちは諦めた方がいい。{n}あれは、不幸の連鎖しか{n}生み出さない。",
-  "en": "",
-  "status": ""
+  "en": "You'd better give up on revenge. It only breeds a chain of misery.",
+  "status": "done"
  },
  {
   "id": "event_2155_02201",
@@ -694,8 +694,8 @@
    17476
   ],
   "jp": "{voice:00FD01}黙れよ！　アンタらにセリカの{n}気持ちがわかってたまるかよー！",
-  "en": "",
-  "status": ""
+  "en": "Shut up! Like any of you could ever understand how Cerica feels!",
+  "status": "done"
  },
  {
   "id": "event_2155_02241",
@@ -706,8 +706,8 @@
    17494
   ],
   "jp": "{voice:00FE01}セリカ…、あなた。",
-  "en": "",
-  "status": ""
+  "en": "Cerica... you...",
+  "status": "done"
  },
  {
   "id": "event_2155_02258",
@@ -718,8 +718,8 @@
    17532
   ],
   "jp": "{voice:00FF01}何の騒ぎだ？",
-  "en": "",
-  "status": ""
+  "en": "What is all this commotion?",
+  "status": "done"
  },
  {
   "id": "event_2155_02269",
@@ -730,8 +730,8 @@
    17730
   ],
   "jp": "{voice:000002}双剣の旗印……{n}ソルティエ帝の直属軍だ！",
-  "en": "",
-  "status": ""
+  "en": "The twin-sword banner... That's Emperor Soltier's own army!",
+  "status": "done"
  },
  {
   "id": "event_2155_02295",
@@ -742,8 +742,8 @@
    17794
   ],
   "jp": "{voice:000102}あぁーッ、邪魔が入ったか！{n}今日のところは、引き上げるよ！",
-  "en": "",
-  "status": ""
+  "en": "Aaagh, somebody butted in! Cerica's pulling out for today!",
+  "status": "done"
  },
  {
   "id": "event_2155_022D3",
@@ -754,8 +754,8 @@
    17822
   ],
   "jp": "{voice:000202}ガーロット！{n}その首、必ず貰ってやるからね！",
-  "en": "",
-  "status": ""
+  "en": "Garlot! Cerica's taking your head, count on it!",
+  "status": "done"
  },
  {
   "id": "event_2155_02303",
@@ -766,8 +766,8 @@
    18290
   ],
   "jp": "{voice:000302}ソルティエ帝、{n}魔竜と契約をした、{n}この国の頂点に立つ皇帝。",
-  "en": "",
-  "status": ""
+  "en": "Emperor Soltier. He made a pact with a demon dragon, and he sits at the top of this country.",
+  "status": "done"
  },
  {
   "id": "event_2155_02342",
@@ -778,8 +778,8 @@
    18308
   ],
   "jp": "{voice:000402}魔竜、ふーん…、{n}どうりで悪人面だと思った。",
-  "en": "",
-  "status": ""
+  "en": "A demon dragon, huh... No wonder he's got that villain's face.",
+  "status": "done"
  },
  {
   "id": "event_2155_02372",
@@ -790,8 +790,8 @@
    18326
   ],
   "jp": "{voice:000502}しっ！{n}シスキア、聞こえるぞ。",
-  "en": "",
-  "status": ""
+  "en": "Shh! Siskier, he'll hear you.",
+  "status": "done"
  },
  {
   "id": "event_2155_02394",
@@ -802,8 +802,8 @@
    18344
   ],
   "jp": "{voice:000602}おお、ヴェルマンか。{n}どうした、争う音がしたが？",
-  "en": "",
-  "status": ""
+  "en": "Ah, Velleman. What is it? We heard fighting.",
+  "status": "done"
  },
  {
   "id": "event_2155_023C8",
@@ -814,8 +814,8 @@
    18362
   ],
   "jp": "{voice:000702}はっ、陛下。{n}野盗共が現れました故。",
-  "en": "",
-  "status": ""
+  "en": "Yes, Your Majesty. Some bandits appeared.",
+  "status": "done"
  },
  {
   "id": "event_2155_023F0",
@@ -826,8 +826,8 @@
    18380
   ],
   "jp": "{voice:000802}なるほどな。{n}ところで、これは貴様の私兵か？",
-  "en": "",
-  "status": ""
+  "en": "I see. And by the way, is this your private army?",
+  "status": "done"
  },
  {
   "id": "event_2155_02420",
@@ -838,8 +838,8 @@
    18398
   ],
   "jp": "{voice:000902}さようでございます。{n}近頃はこのように街道にも賊が{n}現れますので。",
-  "en": "",
-  "status": ""
+  "en": "That it is. Bandits have been appearing even on the highways of late, as you can see.",
+  "status": "done"
  },
  {
   "id": "event_2155_02465",
@@ -850,8 +850,8 @@
    18416
   ],
   "jp": "{voice:000A02}見たところ、{n}そこの赤髪が大将とみえる。{n}名はなんと言う？",
-  "en": "",
-  "status": ""
+  "en": "By the look of it, that redhead there is the leader. What is your name?",
+  "status": "done"
  },
  {
   "id": "event_2155_024A2",
@@ -862,8 +862,8 @@
    18434
   ],
   "jp": "{voice:000B02}……先に名乗るのが、{n}礼儀というものじゃないのか？",
-  "en": "",
-  "status": ""
+  "en": "...Isn't it good manners to give your own name first?",
+  "status": "done"
  },
  {
   "id": "event_2155_024D8",
@@ -874,8 +874,8 @@
    18452
   ],
   "jp": "{voice:000C02}貴様！{n}陛下になんという口をッ②",
-  "en": "",
-  "status": ""
+  "en": "You! How dare you speak so to His Majesty!",
+  "status": "done"
  },
  {
   "id": "event_2155_024FC",
@@ -886,8 +886,8 @@
    18470
   ],
   "jp": "{voice:000D02}よい、ラピス。{n}育ちの悪さが出ているだけだ。",
-  "en": "",
-  "status": ""
+  "en": "Enough, Lapis. It is merely his bad upbringing showing.",
+  "status": "done"
  },
  {
   "id": "event_2155_0252C",
@@ -898,8 +898,8 @@
    18488
   ],
   "jp": "{voice:000E02}なんだと！",
-  "en": "",
-  "status": ""
+  "en": "What did you say!",
+  "status": "done"
  },
  {
   "id": "event_2155_0253B",
@@ -910,8 +910,8 @@
    18506
   ],
   "jp": "{voice:000F02}どうせ賊上がりの男だろう。{n}名乗らぬなら、あえて問いただす{n}事もない。",
-  "en": "",
-  "status": ""
+  "en": "A former bandit, no doubt. If he will not give his name, We need not press the question.",
+  "status": "done"
  },
  {
   "id": "event_2155_02584",
@@ -922,8 +922,8 @@
    18524
   ],
   "jp": "{voice:001002}もうよい。{n}さがれ、ヴェルマン。{n}俺は西部の巡察で忙しいのだ。",
-  "en": "",
-  "status": ""
+  "en": "Enough. Withdraw, Velleman. We are busy with Our inspection of the west.",
+  "status": "done"
  },
  {
   "id": "event_2155_025C5",
@@ -934,8 +934,8 @@
    18542
   ],
   "jp": "{voice:001102}ちょっとちょっと！",
-  "en": "",
-  "status": ""
+  "en": "Hey, wait just a minute!",
+  "status": "done"
  },
  {
   "id": "event_2155_025DC",
@@ -946,8 +946,8 @@
    18560
   ],
   "jp": "{voice:001202}ははっ、仰せのままに。",
-  "en": "",
-  "status": ""
+  "en": "Yes, as you command.",
+  "status": "done"
  },
  {
   "id": "event_2155_025F7",
@@ -958,8 +958,8 @@
    18920
   ],
   "jp": "{voice:001302}ヴェルマン、何でよ！{n}あんな奴に頭下げることないわ！",
-  "en": "",
-  "status": ""
+  "en": "Velleman, why!? You don't have to bow your head to a guy like that!",
+  "status": "done"
  },
  {
   "id": "event_2155_0262F",
@@ -970,8 +970,8 @@
    18938
   ],
   "jp": "{voice:001402}今、皇帝に逆らってどうなる？{n}何も変わらんどころか、{n}下手をすれば、即刻死罪だ。",
-  "en": "",
-  "status": ""
+  "en": "And what if I defied the Emperor now? Nothing would change. At worst, an immediate death sentence.",
+  "status": "done"
  },
  {
   "id": "event_2155_02682",
@@ -982,8 +982,8 @@
    18945
   ],
   "jp": "{voice:001502}お前達が{n}私を呼び捨てにするのとは{n}次元が違うのだ。",
-  "en": "",
-  "status": ""
+  "en": "That is on another level entirely from you calling me by my bare name.",
+  "status": "done"
  },
  {
   "id": "event_2155_026B9",
@@ -994,8 +994,8 @@
    18952
   ],
   "jp": "{voice:001602}今はな、我慢の時だ。",
-  "en": "",
-  "status": ""
+  "en": "For now, this is a time for patience.",
+  "status": "done"
  },
  {
   "id": "event_2155_026D2",
@@ -1006,8 +1006,8 @@
    18970
   ],
   "jp": "{voice:001702}ああ、もう！{n}これだから貴族って連中は！",
-  "en": "",
-  "status": ""
+  "en": "Ugh, honestly! This is why I can't stand nobles!",
+  "status": "done"
  },
  {
   "id": "event_2155_026FE",
@@ -1018,8 +1018,8 @@
    18988
   ],
   "jp": "{voice:001802}気持ちはわかるが、{n}シスキア、ここは抑えろ。",
-  "en": "",
-  "status": ""
+  "en": "I know how you feel, Siskier, but hold it in for now.",
+  "status": "done"
  },
  {
   "id": "event_2155_0272E",
@@ -1030,8 +1030,8 @@
    19006
   ],
   "jp": "{voice:001902}わかってるわよ！{n}でもね、納得いかないものは{n}納得いかないの！",
-  "en": "",
-  "status": ""
+  "en": "I know that! But some things I just won't accept, okay!?",
+  "status": "done"
  },
  {
   "id": "event_2155_0276F",
@@ -1042,8 +1042,8 @@
    19024
   ],
   "jp": "{voice:001A02}全く、シスキアもガーロットも。{n}二人といると、夏でも涼しいよ。{n}きっと……",
-  "en": "",
-  "status": ""
+  "en": "Honestly, Siskier and Garlot both. With you two around, I feel a chill even in summer. I'm sure of it...",
+  "status": "done"
  },
  {
   "id": "event_2155_027BC",
@@ -1054,8 +1054,8 @@
    19042
   ],
   "jp": "{voice:001B02}どういう意味だ、ジェノン。",
-  "en": "",
-  "status": ""
+  "en": "What's that supposed to mean, Jenon?",
+  "status": "done"
  },
  {
   "id": "event_2155_027DB",
@@ -1066,8 +1066,8 @@
    19063
   ],
   "jp": "{voice:001C02}そのままだよ！",
-  "en": "",
-  "status": ""
+  "en": "Just what it sounds like!",
+  "status": "done"
  },
  {
   "id": "event_2155_027EE",
@@ -1078,8 +1078,8 @@
    14089
   ],
   "jp": "もうよせ。{n}お前じゃ、俺達に勝てねぇよ。",
-  "en": "",
-  "status": ""
+  "en": "Give it up. You can't beat us.",
+  "status": "done"
  },
  {
   "id": "event_2155_02816",
@@ -1090,8 +1090,8 @@
    14110
   ],
   "jp": "うるさいっつーの！{n}セリカは、隊長の仇を討つって{n}決めたの！",
-  "en": "",
-  "status": ""
+  "en": "Shut up already! Cerica made up her mind to get revenge for the captain!",
+  "status": "done"
  },
  {
   "id": "event_2155_02851",
@@ -1102,8 +1102,8 @@
    14406
   ],
   "jp": "うーっ、ムカつく！{n}アンタさ、本当ムカつく！",
-  "en": "",
-  "status": ""
+  "en": "Grrr, you piss Cerica off! You really, really piss Cerica off!",
+  "status": "done"
  },
  {
   "id": "event_2155_0287D",
@@ -1114,8 +1114,8 @@
    14424
   ],
   "jp": "しつこい女は嫌われるよ！",
-  "en": "",
-  "status": ""
+  "en": "Nobody likes a clingy girl!",
+  "status": "done"
  },
  {
   "id": "event_2155_02896",
@@ -1126,8 +1126,8 @@
    14723
   ],
   "jp": "まだまだ、{n}セリカはやれるよッ！",
-  "en": "",
-  "status": ""
+  "en": "Not yet, Cerica's not done yet!",
+  "status": "done"
  },
  {
   "id": "event_2155_028B6",
@@ -1138,8 +1138,8 @@
    14744
   ],
   "jp": "正直、女の子が相手だと、{n}調子が崩されるよ……",
-  "en": "",
-  "status": ""
+  "en": "Honestly, fighting girls throws me off my game...",
+  "status": "done"
  },
  {
   "id": "event_2155_028E4",
@@ -1150,8 +1150,8 @@
    15078
   ],
   "jp": "そんな攻撃、{n}全然、堪えないんだから！",
-  "en": "",
-  "status": ""
+  "en": "Attacks like that don't even hurt Cerica!",
+  "status": "done"
  },
  {
   "id": "event_2155_0290A",
@@ -1162,8 +1162,8 @@
    15099
   ],
   "jp": "タフだな、お前。",
-  "en": "",
-  "status": ""
+  "en": "You're a tough one.",
+  "status": "done"
  },
  {
   "id": "event_2155_0291B",
@@ -1174,8 +1174,8 @@
    14200
   ],
   "jp": "こんなんじゃ物足りない…{n}ジワジワと、苦しませちゃう！",
-  "en": "",
-  "status": ""
+  "en": "This isn't nearly enough... Cerica's gonna make you suffer, nice and slow!",
+  "status": "done"
  },
  {
   "id": "event_2155_02951",
@@ -1186,8 +1186,8 @@
    14517
   ],
   "jp": "デイヴィド隊長の痛み、{n}思い知りな！",
-  "en": "",
-  "status": ""
+  "en": "Now you'll know Captain David's pain!",
+  "status": "done"
  },
  {
   "id": "event_2155_02975",
@@ -1198,8 +1198,8 @@
    14844
   ],
   "jp": "許さない、許さない、{n}許さなーい！",
-  "en": "",
-  "status": ""
+  "en": "Won't forgive you, won't forgive you, won't forgiiive you!",
+  "status": "done"
  },
  {
   "id": "event_2155_02997",
@@ -1210,8 +1210,8 @@
    14865
   ],
   "jp": "なんだよ、これ……",
-  "en": "",
-  "status": ""
+  "en": "What is this...",
+  "status": "done"
  },
  {
   "id": "event_2155_029AA",
@@ -1222,8 +1222,8 @@
    15192
   ],
   "jp": "ねぇなに～その大きな斧。{n}もしかして、飾りなわけー？",
-  "en": "",
-  "status": ""
+  "en": "Hey, what's with that huge axe? Is it just for decoration or something?",
+  "status": "done"
  },
  {
   "id": "event_2155_029DE",
@@ -1234,8 +1234,8 @@
    12808
   ],
   "jp": "しつこい奴だな、お前も。",
-  "en": "",
-  "status": ""
+  "en": "You just don't quit, do you.",
+  "status": "done"
  },
  {
   "id": "event_2155_029F7",
@@ -1246,8 +1246,8 @@
    12826
   ],
   "jp": "しつこくても構わない！{n}アンタを殺せば問題ナッシング！",
-  "en": "",
-  "status": ""
+  "en": "Cerica doesn't care if she's stubborn! Once you're dead, no problemo!",
+  "status": "done"
  },
  {
   "id": "event_2155_02A2D",
@@ -1258,8 +1258,8 @@
    13052
   ],
   "jp": "ムカつくのよ、アンタ！{n}男に媚び売ってバカじゃないの③",
-  "en": "",
-  "status": ""
+  "en": "You piss Cerica off! Sucking up to guys, are you stupid!?",
+  "status": "done"
  },
  {
   "id": "event_2155_02A63",
@@ -1270,8 +1270,8 @@
    13070
   ],
   "jp": "アンタには言われたくないわよ！{n}何様のつもり③",
-  "en": "",
-  "status": ""
+  "en": "Look who's talking! Who do you think you are!?",
+  "status": "done"
  },
  {
   "id": "event_2155_02A91",
@@ -1282,8 +1282,8 @@
    13303
   ],
   "jp": "お？　確かアンタも{n}ガーロットの仲間よね！{n}だったらマッサツよ②",
-  "en": "",
-  "status": ""
+  "en": "Oh? You're one of Garlot's friends, aren't you! Then you're getting wiped out!",
+  "status": "done"
  },
  {
   "id": "event_2155_02AD0",
@@ -1294,8 +1294,8 @@
    13321
   ],
   "jp": "女の子と戦うのは{n}あんまり気が進まないなぁ…",
-  "en": "",
-  "status": ""
+  "en": "I'm not too keen on fighting girls, you know...",
+  "status": "done"
  },
  {
   "id": "event_2155_02AFC",
@@ -1306,8 +1306,8 @@
    13339
   ],
   "jp": "無視すんなー②",
-  "en": "",
-  "status": ""
+  "en": "Don't ignore Cerica!",
+  "status": "done"
  },
  {
   "id": "event_2155_02B0B",
@@ -1318,8 +1318,8 @@
    13593
   ],
   "jp": "相変わらずデカい斧ね…",
-  "en": "",
-  "status": ""
+  "en": "That's still one huge axe...",
+  "status": "done"
  },
  {
   "id": "event_2155_02B22",
@@ -1330,8 +1330,8 @@
    13611
   ],
   "jp": "…い、いいもん！{n}勝負は大きさじゃない、{n}中身よ！　そして技術と技量よ！",
-  "en": "",
-  "status": ""
+  "en": "...F-fine! It's not size that counts, it's what's inside! And skill and technique!",
+  "status": "done"
  },
  {
   "id": "event_2155_02B69",
@@ -1342,8 +1342,8 @@
    13629
   ],
   "jp": "あんなにデカいんだから、{n}肩凝るに決まってるわ。{n}ええ、きっとそうに違いない！",
-  "en": "",
-  "status": ""
+  "en": "Something that huge has gotta give you stiff shoulders. Yeah, it's gotta, it just has to!",
+  "status": "done"
  },
  {
   "id": "event_2155_02BB6",
@@ -1354,8 +1354,8 @@
    13647
   ],
   "jp": "というわけで、セリカの結論！",
-  "en": "",
-  "status": ""
+  "en": "So here's Cerica's conclusion!",
+  "status": "done"
  },
  {
   "id": "event_2155_02BD3",
@@ -1366,8 +1366,8 @@
    13665
   ],
   "jp": "デカいモンぶら下げてっからって、{n}あんまり調子に乗んな～②",
-  "en": "",
-  "status": ""
+  "en": "Don't get so full of yourself just 'cause you've got something big hanging there!",
+  "status": "done"
  },
  {
   "id": "event_2155_02C0D",
@@ -1378,7 +1378,7 @@
    13683
   ],
   "jp": "…お前、何に怒ってるんだ？",
-  "en": "",
-  "status": ""
+  "en": "...What are you so angry about?",
+  "status": "done"
  }
 ]

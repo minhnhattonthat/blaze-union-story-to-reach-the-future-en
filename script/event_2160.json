@@ -1648,8 +1648,8 @@
    16379
   ],
   "jp": "うほっ③{n}あたしのレアアイテムレーダーに{n}反応ありありぃ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa!? My rare-item radar's getting a hit!",
+  "status": "done"
  },
  {
   "id": "event_2160_019FA",
@@ -1661,8 +1661,8 @@
    16463
   ],
   "jp": "……なーんだ、コインかぁ。{n}魔法アイテムじゃないなんて、{n}ガッカリだわさ。",
-  "en": "",
-  "status": ""
+  "en": "...Aw, it's just a coin. Not a magic item, what a letdown, y'know.",
+  "status": "done"
  },
  {
   "id": "event_2160_01AEC",
@@ -1673,8 +1673,8 @@
    6889
   ],
   "jp": "グラムブレイズ",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze",
+  "status": "done"
  },
  {
   "id": "event_2160_01B57",
@@ -1685,8 +1685,8 @@
    6996
   ],
   "jp": "王国輸送隊",
-  "en": "",
-  "status": ""
+  "en": "Transport",
+  "status": "done"
  },
  {
   "id": "event_2160_01BF9",
@@ -1709,8 +1709,8 @@
    24775
   ],
   "jp": "{voice:00F903}助かります、ジルヴァ様！",
-  "en": "",
-  "status": ""
+  "en": "Thank you, Zilva-sama!",
+  "status": "done"
  },
  {
   "id": "event_2160_04A89",
@@ -1721,8 +1721,8 @@
    24796
   ],
   "jp": "{voice:00FA03}よし、今が突破の好機よ。{n}転進せよ！　突破を試みる！",
-  "en": "",
-  "status": ""
+  "en": "All right, now's our chance to break through. About face! We'll try to break out!",
+  "status": "done"
  },
  {
   "id": "event_2160_04AC1",
@@ -1733,8 +1733,8 @@
    35009
   ],
   "jp": "{voice:00FB03}私が三度も倒されるとは……",
-  "en": "",
-  "status": ""
+  "en": "That I should be defeated three times...",
+  "status": "done"
  },
  {
   "id": "event_2160_04AE0",
@@ -1745,8 +1745,8 @@
    35030
   ],
   "jp": "{voice:00FC03}この失態の連続は、もはや罪だ。{n}教主様になんと申し開きをすれば{n}良いのだ……",
-  "en": "",
-  "status": ""
+  "en": "This string of failures is now a sin. How am I to answer to the Pontiff...",
+  "status": "done"
  },
  {
   "id": "event_2160_04B2F",
@@ -1757,8 +1757,8 @@
    35249
   ],
   "jp": "{voice:00FD03}ヴァドリック……{n}戻ったら、あなたに私の気持ちを{n}打ち明けようと思っていたのに…",
-  "en": "",
-  "status": ""
+  "en": "Vadric... When I got back, I meant to tell you how I feel...",
+  "status": "done"
  },
  {
   "id": "event_2160_04B82",
@@ -1769,8 +1769,8 @@
    40095
   ],
   "jp": "{voice:00FE03}どいてどいて！{n}ウルズ・ティアはどこ③",
-  "en": "",
-  "status": ""
+  "en": "Move, move! Where's the Urd's Tear!?",
+  "status": "done"
  },
  {
   "id": "event_2160_04BAC",
@@ -1781,8 +1781,8 @@
    39868
   ],
   "jp": "{voice:00FF03}なんという事だ。{n}荷の奪取を阻止されたばかりか、{n}例の一団に奪われてしまうとは。",
-  "en": "",
-  "status": ""
+  "en": "How could this be. Not only did we fail to secure the cargo, that band has taken it.",
+  "status": "done"
  },
  {
   "id": "event_2160_04BFF",
@@ -1793,8 +1793,8 @@
    39889
   ],
   "jp": "{voice:00FC03}この失態の連続は、もはや罪だ。{n}教主様になんと申し開きをすれば{n}良いのだ……",
-  "en": "",
-  "status": ""
+  "en": "This string of failures is now a sin. How am I to answer to the Pontiff...",
+  "status": "done"
  },
  {
   "id": "event_2160_04C4E",
@@ -1805,8 +1805,8 @@
    40547
   ],
   "jp": "{voice:000004}見つけたわ！　これよ②{n}この破滅色に輝く魔石……{n}間違いなくウルズ・ティアよ！",
-  "en": "",
-  "status": ""
+  "en": "Found it! This is it! This magic stone, glowing the color of doom... It's the Urd's Tear for sure!",
+  "status": "done"
  },
  {
   "id": "event_2160_04C9F",
@@ -1817,8 +1817,8 @@
    40557
   ],
   "jp": "{voice:000104}これで私の夢、歴史を変える{n}程の威力を持った破壊兵器を{n}実現させられる！",
-  "en": "",
-  "status": ""
+  "en": "With this, my dream will come true: a weapon of destruction with the power to change history!",
+  "status": "done"
  },
  {
   "id": "event_2160_04CEA",
@@ -1829,8 +1829,8 @@
    40578
   ],
   "jp": "{voice:000204}その様子じゃ、目当ての品は{n}見つかったんだよな？",
-  "en": "",
-  "status": ""
+  "en": "From the look of you, you found what you were after?",
+  "status": "done"
  },
  {
   "id": "event_2160_04D1E",
@@ -1841,8 +1841,8 @@
    40585
   ],
   "jp": "{voice:000304}しかし、残りの荷はどうする？{n}貴金属類のようだけどさ……",
-  "en": "",
-  "status": ""
+  "en": "But what about the rest of the cargo? Looks like precious metals and such...",
+  "status": "done"
  },
  {
   "id": "event_2160_04D5A",
@@ -1853,8 +1853,8 @@
    40606
   ],
   "jp": "{voice:000404}金持ちの嗜好品でしょ？{n}興味はないわ。",
-  "en": "",
-  "status": ""
+  "en": "Rich people's toys, right? I'm not interested.",
+  "status": "done"
  },
  {
   "id": "event_2160_04D84",
@@ -1865,8 +1865,8 @@
    40745
   ],
   "jp": "{voice:000504}こ、これは一体何の騒ぎだ。{n}まるで戦ではないか！",
-  "en": "",
-  "status": ""
+  "en": "Wh-what is all this commotion? It looks like a war!",
+  "status": "done"
  },
  {
   "id": "event_2160_04DB8",
@@ -1877,8 +1877,8 @@
    40763
   ],
   "jp": "{voice:000604}……貴様ら！{n}さては、隊商狙いの賊徒か③",
-  "en": "",
-  "status": ""
+  "en": "...You there! So you are brigands preying on caravans!?",
+  "status": "done"
  },
  {
   "id": "event_2160_04DE4",
@@ -1889,8 +1889,8 @@
    40784
   ],
   "jp": "{voice:000704}このアランゼーム、廷臣として{n}黙って見過ごす事はできん！",
-  "en": "",
-  "status": ""
+  "en": "I, Alanjame, as a minister of the court, cannot simply stand by and let this pass!",
+  "status": "done"
  },
  {
   "id": "event_2160_04E20",
@@ -1901,8 +1901,8 @@
    40856
   ],
   "jp": "{voice:000804}まずい、ガーロット！{n}アランゼームといえば、{n}王国の内務大臣だぞ。",
-  "en": "",
-  "status": ""
+  "en": "This is bad, Garlot! Alanjame is the Kingdom's Minister of Internal Affairs.",
+  "status": "done"
  },
  {
   "id": "event_2160_04E65",
@@ -1913,8 +1913,8 @@
    40877
   ],
   "jp": "{voice:000904}ここは私に任せてもらえない？",
-  "en": "",
-  "status": ""
+  "en": "Could you leave this to me?",
+  "status": "done"
  },
  {
   "id": "event_2160_04E86",
@@ -1925,8 +1925,8 @@
    40941
   ],
   "jp": "{voice:000A04}あら、これはアランゼーム閣下。{n}それは誤解ですわ。",
-  "en": "",
-  "status": ""
+  "en": "Why, Your Excellency Alanjame. You are quite mistaken.",
+  "status": "done"
  },
  {
   "id": "event_2160_04EBC",
@@ -1937,8 +1937,8 @@
    40948
   ],
   "jp": "{voice:000B04}我々は輸送隊の傭兵で、{n}神生教団と名乗る賊どもから{n}積荷を守ったのでございます。",
-  "en": "",
-  "status": ""
+  "en": "We are its mercenaries, and we saved the cargo from brigands calling themselves the Blessed Papal Army.",
+  "status": "done"
  },
  {
   "id": "event_2160_04F0F",
@@ -1949,8 +1949,8 @@
    40969
   ],
   "jp": "{voice:000C04}なに？{n}神生教団から、だと？",
-  "en": "",
-  "status": ""
+  "en": "What? From the Blessed Papal Army, you say?",
+  "status": "done"
  },
  {
   "id": "event_2160_04F2F",
@@ -1961,8 +1961,8 @@
    40990
   ],
   "jp": "{voice:000D04}そうでございます。",
-  "en": "",
-  "status": ""
+  "en": "That is correct.",
+  "status": "done"
  },
  {
   "id": "event_2160_04F46",
@@ -1973,8 +1973,8 @@
    41011
   ],
   "jp": "{voice:000E04}しかし、困りました。{n}私達もこのように怪我を負い、{n}兵の埋葬もしなければなりません。",
-  "en": "",
-  "status": ""
+  "en": "But we are in a difficulty. We are wounded, as you see, and must bury our soldiers.",
+  "status": "done"
  },
  {
   "id": "event_2160_04F9D",
@@ -1985,8 +1985,8 @@
    41032
   ],
   "jp": "{voice:000F04}そうだ、大臣閣下！{n}閣下に荷をお預けしても{n}よろしいでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "I know, Your Excellency! Might we leave the cargo in your care?",
+  "status": "done"
  },
  {
   "id": "event_2160_04FE0",
@@ -1997,8 +1997,8 @@
    41053
   ],
   "jp": "{voice:001004}うぬ、そういう事ならば、{n}荷は私が預かろう。",
-  "en": "",
-  "status": ""
+  "en": "Hmm, in that case, I shall take charge of it.",
+  "status": "done"
  },
  {
   "id": "event_2160_05010",
@@ -2009,8 +2009,8 @@
    41060
   ],
   "jp": "{voice:001104}お主達はここまででよい。{n}では、雇い主に代わり給金を……",
-  "en": "",
-  "status": ""
+  "en": "Your work here is done. Now, on behalf of your employer, your wages...",
+  "status": "done"
  },
  {
   "id": "event_2160_0504C",
@@ -2021,8 +2021,8 @@
    41081
   ],
   "jp": "{voice:001204}閣下、給金は既に頂いております。",
-  "en": "",
-  "status": ""
+  "en": "Your Excellency, we have already been paid.",
+  "status": "done"
  },
  {
   "id": "event_2160_05071",
@@ -2033,8 +2033,8 @@
    41102
   ],
   "jp": "{voice:001304}ン？　そうか。{n}では役目、ご苦労であった。",
-  "en": "",
-  "status": ""
+  "en": "Hm? I see. Then well done, you have my thanks.",
+  "status": "done"
  },
  {
   "id": "event_2160_0509F",
@@ -2057,8 +2057,8 @@
    41201
   ],
   "jp": "{voice:001404}何をしている！{n}積荷を運ぶ準備を進めよ！{n}さあ、急げ急げ②",
-  "en": "",
-  "status": ""
+  "en": "What are you doing! Get ready to move the cargo! Come now, hurry, hurry!",
+  "status": "done"
  },
  {
   "id": "event_2160_050E7",
@@ -2069,8 +2069,8 @@
    41222
   ],
   "jp": "{voice:001504}ハッ！",
-  "en": "",
-  "status": ""
+  "en": "Sir!",
+  "status": "done"
  },
  {
   "id": "event_2160_050F2",
@@ -2081,8 +2081,8 @@
    41355
   ],
   "jp": "{voice:001604}えらく手際がよかったな。{n}これは、初めから積荷を回収する{n}つもりだったと見ていいだろう。",
-  "en": "",
-  "status": ""
+  "en": "That was awfully smooth. It's safe to say he meant to collect the cargo from the start.",
+  "status": "done"
  },
  {
   "id": "event_2160_0514D",
@@ -2093,8 +2093,8 @@
    41376
   ],
   "jp": "{voice:001704}ふぅ～よかった。",
-  "en": "",
-  "status": ""
+  "en": "Whew, what a relief.",
+  "status": "done"
  },
  {
   "id": "event_2160_05162",
@@ -2105,8 +2105,8 @@
    41383
   ],
   "jp": "{voice:001804}あの大臣も荷を狙っていた奴らの{n}仲間だと思ってカマかけたけど、{n}正解だったわね。",
-  "en": "",
-  "status": ""
+  "en": "I bluffed him, figuring that minister was in with the people after the cargo. And I was right.",
+  "status": "done"
  },
  {
   "id": "event_2160_051B5",
@@ -2117,8 +2117,8 @@
    41404
   ],
   "jp": "{voice:001904}これはあれね、{n}神生教団とあの大臣、{n}繋がってるかもしれないわね。",
-  "en": "",
-  "status": ""
+  "en": "So the Blessed Papal Army and that minister might be connected.",
+  "status": "done"
  },
  {
   "id": "event_2160_051FA",
@@ -2129,8 +2129,8 @@
    41411
   ],
   "jp": "{voice:001A04}ま、今は関係ない事だけど。",
-  "en": "",
-  "status": ""
+  "en": "Well, that's nothing to do with us right now.",
+  "status": "done"
  },
  {
   "id": "event_2160_05219",
@@ -2141,8 +2141,8 @@
    41432
   ],
   "jp": "{voice:001B04}ユーディ、条件は果たした。{n}これからは存分に働いてもらうぞ。",
-  "en": "",
-  "status": ""
+  "en": "Eudy, the condition's met. From now on, you're working for us, and working hard.",
+  "status": "done"
  },
  {
   "id": "event_2160_05259",
@@ -2153,8 +2153,8 @@
    41453
   ],
   "jp": "{voice:001C04}もちろん、約束は守るわ。{n}私を扱いこなせれば、だけどね。",
-  "en": "",
-  "status": ""
+  "en": "Of course, I keep my promises. If you can handle me, that is.",
+  "status": "done"
  },
  {
   "id": "event_2160_05295",
@@ -2165,8 +2165,8 @@
    41474
   ],
   "jp": "{voice:001D04}よし、もうここには用はない。{n}引き上げよう。",
-  "en": "",
-  "status": ""
+  "en": "All right, we've got no more business here. Let's pull out.",
+  "status": "done"
  },
  {
   "id": "event_2160_052C5",
@@ -2189,8 +2189,8 @@
    41560
   ],
   "jp": "{voice:001E04}アイギナ？　どうかした？",
-  "en": "",
-  "status": ""
+  "en": "Aegina? Something wrong?",
+  "status": "done"
  },
  {
   "id": "event_2160_052ED",
@@ -2201,8 +2201,8 @@
    41581
   ],
   "jp": "{voice:001F04}いえ…、何でもありません。{n}行きましょうか。",
-  "en": "",
-  "status": ""
+  "en": "No... it is nothing. Shall we go.",
+  "status": "done"
  },
  {
   "id": "event_2160_0531D",
@@ -2213,8 +2213,8 @@
    41699
   ],
   "jp": "{voice:002004}（アランゼーム、王国の廷臣。）",
-  "en": "",
-  "status": ""
+  "en": "(Alanjame, minister of the Kingdom.)",
+  "status": "done"
  },
  {
   "id": "event_2160_05340",
@@ -2225,8 +2225,8 @@
    41706
   ],
   "jp": "{voice:002104}（その忌まわしき名を耳にし、{n}　姿を再び目にするとは……）",
-  "en": "",
-  "status": ""
+  "en": "(To hear that accursed name, and to see his face once more...)",
+  "status": "done"
  },
  {
   "id": "event_2160_0537E",
@@ -2237,8 +2237,8 @@
    41713
   ],
   "jp": "{voice:002204}（ガーロット様との邂逅によって{n}　私と姉さんの、忘れていた{n}　宿命が動き出した。）",
-  "en": "",
-  "status": ""
+  "en": "(Meeting Garlot-sama has set in motion the fate my sister and I had forgotten.)",
+  "status": "done"
  },
  {
   "id": "event_2160_053D3",
@@ -2249,8 +2249,8 @@
    32689
   ],
   "jp": "お前達が、何故ここに……",
-  "en": "",
-  "status": ""
+  "en": "You people, why are you here...",
+  "status": "done"
  },
  {
   "id": "event_2160_053EC",
@@ -2261,8 +2261,8 @@
    32710
   ],
   "jp": "それは俺達のセリフだ！",
-  "en": "",
-  "status": ""
+  "en": "That's our line!",
+  "status": "done"
  },
  {
   "id": "event_2160_05403",
@@ -2273,8 +2273,8 @@
    32731
   ],
   "jp": "攻撃は最大の防御。{n}だから、私を狙い、倒そうと、{n}そう思ったのだな。",
-  "en": "",
-  "status": ""
+  "en": "Attack is the best defense. So you thought to target me and defeat me.",
+  "status": "done"
  },
  {
   "id": "event_2160_05446",
@@ -2285,8 +2285,8 @@
    32752
   ],
   "jp": "それも俺達のセリフだ！",
-  "en": "",
-  "status": ""
+  "en": "That's our line too!",
+  "status": "done"
  },
  {
   "id": "event_2160_0545D",
@@ -2297,8 +2297,8 @@
    32953
   ],
   "jp": "荷を奪うつもり？{n}それとも、密輸の護衛？{n}どっちにしても邪魔はさせない！",
-  "en": "",
-  "status": ""
+  "en": "You plan to steal the cargo? Or are you escorting smugglers? Either way, we won't let you interfere!",
+  "status": "done"
  },
  {
   "id": "event_2160_054A4",
@@ -2309,8 +2309,8 @@
    32974
   ],
   "jp": "……邪魔は、お前だ。",
-  "en": "",
-  "status": ""
+  "en": "...It is you who interfere.",
+  "status": "done"
  },
  {
   "id": "event_2160_054B9",
@@ -2321,8 +2321,8 @@
    33175
   ],
   "jp": "男、そこをどけ……",
-  "en": "",
-  "status": ""
+  "en": "You, man, stand aside...",
+  "status": "done"
  },
  {
   "id": "event_2160_054CC",
@@ -2333,8 +2333,8 @@
    33196
   ],
   "jp": "おっと、{n}僕のコト、気になるのかい？",
-  "en": "",
-  "status": ""
+  "en": "Oh my, have you taken an interest in me?",
+  "status": "done"
  },
  {
   "id": "event_2160_054F0",
@@ -2345,8 +2345,8 @@
    33217
   ],
   "jp": "なんだと…？",
-  "en": "",
-  "status": ""
+  "en": "What...?",
+  "status": "done"
  },
  {
   "id": "event_2160_054FD",
@@ -2357,8 +2357,8 @@
    33418
   ],
   "jp": "密輸を企てる私設部隊と{n}神生教団に繋がりがある……{n}これは、どういう意味だ？",
-  "en": "",
-  "status": ""
+  "en": "A private unit plotting to smuggle goods, tied to the Blessed Papal Army... What does this mean?",
+  "status": "done"
  },
  {
   "id": "event_2160_05548",
@@ -2381,8 +2381,8 @@
    33640
   ],
   "jp": "今は、お前に用はない。{n}立ち去れ。",
-  "en": "",
-  "status": ""
+  "en": "I have no business with you now. Begone.",
+  "status": "done"
  },
  {
   "id": "event_2160_05575",
@@ -2393,8 +2393,8 @@
    33661
   ],
   "jp": "私を狙って、{n}ここにいるのではないのね？",
-  "en": "",
-  "status": ""
+  "en": "So you are not here because of me?",
+  "status": "done"
  },
  {
   "id": "event_2160_0559D",
@@ -2405,8 +2405,8 @@
    33862
   ],
   "jp": "さっき、崖から石が落ちた、{n}ストーンってな。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "A stone fell off the cliff just now. It hit rock bottom. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2160_055D8",
@@ -2417,8 +2417,8 @@
    33883
   ],
   "jp": "邪魔だ……",
-  "en": "",
-  "status": ""
+  "en": "You are in the way...",
+  "status": "done"
  },
  {
   "id": "event_2160_055E3",
@@ -2429,8 +2429,8 @@
    34084
   ],
   "jp": "あのときの大砲使いか……",
-  "en": "",
-  "status": ""
+  "en": "The cannon user from before...",
+  "status": "done"
  },
  {
   "id": "event_2160_055FC",
@@ -2441,8 +2441,8 @@
    34105
   ],
   "jp": "なによ？{n}だからどうしたって言うの？",
-  "en": "",
-  "status": ""
+  "en": "What of it? What's your point?",
+  "status": "done"
  },
  {
   "id": "event_2160_05620",
@@ -2453,8 +2453,8 @@
    34306
   ],
   "jp": "これも教団の意思、ってヤツか？",
-  "en": "",
-  "status": ""
+  "en": "Is this the \"will of the Order\" too?",
+  "status": "done"
  },
  {
   "id": "event_2160_0563F",
@@ -2465,8 +2465,8 @@
    34327
   ],
   "jp": "敵に語る口は持たぬ。{n}ただ、討ち滅ぼすのみ……",
-  "en": "",
-  "status": ""
+  "en": "I have no words for an enemy. Only destruction...",
+  "status": "done"
  },
  {
   "id": "event_2160_0566D",
@@ -2477,8 +2477,8 @@
    34528
   ],
   "jp": "ウンディーネを、{n}砂漠で見かけるとは……",
-  "en": "",
-  "status": ""
+  "en": "To see an Undine in the desert...",
+  "status": "done"
  },
  {
   "id": "event_2160_05695",
@@ -2489,8 +2489,8 @@
    34549
   ],
   "jp": "ウィック……{n}あっしも好きで来てるワケじゃ{n}ねぇっす、ヒック……",
-  "en": "",
-  "status": ""
+  "en": "*hic*... It ain't like I'm here 'cause I want to be, *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2160_056D4",
@@ -2501,8 +2501,8 @@
    34757
   ],
   "jp": "あー！{n}なーんかアンタとはこのまま因縁{n}抱えて付き合っちゃう感じする！",
-  "en": "",
-  "status": ""
+  "en": "Aah! I just know you and me are gonna be stuck with this grudge from here on!",
+  "status": "done"
  },
  {
   "id": "event_2160_05719",
@@ -2513,8 +2513,8 @@
    34778
   ],
   "jp": "そう、そんなパターンの予感②",
-  "en": "",
-  "status": ""
+  "en": "Yep, I've got a feeling it's that kind of story!",
+  "status": "done"
  },
  {
   "id": "event_2160_05736",
@@ -2525,8 +2525,8 @@
    34799
   ],
   "jp": "…何を言っている？",
-  "en": "",
-  "status": ""
+  "en": "...What are you talking about?",
+  "status": "done"
  },
  {
   "id": "event_2160_05749",
@@ -2537,8 +2537,8 @@
    36092
   ],
   "jp": "勢いはこちら側にある！{n}このまま押しまくれッ②",
-  "en": "",
-  "status": ""
+  "en": "The momentum's with us! Keep pushing!",
+  "status": "done"
  },
  {
   "id": "event_2160_05777",
@@ -2549,8 +2549,8 @@
    36113
   ],
   "jp": "くっ、決して下がるな。{n}荷を確保せよ。",
-  "en": "",
-  "status": ""
+  "en": "Tch, do not fall back. Secure the cargo.",
+  "status": "done"
  },
  {
   "id": "event_2160_0579D",
@@ -2561,8 +2561,8 @@
    36143
   ],
   "jp": "くそっ！　夜中だっていうのに、{n}なんて精密な射撃なんだ！",
-  "en": "",
-  "status": ""
+  "en": "Damn it! This late at night, and her shooting's still this precise!",
+  "status": "done"
  },
  {
   "id": "event_2160_057D5",
@@ -2573,8 +2573,8 @@
    36164
   ],
   "jp": "次は、命を取る。{n}去るならば、今だぞ……",
-  "en": "",
-  "status": ""
+  "en": "Next time I take your life. If you are leaving, now is the time...",
+  "status": "done"
  },
  {
   "id": "event_2160_057FD",
@@ -2585,8 +2585,8 @@
    36370
   ],
   "jp": "荷物は私達が頂くよ！",
-  "en": "",
-  "status": ""
+  "en": "We'll be taking that cargo!",
+  "status": "done"
  },
  {
   "id": "event_2160_05812",
@@ -2597,8 +2597,8 @@
    36391
   ],
   "jp": "この盗賊めが……",
-  "en": "",
-  "status": ""
+  "en": "You thieves...",
+  "status": "done"
  },
  {
   "id": "event_2160_05823",
@@ -2609,8 +2609,8 @@
    36412
   ],
   "jp": "うっ、ちょっと心が痛む……",
-  "en": "",
-  "status": ""
+  "en": "Ugh, that hurts my conscience a little...",
+  "status": "done"
  },
  {
   "id": "event_2160_0583E",
@@ -2621,8 +2621,8 @@
    36442
   ],
   "jp": "いてて、やるわね！",
-  "en": "",
-  "status": ""
+  "en": "Ow, ow, not bad!",
+  "status": "done"
  },
  {
   "id": "event_2160_05851",
@@ -2633,8 +2633,8 @@
    36463
   ],
   "jp": "だけどね！{n}私達、負けられないのよね②",
-  "en": "",
-  "status": ""
+  "en": "But hey! We can't afford to lose!",
+  "status": "done"
  },
  {
   "id": "event_2160_05877",
@@ -2645,8 +2645,8 @@
    36484
   ],
   "jp": "気持ちだけで、前には進めぬ。",
-  "en": "",
-  "status": ""
+  "en": "Feelings alone will not carry you forward.",
+  "status": "done"
  },
  {
   "id": "event_2160_05894",
@@ -2657,8 +2657,8 @@
    36690
   ],
   "jp": "お、おのれ……",
-  "en": "",
-  "status": ""
+  "en": "C-curse you...",
+  "status": "done"
  },
  {
   "id": "event_2160_058A3",
@@ -2669,8 +2669,8 @@
    36711
   ],
   "jp": "君のそんな顔、{n}見たかったわけじゃないんだ。{n}だけど許して、戦いだから。",
-  "en": "",
-  "status": ""
+  "en": "That's not the expression I wanted to see on you. But forgive me, this is war.",
+  "status": "done"
  },
  {
   "id": "event_2160_058EA",
@@ -2693,8 +2693,8 @@
    36762
   ],
   "jp": "やるなぁ、相変わらず…",
-  "en": "",
-  "status": ""
+  "en": "You're good, as always...",
+  "status": "done"
  },
  {
   "id": "event_2160_0590C",
@@ -2705,8 +2705,8 @@
    36783
   ],
   "jp": "邪魔をするなら、手段は選ばん。{n}これは警告だ……",
-  "en": "",
-  "status": ""
+  "en": "If you interfere, I will use any means. This is a warning...",
+  "status": "done"
  },
  {
   "id": "event_2160_0593C",
@@ -2717,8 +2717,8 @@
    36996
   ],
   "jp": "あたし達を追い詰める算段を、{n}今回は持ち合わせていないな……",
-  "en": "",
-  "status": ""
+  "en": "You don't have what it takes to corner us this time...",
+  "status": "done"
  },
  {
   "id": "event_2160_05978",
@@ -2729,8 +2729,8 @@
    37017
   ],
   "jp": "そう思うなら、勝手に思え。",
-  "en": "",
-  "status": ""
+  "en": "Think so if you like.",
+  "status": "done"
  },
  {
   "id": "event_2160_05993",
@@ -2741,8 +2741,8 @@
    37047
   ],
   "jp": "次は心の臓を狙う……",
-  "en": "",
-  "status": ""
+  "en": "Next time I aim for the heart...",
+  "status": "done"
  },
  {
   "id": "event_2160_059A8",
@@ -2753,8 +2753,8 @@
    37068
   ],
   "jp": "良い腕だ……{n}射撃の精度は、高い。{n}もっと素早く動かなければッ！",
-  "en": "",
-  "status": ""
+  "en": "Good skill... Her shooting's accurate. I need to move faster!",
+  "status": "done"
  },
  {
   "id": "event_2160_059E7",
@@ -2765,8 +2765,8 @@
    37281
   ],
   "jp": "弱い！",
-  "en": "",
-  "status": ""
+  "en": "Weak!",
+  "status": "done"
  },
  {
   "id": "event_2160_059EE",
@@ -2777,8 +2777,8 @@
    37302
   ],
   "jp": "クッ、言いたい事はそれだけか？",
-  "en": "",
-  "status": ""
+  "en": "Tch, is that all you have to say?",
+  "status": "done"
  },
  {
   "id": "event_2160_05A0D",
@@ -2789,8 +2789,8 @@
    37332
   ],
   "jp": "し、しまった……",
-  "en": "",
-  "status": ""
+  "en": "Oh, n-no...",
+  "status": "done"
  },
  {
   "id": "event_2160_05A1E",
@@ -2801,8 +2801,8 @@
    37353
   ],
   "jp": "死なずに済んだとは、{n}運だけは味方しているようだ……",
-  "en": "",
-  "status": ""
+  "en": "You did not die. At least luck is on your side...",
+  "status": "done"
  },
  {
   "id": "event_2160_05A52",
@@ -2813,8 +2813,8 @@
    37552
   ],
   "jp": "荷物を奪う気だな。{n}本当にもー、つかれるなぁ…{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "You want to take the baggage. Byff is tired of your baggage. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2160_05A8F",
@@ -2825,8 +2825,8 @@
    37573
   ],
   "jp": "愚弄するのか……",
-  "en": "",
-  "status": ""
+  "en": "Do you mock me...",
+  "status": "done"
  },
  {
   "id": "event_2160_05AA0",
@@ -2837,8 +2837,8 @@
    37603
   ],
   "jp": "ン？　もうこんな時間か……{n}獣人は１０時には眠くなるのだ。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Hm? This late already... Byff gets sleepy at ten. Time to hit the fur. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2160_05AE9",
@@ -2849,8 +2849,8 @@
    37624
   ],
   "jp": "ダ、ダジャレ……",
-  "en": "",
-  "status": ""
+  "en": "A-a pun...",
+  "status": "done"
  },
  {
   "id": "event_2160_05AFA",
@@ -2861,8 +2861,8 @@
    37823
   ],
   "jp": "大人しく引き下がりなさい。{n}死ぬわよ、あなた。",
-  "en": "",
-  "status": ""
+  "en": "Back down like a good girl. You'll die.",
+  "status": "done"
  },
  {
   "id": "event_2160_05B28",
@@ -2873,8 +2873,8 @@
    37844
   ],
   "jp": "命など、{n}任務に比べれば、軽い。",
-  "en": "",
-  "status": ""
+  "en": "My life is a small thing next to the mission.",
+  "status": "done"
  },
  {
   "id": "event_2160_05B48",
@@ -2885,8 +2885,8 @@
    37874
   ],
   "jp": "痛いわね、もう！",
-  "en": "",
-  "status": ""
+  "en": "That hurts, damn it!",
+  "status": "done"
  },
  {
   "id": "event_2160_05B59",
@@ -2897,8 +2897,8 @@
    37895
   ],
   "jp": "敢えて急所は外した。{n}次は容赦しない。",
-  "en": "",
-  "status": ""
+  "en": "I deliberately missed your vitals. Next time I will not be so kind.",
+  "status": "done"
  },
  {
   "id": "event_2160_05B7F",
@@ -2909,8 +2909,8 @@
    37916
   ],
   "jp": "…お生憎様。{n}そんな脅しで引き下がるほど、{n}お利巧な生き方してないのよ。",
-  "en": "",
-  "status": ""
+  "en": "...Too bad. I haven't lived such a clever life that a threat like that would make me back down.",
+  "status": "done"
  },
  {
   "id": "event_2160_05BC6",
@@ -2921,8 +2921,8 @@
    37923
   ],
   "jp": "媚びようが、跪こうが、{n}最後には欲しいものを手に入れる！{n}それが私の生きる道♪",
-  "en": "",
-  "status": ""
+  "en": "Flatter, kneel, whatever, in the end I get what I want! That's how I live ♪",
+  "status": "done"
  },
  {
   "id": "event_2160_05C13",
@@ -2933,8 +2933,8 @@
    38129
   ],
   "jp": "できる……",
-  "en": "",
-  "status": ""
+  "en": "Skilled...",
+  "status": "done"
  },
  {
   "id": "event_2160_05C1E",
@@ -2945,8 +2945,8 @@
    38150
   ],
   "jp": "それくらいでやめときなよ。{n}次は容赦しないぜ。",
-  "en": "",
-  "status": ""
+  "en": "Stop right there. Next time I won't go easy.",
+  "status": "done"
  },
  {
   "id": "event_2160_05C4C",
@@ -2957,8 +2957,8 @@
    38180
   ],
   "jp": "うわわっ…{n}夜中の戦闘は向こうに分があるか。",
-  "en": "",
-  "status": ""
+  "en": "Whoa, whoa... Night fighting favors her, I guess.",
+  "status": "done"
  },
  {
   "id": "event_2160_05C78",
@@ -2969,8 +2969,8 @@
    38386
   ],
   "jp": "ヒック、ウィ～…{n}かっちゃった、かな？",
-  "en": "",
-  "status": ""
+  "en": "*hic*, ooh... Did I win, maybe?",
+  "status": "done"
  },
  {
   "id": "event_2160_05C9E",
@@ -2981,8 +2981,8 @@
    38407
   ],
   "jp": "おのれ……",
-  "en": "",
-  "status": ""
+  "en": "Curse you...",
+  "status": "done"
  },
  {
   "id": "event_2160_05CA9",
@@ -2993,8 +2993,8 @@
    38437
   ],
   "jp": "ウィ～、ととと！{n}危ないわねぇ、もう。{n}酔いがヒドイわ、今日は……",
-  "en": "",
-  "status": ""
+  "en": "Ooh, whoa whoa! That's dangerous, jeez. I'm really drunk today...",
+  "status": "done"
  },
  {
   "id": "event_2160_05CEA",
@@ -3005,8 +3005,8 @@
    38458
   ],
   "jp": "次は頭蓋を貫く！{n}これは、警告だ……",
-  "en": "",
-  "status": ""
+  "en": "Next I pierce your skull! This is a warning...",
+  "status": "done"
  },
  {
   "id": "event_2160_05D0E",
@@ -3017,8 +3017,8 @@
    38664
   ],
   "jp": "イエ～ッス②{n}返り討ちにしてあげたわ！",
-  "en": "",
-  "status": ""
+  "en": "Yesss! I sure paid you back!",
+  "status": "done"
  },
  {
   "id": "event_2160_05D34",
@@ -3029,8 +3029,8 @@
    38685
   ],
   "jp": "気を練り直せ、ジルヴァ……",
-  "en": "",
-  "status": ""
+  "en": "Focus again, Zilva...",
+  "status": "done"
  },
  {
   "id": "event_2160_05D4F",
@@ -3041,8 +3041,8 @@
    38715
   ],
   "jp": "ムキィーッ②{n}遠くからチマチマチマチマチ…{n}だから弓兵は嫌なのよ！",
-  "en": "",
-  "status": ""
+  "en": "Grrrr! Sniping away from far off, bit by bit... This is why I hate archers!",
+  "status": "done"
  },
  {
   "id": "event_2160_05D90",
@@ -3053,8 +3053,8 @@
    38722
   ],
   "jp": "弓兵なんて、この星ごと{n}破壊してやろうかしら……",
-  "en": "",
-  "status": ""
+  "en": "Archers, maybe I should just wipe them out, this whole planet with them...",
+  "status": "done"
  },
  {
   "id": "event_2160_05DC0",
@@ -3065,8 +3065,8 @@
    25020
   ],
   "jp": "しまった、突破されたぞ！",
-  "en": "",
-  "status": ""
+  "en": "Damn, they broke through!",
+  "status": "done"
  },
  {
   "id": "event_2160_05DD9",
@@ -3077,8 +3077,8 @@
    25041
   ],
   "jp": "お生憎様！{n}盗賊風情に止められるほど、{n}私達はユルくないのよ！",
-  "en": "",
-  "status": ""
+  "en": "Too bad! We're not so slack that a bunch of thieves can stop us!",
+  "status": "done"
  },
  {
   "id": "event_2160_05E16",
@@ -3089,7 +3089,7 @@
    25089
   ],
   "jp": "もう追撃は間に合わない、な…",
-  "en": "",
-  "status": ""
+  "en": "Too late to chase them now...",
+  "status": "done"
  }
 ]

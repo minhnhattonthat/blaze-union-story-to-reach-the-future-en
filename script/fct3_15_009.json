@@ -4546,8 +4546,8 @@
    31609
   ],
   "jp": "そういえばリンゴもらったのよね。{n}ちょっと小腹も空いてるし{n}食べてみようかしら。",
-  "en": "",
-  "status": ""
+  "en": "Come to think of it, someone gave me an apple. I'm a bit peckish, so shall I try it?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C1DD",
@@ -4558,8 +4558,8 @@
    31681
   ],
   "jp": "あら？　なに、この感じ…{n}力が湧いてくるわ。",
-  "en": "",
-  "status": ""
+  "en": "Oh? What is this feeling... Power's welling up.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C209",
@@ -4570,8 +4570,8 @@
    31821
   ],
   "jp": "変な形ね、この木の実。{n}味はどうかしら？",
-  "en": "",
-  "status": ""
+  "en": "Odd shape, this nut. How's the taste, I wonder?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C231",
@@ -4582,8 +4582,8 @@
    31893
   ],
   "jp": "ふーん、結構いけるじゃない。{n}食感も面白いし。",
-  "en": "",
-  "status": ""
+  "en": "Hmm, not bad at all. Fun texture, too.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C25F",
@@ -4594,8 +4594,8 @@
    31961
   ],
   "jp": "メプルの果実ね。{n}懐かしい、昔よく食べてたわ。",
-  "en": "",
-  "status": ""
+  "en": "Mepuru fruit. How nostalgic, I used to eat these all the time.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C28D",
@@ -4606,8 +4606,8 @@
    32033
   ],
   "jp": "酸味がキツイ……{n}でも、これがメプルの果実の{n}ダイゴミよね。",
-  "en": "",
-  "status": ""
+  "en": "That's sharp... But that's the real charm of Mepuru fruit.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C2C8",
@@ -4618,8 +4618,8 @@
    32101
   ],
   "jp": "そういやブドウもらったんだわ。{n}甘い果物を食べると、{n}頭の回転が良くなるのよね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, right, someone gave me grapes. Sweet fruit makes your brain work faster, you know.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C317",
@@ -4630,8 +4630,8 @@
    32173
   ],
   "jp": "あら、イケるじゃない。",
-  "en": "",
-  "status": ""
+  "en": "Oh, these are good.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C32E",
@@ -4642,8 +4642,8 @@
    32241
   ],
   "jp": "これ、大分前に魔術アカデミーで{n}話題になった薬じゃないかしら？",
-  "en": "",
-  "status": ""
+  "en": "Isn't this the medicine that was all the talk at the magic academy a while back?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C36C",
@@ -4654,8 +4654,8 @@
    32313
   ],
   "jp": "噂通りに苦い薬ね。",
-  "en": "",
-  "status": ""
+  "en": "Bitter medicine, just as they say.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C37F",
@@ -4666,8 +4666,8 @@
    32381
   ],
   "jp": "青々としたリンゴだが…{n}本当に害はないんだろうな？",
-  "en": "",
-  "status": ""
+  "en": "A pretty green apple, but... you sure it's harmless?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C3B1",
@@ -4678,8 +4678,8 @@
    32453
   ],
   "jp": "うっ、何だコレ？　毒か？{n}気分が悪くなって来やがった…",
-  "en": "",
-  "status": ""
+  "en": "Ugh, what is this? Poison? I'm starting to feel sick...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C3E7",
@@ -4690,8 +4690,8 @@
    32521
   ],
   "jp": "とんでもねぇ色をしてるな…{n}だが、そんなことで物怖じする{n}俺じゃないぜ？",
-  "en": "",
-  "status": ""
+  "en": "That's some insane color... But that's not enough to scare me off.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C42E",
@@ -4702,8 +4702,8 @@
    32593
   ],
   "jp": "うぐっ、{n}身体が熱くなってきやがったぜ。{n}この果実の副作用ってわけか？",
-  "en": "",
-  "status": ""
+  "en": "Ngh, my body's heating up. Some side effect of this fruit?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C473",
@@ -4714,8 +4714,8 @@
    32661
   ],
   "jp": "もらったハーブだが…{n}いけ好かない匂いがするぜ。{n}喰っちまうか。",
-  "en": "",
-  "status": ""
+  "en": "These herbs I was given... I don't like the smell of them. I'll just eat them.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C4B2",
@@ -4726,8 +4726,8 @@
    32733
   ],
   "jp": "匂いだけじゃなく味まで甘いとは{n}ハラが立つぜ！",
-  "en": "",
-  "status": ""
+  "en": "The smell's sweet and now the taste is too. That pisses me off!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C4E0",
@@ -4738,8 +4738,8 @@
    32801
   ],
   "jp": "なんだか腹が減ったな……{n}こないだもらった果物でも喰うか。",
-  "en": "",
-  "status": ""
+  "en": "I'm kind of hungry... I'll eat that fruit I got the other day.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C51A",
@@ -4750,8 +4750,8 @@
    32873
   ],
   "jp": "……う、うまい！{n}なんだこれ、未体験の感覚だ。",
-  "en": "",
-  "status": ""
+  "en": "...G-good! What is this, I've never felt anything like it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C548",
@@ -4762,8 +4762,8 @@
    32941
   ],
   "jp": "金色のドゼウ？{n}聞いたことねぇぜ③",
-  "en": "",
-  "status": ""
+  "en": "A golden loach? Never heard of it?!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C56A",
@@ -4774,8 +4774,8 @@
    33013
   ],
   "jp": "……意外とうまかったな。",
-  "en": "",
-  "status": ""
+  "en": "...Surprisingly good.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C583",
@@ -4786,8 +4786,8 @@
    33091
   ],
   "jp": "なんだよ、{n}このドゼウ腐ってんじゃねぇか？",
-  "en": "",
-  "status": ""
+  "en": "What the hell, isn't this loach rotten?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C5AD",
@@ -4798,8 +4798,8 @@
    33109
   ],
   "jp": "いや、待てよ……{n}ひょっとしてコレ、{n}赤髪からの挑戦か……",
-  "en": "",
-  "status": ""
+  "en": "No, wait... Could this be a challenge from Red...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C5E6",
@@ -4810,8 +4810,8 @@
    33131
   ],
   "jp": "フッ！　受けて立つぜ！{n}この俺をあまり舐めるなよ②",
-  "en": "",
-  "status": ""
+  "en": "Hah! I accept! Don't underestimate me!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C618",
@@ -4822,8 +4822,8 @@
    33203
   ],
   "jp": "よしっ……{n}気分は悪いが、アイツの挑戦に{n}勝ってやったぜ……",
-  "en": "",
-  "status": ""
+  "en": "All right... I feel sick, but I beat his challenge...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C653",
@@ -4834,8 +4834,8 @@
    33285
   ],
   "jp": "肉を喰って力を蓄えるか。",
-  "en": "",
-  "status": ""
+  "en": "Guess I'll eat some meat and build up my strength.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C66C",
@@ -4846,8 +4846,8 @@
    33357
   ],
   "jp": "肉はやっぱうまいぜ！{n}よし、これでより戦えるぜ②",
-  "en": "",
-  "status": ""
+  "en": "Meat's the best after all! Good, now I can fight harder!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C69C",
@@ -4858,8 +4858,8 @@
    33425
   ],
   "jp": "腹が減ったら、{n}まともに戦闘なんかできないぜ。{n}もらったパンでも喰うか？",
-  "en": "",
-  "status": ""
+  "en": "You can't fight properly on an empty stomach. Should I eat that bread I got?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C6E3",
@@ -4870,8 +4870,8 @@
    33497
   ],
   "jp": "腹は落ち着いた、よし行くか。",
-  "en": "",
-  "status": ""
+  "en": "Stomach's settled. All right, let's go.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C700",
@@ -4882,8 +4882,8 @@
    33565
   ],
   "jp": "木の実でも、{n}腹に入れないよりはマシだろう。",
-  "en": "",
-  "status": ""
+  "en": "Even nuts are better than nothing in the stomach.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C72C",
@@ -4894,8 +4894,8 @@
    33637
   ],
   "jp": "さぁ喰ったし進撃するか！{n}行くぜ②",
-  "en": "",
-  "status": ""
+  "en": "Now I've eaten, let's move out! Here we go!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C74E",
@@ -4906,8 +4906,8 @@
    33921
   ],
   "jp": "おい、コレって凄く甘い食べ物{n}じゃなかったか？",
-  "en": "",
-  "status": ""
+  "en": "Hey, wasn't this supposed to be really sweet food?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C77C",
@@ -4918,8 +4918,8 @@
    33993
   ],
   "jp": "クッ、やっぱりそうかよ！{n}喰わなきゃよかったぜ……",
-  "en": "",
-  "status": ""
+  "en": "Tch, I knew it! Shouldn't have eaten that...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C7AE",
@@ -4930,8 +4930,8 @@
    34061
   ],
   "jp": "こいつを喰えば力を得られると{n}聞いたが…",
-  "en": "",
-  "status": ""
+  "en": "I heard eating this gives you strength, but...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C7D6",
@@ -4942,8 +4942,8 @@
    34133
   ],
   "jp": "…お、聞いた通りだぜ！{n}力が湧いてきた②",
-  "en": "",
-  "status": ""
+  "en": "...Oh, just like I heard! Strength's welling up!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C7FE",
@@ -4954,8 +4954,8 @@
    34201
   ],
   "jp": "マムシか…{n}栄養がある、と聞いたな。{n}どれ、喰ってみるか。",
-  "en": "",
-  "status": ""
+  "en": "Viper... I heard it's nutritious. Let's see, I'll try it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C837",
@@ -4966,8 +4966,8 @@
    34273
   ],
   "jp": "…うえっ、何だこの味！{n}くそっ！　ふざけるなよな②",
-  "en": "",
-  "status": ""
+  "en": "...Bleagh, what's that taste! Damn it! You've got to be kidding!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C869",
@@ -4979,8 +4979,8 @@
    34341
   ],
   "jp": "そういや、ドゼウがあったな…{n}腹が減ったし、喰うか。",
-  "en": "",
-  "status": ""
+  "en": "Right, I had a loach... I'm hungry, so I'll eat it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C89D",
@@ -4992,8 +4992,8 @@
    34413
   ],
   "jp": "生はいまいちと思って煮込んだが、{n}正解だったな。",
-  "en": "",
-  "status": ""
+  "en": "I didn't think much of it raw, so I stewed it. Good call.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C8CD",
@@ -5004,8 +5004,8 @@
    34481
   ],
   "jp": "おっと、ドラゴンの肉か。{n}これを喰ったら力が付きそうだな。",
-  "en": "",
-  "status": ""
+  "en": "Oh, dragon meat. Eating this ought to make me stronger.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C907",
@@ -5016,8 +5016,8 @@
    34553
   ],
   "jp": "ケッ、かてぇ肉だぜ。",
-  "en": "",
-  "status": ""
+  "en": "Tch, tough meat.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C91C",
@@ -5028,8 +5028,8 @@
    34621
   ],
   "jp": "オイ、ちょっと待て！{n}こんなもん喰えってのか？",
-  "en": "",
-  "status": ""
+  "en": "Hey, hold on! You expect me to eat this?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C94A",
@@ -5040,8 +5040,8 @@
    34693
   ],
   "jp": "クソッ、全然うまくねぇ。{n}なんで俺はこんなモノ{n}喰っちまったんだ。",
-  "en": "",
-  "status": ""
+  "en": "Damn, that's not good at all. Why did I eat something like this?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C98B",
@@ -5052,8 +5052,8 @@
    34761
   ],
   "jp": "変な形の果物だな。{n}どうやって喰うんだ、これ？",
-  "en": "",
-  "status": ""
+  "en": "Weird-shaped fruit. How do you eat this?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C9B9",
@@ -5064,8 +5064,8 @@
    34833
   ],
   "jp": "甘ったるいが、{n}意外にいけるじゃねぇか。",
-  "en": "",
-  "status": ""
+  "en": "Cloying, but surprisingly not bad.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1C9E1",
@@ -5076,8 +5076,8 @@
    34901
   ],
   "jp": "これがパワーフルーツ…{n}食べると力が増すという果物だな。",
-  "en": "",
-  "status": ""
+  "en": "So this is a Power Fruit... The fruit that's said to increase your strength.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CA19",
@@ -5088,8 +5088,8 @@
    34973
   ],
   "jp": "…ほう！{n}噂に嘘はなかったようだ。{n}力の高まりを感じるぞ②",
-  "en": "",
-  "status": ""
+  "en": "...Well! Looks like the rumors weren't lying. I can feel my power rising!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CA52",
@@ -5100,8 +5100,8 @@
    35041
   ],
   "jp": "トカゲかよ……{n}ま、喰えりゃ何でもいいけどな。",
-  "en": "",
-  "status": ""
+  "en": "Lizard, huh... Well, as long as it's edible, I don't care.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CA80",
@@ -5112,8 +5112,8 @@
    35113
   ],
   "jp": "なんだ、意外にいけるな。",
-  "en": "",
-  "status": ""
+  "en": "Huh, surprisingly not bad.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CA99",
@@ -5124,8 +5124,8 @@
    35321
   ],
   "jp": "腹が減ったな。{n}リンゴでも喰うか……",
-  "en": "",
-  "status": ""
+  "en": "I'm hungry. Guess I'll have an apple...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CABD",
@@ -5136,8 +5136,8 @@
    35393
   ],
   "jp": "…おおっ？{n}身体に力がみなぎってくるぜ…{n}これは、さっきのリンゴの力か！",
-  "en": "",
-  "status": ""
+  "en": "...Whoa? Strength's surging through my body... Is this the power of that apple?!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CB04",
@@ -5148,8 +5148,8 @@
    35533
   ],
   "jp": "なんか変な形の木の実だぜ。{n}これ、うまいのかよ？",
-  "en": "",
-  "status": ""
+  "en": "Weird-shaped nut. Is this any good?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CB34",
@@ -5160,8 +5160,8 @@
    35605
   ],
   "jp": "いけるな……、意外に。",
-  "en": "",
-  "status": ""
+  "en": "Not bad... surprisingly.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CB4B",
@@ -5172,8 +5172,8 @@
    35673
   ],
   "jp": "なんだか小腹が減ったな。{n}そういや果実があったっけ。{n}喰ってみるか。",
-  "en": "",
-  "status": ""
+  "en": "I'm a little hungry. Right, I had some fruit. Let's try it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CB8E",
@@ -5184,8 +5184,8 @@
    35745
   ],
   "jp": "……くっ！{n}こ、ここ、この程度の酸味で{n}俺の気が動転するかよッ②",
-  "en": "",
-  "status": ""
+  "en": "...Gh! Th-th-this much sourness isn't enough to rattle me!!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CBCD",
@@ -5196,8 +5196,8 @@
    35813
   ],
   "jp": "どれ、ブドウでも喰うか。",
-  "en": "",
-  "status": ""
+  "en": "All right, I'll have some grapes.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CBE6",
@@ -5208,8 +5208,8 @@
    35885
   ],
   "jp": "ケッ、甘ったるいぜ。{n}でも…、うまいよな、コレ……",
-  "en": "",
-  "status": ""
+  "en": "Tch, cloying. But... these are good, aren't they...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CC18",
@@ -5220,8 +5220,8 @@
    36025
   ],
   "jp": "蒼いリンゴとはな。{n}どれ、１つもらうか…",
-  "en": "",
-  "status": ""
+  "en": "A blue apple, then. Let's see, I'll take one...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CC40",
@@ -5232,8 +5232,8 @@
    36097
   ],
   "jp": "うむっ、この感覚……{n}毒を有するリンゴだな。{n}ゲハッ、ゲハッ！",
-  "en": "",
-  "status": ""
+  "en": "Hmph, this feeling... An apple with poison in it. *cough, cough!*",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CC7D",
@@ -5244,8 +5244,8 @@
    36165
   ],
   "jp": "面妖な外観の果実だ。{n}果たして……",
-  "en": "",
-  "status": ""
+  "en": "Fruit of bizarre appearance. Let us see...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CC9F",
@@ -5256,8 +5256,8 @@
    36237
   ],
   "jp": "うむむ、{n}血肉が躍るような感じがする。",
-  "en": "",
-  "status": ""
+  "en": "Hmm, hmm, it feels as if my flesh and blood are dancing.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CCC5",
@@ -5268,8 +5268,8 @@
    36308
   ],
   "jp": "このハーブ、{n}女性の使う御香のような香りだ。",
-  "en": "",
-  "status": ""
+  "en": "This herb smells like the incense women use.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CCF1",
@@ -5280,8 +5280,8 @@
    36330
   ],
   "jp": "……戦場にはあまりにも不似合い。{n}食べてしまおうぞ。",
-  "en": "",
-  "status": ""
+  "en": "...All too out of place on a battlefield. I'll eat it and be done.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CD25",
@@ -5292,8 +5292,8 @@
    36402
   ],
   "jp": "やはり香りと同様に甘いな。{n}しかしなんだ、この至福感は……",
-  "en": "",
-  "status": ""
+  "en": "As sweet as its scent, then. But what is this blissful feeling...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CD5F",
@@ -5304,8 +5304,8 @@
    36477
   ],
   "jp": "リンゴ…？{n}ではないようだが…",
-  "en": "",
-  "status": ""
+  "en": "An apple...? No, it seems not...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CD7D",
@@ -5316,8 +5316,8 @@
    36549
   ],
   "jp": "これは、うまいな……{n}この味は人間をダメにする！",
-  "en": "",
-  "status": ""
+  "en": "This is good, lad... A taste like this would ruin a man!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CDAD",
@@ -5328,8 +5328,8 @@
    36617
   ],
   "jp": "金に光るドゼウ…{n}以前、一度だけ耳にしたが、{n}まさか実在するとは…",
-  "en": "",
-  "status": ""
+  "en": "A loach that glows gold... I heard of one once, but who'd have thought they were real...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CDEE",
@@ -5340,8 +5340,8 @@
    36689
   ],
   "jp": "だが、軍にとって珍しさなど、{n}特に重要なものではない。{n}兵糧として消費させてもらうぞ。",
-  "en": "",
-  "status": ""
+  "en": "Still, to an army, rarity matters little. I'll have it used as provisions.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CE43",
@@ -5352,8 +5352,8 @@
    36757
   ],
   "jp": "腐っていても、喰えぬ事はない。",
-  "en": "",
-  "status": ""
+  "en": "Rotten or not, it's not inedible.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CE62",
@@ -5364,8 +5364,8 @@
    36829
   ],
   "jp": "だが…、{n}わざわざ喰う必要もなかったと、{n}今にして思うのだ。",
-  "en": "",
-  "status": ""
+  "en": "But... it occurs to me now that there was no need to go out of my way to eat it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CE9D",
@@ -5376,8 +5376,8 @@
    36890
   ],
   "jp": "戦場で食糧を調達し、{n}それを軍糧とする。{n}実に合理的な戦略だ…",
-  "en": "",
-  "status": ""
+  "en": "Procure food on the battlefield and make it your provisions. Truly rational strategy...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CEDA",
@@ -5388,8 +5388,8 @@
    36951
   ],
   "jp": "肉を喰いて、鋭気が満たされた。",
-  "en": "",
-  "status": ""
+  "en": "Meat eaten, spirit restored.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CEF9",
@@ -5400,8 +5400,8 @@
    37012
   ],
   "jp": "戦場では、パンの一切れでも{n}決してムダにしてはならぬ。",
-  "en": "",
-  "status": ""
+  "en": "On the battlefield, never waste so much as a slice of bread.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CF2F",
@@ -5412,8 +5412,8 @@
    37084
   ],
   "jp": "…では、進軍再開だ！",
-  "en": "",
-  "status": ""
+  "en": "...Now, resume the march!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CF44",
@@ -5424,8 +5424,8 @@
    37152
   ],
   "jp": "たかが木の実と侮るな。{n}たった１粒で、耐え凌げる{n}戦況もあるのだ。",
-  "en": "",
-  "status": ""
+  "en": "Don't scorn them as mere nuts, lad. There are battles a single nut can see you through.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CF85",
@@ -5436,8 +5436,8 @@
    37224
   ],
   "jp": "ふむ、なかなかの美味よ。",
-  "en": "",
-  "status": ""
+  "en": "Hmm, quite tasty.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CF9E",
@@ -5448,8 +5448,8 @@
    37292
   ],
   "jp": "食糧の補給をするとしよう…",
-  "en": "",
-  "status": ""
+  "en": "Let's resupply...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1CFB9",
@@ -5460,8 +5460,8 @@
    37364
   ],
   "jp": "なかなか上物のチーズだ。{n}戦場でもなければ、{n}酒が欲しくなるところだな……",
-  "en": "",
-  "status": ""
+  "en": "A fine cheese indeed. If not for the battlefield, I'd be wanting a drink with it...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D002",
@@ -5472,8 +5472,8 @@
    37576
   ],
   "jp": "わざわざいただいたのだ。{n}ありがたく頂戴する。",
-  "en": "",
-  "status": ""
+  "en": "It was kindly given. I accept it with thanks.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D030",
@@ -5484,8 +5484,8 @@
    37648
   ],
   "jp": "……まこと、甘ったるいものよ。",
-  "en": "",
-  "status": ""
+  "en": "...Truly a cloying thing.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D04F",
@@ -5496,8 +5496,8 @@
    37716
   ],
   "jp": "チカラダケか。{n}食せば力が得られるという…",
-  "en": "",
-  "status": ""
+  "en": "A Power Cap. Eat it, they say, and gain strength...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D079",
@@ -5508,8 +5508,8 @@
    37788
   ],
   "jp": "…ふむ！{n}若い頃の昂りを取り戻したようだ。",
-  "en": "",
-  "status": ""
+  "en": "...Hmph! It feels like I've regained the fire of my youth.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D0A3",
@@ -5520,8 +5520,8 @@
    37856
   ],
   "jp": "空腹に陥らぬためだ。{n}選り好みせずに腹に入れるのだ。",
-  "en": "",
-  "status": ""
+  "en": "This is to stave off hunger. Don't be picky, get it down.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D0D7",
@@ -5532,8 +5532,8 @@
    37928
   ],
   "jp": "ふむ、喰えぬ事もあるまい。{n}うまいとは言いがたいが……",
-  "en": "",
-  "status": ""
+  "en": "Hmph, not inedible. Though I couldn't call it tasty...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D10D",
@@ -5545,8 +5545,8 @@
    37996
   ],
   "jp": "もらったドゼウを食するとしよう。",
-  "en": "",
-  "status": ""
+  "en": "I'll eat this loach I was given.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D12E",
@@ -5558,8 +5558,8 @@
    38068
   ],
   "jp": "ふむ、なかなかいけるな……",
-  "en": "",
-  "status": ""
+  "en": "Hmph, quite good...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D149",
@@ -5570,8 +5570,8 @@
    38136
   ],
   "jp": "食糧を戦場で調達すれば、{n}糧道の負担がその分減る……{n}見事な軍略よ。",
-  "en": "",
-  "status": ""
+  "en": "Procure food on the battlefield, and the burden on the supply lines drops accordingly... Fine strategy.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D18C",
@@ -5582,8 +5582,8 @@
    38208
   ],
   "jp": "屠った竜を喰らいて、{n}己が力と為す、であるな。",
-  "en": "",
-  "status": ""
+  "en": "Devour the dragon you've slain, and make its power your own, so to speak.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D1BA",
@@ -5594,8 +5594,8 @@
    38276
   ],
   "jp": "イモか……{n}保存も効くし、栄養もある。{n}軍糧としてはもってこいだが…",
-  "en": "",
-  "status": ""
+  "en": "A potato... Keeps well, and it's nutritious. Perfect army rations, but...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D1FD",
@@ -5606,8 +5606,8 @@
    38348
   ],
   "jp": "さすがに芽が生えていてはな…{n}マズイ！",
-  "en": "",
-  "status": ""
+  "en": "Even so, with sprouts on it... Foul!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D223",
@@ -5618,8 +5618,8 @@
    38416
   ],
   "jp": "珍しい、バナナンの実か。{n}拙者も童だった頃、{n}これを食べるのに焦がれたもの…",
-  "en": "",
-  "status": ""
+  "en": "A rare Bananan. When I was a boy, I yearned to eat these...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D26E",
@@ -5630,8 +5630,8 @@
    38488
   ],
   "jp": "美味だな。",
-  "en": "",
-  "status": ""
+  "en": "Delicious.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D279",
@@ -5642,8 +5642,8 @@
    38556
   ],
   "jp": "パワーフルーツか。{n}拙者のような老境の者には、{n}勿体ない物とも思えるが…",
-  "en": "",
-  "status": ""
+  "en": "Power Fruit. It seems wasted on an old-timer like me, but...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D2C0",
@@ -5654,8 +5654,8 @@
    38628
   ],
   "jp": "力が湧いてくるのを感じる。{n}うぬ、若い連中にはまだまだ{n}負けていられない！",
-  "en": "",
-  "status": ""
+  "en": "I can feel strength welling up. Hmph, I won't lose to the youngsters yet!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D309",
@@ -5666,8 +5666,8 @@
    38696
   ],
   "jp": "干したトカゲを火で炙り、{n}軍糧としよう。",
-  "en": "",
-  "status": ""
+  "en": "Toast some dried lizard over the fire and call it rations.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D331",
@@ -5678,8 +5678,8 @@
    38768
   ],
   "jp": "……悪くない味だな。",
-  "en": "",
-  "status": ""
+  "en": "...Not a bad taste.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D346",
@@ -5690,8 +5690,8 @@
    38976
   ],
   "jp": "リンゴは好みではないが、{n}戦場で補給されたものに{n}ワガママは言うまい。",
-  "en": "",
-  "status": ""
+  "en": "I'm no lover of apples, but I won't be choosy about battlefield supplies.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D38B",
@@ -5702,8 +5702,8 @@
    39048
   ],
   "jp": "……おお？{n}力が湧いてきたぞ。{n}リンゴ、侮るべからず！",
-  "en": "",
-  "status": ""
+  "en": "...Oh? I can feel strength welling up. Never underestimate an apple!",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D3C0",
@@ -5714,8 +5714,8 @@
    39188
   ],
   "jp": "木の実を食するとしよう。",
-  "en": "",
-  "status": ""
+  "en": "I'll eat these nuts.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D3D9",
@@ -5726,8 +5726,8 @@
    39260
   ],
   "jp": "…ふむ。{n}形は奇妙だが、味は悪くない。",
-  "en": "",
-  "status": ""
+  "en": "...Hmph. Strange shape, but the taste is not bad.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D3FF",
@@ -5738,8 +5738,8 @@
    39328
   ],
   "jp": "メプルの果実か…{n}酸味の強さは、兵の疲労を{n}回復させてくれるであろう。",
-  "en": "",
-  "status": ""
+  "en": "Mepuru fruit... That strong sourness should help the soldiers recover from fatigue.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D444",
@@ -5750,8 +5750,8 @@
    39400
   ],
   "jp": "うぬ、疲れが取れていく……",
-  "en": "",
-  "status": ""
+  "en": "Hmph, the weariness is lifting...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D45F",
@@ -5762,8 +5762,8 @@
    39468
   ],
   "jp": "せっかく譲り受けたブドウ…{n}ありがたく頂戴しよう。",
-  "en": "",
-  "status": ""
+  "en": "Grapes, generously passed on to me... I accept with thanks.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D491",
@@ -5774,8 +5774,8 @@
    39540
   ],
   "jp": "うぬ、なかなかの美味。{n}馳走になった……",
-  "en": "",
-  "status": ""
+  "en": "Hmph, quite delicious. A fine treat...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D4B9",
@@ -5786,8 +5786,8 @@
    39608
   ],
   "jp": "このような薬に頼らずとも、{n}拙者はよいと思うのだが……",
-  "en": "",
-  "status": ""
+  "en": "I don't think I need to rely on medicine like this, myself...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D4EF",
@@ -5798,8 +5798,8 @@
    39680
   ],
   "jp": "何も変わったようには思えぬな。{n}やはり己で研鑚を積むのが{n}一番、というわけか…",
-  "en": "",
-  "status": ""
+  "en": "I don't feel any change. So training yourself really is best, is it...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D53C",
@@ -5810,8 +5810,8 @@
    39741
   ],
   "jp": "このリンゴ、{n}食べられるのですか…？",
-  "en": "",
-  "status": ""
+  "en": "This apple, can it be eaten...?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D560",
@@ -5822,8 +5822,8 @@
    39802
   ],
   "jp": "……フフフ。{n}これはあまりイイ食べ物とは{n}言いがたいようですね。",
-  "en": "",
-  "status": ""
+  "en": "...Hehehe. It seems I cannot call this a very good food.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D59F",
@@ -5834,8 +5834,8 @@
    39863
   ],
   "jp": "なんと毒々しい果実でしょうか…",
-  "en": "",
-  "status": ""
+  "en": "What a poisonous-looking fruit...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D5BE",
@@ -5846,8 +5846,8 @@
    39935
   ],
   "jp": "…なるほど。{n}魔界の果実というわけですね。{n}フフフ……",
-  "en": "",
-  "status": ""
+  "en": "...I see. So it is a fruit of the Demon World. Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D5F3",
@@ -5858,8 +5858,8 @@
    40003
   ],
   "jp": "この匂い…{n}先程いただいたミントの{n}ものですね？",
-  "en": "",
-  "status": ""
+  "en": "This scent... It is the mint I was given earlier, is it not?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D622",
@@ -5870,8 +5870,8 @@
    40075
   ],
   "jp": "どれ、{n}１ついただくことにしましょう。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Well then, I will have one, I suppose. Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D651",
@@ -5882,8 +5882,8 @@
    40143
   ],
   "jp": "いやはや、なんというか…",
-  "en": "",
-  "status": ""
+  "en": "Well, well, how shall I put it...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D66A",
@@ -5894,8 +5894,8 @@
    40215
   ],
   "jp": "珍しい、などという言葉では{n}済まないほどの希少性のある{n}果実ですね……",
-  "en": "",
-  "status": ""
+  "en": "A fruit so scarce that the word \"rare\" does not begin to cover it, you see...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D6AF",
@@ -5906,8 +5906,8 @@
    40283
   ],
   "jp": "金に光るドゼウですか…{n}珍しい生き物ですね。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "A loach glowing gold... What a rare creature. Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D6E4",
@@ -5918,8 +5918,8 @@
    40355
   ],
   "jp": "色が違うだけで味は同じですね。{n}人によっては色に騙されて、{n}おいしいと感じるでしょうが……",
-  "en": "",
-  "status": ""
+  "en": "Only the color differs; the taste is the same. Though some, fooled by the color, will call it delicious...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D73D",
@@ -5930,8 +5930,8 @@
    40495
   ],
   "jp": "焼かれたグリフの肉ですか。{n}フフフ……",
-  "en": "",
-  "status": ""
+  "en": "Roast griffon meat, is it? Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D763",
@@ -5942,8 +5942,8 @@
    40567
   ],
   "jp": "できれば、血の滴る生肉の方が{n}良かったのですが……",
-  "en": "",
-  "status": ""
+  "en": "If I could, I would have preferred raw meat, dripping with blood...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D795",
@@ -5954,8 +5954,8 @@
    40635
   ],
   "jp": "パンでも食べますか……{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Shall I have some bread... Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D7B5",
@@ -5966,8 +5966,8 @@
    40707
   ],
   "jp": "さて、進軍を再開しましょう。",
-  "en": "",
-  "status": ""
+  "en": "Well then, let us resume the march.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D7D2",
@@ -5978,8 +5978,8 @@
    40775
   ],
   "jp": "木の実でも食べましょうか。",
-  "en": "",
-  "status": ""
+  "en": "Shall I have some nuts?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D7ED",
@@ -5990,8 +5990,8 @@
    40847
   ],
   "jp": "…噛み応えがありますね。",
-  "en": "",
-  "status": ""
+  "en": "...They are quite chewy.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D806",
@@ -6002,8 +6002,8 @@
    40915
   ],
   "jp": "さて、チーズを食べましょうか。",
-  "en": "",
-  "status": ""
+  "en": "Well then, shall I have some cheese?",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D825",
@@ -6014,8 +6014,8 @@
    40987
   ],
   "jp": "おや、これはなかなかの味。{n}さすがは天然モノですね。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, this tastes rather fine. Natural, as one would expect.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D859",
@@ -6026,8 +6026,8 @@
    41192
   ],
   "jp": "…ほう。{n}これが人間の若い女性の間で{n}流行している果実ですか。",
-  "en": "",
-  "status": ""
+  "en": "...Ah. So this is the fruit so popular among young human women.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D896",
@@ -6038,8 +6038,8 @@
    41253
   ],
   "jp": "なるほど、なるほど。{n}フフフ……",
-  "en": "",
-  "status": ""
+  "en": "I see, I see. Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D8B6",
@@ -6050,8 +6050,8 @@
    41307
   ],
   "jp": "キノコですか…{n}森ではよく見かけますね。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Mushrooms... One often sees them in the forest. Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D8E7",
@@ -6062,8 +6062,8 @@
    41368
   ],
   "jp": "ほう、身体中に力が…{n}これは機能性食品ですね。",
-  "en": "",
-  "status": ""
+  "en": "Ah, power through my whole body... This is what you might call a functional food.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D915",
@@ -6074,8 +6074,8 @@
    41429
   ],
   "jp": "マムシ、ですか。{n}あまり気は進みませんが…",
-  "en": "",
-  "status": ""
+  "en": "Viper, is it? I am not very keen, but...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D93F",
@@ -6086,8 +6086,8 @@
    41501
   ],
   "jp": "ええ、やはりおいしくは{n}ありませんねぇ…",
-  "en": "",
-  "status": ""
+  "en": "Yes, it is not delicious after all, is it...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D967",
@@ -6099,8 +6099,8 @@
    41562
   ],
   "jp": "川魚ですか。{n}さて、一体どんな味なのか…",
-  "en": "",
-  "status": ""
+  "en": "A river fish. Now then, how might it taste...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D98F",
@@ -6112,8 +6112,8 @@
    41623
   ],
   "jp": "……生で食べるものでは、{n}ありませんね。",
-  "en": "",
-  "status": ""
+  "en": "...This is not meant to be eaten raw, is it.",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D9B7",
@@ -6124,8 +6124,8 @@
    41677
   ],
   "jp": "ドラゴンの肉のステーキ、ですか。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "A dragon meat steak, is it? Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D9E1",
@@ -6136,8 +6136,8 @@
    41738
   ],
   "jp": "鳥肉の固い感じですね……",
-  "en": "",
-  "status": ""
+  "en": "Rather like tough chicken...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1D9FA",
@@ -6148,8 +6148,8 @@
    41799
   ],
   "jp": "ほう、これは発芽したイモですか。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Ah, a sprouted potato. Hehehe...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1DA24",
@@ -6160,8 +6160,8 @@
    41871
   ],
   "jp": "当然、おいしくはないですね。{n}お腹を壊すかもしれません……",
-  "en": "",
-  "status": ""
+  "en": "Naturally, it is not delicious. It may upset my stomach...",
+  "status": "done"
  },
  {
   "id": "fct3_15_009_1DA5E",

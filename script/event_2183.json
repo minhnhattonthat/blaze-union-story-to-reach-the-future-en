@@ -8,8 +8,8 @@
    8643
   ],
   "jp": "{voice:006F0D}ああ、{n}ティエラの街が燃えている……",
-  "en": "",
-  "status": ""
+  "en": "Oh, the city of Tiera is burning...",
+  "status": "done"
  },
  {
   "id": "event_2183_00050",
@@ -20,8 +20,8 @@
    8673
   ],
   "jp": "{voice:00700D}この世の終わりみたい。{n}さすがに背筋がゾッとするわね…",
-  "en": "",
-  "status": ""
+  "en": "It looks like the end of the world. Even I get a chill down my spine...",
+  "status": "done"
  },
  {
   "id": "event_2183_0008A",
@@ -32,8 +32,8 @@
    8703
   ],
   "jp": "{voice:00710D}一般の市民が巻き込まれている…",
-  "en": "",
-  "status": ""
+  "en": "Ordinary citizens are caught up in this...",
+  "status": "done"
  },
  {
   "id": "event_2183_000AD",
@@ -44,8 +44,8 @@
    8830
   ],
   "jp": "{voice:00720D}マシュマロ、焼きたいな。",
-  "en": "",
-  "status": ""
+  "en": "Byff wants to toast marshmallows.",
+  "status": "done"
  },
  {
   "id": "event_2183_000CA",
@@ -56,8 +56,8 @@
    8848
   ],
   "jp": "{voice:00730D}フサフサ！{n}こう言う時に冗談はよせ。",
-  "en": "",
-  "status": ""
+  "en": "Fuzzy! No jokes at a time like this.",
+  "status": "done"
  },
  {
   "id": "event_2183_000F2",
@@ -68,8 +68,8 @@
    8866
   ],
   "jp": "{voice:00740D}ん？　バイフー、すまなかった。",
-  "en": "",
-  "status": ""
+  "en": "Hm? Byff is sorry.",
+  "status": "done"
  },
  {
   "id": "event_2183_00115",
@@ -80,8 +80,8 @@
    8988
   ],
   "jp": "{voice:00750D}ネシア、オメェこうなる事{n}わかってたんだろ？",
-  "en": "",
-  "status": ""
+  "en": "Nessiah, you knew this would happen, didn't you?",
+  "status": "done"
  },
  {
   "id": "event_2183_00145",
@@ -104,8 +104,8 @@
    9013
   ],
   "jp": "{voice:00760D}危惧はしていましたが、{n}ここまで早期に、しかもこの規模{n}とは想像もしていませんでした。",
-  "en": "",
-  "status": ""
+  "en": "I had feared it, but I did not imagine it would come so soon, nor on such a scale.",
+  "status": "done"
  },
  {
   "id": "event_2183_001A9",
@@ -116,8 +116,8 @@
    9020
   ],
   "jp": "{voice:00770D}私も人間です。{n}予測や預言にも限界はあります。",
-  "en": "",
-  "status": ""
+  "en": "I am only human as well. Forecasts and prophecies have their limits.",
+  "status": "done"
  },
  {
   "id": "event_2183_001DB",
@@ -128,8 +128,8 @@
    9038
   ],
   "jp": "{voice:00780D}ふぅーん、{n}オメェ、ここでは人間のフリか？{n}まぁ、勝手にすりゃいいけどな。",
-  "en": "",
-  "status": ""
+  "en": "Huh. So here you're playing human, are you? Well, suit yourself.",
+  "status": "done"
  },
  {
   "id": "event_2183_00228",
@@ -140,8 +140,8 @@
    9142
   ],
   "jp": "{voice:00790D}あちちっ！　あたしの素敵な服に{n}火の粉が燃え移っちゃうわ！{n}誰か鎮火しなさい、鎮火ーッ②",
-  "en": "",
-  "status": ""
+  "en": "Hot, hot! Sparks on Pamela-sama's lovely clothes! Somebody put them out, put them ooout!!",
+  "status": "done"
  },
  {
   "id": "event_2183_00283",
@@ -152,8 +152,8 @@
    9230
   ],
   "jp": "{voice:007A0D}これじゃあ…{n}まるっきり虐殺じゃないか。",
-  "en": "",
-  "status": ""
+  "en": "This is... This is nothing but a massacre.",
+  "status": "done"
  },
  {
   "id": "event_2183_002AF",
@@ -164,8 +164,8 @@
    9318
   ],
   "jp": "{voice:007B0D}とてつもない熱気ね。{n}こりゃぁ、酔いもさめるわ。{n}……ヒック。",
-  "en": "",
-  "status": ""
+  "en": "What an awful heat. Burns the drunk right outta me. ...*hic*.",
+  "status": "done"
  },
  {
   "id": "event_2183_002F0",
@@ -176,8 +176,8 @@
    9325
   ],
   "jp": "{voice:007C0D}ここまでやるなんてねぇ……{n}ヒック、ホント人間って業が深い。",
-  "en": "",
-  "status": ""
+  "en": "Goin' this far... *hic* Humans sure do carry a lotta sin.",
+  "status": "done"
  },
  {
   "id": "event_2183_00330",
@@ -188,8 +188,8 @@
    9436
   ],
   "jp": "{voice:007D0D}……なに、…これ。{n}ネザー地区の人達が何したって{n}言うのよ！",
-  "en": "",
-  "status": ""
+  "en": "...What... is this. What did the people of the Nether District ever do to anyone!",
+  "status": "done"
  },
  {
   "id": "event_2183_0036F",
@@ -200,8 +200,8 @@
    9454
   ],
   "jp": "{voice:007E0D}戦火に呑まれ、失われるのは{n}いつの時代も無辜の民か……",
-  "en": "",
-  "status": ""
+  "en": "Swallowed by the fires of war, lost in every age: the innocent people...",
+  "status": "done"
  },
  {
   "id": "event_2183_003A9",
@@ -224,8 +224,8 @@
    9555
   ],
   "jp": "{voice:007F0D}団長。{n}ネザー地区の破壊は反乱軍に{n}それほど利があるとは思えません。",
-  "en": "",
-  "status": ""
+  "en": "Captain. I cannot believe that destroying the Nether District gains the rebels very much.",
+  "status": "done"
  },
  {
   "id": "event_2183_003FB",
@@ -236,8 +236,8 @@
    9562
   ],
   "jp": "{voice:00800D}奴らの狙いは、我々の挑発です。{n}ここで我々とすべての決着を{n}つけるつもりでしょう。",
-  "en": "",
-  "status": ""
+  "en": "Their aim is to provoke us. They intend to settle everything with us here.",
+  "status": "done"
  },
  {
   "id": "event_2183_00450",
@@ -248,8 +248,8 @@
    9580
   ],
   "jp": "{voice:00810D}俺達をおびき出す為に、{n}この街に火を付けたという事か？",
-  "en": "",
-  "status": ""
+  "en": "You mean they set this city on fire just to lure us out?",
+  "status": "done"
  },
  {
   "id": "event_2183_0048A",
@@ -260,8 +260,8 @@
    9598
   ],
   "jp": "{voice:00820D}俺達の怒り、奴らにぶつけてやる！",
-  "en": "",
-  "status": ""
+  "en": "Then we'll throw our rage right back at them!",
+  "status": "done"
  },
  {
   "id": "event_2183_004AF",
@@ -272,8 +272,8 @@
    9702
   ],
   "jp": "{voice:00830D}そうなれば、反乱軍の思う壺。",
-  "en": "",
-  "status": ""
+  "en": "That would be playing into the rebels' hands.",
+  "status": "done"
  },
  {
   "id": "event_2183_004D0",
@@ -284,8 +284,8 @@
    9709
   ],
   "jp": "{voice:00840D}感情で戦えば、個人の戦闘力は{n}上がるでしょうが、軍団としての{n}戦力は三割下がります。",
-  "en": "",
-  "status": ""
+  "en": "Fight on emotion and your individual prowess may rise, but your strength as an army falls by thirty percent.",
+  "status": "done"
  },
  {
   "id": "event_2183_00527",
@@ -296,8 +296,8 @@
    9716
   ],
   "jp": "{voice:00850D}集団戦は、戦術と指揮と整った{n}行動によって成り立つのです。{n}それをお忘れ無きよう。",
-  "en": "",
-  "status": ""
+  "en": "Battles between armies rest on tactics, command and orderly action. Do not forget that, if you please.",
+  "status": "done"
  },
  {
   "id": "event_2183_0057C",
@@ -308,8 +308,8 @@
    9734
   ],
   "jp": "{voice:00860D}認めたくないけれど、{n}それはネシアの言う通りだ。",
-  "en": "",
-  "status": ""
+  "en": "I hate to admit it, but Nessiah's right about that.",
+  "status": "done"
  },
  {
   "id": "event_2183_005B0",
@@ -320,8 +320,8 @@
    9752
   ],
   "jp": "{voice:00870D}ガーロットよ。{n}今、優先すべきは住民の救出だ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot. What must come first right now is rescuing the residents.",
+  "status": "done"
  },
  {
   "id": "event_2183_005E2",
@@ -332,8 +332,8 @@
    9770
   ],
   "jp": "{voice:00880D}私はニーベル街区で、{n}受け入れの準備を進めておく。{n}お前達は避難民を誘導せよ。",
-  "en": "",
-  "status": ""
+  "en": "I will prepare to receive them in the Nibel Quarter. You lead the refugees there.",
+  "status": "done"
  },
  {
   "id": "event_2183_00633",
@@ -344,8 +344,8 @@
    9788
   ],
   "jp": "{voice:00890D}……そうだったな。{n}一瞬、怒りに支配されて、{n}我を忘れるところだったぜ。",
-  "en": "",
-  "status": ""
+  "en": "...Yeah, you're right. For a second my anger took over and I almost lost my head.",
+  "status": "done"
  },
  {
   "id": "event_2183_0067E",
@@ -356,8 +356,8 @@
    9806
   ],
   "jp": "{voice:008A0D}まあ、それもよい兆候ですがね…",
-  "en": "",
-  "status": ""
+  "en": "Well, that too is a good sign, however...",
+  "status": "done"
  },
  {
   "id": "event_2183_006A1",
@@ -368,8 +368,8 @@
    9882
   ],
   "jp": "{voice:008B0D}ん？　何か言ったか？",
-  "en": "",
-  "status": ""
+  "en": "Hm? You say something?",
+  "status": "done"
  },
  {
   "id": "event_2183_006BA",
@@ -380,8 +380,8 @@
    9900
   ],
   "jp": "{voice:008C0D}いえ、なにも。",
-  "en": "",
-  "status": ""
+  "en": "No, nothing.",
+  "status": "done"
  },
  {
   "id": "event_2183_006CD",
@@ -392,8 +392,8 @@
    9918
   ],
   "jp": "{voice:008D0D}…よし、任せたぞ、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "...Very well, I leave it to you, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2183_006F0",
@@ -404,8 +404,8 @@
    10011
   ],
   "jp": "{voice:008E0D}逃げてきた住民の話だと、{n}避難民は北の区画に集まっている{n}みたいだよ。",
-  "en": "",
-  "status": ""
+  "en": "According to the residents who got out, the refugees are gathering in the northern blocks.",
+  "status": "done"
  },
  {
   "id": "event_2183_00739",
@@ -416,8 +416,8 @@
    10029
   ],
   "jp": "{voice:008F0D}行こう！{n}反乱軍を撃破して避難民の為の{n}突破口を開くぞ②",
-  "en": "",
-  "status": ""
+  "en": "Let's go! We smash the rebels and open a way through for the refugees!!",
+  "status": "done"
  },
  {
   "id": "event_2183_00774",
@@ -428,8 +428,8 @@
    10218
   ],
   "jp": "{voice:00900D}遅かったなグラムブレイズ。",
-  "en": "",
-  "status": ""
+  "en": "You're late, Gram Blaze.",
+  "status": "done"
  },
  {
   "id": "event_2183_00793",
@@ -440,8 +440,8 @@
    10236
   ],
   "jp": "{voice:00910D}この区域は既に支配した！{n}地の利は俺達のモノだ②",
-  "en": "",
-  "status": ""
+  "en": "We've already taken this sector! The lay of the land is ours!!",
+  "status": "done"
  },
  {
   "id": "event_2183_007C7",
@@ -452,8 +452,8 @@
    10297
   ],
   "jp": "{voice:00920D}ここは俺が生まれ育った街だ。{n}お前らに利などない！",
-  "en": "",
-  "status": ""
+  "en": "This is the city I was born and raised in. The land's not yours in any way!",
+  "status": "done"
  },
  {
   "id": "event_2183_007FD",
@@ -464,8 +464,8 @@
    10337
   ],
   "jp": "{voice:00930D}おかしい…、奴らの行軍は{n}整っているように見える。{n}冷静さを欠いていないのか？",
-  "en": "",
-  "status": ""
+  "en": "Something's off... Their march looks orderly. They haven't lost their heads?",
+  "status": "done"
  },
  {
   "id": "event_2183_0084E",
@@ -476,8 +476,8 @@
    13671
   ],
   "jp": "{voice:00940D}がはっ…、ば、バカな…！",
-  "en": "",
-  "status": ""
+  "en": "Gah... I-impossible...!",
+  "status": "done"
  },
  {
   "id": "event_2183_0086B",
@@ -488,8 +488,8 @@
    13848
   ],
   "jp": "{voice:00950D}これで突破口は開かれた！{n}避難民を救出するぞ②",
-  "en": "",
-  "status": ""
+  "en": "That opens a way through! Let's rescue the refugees!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0089D",
@@ -500,8 +500,8 @@
    15235
   ],
   "jp": "{voice:00960D}おおっ、グラムブレイズだ！{n}グラムブレイズが助けに{n}来てくれたぞ②",
-  "en": "",
-  "status": ""
+  "en": "Oh, it's Gram Blaze! Gram Blaze came to save us!!",
+  "status": "done"
  },
  {
   "id": "event_2183_008E2",
@@ -512,8 +512,8 @@
    15258
   ],
   "jp": "{voice:00970D}反乱軍の先鋒隊は駆逐した。{n}増援が来ないうちに脱出するんだ！",
-  "en": "",
-  "status": ""
+  "en": "We drove off the rebels' vanguard. Get out before reinforcements show up!",
+  "status": "done"
  },
  {
   "id": "event_2183_00922",
@@ -524,8 +524,8 @@
    15356
   ],
   "jp": "{voice:00980D}みんな、カタル・ブリッジへ！{n}受け入れの手筈は整ってるわ②",
-  "en": "",
-  "status": ""
+  "en": "Everyone, to Catal Bridge! It's all arranged to take you in!!",
+  "status": "done"
  },
  {
   "id": "event_2183_00960",
@@ -536,8 +536,8 @@
    15374
   ],
   "jp": "{voice:00990D}恩に着るよ、シスキア…",
-  "en": "",
-  "status": ""
+  "en": "I owe you one, Siskier...",
+  "status": "done"
  },
  {
   "id": "event_2183_0097B",
@@ -548,8 +548,8 @@
    15479
   ],
   "jp": "{voice:009A0D}慌てず、落ち着いて進んで！{n}燃えている建物からは、なるべく{n}遠ざかって行動するんだ。",
-  "en": "",
-  "status": ""
+  "en": "No rush, nice and calm, keep moving! Stay as far as you can from burning buildings.",
+  "status": "done"
  },
  {
   "id": "event_2183_009D2",
@@ -560,8 +560,8 @@
    15520
   ],
   "jp": "{voice:009B0D}私の家は、燃えてしまった。{n}だけど、赤ちゃんと私の命は無事。",
-  "en": "",
-  "status": ""
+  "en": "My house burned down. But my baby and I are safe.",
+  "status": "done"
  },
  {
   "id": "event_2183_00A12",
@@ -572,8 +572,8 @@
    15527
   ],
   "jp": "{voice:009C0D}命があれば、やり直せます。{n}助けてくれて感謝します。",
-  "en": "",
-  "status": ""
+  "en": "As long as we're alive, we can start over. Thank you for saving us.",
+  "status": "done"
  },
  {
   "id": "event_2183_00A4A",
@@ -584,8 +584,8 @@
    15534
   ],
   "jp": "{voice:009D0D}あなた達は、私達の誇りよ！",
-  "en": "",
-  "status": ""
+  "en": "You are our pride!",
+  "status": "done"
  },
  {
   "id": "event_2183_00A69",
@@ -596,8 +596,8 @@
    15552
   ],
   "jp": "{voice:009E0D}そうだ、グラムブレイズ万歳！{n}ガーロット万歳！",
-  "en": "",
-  "status": ""
+  "en": "That's right! Hurrah for Gram Blaze! Hurrah for Garlot!",
+  "status": "done"
  },
  {
   "id": "event_2183_00A9B",
@@ -608,8 +608,8 @@
    15570
   ],
   "jp": "{voice:009F0D}グラムブレイズ万歳！{n}ガーロット万歳！",
-  "en": "",
-  "status": ""
+  "en": "Hurrah for Gram Blaze! Hurrah for Garlot!",
+  "status": "done"
  },
  {
   "id": "event_2183_00AC5",
@@ -620,8 +620,8 @@
    15661
   ],
   "jp": "{voice:00A00D}もう逃げ遅れた人はいないな？",
-  "en": "",
-  "status": ""
+  "en": "Nobody left behind?",
+  "status": "done"
  },
  {
   "id": "event_2183_00AE6",
@@ -632,8 +632,8 @@
    15679
   ],
   "jp": "{voice:00A10D}ええ、大丈夫よ。",
-  "en": "",
-  "status": ""
+  "en": "Yes, everyone's okay.",
+  "status": "done"
  },
  {
   "id": "event_2183_00AFB",
@@ -644,8 +644,8 @@
    15697
   ],
   "jp": "{voice:00A20D}民衆が私達を、{n}そしてガーロットを讃えていた…",
-  "en": "",
-  "status": ""
+  "en": "The people were praising us, and praising Garlot...",
+  "status": "done"
  },
  {
   "id": "event_2183_00B2D",
@@ -656,8 +656,8 @@
    15715
   ],
   "jp": "{voice:00A30D}あなた達はこれで、{n}世界を変える力の一つを{n}手に入れたのです。",
-  "en": "",
-  "status": ""
+  "en": "With this, you have obtained one of the powers that can change the world.",
+  "status": "done"
  },
  {
   "id": "event_2183_00B6E",
@@ -668,8 +668,8 @@
    15736
   ],
   "jp": "{voice:00A40D}全軍、戦闘態勢を取れ！{n}次は反乱軍を駆逐するぞ！",
-  "en": "",
-  "status": ""
+  "en": "All units, battle stations! Next we drive out the rebels!",
+  "status": "done"
  },
  {
   "id": "event_2183_00BA2",
@@ -680,8 +680,8 @@
    16424
   ],
   "jp": "{voice:00A50D}ようやく避難民の収容が{n}終わったようだな。",
-  "en": "",
-  "status": ""
+  "en": "Looks like the refugees are finally all in.",
+  "status": "done"
  },
  {
   "id": "event_2183_00BD0",
@@ -692,8 +692,8 @@
    16442
   ],
   "jp": "{voice:00A60D}これで心置きなく戦えるだろう。",
-  "en": "",
-  "status": ""
+  "en": "Now you can fight with nothing on your mind.",
+  "status": "done"
  },
  {
   "id": "event_2183_00BF3",
@@ -704,8 +704,8 @@
    16460
   ],
   "jp": "{voice:00A70D}さあ槍を取れ、赤髪！{n}死合いの時間だ②",
-  "en": "",
-  "status": ""
+  "en": "Now pick up your spear, Red! It's time to fight to the death!!",
+  "status": "done"
  },
  {
   "id": "event_2183_00C1D",
@@ -719,8 +719,8 @@
    10570
   ],
   "jp": "グラムブレイズか！{n}アンタらなら、きっと来てくれる{n}と信じていたぜ！",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze! I knew you folks would come!",
+  "status": "done"
  },
  {
   "id": "event_2183_00C60",
@@ -734,8 +734,8 @@
    10577
   ],
   "jp": "…早く避難しろ、って？{n}悪いがそれはできねぇ相談だぜ。",
-  "en": "",
-  "status": ""
+  "en": "...Get to safety quick, you say? Sorry, but I can't do that.",
+  "status": "done"
  },
  {
   "id": "event_2183_00C96",
@@ -749,8 +749,8 @@
    10584
   ],
   "jp": "ネザー地区の南部には、{n}まだ逃げ遅れてる連中が残ってる。",
-  "en": "",
-  "status": ""
+  "en": "There's still people left behind in the southern part of the Nether District.",
+  "status": "done"
  },
  {
   "id": "event_2183_00CCE",
@@ -764,8 +764,8 @@
    10591
   ],
   "jp": "ここいらの路地道に詳しい奴が{n}誘導役に必要なんだよ！{n}な？　俺の出番だろ！",
-  "en": "",
-  "status": ""
+  "en": "They need a guide who knows these back alleys! See? This is my moment!",
+  "status": "done"
  },
  {
   "id": "event_2183_00D17",
@@ -779,8 +779,8 @@
    10598
   ],
   "jp": "勘違いするなよ。俺は命を捨てる{n}気はないんだ。惚れた女もいるし、{n}飲みたい酒もあるんだ！",
-  "en": "",
-  "status": ""
+  "en": "Don't get me wrong. I've got no plans to throw my life away. There's a gal I love and booze I wanna drink!",
+  "status": "done"
  },
  {
   "id": "event_2183_00D6E",
@@ -794,8 +794,8 @@
    10605
   ],
   "jp": "アンタらが前線張ってる。{n}だから、俺は安心できるのさ！",
-  "en": "",
-  "status": ""
+  "en": "You folks are holding the front line. That's why I'm not worried!",
+  "status": "done"
  },
  {
   "id": "event_2183_00DA4",
@@ -809,8 +809,8 @@
    10629
   ],
   "jp": "避難民は俺に任せてくれ！",
-  "en": "",
-  "status": ""
+  "en": "Leave the refugees to me!",
+  "status": "done"
  },
  {
   "id": "event_2183_00DBD",
@@ -824,8 +824,8 @@
    10636
   ],
   "jp": "…なーに、心配すんな！{n}ショップマキナ店員歴２０年は{n}伊達でも酔狂でもねぇ！",
-  "en": "",
-  "status": ""
+  "en": "...Hey, don't you worry! I didn't work at Shop Machina for 20 years for show!",
+  "status": "done"
  },
  {
   "id": "event_2183_00E08",
@@ -839,8 +839,8 @@
    10643
   ],
   "jp": "だから、アンタらは{n}反乱軍の野郎に当たってくれ！",
-  "en": "",
-  "status": ""
+  "en": "So you folks go take on those rebel bastards!",
+  "status": "done"
  },
  {
   "id": "event_2183_00E38",
@@ -854,8 +854,8 @@
    10650
   ],
   "jp": "頼んだぜ！　グラムブレイズ②",
-  "en": "",
-  "status": ""
+  "en": "I'm counting on you! Gram Blaze!!",
+  "status": "done"
  },
  {
   "id": "event_2183_00E55",
@@ -869,8 +869,8 @@
    10772
   ],
   "jp": "…クソッ、また錬成失敗だ！{n}やはり純正のエレメントで{n}なければダメなのか…",
-  "en": "",
-  "status": ""
+  "en": "...Damn it, another failed forging! So it has to be a pure Element after all...",
+  "status": "done"
  },
  {
   "id": "event_2183_00E9E",
@@ -884,8 +884,8 @@
    10779
   ],
   "jp": "魔水晶のストックも尽きた。{n}ここまでなのか…",
-  "en": "",
-  "status": ""
+  "en": "And my stock of magic crystals is gone. Is this the end...",
+  "status": "done"
  },
  {
   "id": "event_2183_00ECA",
@@ -899,8 +899,8 @@
    10786
   ],
   "jp": "…ん？{n}早くニーベル街区に逃げろ、だと？",
-  "en": "",
-  "status": ""
+  "en": "...Hm? Flee to the Nibel Quarter, you say?",
+  "status": "done"
  },
  {
   "id": "event_2183_00EF2",
@@ -914,8 +914,8 @@
    10793
   ],
   "jp": "バカを言え。この小屋には{n}私が半生をかけて築き上げた{n}叡智が集結しているのだ。",
-  "en": "",
-  "status": ""
+  "en": "Don't be absurd. This hut holds all the wisdom I've spent half my life building up.",
+  "status": "done"
  },
  {
   "id": "event_2183_00F3F",
@@ -929,8 +929,8 @@
    10800
   ],
   "jp": "掻き集めた文献も、素材も、{n}実験の成功と失敗の記録も、{n}すべて、もれなく残っているのだ。",
-  "en": "",
-  "status": ""
+  "en": "The texts I've collected, the materials, every record of success and failure. All of it is here.",
+  "status": "done"
  },
  {
   "id": "event_2183_00F96",
@@ -944,8 +944,8 @@
    10807
   ],
   "jp": "戦火がどうした？{n}反乱軍がどうした③{n}そんなもの、私は恐れぬ②",
-  "en": "",
-  "status": ""
+  "en": "What of the war? What of the rebels!? I fear no such things!!",
+  "status": "done"
  },
  {
   "id": "event_2183_00FD3",
@@ -959,8 +959,8 @@
    10814
   ],
   "jp": "もし私を逃がしたいのであれば、{n}純正のエレメントを持ってこい！{n}そうすれば、今ここで錬成を…",
-  "en": "",
-  "status": ""
+  "en": "If you want me to flee, bring me a pure Element! Then right here and now I could forge...",
+  "status": "done"
  },
  {
   "id": "event_2183_0102E",
@@ -974,8 +974,8 @@
    10821
   ],
   "jp": "フッ。私が血眼になっても{n}見つからぬシロモノだ。{n}無理に決まっているがな。",
-  "en": "",
-  "status": ""
+  "en": "Heh. Even I can't find one, search as I may. Quite impossible, of course.",
+  "status": "done"
  },
  {
   "id": "event_2183_01077",
@@ -1004,8 +1004,8 @@
    10835
   ],
   "jp": "そのエレメントは③{n}なんという純度だ。{n}一筋の曇りも淀みもないぞ②",
-  "en": "",
-  "status": ""
+  "en": "That Element!? What purity. Not a trace of cloudiness or sediment!!",
+  "status": "done"
  },
  {
   "id": "event_2183_010C3",
@@ -1019,8 +1019,8 @@
    10842
   ],
   "jp": "…いや、ダメだ。{n}さっきの実験で、全ての魔水晶を{n}使い切ってしまったのだ…",
-  "en": "",
-  "status": ""
+  "en": "...No, it won't do. I used up all my magic crystals in that last experiment...",
+  "status": "done"
  },
  {
   "id": "event_2183_0110C",
@@ -1034,8 +1034,8 @@
    10849
   ],
   "jp": "…なに？{n}魔水晶も持っている、だと③{n}本当かね、それは！",
-  "en": "",
-  "status": ""
+  "en": "...What? You have magic crystals too!? Is that true!",
+  "status": "done"
  },
  {
   "id": "event_2183_01143",
@@ -1049,8 +1049,8 @@
    10856
   ],
   "jp": "これならいける！{n}代用品でなく、完璧な素材での{n}真の錬成を実践する時が来た②",
-  "en": "",
-  "status": ""
+  "en": "This will work! The time has come to carry out a true forging, with perfect materials, no substitutes!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0118E",
@@ -1064,8 +1064,8 @@
    10965
   ],
   "jp": "そこで待て、すぐに終わる。{n}あと、少し…",
-  "en": "",
-  "status": ""
+  "en": "Wait right there, this won't take long. Just a little more...",
+  "status": "done"
  },
  {
   "id": "event_2183_011B6",
@@ -1079,8 +1079,8 @@
    10972
   ],
   "jp": "できたぞ！　ついに…{n}ついに、完成したのだ②",
-  "en": "",
-  "status": ""
+  "en": "It's done! At last... At last, it's complete!!",
+  "status": "done"
  },
  {
   "id": "event_2183_011E2",
@@ -1094,8 +1094,8 @@
    10983
   ],
   "jp": "さあ、持って行け。{n}…遠慮はいらぬ。素材を提供した{n}君にこそ、これを持つ資格がある。",
-  "en": "",
-  "status": ""
+  "en": "Here, take it. ...Don't be shy. You provided the materials, so you've earned the right to it.",
+  "status": "done"
  },
  {
   "id": "event_2183_01235",
@@ -1109,8 +1109,8 @@
    11058
   ],
   "jp": "私が興味を持ったのは、{n}理論の実証とその証明のみ…",
-  "en": "",
-  "status": ""
+  "en": "All I ever cared about was testing and proving the theory...",
+  "status": "done"
  },
  {
   "id": "event_2183_01267",
@@ -1124,8 +1124,8 @@
    11065
   ],
   "jp": "いいのだ、もういいのだ…",
-  "en": "",
-  "status": ""
+  "en": "It's all right, I'm done now...",
+  "status": "done"
  },
  {
   "id": "event_2183_01280",
@@ -1139,8 +1139,8 @@
    11104
   ],
   "jp": "…クソッ、また錬成失敗だ！{n}やはり純正のエレメントで{n}なければダメなのか…",
-  "en": "",
-  "status": ""
+  "en": "...Damn it, another failed forging! So it has to be a pure Element after all...",
+  "status": "done"
  },
  {
   "id": "event_2183_012C9",
@@ -1154,8 +1154,8 @@
    11111
   ],
   "jp": "魔水晶のストックも尽きた。{n}ここまでなのか…",
-  "en": "",
-  "status": ""
+  "en": "And my stock of magic crystals is gone. Is this the end...",
+  "status": "done"
  },
  {
   "id": "event_2183_012F5",
@@ -1169,8 +1169,8 @@
    11118
   ],
   "jp": "…ん？{n}早くニーベル街区に逃げろ、だと？",
-  "en": "",
-  "status": ""
+  "en": "...Hm? Flee to the Nibel Quarter, you say?",
+  "status": "done"
  },
  {
   "id": "event_2183_0131D",
@@ -1184,8 +1184,8 @@
    11125
   ],
   "jp": "バカを言え。この小屋には{n}私が半生をかけて築き上げた{n}叡智が集結しているのだ。",
-  "en": "",
-  "status": ""
+  "en": "Don't be absurd. This hut holds all the wisdom I've spent half my life building up.",
+  "status": "done"
  },
  {
   "id": "event_2183_0136A",
@@ -1199,8 +1199,8 @@
    11132
   ],
   "jp": "掻き集めた文献も、素材も、{n}実験の成功と失敗の記録も、{n}すべて、もれなく残っているのだ。",
-  "en": "",
-  "status": ""
+  "en": "The texts I've collected, the materials, every record of success and failure. All of it is here.",
+  "status": "done"
  },
  {
   "id": "event_2183_013C1",
@@ -1214,8 +1214,8 @@
    11139
   ],
   "jp": "戦火がどうした？{n}反乱軍がどうした③{n}そんなもの、私は恐れぬ②",
-  "en": "",
-  "status": ""
+  "en": "What of the war? What of the rebels!? I fear no such things!!",
+  "status": "done"
  },
  {
   "id": "event_2183_013FE",
@@ -1229,8 +1229,8 @@
    11146
   ],
   "jp": "もし私を逃がしたいのであれば、{n}純正のエレメントを持ってこい！{n}そうすれば、今ここで錬成を…",
-  "en": "",
-  "status": ""
+  "en": "If you want me to flee, bring me a pure Element! Then right here and now I could forge...",
+  "status": "done"
  },
  {
   "id": "event_2183_01459",
@@ -1244,8 +1244,8 @@
    11153
   ],
   "jp": "フッ。私が血眼になっても{n}見つからぬシロモノだ。{n}無理に決まっているがな。",
-  "en": "",
-  "status": ""
+  "en": "Heh. Even I can't find one, search as I may. Quite impossible, of course.",
+  "status": "done"
  },
  {
   "id": "event_2183_014A2",
@@ -1274,8 +1274,8 @@
    11167
   ],
   "jp": "そのエレメントは……{n}な、なんという純度だ！{n}一筋の曇りも淀みもないぞ②",
-  "en": "",
-  "status": ""
+  "en": "That Element... Wh-what purity! Not a trace of cloudiness or sediment!!",
+  "status": "done"
  },
  {
   "id": "event_2183_014F4",
@@ -1289,8 +1289,8 @@
    11174
   ],
   "jp": "…いや、ダメだ。{n}さっきの実験で、全ての魔水晶を{n}使い切ってしまったのだ…",
-  "en": "",
-  "status": ""
+  "en": "...No, it won't do. I used up all my magic crystals in that last experiment...",
+  "status": "done"
  },
  {
   "id": "event_2183_0153D",
@@ -1304,8 +1304,8 @@
    11181
   ],
   "jp": "くっ、なんて事だ…！{n}ここで、夢が朽ちるのか。",
-  "en": "",
-  "status": ""
+  "en": "Ngh, what a thing...! So my dream dies here.",
+  "status": "done"
  },
  {
   "id": "event_2183_0156B",
@@ -1319,8 +1319,8 @@
    11212
   ],
   "jp": "…クソッ、また錬成失敗だ！{n}やはり純正のエレメントで{n}なければダメなのか…",
-  "en": "",
-  "status": ""
+  "en": "...Damn it, another failed forging! So it has to be a pure Element after all...",
+  "status": "done"
  },
  {
   "id": "event_2183_015B4",
@@ -1334,8 +1334,8 @@
    11219
   ],
   "jp": "魔水晶のストックも尽きた。{n}ここまでなのか…",
-  "en": "",
-  "status": ""
+  "en": "And my stock of magic crystals is gone. Is this the end...",
+  "status": "done"
  },
  {
   "id": "event_2183_015E0",
@@ -1349,8 +1349,8 @@
    11226
   ],
   "jp": "…ん？{n}早くニーベル街区に逃げろ、だと？",
-  "en": "",
-  "status": ""
+  "en": "...Hm? Flee to the Nibel Quarter, you say?",
+  "status": "done"
  },
  {
   "id": "event_2183_01608",
@@ -1364,8 +1364,8 @@
    11233
   ],
   "jp": "バカを言え。この小屋には{n}私が半生をかけて築き上げた{n}叡智が集結しているのだ。",
-  "en": "",
-  "status": ""
+  "en": "Don't be absurd. This hut holds all the wisdom I've spent half my life building up.",
+  "status": "done"
  },
  {
   "id": "event_2183_01655",
@@ -1379,8 +1379,8 @@
    11240
   ],
   "jp": "掻き集めた文献も、素材も、{n}実験の成功と失敗の記録も、{n}すべて、もれなく残っているのだ。",
-  "en": "",
-  "status": ""
+  "en": "The texts I've collected, the materials, every record of success and failure. All of it is here.",
+  "status": "done"
  },
  {
   "id": "event_2183_016AC",
@@ -1394,8 +1394,8 @@
    11247
   ],
   "jp": "戦火がどうした？{n}反乱軍がどうした③{n}そんなもの、私は恐れぬ②",
-  "en": "",
-  "status": ""
+  "en": "What of the war? What of the rebels!? I fear no such things!!",
+  "status": "done"
  },
  {
   "id": "event_2183_016E9",
@@ -1409,8 +1409,8 @@
    11254
   ],
   "jp": "もし私を逃がしたいのであれば、{n}純正のエレメントを持ってこい！{n}そうすれば、今ここで錬成を…",
-  "en": "",
-  "status": ""
+  "en": "If you want me to flee, bring me a pure Element! Then right here and now I could forge...",
+  "status": "done"
  },
  {
   "id": "event_2183_01744",
@@ -1424,8 +1424,8 @@
    11261
   ],
   "jp": "フッ。私が血眼になっても{n}見つからぬシロモノだ。{n}無理に決まっているがな。",
-  "en": "",
-  "status": ""
+  "en": "Heh. Even I can't find one, search as I may. Quite impossible, of course.",
+  "status": "done"
  },
  {
   "id": "event_2183_0178D",
@@ -1439,8 +1439,8 @@
    11268
   ],
   "jp": "…去れ。私の死の責任を負う{n}必要など、君にはないのだ。{n}だから、去れ。",
-  "en": "",
-  "status": ""
+  "en": "...Go. You've no need to bear any responsibility for my death. So go.",
+  "status": "done"
  },
  {
   "id": "event_2183_017D2",
@@ -1454,8 +1454,8 @@
    11275
   ],
   "jp": "私は常に、私の夢とともに在る。{n}死の際もそうだ。",
-  "en": "",
-  "status": ""
+  "en": "I am ever with my dream. Even at the moment of death.",
+  "status": "done"
  },
  {
   "id": "event_2183_01802",
@@ -1469,8 +1469,8 @@
    11299
   ],
   "jp": "もういいのだよ…",
-  "en": "",
-  "status": ""
+  "en": "It's all right now...",
+  "status": "done"
  },
  {
   "id": "event_2183_01813",
@@ -1484,8 +1484,8 @@
    11323
   ],
   "jp": "くっ、なんて事だ…！{n}ここで、夢が朽ちるのか。",
-  "en": "",
-  "status": ""
+  "en": "Ngh, what a thing...! So my dream dies here.",
+  "status": "done"
  },
  {
   "id": "event_2183_01841",
@@ -1499,8 +1499,8 @@
    11347
   ],
   "jp": "私は常に、私の夢とともに在る。{n}死の際もそうだ。",
-  "en": "",
-  "status": ""
+  "en": "I am ever with my dream. Even at the moment of death.",
+  "status": "done"
  },
  {
   "id": "event_2183_01871",
@@ -1514,8 +1514,8 @@
    11473
   ],
   "jp": "ん？　何か落ちているな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something's lying here...",
+  "status": "done"
  },
  {
   "id": "event_2183_0188A",
@@ -1529,8 +1529,8 @@
    11559
   ],
   "jp": "おもちゃのサンダルか。{n}逃げる途中で荷物から落ちたのか。",
-  "en": "",
-  "status": ""
+  "en": "A toy sandal. Must've fallen out of someone's bags while they ran.",
+  "status": "done"
  },
  {
   "id": "event_2183_018C2",
@@ -1544,8 +1544,8 @@
    11624
   ],
   "jp": "あら？　何か落ちてるよ。",
-  "en": "",
-  "status": ""
+  "en": "Oh? There's something lying here.",
+  "status": "done"
  },
  {
   "id": "event_2183_018DB",
@@ -1559,8 +1559,8 @@
    11699
   ],
   "jp": "これって、一昔前に流行った{n}歩くたびに音が鳴る{n}サンダルじゃなかったかな？",
-  "en": "",
-  "status": ""
+  "en": "Wasn't this one of those sandals that squeak with every step, the ones that were all the rage way back?",
+  "status": "done"
  },
  {
   "id": "event_2183_01924",
@@ -1574,8 +1574,8 @@
    11764
   ],
   "jp": "おや、そこに落ちているのは…",
-  "en": "",
-  "status": ""
+  "en": "Oh, what's that lying there...",
+  "status": "done"
  },
  {
   "id": "event_2183_01941",
@@ -1589,8 +1589,8 @@
    11850
   ],
   "jp": "サンダルだね。{n}滑稽な音が鳴るヤツだよ、たしか。",
-  "en": "",
-  "status": ""
+  "en": "It's a sandal. If I recall, the kind that makes a comical noise.",
+  "status": "done"
  },
  {
   "id": "event_2183_01971",
@@ -1604,8 +1604,8 @@
    11922
   ],
   "jp": "何か落ちているな…",
-  "en": "",
-  "status": ""
+  "en": "There's something lying here...",
+  "status": "done"
  },
  {
   "id": "event_2183_01984",
@@ -1619,8 +1619,8 @@
    12008
   ],
   "jp": "履物か。{n}ネザー地区の住民が逃げる途中、{n}荷物から落ちたのかもな…",
-  "en": "",
-  "status": ""
+  "en": "Footwear. Could've fallen from some Nether District resident's bags on the way out...",
+  "status": "done"
  },
  {
   "id": "event_2183_019C5",
@@ -1634,8 +1634,8 @@
    12080
   ],
   "jp": "あら？　これは…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What is this...",
+  "status": "done"
  },
  {
   "id": "event_2183_019D6",
@@ -1649,8 +1649,8 @@
    12166
   ],
   "jp": "サンダルですね。{n}なんとなくオモチャのような{n}装飾ですけど…",
-  "en": "",
-  "status": ""
+  "en": "It is a sandal. It is decorated somewhat like a toy...",
+  "status": "done"
  },
  {
   "id": "event_2183_01A11",
@@ -1664,8 +1664,8 @@
    12238
   ],
   "jp": "む？　何か落ちてるぞ…",
-  "en": "",
-  "status": ""
+  "en": "Hm? There is something lying here...",
+  "status": "done"
  },
  {
   "id": "event_2183_01A28",
@@ -1679,8 +1679,8 @@
    12324
   ],
   "jp": "サンダルだな。{n}だが、このサイズじゃあ{n}バイフーは履けそうにないな…",
-  "en": "",
-  "status": ""
+  "en": "A sandal. But in this size, Byff doubts Byff can wear it...",
+  "status": "done"
  },
  {
   "id": "event_2183_01A6B",
@@ -1694,8 +1694,8 @@
    12845
   ],
   "jp": "これ、何かしら？",
-  "en": "",
-  "status": ""
+  "en": "What's this?",
+  "status": "done"
  },
  {
   "id": "event_2183_01A7C",
@@ -1709,8 +1709,8 @@
    12931
   ],
   "jp": "このサンダルって、{n}一昔前に流行ったオモチャ{n}じゃなかったかしら？",
-  "en": "",
-  "status": ""
+  "en": "Wasn't this sandal a toy that was all the rage way back?",
+  "status": "done"
  },
  {
   "id": "event_2183_01ABD",
@@ -1724,8 +1724,8 @@
    12396
   ],
   "jp": "お？　なんか落ちてるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Oh? Something's lying here.",
+  "status": "done"
  },
  {
   "id": "event_2183_01AD6",
@@ -1739,8 +1739,8 @@
    12482
   ],
   "jp": "ははぁ、サンダルだな。{n}オイラが履く機会はないと思う{n}けど、拾っておくかな。",
-  "en": "",
-  "status": ""
+  "en": "Aha, a sandal. Don't think I'll ever get a chance to wear it, but I'll pick it up anyway.",
+  "status": "done"
  },
  {
   "id": "event_2183_01B21",
@@ -1754,8 +1754,8 @@
    12687
   ],
   "jp": "ウィ～ック…{n}うん？　なんだぁ？",
-  "en": "",
-  "status": ""
+  "en": "Ooh... *hic* Hm? What's this?",
+  "status": "done"
  },
  {
   "id": "event_2183_01B41",
@@ -1769,8 +1769,8 @@
    12773
   ],
   "jp": "ああ、サンダルじゃないのさ…{n}海辺にたくさん転がってるのよね。{n}ヒック②",
-  "en": "",
-  "status": ""
+  "en": "Ah, it's a sandal, is all... There's a whole lotta these rollin' around at the seaside. *hic*!!",
+  "status": "done"
  },
  {
   "id": "event_2183_01B88",
@@ -1784,8 +1784,8 @@
    12547
   ],
   "jp": "何か落ちてるわ。{n}早速ゲットするわよ～。",
-  "en": "",
-  "status": ""
+  "en": "Something's lying here. Pamela-sama's getting it right away~.",
+  "status": "done"
  },
  {
   "id": "event_2183_01BB0",
@@ -1799,8 +1799,8 @@
    12622
   ],
   "jp": "なんだ、サンダルか…{n}あんまり嬉しくないなぁ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, it's a sandal... Not very exciting.",
+  "status": "done"
  },
  {
   "id": "event_2183_01BDE",
@@ -1814,8 +1814,8 @@
    13003
   ],
   "jp": "おや？　何かありますね…",
-  "en": "",
-  "status": ""
+  "en": "Oh? There is something here...",
+  "status": "done"
  },
  {
   "id": "event_2183_01BF7",
@@ -1829,8 +1829,8 @@
    13089
   ],
   "jp": "サンダルですか…{n}ネザー地区の人間の{n}持ち物のようですね。",
-  "en": "",
-  "status": ""
+  "en": "A sandal, is it... It seems to belong to someone from the Nether District.",
+  "status": "done"
  },
  {
   "id": "event_2183_01C30",
@@ -1844,8 +1844,8 @@
    13334
   ],
   "jp": "お？　なんか落ちてるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Huh? Something's lying here.",
+  "status": "done"
  },
  {
   "id": "event_2183_01C49",
@@ -1859,8 +1859,8 @@
    13420
   ],
   "jp": "サンダルかぁ。{n}ふーん、結構カワイイけど{n}オレには似合わないだろうな。",
-  "en": "",
-  "status": ""
+  "en": "A sandal, huh. Hm, pretty cute, but it wouldn't suit me.",
+  "status": "done"
  },
  {
   "id": "event_2183_01C8E",
@@ -1874,8 +1874,8 @@
    13165
   ],
   "jp": "…なんだ？",
-  "en": "",
-  "status": ""
+  "en": "...What is this?",
+  "status": "done"
  },
  {
   "id": "event_2183_01C99",
@@ -1889,8 +1889,8 @@
    13251
   ],
   "jp": "サンダルか…{n}踏むと音がする。",
-  "en": "",
-  "status": ""
+  "en": "A sandal... It makes a sound when stepped on.",
+  "status": "done"
  },
  {
   "id": "event_2183_01CB7",
@@ -1904,8 +1904,8 @@
    13258
   ],
   "jp": "ちょっと、かわいいな。{n}ふふ…",
-  "en": "",
-  "status": ""
+  "en": "A little cute. Heh...",
+  "status": "done"
  },
  {
   "id": "event_2183_01D57",
@@ -1916,8 +1916,8 @@
    7508
   ],
   "jp": "グラムブレイズ",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze",
+  "status": "done"
  },
  {
   "id": "event_2183_01D9E",
@@ -1928,8 +1928,8 @@
    7579
   ],
   "jp": "パンドラ反乱軍",
-  "en": "",
-  "status": ""
+  "en": "Pandra rebels",
+  "status": "done"
  },
  {
   "id": "event_2183_01E3C",
@@ -1940,8 +1940,8 @@
    7737
   ],
   "jp": "レオン黒騎士団",
-  "en": "",
-  "status": ""
+  "en": "Leon's Knights",
+  "status": "done"
  },
  {
   "id": "event_2183_01F2A",
@@ -1952,8 +1952,8 @@
    7975
   ],
   "jp": "パンドラ反乱軍",
-  "en": "",
-  "status": ""
+  "en": "Pandra rebels",
+  "status": "done"
  },
  {
   "id": "event_2183_040D4",
@@ -1964,8 +1964,8 @@
    22469
   ],
   "jp": "{voice:00A80D}パンドラ様！　レオンの部隊が{n}臨戦態勢に入りました！",
-  "en": "",
-  "status": ""
+  "en": "Pandra-sama! Leon's unit is ready for battle!",
+  "status": "done"
  },
  {
   "id": "event_2183_0410C",
@@ -1976,8 +1976,8 @@
    22487
   ],
   "jp": "{voice:00A90D}チッ、動くのが遅せんだよ。{n}これだから変なコダワリ持ってる{n}奴は使い難いんだよな……",
-  "en": "",
-  "status": ""
+  "en": "Tch, took him long enough. That's why guys with weird hang-ups are such a pain to use...",
+  "status": "done"
  },
  {
   "id": "event_2183_04163",
@@ -1988,8 +1988,8 @@
    34058
   ],
   "jp": "{voice:00AA0D}クソったれ！{n}不甲斐ない部下どもだぜ…",
-  "en": "",
-  "status": ""
+  "en": "Damn it all! What a useless bunch of men...",
+  "status": "done"
  },
  {
   "id": "event_2183_0418D",
@@ -2000,8 +2000,8 @@
    34076
   ],
   "jp": "{voice:00AB0D}いや、俺自身も…{n}不甲斐ないクソったれか。",
-  "en": "",
-  "status": ""
+  "en": "No, I'm... a useless damn fool myself.",
+  "status": "done"
  },
  {
   "id": "event_2183_041BB",
@@ -2012,8 +2012,8 @@
    34094
   ],
   "jp": "{voice:00AC0D}レオン、お前の負けだ！{n}槍を降ろして降伏しろッ②",
-  "en": "",
-  "status": ""
+  "en": "Leon, you lost! Lower your spear and surrender!!",
+  "status": "done"
  },
  {
   "id": "event_2183_041EF",
@@ -2024,8 +2024,8 @@
    34112
   ],
   "jp": "{voice:00AD0D}…フザけんなよ。{n}俺は武人だ、誰が膝をつくかよ！",
-  "en": "",
-  "status": ""
+  "en": "...Don't screw with me. I'm a warrior. Who'd go down on his knees!",
+  "status": "done"
  },
  {
   "id": "event_2183_04223",
@@ -2036,8 +2036,8 @@
    34119
   ],
   "jp": "{voice:00AE0D}膝をつくのは、死を迎えた時のみ！",
-  "en": "",
-  "status": ""
+  "en": "The only time I kneel is when I die!",
+  "status": "done"
  },
  {
   "id": "event_2183_04248",
@@ -2048,8 +2048,8 @@
    34137
   ],
   "jp": "{voice:00AF0D}槍が折れても、噛み付いて戦う！{n}まだ終わってないんだよ②",
-  "en": "",
-  "status": ""
+  "en": "If my spear breaks, I'll fight with my teeth! This isn't over yet!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04284",
@@ -2060,8 +2060,8 @@
    34205
   ],
   "jp": "{voice:00B00D}レオンの野郎、ここまでか……",
-  "en": "",
-  "status": ""
+  "en": "So that's as far as Leon gets...",
+  "status": "done"
  },
  {
   "id": "event_2183_042A5",
@@ -2072,8 +2072,8 @@
    34223
   ],
   "jp": "{voice:00B10D}まあいいか、奴らを消耗させた{n}功績だけは褒めてやるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Oh well, I'll give him credit for wearing them down.",
+  "status": "done"
  },
  {
   "id": "event_2183_042DF",
@@ -2084,8 +2084,8 @@
    34241
   ],
   "jp": "{voice:00B20D}おいっ！{n}全隊、カタル・ブリッジに進撃！{n}ティエラに雪崩れ込むぜ！",
-  "en": "",
-  "status": ""
+  "en": "Hey! All units, advance on Catal Bridge! We're pouring into Tiera!",
+  "status": "done"
  },
  {
   "id": "event_2183_04324",
@@ -2096,8 +2096,8 @@
    34248
   ],
   "jp": "{voice:00B30D}イヤミな貴族連中の財産も！{n}食い物も！酒も！女も！国も！{n}俺達反乱軍が全て頂くぜ②",
-  "en": "",
-  "status": ""
+  "en": "The snooty nobles' fortunes! Food! Booze! Women! The whole country! We rebels are taking it all!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04379",
@@ -2108,8 +2108,8 @@
    34266
   ],
   "jp": "{voice:00B40D}さすがパンドラ様だ、{n}そうこなくちゃな！",
-  "en": "",
-  "status": ""
+  "en": "That's Pandra-sama for you, now we're talking!",
+  "status": "done"
  },
  {
   "id": "event_2183_043A5",
@@ -2120,8 +2120,8 @@
    34583
   ],
   "jp": "{voice:00B50D}……連中は、ただの盗賊と{n}変わらないじゃないか。",
-  "en": "",
-  "status": ""
+  "en": "...They're no different from ordinary thieves.",
+  "status": "done"
  },
  {
   "id": "event_2183_043D9",
@@ -2132,8 +2132,8 @@
    34601
   ],
   "jp": "{voice:00B60D}おい、パンドラ②{n}俺はまだ負けてねぇぞ！{n}大将は本陣でそっくり返ってろ②",
-  "en": "",
-  "status": ""
+  "en": "Hey, Pandra!! I haven't lost yet! A commander should sit back in his camp and stay there!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04424",
@@ -2144,8 +2144,8 @@
    34619
   ],
   "jp": "{voice:00B70D}お前が負けようが負けまいが、{n}かんけー無いンだよ。",
-  "en": "",
-  "status": ""
+  "en": "Whether you lose or not makes no difference to me.",
+  "status": "done"
  },
  {
   "id": "event_2183_0445A",
@@ -2156,8 +2156,8 @@
    34637
   ],
   "jp": "{voice:00B80D}お前はグラムブレイズを{n}ネザー地区に誘き寄せ、{n}消耗させる為の捨てゴマだからよ。",
-  "en": "",
-  "status": ""
+  "en": "You're just a pawn I threw away to lure Gram Blaze into the Nether District and wear them down.",
+  "status": "done"
  },
  {
   "id": "event_2183_044AD",
@@ -2168,8 +2168,8 @@
    34655
   ],
   "jp": "{voice:00B90D}俺達の狙いは、はじめから{n}富裕層街のニーベル街区なんだよ！",
-  "en": "",
-  "status": ""
+  "en": "What we were after from the start was the Nibel Quarter, where the rich folks live!",
+  "status": "done"
  },
  {
   "id": "event_2183_044EB",
@@ -2192,8 +2192,8 @@
    34691
   ],
   "jp": "{voice:00BA0D}でも、感謝してるんだぜレオン。{n}反乱軍を強くしてくれた事にはよ！",
-  "en": "",
-  "status": ""
+  "en": "But I'm grateful, Leon. For making the rebel army stronger!",
+  "status": "done"
  },
  {
   "id": "event_2183_04538",
@@ -2204,8 +2204,8 @@
    34709
   ],
   "jp": "{voice:00BB0D}アイツら、{n}カタル・ブリッジを越える気か！",
-  "en": "",
-  "status": ""
+  "en": "They're going to cross Catal Bridge!",
+  "status": "done"
  },
  {
   "id": "event_2183_04566",
@@ -2216,8 +2216,8 @@
    34839
   ],
   "jp": "{voice:00BC0D}まずいね…、ニーベル街区は今{n}相当数のネザー地区の住民で{n}混乱しているはずだ……",
-  "en": "",
-  "status": ""
+  "en": "This is bad... The Nibel Quarter must be in chaos right now, full of Nether District residents...",
+  "status": "done"
  },
  {
   "id": "event_2183_045B9",
@@ -2228,8 +2228,8 @@
    34846
   ],
   "jp": "{voice:00BD0D}パンドラは、{n}そこまで読んでいたのか……",
-  "en": "",
-  "status": ""
+  "en": "Pandra saw that far ahead...",
+  "status": "done"
  },
  {
   "id": "event_2183_045E5",
@@ -2240,8 +2240,8 @@
    34900
   ],
   "jp": "{voice:00BE0D}させるかよーッ！",
-  "en": "",
-  "status": ""
+  "en": "Like hell you will!",
+  "status": "done"
  },
  {
   "id": "event_2183_045FA",
@@ -2252,8 +2252,8 @@
    34918
   ],
   "jp": "{voice:00BF0D}待てよ、ガーロット！{n}俺との決着はまだ付いちゃいない。",
-  "en": "",
-  "status": ""
+  "en": "Hold it, Garlot! You and I aren't finished yet.",
+  "status": "done"
  },
  {
   "id": "event_2183_04634",
@@ -2264,8 +2264,8 @@
    34936
   ],
   "jp": "{voice:00C00D}それどころじゃねぇ、知るかよ！",
-  "en": "",
-  "status": ""
+  "en": "I've got no time for this, who cares!",
+  "status": "done"
  },
  {
   "id": "event_2183_04657",
@@ -2288,8 +2288,8 @@
    25726
   ],
   "jp": "貴様との因縁は、{n}今日、この槍でつけてやる②",
-  "en": "",
-  "status": ""
+  "en": "Today this spear settles things between you and me!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0468E",
@@ -2300,8 +2300,8 @@
    25744
   ],
   "jp": "いいだろう、レオン！{n}俺も、全力でお前を倒す②",
-  "en": "",
-  "status": ""
+  "en": "Fine, Leon! I'll beat you with everything I've got!!",
+  "status": "done"
  },
  {
   "id": "event_2183_046BC",
@@ -2312,8 +2312,8 @@
    25949
   ],
   "jp": "もしかして、みんなが避難{n}するのを、待ってくれていたの？",
-  "en": "",
-  "status": ""
+  "en": "Could it be you were waiting until everybody had gotten out?",
+  "status": "done"
  },
  {
   "id": "event_2183_046F4",
@@ -2324,8 +2324,8 @@
    25967
   ],
   "jp": "あの赤髪は、くだらん情で{n}すぐに刃を鈍らせやがるからな。",
-  "en": "",
-  "status": ""
+  "en": "That redhead lets his stupid feelings dull his blade in a second.",
+  "status": "done"
  },
  {
   "id": "event_2183_0472C",
@@ -2336,8 +2336,8 @@
    25985
   ],
   "jp": "決着にふさわしい時を{n}ただ待っていただけだ……",
-  "en": "",
-  "status": ""
+  "en": "I was only waiting for the right time to settle things...",
+  "status": "done"
  },
  {
   "id": "event_2183_0475A",
@@ -2348,8 +2348,8 @@
    26190
   ],
   "jp": "どけっ②{n}用があるのは、赤髪だけだ！",
-  "en": "",
-  "status": ""
+  "en": "Move!! My business is with the redhead alone!",
+  "status": "done"
  },
  {
   "id": "event_2183_0477E",
@@ -2360,8 +2360,8 @@
    26208
   ],
   "jp": "だからって、{n}君に道を譲るとおもうのかい？",
-  "en": "",
-  "status": ""
+  "en": "Even so, do you think I'd just step aside for you?",
+  "status": "done"
  },
  {
   "id": "event_2183_047A8",
@@ -2372,8 +2372,8 @@
    26226
   ],
   "jp": "だったら、{n}死の覚悟を決めて掛かってきな！",
-  "en": "",
-  "status": ""
+  "en": "Then come at me, ready to die!",
+  "status": "done"
  },
  {
   "id": "event_2183_047D2",
@@ -2384,8 +2384,8 @@
    26424
   ],
   "jp": "背水で来たな、狂戦士！",
-  "en": "",
-  "status": ""
+  "en": "Your back's to the wall, berserker!",
+  "status": "done"
  },
  {
   "id": "event_2183_047E9",
@@ -2396,8 +2396,8 @@
    26442
   ],
   "jp": "俺はいつだって背水だ！{n}貴様のその大斧、砕いてやる②",
-  "en": "",
-  "status": ""
+  "en": "My back's always to the wall! I'll smash that big axe of yours!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0481D",
@@ -2408,8 +2408,8 @@
    26640
   ],
   "jp": "ガーロット様には、{n}指一本触れさせません②",
-  "en": "",
-  "status": ""
+  "en": "I will not let you lay a finger on Garlot-sama!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04847",
@@ -2420,8 +2420,8 @@
    26658
   ],
   "jp": "残念だが、{n}貴様に俺は止められない。",
-  "en": "",
-  "status": ""
+  "en": "Too bad, but you can't stop me.",
+  "status": "done"
  },
  {
   "id": "event_2183_0486B",
@@ -2432,8 +2432,8 @@
    26849
   ],
   "jp": "しっかし、こんだけ炎上したら、{n}復興にはそれなりの援助が{n}必要だよなあ。なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Well, with all this burning, the rebuilding will need some fire-nancial aid. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2183_048C0",
@@ -2444,8 +2444,8 @@
    27040
   ],
   "jp": "決戦の腹づもり、ってわけね。{n}…こっちも気合入れていかないと。",
-  "en": "",
-  "status": ""
+  "en": "Planning to make this the decisive battle, huh... I'd better give it my all too.",
+  "status": "done"
  },
  {
   "id": "event_2183_048FE",
@@ -2456,8 +2456,8 @@
    27058
   ],
   "jp": "覚悟を決めろ、魔法使い②",
-  "en": "",
-  "status": ""
+  "en": "Get ready, spellcaster!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04917",
@@ -2468,8 +2468,8 @@
    27256
   ],
   "jp": "グラムブレイズの全てを、{n}俺は貫いてやる②{n}さあ、来い！",
-  "en": "",
-  "status": ""
+  "en": "I'll run through all of Gram Blaze!! Now, come on!",
+  "status": "done"
  },
  {
   "id": "event_2183_0494E",
@@ -2480,8 +2480,8 @@
    27274
   ],
   "jp": "こういうの相手だと、{n}辛いんだよね……",
-  "en": "",
-  "status": ""
+  "en": "Fighting guys like this is such a pain...",
+  "status": "done"
  },
  {
   "id": "event_2183_04974",
@@ -2492,8 +2492,8 @@
    27465
   ],
   "jp": "ヒック、酔いも覚めちまったよ…",
-  "en": "",
-  "status": ""
+  "en": "*hic* Even the drunk's worn off...",
+  "status": "done"
  },
  {
   "id": "event_2183_04993",
@@ -2504,8 +2504,8 @@
    27656
   ],
   "jp": "うほー…{n}貧相な街並みだったけど、{n}こんな風になるとは感慨深いわね。",
-  "en": "",
-  "status": ""
+  "en": "Oho... These streets were pretty shabby, but seeing them like this really moves Pamela-sama.",
+  "status": "done"
  },
  {
   "id": "event_2183_049D6",
@@ -2516,8 +2516,8 @@
    27674
   ],
   "jp": "さあ、武器を取れ②{n}殺し合いだ、グラムブレイズ！",
-  "en": "",
-  "status": ""
+  "en": "Now, take up your weapons!! It's time to kill each other, Gram Blaze!",
+  "status": "done"
  },
  {
   "id": "event_2183_04A06",
@@ -2528,8 +2528,8 @@
    27865
   ],
   "jp": "天をも焼きかねない業火ですね。{n}いやはや、人間とは業が深い…",
-  "en": "",
-  "status": ""
+  "en": "Flames that might well burn up the very heavens. My, how deep the sins of humankind run...",
+  "status": "done"
  },
  {
   "id": "event_2183_04A42",
@@ -2540,8 +2540,8 @@
    27872
   ],
   "jp": "そして、殺しに傾倒する人間も、{n}また、業が深いと言えましょう…{n}フフフ。",
-  "en": "",
-  "status": ""
+  "en": "And those absorbed in killing, one might say, carry deep sins of their own... Hehehe.",
+  "status": "done"
  },
  {
   "id": "event_2183_04A89",
@@ -2552,8 +2552,8 @@
    28087
   ],
   "jp": "ケッ！　反乱軍の奴ら、{n}ここにきて悪逆の限りを{n}尽くしてやがるな！",
-  "en": "",
-  "status": ""
+  "en": "Tch! Those rebels have stooped to every evil they can think of!",
+  "status": "done"
  },
  {
   "id": "event_2183_04ACA",
@@ -2564,8 +2564,8 @@
    28094
   ],
   "jp": "街に火をかけて敵を誘き出す？{n}男の行為じゃねぇ！{n}ゆるさねぇぜ②",
-  "en": "",
-  "status": ""
+  "en": "Setting a city on fire to lure out your enemy? That's no way for a man to act! I won't stand for it!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04B09",
@@ -2576,8 +2576,8 @@
    28285
   ],
   "jp": "いい目をしているな。{n}人殺しの目だ。",
-  "en": "",
-  "status": ""
+  "en": "You've got good eyes. A killer's eyes.",
+  "status": "done"
  },
  {
   "id": "event_2183_04B2D",
@@ -2588,8 +2588,8 @@
    28303
   ],
   "jp": "黙れ、私は変わったのだ……",
-  "en": "",
-  "status": ""
+  "en": "Silence. I have changed...",
+  "status": "done"
  },
  {
   "id": "event_2183_04B48",
@@ -2600,8 +2600,8 @@
    28617
   ],
   "jp": "レオン！　この勝負は貰った②",
-  "en": "",
-  "status": ""
+  "en": "Leon! This match is mine!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04B65",
@@ -2612,8 +2612,8 @@
    28635
   ],
   "jp": "まだまだだッ！{n}この程度でいきがるんじゃないぜ②",
-  "en": "",
-  "status": ""
+  "en": "Not yet! Don't get cocky over this much!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04B95",
@@ -2624,8 +2624,8 @@
    28920
   ],
   "jp": "戦いだけが全てじゃないわ。{n}レオン、あなたも本当は{n}それに気が付いているんでしょ②",
-  "en": "",
-  "status": ""
+  "en": "Fighting isn't everything. Leon, you must really know that deep down!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04BE6",
@@ -2636,8 +2636,8 @@
    28938
   ],
   "jp": "黙れよ、{n}お前と俺は違うんだよ②",
-  "en": "",
-  "status": ""
+  "en": "Shut up, you and I are different!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04C06",
@@ -2648,8 +2648,8 @@
    29223
   ],
   "jp": "よくも、街を②",
-  "en": "",
-  "status": ""
+  "en": "How dare you, our city!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04C15",
@@ -2660,8 +2660,8 @@
    29241
   ],
   "jp": "火攻めの事は知らなかった。{n}だがその怨み、俺が受け止めよう②",
-  "en": "",
-  "status": ""
+  "en": "I knew nothing of the fire attack. But I'll take your grudge on myself!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04C51",
@@ -2672,8 +2672,8 @@
    29533
   ],
   "jp": "やはり貴様の力、伊達じゃない②",
-  "en": "",
-  "status": ""
+  "en": "So your strength's no bluff after all!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04C70",
@@ -2684,8 +2684,8 @@
    29551
   ],
   "jp": "今頃分かったわけではないだろ？",
-  "en": "",
-  "status": ""
+  "en": "You didn't only just figure that out, did you?",
+  "status": "done"
  },
  {
   "id": "event_2183_04C8F",
@@ -2696,8 +2696,8 @@
    29569
   ],
   "jp": "ああ、{n}でもな、{n}俺は戦わなきゃいけないんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Yeah. But, y'know, I've got to fight!",
+  "status": "done"
  },
  {
   "id": "event_2183_04CBE",
@@ -2708,8 +2708,8 @@
    29861
   ],
   "jp": "チッ②　上手いな……{n}間隙を突いて来やがった……",
-  "en": "",
-  "status": ""
+  "en": "Tch!! Clever... Hit me right where I left an opening...",
+  "status": "done"
  },
  {
   "id": "event_2183_04CEE",
@@ -2720,8 +2720,8 @@
    29879
   ],
   "jp": "力のない私の、それが戦い方！",
-  "en": "",
-  "status": ""
+  "en": "I have little strength. That is how I fight!",
+  "status": "done"
  },
  {
   "id": "event_2183_04D0B",
@@ -2732,8 +2732,8 @@
    30139
   ],
   "jp": "火の手が早い…{n}風向き次第ではニーベル街区にも{n}燃え移るかもしれんな。",
-  "en": "",
-  "status": ""
+  "en": "The fire moves fast... Depending on the wind, it may jump to the Nibel Quarter too.",
+  "status": "done"
  },
  {
   "id": "event_2183_04D50",
@@ -2744,8 +2744,8 @@
    30157
   ],
   "jp": "ネザー地区の消火を急ぐためにも、{n}反乱軍との戦闘を消化せねば。{n}なーんつって②",
-  "en": "",
-  "status": ""
+  "en": "To put out the Nether District fires, Byff must put out the rebels too. Ha, just kidding!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04D9D",
@@ -2756,8 +2756,8 @@
    30175
   ],
   "jp": "くだらねぇ事、ほざきやがって！{n}戦いを、舐めるな②",
-  "en": "",
-  "status": ""
+  "en": "Spouting that garbage! Don't you make light of battle!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04DCF",
@@ -2768,8 +2768,8 @@
    30467
   ],
   "jp": "反乱軍を止めるなら、{n}大砲ぶっ放した方が早いけど…",
-  "en": "",
-  "status": ""
+  "en": "If you want to stop the rebels, it'd be quicker to let the cannon rip, but...",
+  "status": "done"
  },
  {
   "id": "event_2183_04E01",
@@ -2780,8 +2780,8 @@
    30485
   ],
   "jp": "自軍の街でぶっ放したら、{n}さすがに怨みを買っちゃうわね…",
-  "en": "",
-  "status": ""
+  "en": "If I fired it off inside our own city, people would hate me for it, even for me...",
+  "status": "done"
  },
  {
   "id": "event_2183_04E39",
@@ -2792,8 +2792,8 @@
    30777
   ],
   "jp": "戦いに巻き込まれて泣くのは{n}いつだって力のない人なんだよな。",
-  "en": "",
-  "status": ""
+  "en": "The ones who end up crying when they get dragged into a fight are always the people with no power.",
+  "status": "done"
  },
  {
   "id": "event_2183_04E75",
@@ -2804,8 +2804,8 @@
    30795
   ],
   "jp": "でも、お前はちょっと違うな。{n}少なくとも、力のない奴に{n}手を出しているようには見えない。",
-  "en": "",
-  "status": ""
+  "en": "But you're a little different. At least, you don't seem to be going after the powerless.",
+  "status": "done"
  },
  {
   "id": "event_2183_04ECC",
@@ -2816,8 +2816,8 @@
    30813
   ],
   "jp": "俺の望みは強者と戦う事だ！{n}弱者の事など、知ったことか②",
-  "en": "",
-  "status": ""
+  "en": "All I want is to fight the strong! Who cares about the weak!!",
+  "status": "done"
  },
  {
   "id": "event_2183_04F04",
@@ -2828,8 +2828,8 @@
    31137
   ],
   "jp": "ちいっ、手負ったか…！",
-  "en": "",
-  "status": ""
+  "en": "Tch, I'm hit...!",
+  "status": "done"
  },
  {
   "id": "event_2183_04F1B",
@@ -2840,8 +2840,8 @@
    31155
   ],
   "jp": "ウゲぇぇぇぇぇ、{n}ダメだ、酒が切れそう……",
-  "en": "",
-  "status": ""
+  "en": "Bleaaagh, this is bad, I'm runnin' outta booze...",
+  "status": "done"
  },
  {
   "id": "event_2183_04F45",
@@ -2852,8 +2852,8 @@
    31440
   ],
   "jp": "や、やはり、{n}魔法の力は理解不能だぜ……",
-  "en": "",
-  "status": ""
+  "en": "Th-that magic stuff really is beyond me...",
+  "status": "done"
  },
  {
   "id": "event_2183_04F6D",
@@ -2864,8 +2864,8 @@
    31458
   ],
   "jp": "アンタの頭が悪いだけなんだわさ！",
-  "en": "",
-  "status": ""
+  "en": "That's just because you're dumb!",
+  "status": "done"
  },
  {
   "id": "event_2183_04F8E",
@@ -2876,8 +2876,8 @@
    31750
   ],
   "jp": "惜しいですね、あなたは。{n}本能で戦いを起こしているのに、{n}その規模に大きさがない…",
-  "en": "",
-  "status": ""
+  "en": "What a pity you are. You stir up battles on instinct, yet their scale has no greatness...",
+  "status": "done"
  },
  {
   "id": "event_2183_04FDF",
@@ -2888,8 +2888,8 @@
    31768
   ],
   "jp": "今のあなたは、{n}人を動かす器ではありませんね。",
-  "en": "",
-  "status": ""
+  "en": "As you are now, you lack the stature to lead people.",
+  "status": "done"
  },
  {
   "id": "event_2183_0500D",
@@ -2900,8 +2900,8 @@
    31786
   ],
   "jp": "だから、どうだってんだよ！",
-  "en": "",
-  "status": ""
+  "en": "So what if I do!",
+  "status": "done"
  },
  {
   "id": "event_2183_05028",
@@ -2912,8 +2912,8 @@
    32116
   ],
   "jp": "戦いに対するお前の考え。{n}共感できる部分もあるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Your take on fighting. I can get behind some of it.",
+  "status": "done"
  },
  {
   "id": "event_2183_0505A",
@@ -2924,8 +2924,8 @@
    32165
   ],
   "jp": "相手にとって、不足はねぇ②",
-  "en": "",
-  "status": ""
+  "en": "You'll make a worthy opponent!!",
+  "status": "done"
  },
  {
   "id": "event_2183_05075",
@@ -2936,8 +2936,8 @@
    32183
   ],
   "jp": "身なりはふざけてるが、{n}気迫、覚悟、伝わってくるぜ！",
-  "en": "",
-  "status": ""
+  "en": "You're dressed like a joke, but I can feel your spirit, your resolve!",
+  "status": "done"
  },
  {
   "id": "event_2183_050A9",
@@ -2948,8 +2948,8 @@
    32506
   ],
   "jp": "…私と似ているな。{n}戦いに対するお前の考え。{n}お前の目には、戦いしかない…",
-  "en": "",
-  "status": ""
+  "en": "...You are like me. Your take on fighting. Your eyes hold nothing but battle...",
+  "status": "done"
  },
  {
   "id": "event_2183_050F2",
@@ -2960,8 +2960,8 @@
    32524
   ],
   "jp": "それが、どうだって言うんだ。",
-  "en": "",
-  "status": ""
+  "en": "So what about it.",
+  "status": "done"
  },
  {
   "id": "event_2183_0510F",
@@ -2972,8 +2972,8 @@
    32542
   ],
   "jp": "寂しい、という事だ……",
-  "en": "",
-  "status": ""
+  "en": "It means you are lonely...",
+  "status": "done"
  },
  {
   "id": "event_2183_05126",
@@ -2984,8 +2984,8 @@
    28704
   ],
   "jp": "思ったよりも、入りが浅かったか。{n}あれでは致命傷にはならんな……",
-  "en": "",
-  "status": ""
+  "en": "It went in shallower than I thought. That won't be a fatal wound...",
+  "status": "done"
  },
  {
   "id": "event_2183_05166",
@@ -2996,8 +2996,8 @@
    28722
   ],
   "jp": "レオンの槍には一分の迷いもない。{n}本当にここで決着をつける気だ。",
-  "en": "",
-  "status": ""
+  "en": "There's not an ounce of doubt in Leon's spear. He really means to settle this here.",
+  "status": "done"
  },
  {
   "id": "event_2183_051A6",
@@ -3008,8 +3008,8 @@
    29007
   ],
   "jp": "負けられないんだよ！",
-  "en": "",
-  "status": ""
+  "en": "I can't lose this!",
+  "status": "done"
  },
  {
   "id": "event_2183_051BB",
@@ -3020,8 +3020,8 @@
    29025
   ],
   "jp": "闘志を感じるぞ、女！{n}まだ、戦えるんだろ？{n}さぁ来いよ！",
-  "en": "",
-  "status": ""
+  "en": "I can feel your will to fight, woman! You can still go on, right? Come on, then!",
+  "status": "done"
  },
  {
   "id": "event_2183_051F2",
@@ -3032,8 +3032,8 @@
    29310
   ],
   "jp": "どうした！{n}その程度で終わりなのか？",
-  "en": "",
-  "status": ""
+  "en": "What's wrong! Is that all you've got?",
+  "status": "done"
  },
  {
   "id": "event_2183_05216",
@@ -3044,8 +3044,8 @@
    29328
   ],
   "jp": "終りじゃない。{n}まだ、力と知恵が残っている②",
-  "en": "",
-  "status": ""
+  "en": "I'm not done. I've still got strength and wits left!!",
+  "status": "done"
  },
  {
   "id": "event_2183_05242",
@@ -3056,8 +3056,8 @@
    29645
   ],
   "jp": "オラオラ、どうしたっ③",
-  "en": "",
-  "status": ""
+  "en": "C'mon, c'mon, what's wrong!?",
+  "status": "done"
  },
  {
   "id": "event_2183_05259",
@@ -3068,8 +3068,8 @@
    29663
   ],
   "jp": "瞬間の油断が命取りになる……{n}集中しろ、メデューテ②",
-  "en": "",
-  "status": ""
+  "en": "One careless moment could cost you your life... Focus, Medoute!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0528D",
@@ -3080,8 +3080,8 @@
    29941
   ],
   "jp": "…まだです。{n}まだ、負けられません！",
-  "en": "",
-  "status": ""
+  "en": "...Not yet. I cannot lose yet!",
+  "status": "done"
  },
  {
   "id": "event_2183_052B1",
@@ -3092,8 +3092,8 @@
    30251
   ],
   "jp": "バイフー、あぶなかった！",
-  "en": "",
-  "status": ""
+  "en": "That was close for Byff!",
+  "status": "done"
  },
  {
   "id": "event_2183_052CA",
@@ -3104,8 +3104,8 @@
    30269
   ],
   "jp": "炎で頭の毛が燃えるところだった。{n}まさに紙一重…{n}いや、髪一重、なーんつって②",
-  "en": "",
-  "status": ""
+  "en": "Flames nearly got the fur on Byff's head. That was close... A close shave! Ha, just kidding!!",
+  "status": "done"
  },
  {
   "id": "event_2183_05317",
@@ -3116,8 +3116,8 @@
    30554
   ],
   "jp": "このまま一気に攻め崩せ！",
-  "en": "",
-  "status": ""
+  "en": "Keep it up and break them all at once!",
+  "status": "done"
  },
  {
   "id": "event_2183_05330",
@@ -3128,8 +3128,8 @@
    30572
   ],
   "jp": "まずいわね、押されているわ。{n}けど退くわけにもいかないし…",
-  "en": "",
-  "status": ""
+  "en": "Not good, they're pushing us back. But I can't retreat either...",
+  "status": "done"
  },
  {
   "id": "event_2183_0536A",
@@ -3140,8 +3140,8 @@
    30896
   ],
   "jp": "次はどいつだ②",
-  "en": "",
-  "status": ""
+  "en": "Who's next!!",
+  "status": "done"
  },
  {
   "id": "event_2183_05379",
@@ -3152,8 +3152,8 @@
    30914
   ],
   "jp": "荒っぽい攻撃だけど…{n}行き当たりばったりじゃない。",
-  "en": "",
-  "status": ""
+  "en": "It's a rough attack, but... it's no shot in the dark.",
+  "status": "done"
  },
  {
   "id": "event_2183_053AB",
@@ -3164,8 +3164,8 @@
    30932
   ],
   "jp": "レオン、{n}やはり並の戦士じゃないってか…",
-  "en": "",
-  "status": ""
+  "en": "Leon, you really aren't any ordinary fighter...",
+  "status": "done"
  },
  {
   "id": "event_2183_053D3",
@@ -3176,8 +3176,8 @@
    31224
   ],
   "jp": "次に死にたい奴は、前に出ろ！",
-  "en": "",
-  "status": ""
+  "en": "Whoever wants to die next, step forward!",
+  "status": "done"
  },
  {
   "id": "event_2183_053F0",
@@ -3188,8 +3188,8 @@
    31242
   ],
   "jp": "ヒック……、ウーーっ、{n}酒が足りないのかね…",
-  "en": "",
-  "status": ""
+  "en": "*hic* Ughhh, maybe I ain't had enough to drink...",
+  "status": "done"
  },
  {
   "id": "event_2183_0541C",
@@ -3200,8 +3200,8 @@
    31527
   ],
   "jp": "あちちっ！{n}またあたしの服に引火したわ！{n}何してくれんのよ、アンタ！",
-  "en": "",
-  "status": ""
+  "en": "Hot, hot! My clothes are on fire again! What do you think you're doing!",
+  "status": "done"
  },
  {
   "id": "event_2183_0545F",
@@ -3212,8 +3212,8 @@
    31545
   ],
   "jp": "知るかよ！",
-  "en": "",
-  "status": ""
+  "en": "How should I know!",
+  "status": "done"
  },
  {
   "id": "event_2183_0546A",
@@ -3224,8 +3224,8 @@
    31862
   ],
   "jp": "それが本気の力か？{n}俺にはそうとは思えないぜ！",
-  "en": "",
-  "status": ""
+  "en": "That's your real strength? I can't believe it is!",
+  "status": "done"
  },
  {
   "id": "event_2183_05498",
@@ -3236,8 +3236,8 @@
    31880
   ],
   "jp": "よい眼力です……",
-  "en": "",
-  "status": ""
+  "en": "You have a good eye...",
+  "status": "done"
  },
  {
   "id": "event_2183_054A9",
@@ -3248,8 +3248,8 @@
    32290
   ],
   "jp": "…死を決して力を引き出す、か。{n}黒騎士の覚悟、見届けたぜ。",
-  "en": "",
-  "status": ""
+  "en": "...Drawing out power by resolving to die, huh. I've seen the Black Knight's resolve.",
+  "status": "done"
  },
  {
   "id": "event_2183_054E3",
@@ -3260,8 +3260,8 @@
    32308
   ],
   "jp": "ならば全力で応えろ！",
-  "en": "",
-  "status": ""
+  "en": "Then answer me with everything you've got!",
+  "status": "done"
  },
  {
   "id": "event_2183_054F8",
@@ -3272,8 +3272,8 @@
    32604
   ],
   "jp": "……速いッ！",
-  "en": "",
-  "status": ""
+  "en": "...So fast!",
+  "status": "done"
  },
  {
   "id": "event_2183_0890C",
@@ -3284,8 +3284,8 @@
    41149
   ],
   "jp": "{voice:00C10D}ティエラの後は国盗りか…{n}忙しくなるぜ、コレからはよ②",
-  "en": "",
-  "status": ""
+  "en": "After Tiera, I'll take the country... Things are gonna get busy from here on!!",
+  "status": "done"
  },
  {
   "id": "event_2183_08946",
@@ -3296,8 +3296,8 @@
    41167
   ],
   "jp": "{voice:00C20D}パンドラを阻止しろ！{n}決して橋を越えさせるなッ②",
-  "en": "",
-  "status": ""
+  "en": "Stop Pandra! Don't let him cross that bridge, no matter what!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0897A",
@@ -3308,8 +3308,8 @@
    52404
   ],
   "jp": "{voice:00C30D}橋に行くのを食い止める…{n}いつかのデイヴィドを思い出すね。",
-  "en": "",
-  "status": ""
+  "en": "Keeping them from the bridge... Reminds me of David that one time.",
+  "status": "done"
  },
  {
   "id": "event_2183_089B8",
@@ -3320,8 +3320,8 @@
    52422
   ],
   "jp": "{voice:00C40D}あの時から、俺たちは力と知恵と{n}義とを手に入れてきた。",
-  "en": "",
-  "status": ""
+  "en": "Since then, we've gained strength and wits and justice.",
+  "status": "done"
  },
  {
   "id": "event_2183_089F2",
@@ -3332,8 +3332,8 @@
    52440
   ],
   "jp": "{voice:00C50D}絶対に止めてやる……{n}俺達の過去を無意味にしない為に。",
-  "en": "",
-  "status": ""
+  "en": "We'll stop him no matter what... So our past won't have been for nothing.",
+  "status": "done"
  },
  {
   "id": "event_2183_08A2C",
@@ -3344,8 +3344,8 @@
    52458
   ],
   "jp": "{voice:00C60D}…そうだよね、ガーロット。{n}負けてられないよ！",
-  "en": "",
-  "status": ""
+  "en": "...Yeah, Garlot. We can't lose this!",
+  "status": "done"
  },
  {
   "id": "event_2183_08A5E",
@@ -3356,8 +3356,8 @@
    47849
   ],
   "jp": "{voice:00C70D}足止めにインザーギ、お前達の{n}陽動と消耗にレオンと打った{n}布石が殆ど効いてないのか？",
-  "en": "",
-  "status": ""
+  "en": "Inzaghi to stall you, Leon to lure and wear you out. Are the moves I set up hardly working?",
+  "status": "done"
  },
  {
   "id": "event_2183_08AB5",
@@ -3368,8 +3368,8 @@
    47867
   ],
   "jp": "{voice:00C80D}お前、部下を布石と言うのか！",
-  "en": "",
-  "status": ""
+  "en": "You call your own men \"moves\"!",
+  "status": "done"
  },
  {
   "id": "event_2183_08AD6",
@@ -3380,8 +3380,8 @@
    47885
   ],
   "jp": "{voice:00C90D}勘違いすんなよ、{n}あの二人は部下なんかじゃねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Don't get me wrong. Those two are no men of mine.",
+  "status": "done"
  },
  {
   "id": "event_2183_08B0A",
@@ -3392,8 +3392,8 @@
    53674
   ],
   "jp": "{voice:00CA0D}なんだって、バカな…！",
-  "en": "",
-  "status": ""
+  "en": "What did you say, impossible...!",
+  "status": "done"
  },
  {
   "id": "event_2183_08B25",
@@ -3404,8 +3404,8 @@
    53681
   ],
   "jp": "{voice:00CB0D}インザーギやレオンと戦い、{n}消耗したはずじゃなかったのか③",
-  "en": "",
-  "status": ""
+  "en": "You were supposed to be worn out from fighting Inzaghi and Leon!?",
+  "status": "done"
  },
  {
   "id": "event_2183_08B63",
@@ -3416,8 +3416,8 @@
    53875
   ],
   "jp": "{voice:00CC0D}パンドラ②{n}街に火を掛け、民を傷つける{n}お前に、反乱を語る資格はない！",
-  "en": "",
-  "status": ""
+  "en": "Pandra!! Burning the city, hurting people, you've got no right to talk about rebellion!",
+  "status": "done"
  },
  {
   "id": "event_2183_08BAC",
@@ -3428,8 +3428,8 @@
    53882
   ],
   "jp": "{voice:00CD0D}今すぐ俺が討ち取ってやる！{n}そこを動くな②",
-  "en": "",
-  "status": ""
+  "en": "I'll take you down right now! Don't move!!",
+  "status": "done"
  },
  {
   "id": "event_2183_08BDA",
@@ -3440,8 +3440,8 @@
    53927
   ],
   "jp": "{voice:00CE0D}ヒ、ヒィーッ！",
-  "en": "",
-  "status": ""
+  "en": "Ee, eeeek!",
+  "status": "done"
  },
  {
   "id": "event_2183_08BED",
@@ -3452,8 +3452,8 @@
    53934
   ],
   "jp": "{voice:00CF0D}…や、や、やべぇ。{n}コイツ、間違いなくヤベェ…！",
-  "en": "",
-  "status": ""
+  "en": "...Th-th-this is bad. This guy is definitely bad news...!",
+  "status": "done"
  },
  {
   "id": "event_2183_08C21",
@@ -3464,8 +3464,8 @@
    53952
   ],
   "jp": "{voice:00D00D}何をするんですか、{n}パンドラ様！",
-  "en": "",
-  "status": ""
+  "en": "What are you doing, Pandra-sama!",
+  "status": "done"
  },
  {
   "id": "event_2183_08C45",
@@ -3476,8 +3476,8 @@
    53970
   ],
   "jp": "{voice:00D10D}ヒッ、ひぃぃぃぃぃーーー②",
-  "en": "",
-  "status": ""
+  "en": "Eek, eeeeeeeeek!!",
+  "status": "done"
  },
  {
   "id": "event_2183_08C64",
@@ -3488,8 +3488,8 @@
    53988
   ],
   "jp": "{voice:00D20D}部下を盾に逃げる気か！",
-  "en": "",
-  "status": ""
+  "en": "Using your men as a shield to run away!",
+  "status": "done"
  },
  {
   "id": "event_2183_08C7F",
@@ -3500,8 +3500,8 @@
    54016
   ],
   "jp": "{voice:00D30D}…や、や、やべぇ。",
-  "en": "",
-  "status": ""
+  "en": "...Th-th-this is bad.",
+  "status": "done"
  },
  {
   "id": "event_2183_08C96",
@@ -3512,8 +3512,8 @@
    54034
   ],
   "jp": "{voice:00D40D}待て、パンドラ②",
-  "en": "",
-  "status": ""
+  "en": "Wait, Pandra!!",
+  "status": "done"
  },
  {
   "id": "event_2183_08CAB",
@@ -3524,8 +3524,8 @@
    54218
   ],
   "jp": "{voice:00D50D}クソッ、逃がしちまった。",
-  "en": "",
-  "status": ""
+  "en": "Damn it, he got away.",
+  "status": "done"
  },
  {
   "id": "event_2183_08CC8",
@@ -3536,8 +3536,8 @@
    54236
   ],
   "jp": "{voice:00D60D}ふざけやがって……{n}貧しさに喘ぐ人を利用しやがって{n}何が反乱だ！",
-  "en": "",
-  "status": ""
+  "en": "Screw him... Taking advantage of people gasping in poverty, and he calls it rebellion!",
+  "status": "done"
  },
  {
   "id": "event_2183_08D0B",
@@ -3548,8 +3548,8 @@
    54254
   ],
   "jp": "{voice:00D70D}お前の言う通りだぜ、赤髪。",
-  "en": "",
-  "status": ""
+  "en": "You said it, Red.",
+  "status": "done"
  },
  {
   "id": "event_2183_08D2A",
@@ -3560,8 +3560,8 @@
    54272
   ],
   "jp": "{voice:00D80D}レオン…",
-  "en": "",
-  "status": ""
+  "en": "Leon...",
+  "status": "done"
  },
  {
   "id": "event_2183_08D37",
@@ -3572,8 +3572,8 @@
    54290
   ],
   "jp": "{voice:00D90D}奴に…、パンドラに、{n}反乱を騙る資格なんかねぇんだ。",
-  "en": "",
-  "status": ""
+  "en": "That guy... Pandra's got no right to pass himself off as a rebel.",
+  "status": "done"
  },
  {
   "id": "event_2183_08D6F",
@@ -3584,8 +3584,8 @@
    54297
   ],
   "jp": "{voice:00DA0D}部下が酔い痴れる言葉を、{n}巧みに振りかざし、その気にさせ{n}自分の手駒として使う…",
-  "en": "",
-  "status": ""
+  "en": "He waves around the words that get his men drunk, gets them fired up, and uses them as his pawns...",
+  "status": "done"
  },
  {
   "id": "event_2183_08DC2",
@@ -3596,8 +3596,8 @@
    54304
   ],
   "jp": "{voice:00DB0D}反抗心、権力、衣食、酒に女…{n}全てを利用する。",
-  "en": "",
-  "status": ""
+  "en": "Defiance, power, food and clothes, booze and women... He uses all of it.",
+  "status": "done"
  },
  {
   "id": "event_2183_08DF4",
@@ -3608,8 +3608,8 @@
    54322
   ],
   "jp": "{voice:00DC0D}お前はどうして、{n}そんな奴に力を貸したんだ？",
-  "en": "",
-  "status": ""
+  "en": "Then why'd you lend your strength to a guy like that?",
+  "status": "done"
  },
  {
   "id": "event_2183_08E24",
@@ -3620,8 +3620,8 @@
    54340
   ],
   "jp": "{voice:00DD0D}わからねぇ。",
-  "en": "",
-  "status": ""
+  "en": "I don't know.",
+  "status": "done"
  },
  {
   "id": "event_2183_08E35",
@@ -3632,8 +3632,8 @@
    54358
   ],
   "jp": "{voice:00DE0D}貴様が持つ物に嫉妬したのか、{n}敗戦の汚辱をそそぎたかったのか。{n}ただ、俺は貴様が憎かった。",
-  "en": "",
-  "status": ""
+  "en": "Maybe I envied what you've got. Maybe I wanted to wipe away the shame of losing. I just hated you.",
+  "status": "done"
  },
  {
   "id": "event_2183_08E92",
@@ -3644,8 +3644,8 @@
    54365
   ],
   "jp": "{voice:00DF0D}そんな時、奴に出会い、{n}兵を借りて、お前を倒す事を{n}生きる目的とした。",
-  "en": "",
-  "status": ""
+  "en": "That's when I met him. I borrowed his soldiers and made beating you my reason for living.",
+  "status": "done"
  },
  {
   "id": "event_2183_08EDB",
@@ -3668,8 +3668,8 @@
    54405
   ],
   "jp": "{voice:00E00D}槍を取れ、赤髪。{n}決着を付けさせてくれ。",
-  "en": "",
-  "status": ""
+  "en": "Take up your spear, Red. Let me settle this.",
+  "status": "done"
  },
  {
   "id": "event_2183_08F12",
@@ -3680,8 +3680,8 @@
    54423
   ],
   "jp": "{voice:00E10D}お前の為に戦う、そうだな。",
-  "en": "",
-  "status": ""
+  "en": "So I fight for your sake. Right.",
+  "status": "done"
  },
  {
   "id": "event_2183_08F31",
@@ -3692,8 +3692,8 @@
    54441
   ],
   "jp": "{voice:00E20D}そうだ、手加減は無用。{n}さあ、行くぞ！",
-  "en": "",
-  "status": ""
+  "en": "That's right. No holding back. Now, here I come!",
+  "status": "done"
  },
  {
   "id": "event_2183_08F5B",
@@ -3704,8 +3704,8 @@
    41411
   ],
   "jp": "残念だったな、グラムブレイズ！{n}お前達が守るべきものは、{n}この俺の手に落ちたッ！",
-  "en": "",
-  "status": ""
+  "en": "Too bad, Gram Blaze! What you were meant to protect has fallen into my hands!",
+  "status": "done"
  },
  {
   "id": "event_2183_08FAA",
@@ -3716,8 +3716,8 @@
    41429
   ],
   "jp": "くっ、パンドラぁ②",
-  "en": "",
-  "status": ""
+  "en": "Ngh, Pandraaa!!",
+  "status": "done"
  },
  {
   "id": "event_2183_08FBD",
@@ -3728,8 +3728,8 @@
    41447
   ],
   "jp": "せいぜい吠えてろ！{n}食い物も酒も女も国も、{n}全部この俺がいただくぜ②",
-  "en": "",
-  "status": ""
+  "en": "Howl all you like! The food, the booze, the women, the country, I'm taking it all!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09000",
@@ -3740,8 +3740,8 @@
    41465
   ],
   "jp": "…ちっくしょおお②",
-  "en": "",
-  "status": ""
+  "en": "...Damn iiiit!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09013",
@@ -3752,8 +3752,8 @@
    44867
   ],
   "jp": "行かせるかよ！{n}パンドラ②",
-  "en": "",
-  "status": ""
+  "en": "I won't let you through! Pandra!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0902D",
@@ -3764,8 +3764,8 @@
    44885
   ],
   "jp": "止められるか、俺を！{n}しかし無駄だ、お前は俺の策に{n}ハマったんだよ②",
-  "en": "",
-  "status": ""
+  "en": "Think you can stop me! But it's no use, you walked right into my trap!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09070",
@@ -3776,8 +3776,8 @@
    45083
   ],
   "jp": "アンタ、なんて卑怯なの！{n}レオンは少なくとも{n}真正面から向かってきたわ②",
-  "en": "",
-  "status": ""
+  "en": "How low can you get! Leon at least came straight at us!!",
+  "status": "done"
  },
  {
   "id": "event_2183_090B7",
@@ -3788,8 +3788,8 @@
    45101
   ],
   "jp": "卑怯？　何を言う。{n}これはな、兵法ってんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Low? What are you talking about? This here's what they call strategy!",
+  "status": "done"
  },
  {
   "id": "event_2183_090E5",
@@ -3800,8 +3800,8 @@
    45299
   ],
   "jp": "ニーベル街区には、{n}既にネザー地区のみんなが{n}逃げ込んで、混乱している…",
-  "en": "",
-  "status": ""
+  "en": "The Nibel Quarter is already full of folks from the Nether District who fled there, and it's in chaos...",
+  "status": "done"
  },
  {
   "id": "event_2183_0912C",
@@ -3812,8 +3812,8 @@
    45306
   ],
   "jp": "そんな場所に、武装した反乱軍を{n}入れるわけにはいかない！{n}ここで絶対に止めるッ②",
-  "en": "",
-  "status": ""
+  "en": "We can't let an armed rebel army into a place like that! We stop them here, no matter what!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0917B",
@@ -3824,8 +3824,8 @@
    45324
   ],
   "jp": "無駄だ、もう遅い②",
-  "en": "",
-  "status": ""
+  "en": "It's no use, too late!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0918E",
@@ -3836,8 +3836,8 @@
    45522
   ],
   "jp": "卑劣な行為だ…、{n}それで歴史が作れると{n}思っているのか？",
-  "en": "",
-  "status": ""
+  "en": "A despicable act... You think that's how history gets made?",
+  "status": "done"
  },
  {
   "id": "event_2183_091C5",
@@ -3848,8 +3848,8 @@
    45540
   ],
   "jp": "ああ、思っているさ、{n}戦争に勝った方が歴史を作る。{n}勝者が正義となるんだ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I do. The side that wins the war writes the history. The winner gets to be justice.",
+  "status": "done"
  },
  {
   "id": "event_2183_0920E",
@@ -3860,8 +3860,8 @@
    45558
   ],
   "jp": "その口で、正義を語るな②",
-  "en": "",
-  "status": ""
+  "en": "Don't you dare talk about justice with that mouth!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09227",
@@ -3872,8 +3872,8 @@
    45756
   ],
   "jp": "力なき人々を、{n}盾にするなんて…、許しません！",
-  "en": "",
-  "status": ""
+  "en": "Using the powerless as a shield... I will not forgive it!",
+  "status": "done"
  },
  {
   "id": "event_2183_09255",
@@ -3884,8 +3884,8 @@
    45774
   ],
   "jp": "許す、許さないの問題じゃない。{n}力ある者が、力なき者を喰う！{n}それは、自然の摂理だ。",
-  "en": "",
-  "status": ""
+  "en": "It's not about forgiving or not. The strong eat the weak! That's the law of nature.",
+  "status": "done"
  },
  {
   "id": "event_2183_092A8",
@@ -3896,8 +3896,8 @@
    45972
   ],
   "jp": "バイフー、怒った！{n}しばらくダジャレ、封印する。",
-  "en": "",
-  "status": ""
+  "en": "Byff is angry! Byff's puns are sealed for now.",
+  "status": "done"
  },
  {
   "id": "event_2183_092D8",
@@ -3908,8 +3908,8 @@
    45990
   ],
   "jp": "お前、緊張感ないよな……",
-  "en": "",
-  "status": ""
+  "en": "You've got no sense of tension, you know that...",
+  "status": "done"
  },
  {
   "id": "event_2183_092F1",
@@ -3920,8 +3920,8 @@
    46188
   ],
   "jp": "おっと、邪魔する気か？",
-  "en": "",
-  "status": ""
+  "en": "Oh ho, trying to get in my way?",
+  "status": "done"
  },
  {
   "id": "event_2183_09308",
@@ -3932,8 +3932,8 @@
    46206
   ],
   "jp": "卑怯だとか言うつもり無いけど、{n}こう見えて私、街や団に{n}結構愛着あるのよね。",
-  "en": "",
-  "status": ""
+  "en": "I won't call you a coward, but I may not look it, I've grown pretty attached to this city and this band.",
+  "status": "done"
  },
  {
   "id": "event_2183_09353",
@@ -3944,8 +3944,8 @@
    46404
   ],
   "jp": "火をかけさせたのは、{n}お前の指示だったのか…",
-  "en": "",
-  "status": ""
+  "en": "So you gave the order to set those fires...",
+  "status": "done"
  },
  {
   "id": "event_2183_0937F",
@@ -3956,8 +3956,8 @@
    46422
   ],
   "jp": "だったら、どうする？",
-  "en": "",
-  "status": ""
+  "en": "And if I did?",
+  "status": "done"
  },
  {
   "id": "event_2183_09394",
@@ -3968,8 +3968,8 @@
    46440
   ],
   "jp": "容赦しない！{n}力ない者を虐げる奴が{n}オイラは大ッ嫌いなんだよッ！",
-  "en": "",
-  "status": ""
+  "en": "No mercy! Guys who stomp on people with no power, I can't stand 'em!",
+  "status": "done"
  },
  {
   "id": "event_2183_093D3",
@@ -3980,8 +3980,8 @@
    46638
   ],
   "jp": "いい加減に、しなよッ②",
-  "en": "",
-  "status": ""
+  "en": "That's about enough outta you!!",
+  "status": "done"
  },
  {
   "id": "event_2183_093EA",
@@ -3992,8 +3992,8 @@
    46656
   ],
   "jp": "なんだよ、この気迫は……",
-  "en": "",
-  "status": ""
+  "en": "What's with this intensity...",
+  "status": "done"
  },
  {
   "id": "event_2183_09403",
@@ -4004,8 +4004,8 @@
    46854
   ],
   "jp": "今日は、容赦しないぜ！",
-  "en": "",
-  "status": ""
+  "en": "No mercy from me today!",
+  "status": "done"
  },
  {
   "id": "event_2183_0941A",
@@ -4016,8 +4016,8 @@
    46872
   ],
   "jp": "うほっ②{n}大将首、ハッケ～ン！{n}パメラ様がツバつけた～！",
-  "en": "",
-  "status": ""
+  "en": "Oho!! Enemy chief, spotted~! Pamela-sama calls dibs~!",
+  "status": "done"
  },
  {
   "id": "event_2183_09451",
@@ -4028,8 +4028,8 @@
    47070
   ],
   "jp": "ニーベル街区の制圧が目標なら{n}より有効な策を立てるべき{n}でしたね。",
-  "en": "",
-  "status": ""
+  "en": "If seizing the Nibel Quarter was your goal, you ought to have devised a more effective plan.",
+  "status": "done"
  },
  {
   "id": "event_2183_09492",
@@ -4040,8 +4040,8 @@
    47088
   ],
   "jp": "俺の作戦にケチ付けようってか？",
-  "en": "",
-  "status": ""
+  "en": "You trying to pick holes in my strategy?",
+  "status": "done"
  },
  {
   "id": "event_2183_094B1",
@@ -4052,8 +4052,8 @@
    47106
   ],
   "jp": "結果は、すぐに出るでしょう。",
-  "en": "",
-  "status": ""
+  "en": "The results will show soon enough.",
+  "status": "done"
  },
  {
   "id": "event_2183_094CE",
@@ -4064,8 +4064,8 @@
    47304
   ],
   "jp": "俺を止めてみせようって、{n}そう言う事だろ？",
-  "en": "",
-  "status": ""
+  "en": "You think you're gonna stop me, is that it?",
+  "status": "done"
  },
  {
   "id": "event_2183_094F8",
@@ -4076,8 +4076,8 @@
    47353
   ],
   "jp": "分かってんなら、話は早えぇ……{n}ぶっ飛ばしてやる②",
-  "en": "",
-  "status": ""
+  "en": "If you know that, this'll go quick... I'm gonna knock you flat!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0952A",
@@ -4088,8 +4088,8 @@
    47551
   ],
   "jp": "守るための戦い。{n}初めてだ、こんな戦い……",
-  "en": "",
-  "status": ""
+  "en": "A battle to protect. The first of its kind for me...",
+  "status": "done"
  },
  {
   "id": "event_2183_09554",
@@ -4100,8 +4100,8 @@
    47569
   ],
   "jp": "この男は、私が止める②",
-  "en": "",
-  "status": ""
+  "en": "This man. I will stop him!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0956B",
@@ -4112,8 +4112,8 @@
    48080
   ],
   "jp": "ティエラは俺達が守り抜く！{n}絶対に落とさせはしない②",
-  "en": "",
-  "status": ""
+  "en": "We'll protect Tiera to the end! We won't let it fall, no matter what!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0959F",
@@ -4124,8 +4124,8 @@
    48098
   ],
   "jp": "くそっ！　どこにそんな力を{n}残してやがったんだ…③",
-  "en": "",
-  "status": ""
+  "en": "Damn it! Where'd they have that much strength left...!?",
+  "status": "done"
  },
  {
   "id": "event_2183_095D1",
@@ -4136,8 +4136,8 @@
    48413
   ],
   "jp": "クソッ、レオンのヤツ。{n}もっと粘ってくれてたら、{n}楽できたんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Damn that Leon. If he'd only held out longer, I'd have had an easy time!",
+  "status": "done"
  },
  {
   "id": "event_2183_09612",
@@ -4148,8 +4148,8 @@
    48431
   ],
   "jp": "必ず止めると言った②{n}ティエラは、絶対に守る！",
-  "en": "",
-  "status": ""
+  "en": "I said I'd stop you!! I'll protect Tiera no matter what!",
+  "status": "done"
  },
  {
   "id": "event_2183_09640",
@@ -4160,8 +4160,8 @@
    48778
   ],
   "jp": "まだ戦意が落ちていない？{n}どうしてなんだ……",
-  "en": "",
-  "status": ""
+  "en": "Their fighting spirit still hasn't dropped? Why not...",
+  "status": "done"
  },
  {
   "id": "event_2183_0966C",
@@ -4172,8 +4172,8 @@
    48796
   ],
   "jp": "その答えは、簡単さ。{n}この街が、僕達の街だからだ！",
-  "en": "",
-  "status": ""
+  "en": "The answer's simple. Because this city is our city!",
+  "status": "done"
  },
  {
   "id": "event_2183_0969E",
@@ -4184,8 +4184,8 @@
    49118
   ],
   "jp": "ぐおおっ！　なんて力だッ③",
-  "en": "",
-  "status": ""
+  "en": "Gwaagh! What power!?",
+  "status": "done"
  },
  {
   "id": "event_2183_096B9",
@@ -4196,8 +4196,8 @@
    49136
   ],
   "jp": "読み違えたな、パンドラ。",
-  "en": "",
-  "status": ""
+  "en": "You miscalculated, Pandra.",
+  "status": "done"
  },
  {
   "id": "event_2183_096D2",
@@ -4208,8 +4208,8 @@
    49154
   ],
   "jp": "主力のレオンを切り捨てて、{n}どうしてあたし達に勝てるんだ？",
-  "en": "",
-  "status": ""
+  "en": "You threw away your main force, Leon. How did you expect to beat us?",
+  "status": "done"
  },
  {
   "id": "event_2183_0970C",
@@ -4220,8 +4220,8 @@
    49444
   ],
   "jp": "くうっ…！{n}な、なんてこった…",
-  "en": "",
-  "status": ""
+  "en": "Nngh...! Wh-what the...",
+  "status": "done"
  },
  {
   "id": "event_2183_0972A",
@@ -4232,8 +4232,8 @@
    49462
   ],
   "jp": "このティエラの街は、{n}私達みんなにとって、大切な街。{n}だから命を賭けて、守る②",
-  "en": "",
-  "status": ""
+  "en": "This city of Tiera is dear to all of us. So I will protect it with my life!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09777",
@@ -4244,8 +4244,8 @@
    49738
   ],
   "jp": "バイフー、ダジャレ封印だ！",
-  "en": "",
-  "status": ""
+  "en": "Byff's puns are sealed!",
+  "status": "done"
  },
  {
   "id": "event_2183_09792",
@@ -4256,8 +4256,8 @@
    50014
   ],
   "jp": "貧乏くさい街並みだったけど、{n}あたし、ネザー地区の事、{n}嫌いじゃなかったみたい。",
-  "en": "",
-  "status": ""
+  "en": "The streets were a shabby sight, but it turns out I didn't hate the Nether District.",
+  "status": "done"
  },
  {
   "id": "event_2183_097E1",
@@ -4268,8 +4268,8 @@
    50032
   ],
   "jp": "金がない連中は好きじゃないけど、{n}金を大事にしない奴よりは{n}よっぽどマシだからね。",
-  "en": "",
-  "status": ""
+  "en": "I don't care for people with no money, but they're a whole lot better than people who don't value money.",
+  "status": "done"
  },
  {
   "id": "event_2183_09832",
@@ -4280,8 +4280,8 @@
    50315
   ],
   "jp": "ぐっ…！{n}こいつ、こんなに強かったか？",
-  "en": "",
-  "status": ""
+  "en": "Ngh...! Was this one always this strong?",
+  "status": "done"
  },
  {
   "id": "event_2183_09858",
@@ -4292,8 +4292,8 @@
    50333
   ],
   "jp": "手加減しないからな！",
-  "en": "",
-  "status": ""
+  "en": "I'm not holding back!",
+  "status": "done"
  },
  {
   "id": "event_2183_0986D",
@@ -4304,8 +4304,8 @@
    50340
   ],
   "jp": "ティエラを襲った事、{n}必ず後悔させてやる②",
-  "en": "",
-  "status": ""
+  "en": "I'll make you regret attacking Tiera, you hear me!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09897",
@@ -4316,8 +4316,8 @@
    50623
   ],
   "jp": "ぬおっ②　こ、コイツ…？",
-  "en": "",
-  "status": ""
+  "en": "Whoa!! Wh-what is with this one...?",
+  "status": "done"
  },
  {
   "id": "event_2183_098B0",
@@ -4328,8 +4328,8 @@
    50641
   ],
   "jp": "因果を、その身に受けよ②",
-  "en": "",
-  "status": ""
+  "en": "Take your karma upon your own flesh!!",
+  "status": "done"
  },
  {
   "id": "event_2183_098C9",
@@ -4340,8 +4340,8 @@
    50924
   ],
   "jp": "俺が、小娘に押されている…③",
-  "en": "",
-  "status": ""
+  "en": "Me, getting pushed back by some little girl...!?",
+  "status": "done"
  },
  {
   "id": "event_2183_098E6",
@@ -4352,8 +4352,8 @@
    50942
   ],
   "jp": "あんたの悪行には{n}団員の皆がお怒りみたいだし、{n}やりすぎてもノープロね。",
-  "en": "",
-  "status": ""
+  "en": "Everybody in the band's mad about your evil deeds, so Pamela-sama going overboard is no prob.",
+  "status": "done"
  },
  {
   "id": "event_2183_0992D",
@@ -4364,8 +4364,8 @@
    51232
   ],
   "jp": "その程度ですか……",
-  "en": "",
-  "status": ""
+  "en": "Is that all...",
+  "status": "done"
  },
  {
   "id": "event_2183_09940",
@@ -4376,8 +4376,8 @@
    51250
   ],
   "jp": "所詮、私の駒にすらなれぬ男。",
-  "en": "",
-  "status": ""
+  "en": "In the end, a man not even fit to be my pawn.",
+  "status": "done"
  },
  {
   "id": "event_2183_0995D",
@@ -4388,8 +4388,8 @@
    51268
   ],
   "jp": "な、なんだと……",
-  "en": "",
-  "status": ""
+  "en": "Wh-what did you say...",
+  "status": "done"
  },
  {
   "id": "event_2183_0996E",
@@ -4400,8 +4400,8 @@
    51565
   ],
   "jp": "ぐ、こんなハズは…",
-  "en": "",
-  "status": ""
+  "en": "Ngh, this can't be...",
+  "status": "done"
  },
  {
   "id": "event_2183_09981",
@@ -4412,8 +4412,8 @@
    51614
   ],
   "jp": "よお、どうした？{n}蹴散らすんじゃなかったのか？",
-  "en": "",
-  "status": ""
+  "en": "Hey, what's up? Weren't you gonna scatter us?",
+  "status": "done"
  },
  {
   "id": "event_2183_099AF",
@@ -4424,8 +4424,8 @@
    51991
   ],
   "jp": "ウグッ……",
-  "en": "",
-  "status": ""
+  "en": "Ugh...",
+  "status": "done"
  },
  {
   "id": "event_2183_099BA",
@@ -4436,8 +4436,8 @@
    52009
   ],
   "jp": "勝機を、感じる……",
-  "en": "",
-  "status": ""
+  "en": "I sense a chance for victory...",
+  "status": "done"
  },
  {
   "id": "event_2183_099CD",
@@ -4448,8 +4448,8 @@
    48174
   ],
   "jp": "インザーギ、レオンと連戦した{n}お前が、温存していた俺達の{n}本隊と渡り合えるはずはない。",
-  "en": "",
-  "status": ""
+  "en": "You've fought Inzaghi and Leon back to back. No way you can stand up to my rested main force.",
+  "status": "done"
  },
  {
   "id": "event_2183_09A22",
@@ -4460,8 +4460,8 @@
    48192
   ],
   "jp": "お前も命は惜しいだろう？{n}命乞いをしろよ、赤髪。{n}そしたら、許してやってもいいぜ。",
-  "en": "",
-  "status": ""
+  "en": "You value your life too, don't you? Beg for it, Red. Then I just might let you off.",
+  "status": "done"
  },
  {
   "id": "event_2183_09A73",
@@ -4472,8 +4472,8 @@
    48210
   ],
   "jp": "誰が、お前なんかにッ！",
-  "en": "",
-  "status": ""
+  "en": "Who'd beg to the likes of you!",
+  "status": "done"
  },
  {
   "id": "event_2183_09A8A",
@@ -4484,8 +4484,8 @@
    48514
   ],
   "jp": "くっ②",
-  "en": "",
-  "status": ""
+  "en": "Ngh!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09A91",
@@ -4496,8 +4496,8 @@
    48532
   ],
   "jp": "どうした？{n}俺を止めるんじゃなかったのか？",
-  "en": "",
-  "status": ""
+  "en": "What's wrong? Weren't you going to stop me?",
+  "status": "done"
  },
  {
   "id": "event_2183_09ABB",
@@ -4508,8 +4508,8 @@
    48550
   ],
   "jp": "今降参すれば、許してやるぜ？",
-  "en": "",
-  "status": ""
+  "en": "Surrender now and I'll let you off, how about it?",
+  "status": "done"
  },
  {
   "id": "event_2183_09AD8",
@@ -4520,8 +4520,8 @@
    48568
   ],
   "jp": "黙れ！{n}絶対に、止めてみせる②",
-  "en": "",
-  "status": ""
+  "en": "Shut up! I'm going to stop you, no matter what!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09AF6",
@@ -4532,8 +4532,8 @@
    48872
   ],
   "jp": "お前はグラムブレイズの{n}参謀だったよなぁ、たしか？",
-  "en": "",
-  "status": ""
+  "en": "You're Gram Blaze's strategist, aren't you, if I recall?",
+  "status": "done"
  },
  {
   "id": "event_2183_09B28",
@@ -4544,8 +4544,8 @@
    48890
   ],
   "jp": "俺の策を読めなかった時点で、{n}お前の勝負は終わったのさ。{n}敗者はスッこんでな！",
-  "en": "",
-  "status": ""
+  "en": "Once you failed to read my plan, your game was over. Losers should butt out!",
+  "status": "done"
  },
  {
   "id": "event_2183_09B75",
@@ -4556,8 +4556,8 @@
    48908
   ],
   "jp": "まだだ……{n}僕はみんなを、守るんだ②",
-  "en": "",
-  "status": ""
+  "en": "Not yet... I'm going to protect everyone!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09B99",
@@ -4568,8 +4568,8 @@
    49230
   ],
   "jp": "クソッ……",
-  "en": "",
-  "status": ""
+  "en": "Damn it...",
+  "status": "done"
  },
  {
   "id": "event_2183_09BA4",
@@ -4580,8 +4580,8 @@
    49248
   ],
   "jp": "どうした、その程度かよ？",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, is that all you've got?",
+  "status": "done"
  },
  {
   "id": "event_2183_09BBD",
@@ -4592,8 +4592,8 @@
    49531
   ],
   "jp": "勝てる、勝てるぜ！",
-  "en": "",
-  "status": ""
+  "en": "I can win, I can win this!",
+  "status": "done"
  },
  {
   "id": "event_2183_09BD0",
@@ -4604,8 +4604,8 @@
    49549
   ],
   "jp": "こ、ここは、通さない……",
-  "en": "",
-  "status": ""
+  "en": "Y-you shall not pass here...",
+  "status": "done"
  },
  {
   "id": "event_2183_09BE9",
@@ -4616,8 +4616,8 @@
    49800
   ],
   "jp": "ははは！{n}負け犬は負け犬らしく、{n}そのまま地べたにでも這ってな！",
-  "en": "",
-  "status": ""
+  "en": "Hahaha! A loser oughta act like one and crawl in the dirt!",
+  "status": "done"
  },
  {
   "id": "event_2183_09C28",
@@ -4628,8 +4628,8 @@
    49818
   ],
   "jp": "バイフー、ダジャレ、封印中②",
-  "en": "",
-  "status": ""
+  "en": "Byff's puns are still sealed!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09C45",
@@ -4640,8 +4640,8 @@
    50101
   ],
   "jp": "大砲がなけりゃ、そんなもんか？",
-  "en": "",
-  "status": ""
+  "en": "Without your cannon, that's all you've got?",
+  "status": "done"
  },
  {
   "id": "event_2183_09C64",
@@ -4652,8 +4652,8 @@
    50119
   ],
   "jp": "言ってなさいよ！",
-  "en": "",
-  "status": ""
+  "en": "Say what you like!",
+  "status": "done"
  },
  {
   "id": "event_2183_09C75",
@@ -4664,8 +4664,8 @@
    50409
   ],
   "jp": "……しまった！",
-  "en": "",
-  "status": ""
+  "en": "...Oh, no!",
+  "status": "done"
  },
  {
   "id": "event_2183_09C84",
@@ -4676,8 +4676,8 @@
    50427
   ],
   "jp": "どうした？{n}命中率が下がってるぜ。",
-  "en": "",
-  "status": ""
+  "en": "What's wrong? Your aim's getting worse.",
+  "status": "done"
  },
  {
   "id": "event_2183_09CA6",
@@ -4688,8 +4688,8 @@
    50710
   ],
   "jp": "もっと、酒を……",
-  "en": "",
-  "status": ""
+  "en": "More... booze...",
+  "status": "done"
  },
  {
   "id": "event_2183_09CB7",
@@ -4700,8 +4700,8 @@
    50728
   ],
   "jp": "な、なんだコイツ……",
-  "en": "",
-  "status": ""
+  "en": "Wh-what is with this one...",
+  "status": "done"
  },
  {
   "id": "event_2183_09CCC",
@@ -4712,8 +4712,8 @@
    51011
   ],
   "jp": "ま、この程度の損害、{n}すぐにカバーできるんだわさ。",
-  "en": "",
-  "status": ""
+  "en": "Well, this much damage is nothing. Pamela-sama can make it up in no time.",
+  "status": "done"
  },
  {
   "id": "event_2183_09CFE",
@@ -4724,8 +4724,8 @@
    51029
   ],
   "jp": "ちっ、負け惜しみかよ……",
-  "en": "",
-  "status": ""
+  "en": "Tch, you sore loser...",
+  "status": "done"
  },
  {
   "id": "event_2183_09D17",
@@ -4736,8 +4736,8 @@
    51344
   ],
   "jp": "最後は力で押す……{n}そこに、元軍人としての{n}捻じ曲がったプライドが見えます。",
-  "en": "",
-  "status": ""
+  "en": "Pushing through by force at the end... There I can see your twisted pride as a former soldier.",
+  "status": "done"
  },
  {
   "id": "event_2183_09D62",
@@ -4748,8 +4748,8 @@
    51351
   ],
   "jp": "狡知になり切れないのです、{n}あなたは。",
-  "en": "",
-  "status": ""
+  "en": "You simply cannot commit to cunning.",
+  "status": "done"
  },
  {
   "id": "event_2183_09D88",
@@ -4760,8 +4760,8 @@
    51369
   ],
   "jp": "そういう台詞は、{n}俺に勝ってから言うんだな！",
-  "en": "",
-  "status": ""
+  "en": "Say that kinda thing after you've beaten me!",
+  "status": "done"
  },
  {
   "id": "event_2183_09DB4",
@@ -4772,8 +4772,8 @@
    51721
   ],
   "jp": "ちっ、しくじったか…",
-  "en": "",
-  "status": ""
+  "en": "Tch, I botched it...",
+  "status": "done"
  },
  {
   "id": "event_2183_09DC9",
@@ -4784,8 +4784,8 @@
    51739
   ],
   "jp": "どけっ！　邪魔なんだよ②",
-  "en": "",
-  "status": ""
+  "en": "Move! You're in my way!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09DE2",
@@ -4796,8 +4796,8 @@
    51788
   ],
   "jp": "うぉぉぉぉぉぉぉぉ！{n}まだまだぁぁぁぁぁぁぁッ②",
-  "en": "",
-  "status": ""
+  "en": "Raaaaaaaaaah! I ain't done yeeeeeeet!!",
+  "status": "done"
  },
  {
   "id": "event_2183_09E12",
@@ -4808,8 +4808,8 @@
    52085
   ],
   "jp": "敵の攻撃を、避けきれていない…",
-  "en": "",
-  "status": ""
+  "en": "Cannot fully avoid the enemy attacks...",
+  "status": "done"
  },
  {
   "id": "event_2183_09E31",
@@ -4820,8 +4820,8 @@
    52103
   ],
   "jp": "今日の俺は、イケてるぜ！",
-  "en": "",
-  "status": ""
+  "en": "I'm on a roll today!",
+  "status": "done"
  },
  {
   "id": "event_2183_09E4A",
@@ -4832,8 +4832,8 @@
    52121
   ],
   "jp": "負けられない。{n}絶対に…！",
-  "en": "",
-  "status": ""
+  "en": "I cannot lose. Absolutely not...!",
+  "status": "done"
  },
  {
   "id": "event_2183_0D528",
@@ -4844,8 +4844,8 @@
    57217
   ],
   "jp": "{voice:00E30D}しかし、{n}たった一部隊でどう戦う。",
-  "en": "",
-  "status": ""
+  "en": "But how are you going to fight with a single unit.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D54E",
@@ -4856,8 +4856,8 @@
    57235
   ],
   "jp": "{voice:00E40D}言ったはずだ……{n}噛める牙がある限り戦い抜くと。",
-  "en": "",
-  "status": ""
+  "en": "I told you... I'll fight to the end, as long as I've got fangs to bite with.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D582",
@@ -4868,8 +4868,8 @@
    57253
   ],
   "jp": "{voice:00E50D}お前に似てる奴を思い出したよ。",
-  "en": "",
-  "status": ""
+  "en": "You remind me of somebody.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D5A5",
@@ -4880,8 +4880,8 @@
    57271
   ],
   "jp": "{voice:00E60D}ん？",
-  "en": "",
-  "status": ""
+  "en": "Hm?",
+  "status": "done"
  },
  {
   "id": "event_2183_0D5AE",
@@ -4892,8 +4892,8 @@
    57289
   ],
   "jp": "{voice:00E70D}いや、こっちの話だ。{n}戦いは避けられないと、{n}そう改めて思っただけだ。",
-  "en": "",
-  "status": ""
+  "en": "Nah, never mind. I was just thinking again that there's no avoiding this fight.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D5F7",
@@ -4904,8 +4904,8 @@
    63792
   ],
   "jp": "{voice:00E80D}うぐっ……{n}み、見事……",
-  "en": "",
-  "status": ""
+  "en": "Ugh... W-well done...",
+  "status": "done"
  },
  {
   "id": "event_2183_0D613",
@@ -4916,8 +4916,8 @@
    63933
   ],
   "jp": "{voice:00E90D}お前こそ、流石だった。",
-  "en": "",
-  "status": ""
+  "en": "Same to you. You were something.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D62E",
@@ -4928,8 +4928,8 @@
    63954
   ],
   "jp": "{voice:00EA0D}…赤髪、俺の負けだ。{n}だが、命乞いをさせてくれ。",
-  "en": "",
-  "status": ""
+  "en": "...Red, I lost. But let me beg for my life.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D662",
@@ -4940,8 +4940,8 @@
    63972
   ],
   "jp": "{voice:00EB0D}なに？",
-  "en": "",
-  "status": ""
+  "en": "What?",
+  "status": "done"
  },
  {
   "id": "event_2183_0D66D",
@@ -4952,8 +4952,8 @@
    64230
   ],
   "jp": "{voice:00EC0D}燃えていない建物をできるだけ{n}砕いて、延焼を防ぐんだ！",
-  "en": "",
-  "status": ""
+  "en": "Tear down as many unburned buildings as you can to stop the fire spreading!",
+  "status": "done"
  },
  {
   "id": "event_2183_0D6A7",
@@ -4964,8 +4964,8 @@
    64248
   ],
   "jp": "{voice:00ED0D}反乱軍の残党がいる可能性はある。{n}非武装の者だけでの行動は避けて。",
-  "en": "",
-  "status": ""
+  "en": "There could be rebels left. Don't let unarmed people go around on their own.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D6ED",
@@ -4988,8 +4988,8 @@
    64355
   ],
   "jp": "{voice:00EE0D}お前、命乞いと言ったな。{n}だけど、反乱軍には戻れないだろ？",
-  "en": "",
-  "status": ""
+  "en": "You said you'd beg for your life. But you can't go back to the rebels, can you?",
+  "status": "done"
  },
  {
   "id": "event_2183_0D736",
@@ -5000,8 +5000,8 @@
    64373
   ],
   "jp": "{voice:00EF0D}…パンドラの元に戻る気はない。{n}だが、奴らの基地に忘れ物がある。{n}それを取りに戻らせて欲しい。",
-  "en": "",
-  "status": ""
+  "en": "...I've got no intention of going back to Pandra. But I left something at their base. Let me go back for it.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D797",
@@ -5012,8 +5012,8 @@
    64391
   ],
   "jp": "{voice:00F00D}正気か？{n}基地に戻ったら殺されるぞ。",
-  "en": "",
-  "status": ""
+  "en": "You crazy? If you go back to that base, they'll kill you.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D7BF",
@@ -5024,8 +5024,8 @@
    64409
   ],
   "jp": "{voice:00F10D}だから、一番早い馬を貸してくれ。{n}パンドラ達より先に戻りたい。",
-  "en": "",
-  "status": ""
+  "en": "That's why I need you to lend me your fastest horse. I want to get back before Pandra and his men.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D801",
@@ -5036,8 +5036,8 @@
    64427
   ],
   "jp": "{voice:00F20D}呆れるぐらい図々しいな。",
-  "en": "",
-  "status": ""
+  "en": "You've got some unbelievable nerve.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D81E",
@@ -5048,8 +5048,8 @@
    64445
   ],
   "jp": "{voice:00F30D}頼むッ②{n}その忘れ物は、俺にとって{n}失いたくないものなんだ。",
-  "en": "",
-  "status": ""
+  "en": "Please!! What I left behind is something I can't bear to lose.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D85D",
@@ -5060,8 +5060,8 @@
    64463
   ],
   "jp": "{voice:00F40D}それを取ってきたら、{n}殺されに戻ってくる、約束だ。",
-  "en": "",
-  "status": ""
+  "en": "Once I've got it, I'll come back to be killed. I promise.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D893",
@@ -5072,8 +5072,8 @@
    64481
   ],
   "jp": "{voice:00F50D}レオン……",
-  "en": "",
-  "status": ""
+  "en": "Leon...",
+  "status": "done"
  },
  {
   "id": "event_2183_0D8A2",
@@ -5084,8 +5084,8 @@
    64499
   ],
   "jp": "{voice:00F60D}分かったよ、{n}ハセオという駿馬を貸してやる。{n}行ってこいよ。",
-  "en": "",
-  "status": ""
+  "en": "All right. I'll lend you a fast horse named Haseo. Go on.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D8E1",
@@ -5096,8 +5096,8 @@
    64655
   ],
   "jp": "{voice:00F70D}……行かせたの？",
-  "en": "",
-  "status": ""
+  "en": "...You let him go?",
+  "status": "done"
  },
  {
   "id": "event_2183_0D8F6",
@@ -5108,8 +5108,8 @@
    64673
   ],
   "jp": "{voice:00F80D}ああ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D901",
@@ -5120,8 +5120,8 @@
    64691
   ],
   "jp": "{voice:00F90D}アイツは強いよ。{n}また戦う事になったら……",
-  "en": "",
-  "status": ""
+  "en": "He's strong, you know. If we end up fighting him again...",
+  "status": "done"
  },
  {
   "id": "event_2183_0D92F",
@@ -5132,8 +5132,8 @@
    64709
   ],
   "jp": "{voice:00FA0D}それはないと思うな。",
-  "en": "",
-  "status": ""
+  "en": "I don't think that'll happen.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D948",
@@ -5144,8 +5144,8 @@
    64716
   ],
   "jp": "{voice:00FB0D}それに、そうなったとしたら{n}もう一度倒せばいい。",
-  "en": "",
-  "status": ""
+  "en": "And if it does, we just beat him again.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D97C",
@@ -5156,8 +5156,8 @@
    64734
   ],
   "jp": "{voice:00FC0D}それにしても、{n}妹を物呼ばわりするなんて{n}やっぱ失礼な奴だな。",
-  "en": "",
-  "status": ""
+  "en": "Still, calling his sister \"something he left behind\"... He really is a rude guy.",
+  "status": "done"
  },
  {
   "id": "event_2183_0D9BD",
@@ -5180,8 +5180,8 @@
    60542
   ],
   "jp": "赤髪！　行くぞッ②",
-  "en": "",
-  "status": ""
+  "en": "Red! Here I come!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0D9D5",
@@ -5192,8 +5192,8 @@
    60560
   ],
   "jp": "来いッ、レオン②",
-  "en": "",
-  "status": ""
+  "en": "Come on, Leon!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0D9E6",
@@ -5204,8 +5204,8 @@
    60765
   ],
   "jp": "たった一部隊で戦うなんて…{n}どうかしてるわよ！",
-  "en": "",
-  "status": ""
+  "en": "Fighting with just one unit... You're out of your mind!",
+  "status": "done"
  },
  {
   "id": "event_2183_0DA14",
@@ -5216,8 +5216,8 @@
    60783
   ],
   "jp": "俺は、決着をつけたいんだよ！",
-  "en": "",
-  "status": ""
+  "en": "I want to settle this!",
+  "status": "done"
  },
  {
   "id": "event_2183_0DA31",
@@ -5228,8 +5228,8 @@
    60801
   ],
   "jp": "不器用なヤツ……",
-  "en": "",
-  "status": ""
+  "en": "Clumsy idiot...",
+  "status": "done"
  },
  {
   "id": "event_2183_0DA42",
@@ -5240,8 +5240,8 @@
    61006
   ],
   "jp": "何度倒れても、{n}その気力を糧に起き上がる。{n}まさに狂戦士か……",
-  "en": "",
-  "status": ""
+  "en": "No matter how many times you fall, you feed on that will and rise again. A true berserker...",
+  "status": "done"
  },
  {
   "id": "event_2183_0DA7F",
@@ -5252,8 +5252,8 @@
    61024
   ],
   "jp": "狂戦士、ククク。{n}俺にとっては最高の呼び名だ。",
-  "en": "",
-  "status": ""
+  "en": "Berserker. Heh heh heh. Finest name there is, as far as I'm concerned.",
+  "status": "done"
  },
  {
   "id": "event_2183_0DAAD",
@@ -5264,8 +5264,8 @@
    61215
   ],
   "jp": "お前の気力に敬意を表し、{n}あたしの最大の力を見せよう②",
-  "en": "",
-  "status": ""
+  "en": "In respect for your willpower, I'll show you my greatest strength!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0DAE3",
@@ -5276,8 +5276,8 @@
    61538
   ],
   "jp": "ウグッ……",
-  "en": "",
-  "status": ""
+  "en": "Ugh...",
+  "status": "done"
  },
  {
   "id": "event_2183_0DAEE",
@@ -5288,8 +5288,8 @@
    61556
   ],
   "jp": "ヤツの体力は底なしかよ……",
-  "en": "",
-  "status": ""
+  "en": "Is there no bottom to that guy's stamina...",
+  "status": "done"
  },
  {
   "id": "event_2183_0DB09",
@@ -5300,8 +5300,8 @@
    61818
   ],
   "jp": "ま、まだ立ち上がれるというの…",
-  "en": "",
-  "status": ""
+  "en": "Y-you can still get up...",
+  "status": "done"
  },
  {
   "id": "event_2183_0DB28",
@@ -5312,8 +5312,8 @@
    62082
   ],
   "jp": "そろそろ、{n}負けを認めたらどうなんだい？",
-  "en": "",
-  "status": ""
+  "en": "Isn't it about time you admitted defeat?",
+  "status": "done"
  },
  {
   "id": "event_2183_0DB50",
@@ -5324,8 +5324,8 @@
    62100
   ],
   "jp": "残念だが、負けを認めるのは、{n}死を迎えるその瞬間だ！",
-  "en": "",
-  "status": ""
+  "en": "Too bad. I'll admit defeat at the very moment I die!",
+  "status": "done"
  },
  {
   "id": "event_2183_0DB84",
@@ -5336,8 +5336,8 @@
    62369
   ],
   "jp": "妹は、どうしている？",
-  "en": "",
-  "status": ""
+  "en": "How's your sister doing?",
+  "status": "done"
  },
  {
   "id": "event_2183_0DB99",
@@ -5348,8 +5348,8 @@
    62387
   ],
   "jp": "エレナか……{n}貴様には関係のない事だ！",
-  "en": "",
-  "status": ""
+  "en": "Elena... That's none of your business!",
+  "status": "done"
  },
  {
   "id": "event_2183_0DBBF",
@@ -5360,8 +5360,8 @@
    61625
   ],
   "jp": "レオンのヤツ、突撃の度に{n}力が増しているように感じるぜ……",
-  "en": "",
-  "status": ""
+  "en": "Every time Leon charges, it feels like he gets stronger...",
+  "status": "done"
  },
  {
   "id": "event_2183_0DBF9",
@@ -5372,8 +5372,8 @@
    61643
   ],
   "jp": "見事だ赤髪！{n}俺は今、猛烈に実感している！{n}まさに生きているとな②",
-  "en": "",
-  "status": ""
+  "en": "Well done, Red! I can really feel it now! That I'm truly alive!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0DC3A",
@@ -5384,8 +5384,8 @@
    61880
   ],
   "jp": "きゃぁっ……",
-  "en": "",
-  "status": ""
+  "en": "Aagh...",
+  "status": "done"
  },
  {
   "id": "event_2183_0DC47",
@@ -5396,8 +5396,8 @@
    61898
   ],
   "jp": "俺は今、赤髪と戦いたいんだ！{n}関係ないヤツは、下がっていろ②",
-  "en": "",
-  "status": ""
+  "en": "Right now I want to fight Red! Anybody else, stay back!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0DC83",
@@ -5408,8 +5408,8 @@
    62169
   ],
   "jp": "狂戦士の力、その身に刻め②",
-  "en": "",
-  "status": ""
+  "en": "Let the power of a berserker carve itself into you!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0DC9E",
@@ -5420,8 +5420,8 @@
    62187
   ],
   "jp": "一瞬、{n}僕では勝てないんじゃないかと、{n}そう感じてしまったよ……",
-  "en": "",
-  "status": ""
+  "en": "For a moment there, I felt like I might not be able to beat him...",
+  "status": "done"
  },
  {
   "id": "event_2183_0DCDD",
@@ -5432,8 +5432,8 @@
    62456
   ],
   "jp": "それが最大の力か？{n}笑わせるぜ②",
-  "en": "",
-  "status": ""
+  "en": "That's your greatest strength? Don't make me laugh!!",
+  "status": "done"
  },
  {
   "id": "event_2183_0DCFD",
@@ -5444,7 +5444,7 @@
    62474
   ],
   "jp": "今のレオンは、強い！",
-  "en": "",
-  "status": ""
+  "en": "Leon's strong right now!",
+  "status": "done"
  }
 ]

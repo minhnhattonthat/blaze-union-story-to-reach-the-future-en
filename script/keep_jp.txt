@@ -1,3 +1,4 @@
 eboot_267CD8	CRI middleware debug printf, never drawn
 eboot_262EF0	already English: full-width "never"
 eboot_2633A0	already English: full-width "NanTuTTe"
+eboot_27B29E	font 4 glyph list, never drawn: its order is the sheet layout

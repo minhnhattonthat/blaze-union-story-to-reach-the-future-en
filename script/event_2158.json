@@ -8,8 +8,8 @@
    7268
   ],
   "jp": "{voice:00CE02}あのさ、盗賊が出たとはいえ、{n}なんで貴族や大商人のために{n}巡回しなきゃいけないワケ？",
-  "en": "",
-  "status": ""
+  "en": "Look, I get that there are thieves around, but why do we have to go on patrol for nobles and big merchants?",
+  "status": "done"
  },
  {
   "id": "event_2158_0007F",
@@ -20,8 +20,8 @@
    7289
   ],
   "jp": "{voice:00CF02}そう言えば、{n}君達も元は盗賊だったものな。{n}立場が変わって良心が痛むか？",
-  "en": "",
-  "status": ""
+  "en": "Come to think of it, you were thieves yourselves. Does your conscience hurt now the tables have turned?",
+  "status": "done"
  },
  {
   "id": "event_2158_000CA",
@@ -32,8 +32,8 @@
    7310
   ],
   "jp": "{voice:00D002}うーん、それもあるかな……",
-  "en": "",
-  "status": ""
+  "en": "Hmm, I guess that's part of it...",
+  "status": "done"
  },
  {
   "id": "event_2158_000E9",
@@ -44,8 +44,8 @@
    7331
   ],
   "jp": "{voice:00D102}一連の賊は、義賊じゃない。{n}私腹の為に盗む、ただの悪党だ。{n}俺達とは、決定的に違う。",
-  "en": "",
-  "status": ""
+  "en": "These thieves aren't thieves of justice. They steal to line their pockets. They're nothing like us.",
+  "status": "done"
  },
  {
   "id": "event_2158_00140",
@@ -56,8 +56,8 @@
    7352
   ],
   "jp": "{voice:00D202}しかし、君達が義賊として成功{n}したから、そういう輩が次々と{n}出て来てしまったのも事実だな。",
-  "en": "",
-  "status": ""
+  "en": "But it's also true that your success as thieves of justice brought this sort out of the woodwork.",
+  "status": "done"
  },
  {
   "id": "event_2158_0019D",
@@ -68,8 +68,8 @@
    7373
   ],
   "jp": "{voice:00D302}メデューテ、もう一度言う。{n}奴らと俺達とは、違う。",
-  "en": "",
-  "status": ""
+  "en": "Medoute, I'll say it again. They and we are not the same.",
+  "status": "done"
  },
  {
   "id": "event_2158_001D3",
@@ -80,8 +80,8 @@
    7394
   ],
   "jp": "{voice:00D402}それはその通りだよ。{n}だけど、あたしの言葉の意味も{n}もう少し理解して欲しいな。",
-  "en": "",
-  "status": ""
+  "en": "That's true enough. But I wish you'd try a little harder to get what I mean.",
+  "status": "done"
  },
  {
   "id": "event_2158_00224",
@@ -92,8 +92,8 @@
    7415
   ],
   "jp": "{voice:00D502}行動と、意思とは違うって事？",
-  "en": "",
-  "status": ""
+  "en": "You mean action and intent are different things?",
+  "status": "done"
  },
  {
   "id": "event_2158_00245",
@@ -104,8 +104,8 @@
    7436
   ],
   "jp": "{voice:00D602}ちょっと違うな。{n}行動とその意味、二つを正しく{n}伝えるのは難しいって事だ。",
-  "en": "",
-  "status": ""
+  "en": "Not quite. I mean it's hard to get across both what you do and what it means.",
+  "status": "done"
  },
  {
   "id": "event_2158_00292",
@@ -128,8 +128,8 @@
    7536
   ],
   "jp": "{voice:00D702}とにかく、{n}巡回は悪い事ではありません。",
-  "en": "",
-  "status": ""
+  "en": "In any case, there is nothing wrong with a patrol.",
+  "status": "done"
  },
  {
   "id": "event_2158_002C9",
@@ -140,8 +140,8 @@
    7543
   ],
   "jp": "{voice:00D802}賊を見つけ出す事に、{n}今は神経を集中させましょう。",
-  "en": "",
-  "status": ""
+  "en": "For now, let us focus on finding the thieves.",
+  "status": "done"
  },
  {
   "id": "event_2158_002FF",
@@ -152,8 +152,8 @@
    7564
   ],
   "jp": "{voice:00D902}……ん？　足音がするね。{n}結構な人数。",
-  "en": "",
-  "status": ""
+  "en": "...Hm? Footsteps. Quite a lot of them.",
+  "status": "done"
  },
  {
   "id": "event_2158_00329",
@@ -164,8 +164,8 @@
    8097
   ],
   "jp": "{voice:00DA02}む…、何だお前らは？",
-  "en": "",
-  "status": ""
+  "en": "Hm... And who are you?",
+  "status": "done"
  },
  {
   "id": "event_2158_00342",
@@ -176,8 +176,8 @@
    8118
   ],
   "jp": "{voice:00DB02}それはこちらが聞きたい事だ。{n}自警団のようには見えないが……",
-  "en": "",
-  "status": ""
+  "en": "We'd like to ask you the same. You don't look like a local militia...",
+  "status": "done"
  },
  {
   "id": "event_2158_00382",
@@ -188,8 +188,8 @@
    8166
   ],
   "jp": "{voice:00DC02}ん？　お前は確かガーロット。{n}と言う事は、ブレイズ盗賊団。{n}お仲間かよ、へへへへ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? You're Garlot, aren't you. Which makes you the Blaze Thieves. So you're fellow pros, heh heh heh.",
+  "status": "done"
  },
  {
   "id": "event_2158_003D7",
@@ -200,8 +200,8 @@
    8173
   ],
   "jp": "{voice:00DD02}貴族の私兵か自衛団かと思って{n}ビックリしたぜ。",
-  "en": "",
-  "status": ""
+  "en": "Gave me a scare, thinking you were some noble's private army or a militia.",
+  "status": "done"
  },
  {
   "id": "event_2158_00409",
@@ -224,8 +224,8 @@
    8215
   ],
   "jp": "{voice:00DE02}ところで、今日の成果はどうだ？{n}俺達はもう少し突っ込んで仕事を{n}するつもりなんだが。",
-  "en": "",
-  "status": ""
+  "en": "So how's the take today? We're thinking of pushing a little farther in on this job.",
+  "status": "done"
  },
  {
   "id": "event_2158_0046B",
@@ -236,8 +236,8 @@
    8236
   ],
   "jp": "{voice:00DF02}俺達は、グラムブレイズ……{n}貴族ヴェルマンの私兵団だ。",
-  "en": "",
-  "status": ""
+  "en": "We're Gram Blaze... the private army of the noble Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2158_004A5",
@@ -248,8 +248,8 @@
    8257
   ],
   "jp": "{voice:00E002}そ、そうか……{n}そんなウワサも聞いちゃいたが…",
-  "en": "",
-  "status": ""
+  "en": "I-is that so... I did hear a rumor like that...",
+  "status": "done"
  },
  {
   "id": "event_2158_004D7",
@@ -260,8 +260,8 @@
    8264
   ],
   "jp": "{voice:00E102}しかし、元は俺達と同じ盗賊だ。{n}勿論、見逃してくれるんだろ？",
-  "en": "",
-  "status": ""
+  "en": "But you used to be thieves just like us. So of course you'll let us off, right?",
+  "status": "done"
  },
  {
   "id": "event_2158_00517",
@@ -272,8 +272,8 @@
    8285
   ],
   "jp": "{voice:00E202}俺達は、自分達の為に{n}盗みをした事など、一度もない！{n}お前達と一緒にするな！",
-  "en": "",
-  "status": ""
+  "en": "We've never once stolen for ourselves! Don't lump us in with you!",
+  "status": "done"
  },
  {
   "id": "event_2158_00566",
@@ -284,8 +284,8 @@
    8306
   ],
   "jp": "{voice:00E302}盗みは盗み、同じだろ？{n}なぁ、今日の上がりはアンタに{n}やるから、見逃してくれよ。",
-  "en": "",
-  "status": ""
+  "en": "Stealing's stealing, same thing, right? C'mon, you can have today's take. Just let us off.",
+  "status": "done"
  },
  {
   "id": "event_2158_005B9",
@@ -296,8 +296,8 @@
    8327
   ],
   "jp": "{voice:00E402}お前達は、クズだ！{n}一人残らず、俺が斬るッ②",
-  "en": "",
-  "status": ""
+  "en": "You people are trash! I'll cut down every last one of you!",
+  "status": "done"
  },
  {
   "id": "event_2158_005E9",
@@ -308,8 +308,8 @@
    8525
   ],
   "jp": "{voice:00E502}いいか、一兵たりとも逃がすな！",
-  "en": "",
-  "status": ""
+  "en": "Listen, don't let a single one get away!",
+  "status": "done"
  },
  {
   "id": "event_2158_0060C",
@@ -320,8 +320,8 @@
    8573
   ],
   "jp": "{voice:00E602}立場が変われば、そうなのかよ！{n}仕方ねぇ、やってやるぜ②{n}全隊、隊列を組め！",
-  "en": "",
-  "status": ""
+  "en": "So that's how it is when the tables turn! Fine, we'll do this! All units, form up!",
+  "status": "done"
  },
  {
   "id": "event_2158_0065B",
@@ -334,8 +334,8 @@
    13173
   ],
   "jp": "{voice:00E702}窓から明かりが洩れている。{n}まだ起きているのか。",
-  "en": "",
-  "status": ""
+  "en": "Light spilling from the window. Still up, then.",
+  "status": "done"
  },
  {
   "id": "event_2158_0068F",
@@ -348,8 +348,8 @@
    13180
   ],
   "jp": "{voice:00E802}ここに来たとしても、{n}もう何も感じないと{n}思っていたのにな……",
-  "en": "",
-  "status": ""
+  "en": "I thought I wouldn't feel anything anymore, even coming here...",
+  "status": "done"
  },
  {
   "id": "event_2158_006D0",
@@ -362,8 +362,8 @@
    13232
   ],
   "jp": "{voice:00E902}誰？",
-  "en": "",
-  "status": ""
+  "en": "Who's there?",
+  "status": "done"
  },
  {
   "id": "event_2158_006D9",
@@ -390,8 +390,8 @@
    13291
   ],
   "jp": "{voice:00EA02}どうした、サマンサ。",
-  "en": "",
-  "status": ""
+  "en": "What is it, Samantha?",
+  "status": "done"
  },
  {
   "id": "event_2158_006F5",
@@ -404,8 +404,8 @@
    13309
   ],
   "jp": "{voice:00EB02}……いえ、{n}ジェノンが近くにいるような{n}そんな気がして…",
-  "en": "",
-  "status": ""
+  "en": "...Nothing, I just... had a feeling Jenon was somewhere nearby...",
+  "status": "done"
  },
  {
   "id": "event_2158_00730",
@@ -418,8 +418,8 @@
    13327
   ],
   "jp": "{voice:00EC02}ジェノンの話はもうするなと{n}何度言えばわかる！",
-  "en": "",
-  "status": ""
+  "en": "How many times must I tell you not to speak of Jenon anymore!",
+  "status": "done"
  },
  {
   "id": "event_2158_00762",
@@ -432,8 +432,8 @@
    13334
   ],
   "jp": "{voice:00ED02}大体アイツは家を捨てたんだ。{n}もう二度と戻ってくる訳は無い。{n}そうだろ！",
-  "en": "",
-  "status": ""
+  "en": "He threw away this house in the first place. He'll never be coming back. Isn't that right!",
+  "status": "done"
  },
  {
   "id": "event_2158_007AD",
@@ -458,8 +458,8 @@
    14248
   ],
   "jp": "{voice:00EE02}ちいッ！{n}一度散れ！　態勢を立て直す！",
-  "en": "",
-  "status": ""
+  "en": "Tch! Scatter for now! We'll regroup!",
+  "status": "done"
  },
  {
   "id": "event_2158_007E2",
@@ -470,8 +470,8 @@
    15845
   ],
   "jp": "{voice:00EF02}逃がすかッ②{n}追い討ちをかけるぞ！",
-  "en": "",
-  "status": ""
+  "en": "Like hell you will! Run them down!",
+  "status": "done"
  },
  {
   "id": "event_2158_00808",
@@ -482,8 +482,8 @@
    16384
   ],
   "jp": "{voice:00F002}あああああああーっ！{n}ガーロット②",
-  "en": "",
-  "status": ""
+  "en": "Aaaaaaaaah! Garlot!",
+  "status": "done"
  },
  {
   "id": "event_2158_0082E",
@@ -494,8 +494,8 @@
    16405
   ],
   "jp": "{voice:00F102}こんな時にセリカかよ！",
-  "en": "",
-  "status": ""
+  "en": "Cerica, at a time like this!",
+  "status": "done"
  },
  {
   "id": "event_2158_00849",
@@ -506,8 +506,8 @@
    16426
   ],
   "jp": "{voice:00F202}小銭狙いで盗みに入ったけど、{n}思わぬ大物が掛かったわ。",
-  "en": "",
-  "status": ""
+  "en": "Cerica came to steal some pocket change, but look at the big catch she landed.",
+  "status": "done"
  },
  {
   "id": "event_2158_00883",
@@ -518,8 +518,8 @@
    16447
   ],
   "jp": "{voice:00F302}今度こそ、デイヴィド隊長の仇を{n}取らせてもらうよ！",
-  "en": "",
-  "status": ""
+  "en": "This time, Cerica's getting revenge for Captain David!",
+  "status": "done"
  },
  {
   "id": "event_2158_008B9",
@@ -532,8 +532,8 @@
    12974
   ],
   "jp": "やけにデカい屋敷だな。{n}これ民家なのか？",
-  "en": "",
-  "status": ""
+  "en": "Awfully big mansion. Is this someone's actual house?",
+  "status": "done"
  },
  {
   "id": "event_2158_008E1",
@@ -546,8 +546,8 @@
    12981
   ],
   "jp": "…明かりはついているが…{n}今は訪ねてる場合じゃないか。",
-  "en": "",
-  "status": ""
+  "en": "...The lights are on, but... this is no time for a visit.",
+  "status": "done"
  },
  {
   "id": "event_2158_00917",
@@ -560,8 +560,8 @@
    13061
   ],
   "jp": "…大きな屋敷ね…",
-  "en": "",
-  "status": ""
+  "en": "...What a big mansion...",
+  "status": "done"
  },
  {
   "id": "event_2158_00928",
@@ -574,8 +574,8 @@
    13082
   ],
   "jp": "きっと成金の貴族か何かの家よ。{n}やだやだ、他行こう！",
-  "en": "",
-  "status": ""
+  "en": "Bet it's some rich noble's place. Ugh, no thanks, let's go somewhere else!",
+  "status": "done"
  },
  {
   "id": "event_2158_0095C",
@@ -588,8 +588,8 @@
    13469
   ],
   "jp": "大きな屋敷だな。{n}金持ちの邸宅、といったところか。",
-  "en": "",
-  "status": ""
+  "en": "A big mansion. A rich man's home, I'd say.",
+  "status": "done"
  },
  {
   "id": "event_2158_0098E",
@@ -602,8 +602,8 @@
    13476
   ],
   "jp": "…おっと、今は行軍中だったな。{n}訪ねるのは次の機会にしよう。",
-  "en": "",
-  "status": ""
+  "en": "...Oops, we're on the march right now. I'll visit some other time.",
+  "status": "done"
  },
  {
   "id": "event_2158_009CA",
@@ -616,8 +616,8 @@
    13549
   ],
   "jp": "貴族街の中でも、{n}ひときわ大きな屋敷ですね…",
-  "en": "",
-  "status": ""
+  "en": "A particularly large mansion, even for the noble district...",
+  "status": "done"
  },
  {
   "id": "event_2158_009F6",
@@ -630,8 +630,8 @@
    13556
   ],
   "jp": "きっと私達が訪ねても{n}門前払いですね。よしましょう。",
-  "en": "",
-  "status": ""
+  "en": "If we called there, they would surely turn us away at the gate. Let us not.",
+  "status": "done"
  },
  {
   "id": "event_2158_00A2A",
@@ -644,8 +644,8 @@
    13629
   ],
   "jp": "デカイ家だな…{n}本は置いてあるだろうか？",
-  "en": "",
-  "status": ""
+  "en": "Big house... Will it have books?",
+  "status": "done"
  },
  {
   "id": "event_2158_00A52",
@@ -658,8 +658,8 @@
    13636
   ],
   "jp": "おっと、今バイフー戦闘中か。{n}寄り道してる場合じゃないな。",
-  "en": "",
-  "status": ""
+  "en": "Oops, Byff is in battle now. Byff has no time for detours.",
+  "status": "done"
  },
  {
   "id": "event_2158_00A8C",
@@ -672,8 +672,8 @@
    13709
   ],
   "jp": "これまたデカい屋敷ねぇ。{n}明かりもついているけど…",
-  "en": "",
-  "status": ""
+  "en": "My, what a huge mansion. The lights are on, too...",
+  "status": "done"
  },
  {
   "id": "event_2158_00ABE",
@@ -686,8 +686,8 @@
    13716
   ],
   "jp": "軍隊率いて訪ねるような{n}場所じゃないわよねぇ。{n}やめときましょ。",
-  "en": "",
-  "status": ""
+  "en": "But it's no place to go visiting with an army behind me. Let's not.",
+  "status": "done"
  },
  {
   "id": "event_2158_00AFD",
@@ -700,8 +700,8 @@
    13789
   ],
   "jp": "貴族の家かな？{n}でっかいなぁ…",
-  "en": "",
-  "status": ""
+  "en": "A noble's house, maybe? It's huge...",
+  "status": "done"
  },
  {
   "id": "event_2158_00B1B",
@@ -714,8 +714,8 @@
    13810
   ],
   "jp": "こんな家を建てる金があるなら{n}ちょっと他の人に還元すれば{n}いいのになぁ。ブツブツ…",
-  "en": "",
-  "status": ""
+  "en": "If they've got the money to build a house like this, they could spread it around a little. *grumble grumble*...",
+  "status": "done"
  },
  {
   "id": "event_2158_00B6C",
@@ -728,8 +728,8 @@
    13890
   ],
   "jp": "ウィーック…{n}おっきい家ねぇ…",
-  "en": "",
-  "status": ""
+  "en": "*hic*... What a biiig house...",
+  "status": "done"
  },
  {
   "id": "event_2158_00B8A",
@@ -742,8 +742,8 @@
    13897
   ],
   "jp": "お酒分けてくれないかな…{n}ヒック…",
-  "en": "",
-  "status": ""
+  "en": "Wonder if they'd share some booze... *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2158_00BAC",
@@ -756,8 +756,8 @@
    13918
   ],
   "jp": "あー、戦闘中だったわね…{n}さすがにダメか、ヒック…",
-  "en": "",
-  "status": ""
+  "en": "Ah, right, we're in the middle of a battle... Guess that's a no, *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2158_00BDE",
@@ -770,8 +770,8 @@
    14005
   ],
   "jp": "あれま？　おっきな屋敷ねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Oh my? What a big mansion.",
+  "status": "done"
  },
  {
   "id": "event_2158_00BFB",
@@ -784,8 +784,8 @@
    14026
   ],
   "jp": "でも、金持ちなだけで{n}あたしの知識欲を満たしそうな{n}ゾクゾク感がないわねぇ♪",
-  "en": "",
-  "status": ""
+  "en": "But it's just rich. There's no thrill in it to feed my thirst for knowledge ♪",
+  "status": "done"
  },
  {
   "id": "event_2158_00C46",
@@ -798,8 +798,8 @@
    8797
   ],
   "jp": "また夜盗が騒いでいるのか？",
-  "en": "",
-  "status": ""
+  "en": "Are those night bandits making a fuss again?",
+  "status": "done"
  },
  {
   "id": "event_2158_00C61",
@@ -812,8 +812,8 @@
    8804
   ],
   "jp": "むむっ！{n}お前ら、ヴェルマン方伯の{n}私兵団だな？",
-  "en": "",
-  "status": ""
+  "en": "Hmph! You people are Margrave Velleman's private army, are you not?",
+  "status": "done"
  },
  {
   "id": "event_2158_00C90",
@@ -826,8 +826,8 @@
    8811
   ],
   "jp": "いけ好かん若造の私兵に{n}街を守らせてやっているのだ！{n}しっかり働かぬか！",
-  "en": "",
-  "status": ""
+  "en": "We're letting that obnoxious whelp's hired men protect this town! So do your job properly!",
+  "status": "done"
  },
  {
   "id": "event_2158_00CD7",
@@ -840,8 +840,8 @@
    8818
   ],
   "jp": "ほれっ、早く戦え！{n}ニーベル街区を守るのだ！",
-  "en": "",
-  "status": ""
+  "en": "Go on, hurry up and fight! Protect the Nibel Quarter!",
+  "status": "done"
  },
  {
   "id": "event_2158_00D03",
@@ -854,8 +854,8 @@
    8947
   ],
   "jp": "おや…？",
-  "en": "",
-  "status": ""
+  "en": "Oh my...?",
+  "status": "done"
  },
  {
   "id": "event_2158_00D0C",
@@ -868,8 +868,8 @@
    8954
   ],
   "jp": "うふふふふ…{n}君達、なかなか練兵が行き届いた{n}部隊を率いているね、フフ…",
-  "en": "",
-  "status": ""
+  "en": "Ufufufufu... You lead a rather well-drilled force, you know, fufu...",
+  "status": "done"
  },
  {
   "id": "event_2158_00D53",
@@ -882,8 +882,8 @@
    8961
   ],
   "jp": "君達なら、あるいは…{n}うふふ、うふふふ…",
-  "en": "",
-  "status": ""
+  "en": "You people might just... ufufu, ufufufu...",
+  "status": "done"
  },
  {
   "id": "event_2158_00D7B",
@@ -896,8 +896,8 @@
    8968
   ],
   "jp": "君達、コイツをあげよう。{n}ある大変なものを探し当てる{n}魔法アイテムだ…",
-  "en": "",
-  "status": ""
+  "en": "I'll give you this. It's a magic item that seeks out something quite extraordinary...",
+  "status": "done"
  },
  {
   "id": "event_2158_00DC0",
@@ -910,8 +910,8 @@
    9053
   ],
   "jp": "君達なら、見つけられるハズだ…{n}うふふ、うふふふふ…",
-  "en": "",
-  "status": ""
+  "en": "You should be able to find it... Ufufu, ufufufufu...",
+  "status": "done"
  },
  {
   "id": "event_2158_00DF4",
@@ -924,8 +924,8 @@
    9077
   ],
   "jp": "ダウジングロッドを{n}使いこなせる人間は{n}よほど特殊な力の持ち主…",
-  "en": "",
-  "status": ""
+  "en": "Anyone able to master the dowsing rod has very special powers indeed...",
+  "status": "done"
  },
  {
   "id": "event_2158_00E33",
@@ -938,8 +938,8 @@
    9084
   ],
   "jp": "いや、ひょっとしたら{n}人間ではないのかも……",
-  "en": "",
-  "status": ""
+  "en": "No, perhaps they aren't even human...",
+  "status": "done"
  },
  {
   "id": "event_2158_00E5F",
@@ -952,8 +952,8 @@
    9091
   ],
   "jp": "どちらにせよ、君達ならば{n}このロッドを使いこなすときが{n}くるかもしれない…",
-  "en": "",
-  "status": ""
+  "en": "Either way, the time may come when you master this rod...",
+  "status": "done"
  },
  {
   "id": "event_2158_00EA8",
@@ -966,8 +966,8 @@
    9098
   ],
   "jp": "ふふふ、うふふふ…",
-  "en": "",
-  "status": ""
+  "en": "Fufufu, ufufufu...",
+  "status": "done"
  },
  {
   "id": "event_2158_00EBB",
@@ -980,8 +980,8 @@
    9272
   ],
   "jp": "ん？　この地形って、{n}ひょっとして…",
-  "en": "",
-  "status": ""
+  "en": "Hm? This terrain, could it be...",
+  "status": "done"
  },
  {
   "id": "event_2158_00EDF",
@@ -994,8 +994,8 @@
    9286
   ],
   "jp": "やっぱり！{n}この地図の地形と一緒だ。{n}という事は…？",
-  "en": "",
-  "status": ""
+  "en": "I knew it! It's the same as on this map. Which means...?",
+  "status": "done"
  },
  {
   "id": "event_2158_00F12",
@@ -1008,8 +1008,8 @@
    9370
   ],
   "jp": "見つけた！{n}これが、宝物か…",
-  "en": "",
-  "status": ""
+  "en": "Found it! So this is the treasure...",
+  "status": "done"
  },
  {
   "id": "event_2158_00F2E",
@@ -1022,8 +1022,8 @@
    9494
   ],
   "jp": "あら？　この場所は…",
-  "en": "",
-  "status": ""
+  "en": "Oh? This place...",
+  "status": "done"
  },
  {
   "id": "event_2158_00F43",
@@ -1036,8 +1036,8 @@
    9522
   ],
   "jp": "そうよ、この宝の地図と一緒よ！{n}ついに見つけたのね！",
-  "en": "",
-  "status": ""
+  "en": "Yes, it matches the treasure map! We finally found it!",
+  "status": "done"
  },
  {
   "id": "event_2158_00F77",
@@ -1050,8 +1050,8 @@
    9606
   ],
   "jp": "…これが宝物？{n}ただの石ころに見えるけど…",
-  "en": "",
-  "status": ""
+  "en": "...This is the treasure? It looks like a plain old rock to me...",
+  "status": "done"
  },
  {
   "id": "event_2158_00FA1",
@@ -1064,8 +1064,8 @@
    9730
   ],
   "jp": "おや？{n}なんだろう、既視感が…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What is it, this sense of deja vu...",
+  "status": "done"
  },
  {
   "id": "event_2158_00FBF",
@@ -1078,8 +1078,8 @@
    9744
   ],
   "jp": "あ、わかったぞ！{n}ここは宝の地図が示す場所だ！",
-  "en": "",
-  "status": ""
+  "en": "Ah, I've got it! This is the spot on the treasure map!",
+  "status": "done"
  },
  {
   "id": "event_2158_00FED",
@@ -1092,8 +1092,8 @@
    9828
   ],
   "jp": "そして、これがその宝物だ！",
-  "en": "",
-  "status": ""
+  "en": "And this is the treasure!",
+  "status": "done"
  },
  {
   "id": "event_2158_01008",
@@ -1106,8 +1106,8 @@
    9849
   ],
   "jp": "…この石が、宝物？",
-  "en": "",
-  "status": ""
+  "en": "...This rock is the treasure?",
+  "status": "done"
  },
  {
   "id": "event_2158_0101B",
@@ -1120,8 +1120,8 @@
    9973
   ],
   "jp": "ん？　この地形は…",
-  "en": "",
-  "status": ""
+  "en": "Hm? This terrain...",
+  "status": "done"
  },
  {
   "id": "event_2158_0102E",
@@ -1134,8 +1134,8 @@
    9987
   ],
   "jp": "宝の地図の示す場所か。{n}近いな…",
-  "en": "",
-  "status": ""
+  "en": "So this is the spot on the treasure map. Close...",
+  "status": "done"
  },
  {
   "id": "event_2158_0104E",
@@ -1148,8 +1148,8 @@
    10068
   ],
   "jp": "これがその宝か！{n}…って、ただの石に見えるが…",
-  "en": "",
-  "status": ""
+  "en": "This is the treasure! ...Though it looks like a plain rock to me...",
+  "status": "done"
  },
  {
   "id": "event_2158_0107C",
@@ -1162,8 +1162,8 @@
    10192
   ],
   "jp": "あら？　この地形って…",
-  "en": "",
-  "status": ""
+  "en": "Oh? This terrain...",
+  "status": "done"
  },
  {
   "id": "event_2158_01093",
@@ -1176,8 +1176,8 @@
    10217
   ],
   "jp": "そうだわ！{n}宝の地図が指し示す場所ですね！",
-  "en": "",
-  "status": ""
+  "en": "Yes! It is the spot the treasure map points to!",
+  "status": "done"
  },
  {
   "id": "event_2158_010BD",
@@ -1190,8 +1190,8 @@
    10298
   ],
   "jp": "…これが、宝？{n}ただの石ころに見えますが…",
-  "en": "",
-  "status": ""
+  "en": "...This is the treasure? It looks like an ordinary pebble...",
+  "status": "done"
  },
  {
   "id": "event_2158_010E7",
@@ -1204,8 +1204,8 @@
    10422
   ],
   "jp": "ん～、なんとなくこの場所、{n}来たことある気がするわねぇ…",
-  "en": "",
-  "status": ""
+  "en": "Mmm, I feel like I've been here before somehow...",
+  "status": "done"
  },
  {
   "id": "event_2158_0111F",
@@ -1218,8 +1218,8 @@
    10436
   ],
   "jp": "ああ、なるほど。{n}この宝の地図が示しているのは{n}このあたりだわ。",
-  "en": "",
-  "status": ""
+  "en": "Ah, I see. This is the area the treasure map's pointing to.",
+  "status": "done"
  },
  {
   "id": "event_2158_0115E",
@@ -1232,8 +1232,8 @@
    10517
   ],
   "jp": "で、これがその宝ってわけね。{n}…ふむ。何か言い知れぬ力を{n}感じるパワーストーンね。",
-  "en": "",
-  "status": ""
+  "en": "And this must be the treasure. ...Hmm. A power stone, with some kind of nameless power to it.",
+  "status": "done"
  },
  {
   "id": "event_2158_011AF",
@@ -1246,8 +1246,8 @@
    10641
   ],
   "jp": "んん…？{n}この街並みって、もしかして…",
-  "en": "",
-  "status": ""
+  "en": "Hmmm...? These streets, could they be...",
+  "status": "done"
  },
  {
   "id": "event_2158_011D5",
@@ -1260,8 +1260,8 @@
    10669
   ],
   "jp": "ああ、わかった！{n}ココは、宝の地図が示す場所だ！",
-  "en": "",
-  "status": ""
+  "en": "Ah, got it! This is the spot on the treasure map!",
+  "status": "done"
  },
  {
   "id": "event_2158_01205",
@@ -1274,8 +1274,8 @@
    10753
   ],
   "jp": "よっしゃあ！{n}お宝ゲットだぜぇ！{n}…って、ただの石ころ？",
-  "en": "",
-  "status": ""
+  "en": "All right! Treasure, get! ...Wait, a plain rock?",
+  "status": "done"
  },
  {
   "id": "event_2158_0123C",
@@ -1288,8 +1288,8 @@
    10877
   ],
   "jp": "ヒック…{n}ああ、鼻水出てきちゃった。{n}紙、なにか紙ないかしら…",
-  "en": "",
-  "status": ""
+  "en": "*hic*... Ah, my nose is running. Paper, is there any paper...",
+  "status": "done"
  },
  {
   "id": "event_2158_01279",
@@ -1302,8 +1302,8 @@
    10884
   ],
   "jp": "ん…？{n}これって、確か宝の地図…",
-  "en": "",
-  "status": ""
+  "en": "Hm...? Isn't this that treasure map...",
+  "status": "done"
  },
  {
   "id": "event_2158_01299",
@@ -1316,8 +1316,8 @@
    10909
   ],
   "jp": "ああ、そうか…{n}ここが宝の地図の場所なんだわ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, right... This is the place on the treasure map.",
+  "status": "done"
  },
  {
   "id": "event_2158_012C7",
@@ -1330,8 +1330,8 @@
    10990
   ],
   "jp": "フム、これがお宝ね。{n}…酒のつまみにはならなそうね。",
-  "en": "",
-  "status": ""
+  "en": "Hmm, so this is the treasure. ...Doesn't look like it'd go well with booze.",
+  "status": "done"
  },
  {
   "id": "event_2158_012FB",
@@ -1344,8 +1344,8 @@
    11114
   ],
   "jp": "んんっ③{n}なんか、どっかで見た感じ～③",
-  "en": "",
-  "status": ""
+  "en": "Mmm!? This looks kinda familiar!?",
+  "status": "done"
  },
  {
   "id": "event_2158_01321",
@@ -1358,8 +1358,8 @@
    11139
   ],
   "jp": "ん～、なるほどっ！{n}宝の地図が示す地形と、{n}この街の地形が一致するんだわ！",
-  "en": "",
-  "status": ""
+  "en": "Hmmm, I get it! The terrain on the treasure map matches this town!",
+  "status": "done"
  },
  {
   "id": "event_2158_0136A",
@@ -1372,8 +1372,8 @@
    11223
   ],
   "jp": "うほっ②{n}これってまさか、賢者の石③{n}すごい、激レアゲットよ～②",
-  "en": "",
-  "status": ""
+  "en": "Whoa! Could this be the Philosopher's Stone!? Amazing, I got a super rare one!",
+  "status": "done"
  },
  {
   "id": "event_2158_013A9",
@@ -1386,8 +1386,8 @@
    11392
   ],
   "jp": "ん？　何か落ちているな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something's lying here...",
+  "status": "done"
  },
  {
   "id": "event_2158_013C2",
@@ -1400,8 +1400,8 @@
    11462
   ],
   "jp": "お、コインか…{n}珍しい紋章が入っているな。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a coin... It's got an unusual crest on it.",
+  "status": "done"
  },
  {
   "id": "event_2158_013EC",
@@ -1414,8 +1414,8 @@
    11542
   ],
   "jp": "…何か、見落としてはならない{n}ものの気配を感じるわね。",
-  "en": "",
-  "status": ""
+  "en": "...I sense something here I shouldn't overlook.",
+  "status": "done"
  },
  {
   "id": "event_2158_01422",
@@ -1428,8 +1428,8 @@
    11612
   ],
   "jp": "あ、コインが落ちてるわ！{n}ゲットしちゃえ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, there's a coin here! Mine!",
+  "status": "done"
  },
  {
   "id": "event_2158_0144C",
@@ -1442,8 +1442,8 @@
    11692
   ],
   "jp": "あれ？{n}コインが落ちているな…",
-  "en": "",
-  "status": ""
+  "en": "Huh? A coin on the ground...",
+  "status": "done"
  },
  {
   "id": "event_2158_0146A",
@@ -1456,8 +1456,8 @@
    11762
   ],
   "jp": "…ん？　この描かれている紋章、{n}子どもの頃に見た覚えが…",
-  "en": "",
-  "status": ""
+  "en": "...Hm? I remember seeing this crest when I was a kid...",
+  "status": "done"
  },
  {
   "id": "event_2158_014A2",
@@ -1470,8 +1470,8 @@
    11842
   ],
   "jp": "おや、そこに落ちているのは…",
-  "en": "",
-  "status": ""
+  "en": "Oh, what's that lying there...",
+  "status": "done"
  },
  {
   "id": "event_2158_014BF",
@@ -1484,8 +1484,8 @@
    11912
   ],
   "jp": "旧帝のコインか。{n}ちょっぴり懐かしいな…",
-  "en": "",
-  "status": ""
+  "en": "A coin from the old emperor's day. That takes me back a little...",
+  "status": "done"
  },
  {
   "id": "event_2158_014E7",
@@ -1498,8 +1498,8 @@
    11992
   ],
   "jp": "ん？　コインが落ちていますね。",
-  "en": "",
-  "status": ""
+  "en": "Hm? There is a coin here.",
+  "status": "done"
  },
  {
   "id": "event_2158_01506",
@@ -1512,8 +1512,8 @@
    12062
   ],
   "jp": "…ドラゴンが描かれていますね…{n}どこかの家の家紋でしょうか？",
-  "en": "",
-  "status": ""
+  "en": "...It has a dragon on it... Could that be some house's family crest?",
+  "status": "done"
  },
  {
   "id": "event_2158_01542",
@@ -1526,8 +1526,8 @@
    12142
   ],
   "jp": "むっ？　コインが落ちているな！",
-  "en": "",
-  "status": ""
+  "en": "Hm? A coin is lying here!",
+  "status": "done"
  },
  {
   "id": "event_2158_01561",
@@ -1540,8 +1540,8 @@
    12212
   ],
   "jp": "一匹の竜が描かれている…{n}流通してる硬貨とは違うものだな。",
-  "en": "",
-  "status": ""
+  "en": "It has one dragon on it... This is not legal tender.",
+  "status": "done"
  },
  {
   "id": "event_2158_0159B",
@@ -1554,8 +1554,8 @@
    12219
   ],
   "jp": "え？　何故そう言えるか、って？{n}竜ツーじゃないからさ…{n}な・なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "Huh? How does Byff know? Because dragon meat is never tender... Ha, ha, j-just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2158_015E4",
@@ -1568,8 +1568,8 @@
    12299
   ],
   "jp": "あら？　そこに落ちてるのは…",
-  "en": "",
-  "status": ""
+  "en": "Oh? What's that lying there...",
+  "status": "done"
  },
  {
   "id": "event_2158_01601",
@@ -1582,8 +1582,8 @@
    12369
   ],
   "jp": "一昔前に作られた記念コインね。{n}アイク帝の頃か…",
-  "en": "",
-  "status": ""
+  "en": "A commemorative coin from a while back. Emperor Eik's time, was it...",
+  "status": "done"
  },
  {
   "id": "event_2158_01631",
@@ -1596,8 +1596,8 @@
    12449
   ],
   "jp": "むむっ？{n}お金の気配がするぞ！{n}……そこかッ②",
-  "en": "",
-  "status": ""
+  "en": "Hmm? I sense money! ...There!",
+  "status": "done"
  },
  {
   "id": "event_2158_0165E",
@@ -1610,8 +1610,8 @@
    12519
   ],
   "jp": "よっしゃあ、コインゲットだ！{n}…ん？　変な柄のコインだな。",
-  "en": "",
-  "status": ""
+  "en": "All right, coin get! ...Hm? Weird pattern on this one.",
+  "status": "done"
  },
  {
   "id": "event_2158_01698",
@@ -1624,8 +1624,8 @@
    12599
   ],
   "jp": "ヒック…{n}んん？　何か引きずってるわね。{n}なによぉ、一体…",
-  "en": "",
-  "status": ""
+  "en": "*hic*... Hmm? I'm dragging something. What's this now...",
+  "status": "done"
  },
  {
   "id": "event_2158_016D1",
@@ -1638,8 +1638,8 @@
    12669
   ],
   "jp": "あら、コインじゃない。{n}…でも、流通硬貨じゃないから{n}お酒買えないわねぇ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a coin. ...But it isn't real currency, so it won't buy me any booze.",
+  "status": "done"
  },
  {
   "id": "event_2158_0171A",
@@ -1652,8 +1652,8 @@
    12749
   ],
   "jp": "ムムっ？　何か見っけ②{n}あたしのモンだからね～！",
-  "en": "",
-  "status": ""
+  "en": "Hmm? Found something! It's mine, okay~!",
+  "status": "done"
  },
  {
   "id": "event_2158_0174A",
@@ -1666,8 +1666,8 @@
    12819
   ],
   "jp": "あら、コインじゃない。{n}…うーん、フツーに使える{n}硬貨とは違うみたいね…",
-  "en": "",
-  "status": ""
+  "en": "Oh, it's a coin. ...Hmm, doesn't look like one you can actually spend...",
+  "status": "done"
  },
  {
   "id": "event_2158_017FB",
@@ -1678,8 +1678,8 @@
    6136
   ],
   "jp": "グラムブレイズ",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze",
+  "status": "done"
  },
  {
   "id": "event_2158_01864",
@@ -1690,8 +1690,8 @@
    6241
   ],
   "jp": "夜盗団",
-  "en": "",
-  "status": ""
+  "en": "Raider",
+  "status": "done"
  },
  {
   "id": "event_2158_019BC",
@@ -1714,8 +1714,8 @@
    20082
   ],
   "jp": "{voice:00F402}今はお前に付き合ってる場合じゃ{n}ねぇんだよ！",
-  "en": "",
-  "status": ""
+  "en": "I've got no time to deal with you right now!",
+  "status": "done"
  },
  {
   "id": "event_2158_040F0",
@@ -1726,8 +1726,8 @@
    20103
   ],
   "jp": "{voice:00F502}へっ、アンタの都合なんてさ、{n}どーでもいいのよ！{n}さぁ相手しなっ②",
-  "en": "",
-  "status": ""
+  "en": "Heh, Cerica doesn't care what you've got time for! Now come on, fight!",
+  "status": "done"
  },
  {
   "id": "event_2158_04135",
@@ -1738,8 +1738,8 @@
    27879
   ],
   "jp": "{voice:00F602}何度挑戦しても、{n}アイツには勝てない……{n}どうしてなの、セリカ……",
-  "en": "",
-  "status": ""
+  "en": "No matter how many times she tries, she can't beat him... Why, Cerica, why...",
+  "status": "done"
  },
  {
   "id": "event_2158_0417A",
@@ -1750,8 +1750,8 @@
    27900
   ],
   "jp": "{voice:00F702}これ以上は部隊がもたないか……{n}みんな、退却するよ！",
-  "en": "",
-  "status": ""
+  "en": "The unit can't take any more of this... Everyone, fall back!",
+  "status": "done"
  },
  {
   "id": "event_2158_041B2",
@@ -1762,8 +1762,8 @@
    27921
   ],
   "jp": "{voice:00F802}判断が遅いよ、君は……",
-  "en": "",
-  "status": ""
+  "en": "You're slow to decide, you know...",
+  "status": "done"
  },
  {
   "id": "event_2158_041CD",
@@ -1774,8 +1774,8 @@
    27942
   ],
   "jp": "{voice:00F902}セリカは絶対に！{n}絶対にアンタ達を許さないよ②",
-  "en": "",
-  "status": ""
+  "en": "Cerica will never, ever forgive you!",
+  "status": "done"
  },
  {
   "id": "event_2158_041FF",
@@ -1786,8 +1786,8 @@
    32760
   ],
   "jp": "{voice:00FA02}ヘッヘッヘッ、{n}割り込みが入ってくれたお陰で、{n}戦力を整える事ができたぜ。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh, thanks to that interruption, we got our forces back in order.",
+  "status": "done"
  },
  {
   "id": "event_2158_0424C",
@@ -1798,8 +1798,8 @@
    32781
   ],
   "jp": "{voice:00FB02}さてと、{n}さっきのお返しをしてやろうか。",
-  "en": "",
-  "status": ""
+  "en": "Now then, let me pay you back for earlier.",
+  "status": "done"
  },
  {
   "id": "event_2158_04278",
@@ -1810,8 +1810,8 @@
    32802
   ],
   "jp": "{voice:00FC02}まだいたのか、クズめ……",
-  "en": "",
-  "status": ""
+  "en": "Still here, you trash...",
+  "status": "done"
  },
  {
   "id": "event_2158_04295",
@@ -1822,8 +1822,8 @@
    32823
   ],
   "jp": "{voice:00FD02}いやね…、ここであんた達を{n}やっておけば、今後も仕事が{n}しやすくなると思ってね。",
-  "en": "",
-  "status": ""
+  "en": "Well, see... I figure if I take you out here, our work'll go a lot easier from now on.",
+  "status": "done"
  },
  {
   "id": "event_2158_042E8",
@@ -1834,8 +1834,8 @@
    32830
   ],
   "jp": "{voice:00FE02}けどよ、残念だぜ。{n}ブレイズ盗賊団の事、俺達結構{n}リスペクトしてたんだぜ。",
-  "en": "",
-  "status": ""
+  "en": "Still, what a shame. We really used to respect the Blaze Thieves.",
+  "status": "done"
  },
  {
   "id": "event_2158_04335",

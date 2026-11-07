@@ -8,8 +8,8 @@
    7383
   ],
   "jp": "{voice:00590F}シスキアはまだ見つからないのか？",
-  "en": "",
-  "status": ""
+  "en": "Still no sign of Siskier?",
+  "status": "done"
  },
  {
   "id": "event_2187_0004D",
@@ -20,8 +20,8 @@
    7401
   ],
   "jp": "{voice:005A0F}申し訳ありません……{n}しかし指定された場所を探しても{n}連絡員の姿が見当たらないのです。",
-  "en": "",
-  "status": ""
+  "en": "I'm very sorry... But we searched the place you named, and the messenger is nowhere to be seen.",
+  "status": "done"
  },
  {
   "id": "event_2187_000A6",
@@ -32,8 +32,8 @@
    7422
   ],
   "jp": "{voice:005B0F}そんな事があるわけないだろ！{n}場所を間違えたんじゃないのか②",
-  "en": "",
-  "status": ""
+  "en": "That can't be! You must have the wrong place!!",
+  "status": "done"
  },
  {
   "id": "event_2187_000E6",
@@ -44,8 +44,8 @@
    7443
   ],
   "jp": "{voice:005C0F}ジェノン、落ち着け……{n}焦っても解決する問題じゃない。",
-  "en": "",
-  "status": ""
+  "en": "Calm down, Jenon... Getting worked up won't solve this.",
+  "status": "done"
  },
  {
   "id": "event_2187_00120",
@@ -56,8 +56,8 @@
    7450
   ],
   "jp": "{voice:005D0F}捜索隊の人数を増やそう。{n}とにかく、足取りを探るんだ。{n}時間はかかるけど、それしかない。",
-  "en": "",
-  "status": ""
+  "en": "Let's send more people to search. Anyway, we need to pick up her trail. It'll take time, but it's all we can do.",
+  "status": "done"
  },
  {
   "id": "event_2187_0017B",
@@ -68,8 +68,8 @@
    7471
   ],
   "jp": "{voice:005E0F}だけど、これ以上部隊を割くと{n}ばらばらになりすぎてしまう。",
-  "en": "",
-  "status": ""
+  "en": "But if we split up any more units, we'll be spread too thin.",
+  "status": "done"
  },
  {
   "id": "event_2187_001B9",
@@ -80,8 +80,8 @@
    7492
   ],
   "jp": "{voice:005F0F}なんだって、ガーロット！{n}シスキアが心配じゃないのか②{n}え？　どうなんだよ②",
-  "en": "",
-  "status": ""
+  "en": "What did you say, Garlot! Aren't you worried about Siskier!! Huh? Are you!!",
+  "status": "done"
  },
  {
   "id": "event_2187_00208",
@@ -92,8 +92,8 @@
    7513
   ],
   "jp": "{voice:00600F}なんだ？　ふざけんなよ！{n}心配に決まってるだろ②",
-  "en": "",
-  "status": ""
+  "en": "What? Don't screw with me! Of course I'm worried!!",
+  "status": "done"
  },
  {
   "id": "event_2187_0023C",
@@ -104,8 +104,8 @@
    7578
   ],
   "jp": "{voice:00610F}二人とも、止めてください！{n}喧嘩してもなんにもなりません②",
-  "en": "",
-  "status": ""
+  "en": "Both of you, stop it! Fighting will accomplish nothing!!",
+  "status": "done"
  },
  {
   "id": "event_2187_0027A",
@@ -128,8 +128,8 @@
    7606
   ],
   "jp": "{voice:00620F}……すまない、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "...I'm sorry, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2187_002A4",
@@ -140,8 +140,8 @@
    7627
   ],
   "jp": "{voice:00630F}いや、俺の方こそ切れちまったよ。",
-  "en": "",
-  "status": ""
+  "en": "No, I'm the one who snapped.",
+  "status": "done"
  },
  {
   "id": "event_2187_002C9",
@@ -152,8 +152,8 @@
    7697
   ],
   "jp": "{voice:00640F}ネシア様！{n}前方に武装した一団を発見！",
-  "en": "",
-  "status": ""
+  "en": "Nessiah-sama! We've found an armed group up ahead!",
+  "status": "done"
  },
  {
   "id": "event_2187_002F3",
@@ -164,8 +164,8 @@
    7718
   ],
   "jp": "{voice:00650F}装備から判断して、軍でしたか？{n}それとも賊ですか？",
-  "en": "",
-  "status": ""
+  "en": "Judging by their equipment, were they an army? Or bandits?",
+  "status": "done"
  },
  {
   "id": "event_2187_00329",
@@ -176,8 +176,8 @@
    7739
   ],
   "jp": "{voice:00660F}あの装備は、軍のようでした。",
-  "en": "",
-  "status": ""
+  "en": "Their equipment looked military.",
+  "status": "done"
  },
  {
   "id": "event_2187_0034A",
@@ -188,8 +188,8 @@
    7760
   ],
   "jp": "{voice:00670F}帝国軍かな、{n}そうなると不味いな……",
-  "en": "",
-  "status": ""
+  "en": "The Imperial army, then? That would be bad...",
+  "status": "done"
  },
  {
   "id": "event_2187_00372",
@@ -200,8 +200,8 @@
    7781
   ],
   "jp": "{voice:00680F}帝国の軍旗ではありません。{n}今まで見た事の無い旗でした。",
-  "en": "",
-  "status": ""
+  "en": "It wasn't the Imperial banner. It was a flag I've never seen before.",
+  "status": "done"
  },
  {
   "id": "event_2187_003AE",
@@ -212,8 +212,8 @@
    7802
   ],
   "jp": "{voice:00690F}シスキアがその連中に{n}捕まってるって事はないかな？",
-  "en": "",
-  "status": ""
+  "en": "You don't think they could've captured Siskier?",
+  "status": "done"
  },
  {
   "id": "event_2187_003E4",
@@ -224,8 +224,8 @@
    7823
   ],
   "jp": "{voice:006A0F}これだけ探しても、{n}見つからなかったんだ。{n}その可能性はあるかもしれないな。",
-  "en": "",
-  "status": ""
+  "en": "We searched this much and didn't find her. It could be.",
+  "status": "done"
  },
  {
   "id": "event_2187_00433",
@@ -236,8 +236,8 @@
    7901
   ],
   "jp": "{voice:006B0F}メデューテ…",
-  "en": "",
-  "status": ""
+  "en": "Medoute...",
+  "status": "done"
  },
  {
   "id": "event_2187_00444",
@@ -248,8 +248,8 @@
    7922
   ],
   "jp": "{voice:006C0F}ふぅ、わかった、わかったわよ！{n}自分の目で確かめなきゃ、{n}気が済まないんだろ？",
-  "en": "",
-  "status": ""
+  "en": "*sigh* Okay, okay! You won't be satisfied till you see it with your own eyes, will you?",
+  "status": "done"
  },
  {
   "id": "event_2187_00495",
@@ -260,8 +260,8 @@
    7943
   ],
   "jp": "{voice:006D0F}そうだ……",
-  "en": "",
-  "status": ""
+  "en": "That's right...",
+  "status": "done"
  },
  {
   "id": "event_2187_004A4",
@@ -272,8 +272,8 @@
    7964
   ],
   "jp": "{voice:006E0F}とにかく、気付かれないように{n}慎重に進むのが絶対条件だ。",
-  "en": "",
-  "status": ""
+  "en": "Anyway, moving carefully so they don't notice us is an absolute must.",
+  "status": "done"
  },
  {
   "id": "event_2187_004E0",
@@ -284,8 +284,8 @@
    7971
   ],
   "jp": "{voice:006F0F}相手の正体が不明な以上、{n}狙いすら、わからないんだからね。",
-  "en": "",
-  "status": ""
+  "en": "We don't know who they are, so we don't even know what they're after.",
+  "status": "done"
  },
  {
   "id": "event_2187_0051E",
@@ -296,8 +296,8 @@
    8156
   ],
   "jp": "{voice:00700F}あの部隊です……",
-  "en": "",
-  "status": ""
+  "en": "That's the unit...",
+  "status": "done"
  },
  {
   "id": "event_2187_00533",
@@ -308,8 +308,8 @@
    8238
   ],
   "jp": "{voice:00710F}確かに見た事のない軍旗ね。{n}どこの軍勢かしら？",
-  "en": "",
-  "status": ""
+  "en": "That's a banner I've never seen, all right. Whose army is it?",
+  "status": "done"
  },
  {
   "id": "event_2187_00565",
@@ -320,8 +320,8 @@
    8259
   ],
   "jp": "{voice:00720F}見て！　あの丘の上にいるのは、{n}シスキアじゃないか②",
-  "en": "",
-  "status": ""
+  "en": "Look! Up on that hill, isn't that Siskier!!",
+  "status": "done"
  },
  {
   "id": "event_2187_0059D",
@@ -344,8 +344,8 @@
    8376
   ],
   "jp": "{voice:00730F}やっぱり捕らわれていたんだ。{n}なんとかして助け出さないと…",
-  "en": "",
-  "status": ""
+  "en": "They did capture her. We've got to get her out somehow...",
+  "status": "done"
  },
  {
   "id": "event_2187_005E6",
@@ -356,8 +356,8 @@
    8397
   ],
   "jp": "{voice:00740F}ちょっと待って！{n}シスキアの横を見て、あれは……",
-  "en": "",
-  "status": ""
+  "en": "Wait a minute! Look next to Siskier, that's...",
+  "status": "done"
  },
  {
   "id": "event_2187_0061A",
@@ -380,8 +380,8 @@
    8538
   ],
   "jp": "{voice:00750F}ヴェルマンがシスキアと{n}合流してたんだ。",
-  "en": "",
-  "status": ""
+  "en": "So Velleman met up with Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2187_00651",
@@ -392,8 +392,8 @@
    8556
   ],
   "jp": "{voice:00760F}なんだよ、ビックリさせんなよ。",
-  "en": "",
-  "status": ""
+  "en": "Geez, don't scare me like that.",
+  "status": "done"
  },
  {
   "id": "event_2187_00674",
@@ -404,8 +404,8 @@
    8577
   ],
   "jp": "{voice:00770F}よく見てください。{n}シスキアはヴェルマン方伯に{n}剣を突きつけられています！",
-  "en": "",
-  "status": ""
+  "en": "Look closely. Margrave Velleman has his sword pointed at Siskier!",
+  "status": "done"
  },
  {
   "id": "event_2187_006C1",
@@ -416,8 +416,8 @@
    8598
   ],
   "jp": "{voice:00780F}ガーロット！　近くにいるのは{n}斥候の報告で分かっている。{n}出てこい！",
-  "en": "",
-  "status": ""
+  "en": "Garlot! My scouts have told me you are nearby. Come out!",
+  "status": "done"
  },
  {
   "id": "event_2187_00708",
@@ -428,8 +428,8 @@
    8751
   ],
   "jp": "{voice:00790F}ヴェルマン！　説明しろ②",
-  "en": "",
-  "status": ""
+  "en": "Velleman! Explain this!!",
+  "status": "done"
  },
  {
   "id": "event_2187_00725",
@@ -440,8 +440,8 @@
    8815
   ],
   "jp": "{voice:007A0F}説明が必要なのか？{n}もう、分かっているのではないか？",
-  "en": "",
-  "status": ""
+  "en": "Is an explanation necessary? Don't you know already?",
+  "status": "done"
  },
  {
   "id": "event_2187_0075D",
@@ -464,8 +464,8 @@
    8857
   ],
   "jp": "{voice:007B0F}ヴェルマン方伯、{n}では目的をお聞かせ頂こう！",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman, let's hear what you're after, then!",
+  "status": "done"
  },
  {
   "id": "event_2187_00798",
@@ -476,8 +476,8 @@
    8878
   ],
   "jp": "{voice:007C0F}我々と戦え、ガーロット。{n}シスキアの命が惜しいならばな。",
-  "en": "",
-  "status": ""
+  "en": "Fight us, Garlot. If you value Siskier's life.",
+  "status": "done"
  },
  {
   "id": "event_2187_007D4",
@@ -488,8 +488,8 @@
    8899
   ],
   "jp": "{voice:007D0F}意味が分からない！{n}何がしたいんだ、方伯②",
-  "en": "",
-  "status": ""
+  "en": "This makes no sense! What are you trying to do, Margrave!!",
+  "status": "done"
  },
  {
   "id": "event_2187_00802",
@@ -500,8 +500,8 @@
    8947
   ],
   "jp": "{voice:007E0F}ジェノン……",
-  "en": "",
-  "status": ""
+  "en": "Jenon...",
+  "status": "done"
  },
  {
   "id": "event_2187_00813",
@@ -512,8 +512,8 @@
    8954
   ],
   "jp": "{voice:007F0F}ガーロット、みんなごめん。{n}私、捕まっちゃった……",
-  "en": "",
-  "status": ""
+  "en": "Garlot, everyone, I'm sorry. I got caught...",
+  "status": "done"
  },
  {
   "id": "event_2187_00849",
@@ -524,8 +524,8 @@
    9046
   ],
   "jp": "{voice:00800F}あなたが全てを仕組んでいた。{n}そういう事でしょうか？",
-  "en": "",
-  "status": ""
+  "en": "You arranged all of this. Would that be correct?",
+  "status": "done"
  },
  {
   "id": "event_2187_00881",
@@ -536,8 +536,8 @@
    9053
   ],
   "jp": "{voice:00810F}反乱連合の件の密告、{n}帝国軍バルドゥス隊の出動。{n}そして、シスキアの拉致……",
-  "en": "",
-  "status": ""
+  "en": "The tip about the rebel alliance, the sortie of Baldus's Imperial unit. And Siskier's abduction...",
+  "status": "done"
  },
  {
   "id": "event_2187_008D0",
@@ -548,8 +548,8 @@
    9074
   ],
   "jp": "{voice:00820F}それは違うな。{n}密告も、バルドゥス隊の出動も、{n}私は事前に情報を掴んだだけだ。",
-  "en": "",
-  "status": ""
+  "en": "You are mistaken. The tip, the sortie of Baldus's unit: I merely learned of them in advance.",
+  "status": "done"
  },
  {
   "id": "event_2187_00921",
@@ -560,8 +560,8 @@
    9095
   ],
   "jp": "{voice:00830F}だけど、それをあたし達には{n}知らせなかった。{n}つまり、見棄てたんだな？",
-  "en": "",
-  "status": ""
+  "en": "But you didn't tell us. Which means you left us for dead, didn't you?",
+  "status": "done"
  },
  {
   "id": "event_2187_0096A",
@@ -572,8 +572,8 @@
    9116
   ],
   "jp": "{voice:00840F}……その通りだ。",
-  "en": "",
-  "status": ""
+  "en": "...That is correct.",
+  "status": "done"
  },
  {
   "id": "event_2187_0097F",
@@ -584,8 +584,8 @@
    9208
   ],
   "jp": "{voice:00850F}おかしいだろ、ヴェルマン…{n}グラムブレイズはお前の私兵だ。{n}今までもこれからも、そうだろ！",
-  "en": "",
-  "status": ""
+  "en": "This is crazy, Velleman... Gram Blaze is your private army. It always has been, and it always will be!",
+  "status": "done"
  },
  {
   "id": "event_2187_009DC",
@@ -596,8 +596,8 @@
    9229
   ],
   "jp": "{voice:00860F}俺は、お前に付いていくって{n}決めかけてたんだぜ！{n}それを、ちくしょう②",
-  "en": "",
-  "status": ""
+  "en": "I'd almost made up my mind to follow you! And now, damn it!!",
+  "status": "done"
  },
  {
   "id": "event_2187_00A25",
@@ -608,8 +608,8 @@
    9250
   ],
   "jp": "{voice:00870F}反乱連合の総大将。{n}その依頼はお前に来た。",
-  "en": "",
-  "status": ""
+  "en": "Commander of the rebel alliance. That offer came to you.",
+  "status": "done"
  },
  {
   "id": "event_2187_00A53",
@@ -620,8 +620,8 @@
    9271
   ],
   "jp": "{voice:00880F}そんなの、お前と話もせずに{n}勝手に受けるわけないだろ！",
-  "en": "",
-  "status": ""
+  "en": "Like I'd just go and take it without even talking to you!",
+  "status": "done"
  },
  {
   "id": "event_2187_00A8D",
@@ -632,8 +632,8 @@
    9292
   ],
   "jp": "{voice:00890F}違うな、ガーロット。{n}今回はそうかもしれない。{n}だが、次回は？　その次は？",
-  "en": "",
-  "status": ""
+  "en": "No, Garlot. Perhaps not this time. But next time? And the time after that?",
+  "status": "done"
  },
  {
   "id": "event_2187_00ADA",
@@ -644,8 +644,8 @@
    9299
   ],
   "jp": "{voice:008A0F}グラムブレイズの勇名は、{n}一人歩きしてしまった。{n}しかも、それはお前のものだ。",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze's fame has taken on a life of its own. And that fame belongs to you.",
+  "status": "done"
  },
  {
   "id": "event_2187_00B2B",
@@ -656,8 +656,8 @@
    9317
   ],
   "jp": "{voice:008B0F}そして、それを否定する事が{n}私にはできない。",
-  "en": "",
-  "status": ""
+  "en": "And I can't deny it.",
+  "status": "done"
  },
  {
   "id": "event_2187_00B5B",
@@ -668,8 +668,8 @@
    9338
   ],
   "jp": "{voice:008C0F}俺はそうは思わない。{n}アンタがいたから、{n}俺達はここまで来れたんだ。",
-  "en": "",
-  "status": ""
+  "en": "I don't see it that way. We got this far because of you.",
+  "status": "done"
  },
  {
   "id": "event_2187_00BA2",
@@ -680,8 +680,8 @@
    9416
   ],
   "jp": "{voice:008D0F}私はな、ガーロット、{n}お前に恐怖を覚えているんだ。",
-  "en": "",
-  "status": ""
+  "en": "You see, Garlot, you frighten me.",
+  "status": "done"
  },
  {
   "id": "event_2187_00BD8",
@@ -692,8 +692,8 @@
    9437
   ],
   "jp": "{voice:008E0F}いつの日かお前が大きくなり、{n}飼い主の私を喰い殺すのではと{n}ずっと恐れていたんだ。",
-  "en": "",
-  "status": ""
+  "en": "I have always feared that one day you would grow large and devour me, your master.",
+  "status": "done"
  },
  {
   "id": "event_2187_00C2D",
@@ -704,8 +704,8 @@
    9444
   ],
   "jp": "{voice:008F0F}私には、時々お前が人間では無い{n}のではないかとすら思えるのだ。",
-  "en": "",
-  "status": ""
+  "en": "At times, I even wonder whether you are human at all.",
+  "status": "done"
  },
  {
   "id": "event_2187_00C6F",
@@ -716,8 +716,8 @@
    9465
   ],
   "jp": "{voice:00900F}そして、その恐怖は、{n}遂に私の制御を超えてしまった。",
-  "en": "",
-  "status": ""
+  "en": "And that fear has finally gone beyond my control.",
+  "status": "done"
  },
  {
   "id": "event_2187_00CA7",
@@ -728,8 +728,8 @@
    9472
   ],
   "jp": "{voice:00910F}だから、私は棄てると決めた。{n}お前達を裏切る形でだ。",
-  "en": "",
-  "status": ""
+  "en": "So I decided to cast you off. In the form of betraying you.",
+  "status": "done"
  },
  {
   "id": "event_2187_00CDF",
@@ -740,8 +740,8 @@
    9493
   ],
   "jp": "{voice:00920F}それが、理由なのか……",
-  "en": "",
-  "status": ""
+  "en": "That's your reason...",
+  "status": "done"
  },
  {
   "id": "event_2187_00CFA",
@@ -752,8 +752,8 @@
    9514
   ],
   "jp": "{voice:00930F}私と戦え、グラムブレイズ！",
-  "en": "",
-  "status": ""
+  "en": "Fight me, Gram Blaze!",
+  "status": "done"
  },
  {
   "id": "event_2187_00D19",
@@ -764,8 +764,8 @@
    9521
   ],
   "jp": "{voice:00940F}疲弊している今ならば、{n}私にも、お前達を倒せるはずだ②",
-  "en": "",
-  "status": ""
+  "en": "Worn out as you are now, even I should be able to defeat you!!",
+  "status": "done"
  },
  {
   "id": "event_2187_00D53",
@@ -776,8 +776,8 @@
    9599
   ],
   "jp": "{voice:00950F}ガーロット、彼は敵だ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot, he's the enemy.",
+  "status": "done"
  },
  {
   "id": "event_2187_00D6E",
@@ -788,8 +788,8 @@
    9620
   ],
   "jp": "{voice:00960F}……ジェノン。",
-  "en": "",
-  "status": ""
+  "en": "...Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2187_00D81",
@@ -800,8 +800,8 @@
    9641
   ],
   "jp": "{voice:00970F}あの男はシスキアを盾にしている。{n}そんな奴を許す気が、僕にはない。",
-  "en": "",
-  "status": ""
+  "en": "That man is using Siskier as a shield. I've got no intention of forgiving someone like that.",
+  "status": "done"
  },
  {
   "id": "event_2187_00DC7",
@@ -812,8 +812,8 @@
    9733
   ],
   "jp": "{voice:00980F}その通りだ、ジェノン。{n}許される理由など、私にはない。",
-  "en": "",
-  "status": ""
+  "en": "Quite right, Jenon. I have no claim to forgiveness.",
+  "status": "done"
  },
  {
   "id": "event_2187_00E01",
@@ -824,8 +824,8 @@
    9740
   ],
   "jp": "{voice:00990F}だが、これまでも{n}血塗られた道を歩んできた私だ。{n}許される気もまた、毛頭ない。",
-  "en": "",
-  "status": ""
+  "en": "But I have walked a bloodstained road all along. Nor do I have the slightest wish to be forgiven.",
+  "status": "done"
  },
  {
   "id": "event_2187_00E52",
@@ -836,8 +836,8 @@
    9761
   ],
   "jp": "{voice:009A0F}だからって、何をしても{n}いいってわけじゃないだろう……",
-  "en": "",
-  "status": ""
+  "en": "That doesn't mean you can do whatever you want...",
+  "status": "done"
  },
  {
   "id": "event_2187_00E8C",
@@ -848,8 +848,8 @@
    9782
   ],
   "jp": "{voice:009B0F}話は終わりだ、ガーロット。{n}私は、お前とは決別する。",
-  "en": "",
-  "status": ""
+  "en": "This talk is over, Garlot. I am parting ways with you.",
+  "status": "done"
  },
  {
   "id": "event_2187_00EC4",
@@ -860,8 +860,8 @@
    9803
   ],
   "jp": "{voice:009C0F}待て、ヴェルマン！{n}俺は…、俺は！",
-  "en": "",
-  "status": ""
+  "en": "Wait, Velleman! I... I!",
+  "status": "done"
  },
  {
   "id": "event_2187_00EEA",
@@ -872,8 +872,8 @@
    9895
   ],
   "jp": "{voice:009D0F}無理だ、ガーロット！{n}戦いはもう始まっている。",
-  "en": "",
-  "status": ""
+  "en": "It's no use, Garlot! The fight has already started.",
+  "status": "done"
  },
  {
   "id": "event_2187_00F1C",
@@ -884,8 +884,8 @@
    9916
   ],
   "jp": "{voice:009E0F}レオン殿の言う事は正しい。{n}あとは、どちらが死ぬかです。",
-  "en": "",
-  "status": ""
+  "en": "Leon-dono is right. All that remains is which side dies.",
+  "status": "done"
  },
  {
   "id": "event_2187_00F58",
@@ -896,8 +896,8 @@
    9937
   ],
   "jp": "{voice:009F0F}……なんでだよッ！{n}ちくしょうッ②",
-  "en": "",
-  "status": ""
+  "en": "...Why, damn it! Damn it!!",
+  "status": "done"
  },
  {
   "id": "event_2187_00F7E",
@@ -908,8 +908,8 @@
    10135
   ],
   "jp": "{voice:00A00F}みんな、ごめん……",
-  "en": "",
-  "status": ""
+  "en": "Everyone, I'm sorry...",
+  "status": "done"
  },
  {
   "id": "event_2187_00F95",
@@ -920,8 +920,8 @@
    10142
   ],
   "jp": "{voice:00A10F}私がヘマしなきゃ…{n}こんなことにはならなかったのに。",
-  "en": "",
-  "status": ""
+  "en": "If I hadn't messed up... None of this would've happened.",
+  "status": "done"
  },
  {
   "id": "event_2187_00FCD",
@@ -932,8 +932,8 @@
    12162
   ],
   "jp": "{voice:00A20F}そこまでだ、ガーロット！",
-  "en": "",
-  "status": ""
+  "en": "That's enough, Garlot!",
+  "status": "done"
  },
  {
   "id": "event_2187_00FEA",
@@ -944,8 +944,8 @@
    12183
   ],
   "jp": "{voice:00A30F}獅子か魔竜かというような、{n}戦いぶりだったな。",
-  "en": "",
-  "status": ""
+  "en": "You fought like a lion, or a demon dragon.",
+  "status": "done"
  },
  {
   "id": "event_2187_0101C",
@@ -956,8 +956,8 @@
    12190
   ],
   "jp": "{voice:00A40F}本当は、正面から戦い、{n}そしてグラムブレイズを{n}打ち破りたかった。",
-  "en": "",
-  "status": ""
+  "en": "In truth, I wanted to fight Gram Blaze head-on and defeat you.",
+  "status": "done"
  },
  {
   "id": "event_2187_01061",
@@ -968,8 +968,8 @@
    12211
   ],
   "jp": "{voice:00A50F}だが、疲弊している筈の{n}今ですら、それができないと{n}思い知らされたよ。",
-  "en": "",
-  "status": ""
+  "en": "But now I've learned I can't do it, even with you as worn out as you should be.",
+  "status": "done"
  },
  {
   "id": "event_2187_010AA",
@@ -980,8 +980,8 @@
    12232
   ],
   "jp": "{voice:00A60F}不本意だが、こうさせて貰う。",
-  "en": "",
-  "status": ""
+  "en": "It's not what I wanted, but this is how it will be.",
+  "status": "done"
  },
  {
   "id": "event_2187_010CB",
@@ -992,8 +992,8 @@
    12347
   ],
   "jp": "{voice:00A70F}私兵団は武器をすべて棄てろ！{n}この娘の命が惜しければだ②",
-  "en": "",
-  "status": ""
+  "en": "Private soldiers, throw down all your weapons! If you value this girl's life!!",
+  "status": "done"
  },
  {
   "id": "event_2187_01107",
@@ -1004,8 +1004,8 @@
    12425
   ],
   "jp": "{voice:00A80F}ここまでか……{n}神よ、いるならば僕に力をくれ、{n}シスキアを助ける力を！",
-  "en": "",
-  "status": ""
+  "en": "So this is it... God, if you're there, give me strength, the strength to save Siskier!",
+  "status": "done"
  },
  {
   "id": "event_2187_01150",
@@ -1016,8 +1016,8 @@
    12504
   ],
   "jp": "{voice:00A90F}無念です……",
-  "en": "",
-  "status": ""
+  "en": "How bitter...",
+  "status": "done"
  },
  {
   "id": "event_2187_01161",
@@ -1028,8 +1028,8 @@
    12583
   ],
   "jp": "{voice:00AA0F}あーぁ、どうしよう。{n}こうなったら、ヴェルマン側に{n}付くのってアリかしら？",
-  "en": "",
-  "status": ""
+  "en": "Oh, great. What now. At this point, could I just go over to Velleman's side?",
+  "status": "done"
  },
  {
   "id": "event_2187_011AE",
@@ -1040,8 +1040,8 @@
    12662
   ],
   "jp": "{voice:00AB0F}シスキア、助けられないのか！{n}悔しい、バイフー、悔し過ぎる…",
-  "en": "",
-  "status": ""
+  "en": "Byff cannot save Siskier! Frustrating, Byff is so frustrated...",
+  "status": "done"
  },
  {
   "id": "event_2187_011EE",
@@ -1052,8 +1052,8 @@
    12741
   ],
   "jp": "{voice:00AC0F}ヴェルマンを弓で狙えるか？{n}ダメだ、この距離じゃ{n}確実には狙えない……",
-  "en": "",
-  "status": ""
+  "en": "Can I hit Velleman with an arrow? No, not from this far. Can't be sure of it...",
+  "status": "done"
  },
  {
   "id": "event_2187_01237",
@@ -1064,8 +1064,8 @@
    12820
   ],
   "jp": "{voice:00AD0F}…ヒック…、酔いが{n}覚めて、ヒック…来ちまったよ…",
-  "en": "",
-  "status": ""
+  "en": "...*hic*... I'm sobering up, *hic*... here it comes...",
+  "status": "done"
  },
  {
   "id": "event_2187_0126D",
@@ -1076,8 +1076,8 @@
    12899
   ],
   "jp": "{voice:00AE0F}きーっ！　腹立つわ②{n}このパメラ様ともあろう者が{n}従わなきゃイケナイなんて～②",
-  "en": "",
-  "status": ""
+  "en": "Eeek! This makes Pamela-sama so mad!! For someone like Pamela-sama to have to do as she's told~!!",
+  "status": "done"
  },
  {
   "id": "event_2187_012BE",
@@ -1088,8 +1088,8 @@
    13005
   ],
   "jp": "{voice:00AF0F}そしてジェノン！{n}お前はその剣で、ガーロットの{n}首を落とせ！",
-  "en": "",
-  "status": ""
+  "en": "And Jenon! Take that sword of yours and cut off Garlot's head!",
+  "status": "done"
  },
  {
   "id": "event_2187_012FD",
@@ -1100,8 +1100,8 @@
    13012
   ],
   "jp": "{voice:00B00F}そうすれば、シスキアも{n}お前達も全員命までは取らない。{n}これは、約束しよう。",
-  "en": "",
-  "status": ""
+  "en": "Do that, and I will spare Siskier and the rest of you. That I promise.",
+  "status": "done"
  },
  {
   "id": "event_2187_0134C",
@@ -1124,8 +1124,8 @@
    13084
   ],
   "jp": "{voice:00B10F}ガーロット！　ジェノン！{n}メデューテ②　みんな！",
-  "en": "",
-  "status": ""
+  "en": "Garlot! Jenon! Medoute!! Everyone!",
+  "status": "done"
  },
  {
   "id": "event_2187_01383",
@@ -1136,8 +1136,8 @@
    13091
   ],
   "jp": "{voice:00B20F}私は平気②{n}だから、戦って！",
-  "en": "",
-  "status": ""
+  "en": "I'm okay!! So fight!",
+  "status": "done"
  },
  {
   "id": "event_2187_013A3",
@@ -1148,8 +1148,8 @@
    13112
   ],
   "jp": "{voice:00B30F}シスキア！",
-  "en": "",
-  "status": ""
+  "en": "Siskier!",
+  "status": "done"
  },
  {
   "id": "event_2187_013B2",
@@ -1160,8 +1160,8 @@
    13133
   ],
   "jp": "{voice:00B40F}お願いだから、戦ってよ②{n}立って、武器を取って！",
-  "en": "",
-  "status": ""
+  "en": "Please, you have to fight!! Stand up, pick up your weapons!",
+  "status": "done"
  },
  {
   "id": "event_2187_013E6",
@@ -1172,8 +1172,8 @@
    13212
   ],
   "jp": "{voice:00B50F}……フッ、そうですか。{n}遂に来ましたか、この時が。",
-  "en": "",
-  "status": ""
+  "en": "...Heh, I see. So at last it has come, this moment.",
+  "status": "done"
  },
  {
   "id": "event_2187_0141C",
@@ -1184,8 +1184,8 @@
    13256
   ],
   "jp": "{voice:00B60F}グラムブレイズは、{n}世界を変える為に、{n}ここまで来たんでしょ！",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze came all this way to change the world, didn't it!",
+  "status": "done"
  },
  {
   "id": "event_2187_0145D",
@@ -1196,8 +1196,8 @@
    13263
   ],
   "jp": "{voice:00B70F}それを、私なんかの為に{n}投げ出すなんて、バカげてるよ！",
-  "en": "",
-  "status": ""
+  "en": "Throwing that away for someone like me is crazy!",
+  "status": "done"
  },
  {
   "id": "event_2187_01497",
@@ -1208,8 +1208,8 @@
    13335
   ],
   "jp": "{voice:00B80F}シスキア、{n}それはそうだが……",
-  "en": "",
-  "status": ""
+  "en": "Siskier, that may be, but...",
+  "status": "done"
  },
  {
   "id": "event_2187_014B9",
@@ -1220,8 +1220,8 @@
    13420
   ],
   "jp": "{voice:00B90F}ガーロット！　アンタ団長でしょ！{n}武器を拾えって！{n}みんなにもそう言って②",
-  "en": "",
-  "status": ""
+  "en": "Garlot! You're the Captain, aren't you! Pick up your sword! Tell everyone to do it too!!",
+  "status": "done"
  },
  {
   "id": "event_2187_01506",
@@ -1232,8 +1232,8 @@
    13427
   ],
   "jp": "{voice:00BA0F}言ってよ、ガーロット！　ねぇ！",
-  "en": "",
-  "status": ""
+  "en": "Tell them, Garlot! Please!",
+  "status": "done"
  },
  {
   "id": "event_2187_01529",
@@ -1244,8 +1244,8 @@
    13448
   ],
   "jp": "{voice:00BB0F}無理だよ、俺にはできない。",
-  "en": "",
-  "status": ""
+  "en": "I can't. I can't do that.",
+  "status": "done"
  },
  {
   "id": "event_2187_01548",
@@ -1268,8 +1268,8 @@
    13490
   ],
   "jp": "{voice:00BC0F}世界は変えたいさ、{n}だけどお前を犠牲にして、{n}それが得られるとは思えない……",
-  "en": "",
-  "status": ""
+  "en": "I want to change the world, sure, but I don't think I can get there by sacrificing you...",
+  "status": "done"
  },
  {
   "id": "event_2187_015A2",
@@ -1280,8 +1280,8 @@
    13511
   ],
   "jp": "{voice:00BD0F}……なによ、それ。{n}わかんないよ。",
-  "en": "",
-  "status": ""
+  "en": "...What's that supposed to mean. I don't understand.",
+  "status": "done"
  },
  {
   "id": "event_2187_015C8",
@@ -1304,8 +1304,8 @@
    13613
   ],
   "jp": "{voice:00BE0F}ガーロット、大丈夫だよ、{n}グラムブレイズは{n}絶対に世界を変えれるよ……",
-  "en": "",
-  "status": ""
+  "en": "Garlot, it's okay. Gram Blaze is going to change the world, I know it...",
+  "status": "done"
  },
  {
   "id": "event_2187_0161C",
@@ -1316,8 +1316,8 @@
    13634
   ],
   "jp": "{voice:00BF0F}それに、私の為に、{n}好きな人が死んでいくのを{n}見ることなんて、耐えられないよ。",
-  "en": "",
-  "status": ""
+  "en": "And I can't bear to watch the person I love die because of me.",
+  "status": "done"
  },
  {
   "id": "event_2187_0166D",
@@ -1328,8 +1328,8 @@
    13713
   ],
   "jp": "{voice:00C00F}おい、待てよ。{n}あの娘、まさか…！",
-  "en": "",
-  "status": ""
+  "en": "Hey, wait. That girl, she can't be...!",
+  "status": "done"
  },
  {
   "id": "event_2187_01693",
@@ -1340,8 +1340,8 @@
    13771
   ],
   "jp": "{voice:00C10F}ん？",
-  "en": "",
-  "status": ""
+  "en": "Hm?",
+  "status": "done"
  },
  {
   "id": "event_2187_0169C",
@@ -1352,8 +1352,8 @@
    13863
   ],
   "jp": "{voice:00C20F}ありがとう、今まで……",
-  "en": "",
-  "status": ""
+  "en": "Thank you, for everything...",
+  "status": "done"
  },
  {
   "id": "event_2187_016B7",
@@ -1364,8 +1364,8 @@
    13870
   ],
   "jp": "{voice:00C30F}さよなら、ガーロット②",
-  "en": "",
-  "status": ""
+  "en": "Goodbye, Garlot!!",
+  "status": "done"
  },
  {
   "id": "event_2187_016D2",
@@ -1376,8 +1376,8 @@
    13891
   ],
   "jp": "{voice:00C40F}おい！　待て！",
-  "en": "",
-  "status": ""
+  "en": "Hey! Wait!",
+  "status": "done"
  },
  {
   "id": "event_2187_016E5",
@@ -1388,8 +1388,8 @@
    13912
   ],
   "jp": "{voice:00C50F}シスキア②",
-  "en": "",
-  "status": ""
+  "en": "Siskier!!",
+  "status": "done"
  },
  {
   "id": "event_2187_016F4",
@@ -1400,8 +1400,8 @@
    13996
   ],
   "jp": "{voice:00C60F}……シスキア。",
-  "en": "",
-  "status": ""
+  "en": "...Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2187_01707",
@@ -1412,8 +1412,8 @@
    14017
   ],
   "jp": "{voice:00C70F}…なんでだ、こんな{n}ウソだろ、おいっ…②",
-  "en": "",
-  "status": ""
+  "en": "...Why, this can't be, no way, hey...!!",
+  "status": "done"
  },
  {
   "id": "event_2187_01733",
@@ -1424,8 +1424,8 @@
    14089
   ],
   "jp": "{voice:00C80F}シスキアが……",
-  "en": "",
-  "status": ""
+  "en": "Siskier...",
+  "status": "done"
  },
  {
   "id": "event_2187_01746",
@@ -1436,8 +1436,8 @@
    14168
   ],
   "jp": "{voice:00C90F}おいっ、ゆるさねぇぞ方伯！{n}オメェ殺すぞ？",
-  "en": "",
-  "status": ""
+  "en": "Hey, I won't forgive this, Margrave! I'm gonna kill you, you hear me?",
+  "status": "done"
  },
  {
   "id": "event_2187_01774",
@@ -1460,8 +1460,8 @@
    14402
   ],
   "jp": "{voice:00CA0F}最後の突撃が来るぞ。{n}各隊、決死の覚悟で受け止めよ。",
-  "en": "",
-  "status": ""
+  "en": "The final charge is coming. All units, hold them with your lives.",
+  "status": "done"
  },
  {
   "id": "event_2187_017B7",
@@ -1472,8 +1472,8 @@
    14409
   ],
   "jp": "{voice:00CB0F}私の覚悟は、もうできている。",
-  "en": "",
-  "status": ""
+  "en": "My own resolve is already made.",
+  "status": "done"
  },
  {
   "id": "event_2187_017D8",
@@ -1484,8 +1484,8 @@
    14457
   ],
   "jp": "{voice:00CC0F}シスキア…",
-  "en": "",
-  "status": ""
+  "en": "Siskier...",
+  "status": "done"
  },
  {
   "id": "event_2187_017E7",
@@ -1521,8 +1521,8 @@
    14541
   ],
   "jp": "{voice:00CD0F}あああああああああ②",
-  "en": "",
-  "status": ""
+  "en": "Aaaaaaaaaaah!!",
+  "status": "done"
  },
  {
   "id": "event_2187_01830",
@@ -1533,8 +1533,8 @@
    6189
   ],
   "jp": "グラムブレイズ",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze",
+  "status": "done"
  },
  {
   "id": "event_2187_01897",
@@ -1557,8 +1557,8 @@
    6350
   ],
   "jp": "ヴェルマン隊A",
-  "en": "",
-  "status": ""
+  "en": "Velleman A",
+  "status": "done"
  },
  {
   "id": "event_2187_0196E",
@@ -1569,8 +1569,8 @@
    6507
   ],
   "jp": "ヴェルマン隊B",
-  "en": "",
-  "status": ""
+  "en": "Velleman B",
+  "status": "done"
  },
  {
   "id": "event_2187_03948",

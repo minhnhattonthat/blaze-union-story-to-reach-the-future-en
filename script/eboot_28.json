@@ -11,8 +11,8 @@
    }
   ],
   "jp": "マップ概要",
-  "en": "",
-  "status": ""
+  "en": "Map Overview",
+  "status": "done"
  },
  {
   "id": "eboot_2831FB",
@@ -26,8 +26,8 @@
    }
   ],
   "jp": "盗賊に襲撃を受け、今は無惨な残骸だけを残している…",
-  "en": "",
-  "status": ""
+  "en": "Attacked by thieves, now only a ruined shell remains...",
+  "status": "done"
  },
  {
   "id": "eboot_28322E",
@@ -40,8 +40,8 @@
    }
   ],
   "jp": "地方都市ティエラ西部の、貧しい人々が身を寄せ合う地区",
-  "en": "",
-  "status": ""
+  "en": "The poor quarter in western Tiera, where people huddle together",
+  "status": "done"
  },
  {
   "id": "eboot_283263",
@@ -54,8 +54,8 @@
    }
   ],
   "jp": "地方都市ティエラ西部の、貧しい人々が身を寄せ合う地区",
-  "en": "",
-  "status": ""
+  "en": "The poor quarter in western Tiera, where people huddle together",
+  "status": "done"
  },
  {
   "id": "eboot_283298",
@@ -68,8 +68,8 @@
    }
   ],
   "jp": "地方都市ティエラ西部の、貧しい人々が身を寄せ合う地区",
-  "en": "",
-  "status": ""
+  "en": "The poor quarter in western Tiera, where people huddle together",
+  "status": "done"
  },
  {
   "id": "eboot_2832CD",
@@ -82,8 +82,8 @@
    }
   ],
   "jp": "地方都市ティエラ西部の、貧しい人々が身を寄せ合う地区",
-  "en": "",
-  "status": ""
+  "en": "The poor quarter in western Tiera, where people huddle together",
+  "status": "done"
  },
  {
   "id": "eboot_283302",
@@ -96,8 +96,8 @@
    }
   ],
   "jp": "地方都市ティエラ西部の、貧しい人々が身を寄せ合う地区",
-  "en": "",
-  "status": ""
+  "en": "The poor quarter in western Tiera, where people huddle together",
+  "status": "done"
  },
  {
   "id": "eboot_283337",
@@ -110,8 +110,8 @@
    }
   ],
   "jp": "ティエラの北西に位置する、岩肌が露出した荒野地帯",
-  "en": "",
-  "status": ""
+  "en": "A barren, rocky wasteland to the northwest of Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_283368",
@@ -124,8 +124,8 @@
    }
   ],
   "jp": "イーザー渓谷に開かれたティエラと帝都を結ぶ交通の要衝",
-  "en": "",
-  "status": ""
+  "en": "A key route through the Ether Gorge joining Tiera and the capital",
+  "status": "done"
  },
  {
   "id": "eboot_28339D",
@@ -138,8 +138,8 @@
    }
   ],
   "jp": "ティエラの北に位置するアルベルト侯爵の領地",
-  "en": "",
-  "status": ""
+  "en": "Marquis Albelt's lands, north of Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_2833C8",
@@ -152,8 +152,8 @@
    }
   ],
   "jp": "帝国北部の国境沿いに配備された帝国軍の駐屯地",
-  "en": "",
-  "status": ""
+  "en": "An Imperial Army garrison on the Empire's northern border",
+  "status": "done"
  },
  {
   "id": "eboot_2833F5",
@@ -166,8 +166,8 @@
    }
   ],
   "jp": "地方都市ティエラ東部の、富裕層が住まう地区",
-  "en": "",
-  "status": ""
+  "en": "The wealthy quarter in eastern Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_283420",
@@ -180,8 +180,8 @@
    }
   ],
   "jp": "山脈の尾根を避けるようにして伸びる間道",
-  "en": "",
-  "status": ""
+  "en": "A back road that winds past the mountain ridges",
+  "status": "done"
  },
  {
   "id": "eboot_283447",
@@ -194,8 +194,8 @@
    }
   ],
   "jp": "隣国の王都パルティナ西部に広がる大砂漠地帯",
-  "en": "",
-  "status": ""
+  "en": "The great desert spreading west of the royal capital Paltina",
+  "status": "done"
  },
  {
   "id": "eboot_283472",
@@ -208,8 +208,8 @@
    }
   ],
   "jp": "西部地域に走るジッカート山脈の主峰にあるキャンプ場",
-  "en": "",
-  "status": ""
+  "en": "A campsite on the main peak of the Jikkart Range in the west",
+  "status": "done"
  },
  {
   "id": "eboot_2834A5",
@@ -222,8 +222,8 @@
    }
   ],
   "jp": "ティエラの西にあるアニス伯爵が統治する町",
-  "en": "",
-  "status": ""
+  "en": "A town ruled by Count Anis, west of Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_2834CE",
@@ -236,8 +236,8 @@
    }
   ],
   "jp": "奥深い森の中に佇む盗賊団の砦",
-  "en": "",
-  "status": ""
+  "en": "A thieves' fort standing deep in the forest",
+  "status": "done"
  },
  {
   "id": "eboot_2834EB",
@@ -250,8 +250,8 @@
    }
   ],
   "jp": "西部地域の東端と呼ばれる位置にそびえる険阻な山",
-  "en": "",
-  "status": ""
+  "en": "A steep mountain said to mark the Western Region's eastern end",
+  "status": "done"
  },
  {
   "id": "eboot_28351A",
@@ -264,8 +264,8 @@
    }
   ],
   "jp": "丘陵地帯にある都市群。有力諸侯のバリン公爵が治める",
-  "en": "",
-  "status": ""
+  "en": "Hill cities ruled by the powerful Duke Balin",
+  "status": "done"
  },
  {
   "id": "eboot_28354D",
@@ -278,8 +278,8 @@
    }
   ],
   "jp": "バリン公爵領の西に広がる湿地帯。毒沼による瘴気が濃い",
-  "en": "",
-  "status": ""
+  "en": "Marshes west of Duke Balin's lands, thick with poison swamp fumes",
+  "status": "done"
  },
  {
   "id": "eboot_283582",
@@ -292,8 +292,8 @@
    }
   ],
   "jp": "バリン公爵領と海を繋げるアルト川が流れる平野部",
-  "en": "",
-  "status": ""
+  "en": "Plains on the Alto River joining Duke Balin's lands to the sea",
+  "status": "done"
  },
  {
   "id": "eboot_2835B1",
@@ -306,8 +306,8 @@
    }
   ],
   "jp": "アルベルト侯爵領南部の、農耕地帯が広がる地域",
-  "en": "",
-  "status": ""
+  "en": "Farmland in the south of Marquis Albelt's lands",
+  "status": "done"
  },
  {
   "id": "eboot_2835DE",
@@ -320,8 +320,8 @@
    }
   ],
   "jp": "ティエラの北に位置するアルベルト侯爵の領地",
-  "en": "",
-  "status": ""
+  "en": "Marquis Albelt's lands, north of Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_283609",
@@ -334,8 +334,8 @@
    }
   ],
   "jp": "ティエラ郊外に設けられたグラムブレイズの邸宅",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze's manor on the outskirts of Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_283636",
@@ -348,8 +348,8 @@
    }
   ],
   "jp": "地方都市ティエラから西部地域に向かう貿易路",
-  "en": "",
-  "status": ""
+  "en": "A trade route from Tiera to the Western Region",
+  "status": "done"
  },
  {
   "id": "eboot_283661",
@@ -362,8 +362,8 @@
    }
   ],
   "jp": "日の光も木々に遮られて届かない、深遠なる森",
-  "en": "",
-  "status": ""
+  "en": "A deep forest where the trees block out the sunlight",
+  "status": "done"
  },
  {
   "id": "eboot_28368C",
@@ -376,8 +376,8 @@
    }
   ],
   "jp": "ティエラの北西に位置する、岩肌が露出した荒野地帯",
-  "en": "",
-  "status": ""
+  "en": "A barren, rocky wasteland to the northwest of Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_2836BD",
@@ -390,8 +390,8 @@
    }
   ],
   "jp": "ティエラと帝都を結ぶ貿易路。すぐ傍に私兵団邸がある",
-  "en": "",
-  "status": ""
+  "en": "The trade road joining Tiera and the capital. The manor is nearby",
+  "status": "done"
  },
  {
   "id": "eboot_2836F0",
@@ -404,8 +404,8 @@
    }
   ],
   "jp": "帝都フレアヴェルクの正門。軍事演習がたびたび行われる",
-  "en": "",
-  "status": ""
+  "en": "The main gate of the capital Flarewerk. War games are often held",
+  "status": "done"
  },
  {
   "id": "eboot_283725",
@@ -418,8 +418,8 @@
    }
   ],
   "jp": "西部地域の主要都市のひとつ。農作物は全土に出荷される",
-  "en": "",
-  "status": ""
+  "en": "A major city in the Western Region. Its crops go across the land",
+  "status": "done"
  },
  {
   "id": "eboot_28375A",
@@ -432,8 +432,8 @@
    }
   ],
   "jp": "西部地域の主要都市のひとつ。温泉で有名",
-  "en": "",
-  "status": ""
+  "en": "A major city in the Western Region, famous for hot springs",
+  "status": "done"
  },
  {
   "id": "eboot_283781",
@@ -446,8 +446,8 @@
    }
   ],
   "jp": "イーザー渓谷に開かれたティエラと帝都を結ぶ交通の要衝",
-  "en": "",
-  "status": ""
+  "en": "A key route through the Ether Gorge joining Tiera and the capital",
+  "status": "done"
  },
  {
   "id": "eboot_2837B6",
@@ -460,8 +460,8 @@
    }
   ],
   "jp": "ティエラと帝都を結ぶ運河の折り返し地点",
-  "en": "",
-  "status": ""
+  "en": "Turning point of the canal joining Tiera and the capital",
+  "status": "done"
  },
  {
   "id": "eboot_2837DD",
@@ -474,8 +474,8 @@
    }
   ],
   "jp": "ラネシァ川に設けられた、西部地域の入り口に当たる関所",
-  "en": "",
-  "status": ""
+  "en": "A checkpoint on the Ranesha River, gateway to the Western Region",
+  "status": "done"
  },
  {
   "id": "eboot_283812",
@@ -488,8 +488,8 @@
    }
   ],
   "jp": "帝都フレアヴェルクの正門。軍事演習がたびたび行われる",
-  "en": "",
-  "status": ""
+  "en": "The main gate of the capital Flarewerk. War games are often held",
+  "status": "done"
  },
  {
   "id": "eboot_283847",
@@ -502,8 +502,8 @@
    }
   ],
   "jp": "ティエラと帝都を結ぶ貿易路。すぐ傍に私兵団邸がある",
-  "en": "",
-  "status": ""
+  "en": "The trade road joining Tiera and the capital. The manor is nearby",
+  "status": "done"
  },
  {
   "id": "eboot_28387A",
@@ -516,8 +516,8 @@
    }
   ],
   "jp": "地方都市ティエラ西部の、貧しい人々が身を寄せ合う地区",
-  "en": "",
-  "status": ""
+  "en": "The poor quarter in western Tiera, where people huddle together",
+  "status": "done"
  },
  {
   "id": "eboot_2838AF",
@@ -530,8 +530,8 @@
    }
   ],
   "jp": "西部地域の東端と呼ばれる位置にそびえる険阻な山",
-  "en": "",
-  "status": ""
+  "en": "A steep mountain said to mark the Western Region's eastern end",
+  "status": "done"
  },
  {
   "id": "eboot_2838DE",
@@ -544,8 +544,8 @@
    }
   ],
   "jp": "地方都市ティエラ東部の、富裕層が住まう地区",
-  "en": "",
-  "status": ""
+  "en": "The wealthy quarter in eastern Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_283909",
@@ -558,8 +558,8 @@
    }
   ],
   "jp": "ティエラ郊外に設けられたグラムブレイズの邸宅",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze's manor on the outskirts of Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_283936",
@@ -572,8 +572,8 @@
    }
   ],
   "jp": "ティエラの北西に位置する、岩肌が露出した荒野地帯",
-  "en": "",
-  "status": ""
+  "en": "A barren, rocky wasteland to the northwest of Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_283967",
@@ -586,8 +586,8 @@
    }
   ],
   "jp": "かつて魔竜ブロンガと勇者ギルが戦った最果ての地",
-  "en": "",
-  "status": ""
+  "en": "The far land where demon dragon Brongaa fought the hero Gil",
+  "status": "done"
  },
  {
   "id": "eboot_283996",
@@ -600,8 +600,8 @@
    }
   ],
   "jp": "帝都フレアヴェルクの正門。軍事演習がたびたび行われる",
-  "en": "",
-  "status": ""
+  "en": "The main gate of the capital Flarewerk. War games are often held",
+  "status": "done"
  },
  {
   "id": "eboot_2839CB",
@@ -614,8 +614,8 @@
    }
   ],
   "jp": "山岳地帯の合間に割拠するブロンキア帝国の帝都",
-  "en": "",
-  "status": ""
+  "en": "Capital of the Bronquia Empire, set among the mountains",
+  "status": "done"
  },
  {
   "id": "eboot_2839F8",
@@ -628,8 +628,8 @@
    }
   ],
   "jp": "山岳地帯の合間に割拠するブロンキア帝国の帝都",
-  "en": "",
-  "status": ""
+  "en": "Capital of the Bronquia Empire, set among the mountains",
+  "status": "done"
  },
  {
   "id": "eboot_283A25",
@@ -642,8 +642,8 @@
    }
   ],
   "jp": "ティエラ郊外に設けられたグラムブレイズの邸宅",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze's manor on the outskirts of Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_283A52",
@@ -656,8 +656,8 @@
    }
   ],
   "jp": "国境線に跨って伸びる帝国と王国とを繋ぐ街道",
-  "en": "",
-  "status": ""
+  "en": "A highway spanning the border between Empire and Kingdom",
+  "status": "done"
  },
  {
   "id": "eboot_283A7D",
@@ -670,8 +670,8 @@
    }
   ],
   "jp": "王都パルティナとカローナを結ぶ街道",
-  "en": "",
-  "status": ""
+  "en": "A highway joining the royal capital Paltina and Karona",
+  "status": "done"
  },
  {
   "id": "eboot_283AA0",
@@ -684,8 +684,8 @@
    }
   ],
   "jp": "ファンタジニア王国の都であるパルティナの正門",
-  "en": "",
-  "status": ""
+  "en": "The main gate of Paltina, capital of the Kingdom of Fantasinia",
+  "status": "done"
  },
  {
   "id": "eboot_283ACD",
@@ -698,8 +698,8 @@
    }
   ],
   "jp": "パルティナ城の中心にある大部屋",
-  "en": "",
-  "status": ""
+  "en": "The great hall at the heart of Paltina Castle",
+  "status": "done"
  },
  {
   "id": "eboot_283AEC",
@@ -712,8 +712,8 @@
    }
   ],
   "jp": "パルティナ城の中心にある大部屋",
-  "en": "",
-  "status": ""
+  "en": "The great hall at the heart of Paltina Castle",
+  "status": "done"
  },
  {
   "id": "eboot_283B0B",
@@ -726,8 +726,8 @@
    }
   ],
   "jp": "パルティナ城の中心にある大部屋",
-  "en": "",
-  "status": ""
+  "en": "The great hall at the heart of Paltina Castle",
+  "status": "done"
  },
  {
   "id": "eboot_283B2A",
@@ -740,8 +740,8 @@
    }
   ],
   "jp": "ティエラ郊外に設けられたグラムブレイズの邸宅",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze's manor on the outskirts of Tiera",
+  "status": "done"
  },
  {
   "id": "eboot_283B57",
@@ -754,8 +754,8 @@
    }
   ],
   "jp": "帝都フレアヴェルクの正門。軍事演習がたびたび行われる",
-  "en": "",
-  "status": ""
+  "en": "The main gate of the capital Flarewerk. War games are often held",
+  "status": "done"
  },
  {
   "id": "eboot_283B8C",
@@ -768,8 +768,8 @@
    }
   ],
   "jp": "帝都からイーザー渓谷の桟道に接続する地点",
-  "en": "",
-  "status": ""
+  "en": "Where the road from the capital meets the Ether Gorge cliff road",
+  "status": "done"
  },
  {
   "id": "eboot_283BB5",
@@ -782,8 +782,8 @@
    }
   ],
   "jp": "国境線に跨って伸びる帝国と王国とを繋ぐ街道",
-  "en": "",
-  "status": ""
+  "en": "A highway spanning the border between Empire and Kingdom",
+  "status": "done"
  },
  {
   "id": "eboot_283BE0",
@@ -796,8 +796,8 @@
    }
   ],
   "jp": "王国との国境沿いに聳える堅牢なる要塞",
-  "en": "",
-  "status": ""
+  "en": "A sturdy fortress on the border with the Kingdom",
+  "status": "done"
  },
  {
   "id": "eboot_283C05",
@@ -810,8 +810,8 @@
    }
   ],
   "jp": "帝国と王国の国境線沿いのなだらかな丘陵地帯",
-  "en": "",
-  "status": ""
+  "en": "Gentle hills along the Empire-Kingdom border",
+  "status": "done"
  },
  {
   "id": "eboot_283C30",
@@ -824,8 +824,8 @@
    }
   ],
   "jp": "王国領のララ岬に古くからある、儀式用の祭壇",
-  "en": "",
-  "status": ""
+  "en": "An old ceremonial altar on the Kingdom's Cape Lara",
+  "status": "done"
  },
  {
   "id": "eboot_283C5B",
@@ -838,8 +838,8 @@
    }
   ],
   "jp": "ショップマキナ",
-  "en": "",
-  "status": ""
+  "en": "Shop Machina",
+  "status": "done"
  },
  {
   "id": "eboot_283C6A",
@@ -852,8 +852,8 @@
    }
   ],
   "jp": "ネザー地区では数少ないお店。日用品を取り扱っている",
-  "en": "",
-  "status": ""
+  "en": "One of the few shops in the Nether Quarter. Sells daily goods",
+  "status": "done"
  },
  {
   "id": "eboot_283C9D",
@@ -866,8 +866,8 @@
    }
   ],
   "jp": "石組みの小屋",
-  "en": "",
-  "status": ""
+  "en": "Stone Hut",
+  "status": "done"
  },
  {
   "id": "eboot_283CAA",
@@ -880,8 +880,8 @@
    }
   ],
   "jp": "アイテムの知識が豊富な、流れの魔導師が住まう一軒屋",
-  "en": "",
-  "status": ""
+  "en": "The house of a wandering mage who knows all about items",
+  "status": "done"
  },
  {
   "id": "eboot_283CDD",
@@ -894,8 +894,8 @@
    }
   ],
   "jp": "木組みの小屋",
-  "en": "",
-  "status": ""
+  "en": "Timber Hut",
+  "status": "done"
  },
  {
   "id": "eboot_283CEA",
@@ -908,8 +908,8 @@
    }
   ],
   "jp": "かつては名の知れた地図職人だったらしい男が住む一軒屋",
-  "en": "",
-  "status": ""
+  "en": "Home of a man said to have been a famous mapmaker",
+  "status": "done"
  },
  {
   "id": "eboot_283D1F",
@@ -922,8 +922,8 @@
    }
   ],
   "jp": "中枢都市ダーム",
-  "en": "",
-  "status": ""
+  "en": "Central City Dahm",
+  "status": "done"
  },
  {
   "id": "eboot_283D2E",
@@ -936,8 +936,8 @@
    }
   ],
   "jp": "衛兵本庁など、侯爵領の中枢機関が集まっている",
-  "en": "",
-  "status": ""
+  "en": "Home of the Guard HQ and the Marquis's main offices",
+  "status": "done"
  },
  {
   "id": "eboot_283D5B",
@@ -950,8 +950,8 @@
    }
   ],
   "jp": "鍛冶屋オヤカタ",
-  "en": "",
-  "status": ""
+  "en": "Oyakata Smithy",
+  "status": "done"
  },
  {
   "id": "eboot_283D6A",
@@ -964,8 +964,8 @@
    }
   ],
   "jp": "名の売れた鍛冶屋の男が構えるお店",
-  "en": "",
-  "status": ""
+  "en": "The shop of a well-known blacksmith",
+  "status": "done"
  },
  {
   "id": "eboot_283D8B",
@@ -978,8 +978,8 @@
    }
   ],
   "jp": "デシの家",
-  "en": "",
-  "status": ""
+  "en": "Deshi's House",
+  "status": "done"
  },
  {
   "id": "eboot_283D94",
@@ -992,8 +992,8 @@
    }
   ],
   "jp": "鍛冶屋の男に弟子入りして修行を積む若者の家",
-  "en": "",
-  "status": ""
+  "en": "Home of a young man training under the blacksmith",
+  "status": "done"
  },
  {
   "id": "eboot_283DBF",
@@ -1006,8 +1006,8 @@
    }
   ],
   "jp": "鉱夫の安息所",
-  "en": "",
-  "status": ""
+  "en": "Miners' Rest",
+  "status": "done"
  },
  {
   "id": "eboot_283DCC",
@@ -1020,8 +1020,8 @@
    }
   ],
   "jp": "ジッカート山で鉱業に勤しむ鉱夫達が住んでいるらしい",
-  "en": "",
-  "status": ""
+  "en": "Miners working Mt. Jikkart are said to live here",
+  "status": "done"
  },
  {
   "id": "eboot_283DFF",
@@ -1034,8 +1034,8 @@
    }
   ],
   "jp": "旅人の宿",
-  "en": "",
-  "status": ""
+  "en": "Traveler's Inn",
+  "status": "done"
  },
  {
   "id": "eboot_283E08",
@@ -1048,8 +1048,8 @@
    }
   ],
   "jp": "辺境の地に佇む小さな宿屋",
-  "en": "",
-  "status": ""
+  "en": "A small inn on the frontier",
+  "status": "done"
  },
  {
   "id": "eboot_283E21",
@@ -1062,8 +1062,8 @@
    }
   ],
   "jp": "傑士の家",
-  "en": "",
-  "status": ""
+  "en": "Hero's House",
+  "status": "done"
  },
  {
   "id": "eboot_283E2A",
@@ -1076,8 +1076,8 @@
    }
   ],
   "jp": "軍事に精通すると評判の傑士が住まう家",
-  "en": "",
-  "status": ""
+  "en": "Home of a hero said to be a military expert",
+  "status": "done"
  },
  {
   "id": "eboot_283E4F",
@@ -1090,8 +1090,8 @@
    }
   ],
   "jp": "豪奢な屋敷",
-  "en": "",
-  "status": ""
+  "en": "Lavish Mansion",
+  "status": "done"
  },
  {
   "id": "eboot_283E5A",
@@ -1104,8 +1104,8 @@
    }
   ],
   "jp": "豪奢さが目立つニーベル街区の中で、ひときわ大きな屋敷",
-  "en": "",
-  "status": ""
+  "en": "The biggest mansion in the lavish Nibel Quarter",
+  "status": "done"
  },
  {
   "id": "eboot_283E8F",
@@ -1118,8 +1118,8 @@
    }
   ],
   "jp": "エリス居住区",
-  "en": "",
-  "status": ""
+  "en": "Eris Residences",
+  "status": "done"
  },
  {
   "id": "eboot_283E9C",
@@ -1132,8 +1132,8 @@
    }
   ],
   "jp": "中流層に位置する住民が多く住まう居住区",
-  "en": "",
-  "status": ""
+  "en": "Where many of the middle class live",
+  "status": "done"
  },
  {
   "id": "eboot_283EC3",
@@ -1146,8 +1146,8 @@
    }
   ],
   "jp": "夜の街",
-  "en": "",
-  "status": ""
+  "en": "Night Town",
+  "status": "done"
  },
  {
   "id": "eboot_283ECA",
@@ -1160,8 +1160,8 @@
    }
   ],
   "jp": "アウトローな連中御用達のお店が立ち並んでいる…",
-  "en": "",
-  "status": ""
+  "en": "A row of shops for outlaw types...",
+  "status": "done"
  },
  {
   "id": "eboot_283EF9",
@@ -1174,8 +1174,8 @@
    }
   ],
   "jp": "ひとけの無い館",
-  "en": "",
-  "status": ""
+  "en": "Deserted Mansion",
+  "status": "done"
  },
  {
   "id": "eboot_283F08",
@@ -1188,8 +1188,8 @@
    }
   ],
   "jp": "明かりも人の気配も無い、大きいけどちょっとブキミな館",
-  "en": "",
-  "status": ""
+  "en": "A big, slightly creepy mansion with no lights and no one around",
+  "status": "done"
  },
  {
   "id": "eboot_283F3D",
@@ -1202,8 +1202,8 @@
    }
   ],
   "jp": "メガネ女の大砲",
-  "en": "",
-  "status": ""
+  "en": "Glasses Girl's Cannon",
+  "status": "done"
  },
  {
   "id": "eboot_283F4C",
@@ -1216,8 +1216,8 @@
    }
   ],
   "jp": "ガーロット達が捜す魔法使いは大砲を自在に操るらしいが…",
-  "en": "",
-  "status": ""
+  "en": "The mage Garlot's band seeks is said to work a cannon at will...",
+  "status": "done"
  },
  {
   "id": "eboot_283F83",
@@ -1230,8 +1230,8 @@
    }
   ],
   "jp": "集合地点の台地",
-  "en": "",
-  "status": ""
+  "en": "Muster Plateau",
+  "status": "done"
  },
  {
   "id": "eboot_283F92",
@@ -1244,8 +1244,8 @@
    }
   ],
   "jp": "見晴らしのいい台地。ここに集合して態勢を立て直そう！",
-  "en": "",
-  "status": ""
+  "en": "A plateau with a fine view. Gather here and regroup!",
+  "status": "done"
  },
  {
   "id": "eboot_283FC7",
@@ -1258,8 +1258,8 @@
    }
   ],
   "jp": "ソネッタの街",
-  "en": "",
-  "status": ""
+  "en": "Sonetta",
+  "status": "done"
  },
  {
   "id": "eboot_283FD4",
@@ -1272,8 +1272,8 @@
    }
   ],
   "jp": "メリア教国に向かう途中にある大きな街",
-  "en": "",
-  "status": ""
+  "en": "A big city on the way to the Holy Nation of Melia",
+  "status": "done"
  },
  {
   "id": "eboot_283FF9",
@@ -1286,8 +1286,8 @@
    }
   ],
   "jp": "ライネの街",
-  "en": "",
-  "status": ""
+  "en": "Raine",
+  "status": "done"
  },
  {
   "id": "eboot_284004",
@@ -1300,8 +1300,8 @@
    }
   ],
   "jp": "最近掘られたばかりのオアシスの恵みを受けた、新しい町",
-  "en": "",
-  "status": ""
+  "en": "A new town blessed by a newly dug oasis",
+  "status": "done"
  },
  {
   "id": "eboot_284039",
@@ -1314,8 +1314,8 @@
    }
   ],
   "jp": "ミネルロード",
-  "en": "",
-  "status": ""
+  "en": "Minel Road",
+  "status": "done"
  },
  {
   "id": "eboot_284046",
@@ -1328,8 +1328,8 @@
    }
   ],
   "jp": "王都直通の道。ここへ輸送隊長が侵入するのを阻止せよ！",
-  "en": "",
-  "status": ""
+  "en": "The direct road to the capital. Keep the transport chief out!",
+  "status": "done"
  },
  {
   "id": "eboot_28407B",
@@ -1342,8 +1342,8 @@
    }
   ],
   "jp": "山小屋",
-  "en": "",
-  "status": ""
+  "en": "Mountain Hut",
+  "status": "done"
  },
  {
   "id": "eboot_284082",
@@ -1356,8 +1356,8 @@
    }
   ],
   "jp": "緊急時に避難するための小屋。山賊が根城にしているかも…",
-  "en": "",
-  "status": ""
+  "en": "An emergency shelter. Bandits may have made it their den...",
+  "status": "done"
  },
  {
   "id": "eboot_2840B9",
@@ -1370,8 +1370,8 @@
    }
   ],
   "jp": "監視小屋",
-  "en": "",
-  "status": ""
+  "en": "Watch Hut",
+  "status": "done"
  },
  {
   "id": "eboot_2840C2",
@@ -1384,8 +1384,8 @@
    }
   ],
   "jp": "背の高い建物。天気が荒れると役目をまったく果たさない",
-  "en": "",
-  "status": ""
+  "en": "A tall building, useless when the weather turns bad",
+  "status": "done"
  },
  {
   "id": "eboot_2840F7",
@@ -1398,8 +1398,8 @@
    }
   ],
   "jp": "山小屋",
-  "en": "",
-  "status": ""
+  "en": "Mountain Hut",
+  "status": "done"
  },
  {
   "id": "eboot_2840FE",
@@ -1412,8 +1412,8 @@
    }
   ],
   "jp": "緊急時に避難するための小屋。山賊が根城にしているらしい",
-  "en": "",
-  "status": ""
+  "en": "An emergency shelter. Bandits are said to have made it their den",
+  "status": "done"
  },
  {
   "id": "eboot_284135",
@@ -1426,8 +1426,8 @@
    }
   ],
   "jp": "山小屋",
-  "en": "",
-  "status": ""
+  "en": "Mountain Hut",
+  "status": "done"
  },
  {
   "id": "eboot_28413C",
@@ -1440,8 +1440,8 @@
    }
   ],
   "jp": "緊急時に避難するための小屋。山賊がいるらしい③",
-  "en": "",
-  "status": ""
+  "en": "An emergency shelter. Bandits are said to be there!?",
+  "status": "done"
  },
  {
   "id": "eboot_28416B",
@@ -1454,8 +1454,8 @@
    }
   ],
   "jp": "山小屋",
-  "en": "",
-  "status": ""
+  "en": "Mountain Hut",
+  "status": "done"
  },
  {
   "id": "eboot_284172",
@@ -1468,8 +1468,8 @@
    }
   ],
   "jp": "緊急時に避難するための小屋。山賊が潜んでいるかも…",
-  "en": "",
-  "status": ""
+  "en": "An emergency shelter. Bandits may be hiding there...",
+  "status": "done"
  },
  {
   "id": "eboot_2841A5",
@@ -1482,8 +1482,8 @@
    }
   ],
   "jp": "奥深くの山小屋",
-  "en": "",
-  "status": ""
+  "en": "Deep Mountain Hut",
+  "status": "done"
  },
  {
   "id": "eboot_2841B4",
@@ -1496,8 +1496,8 @@
    }
   ],
   "jp": "雪山の奥深い場所に見つかった、雪に埋もれた山小屋",
-  "en": "",
-  "status": ""
+  "en": "A snowbound mountain hut found deep in the snowy peaks",
+  "status": "done"
  },
  {
   "id": "eboot_2841E5",
@@ -1510,8 +1510,8 @@
    }
   ],
   "jp": "奥深くの山小屋",
-  "en": "",
-  "status": ""
+  "en": "Deep Mountain Hut",
+  "status": "done"
  },
  {
   "id": "eboot_2841F4",
@@ -1524,8 +1524,8 @@
    }
   ],
   "jp": "雪山の奥深い場所に見つかった、雪に埋もれそうな山小屋",
-  "en": "",
-  "status": ""
+  "en": "A nearly snowbound mountain hut found deep in the snowy peaks",
+  "status": "done"
  },
  {
   "id": "eboot_284229",
@@ -1538,8 +1538,8 @@
    }
   ],
   "jp": "自警組織詰め所",
-  "en": "",
-  "status": ""
+  "en": "Watch Post",
+  "status": "done"
  },
  {
   "id": "eboot_284238",
@@ -1552,8 +1552,8 @@
    }
   ],
   "jp": "アニス伯爵領を守る民間自警組織の詰め所",
-  "en": "",
-  "status": ""
+  "en": "Post of the citizen watch protecting Count Anis's lands",
+  "status": "done"
  },
  {
   "id": "eboot_28425F",
@@ -1566,8 +1566,8 @@
    }
   ],
   "jp": "アライク孤児院",
-  "en": "",
-  "status": ""
+  "en": "Araik Orphanage",
+  "status": "done"
  },
  {
   "id": "eboot_28426E",
@@ -1580,8 +1580,8 @@
    }
   ],
   "jp": "身寄りの無い子供達が寄り添って暮らす孤児院",
-  "en": "",
-  "status": ""
+  "en": "An orphanage where children with no family live together",
+  "status": "done"
  },
  {
   "id": "eboot_284299",
@@ -1594,8 +1594,8 @@
    }
   ],
   "jp": "トリビデの村",
-  "en": "",
-  "status": ""
+  "en": "Toribide Village",
+  "status": "done"
  },
  {
   "id": "eboot_2842A6",
@@ -1608,8 +1608,8 @@
    }
   ],
   "jp": "城壁に近い小さな村。荒れ果てた印象を受けるが…",
-  "en": "",
-  "status": ""
+  "en": "A small village by the walls. It looks run down, but...",
+  "status": "done"
  },
  {
   "id": "eboot_2842D5",
@@ -1622,8 +1622,8 @@
    }
   ],
   "jp": "盗賊団第１砦",
-  "en": "",
-  "status": ""
+  "en": "Thieves' 1st Fort",
+  "status": "done"
  },
  {
   "id": "eboot_2842E2",
@@ -1636,8 +1636,8 @@
    }
   ],
   "jp": "盗賊団の前衛に位置する砦。監視の役目も負うようだ",
-  "en": "",
-  "status": ""
+  "en": "The thieves' front fort. It seems to serve as a lookout too",
+  "status": "done"
  },
  {
   "id": "eboot_284313",
@@ -1650,8 +1650,8 @@
    }
   ],
   "jp": "盗賊団第２砦",
-  "en": "",
-  "status": ""
+  "en": "Thieves' 2nd Fort",
+  "status": "done"
  },
  {
   "id": "eboot_284320",
@@ -1664,8 +1664,8 @@
    }
   ],
   "jp": "かなり森が深まった場所に立つ盗賊団の砦",
-  "en": "",
-  "status": ""
+  "en": "A thieves' fort standing deep in the forest",
+  "status": "done"
  },
  {
   "id": "eboot_284347",
@@ -1678,8 +1678,8 @@
    }
   ],
   "jp": "盗賊団第３砦",
-  "en": "",
-  "status": ""
+  "en": "Thieves' 3rd Fort",
+  "status": "done"
  },
  {
   "id": "eboot_284354",
@@ -1692,8 +1692,8 @@
    }
   ],
   "jp": "本営に相当する盗賊団の砦。生い茂る木々が要害となる",
-  "en": "",
-  "status": ""
+  "en": "The thieves' main fort. Dense trees make it a natural stronghold",
+  "status": "done"
  },
  {
   "id": "eboot_284387",
@@ -1706,8 +1706,8 @@
    }
   ],
   "jp": "森の中の集落",
-  "en": "",
-  "status": ""
+  "en": "Forest Hamlet",
+  "status": "done"
  },
  {
   "id": "eboot_284394",
@@ -1720,8 +1720,8 @@
    }
   ],
   "jp": "盗賊団の根城となる一帯にどんな民が住むのか？",
-  "en": "",
-  "status": ""
+  "en": "Who could be living in the thieves' territory?",
+  "status": "done"
  },
  {
   "id": "eboot_2843C1",
@@ -1734,8 +1734,8 @@
    }
   ],
   "jp": "森の中の集落",
-  "en": "",
-  "status": ""
+  "en": "Forest Hamlet",
+  "status": "done"
  },
  {
   "id": "eboot_2843CE",
@@ -1748,8 +1748,8 @@
    }
   ],
   "jp": "盗賊団の根城となる一帯にある集落",
-  "en": "",
-  "status": ""
+  "en": "A hamlet in the thieves' territory",
+  "status": "done"
  },
  {
   "id": "eboot_2843EF",
@@ -1762,8 +1762,8 @@
    }
   ],
   "jp": "東砦",
-  "en": "",
-  "status": ""
+  "en": "East Fort",
+  "status": "done"
  },
  {
   "id": "eboot_2843F4",
@@ -1776,8 +1776,8 @@
    }
   ],
   "jp": "山塞の前衛にあたる砦の１つ。西砦との連携を考慮してある",
-  "en": "",
-  "status": ""
+  "en": "One of the mountain stronghold's front forts. Works with West Fort",
+  "status": "done"
  },
  {
   "id": "eboot_28442B",
@@ -1790,8 +1790,8 @@
    }
   ],
   "jp": "西砦",
-  "en": "",
-  "status": ""
+  "en": "West Fort",
+  "status": "done"
  },
  {
   "id": "eboot_284430",
@@ -1804,8 +1804,8 @@
    }
   ],
   "jp": "山塞の前衛にあたる砦の１つ。東砦との連携を考慮してある",
-  "en": "",
-  "status": ""
+  "en": "One of the mountain stronghold's front forts. Works with East Fort",
+  "status": "done"
  },
  {
   "id": "eboot_284467",
@@ -1818,8 +1818,8 @@
    }
   ],
   "jp": "トキノ中央砦",
-  "en": "",
-  "status": ""
+  "en": "Tokino Central Fort",
+  "status": "done"
  },
  {
   "id": "eboot_284474",
@@ -1832,8 +1832,8 @@
    }
   ],
   "jp": "山塞の中央に位置する砦。前衛の２つに比べて防御力が高い",
-  "en": "",
-  "status": ""
+  "en": "The stronghold's central fort, stronger than the two up front",
+  "status": "done"
  },
  {
   "id": "eboot_2844AB",
@@ -1846,8 +1846,8 @@
    }
   ],
   "jp": "パンドラ砦",
-  "en": "",
-  "status": ""
+  "en": "Fort Pandra",
+  "status": "done"
  },
  {
   "id": "eboot_2844B6",
@@ -1860,8 +1860,8 @@
    }
   ],
   "jp": "反乱軍大将の名を冠した砦。パンドラの自己顕示欲が窺える",
-  "en": "",
-  "status": ""
+  "en": "A fort named for the rebel chief. Pandra's vanity shows",
+  "status": "done"
  },
  {
   "id": "eboot_2844ED",
@@ -1874,8 +1874,8 @@
    }
   ],
   "jp": "反乱軍の大砲",
-  "en": "",
-  "status": ""
+  "en": "Rebel Cannon",
+  "status": "done"
  },
  {
   "id": "eboot_2844FA",
@@ -1888,8 +1888,8 @@
    }
   ],
   "jp": "パンドラが商人から仕入れた大砲。ちょっと調整不足…？",
-  "en": "",
-  "status": ""
+  "en": "A cannon Pandra bought from merchants. A bit poorly tuned...?",
+  "status": "done"
  },
  {
   "id": "eboot_28452F",
@@ -1902,8 +1902,8 @@
    }
   ],
   "jp": "町外れの小屋",
-  "en": "",
-  "status": ""
+  "en": "Outskirts Hut",
+  "status": "done"
  },
  {
   "id": "eboot_28453C",
@@ -1916,8 +1916,8 @@
    }
   ],
   "jp": "腕利きの鍛冶屋が暮らすという一軒屋",
-  "en": "",
-  "status": ""
+  "en": "A house said to be home to a skilled blacksmith",
+  "status": "done"
  },
  {
   "id": "eboot_28455F",
@@ -1930,8 +1930,8 @@
    }
   ],
   "jp": "ジェノマ砦",
-  "en": "",
-  "status": ""
+  "en": "Genoma Fort",
+  "status": "done"
  },
  {
   "id": "eboot_28456A",
@@ -1944,8 +1944,8 @@
    }
   ],
   "jp": "帝都とイシュナート要塞の中間地点にある大きな砦",
-  "en": "",
-  "status": ""
+  "en": "A big fort halfway between the capital and Ishnart Fortress",
+  "status": "done"
  },
  {
   "id": "eboot_284599",
@@ -1958,8 +1958,8 @@
    }
   ],
   "jp": "ワドニムの町",
-  "en": "",
-  "status": ""
+  "en": "Wadonim",
+  "status": "done"
  },
  {
   "id": "eboot_2845A6",
@@ -1972,8 +1972,8 @@
    }
   ],
   "jp": "開けた平地にある都市で、この地域の中枢に当たる",
-  "en": "",
-  "status": ""
+  "en": "A city on open plains, the heart of this region",
+  "status": "done"
  },
  {
   "id": "eboot_2845D5",
@@ -1986,8 +1986,8 @@
    }
   ],
   "jp": "フラウベ村",
-  "en": "",
-  "status": ""
+  "en": "Flaube Village",
+  "status": "done"
  },
  {
   "id": "eboot_2845E0",
@@ -2000,8 +2000,8 @@
    }
   ],
   "jp": "宝石、とりわけ指輪に目がないコレクターが住んでいる",
-  "en": "",
-  "status": ""
+  "en": "Home of a collector mad for gems, above all rings",
+  "status": "done"
  },
  {
   "id": "eboot_284613",
@@ -2014,8 +2014,8 @@
    }
   ],
   "jp": "木こりの小屋",
-  "en": "",
-  "status": ""
+  "en": "Woodcutter's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_284620",
@@ -2028,8 +2028,8 @@
    }
   ],
   "jp": "フラウベ村の木こりが寝泊りに利用する小屋",
-  "en": "",
-  "status": ""
+  "en": "A hut where Flaube's woodcutters spend the night",
+  "status": "done"
  },
  {
   "id": "eboot_284649",
@@ -2042,8 +2042,8 @@
    }
   ],
   "jp": "グロフの町",
-  "en": "",
-  "status": ""
+  "en": "Groff",
+  "status": "done"
  },
  {
   "id": "eboot_284654",
@@ -2056,8 +2056,8 @@
    }
   ],
   "jp": "小規模な港湾施設のある町。川伝いに海に出ることができる",
-  "en": "",
-  "status": ""
+  "en": "A town with a small harbor. The river leads out to sea",
+  "status": "done"
  },
  {
   "id": "eboot_28468B",
@@ -2070,8 +2070,8 @@
    }
   ],
   "jp": "ロナリス砦",
-  "en": "",
-  "status": ""
+  "en": "Fort Ronaris",
+  "status": "done"
  },
  {
   "id": "eboot_284696",
@@ -2084,8 +2084,8 @@
    }
   ],
   "jp": "東部方面を警戒するために設けられた小規模な砦",
-  "en": "",
-  "status": ""
+  "en": "A small fort built to watch the eastern front",
+  "status": "done"
  },
  {
   "id": "eboot_2846C3",
@@ -2098,8 +2098,8 @@
    }
   ],
   "jp": "隠者の庵",
-  "en": "",
-  "status": ""
+  "en": "Hermit's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_2846CC",
@@ -2112,8 +2112,8 @@
    }
   ],
   "jp": "俗世から抜けきれない隠者が結んだ庵",
-  "en": "",
-  "status": ""
+  "en": "A hut built by a hermit who can't quite leave the world behind",
+  "status": "done"
  },
  {
   "id": "eboot_2846EF",
@@ -2126,8 +2126,8 @@
    }
   ],
   "jp": "ミゼル離脱地点",
-  "en": "",
-  "status": ""
+  "en": "Mizer's Exit",
+  "status": "done"
  },
  {
   "id": "eboot_2846FE",
@@ -2140,8 +2140,8 @@
    }
   ],
   "jp": "はだしのミゼルはここから離脱するつもりだ。阻止せよ！",
-  "en": "",
-  "status": ""
+  "en": "Barefoot Mizer plans to escape from here. Stop him!",
+  "status": "done"
  },
  {
   "id": "eboot_284733",
@@ -2154,8 +2154,8 @@
    }
   ],
   "jp": "橋守りの小屋",
-  "en": "",
-  "status": ""
+  "en": "Bridgekeepers' Hut",
+  "status": "done"
  },
  {
   "id": "eboot_284740",
@@ -2168,8 +2168,8 @@
    }
   ],
   "jp": "傍にあるギルギド大橋の様子を見守る兄弟が住む",
-  "en": "",
-  "status": ""
+  "en": "Home of the brothers who watch over nearby Gilgit Bridge",
+  "status": "done"
  },
  {
   "id": "eboot_28476D",
@@ -2182,8 +2182,8 @@
    }
   ],
   "jp": "ビスタ川の集落",
-  "en": "",
-  "status": ""
+  "en": "Bista River Hamlet",
+  "status": "done"
  },
  {
   "id": "eboot_28477C",
@@ -2196,8 +2196,8 @@
    }
   ],
   "jp": "住人の大半が子どもという、ちょっと変わった集落",
-  "en": "",
-  "status": ""
+  "en": "An odd hamlet where most of the residents are children",
+  "status": "done"
  },
  {
   "id": "eboot_2847AB",
@@ -2210,8 +2210,8 @@
    }
   ],
   "jp": "ミゼルの隠れ家",
-  "en": "",
-  "status": ""
+  "en": "Mizer's Hideout",
+  "status": "done"
  },
  {
   "id": "eboot_2847BA",
@@ -2224,8 +2224,8 @@
    }
   ],
   "jp": "はだしのミゼルのアジト。戦利品がたっぷり溜め込んである",
-  "en": "",
-  "status": ""
+  "en": "Barefoot Mizer's base, piled high with loot",
+  "status": "done"
  },
  {
   "id": "eboot_2847F1",
@@ -2238,8 +2238,8 @@
    }
   ],
   "jp": "マーロイの集落",
-  "en": "",
-  "status": ""
+  "en": "Maloy Hamlet",
+  "status": "done"
  },
  {
   "id": "eboot_284800",
@@ -2252,8 +2252,8 @@
    }
   ],
   "jp": "森に抱かれて、細々と生計を立てる住人達が暮らす集落",
-  "en": "",
-  "status": ""
+  "en": "A hamlet where residents scrape by in the arms of the forest",
+  "status": "done"
  },
  {
   "id": "eboot_284833",
@@ -2266,8 +2266,8 @@
    }
   ],
   "jp": "日記マニアの家",
-  "en": "",
-  "status": ""
+  "en": "Diary Nut's House",
+  "status": "done"
  },
  {
   "id": "eboot_284842",
@@ -2280,8 +2280,8 @@
    }
   ],
   "jp": "人の日記を読むのが好きな、要注意人物が住む家",
-  "en": "",
-  "status": ""
+  "en": "Home of a dangerous person who reads other people's diaries",
+  "status": "done"
  },
  {
   "id": "eboot_28486F",
@@ -2294,8 +2294,8 @@
    }
   ],
   "jp": "モザレフの村",
-  "en": "",
-  "status": ""
+  "en": "Mozalef Village",
+  "status": "done"
  },
  {
   "id": "eboot_28487C",
@@ -2308,8 +2308,8 @@
    }
   ],
   "jp": "毒沼の瘴気を避けて暮らす人々の村",
-  "en": "",
-  "status": ""
+  "en": "A village of people living away from the poison swamp fumes",
+  "status": "done"
  },
  {
   "id": "eboot_28489D",
@@ -2322,8 +2322,8 @@
    }
   ],
   "jp": "デシの家",
-  "en": "",
-  "status": ""
+  "en": "Deshi's House",
+  "status": "done"
  },
  {
   "id": "eboot_2848A6",
@@ -2336,8 +2336,8 @@
    }
   ],
   "jp": "鍛冶屋の男に弟子入りして修行を積む若者の家",
-  "en": "",
-  "status": ""
+  "en": "Home of a young man training under the blacksmith",
+  "status": "done"
  },
  {
   "id": "eboot_2848D1",
@@ -2350,8 +2350,8 @@
    }
   ],
   "jp": "ムンバール農村",
-  "en": "",
-  "status": ""
+  "en": "Mumbal Farm Village",
+  "status": "done"
  },
  {
   "id": "eboot_2848E0",
@@ -2364,8 +2364,8 @@
    }
   ],
   "jp": "農地の耕作に精を出す村",
-  "en": "",
-  "status": ""
+  "en": "A village hard at work on its farmland",
+  "status": "done"
  },
  {
   "id": "eboot_2848F7",
@@ -2378,8 +2378,8 @@
    }
   ],
   "jp": "領主の館",
-  "en": "",
-  "status": ""
+  "en": "Lord's Manor",
+  "status": "done"
  },
  {
   "id": "eboot_284900",
@@ -2392,8 +2392,8 @@
    }
   ],
   "jp": "民兵が司令部を置くとみられる、元領主の館",
-  "en": "",
-  "status": ""
+  "en": "A former lord's manor, thought to be the militia's headquarters",
+  "status": "done"
  },
  {
   "id": "eboot_284929",
@@ -2406,8 +2406,8 @@
    }
   ],
   "jp": "中枢都市ダーム",
-  "en": "",
-  "status": ""
+  "en": "Central City Dahm",
+  "status": "done"
  },
  {
   "id": "eboot_284938",
@@ -2420,8 +2420,8 @@
    }
   ],
   "jp": "衛兵本庁など、侯爵領の中枢機関が集まっている",
-  "en": "",
-  "status": ""
+  "en": "Home of the Guard HQ and the Marquis's main offices",
+  "status": "done"
  },
  {
   "id": "eboot_284965",
@@ -2434,8 +2434,8 @@
    }
   ],
   "jp": "鍛冶屋オヤカタ",
-  "en": "",
-  "status": ""
+  "en": "Oyakata Smithy",
+  "status": "done"
  },
  {
   "id": "eboot_284974",
@@ -2448,8 +2448,8 @@
    }
   ],
   "jp": "名の売れた鍛冶屋の男が構えるお店",
-  "en": "",
-  "status": ""
+  "en": "The shop of a well-known blacksmith",
+  "status": "done"
  },
  {
   "id": "eboot_284995",
@@ -2462,8 +2462,8 @@
    }
   ],
   "jp": "デシの家",
-  "en": "",
-  "status": ""
+  "en": "Deshi's House",
+  "status": "done"
  },
  {
   "id": "eboot_28499E",
@@ -2476,8 +2476,8 @@
    }
   ],
   "jp": "鍛冶屋の男に弟子入りして修行を積む若者の家",
-  "en": "",
-  "status": ""
+  "en": "Home of a young man training under the blacksmith",
+  "status": "done"
  },
  {
   "id": "eboot_2849C9",
@@ -2490,8 +2490,8 @@
    }
   ],
   "jp": "荒野の村",
-  "en": "",
-  "status": ""
+  "en": "Wasteland Village",
+  "status": "done"
  },
  {
   "id": "eboot_2849D2",
@@ -2504,8 +2504,8 @@
    }
   ],
   "jp": "イストラカ荒原に面する寂れた集落",
-  "en": "",
-  "status": ""
+  "en": "A faded hamlet facing the Istraka Wastes",
+  "status": "done"
  },
  {
   "id": "eboot_2849F3",
@@ -2518,8 +2518,8 @@
    }
   ],
   "jp": "朽ち果てた神殿",
-  "en": "",
-  "status": ""
+  "en": "Ruined Temple",
+  "status": "done"
  },
  {
   "id": "eboot_284A02",
@@ -2532,8 +2532,8 @@
    }
   ],
   "jp": "神を祀った建物のようだが、今は見る影も無い…",
-  "en": "",
-  "status": ""
+  "en": "It seems to have honored a god, but it's a shadow of itself now...",
+  "status": "done"
  },
  {
   "id": "eboot_284A2F",
@@ -2546,8 +2546,8 @@
    }
   ],
   "jp": "リーブルの町",
-  "en": "",
-  "status": ""
+  "en": "Livre",
+  "status": "done"
  },
  {
   "id": "eboot_284A3C",
@@ -2560,8 +2560,8 @@
    }
   ],
   "jp": "西部地域に出かける旅人にとって安息地となる宿場町",
-  "en": "",
-  "status": ""
+  "en": "A post town where travelers to the Western Region find rest",
+  "status": "done"
  },
  {
   "id": "eboot_284A6D",
@@ -2574,8 +2574,8 @@
    }
   ],
   "jp": "ラーゼス廃村",
-  "en": "",
-  "status": ""
+  "en": "Rases Ruins",
+  "status": "done"
  },
  {
   "id": "eboot_284A7A",
@@ -2588,8 +2588,8 @@
    }
   ],
   "jp": "かつてはこの廃村にも人々の営みがあったのだろうか…",
-  "en": "",
-  "status": ""
+  "en": "Did people once live their lives in this abandoned village...?",
+  "status": "done"
  },
  {
   "id": "eboot_284AAD",
@@ -2602,8 +2602,8 @@
    }
   ],
   "jp": "妖精の村",
-  "en": "",
-  "status": ""
+  "en": "Fairy Village",
+  "status": "done"
  },
  {
   "id": "eboot_284AB6",
@@ -2616,8 +2616,8 @@
    }
   ],
   "jp": "日の光も届かないほど深い森に妖精が住む村があるという…",
-  "en": "",
-  "status": ""
+  "en": "They say fairies live in a forest so deep no sun can reach it...",
+  "status": "done"
  },
  {
   "id": "eboot_284AED",
@@ -2630,8 +2630,8 @@
    }
   ],
   "jp": "預言者の館",
-  "en": "",
-  "status": ""
+  "en": "Prophet's Mansion",
+  "status": "done"
  },
  {
   "id": "eboot_284AF8",
@@ -2644,8 +2644,8 @@
    }
   ],
   "jp": "森の最奥にある、預言者ネシアが住む洋館",
-  "en": "",
-  "status": ""
+  "en": "The manor of the prophet Nessiah, in the depths of the forest",
+  "status": "done"
  },
  {
   "id": "eboot_284B1F",
@@ -2658,8 +2658,8 @@
    }
   ],
   "jp": "私兵団邸入り口",
-  "en": "",
-  "status": ""
+  "en": "Manor Entrance",
+  "status": "done"
  },
  {
   "id": "eboot_284B2E",
@@ -2672,8 +2672,8 @@
    }
   ],
   "jp": "私兵団の本拠地。ゴロツキの魔手から逃げよう！",
-  "en": "",
-  "status": ""
+  "en": "The private army's base. Run from the thugs' clutches!",
+  "status": "done"
  },
  {
   "id": "eboot_284B5B",
@@ -2686,8 +2686,8 @@
    }
   ],
   "jp": "ケルヌガ砦",
-  "en": "",
-  "status": ""
+  "en": "Kernuga Fort",
+  "status": "done"
  },
  {
   "id": "eboot_284B66",
@@ -2700,8 +2700,8 @@
    }
   ],
   "jp": "地図の上では、この砦より先の地域がケルヌガと呼ばれる",
-  "en": "",
-  "status": ""
+  "en": "On maps, the region beyond this fort is called Kernuga",
+  "status": "done"
  },
  {
   "id": "eboot_284B9B",
@@ -2714,8 +2714,8 @@
    }
   ],
   "jp": "街外れの小村",
-  "en": "",
-  "status": ""
+  "en": "Outskirts Village",
+  "status": "done"
  },
  {
   "id": "eboot_284BA8",
@@ -2728,8 +2728,8 @@
    }
   ],
   "jp": "ケルヌガ都市圏の外側で細々と林業を営む小さな村",
-  "en": "",
-  "status": ""
+  "en": "A small village outside Kernuga, scraping by on forestry",
+  "status": "done"
  },
  {
   "id": "eboot_284BD7",
@@ -2742,8 +2742,8 @@
    }
   ],
   "jp": "バルーダー市",
-  "en": "",
-  "status": ""
+  "en": "Baluder City",
+  "status": "done"
  },
  {
   "id": "eboot_284BE4",
@@ -2756,8 +2756,8 @@
    }
   ],
   "jp": "農業都市ケルヌガ第２の都市。水路での収穫物の輸送を担う",
-  "en": "",
-  "status": ""
+  "en": "Second city of farming Kernuga, moving crops by waterway",
+  "status": "done"
  },
  {
   "id": "eboot_284C1B",
@@ -2770,8 +2770,8 @@
    }
   ],
   "jp": "リラ市",
-  "en": "",
-  "status": ""
+  "en": "Lila City",
+  "status": "done"
  },
  {
   "id": "eboot_284C22",
@@ -2784,8 +2784,8 @@
    }
   ],
   "jp": "農業都市ケルヌガ第３の都市。技術を研究する学問所がある",
-  "en": "",
-  "status": ""
+  "en": "Third city of farming Kernuga, with an academy of technology",
+  "status": "done"
  },
  {
   "id": "eboot_284C59",
@@ -2798,8 +2798,8 @@
    }
   ],
   "jp": "ケルヌガ市",
-  "en": "",
-  "status": ""
+  "en": "Kernuga City",
+  "status": "done"
  },
  {
   "id": "eboot_284C64",
@@ -2812,8 +2812,8 @@
    }
   ],
   "jp": "農業都市ケルヌガの中枢都市。大規模な穀倉庫が点在する",
-  "en": "",
-  "status": ""
+  "en": "Heart of farming Kernuga, dotted with huge granaries",
+  "status": "done"
  },
  {
   "id": "eboot_284C99",
@@ -2826,8 +2826,8 @@
    }
   ],
   "jp": "シャーミネル砦",
-  "en": "",
-  "status": ""
+  "en": "Fort Sharminel",
+  "status": "done"
  },
  {
   "id": "eboot_284CA8",
@@ -2840,8 +2840,8 @@
    }
   ],
   "jp": "侵入者を退けるための城砦で、かなり堅固な守備力を有する",
-  "en": "",
-  "status": ""
+  "en": "A very sturdy fort built to repel invaders",
+  "status": "done"
  },
  {
   "id": "eboot_284CDF",
@@ -2854,8 +2854,8 @@
    }
   ],
   "jp": "シャーミネル市",
-  "en": "",
-  "status": ""
+  "en": "Sharminel City",
+  "status": "done"
  },
  {
   "id": "eboot_284CEE",
@@ -2868,8 +2868,8 @@
    }
   ],
   "jp": "山岳都市シャーミネルの中枢都市。",
-  "en": "",
-  "status": ""
+  "en": "The heart of the mountain city Sharminel.",
+  "status": "done"
  },
  {
   "id": "eboot_284D0F",
@@ -2882,8 +2882,8 @@
    }
   ],
   "jp": "リヴィア市",
-  "en": "",
-  "status": ""
+  "en": "Rivia City",
+  "status": "done"
  },
  {
   "id": "eboot_284D1A",
@@ -2896,8 +2896,8 @@
    }
   ],
   "jp": "名うての毛皮職人が多く在住する、織物が盛んな町",
-  "en": "",
-  "status": ""
+  "en": "A weaving town with many famed fur workers",
+  "status": "done"
  },
  {
   "id": "eboot_284D49",
@@ -2910,8 +2910,8 @@
    }
   ],
   "jp": "サルバ市",
-  "en": "",
-  "status": ""
+  "en": "Salva City",
+  "status": "done"
  },
  {
   "id": "eboot_284D52",
@@ -2924,8 +2924,8 @@
    }
   ],
   "jp": "一本の大樹に住まうという妖精を信仰する町",
-  "en": "",
-  "status": ""
+  "en": "A town that worships the fairies said to live in a single great tree",
+  "status": "done"
  },
  {
   "id": "eboot_284D7B",
@@ -2938,8 +2938,8 @@
    }
   ],
   "jp": "遥か深き雪の町",
-  "en": "",
-  "status": ""
+  "en": "Far Snow Town",
+  "status": "done"
  },
  {
   "id": "eboot_284D8A",
@@ -2952,8 +2952,8 @@
    }
   ],
   "jp": "うだるような熱気が漂う、とても雪山とは思えない町だが…",
-  "en": "",
-  "status": ""
+  "en": "A sweltering town, strange for a snowy mountain...",
+  "status": "done"
  },
  {
   "id": "eboot_284DC1",
@@ -2966,8 +2966,8 @@
    }
   ],
   "jp": "ユーディの大砲",
-  "en": "",
-  "status": ""
+  "en": "Eudy's Cannon",
+  "status": "done"
  },
  {
   "id": "eboot_284DD0",
@@ -2980,8 +2980,8 @@
    }
   ],
   "jp": "改良を重ねたエクセレント・カノン（ユーディ命名）",
-  "en": "",
-  "status": ""
+  "en": "The much-improved Excellent Cannon (named by Eudy)",
+  "status": "done"
  },
  {
   "id": "eboot_284E01",
@@ -2994,8 +2994,8 @@
    }
   ],
   "jp": "桟道の食事処",
-  "en": "",
-  "status": ""
+  "en": "Cliff Road Diner",
+  "status": "done"
  },
  {
   "id": "eboot_284E0E",
@@ -3008,8 +3008,8 @@
    }
   ],
   "jp": "桟道を通る旅人を狙った商売を展開するアコギなお店",
-  "en": "",
-  "status": ""
+  "en": "A greedy business preying on travelers of the cliff road",
+  "status": "done"
  },
  {
   "id": "eboot_284E3F",
@@ -3022,8 +3022,8 @@
    }
   ],
   "jp": "魔女の庵",
-  "en": "",
-  "status": ""
+  "en": "Witch's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_284E48",
@@ -3036,8 +3036,8 @@
    }
   ],
   "jp": "山に住む魔女が気まぐれに桟道に降りると寝泊りする庵",
-  "en": "",
-  "status": ""
+  "en": "The mountain witch's hut, where she sleeps when she drops by",
+  "status": "done"
  },
  {
   "id": "eboot_284E7B",
@@ -3050,8 +3050,8 @@
    }
   ],
   "jp": "湖畔の村アセラ",
-  "en": "",
-  "status": ""
+  "en": "Lakeside Asera",
+  "status": "done"
  },
  {
   "id": "eboot_284E8A",
@@ -3064,8 +3064,8 @@
    }
   ],
   "jp": "湖沼の物産を糧にする小村。特に民芸品は芸術の域である",
-  "en": "",
-  "status": ""
+  "en": "A small village living off the lake. Its folk crafts are works of art",
+  "status": "done"
  },
  {
   "id": "eboot_284EBF",
@@ -3078,8 +3078,8 @@
    }
   ],
   "jp": "ゲンジの小屋",
-  "en": "",
-  "status": ""
+  "en": "Genji's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_284ECC",
@@ -3092,8 +3092,8 @@
    }
   ],
   "jp": "運河の治水を守る三兄弟の長兄・ゲンジが暮らす小屋",
-  "en": "",
-  "status": ""
+  "en": "Home of Genji, eldest of the three brothers who tend the canal",
+  "status": "done"
  },
  {
   "id": "eboot_284EFD",
@@ -3106,8 +3106,8 @@
    }
   ],
   "jp": "ゲンゴの小屋",
-  "en": "",
-  "status": ""
+  "en": "Gengo's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_284F0A",
@@ -3120,8 +3120,8 @@
    }
   ],
   "jp": "運河の治水を守る三兄弟の次兄・ゲンゴが暮らす小屋",
-  "en": "",
-  "status": ""
+  "en": "Home of Gengo, middle of the three brothers who tend the canal",
+  "status": "done"
  },
  {
   "id": "eboot_284F3B",
@@ -3134,8 +3134,8 @@
    }
   ],
   "jp": "ゲンナの小屋",
-  "en": "",
-  "status": ""
+  "en": "Genna's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_284F48",
@@ -3148,8 +3148,8 @@
    }
   ],
   "jp": "運河の治水を守る三兄弟の末弟・ゲンナが暮らす小屋",
-  "en": "",
-  "status": ""
+  "en": "Home of Genna, youngest of the three brothers who tend the canal",
+  "status": "done"
  },
  {
   "id": "eboot_284F79",
@@ -3162,8 +3162,8 @@
    }
   ],
   "jp": "トキノの関所",
-  "en": "",
-  "status": ""
+  "en": "Tokino Checkpoint",
+  "status": "done"
  },
  {
   "id": "eboot_284F86",
@@ -3176,8 +3176,8 @@
    }
   ],
   "jp": "トキノ山から流れる川に設けられた橋の東側にある関所",
-  "en": "",
-  "status": ""
+  "en": "A checkpoint east of the bridge over the river from Mt. Tokino",
+  "status": "done"
  },
  {
   "id": "eboot_284FB9",
@@ -3190,8 +3190,8 @@
    }
   ],
   "jp": "トキノの関所",
-  "en": "",
-  "status": ""
+  "en": "Tokino Checkpoint",
+  "status": "done"
  },
  {
   "id": "eboot_284FC6",
@@ -3204,8 +3204,8 @@
    }
   ],
   "jp": "西側の関所。この関所以西の地を『西部地域』と呼ぶ",
-  "en": "",
-  "status": ""
+  "en": "The west checkpoint. The land to its west is the \"Western Region\"",
+  "status": "done"
  },
  {
   "id": "eboot_284FF7",
@@ -3218,8 +3218,8 @@
    }
   ],
   "jp": "狩人の家",
-  "en": "",
-  "status": ""
+  "en": "Hunter's House",
+  "status": "done"
  },
  {
   "id": "eboot_285000",
@@ -3232,8 +3232,8 @@
    }
   ],
   "jp": "狩りで生計を立てる狩人が住む小さな家",
-  "en": "",
-  "status": ""
+  "en": "A small home for a hunter who lives by the hunt",
+  "status": "done"
  },
  {
   "id": "eboot_285025",
@@ -3246,8 +3246,8 @@
    }
   ],
   "jp": "トカニク修道院",
-  "en": "",
-  "status": ""
+  "en": "Tokanik Abbey",
+  "status": "done"
  },
  {
   "id": "eboot_285034",
@@ -3260,8 +3260,8 @@
    }
   ],
   "jp": "人里離れた地に居を構える修道院",
-  "en": "",
-  "status": ""
+  "en": "An abbey set far from any town",
+  "status": "done"
  },
  {
   "id": "eboot_285053",
@@ -3274,8 +3274,8 @@
    }
   ],
   "jp": "グルメ館",
-  "en": "",
-  "status": ""
+  "en": "Gourmet Mansion",
+  "status": "done"
  },
  {
   "id": "eboot_28505C",
@@ -3288,8 +3288,8 @@
    }
   ],
   "jp": "グルメな少女がひとりで暮らす不可思議な館",
-  "en": "",
-  "status": ""
+  "en": "A strange mansion where a gourmet girl lives alone",
+  "status": "done"
  },
  {
   "id": "eboot_285085",
@@ -3302,8 +3302,8 @@
    }
   ],
   "jp": "錬金術師の屋敷",
-  "en": "",
-  "status": ""
+  "en": "Alchemist's Mansion",
+  "status": "done"
  },
  {
   "id": "eboot_285094",
@@ -3316,8 +3316,8 @@
    }
   ],
   "jp": "錬金術師を標榜する男性が住む屋敷だが、いい噂は聞かない",
-  "en": "",
-  "status": ""
+  "en": "A man who calls himself an alchemist lives here. Rumors are poor",
+  "status": "done"
  },
  {
   "id": "eboot_2850CB",
@@ -3330,8 +3330,8 @@
    }
   ],
   "jp": "飲んだくれ小屋",
-  "en": "",
-  "status": ""
+  "en": "Drunkard's Hut",
+  "status": "done"
  },
  {
   "id": "eboot_2850DA",
@@ -3414,8 +3414,8 @@
    }
   ],
   "jp": "ショップマキナ",
-  "en": "",
-  "status": ""
+  "en": "Shop Machina",
+  "status": "done"
  },
  {
   "id": "eboot_285188",
@@ -3442,8 +3442,8 @@
    }
   ],
   "jp": "石組みの小屋",
-  "en": "",
-  "status": ""
+  "en": "Stone Hut",
+  "status": "done"
  },
  {
   "id": "eboot_2851C2",
@@ -3470,8 +3470,8 @@
    }
   ],
   "jp": "東砦",
-  "en": "",
-  "status": ""
+  "en": "East Fort",
+  "status": "done"
  },
  {
   "id": "eboot_2851F8",
@@ -3484,8 +3484,8 @@
    }
   ],
   "jp": "山塞の前衛にあたる砦の１つ。西砦との連携を考慮してある",
-  "en": "",
-  "status": ""
+  "en": "One of the mountain stronghold's front forts. Works with West Fort",
+  "status": "done"
  },
  {
   "id": "eboot_28522F",
@@ -3498,8 +3498,8 @@
    }
   ],
   "jp": "西砦",
-  "en": "",
-  "status": ""
+  "en": "West Fort",
+  "status": "done"
  },
  {
   "id": "eboot_285234",
@@ -3512,8 +3512,8 @@
    }
   ],
   "jp": "山塞の前衛にあたる砦の１つ。東砦との連携を考慮してある",
-  "en": "",
-  "status": ""
+  "en": "One of the mountain stronghold's front forts. Works with East Fort",
+  "status": "done"
  },
  {
   "id": "eboot_28526B",
@@ -3526,8 +3526,8 @@
    }
   ],
   "jp": "トキノ中央砦",
-  "en": "",
-  "status": ""
+  "en": "Tokino Central Fort",
+  "status": "done"
  },
  {
   "id": "eboot_285278",
@@ -3540,8 +3540,8 @@
    }
   ],
   "jp": "山塞の中央に位置する砦。前衛の２つに比べて防御力が高い",
-  "en": "",
-  "status": ""
+  "en": "The stronghold's central fort, stronger than the two up front",
+  "status": "done"
  },
  {
   "id": "eboot_2852AF",
@@ -3666,8 +3666,8 @@
    }
   ],
   "jp": "豪奢な屋敷",
-  "en": "",
-  "status": ""
+  "en": "Lavish Mansion",
+  "status": "done"
  },
  {
   "id": "eboot_2853BC",
@@ -3680,8 +3680,8 @@
    }
   ],
   "jp": "豪奢さが目立つニーベル街区の中で、ひときわ大きな屋敷",
-  "en": "",
-  "status": ""
+  "en": "The biggest mansion in the lavish Nibel Quarter",
+  "status": "done"
  },
  {
   "id": "eboot_2853F1",
@@ -3890,8 +3890,8 @@
    }
   ],
   "jp": "錬金術師の屋敷",
-  "en": "",
-  "status": ""
+  "en": "Alchemist's Mansion",
+  "status": "done"
  },
  {
   "id": "eboot_285578",
@@ -4200,8 +4200,8 @@
    }
   ],
   "jp": "フェンサー",
-  "en": "",
-  "status": ""
+  "en": "Fencer",
+  "status": "done"
  },
  {
   "id": "eboot_28AB44",
@@ -4220,8 +4220,8 @@
    }
   ],
   "jp": "ヴァルキリー",
-  "en": "",
-  "status": ""
+  "en": "Valkyrie",
+  "status": "done"
  },
  {
   "id": "eboot_28AB51",
@@ -4237,8 +4237,8 @@
    }
   ],
   "jp": "ナイト",
-  "en": "",
-  "status": ""
+  "en": "Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28AB58",
@@ -4254,8 +4254,8 @@
    }
   ],
   "jp": "ウンディーネ",
-  "en": "",
-  "status": ""
+  "en": "Undine",
+  "status": "done"
  },
  {
   "id": "eboot_28AB65",
@@ -4268,8 +4268,8 @@
    }
   ],
   "jp": "バンディット",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "eboot_28AB72",
@@ -4285,8 +4285,8 @@
    }
   ],
   "jp": "グリフライダー",
-  "en": "",
-  "status": ""
+  "en": "Griffon Rider",
+  "status": "done"
  },
  {
   "id": "eboot_28AB81",
@@ -4302,8 +4302,8 @@
    }
   ],
   "jp": "ハンター",
-  "en": "",
-  "status": ""
+  "en": "Hunter",
+  "status": "done"
  },
  {
   "id": "eboot_28AB8A",
@@ -4319,8 +4319,8 @@
    }
   ],
   "jp": "アサシン",
-  "en": "",
-  "status": ""
+  "en": "Assassin",
+  "status": "done"
  },
  {
   "id": "eboot_28AB93",
@@ -4336,8 +4336,8 @@
    }
   ],
   "jp": "ネクロマンサー",
-  "en": "",
-  "status": ""
+  "en": "Necromancer",
+  "status": "done"
  },
  {
   "id": "eboot_28ABA2",
@@ -4353,8 +4353,8 @@
    }
   ],
   "jp": "ウィッチ",
-  "en": "",
-  "status": ""
+  "en": "Witch",
+  "status": "done"
  },
  {
   "id": "eboot_28ABAB",
@@ -4395,8 +4395,8 @@
    }
   ],
   "jp": "スケルトン",
-  "en": "",
-  "status": ""
+  "en": "Skeleton",
+  "status": "done"
  },
  {
   "id": "eboot_28ABD4",
@@ -4409,8 +4409,8 @@
    }
   ],
   "jp": "インペリアルナイト",
-  "en": "",
-  "status": ""
+  "en": "Imperial Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28ABE7",
@@ -4443,8 +4443,8 @@
    }
   ],
   "jp": "アックスバトラー",
-  "en": "",
-  "status": ""
+  "en": "Axe Battler",
+  "status": "done"
  },
  {
   "id": "eboot_28AC01",
@@ -4626,8 +4626,8 @@
    }
   ],
   "jp": "ゼパール",
-  "en": "",
-  "status": ""
+  "en": "Zepar",
+  "status": "done"
  },
  {
   "id": "eboot_28AC9F",
@@ -4640,8 +4640,8 @@
    }
   ],
   "jp": "フォルネウス",
-  "en": "",
-  "status": ""
+  "en": "Forneus",
+  "status": "done"
  },
  {
   "id": "eboot_28ACAC",
@@ -4654,8 +4654,8 @@
    }
   ],
   "jp": "アンドラス",
-  "en": "",
-  "status": ""
+  "en": "Andras",
+  "status": "done"
  },
  {
   "id": "eboot_28ACB7",
@@ -4668,8 +4668,8 @@
    }
   ],
   "jp": "ムルムル",
-  "en": "",
-  "status": ""
+  "en": "Murmur",
+  "status": "done"
  },
  {
   "id": "eboot_28ACC0",
@@ -4682,8 +4682,8 @@
    }
   ],
   "jp": "レラージュ",
-  "en": "",
-  "status": ""
+  "en": "Leraje",
+  "status": "done"
  },
  {
   "id": "eboot_28ACCB",
@@ -4696,8 +4696,8 @@
    }
   ],
   "jp": "アスモデウス",
-  "en": "",
-  "status": ""
+  "en": "Asmodeus",
+  "status": "done"
  },
  {
   "id": "eboot_28ACD8",
@@ -4752,8 +4752,8 @@
    }
   ],
   "jp": "エイミ",
-  "en": "",
-  "status": ""
+  "en": "Eimi",
+  "status": "done"
  },
  {
   "id": "eboot_28ACF8",
@@ -5034,8 +5034,8 @@
    }
   ],
   "jp": "フェンサー",
-  "en": "",
-  "status": ""
+  "en": "Fencer",
+  "status": "done"
  },
  {
   "id": "eboot_28BBAB",
@@ -5054,8 +5054,8 @@
    }
   ],
   "jp": "ヴァルキリー",
-  "en": "",
-  "status": ""
+  "en": "Valkyrie",
+  "status": "done"
  },
  {
   "id": "eboot_28BBB8",
@@ -5077,8 +5077,8 @@
    }
   ],
   "jp": "ナイト",
-  "en": "",
-  "status": ""
+  "en": "Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28BBBF",
@@ -5097,8 +5097,8 @@
    }
   ],
   "jp": "ウンディーネ",
-  "en": "",
-  "status": ""
+  "en": "Undine",
+  "status": "done"
  },
  {
   "id": "eboot_28BBCC",
@@ -5117,8 +5117,8 @@
    }
   ],
   "jp": "バンディット",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "eboot_28BBD9",
@@ -5149,8 +5149,8 @@
    }
   ],
   "jp": "グリフライダー",
-  "en": "",
-  "status": ""
+  "en": "Griffon Rider",
+  "status": "done"
  },
  {
   "id": "eboot_28BBE8",
@@ -5166,8 +5166,8 @@
    }
   ],
   "jp": "ハンター",
-  "en": "",
-  "status": ""
+  "en": "Hunter",
+  "status": "done"
  },
  {
   "id": "eboot_28BBF1",
@@ -5189,8 +5189,8 @@
    }
   ],
   "jp": "アサシン",
-  "en": "",
-  "status": ""
+  "en": "Assassin",
+  "status": "done"
  },
  {
   "id": "eboot_28BBFA",
@@ -5212,8 +5212,8 @@
    }
   ],
   "jp": "ネクロマンサー",
-  "en": "",
-  "status": ""
+  "en": "Necromancer",
+  "status": "done"
  },
  {
   "id": "eboot_28BC09",
@@ -5229,8 +5229,8 @@
    }
   ],
   "jp": "ウィッチ",
-  "en": "",
-  "status": ""
+  "en": "Witch",
+  "status": "done"
  },
  {
   "id": "eboot_28BC12",
@@ -5271,8 +5271,8 @@
    }
   ],
   "jp": "スケルトン",
-  "en": "",
-  "status": ""
+  "en": "Skeleton",
+  "status": "done"
  },
  {
   "id": "eboot_28BC3B",
@@ -5288,8 +5288,8 @@
    }
   ],
   "jp": "インペリアルナイト",
-  "en": "",
-  "status": ""
+  "en": "Imperial Knight",
+  "status": "done"
  },
  {
   "id": "eboot_28BC4E",

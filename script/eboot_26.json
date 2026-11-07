@@ -10,8 +10,8 @@
    }
   ],
   "jp": "塩の取引で不正に利を得る{n}役人を取り締まれ！",
-  "en": "",
-  "status": ""
+  "en": "Crack down on the official profiting from the salt trade!",
+  "status": "done"
  },
  {
   "id": "eboot_260034",
@@ -24,7 +24,7 @@
    }
   ],
   "jp": "帝都軍事演習",
-  "en": "Imperial Capital War Games",
+  "en": "Capital War Games",
   "status": "done"
  },
  {
@@ -38,8 +38,8 @@
    }
   ],
   "jp": "皇帝主催の軍事演習に{n}招集されたガーロットは…",
-  "en": "",
-  "status": ""
+  "en": "Garlot, called to the Emperor's war games...",
+  "status": "done"
  },
  {
   "id": "eboot_260074",
@@ -52,7 +52,7 @@
    }
   ],
   "jp": "守るべきもの",
-  "en": "What Must Be Protected",
+  "en": "Worth Protecting",
   "status": "done"
  },
  {
@@ -66,8 +66,8 @@
    }
   ],
   "jp": "ヴェルマン方伯が反乱の{n}嫌疑で連行される×",
-  "en": "",
-  "status": ""
+  "en": "Margrave Velleman arrested for suspected revolt!!",
+  "status": "done"
  },
  {
   "id": "eboot_2600B0",
@@ -94,8 +94,8 @@
    }
   ],
   "jp": "ネザー地区を戦火に晒した{n}反乱軍を決して許すな！",
-  "en": "",
-  "status": ""
+  "en": "Never forgive the rebels who set the Nether District ablaze!",
+  "status": "done"
  },
  {
   "id": "eboot_2600F0",
@@ -122,8 +122,8 @@
    }
   ],
   "jp": "トキノ山へと急行し{n}反乱軍を壊滅させるのだ！",
-  "en": "",
-  "status": ""
+  "en": "Race to Mount Tokino and crush the rebels!",
+  "status": "done"
  },
  {
   "id": "eboot_26012C",
@@ -136,7 +136,7 @@
    }
   ],
   "jp": "歴史は夜、動く",
-  "en": "History Moves at Night",
+  "en": "History by Night",
   "status": "done"
  },
  {
@@ -150,8 +150,8 @@
    }
   ],
   "jp": "会談中のヴェルマン邸に{n}忍び寄る影を喰い止めよ！",
-  "en": "",
-  "status": ""
+  "en": "Stop the shadows creeping up on Velleman's meeting!",
+  "status": "done"
  },
  {
   "id": "eboot_26016C",
@@ -178,8 +178,8 @@
    }
   ],
   "jp": "新たなる反乱軍の大将に{n}推されたガーロットだが…",
-  "en": "",
-  "status": ""
+  "en": "Garlot, put forward as the new rebel chief...",
+  "status": "done"
  },
  {
   "id": "eboot_2601B0",
@@ -206,8 +206,8 @@
    }
   ],
   "jp": "退路を開いたシスキアだが{n}消息が途絶えてしまう…",
-  "en": "",
-  "status": ""
+  "en": "Siskier opens an escape route, then vanishes...",
+  "status": "done"
  },
  {
   "id": "eboot_2601E8",
@@ -220,7 +220,7 @@
    }
   ],
   "jp": "呼び起こせ、魔竜の血",
-  "en": "Awaken, Demon Dragon's Blood",
+  "en": "Wake, Dragon Blood",
   "status": "done"
  },
  {
@@ -234,8 +234,8 @@
    }
   ],
   "jp": "魔竜の力を手に入れるべく{n}ガーロットは禁忌を犯す…",
-  "en": "",
-  "status": ""
+  "en": "To gain the demon dragon's power, Garlot breaks the taboo...",
+  "status": "done"
  },
  {
   "id": "eboot_260234",
@@ -248,7 +248,7 @@
    }
   ],
   "jp": "盾を破るのは矛なのか?",
-  "en": "Does the Spear Break the Shield?",
+  "en": "Spear or Shield?",
   "status": "done"
  },
  {
@@ -262,8 +262,8 @@
    }
   ],
   "jp": "ガルカーサは帝都攻撃軍に{n}合流、凱旋門突破を目指す",
-  "en": "",
-  "status": ""
+  "en": "Gulcasa joins the attack on the capital, aiming for the gate.",
+  "status": "done"
  },
  {
   "id": "eboot_260280",
@@ -290,8 +290,8 @@
    }
   ],
   "jp": "帝都フレアヴェルクで{n}対峙するは皇帝ソルティエ",
-  "en": "",
-  "status": ""
+  "en": "In capital Flarewerk, facing Emperor Soltier.",
+  "status": "done"
  },
  {
   "id": "eboot_2602BC",
@@ -304,7 +304,7 @@
    }
   ],
   "jp": "焔帝ガルカーサ",
-  "en": "Flame Emperor Gulcasa",
+  "en": "Emperor Gulcasa",
   "status": "done"
  },
  {
@@ -318,8 +318,8 @@
    }
   ],
   "jp": "ブロンキア帝国は倒れ{n}革命は遂げられた。だが…",
-  "en": "",
-  "status": ""
+  "en": "The Bronquia Empire falls, the revolution won. But...",
+  "status": "done"
  },
  {
   "id": "eboot_2602FC",
@@ -346,8 +346,8 @@
    }
   ],
   "jp": "二ヶ月にも及ぶ巡察から{n}帰還を喜ぶ間もなく…",
-  "en": "",
-  "status": ""
+  "en": "Back from a two-month tour, with no time for joy...",
+  "status": "done"
  },
  {
   "id": "eboot_260330",
@@ -374,8 +374,8 @@
    }
   ],
   "jp": "ルシエナの死から明けると{n}妹の姿は既に無かった…",
-  "en": "",
-  "status": ""
+  "en": "After Luciana's death, her sister is already gone...",
+  "status": "done"
  },
  {
   "id": "eboot_260368",
@@ -402,8 +402,8 @@
    }
   ],
   "jp": "一行は王都へと強行するも{n}斥候隊に捕捉されてしまう",
-  "en": "",
-  "status": ""
+  "en": "The party forces its way to the capital, but scouts catch them.",
+  "status": "done"
  },
  {
   "id": "eboot_2603A4",
@@ -430,8 +430,8 @@
    }
   ],
   "jp": "ついに王都に到着した一行{n}城門は突破できるのか？",
-  "en": "",
-  "status": ""
+  "en": "At the capital at last. Can they break the castle gate?",
+  "status": "done"
  },
  {
   "id": "eboot_2603DC",
@@ -458,8 +458,8 @@
    }
   ],
   "jp": "城内に侵入したアイギナは{n}１つの再会を果たす…",
-  "en": "",
-  "status": ""
+  "en": "In the castle, Aegina has a certain reunion...",
+  "status": "done"
  },
  {
   "id": "eboot_260414",
@@ -486,8 +486,8 @@
    }
   ],
   "jp": "妹と和解したアイギナ{n}だが、悲劇は終わらない…",
-  "en": "",
-  "status": ""
+  "en": "Aegina makes peace with her sister. But the tragedy goes on...",
+  "status": "done"
  },
  {
   "id": "eboot_260448",
@@ -500,7 +500,7 @@
    }
   ],
   "jp": "はじまりのおわり",
-  "en": "The End of the Beginning",
+  "en": "End of the Start",
   "status": "done"
  },
  {
@@ -514,8 +514,8 @@
    }
   ],
   "jp": "皇帝の治療のため帝都まで{n}ベアトリーヌを護送せよ！",
-  "en": "",
-  "status": ""
+  "en": "Escort Baretreenu to the capital to treat the Emperor!",
+  "status": "done"
  },
  {
   "id": "eboot_260490",
@@ -542,8 +542,8 @@
    }
   ],
   "jp": "再起したパンドラ！{n}反乱軍が帝都へと迫る！ ",
-  "en": "",
-  "status": ""
+  "en": "Pandra's comeback! The rebels close in on the capital!",
+  "status": "done"
  },
  {
   "id": "eboot_2604C4",
@@ -556,7 +556,7 @@
    }
   ],
   "jp": "暴かれし瞳の奥",
-  "en": "Behind the Eyes Laid Bare",
+  "en": "Behind Bared Eyes",
   "status": "done"
  },
  {
@@ -570,8 +570,8 @@
    }
   ],
   "jp": "治療を成功させた一行は{n}ティエラへと帰還するが…",
-  "en": "",
-  "status": ""
+  "en": "Their treatment a success, the party returns to Tiera, but...",
+  "status": "done"
  },
  {
   "id": "eboot_260504",
@@ -598,8 +598,8 @@
    }
   ],
   "jp": "私兵団は不穏な空気が漂う{n}イシュナートへと向かう",
-  "en": "",
-  "status": ""
+  "en": "The private army heads for Ishnart and its uneasy air.",
+  "status": "done"
  },
  {
   "id": "eboot_26054C",
@@ -626,8 +626,8 @@
    }
   ],
   "jp": "国王を迎えたソルティエが{n}その隠したる牙を剥く！",
-  "en": "",
-  "status": ""
+  "en": "Having welcomed the king, Soltier bares his hidden fangs!",
+  "status": "done"
  },
  {
   "id": "eboot_260590",
@@ -654,8 +654,8 @@
    }
   ],
   "jp": "戻ってこないジェノン…{n}シスキアは責任を感じる",
-  "en": "",
-  "status": ""
+  "en": "Jenon doesn't return... Siskier feels responsible.",
+  "status": "done"
  },
  {
   "id": "eboot_2605CC",
@@ -668,7 +668,7 @@
    }
   ],
   "jp": "人が勝ち得たもの",
-  "en": "What People Have Won",
+  "en": "What People Won",
   "status": "done"
  },
  {
@@ -682,8 +682,8 @@
    }
   ],
   "jp": "聖剣を完全に封印する…{n}最後の決戦が今、始まる！",
-  "en": "",
-  "status": ""
+  "en": "To seal the Holy Sword for good... The final battle begins!",
+  "status": "done"
  },
  {
   "id": "eboot_260610",
@@ -696,8 +696,8 @@
    }
   ],
   "jp": "歴史がついた嘘",
-  "en": "",
-  "status": ""
+  "en": "The Lie History Told",
+  "status": "done"
  },
  {
   "id": "eboot_260620",
@@ -710,8 +710,8 @@
    }
   ],
   "jp": "ついに革命が達成された！{n}しかし、歴史の裏側では…",
-  "en": "",
-  "status": ""
+  "en": "The revolution is won at last! But behind history...",
+  "status": "done"
  },
  {
   "id": "eboot_260654",
@@ -724,8 +724,8 @@
    }
   ],
   "jp": "姉妹",
-  "en": "",
-  "status": ""
+  "en": "Sisters",
+  "status": "done"
  },
  {
   "id": "eboot_26065C",
@@ -738,8 +738,8 @@
    }
   ],
   "jp": "アイギナはユグドラと未来{n}の為に生きる決心をする…",
-  "en": "",
-  "status": ""
+  "en": "Aegina resolves to live for Yggdra and the future...",
+  "status": "done"
  },
  {
   "id": "eboot_260690",
@@ -752,8 +752,8 @@
    }
   ],
   "jp": "悲しみを越えて",
-  "en": "",
-  "status": ""
+  "en": "Beyond Sorrow",
+  "status": "done"
  },
  {
   "id": "eboot_2606A0",
@@ -766,8 +766,8 @@
    }
   ],
   "jp": "エミリオが起こした悲劇{n}悲しみの中ガーロットは…",
-  "en": "",
-  "status": ""
+  "en": "The tragedy Emilia caused. In his sorrow, Garlot...",
+  "status": "done"
  },
  {
   "id": "eboot_2606D0",
@@ -780,8 +780,8 @@
    }
   ],
   "jp": "新しい未来",
-  "en": "",
-  "status": ""
+  "en": "A New Future",
+  "status": "done"
  },
  {
   "id": "eboot_2606DC",
@@ -794,8 +794,8 @@
    }
   ],
   "jp": "生きる目的は自分で決める{n}人を信じ、未来を作ろう！",
-  "en": "",
-  "status": ""
+  "en": "Decide your own purpose in life. Trust people, build the future!",
+  "status": "done"
  },
  {
   "id": "eboot_260710",
@@ -808,8 +808,8 @@
    }
   ],
   "jp": "悩める赤獅子",
-  "en": "",
-  "status": ""
+  "en": "Red Lion's Woes",
+  "status": "done"
  },
  {
   "id": "eboot_260720",
@@ -822,8 +822,8 @@
    }
   ],
   "jp": "ガーロットは力のなさを{n}痛感し、過去を反芻する…",
-  "en": "",
-  "status": ""
+  "en": "Keenly feeling his weakness, Garlot broods on the past...",
+  "status": "done"
  },
  {
   "id": "eboot_260750",
@@ -836,8 +836,8 @@
    }
   ],
   "jp": "私兵団誕生！",
-  "en": "",
-  "status": ""
+  "en": "Private Army Born!",
+  "status": "done"
  },
  {
   "id": "eboot_260760",
@@ -850,8 +850,8 @@
    }
   ],
   "jp": "グラムブレイズ、始動{n}落日の帝国に光を差せ！",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze starts up. Shine a light on the setting Empire!",
+  "status": "done"
  },
  {
   "id": "eboot_26078C",
@@ -864,8 +864,8 @@
    }
   ],
   "jp": "帝国の頂点",
-  "en": "",
-  "status": ""
+  "en": "Top of the Empire",
+  "status": "done"
  },
  {
   "id": "eboot_260798",
@@ -878,8 +878,8 @@
    }
   ],
   "jp": "理不尽の頂上に立つ男{n}ソルティエ帝との遭遇…",
-  "en": "",
-  "status": ""
+  "en": "Meeting Emperor Soltier, the man atop all injustice...",
+  "status": "done"
  },
  {
   "id": "eboot_2607C4",
@@ -896,8 +896,8 @@
    }
   ],
   "jp": "変われる強さを",
-  "en": "",
-  "status": ""
+  "en": "Will to Change",
+  "status": "done"
  },
  {
   "id": "eboot_2607D4",
@@ -910,8 +910,8 @@
    }
   ],
   "jp": "戦う理由を失った暗殺者に{n}シスキアは優しく告げる…",
-  "en": "",
-  "status": ""
+  "en": "Siskier speaks gently to the assassin with no reason to fight...",
+  "status": "done"
  },
  {
   "id": "eboot_260808",
@@ -924,8 +924,8 @@
    }
   ],
   "jp": "再来の黒の騎士",
-  "en": "",
-  "status": ""
+  "en": "Black Knight Again",
+  "status": "done"
  },
  {
   "id": "eboot_260818",
@@ -938,8 +938,8 @@
    }
   ],
   "jp": "猛り狂う黒騎士レオンが{n}グラムブレイズを襲う！",
-  "en": "",
-  "status": ""
+  "en": "Raging Black Knight Leon attacks Gram Blaze!",
+  "status": "done"
  },
  {
   "id": "eboot_260848",
@@ -952,8 +952,8 @@
    }
   ],
   "jp": "贅沢な時間",
-  "en": "",
-  "status": ""
+  "en": "Time of Luxury",
+  "status": "done"
  },
  {
   "id": "eboot_260854",
@@ -966,8 +966,8 @@
    }
   ],
   "jp": "シャーミネル名物温泉！{n}ひとつ覗いてみませんか？",
-  "en": "",
-  "status": ""
+  "en": "Sharminel's famous hot springs! How about a dip?",
+  "status": "done"
  },
  {
   "id": "eboot_260884",
@@ -980,8 +980,8 @@
    }
   ],
   "jp": "全身を…",
-  "en": "",
-  "status": ""
+  "en": "The Whole Body...",
+  "status": "done"
  },
  {
   "id": "eboot_260890",
@@ -994,8 +994,8 @@
    }
   ],
   "jp": "運動したら汗を流したい…{n}そりゃもう女の子だから⑭",
-  "en": "",
-  "status": ""
+  "en": "After exercise, you want to wash off the sweat... You're a girl, after all!",
+  "status": "done"
  },
  {
   "id": "eboot_2608C4",
@@ -1008,8 +1008,8 @@
    }
   ],
   "jp": "どっちがお好み？",
-  "en": "",
-  "status": ""
+  "en": "Which Do You Like?",
+  "status": "done"
  },
  {
   "id": "eboot_2608D8",
@@ -1022,8 +1022,8 @@
    }
   ],
   "jp": "どっちがいいか選べない？{n}よろしい、ならば両方だ！",
-  "en": "",
-  "status": ""
+  "en": "Can't pick which? Very well, both it is!",
+  "status": "done"
  },
  {
   "id": "eboot_26090C",
@@ -1036,8 +1036,8 @@
    }
   ],
   "jp": "天にも昇る心地",
-  "en": "",
-  "status": ""
+  "en": "Heavenly Feeling",
+  "status": "done"
  },
  {
   "id": "eboot_26091C",
@@ -1050,8 +1050,8 @@
    }
   ],
   "jp": "温泉は気持ちいい{n}それは人間も天女も一緒×",
-  "en": "",
-  "status": ""
+  "en": "Hot springs feel great. For humans and heavenly maidens alike!!",
+  "status": "done"
  },
  {
   "id": "eboot_260948",
@@ -1064,8 +1064,8 @@
    }
   ],
   "jp": "湯けむり慕情",
-  "en": "",
-  "status": ""
+  "en": "Love in the Steam",
+  "status": "done"
  },
  {
   "id": "eboot_260958",
@@ -1078,8 +1078,8 @@
    }
   ],
   "jp": "あなたが欲しかったものが{n}ここにある×　いやある！",
-  "en": "",
-  "status": ""
+  "en": "What you wanted is here!! No, really, it is!",
+  "status": "done"
  },
  {
   "id": "eboot_26098C",
@@ -1092,8 +1092,8 @@
    }
   ],
   "jp": "それぞれが進む道",
-  "en": "",
-  "status": ""
+  "en": "Each One's Road",
+  "status": "done"
  },
  {
   "id": "eboot_2609A0",
@@ -1106,8 +1106,8 @@
    }
   ],
   "jp": "私兵団をつけ狙うセリカに{n}ガーロットは己の道を示す",
-  "en": "",
-  "status": ""
+  "en": "Garlot shows his own road to Cerica, who hunts the army.",
+  "status": "done"
  },
  {
   "id": "eboot_2609D4",
@@ -1120,8 +1120,8 @@
    }
   ],
   "jp": "駈け出した野犬",
-  "en": "",
-  "status": ""
+  "en": "The Stray Dog Runs",
+  "status": "done"
  },
  {
   "id": "eboot_2609E4",
@@ -1134,8 +1134,8 @@
    }
   ],
   "jp": "追い詰められたパンドラが{n}最後に見せた行動とは……",
-  "en": "",
-  "status": ""
+  "en": "What cornered Pandra did at the very end...",
+  "status": "done"
  },
  {
   "id": "eboot_260A18",
@@ -1148,8 +1148,8 @@
    }
   ],
   "jp": "とある命の終わり",
-  "en": "",
-  "status": ""
+  "en": "A Life's End",
+  "status": "done"
  },
  {
   "id": "eboot_260A2C",
@@ -1162,8 +1162,8 @@
    }
   ],
   "jp": "足枷にはなりたくない…{n}悲痛の想いが選んだ悲劇",
-  "en": "",
-  "status": ""
+  "en": "\"I don't want to be a burden...\" The tragedy that wish chose.",
+  "status": "done"
  },
  {
   "id": "eboot_260A5C",
@@ -1176,8 +1176,8 @@
    }
   ],
   "jp": "竜の血のめざめ",
-  "en": "",
-  "status": ""
+  "en": "The Blood Awakes",
+  "status": "done"
  },
  {
   "id": "eboot_260A6C",
@@ -1190,8 +1190,8 @@
    }
   ],
   "jp": "自責の中でガーロットは{n}その力を呼び覚ました…",
-  "en": "",
-  "status": ""
+  "en": "In his self-reproach, Garlot awakens that power...",
+  "status": "done"
  },
  {
   "id": "eboot_260A9C",
@@ -1204,8 +1204,8 @@
    }
   ],
   "jp": "なすべきこと",
-  "en": "",
-  "status": ""
+  "en": "What Must Be Done",
+  "status": "done"
  },
  {
   "id": "eboot_260AAC",
@@ -1218,8 +1218,8 @@
    }
   ],
   "jp": "グラムブレイズを抜けたい{n}アイギナの決意とは…",
-  "en": "",
-  "status": ""
+  "en": "She wants to leave Gram Blaze: Aegina's resolve...",
+  "status": "done"
  },
  {
   "id": "eboot_260ADC",
@@ -1232,8 +1232,8 @@
    }
   ],
   "jp": "「よかった」",
-  "en": "",
-  "status": ""
+  "en": "\"I'm Glad\"",
+  "status": "done"
  },
  {
   "id": "eboot_260AEC",
@@ -1246,8 +1246,8 @@
    }
   ],
   "jp": "解き放たれたジェノンは{n}仲間達に別れを告げる…",
-  "en": "",
-  "status": ""
+  "en": "Jenon, set free, says goodbye to his friends...",
+  "status": "done"
  },
  {
   "id": "eboot_260B1C",
@@ -1260,8 +1260,8 @@
    }
   ],
   "jp": "ブレイズ義賊団の若き団長{n}ヴェルマン方伯の招聘により{n}私兵として各地を転戦する",
-  "en": "",
-  "status": ""
+  "en": "Young captain of the Blaze Justice Corps, who fights for Velleman.",
+  "status": "done"
  },
  {
   "id": "eboot_260B6C",
@@ -1274,8 +1274,8 @@
    }
   ],
   "jp": "ガーロットの幼なじみにして{n}斥候部隊を束ねる少女{n}団員達のムードメーカー",
-  "en": "",
-  "status": ""
+  "en": "Garlot's childhood friend, leader of the scouts, and the band's morale.",
+  "status": "done"
  },
  {
   "id": "eboot_260BB4",
@@ -1288,8 +1288,8 @@
    }
   ],
   "jp": "ガーロットの幼なじみにして{n}作戦の立案を行う参謀{n}皮肉屋だが女の子には甘い",
-  "en": "",
-  "status": ""
+  "en": "Garlot's childhood friend and tactician. A cynic, but soft on girls.",
+  "status": "done"
  },
  {
   "id": "eboot_260C00",
@@ -1302,8 +1302,8 @@
    }
   ],
   "jp": "浅黒い肌をした旅の女武芸者{n}豊富な経験と大斧の一撃で{n}ガーロットの戦いを支える",
-  "en": "",
-  "status": ""
+  "en": "A dark-skinned wandering warrior. Her great axe aids Garlot.",
+  "status": "done"
  },
  {
   "id": "eboot_260C50",
@@ -1316,8 +1316,8 @@
    }
   ],
   "jp": "エイミ",
-  "en": "",
-  "status": ""
+  "en": "Eimi",
+  "status": "done"
  },
  {
   "id": "eboot_260C58",
@@ -1330,8 +1330,8 @@
    }
   ],
   "jp": "生き別れの兄を探す幼い少女{n}持ち前の行動力と精神力で{n}兄を求めて各地を旅している",
-  "en": "",
-  "status": ""
+  "en": "A little girl seeking her lost brother across the land, full of spirit.",
+  "status": "done"
  },
  {
   "id": "eboot_260CA8",
@@ -1344,8 +1344,8 @@
    }
   ],
   "jp": "謎の組織に追われる少女{n}養父の死により行き場を失うが{n}私兵団に加入することに",
-  "en": "",
-  "status": ""
+  "en": "Hunted by a mystery group and orphaned, she joins the private army.",
+  "status": "done"
  },
  {
   "id": "eboot_260CF4",
@@ -1358,8 +1358,8 @@
    }
   ],
   "jp": "アイギナの双子の姉{n}神生教団の襲撃で負傷しており{n}私兵団の庇護を受ける",
-  "en": "",
-  "status": ""
+  "en": "Aegina's twin sister, wounded by the Papal Army and in our care.",
+  "status": "done"
  },
  {
   "id": "eboot_260D3C",
@@ -1372,8 +1372,8 @@
    }
   ],
   "jp": "帝政の是正を目指す貴族{n}政敵との衝突に備えるべく{n}ガーロットを私兵団として雇う",
-  "en": "",
-  "status": ""
+  "en": "A noble out to reform the Empire. He hires Garlot as his private army.",
+  "status": "done"
  },
  {
   "id": "eboot_260D8C",
@@ -1386,8 +1386,8 @@
    }
   ],
   "jp": "奥深い森に棲む預言者{n}未来を予知する不思議な力と{n}死人を操る屍兵術の使い手",
-  "en": "",
-  "status": ""
+  "en": "A prophet of the deep forest, seer of futures and raiser of the dead.",
+  "status": "done"
  },
  {
   "id": "eboot_260DD8",
@@ -1400,8 +1400,8 @@
    }
   ],
   "jp": "ティエラ・ニーベル街区の商人{n}不当な貸付や取立てから{n}悪徳商人と恐れられている",
-  "en": "",
-  "status": ""
+  "en": "A merchant of Tiera's Nibel Quarter, feared for his loans and collecting.",
+  "status": "done"
  },
  {
   "id": "eboot_260E28",
@@ -1414,8 +1414,8 @@
    }
   ],
   "jp": "流れの傭兵隊長{n}雇い主をも手にかける程の{n}卑劣漢だが、その実力は本物",
-  "en": "",
-  "status": ""
+  "en": "A roving mercenary captain. A scoundrel, but his skill is real.",
+  "status": "done"
  },
  {
   "id": "eboot_260E6C",
@@ -1428,8 +1428,8 @@
    }
   ],
   "jp": "テンガロンハットの女傭兵{n}盲信していたデイヴィドの{n}仇であるガーロットを付け狙う",
-  "en": "",
-  "status": ""
+  "en": "A mercenary in a ten-gallon hat. She hunts Garlot, who killed David.",
+  "status": "done"
  },
  {
   "id": "eboot_260EBC",
@@ -1442,8 +1442,8 @@
    }
   ],
   "jp": "辺境の守備隊を率いる黒騎士{n}敵にも味方にも容赦しない{n}苛烈な性格だが実力は本物",
-  "en": "",
-  "status": ""
+  "en": "A black knight of a frontier garrison. Merciless, truly skilled.",
+  "status": "done"
  },
  {
   "id": "eboot_260F0C",
@@ -1470,8 +1470,8 @@
    }
   ],
   "jp": "黒騎士レオンの妹{n}兄の孤高を知る唯一の肉親で{n}力なくも優しく見守る",
-  "en": "",
-  "status": ""
+  "en": "Leon's sister and only family, gently watching over him.",
+  "status": "done"
  },
  {
   "id": "eboot_260F58",
@@ -1484,8 +1484,8 @@
    }
   ],
   "jp": "金に目がない現金主義の傭兵{n}傭兵として力量はあるのだが{n}雇い主に恵まれていない",
-  "en": "",
-  "status": ""
+  "en": "A money-hungry mercenary, skilled but unlucky with employers.",
+  "status": "done"
  },
  {
   "id": "eboot_260FA8",
@@ -1498,8 +1498,8 @@
    }
   ],
   "jp": "元軍人で反乱軍を束ねる首魁{n}言葉巧みに周囲を焚きつけ{n}反乱運動の拡大を目論んでいる",
-  "en": "",
-  "status": ""
+  "en": "Ex-soldier and rebel chief, whipping up revolt with clever words.",
+  "status": "done"
  },
  {
   "id": "eboot_260FFC",
@@ -1512,8 +1512,8 @@
    }
   ],
   "jp": "神生教団に仕える少女にして{n}暗殺者部隊を率いる隊長{n}ルシエナ姉妹の命を付け狙う",
-  "en": "",
-  "status": ""
+  "en": "A girl captain of Papal Army assassins, hunting Luciana and her sister.",
+  "status": "done"
  },
  {
   "id": "eboot_26104C",
@@ -1526,8 +1526,8 @@
    }
   ],
   "jp": "帝国正規軍を束ねる将軍{n}通称『ブロンキアの盾』{n}軍神と崇められる生粋の軍人",
-  "en": "",
-  "status": ""
+  "en": "General of the Imperial regulars. The \"Shield of Bronquia,\" a War God.",
+  "status": "done"
  },
  {
   "id": "eboot_261098",
@@ -1540,8 +1540,8 @@
    }
   ],
   "jp": "皇帝の親衛隊長として{n}剣を捧げる随一の忠臣{n}主の悦びは彼女の喜びである",
-  "en": "",
-  "status": ""
+  "en": "The Emperor's Guard Captain, his sword. Her master's joy is her joy.",
+  "status": "done"
  },
  {
   "id": "eboot_2610E0",
@@ -1554,8 +1554,8 @@
    }
   ],
   "jp": "ブロンキア帝国の皇帝にして{n}治安を悪化させた張本人{n}軍人としては傑出した人物",
-  "en": "",
-  "status": ""
+  "en": "Emperor of Bronquia, who wrecked public order. A fine soldier.",
+  "status": "done"
  },
  {
   "id": "eboot_26112C",
@@ -1568,8 +1568,8 @@
    }
   ],
   "jp": "スリを生業にする賞金首だが{n}貴族や豪商のみを狙う義賊{n}二つ名は『はだしのミゼル』",
-  "en": "",
-  "status": ""
+  "en": "A wanted pickpocket who only robs the rich. Known as \"Barefoot Mizer.\"",
+  "status": "done"
  },
  {
   "id": "eboot_26117C",
@@ -1582,8 +1582,8 @@
    }
   ],
   "jp": "帝国の東にある海から来た{n}飲んだくれウンディーネ{n}死者を偲ぶ神妙な一面も持つ",
-  "en": "",
-  "status": ""
+  "en": "A drunken Undine from the eastern sea, with a solemn side for the dead.",
+  "status": "done"
  },
  {
   "id": "eboot_2611C8",
@@ -1596,8 +1596,8 @@
    }
   ],
   "jp": "自由奔放にして正体不明な{n}ノリノリ魔女っ娘！{n}妙に年季の入った話し方をする",
-  "en": "",
-  "status": ""
+  "en": "A free-spirited, mysterious witch girl! Talks like an old-timer.",
+  "status": "done"
  },
  {
   "id": "eboot_261214",
@@ -1610,8 +1610,8 @@
    }
   ],
   "jp": "北から来た巨大な虎の獣人{n}主である魔術師からの命令で{n}ある魔導書を探す途中である",
-  "en": "",
-  "status": ""
+  "en": "A giant tiger beast-man from the north, seeking a spellbook.",
+  "status": "done"
  },
  {
   "id": "eboot_261264",
@@ -1624,8 +1624,8 @@
    }
   ],
   "jp": "艶やかな黒のロングヘアーが{n}印象的な美少女{n}竪琴のメロディを武器に戦う",
-  "en": "",
-  "status": ""
+  "en": "A beautiful girl with long, glossy black hair. Fights with a lyre.",
+  "status": "done"
  },
  {
   "id": "eboot_2612AC",
@@ -1638,8 +1638,8 @@
    }
   ],
   "jp": "艶やかな黒のロングヘアーが{n}印象的な美少女、だったのに…{n}竪琴でぶん殴って攻撃する！",
-  "en": "",
-  "status": ""
+  "en": "A beautiful girl with long black hair, or so it was... Smashes with her lyre!",
+  "status": "done"
  },
  {
   "id": "eboot_261300",
@@ -1652,8 +1652,8 @@
    }
   ],
   "jp": "エルルク山脈に居を構え、{n}ひとり火砲の研究に没頭する{n}変わり者の魔法使い",
-  "en": "",
-  "status": ""
+  "en": "An eccentric mage in the Erruk Mountains, absorbed in firearms.",
+  "status": "done"
  },
  {
   "id": "eboot_261348",
@@ -1666,8 +1666,8 @@
    }
   ],
   "jp": "王国の国務大臣{n}政事の一切を取り仕切る{n}有能な人物なのだが……",
-  "en": "",
-  "status": ""
+  "en": "The Kingdom's Minister of State, who runs it all. Capable, but...",
+  "status": "done"
  },
  {
   "id": "eboot_261388",
@@ -1680,8 +1680,8 @@
    }
   ],
   "jp": "王国軍の都市カローナで{n}守兵部隊の将校を務める青年{n}『魔剣士』と仇名される",
-  "en": "",
-  "status": ""
+  "en": "A young officer of the Karona garrison: the \"Magic Swordsman.\"",
+  "status": "done"
  },
  {
   "id": "eboot_2613D4",
@@ -1694,8 +1694,8 @@
    }
   ],
   "jp": "隣国・ファンタジニア王国の{n}第３１代王位継承者{n}善政を敷く風格ある王",
-  "en": "",
-  "status": ""
+  "en": "31st king of neighboring Fantasinia. A dignified and good ruler.",
+  "status": "done"
  },
  {
   "id": "eboot_261418",
@@ -1722,8 +1722,8 @@
    }
   ],
   "jp": "ファンタジニア王国の王女{n}父である国王をはじめ、周囲の{n}寵愛を一身に受けて育つ",
-  "en": "",
-  "status": ""
+  "en": "Princess of Fantasinia, raised with the love of all around her.",
+  "status": "done"
  },
  {
   "id": "eboot_261474",
@@ -1736,8 +1736,8 @@
    }
   ],
   "jp": "最果ての地ロスト・アリエスで{n}独自の研究を重ねた術師{n}特に魔竜の血に深い見聞を持つ",
-  "en": "",
-  "status": ""
+  "en": "A sorcerer of far-off Lost Aries, versed in the dragon's blood.",
+  "status": "done"
  },
  {
   "id": "eboot_2614C8",
@@ -1750,8 +1750,8 @@
    }
   ],
   "jp": "母殺しにより封印を解いた{n}ガーロットの真の姿{n}魔竜ブロンガの力を振るう",
-  "en": "",
-  "status": ""
+  "en": "Garlot's true form, unsealed by matricide. Wields Brongaa's power.",
+  "status": "done"
  },
  {
   "id": "eboot_261510",
@@ -1764,8 +1764,8 @@
    }
   ],
   "jp": "仲間を生け贄に捧げる{n}『ジェノサイド』で魔竜の力を{n}引き出したガーロットの姿",
-  "en": "",
-  "status": ""
+  "en": "Garlot with dragon power from the friends \"Genocide\" took.",
+  "status": "done"
  },
  {
   "id": "eboot_26155C",
@@ -1778,8 +1778,8 @@
    }
   ],
   "jp": "戦いを渇望するエミリオが{n}魔竜の血を完全に覚醒させた姿{n}ただ無邪気に凶刃を振るう",
-  "en": "",
-  "status": ""
+  "en": "Emilia with the dragon's blood awake, swinging in pure innocence.",
+  "status": "done"
  },
  {
   "id": "eboot_2615AC",
@@ -1792,8 +1792,8 @@
    }
   ],
   "jp": "フェンサー",
-  "en": "",
-  "status": ""
+  "en": "Fencer",
+  "status": "done"
  },
  {
   "id": "eboot_2615B8",
@@ -1806,8 +1806,8 @@
    }
   ],
   "jp": "巨大な大剣を軽々と振るう剣兵{n}取り立てた弱点もなく{n}安定感のある戦いをする",
-  "en": "",
-  "status": ""
+  "en": "Swordsmen who lightly swing huge greatswords. Steady, no weak spot.",
+  "status": "done"
  },
  {
   "id": "eboot_261604",
@@ -1820,8 +1820,8 @@
    }
   ],
   "jp": "ヴァルキリー",
-  "en": "",
-  "status": ""
+  "en": "Valkyrie",
+  "status": "done"
  },
  {
   "id": "eboot_261614",
@@ -1834,8 +1834,8 @@
    }
   ],
   "jp": "細身の長剣を扱う戦乙女{n}その剣には聖なる光を宿すが{n}相反する邪悪な力には弱い",
-  "en": "",
-  "status": ""
+  "en": "War maidens with swords of holy light, but weak to evil power.",
+  "status": "done"
  },
  {
   "id": "eboot_261660",
@@ -1848,8 +1848,8 @@
    }
   ],
   "jp": "ナイト",
-  "en": "",
-  "status": ""
+  "en": "Knight",
+  "status": "done"
  },
  {
   "id": "eboot_261668",
@@ -1862,8 +1862,8 @@
    }
   ],
   "jp": "軍馬に跨る勇壮な騎士{n}進路を遮る敵ユニットを{n}無視して突破移動が可能",
-  "en": "",
-  "status": ""
+  "en": "Brave knights on warhorses. They break past enemies in the way.",
+  "status": "done"
  },
  {
   "id": "eboot_2616AC",
@@ -1876,8 +1876,8 @@
    }
   ],
   "jp": "ウンディーネ",
-  "en": "",
-  "status": ""
+  "en": "Undine",
+  "status": "done"
  },
  {
   "id": "eboot_2616BC",
@@ -1890,8 +1890,8 @@
    }
   ],
   "jp": "水棲種のウンディーネ族{n}水上では無類の強さを誇るが{n}干からびた砂漠は苦手である",
-  "en": "",
-  "status": ""
+  "en": "The aquatic Undine. Unmatched on water, but no good in dry deserts.",
+  "status": "done"
  },
  {
   "id": "eboot_26170C",
@@ -1904,8 +1904,8 @@
    }
   ],
   "jp": "バンディット",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "eboot_26171C",
@@ -1918,8 +1918,8 @@
    }
   ],
   "jp": "山賊や盗賊といった無法者{n}形の無い粗暴な戦いが得意で{n}集落を荒らし回る悪癖を持つ",
-  "en": "",
-  "status": ""
+  "en": "Brigands and thieves. Good at crude fights and raiding villages.",
+  "status": "done"
  },
  {
   "id": "eboot_26176C",
@@ -1932,8 +1932,8 @@
    }
   ],
   "jp": "グリフライダー",
-  "en": "",
-  "status": ""
+  "en": "Griffon Rider",
+  "status": "done"
  },
  {
   "id": "eboot_26177C",
@@ -1946,8 +1946,8 @@
    }
   ],
   "jp": "怪鳥グリフォンに跨る女戦士{n}偵察や伝令といった{n}機動性を活かす作戦に長ける",
-  "en": "",
-  "status": ""
+  "en": "Women warriors on griffons. Good at scouting and messages.",
+  "status": "done"
  },
  {
   "id": "eboot_2617C8",
@@ -1960,8 +1960,8 @@
    }
   ],
   "jp": "ハンター",
-  "en": "",
-  "status": ""
+  "en": "Hunter",
+  "status": "done"
  },
  {
   "id": "eboot_2617D4",
@@ -1974,8 +1974,8 @@
    }
   ],
   "jp": "森の中での行動に特化した狩人{n}見通しの利く日中には{n}目覚ましい活躍をみせる",
-  "en": "",
-  "status": ""
+  "en": "Hunters skilled in forests. They shine in the clear light of day.",
+  "status": "done"
  },
  {
   "id": "eboot_261820",
@@ -1988,8 +1988,8 @@
    }
   ],
   "jp": "アサシン",
-  "en": "",
-  "status": ""
+  "en": "Assassin",
+  "status": "done"
  },
  {
   "id": "eboot_26182C",
@@ -2002,8 +2002,8 @@
    }
   ],
   "jp": "神出鬼没が信条の暗殺者{n}夜の闇に紛れた作戦では{n}右に出る者はいない",
-  "en": "",
-  "status": ""
+  "en": "Assassins who come and go like ghosts. Unmatched by night.",
+  "status": "done"
  },
  {
   "id": "eboot_261870",
@@ -2016,8 +2016,8 @@
    }
   ],
   "jp": "ネクロマンサー",
-  "en": "",
-  "status": ""
+  "en": "Necromancer",
+  "status": "done"
  },
  {
   "id": "eboot_261880",
@@ -2030,8 +2030,8 @@
    }
   ],
   "jp": "死者を操る魔導師{n}夜間には空間を歪めることで{n}敵の意表を突いた行動に出る",
-  "en": "",
-  "status": ""
+  "en": "Mages who control the dead. At night, they warp space to surprise foes.",
+  "status": "done"
  },
  {
   "id": "eboot_2618C8",
@@ -2044,8 +2044,8 @@
    }
   ],
   "jp": "ウィッチ",
-  "en": "",
-  "status": ""
+  "en": "Witch",
+  "status": "done"
  },
  {
   "id": "eboot_2618D4",
@@ -2058,8 +2058,8 @@
    }
   ],
   "jp": "魔法の学識に秀でた魔女{n}炎を撒き散らすほうきに跨り{n}戦場をひた駈ける",
-  "en": "",
-  "status": ""
+  "en": "Witches learned in magic, racing on brooms that scatter fire.",
+  "status": "done"
  },
  {
   "id": "eboot_261918",
@@ -2072,8 +2072,8 @@
    }
   ],
   "jp": "スケルトン",
-  "en": "",
-  "status": ""
+  "en": "Skeleton",
+  "status": "done"
  },
  {
   "id": "eboot_261924",
@@ -2086,8 +2086,8 @@
    }
   ],
   "jp": "冥府より喚び出された{n}生気なきガイコツの兵士{n}猛毒で敵軍を苦しめる",
-  "en": "",
-  "status": ""
+  "en": "Lifeless skeleton soldiers from the underworld. Foes fear their poison.",
+  "status": "done"
  },
  {
   "id": "eboot_261968",
@@ -2114,8 +2114,8 @@
    }
   ],
   "jp": "魔法の力で生み落とされた{n}不屈なる岩塊の巨人{n}障害物を破壊する力を持つ",
-  "en": "",
-  "status": ""
+  "en": "Unyielding rock giants born of magic. They can destroy obstacles.",
+  "status": "done"
  },
  {
   "id": "eboot_2619BC",
@@ -2128,8 +2128,8 @@
    }
   ],
   "jp": "インペリアルナイト",
-  "en": "",
-  "status": ""
+  "en": "Imperial Knight",
+  "status": "done"
  },
  {
   "id": "eboot_2619D0",
@@ -2142,8 +2142,8 @@
    }
   ],
   "jp": "飛竜を駆る勇壮な騎士{n}あらゆる敵に有効な大鎌を{n}自由自在に使いこなす",
-  "en": "",
-  "status": ""
+  "en": "Brave knights on wyverns, with great scythes good against all.",
+  "status": "done"
  },
  {
   "id": "eboot_261A14",
@@ -2156,8 +2156,8 @@
    }
   ],
   "jp": "アックスバトラー",
-  "en": "",
-  "status": ""
+  "en": "Axe Battler",
+  "status": "done"
  },
  {
   "id": "eboot_261A28",
@@ -2170,8 +2170,8 @@
    }
   ],
   "jp": "ラフな格好の女戦士{n}軽装備で編制コストが安いため{n}特に遊撃に長じた部隊である",
-  "en": "",
-  "status": ""
+  "en": "Rough-clad women warriors. Light, cheap to field, good at skirmishes.",
+  "status": "done"
  },
  {
   "id": "eboot_261A74",
@@ -2184,8 +2184,8 @@
    }
   ],
   "jp": "ゼパール",
-  "en": "",
-  "status": ""
+  "en": "Zepar",
+  "status": "done"
  },
  {
   "id": "eboot_261A80",
@@ -2198,8 +2198,8 @@
    }
   ],
   "jp": "屍に身をやつし{n}命を落としても{n}剣兵はただ悲しき剣を振るう",
-  "en": "",
-  "status": ""
+  "en": "Sunk to a corpse, life lost, the swordsman still swings a sad sword.",
+  "status": "done"
  },
  {
   "id": "eboot_261ABC",
@@ -2212,8 +2212,8 @@
    }
   ],
   "jp": "フォルネウス",
-  "en": "",
-  "status": ""
+  "en": "Forneus",
+  "status": "done"
  },
  {
   "id": "eboot_261ACC",
@@ -2226,8 +2226,8 @@
    }
   ],
   "jp": "生へのこだわりを捨てた{n}海の悪魔の内に残ったのは{n}無為に振るわれる殺意だった",
-  "en": "",
-  "status": ""
+  "en": "All that remained in the sea demon was pointless killing intent.",
+  "status": "done"
  },
  {
   "id": "eboot_261B18",
@@ -2240,8 +2240,8 @@
    }
   ],
   "jp": "アンドラス",
-  "en": "",
-  "status": ""
+  "en": "Andras",
+  "status": "done"
  },
  {
   "id": "eboot_261B24",
@@ -2254,8 +2254,8 @@
    }
   ],
   "jp": "強欲のままに生きた戦士は{n}死を迎えてもなお{n}戦場に残り、勝利に酔う",
-  "en": "",
-  "status": ""
+  "en": "The warrior who lived by greed stays on the field, drunk on victory.",
+  "status": "done"
  },
  {
   "id": "eboot_261B68",
@@ -2268,8 +2268,8 @@
    }
   ],
   "jp": "ムルムル",
-  "en": "",
-  "status": ""
+  "en": "Murmur",
+  "status": "done"
  },
  {
   "id": "eboot_261B74",
@@ -2282,8 +2282,8 @@
    }
   ],
   "jp": "理性を失い、言葉を失い、{n}なお空を駆る戦士は{n}一体どこを目指すのか？",
-  "en": "",
-  "status": ""
+  "en": "Reason lost, speech lost, yet still flying, where does this warrior go?",
+  "status": "done"
  },
  {
   "id": "eboot_261BB8",
@@ -2296,8 +2296,8 @@
    }
   ],
   "jp": "レラージュ",
-  "en": "",
-  "status": ""
+  "en": "Leraje",
+  "status": "done"
  },
  {
   "id": "eboot_261BC4",
@@ -2310,8 +2310,8 @@
    }
   ],
   "jp": "優れた暗殺者にとって{n}死は終わりではない{n}新たな惨劇の始まりに過ぎない",
-  "en": "",
-  "status": ""
+  "en": "To a fine assassin, death isn't the end. Only the start of a new tragedy.",
+  "status": "done"
  },
  {
   "id": "eboot_261C0C",
@@ -2324,8 +2324,8 @@
    }
   ],
   "jp": "アスモデウス",
-  "en": "",
-  "status": ""
+  "en": "Asmodeus",
+  "status": "done"
  },
  {
   "id": "eboot_261C1C",
@@ -2338,8 +2338,8 @@
    }
   ],
   "jp": "生前は声望を集めた勇将も{n}命を失った今は狂戦士と化し{n}屍竜とともに破壊を続ける",
-  "en": "",
-  "status": ""
+  "en": "A hero of renown in life, now a berserker riding a corpse dragon.",
+  "status": "done"
  },
  {
   "id": "eboot_261C6C",
@@ -2366,8 +2366,8 @@
    }
   ],
   "jp": "戦いに傷ついた兵士{n}その痛々しい傷跡は{n}戦闘の壮絶さを想起させる…",
-  "en": "",
-  "status": ""
+  "en": "A soldier wounded in battle. The painful scars recall how fierce it was.",
+  "status": "done"
  },
  {
   "id": "eboot_261CB8",
@@ -2394,8 +2394,8 @@
    }
   ],
   "jp": "人目を避けて作戦行動する隠密{n}秘密裏にもたらされる情報が{n}勝利の鍵となる…",
-  "en": "",
-  "status": ""
+  "en": "A spy who works unseen. Secret reports are the key to victory...",
+  "status": "done"
  },
  {
   "id": "eboot_261D0C",
@@ -2408,8 +2408,8 @@
    }
   ],
   "jp": "一般人男",
-  "en": "",
-  "status": ""
+  "en": "Commoner Man",
+  "status": "done"
  },
  {
   "id": "eboot_261D18",
@@ -2425,8 +2425,8 @@
    }
   ],
   "jp": "つつがない幸せを謳歌する民衆",
-  "en": "",
-  "status": ""
+  "en": "Common people, enjoying a peaceful, happy life.",
+  "status": "done"
  },
  {
   "id": "eboot_261D38",
@@ -2439,8 +2439,8 @@
    }
   ],
   "jp": "一般人女",
-  "en": "",
-  "status": ""
+  "en": "Commoner Woman",
+  "status": "done"
  },
  {
   "id": "eboot_261D44",
@@ -2467,8 +2467,8 @@
    }
   ],
   "jp": "強い意志を感じる青年",
-  "en": "",
-  "status": ""
+  "en": "A young man with a strong will.",
+  "status": "done"
  },
  {
   "id": "eboot_261D64",
@@ -2495,8 +2495,8 @@
    }
   ],
   "jp": "若くてきれいなお姉さん",
-  "en": "",
-  "status": ""
+  "en": "A pretty young lady.",
+  "status": "done"
  },
  {
   "id": "eboot_261D88",
@@ -2523,8 +2523,8 @@
    }
   ],
   "jp": "長年の知識と経験を備えた老人",
-  "en": "",
-  "status": ""
+  "en": "An old man with long years of knowledge and experience.",
+  "status": "done"
  },
  {
   "id": "eboot_261DB0",
@@ -2551,8 +2551,8 @@
    }
   ],
   "jp": "かなりの歳を召したお婆さん",
-  "en": "",
-  "status": ""
+  "en": "A very old woman.",
+  "status": "done"
  },
  {
   "id": "eboot_261DD4",
@@ -2579,8 +2579,8 @@
    }
   ],
   "jp": "怪しげな風貌の男性",
-  "en": "",
-  "status": ""
+  "en": "A suspicious-looking man.",
+  "status": "done"
  },
  {
   "id": "eboot_261DF0",
@@ -2607,8 +2607,8 @@
    }
   ],
   "jp": "いかにも高位の人間らしい{n}裕福そうな男性",
-  "en": "",
-  "status": ""
+  "en": "A wealthy-looking man, clearly of high rank.",
+  "status": "done"
  },
  {
   "id": "eboot_261E20",
@@ -2635,8 +2635,8 @@
    }
   ],
   "jp": "敬虔で慈悲深い神父様",
-  "en": "",
-  "status": ""
+  "en": "A pious and merciful priest.",
+  "status": "done"
  },
  {
   "id": "eboot_261E40",
@@ -2663,8 +2663,8 @@
    }
   ],
   "jp": "物と金の流れを知り尽くす商人{n}留まる者、流れ歩く者…{n}人それぞれである",
-  "en": "",
-  "status": ""
+  "en": "Merchants who know the flow of gold. Some settle, some wander.",
+  "status": "done"
  },
  {
   "id": "eboot_261E90",
@@ -2691,8 +2691,8 @@
    }
   ],
   "jp": "狩猟や遊牧、農耕など{n}自然と共に生きる民",
-  "en": "",
-  "status": ""
+  "en": "People who live with nature: hunting, herding and farming.",
+  "status": "done"
  },
  {
   "id": "eboot_261EC0",
@@ -2719,8 +2719,8 @@
    }
   ],
   "jp": "心優しいお母さん",
-  "en": "",
-  "status": ""
+  "en": "A kindhearted mother.",
+  "status": "done"
  },
  {
   "id": "eboot_261EDC",
@@ -2747,8 +2747,8 @@
    }
   ],
   "jp": "まだ幼い女の子",
-  "en": "",
-  "status": ""
+  "en": "A very young girl.",
+  "status": "done"
  },
  {
   "id": "eboot_261EF4",
@@ -2775,8 +2775,8 @@
    }
   ],
   "jp": "好奇心旺盛な妖精",
-  "en": "",
-  "status": ""
+  "en": "A curious fairy.",
+  "status": "done"
  },
  {
   "id": "eboot_261F10",
@@ -2789,8 +2789,8 @@
    }
   ],
   "jp": "貧民男",
-  "en": "",
-  "status": ""
+  "en": "Poor Man",
+  "status": "done"
  },
  {
   "id": "eboot_261F18",
@@ -2806,8 +2806,8 @@
    }
   ],
   "jp": "貧しい生活を強いられる民衆",
-  "en": "",
-  "status": ""
+  "en": "People forced to live in poverty.",
+  "status": "done"
  },
  {
   "id": "eboot_261F34",
@@ -2820,8 +2820,8 @@
    }
   ],
   "jp": "貧民女",
-  "en": "",
-  "status": ""
+  "en": "Poor Woman",
+  "status": "done"
  },
  {
   "id": "eboot_261F3C",
@@ -2834,8 +2834,8 @@
    }
   ],
   "jp": "傀儡師の弦先に眠る{n}大いなる破壊者…{n}　　　　　‐傀儡師エクシール",
-  "en": "",
-  "status": ""
+  "en": "The great destroyer asleep on the strings...{n}-Exeel the Puppeteer",
+  "status": "done"
  },
  {
   "id": "eboot_261F80",
@@ -2848,8 +2848,8 @@
    }
   ],
   "jp": "憎しみの力を以て{n}冥府の門を叩く死者…{n}　　　　　　　‐屍術師ネルダ",
-  "en": "",
-  "status": ""
+  "en": "The dead who knock at Hell's gate in hate...{n}-Nelda the Necromancer",
+  "status": "done"
  },
  {
   "id": "eboot_261FC4",
@@ -2862,8 +2862,8 @@
    }
   ],
   "jp": "時の移ろいとともに{n}消えゆく罪の記憶…{n}　　　　　　　　‐咎人ラウネ",
-  "en": "",
-  "status": ""
+  "en": "Memories of sin, fading with time...{n}-Raune the Sinner",
+  "status": "done"
  },
  {
   "id": "eboot_262008",
@@ -2876,8 +2876,8 @@
    }
   ],
   "jp": "毒に冒され{n}非業の死を遂げた探求者…{n}　　　　　‐復讐のバルダック",
-  "en": "",
-  "status": ""
+  "en": "A seeker poisoned, dead by a cruel fate...{n}-Baldak of Revenge",
+  "status": "done"
  },
  {
   "id": "eboot_26204C",
@@ -2890,8 +2890,8 @@
    }
   ],
   "jp": "光を奪われ{n}翼を封じられた天使…{n}　　　　　　‐堕天のエイミア",
-  "en": "",
-  "status": ""
+  "en": "An angel robbed of light, her wings sealed...{n}-Eimia the Fallen",
+  "status": "done"
  },
  {
   "id": "eboot_26208C",
@@ -2904,8 +2904,8 @@
    }
   ],
   "jp": "歴戦の中で磨かれた{n}華麗なる剣技…{n}　　　　　　　‐伝説のホーク",
-  "en": "",
-  "status": ""
+  "en": "A dazzling sword skill honed in many battles...{n}-Hawk the Legend",
+  "status": "done"
  },
  {
   "id": "eboot_2620CC",
@@ -2918,8 +2918,8 @@
    }
   ],
   "jp": "風を裂き{n}如何なるものも奪い取る影…{n}　　　　　　　‐風魔サエザル",
-  "en": "",
-  "status": ""
+  "en": "A shadow that splits the wind and steals...{n}-Saezar the Wind Demon",
+  "status": "done"
  },
  {
   "id": "eboot_262110",
@@ -2932,8 +2932,8 @@
    }
   ],
   "jp": "紅の月の夜に現れる{n}狂気の悪魔…{n}　　　　　‐赤月の悪魔アノン",
-  "en": "",
-  "status": ""
+  "en": "A mad demon on crimson moonlit nights...{n}-Anon, Red Moon Demon",
+  "status": "done"
  },
  {
   "id": "eboot_262150",
@@ -2946,8 +2946,8 @@
    }
   ],
   "jp": "戦場を蹂躙する{n}鋼鉄の人馬…{n}　　　　　　‐鋼鉄騎士ガラド",
-  "en": "",
-  "status": ""
+  "en": "Iron cavalry that trample the battlefield...{n}-Garad the Iron Knight",
+  "status": "done"
  },
  {
   "id": "eboot_26218C",
@@ -2960,8 +2960,8 @@
    }
   ],
   "jp": "戦塵の中に現れる{n}聖杖の賢者…{n}　　　　　‐護人ハシャハティ",
-  "en": "",
-  "status": ""
+  "en": "A sage with a holy staff, in the dust of war...{n}-Hashahati the Guardian",
+  "status": "done"
  },
  {
   "id": "eboot_2621C8",
@@ -2974,8 +2974,8 @@
    }
   ],
   "jp": "地獄の業火を纏った{n}紅の魔導師…{n}　　　　　　‐大魔導マゼンデ",
-  "en": "",
-  "status": ""
+  "en": "A crimson mage clad in hellfire...{n}-Magende the Archmage",
+  "status": "done"
  },
  {
   "id": "eboot_262208",
@@ -2988,8 +2988,8 @@
    }
   ],
   "jp": "幾多の悲しみを閉じ込める{n}氷の柩…{n}　　　　　‐氷葬のエンリュケ",
-  "en": "",
-  "status": ""
+  "en": "A coffin of ice locking in countless sorrows...{n}-Enruke of the Ice Tomb",
+  "status": "done"
  },
  {
   "id": "eboot_262248",
@@ -3002,8 +3002,8 @@
    }
   ],
   "jp": "閃光と共に天空を駆ける{n}気まぐれな雷神…{n}　　　　　　‐天空のルキオン",
-  "en": "",
-  "status": ""
+  "en": "A whimsical thunder god racing across the sky...{n}-Lucion of the Sky",
+  "status": "done"
  },
  {
   "id": "eboot_262290",
@@ -3016,8 +3016,8 @@
    }
   ],
   "jp": "地に生を受けながら{n}その心は天上にあり…{n}　　　　　‐聖アスタ＝ナレフ",
-  "en": "",
-  "status": ""
+  "en": "Born on earth, heart in heaven...{n}-Saint Asta-Naref",
+  "status": "done"
  },
  {
   "id": "eboot_2622D8",
@@ -3030,8 +3030,8 @@
    }
   ],
   "jp": "秘剣と秘技を以て{n}魔竜を倒した男…{n}　　　　　‐竜殺しの英雄ギル",
-  "en": "",
-  "status": ""
+  "en": "He felled the demon dragon with secret arts...{n}-Gil the Dragon Slayer",
+  "status": "done"
  },
  {
   "id": "eboot_262318",
@@ -3044,8 +3044,8 @@
    }
   ],
   "jp": "神に代わりて{n}断罪を行なう怒れる巨人…{n}　　　　‐怒りの巨人ドークス",
-  "en": "",
-  "status": ""
+  "en": "An angry giant judging in God's place...{n}-Dokes the Angry Giant",
+  "status": "done"
  },
  {
   "id": "eboot_26235C",
@@ -3058,8 +3058,8 @@
    }
   ],
   "jp": "片翼を持って生まれた{n}双生の女神…{n}　　　　　‐双生のアリステラ",
-  "en": "",
-  "status": ""
+  "en": "Twin goddess born with one wing...{n}-Aristella the Twin",
+  "status": "done"
  },
  {
   "id": "eboot_26239C",
@@ -3072,8 +3072,8 @@
    }
   ],
   "jp": "悲劇的な革命の中に生まれた{n}伝説の戦乙女…{n}　　　　‐戦女神ニルヴァーナ",
-  "en": "",
-  "status": ""
+  "en": "War maiden born of tragic revolution...{n}-Nirvana, War Goddess",
+  "status": "done"
  },
  {
   "id": "eboot_2623E4",
@@ -3086,8 +3086,8 @@
    }
   ],
   "jp": "鳳凰ミュルミナムスに愛されし{n}天来の皇女…{n}　　　　　‐創生のパルティナ",
-  "en": "",
-  "status": ""
+  "en": "Heaven-sent princess, loved by a Phoenix...{n}-Paltina of Creation",
+  "status": "done"
  },
  {
   "id": "eboot_26242C",
@@ -3100,8 +3100,8 @@
    }
   ],
   "jp": "深き森の中の{n}知られざる聖域に棲む乙女…{n}　　　　‐半獣の乙女ラクシミ",
-  "en": "",
-  "status": ""
+  "en": "A maiden in a deep forest sanctuary...{n}-Lakshimi, Beast-Maiden",
+  "status": "done"
  },
  {
   "id": "eboot_262474",
@@ -3114,8 +3114,8 @@
    }
   ],
   "jp": "全ての穢れを落とす{n}と云われる聖なる泉…{n}　　　　‐聖泉の精霊キュリン",
-  "en": "",
-  "status": ""
+  "en": "A holy spring that washes stains away...{n}-Curin, Spring Spirit",
+  "status": "done"
  },
  {
   "id": "eboot_2624BC",
@@ -3128,8 +3128,8 @@
    }
   ],
   "jp": "漆黒の闇より出でる{n}妖艶なる悪魔…{n}　　　　‐闇の女帝ヴァネッサ",
-  "en": "",
-  "status": ""
+  "en": "A bewitching demon from the dark...{n}-Vanessa, Dark Empress",
+  "status": "done"
  },
  {
   "id": "eboot_2624FC",
@@ -3142,8 +3142,8 @@
    }
   ],
   "jp": "光見えぬ目で未来を見{n}物言わぬ口で語る占師…{n}　　　　　　　‐占師パスラハ",
-  "en": "",
-  "status": ""
+  "en": "Seer with sightless eyes and a silent mouth...{n}-Pasraha the Seer",
+  "status": "done"
  },
  {
   "id": "eboot_262548",
@@ -3156,8 +3156,8 @@
    }
   ],
   "jp": "気まぐれな妖精と{n}虹色の水晶玉…{n}　　　　　　　‐夢見のルビナ",
-  "en": "",
-  "status": ""
+  "en": "A whimsical fairy and a rainbow crystal ball...{n}-Rubina the Dreamer",
+  "status": "done"
  },
  {
   "id": "eboot_262588",
@@ -3170,8 +3170,8 @@
    }
   ],
   "jp": "死に逝く者を選定し{n}死を告げる乙女…{n}　　　　　　　‐葬送のイオナ",
-  "en": "",
-  "status": ""
+  "en": "She chooses the dying and tells of death...{n}-Iona the Mourner",
+  "status": "done"
  },
  {
   "id": "eboot_2625CC",
@@ -3184,8 +3184,8 @@
    }
   ],
   "jp": "樹木とともに生きる{n}気高き精霊…{n}　　　　‐樹木の精霊ドリアデ",
-  "en": "",
-  "status": ""
+  "en": "A noble spirit living with the trees...{n}-Dryad, Tree Spirit",
+  "status": "done"
  },
  {
   "id": "eboot_26260C",
@@ -3198,8 +3198,8 @@
    }
   ],
   "jp": "大いなる砂の海を{n}見守る番人…{n}　　　　　‐砂漠の番人ラーサ",
-  "en": "",
-  "status": ""
+  "en": "A guardian watching over the great sea of sand...{n}-Rasa, Desert Guardian",
+  "status": "done"
  },
  {
   "id": "eboot_262648",
@@ -3212,8 +3212,8 @@
    }
   ],
   "jp": "女神にその美貌を妬まれし娘…{n}　{n}　　　　‐魔性のエンドメイラ",
-  "en": "",
-  "status": ""
+  "en": "A beauty who made a goddess jealous...{n}-Endmeira, Temptress",
+  "status": "done"
  },
  {
   "id": "eboot_262688",
@@ -3226,8 +3226,8 @@
    }
   ],
   "jp": "人里離れた荒野に棲む{n}悪戯好きの小悪魔…{n}　　　‐小悪魔リップフェイク",
-  "en": "",
-  "status": ""
+  "en": "A mischievous devil in the far wilds...{n}-Rip Fake the Little Devil",
+  "status": "done"
  },
  {
   "id": "eboot_2626D0",
@@ -3240,8 +3240,8 @@
    }
   ],
   "jp": "幾多の外敵から{n}国を守りぬいた稀代の皇帝…{n}　　　　‐獅子王アレムロンド",
-  "en": "",
-  "status": ""
+  "en": "A peerless emperor who defended his land...{n}-Lion King Alemlond",
+  "status": "done"
  },
  {
   "id": "eboot_262718",
@@ -3254,8 +3254,8 @@
    }
   ],
   "jp": "紅蓮の邪気を纏い{n}深淵より出でし魔竜…{n}　　　　‐煉獄の魔竜ブロンガ",
-  "en": "",
-  "status": ""
+  "en": "Demon dragon from the depths...{n}-Brongaa of Purgatory",
+  "status": "done"
  },
  {
   "id": "eboot_26275C",
@@ -3268,8 +3268,8 @@
    }
   ],
   "jp": "死ぬことも叶わず{n}生きることも叶わず…{n}　　　　　‐名を奪われし天使",
-  "en": "",
-  "status": ""
+  "en": "Unable to die, unable to live...{n}-The Nameless Angel",
+  "status": "done"
  },
  {
   "id": "eboot_2627A0",
@@ -3282,8 +3282,8 @@
    }
   ],
   "jp": "暁を呼ぶ賢者が{n}黎明の鐘を打ち鳴らすとき…{n}　　　　　　‐暁のゾイエック",
-  "en": "",
-  "status": ""
+  "en": "When the sage who calls the dawn rings the bell...{n}-Zoiek of the Dawn",
+  "status": "done"
  },
  {
   "id": "eboot_2627E8",
@@ -3296,8 +3296,8 @@
    }
   ],
   "jp": "忌み人の衣を纏い{n}まどろみに生きる妖魔…{n}　　　　‐灰被りのマイメイエ",
-  "en": "",
-  "status": ""
+  "en": "A demon in outcasts' robes, asleep...{n}-Maimeye the Ash-Clad",
+  "status": "done"
  },
  {
   "id": "eboot_262830",
@@ -3310,8 +3310,8 @@
    }
   ],
   "jp": "持たざる者の手によりて{n}紡がれた漆黒の翼…{n}　　　　　‐告死天使キュルケ",
-  "en": "",
-  "status": ""
+  "en": "Pitch-black wings woven by one who has nothing...{n}-Circe, Angel of Death",
+  "status": "done"
  },
  {
   "id": "eboot_262878",
@@ -3324,8 +3324,8 @@
    }
   ],
   "jp": "契約に籠められた{n}雄雄しい光…{n}　　‐ヘグゼーの従順たる獣人",
-  "en": "",
-  "status": ""
+  "en": "Valiant light held in a contract...{n}-Hegzee's Beast-Man",
+  "status": "done"
  },
  {
   "id": "eboot_2628B4",
@@ -3338,8 +3338,8 @@
    }
   ],
   "jp": "人々に災いを運ぶ{n}狂気の悪魔…{n}　　　　　　‐狂風のネルガー",
-  "en": "",
-  "status": ""
+  "en": "A mad demon who brings people disaster...{n}-Nergar of the Mad Wind",
+  "status": "done"
  },
  {
   "id": "eboot_2628F0",
@@ -3352,8 +3352,8 @@
    }
   ],
   "jp": "奇跡を引き寄せ{n}逆境を越える不屈の射手…{n}　　　　　‐加護のレティオル",
-  "en": "",
-  "status": ""
+  "en": "An indomitable archer who draws miracles...{n}-Retiol of Protection",
+  "status": "done"
  },
  {
   "id": "eboot_262938",
@@ -3366,8 +3366,8 @@
    }
   ],
   "jp": "いつの日かの物語",
-  "en": "",
-  "status": ""
+  "en": "Tale of Someday",
+  "status": "done"
  },
  {
   "id": "eboot_26294C",
@@ -3380,8 +3380,8 @@
    }
   ],
   "jp": "【オープニング曲】{n}歴史の横糸は、戦いの記憶…",
-  "en": "",
-  "status": ""
+  "en": "[Opening Theme]{n}History's weft is the memory of battle...",
+  "status": "done"
  },
  {
   "id": "eboot_26297C",
@@ -3394,8 +3394,8 @@
    }
   ],
   "jp": "ブレイズ・ユニオン",
-  "en": "",
-  "status": ""
+  "en": "Blaze Union",
+  "status": "done"
  },
  {
   "id": "eboot_262990",
@@ -3408,8 +3408,8 @@
    }
   ],
   "jp": "【タイトル画面曲】{n}歴史は人によって作られゆく…",
-  "en": "",
-  "status": ""
+  "en": "[Title Screen Theme]{n}History is made by people...",
+  "status": "done"
  },
  {
   "id": "eboot_2629C0",
@@ -3422,8 +3422,8 @@
    }
   ],
   "jp": "集いし者達",
-  "en": "",
-  "status": ""
+  "en": "Those Who Gather",
+  "status": "done"
  },
  {
   "id": "eboot_2629CC",
@@ -3436,8 +3436,8 @@
    }
   ],
   "jp": "【デモシーン曲】{n}戦場を駈け抜ける勇者達を見よ",
-  "en": "",
-  "status": ""
+  "en": "[Demo Scene Theme]{n}Behold the heroes racing across the battlefield.",
+  "status": "done"
  },
  {
   "id": "eboot_2629FC",
@@ -3450,8 +3450,8 @@
    }
   ],
   "jp": "ソルティエ帝の政治は治安を{n}悪化させ、平穏は引き裂かれた",
-  "en": "",
-  "status": ""
+  "en": "Emperor Soltier's rule tore the peace apart and wrecked public order.",
+  "status": "done"
  },
  {
   "id": "eboot_262A34",
@@ -3464,8 +3464,8 @@
    }
   ],
   "jp": "闘争の気配",
-  "en": "",
-  "status": ""
+  "en": "Signs of Struggle",
+  "status": "done"
  },
  {
   "id": "eboot_262A40",
@@ -3478,8 +3478,8 @@
    }
   ],
   "jp": "意気上がる戦況説明の陣内{n}戦いは間近に迫っていた…",
-  "en": "",
-  "status": ""
+  "en": "Spirits high at the battle briefing, the fight drew near...",
+  "status": "done"
  },
  {
   "id": "eboot_262A74",
@@ -3492,8 +3492,8 @@
    }
   ],
   "jp": "いざ出撃！",
-  "en": "",
-  "status": ""
+  "en": "Sortie!",
+  "status": "done"
  },
  {
   "id": "eboot_262A80",
@@ -3506,8 +3506,8 @@
    }
   ],
   "jp": "緊迫の出陣準備の時{n}不屈の布陣で戦闘に臨むのだ！",
-  "en": "",
-  "status": ""
+  "en": "A tense moment before the sortie. Face battle in unyielding formation!",
+  "status": "done"
  },
  {
   "id": "eboot_262AB0",
@@ -3520,8 +3520,8 @@
    }
   ],
   "jp": "その絆、信じてる",
-  "en": "",
-  "status": ""
+  "en": "I Trust That Bond",
+  "status": "done"
  },
  {
   "id": "eboot_262AC4",
@@ -3534,8 +3534,8 @@
    }
   ],
   "jp": "ユニオンを結成せよ！{n}共に戦う仲間を信じるのだ！",
-  "en": "",
-  "status": ""
+  "en": "Form a Union! Trust the friends you fight beside!",
+  "status": "done"
  },
  {
   "id": "eboot_262AF4",
@@ -3548,8 +3548,8 @@
    }
   ],
   "jp": "凱旋",
-  "en": "",
-  "status": ""
+  "en": "Triumphant Return",
+  "status": "done"
  },
  {
   "id": "eboot_262AFC",
@@ -3562,8 +3562,8 @@
    }
   ],
   "jp": "戦いの帰趨は勝利か敗北か…{n}願わくば未来へと続く道であれ",
-  "en": "",
-  "status": ""
+  "en": "Victory or defeat in battle... May it be a road to the future.",
+  "status": "done"
  },
  {
   "id": "eboot_262B34",
@@ -3576,8 +3576,8 @@
    }
   ],
   "jp": "平和の匂い",
-  "en": "",
-  "status": ""
+  "en": "Scent of Peace",
+  "status": "done"
  },
  {
   "id": "eboot_262B40",
@@ -3590,8 +3590,8 @@
    }
   ],
   "jp": "痛み、苦しむ民衆の声を聞いて{n}胸に去来する感情とは…？",
-  "en": "",
-  "status": ""
+  "en": "Hearing the pain of the suffering people, what feeling comes to mind...?",
+  "status": "done"
  },
  {
   "id": "eboot_262B78",
@@ -3604,8 +3604,8 @@
    }
   ],
   "jp": "揺るぎない信念",
-  "en": "",
-  "status": ""
+  "en": "Unshakable Belief",
+  "status": "done"
  },
  {
   "id": "eboot_262B88",
@@ -3618,8 +3618,8 @@
    }
   ],
   "jp": "その心に信念を持つ者は、{n}どんな苦難も破る勇者となる！",
-  "en": "",
-  "status": ""
+  "en": "Whoever holds belief at heart becomes a hero who beats any hardship!",
+  "status": "done"
  },
  {
   "id": "eboot_262BC0",
@@ -3632,8 +3632,8 @@
    }
   ],
   "jp": "仇敵",
-  "en": "",
-  "status": ""
+  "en": "Sworn Foe",
+  "status": "done"
  },
  {
   "id": "eboot_262BC8",
@@ -3646,8 +3646,8 @@
    }
   ],
   "jp": "戦場に漂う不穏な気配…{n}まさか、アイツがやってきた×",
-  "en": "",
-  "status": ""
+  "en": "An uneasy air on the battlefield... Don't tell me, that guy's here!!",
+  "status": "done"
  },
  {
   "id": "eboot_262BFC",
@@ -3660,8 +3660,8 @@
    }
   ],
   "jp": "侵された平穏",
-  "en": "",
-  "status": ""
+  "en": "Peace Violated",
+  "status": "done"
  },
  {
   "id": "eboot_262C0C",
@@ -3674,8 +3674,8 @@
    }
   ],
   "jp": "不測の事態、発生！{n}緊迫感を退けて危地を脱せよ！",
-  "en": "",
-  "status": ""
+  "en": "Emergency! Shake off the tension and escape the danger!",
+  "status": "done"
  },
  {
   "id": "eboot_262C3C",
@@ -3688,8 +3688,8 @@
    }
   ],
   "jp": "涙こぼれて…",
-  "en": "",
-  "status": ""
+  "en": "Falling Tears",
+  "status": "done"
  },
  {
   "id": "eboot_262C4C",
@@ -3702,8 +3702,8 @@
    }
   ],
   "jp": "悲劇は、時に理不尽に現れ{n}大切な者を奪い去る…",
-  "en": "",
-  "status": ""
+  "en": "Tragedy strikes, at times without reason, and takes those you love...",
+  "status": "done"
  },
  {
   "id": "eboot_262C7C",
@@ -3716,8 +3716,8 @@
    }
   ],
   "jp": "歴史のただ中で",
-  "en": "",
-  "status": ""
+  "en": "In History's Midst",
+  "status": "done"
  },
  {
   "id": "eboot_262C8C",
@@ -3730,8 +3730,8 @@
    }
   ],
   "jp": "戦い抜いた歴史を綴ろう{n}喜びも悲しみも、すべて…",
-  "en": "",
-  "status": ""
+  "en": "Let us write the history we fought through, every joy and every sorrow...",
+  "status": "done"
  },
  {
   "id": "eboot_262CBC",
@@ -3744,8 +3744,8 @@
    }
   ],
   "jp": "火花",
-  "en": "",
-  "status": ""
+  "en": "Sparks",
+  "status": "done"
  },
  {
   "id": "eboot_262CC4",
@@ -3758,8 +3758,8 @@
    }
   ],
   "jp": "【進軍テーマ】{n}怯まずに勇往邁進するのだ！",
-  "en": "",
-  "status": ""
+  "en": "[March Theme]{n}Don't flinch, press bravely on!",
+  "status": "done"
  },
  {
   "id": "eboot_262CF0",
@@ -3772,8 +3772,8 @@
    }
   ],
   "jp": "打開策",
-  "en": "",
-  "status": ""
+  "en": "The Way Out",
+  "status": "done"
  },
  {
   "id": "eboot_262CF8",
@@ -3786,8 +3786,8 @@
    }
   ],
   "jp": "【進軍テーマ】{n}作戦に失敗は許されない…",
-  "en": "",
-  "status": ""
+  "en": "[March Theme]{n}No failure allowed in this operation...",
+  "status": "done"
  },
  {
   "id": "eboot_262D20",
@@ -3800,8 +3800,8 @@
    }
   ],
   "jp": "危地",
-  "en": "",
-  "status": ""
+  "en": "Danger Zone",
+  "status": "done"
  },
  {
   "id": "eboot_262D28",
@@ -3814,8 +3814,8 @@
    }
   ],
   "jp": "【進軍テーマ】{n}あがき！　そして生きよ⑭",
-  "en": "",
-  "status": ""
+  "en": "[March Theme]{n}Struggle! And live!",
+  "status": "done"
  },
  {
   "id": "eboot_262D50",
@@ -3828,8 +3828,8 @@
    }
   ],
   "jp": "誰がための力",
-  "en": "",
-  "status": ""
+  "en": "Power for Whom",
+  "status": "done"
  },
  {
   "id": "eboot_262D60",
@@ -3842,8 +3842,8 @@
    }
   ],
   "jp": "【進軍テーマ】{n}この命は誰が為にある…",
-  "en": "",
-  "status": ""
+  "en": "[March Theme]{n}For whom is this life...",
+  "status": "done"
  },
  {
   "id": "eboot_262D88",
@@ -3856,8 +3856,8 @@
    }
   ],
   "jp": "兵は神速を貴ぶ",
-  "en": "",
-  "status": ""
+  "en": "Speed Is Divine",
+  "status": "done"
  },
  {
   "id": "eboot_262D98",
@@ -3870,8 +3870,8 @@
    }
   ],
   "jp": "【進軍テーマ】{n}進軍の遅れは敗北と同意！",
-  "en": "",
-  "status": ""
+  "en": "[March Theme]{n}A slow march means defeat!",
+  "status": "done"
  },
  {
   "id": "eboot_262DC0",
@@ -3884,8 +3884,8 @@
    }
   ],
   "jp": "限界の果てに",
-  "en": "",
-  "status": ""
+  "en": "Beyond the Limit",
+  "status": "done"
  },
  {
   "id": "eboot_262DD0",
@@ -3898,8 +3898,8 @@
    }
   ],
   "jp": "【進軍テーマ】{n}激突の中に勝機を見いだせ！",
-  "en": "",
-  "status": ""
+  "en": "[March Theme]{n}Find your chance in the clash!",
+  "status": "done"
  },
  {
   "id": "eboot_262DFC",
@@ -3912,8 +3912,8 @@
    }
   ],
   "jp": "堅固なる城砦",
-  "en": "",
-  "status": ""
+  "en": "Mighty Citadel",
+  "status": "done"
  },
  {
   "id": "eboot_262E0C",
@@ -3926,8 +3926,8 @@
    }
   ],
   "jp": "【進軍テーマ】{n}堅門を突破し、勝利を謳え！",
-  "en": "",
-  "status": ""
+  "en": "[March Theme]{n}Break the great gate and sing of victory!",
+  "status": "done"
  },
  {
   "id": "eboot_262E38",
@@ -3940,8 +3940,8 @@
    }
   ],
   "jp": "決着の時、来たる",
-  "en": "",
-  "status": ""
+  "en": "Time to Settle It",
+  "status": "done"
  },
  {
   "id": "eboot_262E4C",
@@ -3954,8 +3954,8 @@
    }
   ],
   "jp": "【進軍テーマ】{n}神話との決別、全てを人の手に",
-  "en": "",
-  "status": ""
+  "en": "[March Theme]{n}Farewell to myth, all in human hands",
+  "status": "done"
  },
  {
   "id": "eboot_262E78",
@@ -3968,8 +3968,8 @@
    }
   ],
   "jp": "沸き立つ血肉",
-  "en": "",
-  "status": ""
+  "en": "Boiling Blood",
+  "status": "done"
  },
  {
   "id": "eboot_262E88",
@@ -3982,8 +3982,8 @@
    }
   ],
   "jp": "【敵進軍テーマ】{n}屈強なる帝国軍を迎撃せよ！",
-  "en": "",
-  "status": ""
+  "en": "[Enemy March Theme]{n}Meet the mighty Imperial Army!",
+  "status": "done"
  },
  {
   "id": "eboot_262EB4",
@@ -3996,8 +3996,8 @@
    }
   ],
   "jp": "貪欲なる衝動",
-  "en": "",
-  "status": ""
+  "en": "Greedy Impulse",
+  "status": "done"
  },
  {
   "id": "eboot_262EC4",
@@ -4010,8 +4010,8 @@
    }
   ],
   "jp": "【敵進軍テーマ】{n}グラムブレイズの力を示せ！",
-  "en": "",
-  "status": ""
+  "en": "[Enemy March Theme]{n}Show Gram Blaze's strength!",
+  "status": "done"
  },
  {
   "id": "eboot_262EF0",
@@ -4038,8 +4038,8 @@
    }
   ],
   "jp": "【敵進軍テーマ】{n}我らの戦いは孤独にあらず！",
-  "en": "",
-  "status": ""
+  "en": "[Enemy March Theme]{n}We do not fight alone!",
+  "status": "done"
  },
  {
   "id": "eboot_262F28",
@@ -4052,8 +4052,8 @@
    }
   ],
   "jp": "天意が示す道",
-  "en": "",
-  "status": ""
+  "en": "The Road of Heaven",
+  "status": "done"
  },
  {
   "id": "eboot_262F38",
@@ -4066,8 +4066,8 @@
    }
   ],
   "jp": "【敵進軍テーマ】{n}勝利を呼ぶのは天意である！",
-  "en": "",
-  "status": ""
+  "en": "[Enemy March Theme]{n}Heaven's will calls victory!",
+  "status": "done"
  },
  {
   "id": "eboot_262F64",
@@ -4080,8 +4080,8 @@
    }
   ],
   "jp": "怒れる炎",
-  "en": "",
-  "status": ""
+  "en": "Angry Flame",
+  "status": "done"
  },
  {
   "id": "eboot_262F70",
@@ -4094,8 +4094,8 @@
    }
   ],
   "jp": "【ガーロットのテーマ】{n}勇猛果敢に先陣を切る！",
-  "en": "",
-  "status": ""
+  "en": "[Garlot's Theme]{n}Boldly leading the charge!",
+  "status": "done"
  },
  {
   "id": "eboot_262FA0",
@@ -4108,8 +4108,8 @@
    }
   ],
   "jp": "せめて心に花を",
-  "en": "",
-  "status": ""
+  "en": "Flower in the Heart",
+  "status": "done"
  },
  {
   "id": "eboot_262FB0",
@@ -4122,8 +4122,8 @@
    }
   ],
   "jp": "【シスキアのテーマ】{n}敵陣を華麗に撹乱する！",
-  "en": "",
-  "status": ""
+  "en": "[Siskier's Theme]{n}Dazzling confusion in the enemy camp!",
+  "status": "done"
  },
  {
   "id": "eboot_262FDC",
@@ -4136,8 +4136,8 @@
    }
   ],
   "jp": "機知の行方",
-  "en": "",
-  "status": ""
+  "en": "Where Wit Goes",
+  "status": "done"
  },
  {
   "id": "eboot_262FE8",
@@ -4150,8 +4150,8 @@
    }
   ],
   "jp": "【ジェノンのテーマ】{n}その知恵こそが勝利の秘訣！",
-  "en": "",
-  "status": ""
+  "en": "[Jenon's Theme]{n}His wisdom is the secret of victory!",
+  "status": "done"
  },
  {
   "id": "eboot_263018",
@@ -4164,8 +4164,8 @@
    }
   ],
   "jp": "強くある覚悟",
-  "en": "",
-  "status": ""
+  "en": "Resolve to Be Firm",
+  "status": "done"
  },
  {
   "id": "eboot_263028",
@@ -4178,8 +4178,8 @@
    }
   ],
   "jp": "【メデューテのテーマ】{n}戦斧を振るいて突破口を開く！",
-  "en": "",
-  "status": ""
+  "en": "[Medoute's Theme]{n}Swinging her axe to open a breach!",
+  "status": "done"
  },
  {
   "id": "eboot_26305C",
@@ -4192,8 +4192,8 @@
    }
   ],
   "jp": "幼さは罪を知らず",
-  "en": "",
-  "status": ""
+  "en": "Innocent of Sin",
+  "status": "done"
  },
  {
   "id": "eboot_263070",
@@ -4206,8 +4206,8 @@
    }
   ],
   "jp": "【エミリオのテーマ】{n}幼きグリフライダー、参戦！",
-  "en": "",
-  "status": ""
+  "en": "[Emilia's Theme]{n}A young griffon rider joins the fight!",
+  "status": "done"
  },
  {
   "id": "eboot_2630A0",
@@ -4220,8 +4220,8 @@
    }
   ],
   "jp": "剣を振るう理由",
-  "en": "",
-  "status": ""
+  "en": "Reason to Fight",
+  "status": "done"
  },
  {
   "id": "eboot_2630B0",
@@ -4234,8 +4234,8 @@
    }
   ],
   "jp": "【アイギナのテーマ】{n}グラムブレイズに忠誠を誓う！",
-  "en": "",
-  "status": ""
+  "en": "[Aegina's Theme]{n}Sworn to Gram Blaze!",
+  "status": "done"
  },
  {
   "id": "eboot_2630E4",
@@ -4248,8 +4248,8 @@
    }
   ],
   "jp": "掌中の劇場",
-  "en": "",
-  "status": ""
+  "en": "Theater in My Hand",
+  "status": "done"
  },
  {
   "id": "eboot_2630F0",
@@ -4262,8 +4262,8 @@
    }
   ],
   "jp": "【ネシアのテーマ】{n}脅威の預言者にして屍術師！",
-  "en": "",
-  "status": ""
+  "en": "[Nessiah's Theme]{n}A fearsome prophet and necromancer!",
+  "status": "done"
  },
  {
   "id": "eboot_263120",
@@ -4276,8 +4276,8 @@
    }
   ],
   "jp": "価値観の問題",
-  "en": "",
-  "status": ""
+  "en": "A Matter of Values",
+  "status": "done"
  },
  {
   "id": "eboot_263130",
@@ -4290,8 +4290,8 @@
    }
   ],
   "jp": "【セリカのテーマ】{n}ガーロットをつけ狙う女傭兵！",
-  "en": "",
-  "status": ""
+  "en": "[Cerica's Theme]{n}A mercenary on Garlot's trail!",
+  "status": "done"
  },
  {
   "id": "eboot_263160",
@@ -4304,8 +4304,8 @@
    }
   ],
   "jp": "荒ぶれば勇ましく",
-  "en": "",
-  "status": ""
+  "en": "Wild and Valiant",
+  "status": "done"
  },
  {
   "id": "eboot_263174",
@@ -4318,8 +4318,8 @@
    }
   ],
   "jp": "【レオンのテーマ】{n}気に入らなければ容赦しない！",
-  "en": "",
-  "status": ""
+  "en": "[Leon's Theme]{n}Displease him and he shows no mercy!",
+  "status": "done"
  },
  {
   "id": "eboot_2631A4",
@@ -4332,8 +4332,8 @@
    }
   ],
   "jp": "はためく軍旗",
-  "en": "",
-  "status": ""
+  "en": "Flying Banners",
+  "status": "done"
  },
  {
   "id": "eboot_2631B4",
@@ -4346,8 +4346,8 @@
    }
   ],
   "jp": "【パンドラのテーマ】{n}世に夢を見、人の欲を喰らう！",
-  "en": "",
-  "status": ""
+  "en": "[Pandra's Theme]{n}Dreaming of the world, feasting on greed!",
+  "status": "done"
  },
  {
   "id": "eboot_2631E8",
@@ -4360,8 +4360,8 @@
    }
   ],
   "jp": "夜が走る",
-  "en": "",
-  "status": ""
+  "en": "Night Runs",
+  "status": "done"
  },
  {
   "id": "eboot_2631F4",
@@ -4374,8 +4374,8 @@
    }
   ],
   "jp": "【ジルヴァのテーマ】{n}闇夜からの暗殺者、推参！",
-  "en": "",
-  "status": ""
+  "en": "[Zilva's Theme]{n}An assassin from the dark night!",
+  "status": "done"
  },
  {
   "id": "eboot_263224",
@@ -4388,8 +4388,8 @@
    }
   ],
   "jp": "鬨の声",
-  "en": "",
-  "status": ""
+  "en": "War Cry",
+  "status": "done"
  },
  {
   "id": "eboot_26322C",
@@ -4402,8 +4402,8 @@
    }
   ],
   "jp": "【バルドゥスのテーマ】{n}ブロンキアの盾、戦場に赴く！",
-  "en": "",
-  "status": ""
+  "en": "[Baldus's Theme]{n}The Shield of Bronquia takes the field!",
+  "status": "done"
  },
  {
   "id": "eboot_263260",
@@ -4416,8 +4416,8 @@
    }
   ],
   "jp": "威信に賭けて",
-  "en": "",
-  "status": ""
+  "en": "On My Honor",
+  "status": "done"
  },
  {
   "id": "eboot_263270",
@@ -4430,8 +4430,8 @@
    }
   ],
   "jp": "【ラピスのテーマ】{n}その剣の意義は、主を守る為！",
-  "en": "",
-  "status": ""
+  "en": "[Lapis's Theme]{n}Her sword exists to guard her lord!",
+  "status": "done"
  },
  {
   "id": "eboot_2632A0",
@@ -4444,8 +4444,8 @@
    }
   ],
   "jp": "頂",
-  "en": "",
-  "status": ""
+  "en": "The Summit",
+  "status": "done"
  },
  {
   "id": "eboot_2632A4",
@@ -4458,8 +4458,8 @@
    }
   ],
   "jp": "【ソルティエのテーマ】{n}その双剣は不敵に敵兵を狩る！",
-  "en": "",
-  "status": ""
+  "en": "[Soltier's Theme]{n}Twin blades that fearlessly hunt foes!",
+  "status": "done"
  },
  {
   "id": "eboot_2632D8",
@@ -4472,8 +4472,8 @@
    }
   ],
   "jp": "これで万事解決×",
-  "en": "",
-  "status": ""
+  "en": "All Fixed! (Not)",
+  "status": "done"
  },
  {
   "id": "eboot_2632EC",
@@ -4486,8 +4486,8 @@
    }
   ],
   "jp": "【ミゼルのテーマ】{n}お尋ね者、私兵団に参じる！",
-  "en": "",
-  "status": ""
+  "en": "[Mizer's Theme]{n}A wanted thief joins the private army!",
+  "status": "done"
  },
  {
   "id": "eboot_26331C",
@@ -4500,8 +4500,8 @@
    }
   ],
   "jp": "酔っ払い最強伝説",
-  "en": "",
-  "status": ""
+  "en": "Legendary Drunk",
+  "status": "done"
  },
  {
   "id": "eboot_263330",
@@ -4514,8 +4514,8 @@
    }
   ],
   "jp": "【スレイプのテーマ】{n}酒の力で苦難を乗り越える！",
-  "en": "",
-  "status": ""
+  "en": "[Sleip's Theme]{n}Beating hardship with the power of drink!",
+  "status": "done"
  },
  {
   "id": "eboot_263360",
@@ -4528,8 +4528,8 @@
    }
   ],
   "jp": "魔女のダンス",
-  "en": "",
-  "status": ""
+  "en": "Witch's Dance",
+  "status": "done"
  },
  {
   "id": "eboot_263370",
@@ -4542,8 +4542,8 @@
    }
   ],
   "jp": "【パメラのテーマ】{n}キテレツ魔女っ娘、大暴れ！",
-  "en": "",
-  "status": ""
+  "en": "[Pamela's Theme]{n}A kooky witch girl runs wild!",
+  "status": "done"
  },
  {
   "id": "eboot_2633A0",
@@ -4570,8 +4570,8 @@
    }
   ],
   "jp": "【バイフーのテーマ】{n}北から来た戦慄のダジャレ獣人",
-  "en": "",
-  "status": ""
+  "en": "[Byff's Theme]{n}The chilling pun beast-man",
+  "status": "done"
  },
  {
   "id": "eboot_2633E8",
@@ -4584,8 +4584,8 @@
    }
   ],
   "jp": "強く儚く鮮やかに",
-  "en": "",
-  "status": ""
+  "en": "Strong, Frail, Vivid",
+  "status": "done"
  },
  {
   "id": "eboot_2633FC",
@@ -4598,8 +4598,8 @@
    }
   ],
   "jp": "【イータのテーマ】{n}女らしく！　そして男らしく！",
-  "en": "",
-  "status": ""
+  "en": "[Eater's Theme]{n}Ladylike! And manly too!",
+  "status": "done"
  },
  {
   "id": "eboot_26342C",
@@ -4612,8 +4612,8 @@
    }
   ],
   "jp": "飽くなき探求心",
-  "en": "",
-  "status": ""
+  "en": "Endless Curiosity",
+  "status": "done"
  },
  {
   "id": "eboot_26343C",
@@ -4626,8 +4626,8 @@
    }
   ],
   "jp": "【ユーディのテーマ】{n}大砲を操る、恐怖の魔導師！",
-  "en": "",
-  "status": ""
+  "en": "[Eudy's Theme]{n}Fearsome mage with a cannon!",
+  "status": "done"
  },
  {
   "id": "eboot_26346C",
@@ -4640,8 +4640,8 @@
    }
   ],
   "jp": "強欲のとりこ",
-  "en": "",
-  "status": ""
+  "en": "Slave to Greed",
+  "status": "done"
  },
  {
   "id": "eboot_26347C",
@@ -4654,8 +4654,8 @@
    }
   ],
   "jp": "【アランゼームのテーマ】{n}欲まみれの廷臣が権威を狙う！",
-  "en": "",
-  "status": ""
+  "en": "[Alanjame's Theme]{n}A greedy courtier eyes the throne!",
+  "status": "done"
  },
  {
   "id": "eboot_2634B4",
@@ -4668,8 +4668,8 @@
    }
   ],
   "jp": "魔剣は冴え渡り",
-  "en": "",
-  "status": ""
+  "en": "Keen Magic Blade",
+  "status": "done"
  },
  {
   "id": "eboot_2634C4",
@@ -4682,8 +4682,8 @@
    }
   ],
   "jp": "【ラッセルのテーマ】{n}王国軍の凄腕将校、見参！",
-  "en": "",
-  "status": ""
+  "en": "[Russell's Theme]{n}The Kingdom's ace officer is here!",
+  "status": "done"
  },
  {
   "id": "eboot_2634F4",
@@ -4696,8 +4696,8 @@
    }
   ],
   "jp": "王者の覇気",
-  "en": "",
-  "status": ""
+  "en": "A King's Majesty",
+  "status": "done"
  },
  {
   "id": "eboot_263500",
@@ -4710,8 +4710,8 @@
    }
   ],
   "jp": "【オルディーンのテーマ】{n}誇り高き王は義を守り抜く！",
-  "en": "",
-  "status": ""
+  "en": "[Ordene's Theme]{n}A proud king who keeps to justice!",
+  "status": "done"
  },
  {
   "id": "eboot_263534",
@@ -4724,8 +4724,8 @@
    }
   ],
   "jp": "無謬の叡智",
-  "en": "",
-  "status": ""
+  "en": "Flawless Wisdom",
+  "status": "done"
  },
  {
   "id": "eboot_263540",
@@ -4738,8 +4738,8 @@
    }
   ],
   "jp": "【ベアトリーヌのテーマ】{n}神秘の女術師、いよいよ動く！",
-  "en": "",
-  "status": ""
+  "en": "[Baretreenu's Theme]{n}The mystic sorceress moves at last!",
+  "status": "done"
  },
  {
   "id": "eboot_263578",
@@ -4752,8 +4752,8 @@
    }
   ],
   "jp": "侵食",
-  "en": "",
-  "status": ""
+  "en": "Erosion",
+  "status": "done"
  },
  {
   "id": "eboot_263580",
@@ -4766,8 +4766,8 @@
    }
   ],
   "jp": "【ブロンガのテーマ】{n}魔竜の血が戦いを求めている！",
-  "en": "",
-  "status": ""
+  "en": "[Brongaa's Theme]{n}The dragon's blood craves battle!",
+  "status": "done"
  },
  {
   "id": "eboot_2635B4",
@@ -4780,8 +4780,8 @@
    }
   ],
   "jp": "逆らえばそれは罪",
-  "en": "",
-  "status": ""
+  "en": "To Defy Is Sin",
+  "status": "done"
  },
  {
   "id": "eboot_2635C8",
@@ -4794,8 +4794,8 @@
    }
   ],
   "jp": "【帝国軍のテーマ】{n}帝国の武威を賊どもに見せよ！",
-  "en": "",
-  "status": ""
+  "en": "[Empire Theme]{n}Show the rebels the Empire's might!",
+  "status": "done"
  },
  {
   "id": "eboot_2635F8",
@@ -4808,8 +4808,8 @@
    }
   ],
   "jp": "害悪",
-  "en": "",
-  "status": ""
+  "en": "Scourge",
+  "status": "done"
  },
  {
   "id": "eboot_263600",
@@ -4822,8 +4822,8 @@
    }
   ],
   "jp": "【賊軍のテーマ】{n}力こそが真なる正義なのだ！",
-  "en": "",
-  "status": ""
+  "en": "[Rebel Theme]{n}Power is the one true justice!",
+  "status": "done"
  },
  {
   "id": "eboot_26362C",
@@ -4836,8 +4836,8 @@
    }
   ],
   "jp": "祖国に捧ぐ",
-  "en": "",
-  "status": ""
+  "en": "For the Homeland",
+  "status": "done"
  },
  {
   "id": "eboot_263638",
@@ -4850,8 +4850,8 @@
    }
   ],
   "jp": "【王国軍のテーマ】{n}決して祖国を侵させない！",
-  "en": "",
-  "status": ""
+  "en": "[Kingdom Theme]{n}The homeland shall never fall!",
+  "status": "done"
  },
  {
   "id": "eboot_263664",
@@ -4864,8 +4864,8 @@
    }
   ],
   "jp": "魔の魅惑",
-  "en": "",
-  "status": ""
+  "en": "Demonic Allure",
+  "status": "done"
  },
  {
   "id": "eboot_263670",
@@ -4878,8 +4878,8 @@
    }
   ],
   "jp": "【神生教団のテーマ】{n}天意の元、仇敵を打ち砕く！",
-  "en": "",
-  "status": ""
+  "en": "[Papal Army Theme]{n}Crush foes by Heaven's will!",
+  "status": "done"
  },
  {
   "id": "eboot_2636A0",
@@ -4892,8 +4892,8 @@
    }
   ],
   "jp": "勝利の喜び",
-  "en": "",
-  "status": ""
+  "en": "Joy of Victory",
+  "status": "done"
  },
  {
   "id": "eboot_2636AC",
@@ -4906,8 +4906,8 @@
    }
   ],
   "jp": "【勝利ジングル】{n}戦いは続く、目指すは連勝だ！",
-  "en": "",
-  "status": ""
+  "en": "[Victory Jingle]{n}The fight goes on: aim for a streak!",
+  "status": "done"
  },
  {
   "id": "eboot_2636DC",
@@ -4920,8 +4920,8 @@
    }
   ],
   "jp": "辛酸",
-  "en": "",
-  "status": ""
+  "en": "Bitter Taste",
+  "status": "done"
  },
  {
   "id": "eboot_2636E4",
@@ -4934,8 +4934,8 @@
    }
   ],
   "jp": "【敗北ジングル】{n}諦めぬ事が、勝利への鍵だ！",
-  "en": "",
-  "status": ""
+  "en": "[Defeat Jingle]{n}Never give up: that's how you win!",
+  "status": "done"
  },
  {
   "id": "eboot_263710",
@@ -4948,8 +4948,8 @@
    }
   ],
   "jp": "勝利の凱歌",
-  "en": "",
-  "status": ""
+  "en": "Song of Triumph",
+  "status": "done"
  },
  {
   "id": "eboot_26371C",
@@ -4962,8 +4962,8 @@
    }
   ],
   "jp": "【シナリオクリアジングル】{n}勝利の喜びは友と分かち合え！",
-  "en": "",
-  "status": ""
+  "en": "[Scenario Clear Jingle]{n}Share the joy of victory with friends!",
+  "status": "done"
  },
  {
   "id": "eboot_263754",
@@ -4976,8 +4976,8 @@
    }
   ],
   "jp": "膝をついた戦士達",
-  "en": "",
-  "status": ""
+  "en": "Warriors Fallen",
+  "status": "done"
  },
  {
   "id": "eboot_263768",
@@ -4990,8 +4990,8 @@
    }
   ],
   "jp": "【シナリオ未クリアジングル】{n}戦略を改め、再戦を誓え！",
-  "en": "",
-  "status": ""
+  "en": "[Scenario Failed Jingle]{n}Rethink your plan and vow a rematch!",
+  "status": "done"
  },
  {
   "id": "eboot_2637A0",
@@ -5004,8 +5004,8 @@
    }
   ],
   "jp": "手にした力の意味",
-  "en": "",
-  "status": ""
+  "en": "What Power Means",
+  "status": "done"
  },
  {
   "id": "eboot_2637B4",
@@ -5018,8 +5018,8 @@
    }
   ],
   "jp": "【エンディングテーマ曲】{n}力があればと願った、だが…",
-  "en": "",
-  "status": ""
+  "en": "[Ending Theme]{n}He wished for power, but...",
+  "status": "done"
  },
  {
   "id": "eboot_2637E8",
@@ -5032,8 +5032,8 @@
    }
   ],
   "jp": "未来へと到る物語",
-  "en": "",
-  "status": ""
+  "en": "To the Future",
+  "status": "done"
  },
  {
   "id": "eboot_2637FC",
@@ -5046,8 +5046,8 @@
    }
   ],
   "jp": "【エンディングテーマ曲】{n}まだ見ぬ未来へ物語は続く…",
-  "en": "",
-  "status": ""
+  "en": "[Ending Theme]{n}The story goes on to a future unseen...",
+  "status": "done"
  },
  {
   "id": "eboot_263830",
@@ -5060,8 +5060,8 @@
    }
   ],
   "jp": "戦いは続く…",
-  "en": "",
-  "status": ""
+  "en": "The Fight Goes On...",
+  "status": "done"
  },
  {
   "id": "eboot_263840",
@@ -5074,8 +5074,8 @@
    }
   ],
   "jp": "【スタッフロール曲】{n}①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭",
-  "en": "",
-  "status": ""
+  "en": "[Staff Roll Theme]{n}Thank you for your playing!!",
+  "status": "done"
  },
  {
   "id": "eboot_26388C",
@@ -5089,8 +5089,8 @@
    }
   ],
   "jp": "【%s】",
-  "en": "",
-  "status": ""
+  "en": "[%s]",
+  "status": "done"
  },
  {
   "id": "eboot_2638A0",
@@ -5118,8 +5118,8 @@
    }
   ],
   "jp": "ＥＸＴＲＡ　ＣＯＮＴＥＮＴＳが{n}追加されました。",
-  "en": "",
-  "status": ""
+  "en": "EXTRA CONTENTS{n}have been added.",
+  "status": "done"
  },
  {
   "id": "eboot_263988",
@@ -5132,8 +5132,8 @@
    }
   ],
   "jp": "難易度「ＨＡＲＤ」が{n}追加されました。",
-  "en": "",
-  "status": ""
+  "en": "Difficulty \"HARD\"{n}has been added.",
+  "status": "done"
  },
  {
   "id": "eboot_2639B0",
@@ -5146,8 +5146,8 @@
    }
   ],
   "jp": "ＯＰＴＩＯＮに「バトルブーストの設定」が{n}追加されました。",
-  "en": "",
-  "status": ""
+  "en": "\"Battle Boost Settings\" has been{n}added to OPTION.",
+  "status": "done"
  },
  {
   "id": "eboot_263FB8",
@@ -5160,8 +5160,8 @@
    }
   ],
   "jp": "■アイギナが撃破されると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Aegina is defeated...",
+  "status": "done"
  },
  {
   "id": "eboot_263FD4",
@@ -5174,8 +5174,8 @@
    }
   ],
   "jp": "■いずれかのメンバーが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If any member dies...",
+  "status": "done"
  },
  {
   "id": "eboot_263FF8",
@@ -5188,8 +5188,8 @@
    }
   ],
   "jp": "■エミリオが撃破されると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Emilia is defeated...",
+  "status": "done"
  },
  {
   "id": "eboot_264014",
@@ -5202,8 +5202,8 @@
    }
   ],
   "jp": "■オルディーンが脱出に失敗すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Ordene fails to escape...",
+  "status": "done"
  },
  {
   "id": "eboot_264038",
@@ -5216,8 +5216,8 @@
    }
   ],
   "jp": "■ガルカーサorネシアが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Gulcasa or Nessiah dies...",
+  "status": "done"
  },
  {
   "id": "eboot_26405C",
@@ -5230,8 +5230,8 @@
    }
   ],
   "jp": "■ガルカーサが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Gulcasa dies...",
+  "status": "done"
  },
  {
   "id": "eboot_264078",
@@ -5244,8 +5244,8 @@
    }
   ],
   "jp": "■カードを使い果たすと…",
-  "en": "",
-  "status": ""
+  "en": "■ If you run out of cards...",
+  "status": "done"
  },
  {
   "id": "eboot_264094",
@@ -5258,8 +5258,8 @@
    }
   ],
   "jp": "■ガーロットorアイギナが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Garlot or Aegina dies...",
+  "status": "done"
  },
  {
   "id": "eboot_2640BC",
@@ -5272,8 +5272,8 @@
    }
   ],
   "jp": "■ガーロットorジェノンが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Garlot or Jenon dies...",
+  "status": "done"
  },
  {
   "id": "eboot_2640E4",
@@ -5286,8 +5286,8 @@
    }
   ],
   "jp": "■ガーロットorシスキアが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Garlot or Siskier dies...",
+  "status": "done"
  },
  {
   "id": "eboot_26410C",
@@ -5300,8 +5300,8 @@
    }
   ],
   "jp": "■ガーロットorユーディが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Garlot or Eudy dies...",
+  "status": "done"
  },
  {
   "id": "eboot_264134",
@@ -5314,8 +5314,8 @@
    }
   ],
   "jp": "■ガーロットorレオンが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Garlot or Leon dies...",
+  "status": "done"
  },
  {
   "id": "eboot_264158",
@@ -5328,8 +5328,8 @@
    }
   ],
   "jp": "■ガーロットが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Garlot dies...",
+  "status": "done"
  },
  {
   "id": "eboot_264174",
@@ -5342,8 +5342,8 @@
    }
   ],
   "jp": "■シスキアorジェノンが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Siskier or Jenon dies...",
+  "status": "done"
  },
  {
   "id": "eboot_264198",
@@ -5356,8 +5356,8 @@
    }
   ],
   "jp": "■ジルヴァが撃破されると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Zilva is defeated...",
+  "status": "done"
  },
  {
   "id": "eboot_2641B4",
@@ -5370,8 +5370,8 @@
    }
   ],
   "jp": "■ベアトリーヌが撃破されると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Baretreenu is defeated...",
+  "status": "done"
  },
  {
   "id": "eboot_2641D4",
@@ -5384,8 +5384,8 @@
    }
   ],
   "jp": "■ミゼルが■離脱地点に到達すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Mizer reaches the ■ Exit...",
+  "status": "done"
  },
  {
   "id": "eboot_2641F8",
@@ -5398,8 +5398,8 @@
    }
   ],
   "jp": "■メデューテが戦死すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Medoute dies...",
+  "status": "done"
  },
  {
   "id": "eboot_264214",
@@ -5412,8 +5412,8 @@
    }
   ],
   "jp": "■ルシエナが脱出に失敗すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Luciana fails to escape...",
+  "status": "done"
  },
  {
   "id": "eboot_264234",
@@ -5426,8 +5426,8 @@
    }
   ],
   "jp": "■レオンが撃破されると…",
-  "en": "",
-  "status": ""
+  "en": "■ If Leon is defeated...",
+  "status": "done"
  },
  {
   "id": "eboot_264250",
@@ -5440,8 +5440,8 @@
    }
   ],
   "jp": "■誰か１人でもお持ち帰りされると…",
-  "en": "",
-  "status": ""
+  "en": "■ If even one girl is carried off...",
+  "status": "done"
  },
  {
   "id": "eboot_264274",
@@ -5454,8 +5454,8 @@
    }
   ],
   "jp": "■野盗がヴェルマンに隣接すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If brigands reach Velleman...",
+  "status": "done"
  },
  {
   "id": "eboot_264298",
@@ -5468,8 +5468,8 @@
    }
   ],
   "jp": "■敵勢が■ヴェルマン邸に到達すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If enemies reach the ■ Velleman Manor...",
+  "status": "done"
  },
  {
   "id": "eboot_2642C0",
@@ -5482,8 +5482,8 @@
    }
   ],
   "jp": "■■カタル・ブリッジに到達されると…",
-  "en": "",
-  "status": ""
+  "en": "■ If they reach the ■ Catal Bridge...",
+  "status": "done"
  },
  {
   "id": "eboot_2642E8",
@@ -5496,8 +5496,8 @@
    }
   ],
   "jp": "■反乱軍が■西の関所に到達すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If rebels reach the ■ West Checkpoint...",
+  "status": "done"
  },
  {
   "id": "eboot_26430C",
@@ -5510,8 +5510,8 @@
    }
   ],
   "jp": "■敵が■ミネルロードに到達すると…",
-  "en": "",
-  "status": ""
+  "en": "■ If enemies reach the ■ Minel Road...",
+  "status": "done"
  },
  {
   "id": "eboot_264330",
@@ -5524,8 +5524,8 @@
    }
   ],
   "jp": "■すべての■集落が破壊されると…",
-  "en": "",
-  "status": ""
+  "en": "■ If all ■ villages are destroyed...",
+  "status": "done"
  },
  {
   "id": "eboot_264354",
@@ -5541,8 +5541,8 @@
    }
   ],
   "jp": "■悪徳商人ノルンを打ち破れ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat Norn, the crooked merchant!",
+  "status": "done"
  },
  {
   "id": "eboot_264374",
@@ -5555,8 +5555,8 @@
    }
   ],
   "jp": "■ノルンの私兵を撃破せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat Norn's private soldiers!",
+  "status": "done"
  },
  {
   "id": "eboot_264390",
@@ -5569,8 +5569,8 @@
    }
   ],
   "jp": "■デイヴィドの悪行を許すな②",
-  "en": "",
-  "status": ""
+  "en": "■ Don't forgive David's evil deeds!",
+  "status": "done"
  },
  {
   "id": "eboot_2643B0",
@@ -5583,8 +5583,8 @@
    }
   ],
   "jp": "■デイヴィドを撃破せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat David!",
+  "status": "done"
  },
  {
   "id": "eboot_2643CC",
@@ -5597,8 +5597,8 @@
    }
   ],
   "jp": "■ヴェルマンを野盗から守り抜け②",
-  "en": "",
-  "status": ""
+  "en": "■ Protect Velleman from the brigands!",
+  "status": "done"
  },
  {
   "id": "eboot_2643F0",
@@ -5611,8 +5611,8 @@
    }
   ],
   "jp": "■復讐に燃えるセリカを追い払え②",
-  "en": "",
-  "status": ""
+  "en": "■ Drive off Cerica and her revenge!",
+  "status": "done"
  },
  {
   "id": "eboot_264414",
@@ -5628,8 +5628,8 @@
    }
   ],
   "jp": "■山賊を撃退せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Repel the bandits!",
+  "status": "done"
  },
  {
   "id": "eboot_264428",
@@ -5648,8 +5648,8 @@
    }
   ],
   "jp": "■復讐に燃えるセリカを撃退せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Repel Cerica and her revenge!",
+  "status": "done"
  },
  {
   "id": "eboot_26444C",
@@ -5662,8 +5662,8 @@
    }
   ],
   "jp": "■ルシエナの妹・アイギナを救出せよ②{n}（アイギナと隣接すればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■ Rescue Luciana's sister, Aegina!{n}(Stand next to Aegina!)",
+  "status": "done"
  },
  {
   "id": "eboot_264490",
@@ -5676,8 +5676,8 @@
    }
   ],
   "jp": "■アイギナに群がる刺客を退けろ②",
-  "en": "",
-  "status": ""
+  "en": "■ Drive off the assassins swarming Aegina!",
+  "status": "done"
  },
  {
   "id": "eboot_2644B4",
@@ -5693,8 +5693,8 @@
    }
   ],
   "jp": "■レオン率いる黒騎士団を打倒せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat Leon's Black Knights!",
+  "status": "done"
  },
  {
   "id": "eboot_2644D8",
@@ -5707,8 +5707,8 @@
    }
   ],
   "jp": "■遭遇した夜盗団を倒せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Beat the night raiders you met!",
+  "status": "done"
  },
  {
   "id": "eboot_2644F4",
@@ -5724,8 +5724,8 @@
    }
   ],
   "jp": "■復讐に燃えるセリカを打ち払え②",
-  "en": "",
-  "status": ""
+  "en": "■ Beat back Cerica and her revenge!",
+  "status": "done"
  },
  {
   "id": "eboot_264518",
@@ -5738,8 +5738,8 @@
    }
   ],
   "jp": "■夜盗団を殲滅せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Wipe out the night raiders!",
+  "status": "done"
  },
  {
   "id": "eboot_264530",
@@ -5758,8 +5758,8 @@
    }
   ],
   "jp": "■神生教団の刺客を退けろ②",
-  "en": "",
-  "status": ""
+  "en": "■ Drive off the Papal Army assassins!",
+  "status": "done"
  },
  {
   "id": "eboot_26454C",
@@ -5772,8 +5772,8 @@
    }
   ],
   "jp": "■部隊の態勢を立て直せ②{n}（全ユニットを■に移動させればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■ Regroup your forces!{n}(Move all units onto ■!)",
+  "status": "done"
  },
  {
   "id": "eboot_26458C",
@@ -5786,8 +5786,8 @@
    }
   ],
   "jp": "■刺客の猛攻をなんとか凌げ②",
-  "en": "",
-  "status": ""
+  "en": "■ Somehow survive the assassins' assault!",
+  "status": "done"
  },
  {
   "id": "eboot_2645AC",
@@ -5800,8 +5800,8 @@
    }
   ],
   "jp": "■目標の輸送部隊を壊滅せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Wipe out the target transport unit!",
+  "status": "done"
  },
  {
   "id": "eboot_2645CC",
@@ -5814,8 +5814,8 @@
    }
   ],
   "jp": "■輸送部隊を壊滅し積み荷を奪え②",
-  "en": "",
-  "status": ""
+  "en": "■ Wipe out the transport and seize its cargo!",
+  "status": "done"
  },
  {
   "id": "eboot_2645F0",
@@ -5828,8 +5828,8 @@
    }
   ],
   "jp": "■遭難したヴェルマンの友人を探し出せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Find Velleman's lost friend!",
+  "status": "done"
  },
  {
   "id": "eboot_264618",
@@ -5842,8 +5842,8 @@
    }
   ],
   "jp": "■盗賊団を撲滅せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Stamp out the thieves!",
+  "status": "done"
  },
  {
   "id": "eboot_264630",
@@ -5856,8 +5856,8 @@
    }
   ],
   "jp": "■■盗賊団第１砦を制圧せよ②{n}（ユニットを砦まで移動させればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■■ Take the Thieves' 1st Fort!{n}(Move a unit to the fort!)",
+  "status": "done"
  },
  {
   "id": "eboot_264674",
@@ -5870,8 +5870,8 @@
    }
   ],
   "jp": "■■盗賊団第２砦を制圧せよ②{n}（ユニットを砦まで移動させればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■■ Take the Thieves' 2nd Fort!{n}(Move a unit to the fort!)",
+  "status": "done"
  },
  {
   "id": "eboot_2646B8",
@@ -5884,8 +5884,8 @@
    }
   ],
   "jp": "■■盗賊団第３砦を制圧せよ②{n}（ユニットを砦まで移動させればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■■ Take the Thieves' 3rd Fort!{n}(Move a unit to the fort!)",
+  "status": "done"
  },
  {
   "id": "eboot_2646FC",
@@ -5904,8 +5904,8 @@
    }
   ],
   "jp": "■反乱軍の将、パンドラを倒せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat rebel commander Pandra!",
+  "status": "done"
  },
  {
   "id": "eboot_26471C",
@@ -5918,8 +5918,8 @@
    }
   ],
   "jp": "■はだしのミゼルを探し出せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Find Barefoot Mizer!",
+  "status": "done"
  },
  {
   "id": "eboot_26473C",
@@ -5932,8 +5932,8 @@
    }
   ],
   "jp": "■はだしのミゼルを捕まえろ②",
-  "en": "",
-  "status": ""
+  "en": "■ Catch Barefoot Mizer!",
+  "status": "done"
  },
  {
   "id": "eboot_26475C",
@@ -5952,8 +5952,8 @@
    }
   ],
   "jp": "■はだしのミゼルを追い詰めろ②",
-  "en": "",
-  "status": ""
+  "en": "■ Corner Barefoot Mizer!",
+  "status": "done"
  },
  {
   "id": "eboot_26477C",
@@ -5966,8 +5966,8 @@
    }
   ],
   "jp": "■輸送船の敵部隊を壊滅せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Wipe out the enemies on the transport ship!",
+  "status": "done"
  },
  {
   "id": "eboot_26479C",
@@ -5980,8 +5980,8 @@
    }
   ],
   "jp": "■武装した民兵を退けろ②",
-  "en": "",
-  "status": ""
+  "en": "■ Drive off the armed militia!",
+  "status": "done"
  },
  {
   "id": "eboot_2647B8",
@@ -5994,8 +5994,8 @@
    }
   ],
   "jp": "■■領主の館を制圧せよ②{n}（ユニットを館まで移動させればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■■ Take the Lord's Manor!{n}(Move a unit to the manor!)",
+  "status": "done"
  },
  {
   "id": "eboot_2647F8",
@@ -6008,8 +6008,8 @@
    }
   ],
   "jp": "■インザーギを倒せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat Inzaghi!",
+  "status": "done"
  },
  {
   "id": "eboot_264810",
@@ -6022,8 +6022,8 @@
    }
   ],
   "jp": "■ネシアの操る屍兵を薙ぎ倒せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Mow down Nessiah's corpse soldiers!",
+  "status": "done"
  },
  {
   "id": "eboot_264830",
@@ -6036,8 +6036,8 @@
    }
   ],
   "jp": "■ネシアに己が武を示せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Show Nessiah your might!",
+  "status": "done"
  },
  {
   "id": "eboot_26484C",
@@ -6050,8 +6050,8 @@
    }
   ],
   "jp": "■神生教団の不意を討て②",
-  "en": "",
-  "status": ""
+  "en": "■ Catch the Papal Army off guard!",
+  "status": "done"
  },
  {
   "id": "eboot_264868",
@@ -6064,8 +6064,8 @@
    }
   ],
   "jp": "■刺客を退け、ジルヴァを救援せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Drive off the assassins and aid Zilva!",
+  "status": "done"
  },
  {
   "id": "eboot_26488C",
@@ -6078,8 +6078,8 @@
    }
   ],
   "jp": "■血気盛んなゴロツキを懲らしめろ②",
-  "en": "",
-  "status": ""
+  "en": "■ Punish the hot-blooded thugs!",
+  "status": "done"
  },
  {
   "id": "eboot_2648B0",
@@ -6092,8 +6092,8 @@
    }
   ],
   "jp": "■下心溢れるゴロツキを懲らしめろ②",
-  "en": "",
-  "status": ""
+  "en": "■ Punish the scheming thugs!",
+  "status": "done"
  },
  {
   "id": "eboot_2648D4",
@@ -6106,8 +6106,8 @@
    }
   ],
   "jp": "■ゴロツキをいなして邸宅に戻れ②",
-  "en": "",
-  "status": ""
+  "en": "■ Dodge the thugs and get back home!",
+  "status": "done"
  },
  {
   "id": "eboot_2648F8",
@@ -6120,8 +6120,8 @@
    }
   ],
   "jp": "■ゴロツキを全滅させ美少女を救え②",
-  "en": "",
-  "status": ""
+  "en": "■ Beat all the thugs and save the girls!",
+  "status": "done"
  },
  {
   "id": "eboot_26491C",
@@ -6134,8 +6134,8 @@
    }
   ],
   "jp": "■目の前の敵を倒して勝ち進め②",
-  "en": "",
-  "status": ""
+  "en": "■ Beat the foe before you and advance!",
+  "status": "done"
  },
  {
   "id": "eboot_26493C",
@@ -6148,8 +6148,8 @@
    }
   ],
   "jp": "■手強くなった相手を倒し、勝ち進め②",
-  "en": "",
-  "status": ""
+  "en": "■ Beat the tougher foe and advance!",
+  "status": "done"
  },
  {
   "id": "eboot_264964",
@@ -6162,8 +6162,8 @@
    }
   ],
   "jp": "■最後の相手を撃退し、優勝を目指せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Repel the last foe and go for the win!",
+  "status": "done"
  },
  {
   "id": "eboot_26498C",
@@ -6176,8 +6176,8 @@
    }
   ],
   "jp": "■■ケルヌガ砦を制圧せよ②{n}（ユニットを砦まで移動させればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■■ Take Kernuga Fort!{n}(Move a unit to the fort!)",
+  "status": "done"
  },
  {
   "id": "eboot_2649D0",
@@ -6190,8 +6190,8 @@
    }
   ],
   "jp": "■３つの都市をすべて制圧せよ②{n}（バルーダー市、リラ市、ケルヌガ市の{n}　３つを制圧すればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■ Take all 3 cities!{n}(Take Baluder, Lila and Kernuga{n} and you're done!)",
+  "status": "done"
  },
  {
   "id": "eboot_264A30",
@@ -6204,8 +6204,8 @@
    }
   ],
   "jp": "■■シャーミネル砦を制圧せよ②{n}（ユニットを砦まで移動させればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■■ Take Sharminel Fort!{n}(Move a unit to the fort!)",
+  "status": "done"
  },
  {
   "id": "eboot_264A78",
@@ -6218,8 +6218,8 @@
    }
   ],
   "jp": "■反乱軍を撃破せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat the rebels!",
+  "status": "done"
  },
  {
   "id": "eboot_264A90",
@@ -6241,8 +6241,8 @@
    }
   ],
   "jp": "■反乱軍のパンドラを倒せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat rebel Pandra!",
+  "status": "done"
  },
  {
   "id": "eboot_264AAC",
@@ -6255,8 +6255,8 @@
    }
   ],
   "jp": "■■トキノの関所を制圧せよ②{n}（ユニットを■西の関所まで{n}　移動させればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■■ Take Tokino Checkpoint!{n}(Move a unit to the ■ West{n} Checkpoint!)",
+  "status": "done"
  },
  {
   "id": "eboot_264AFC",
@@ -6269,8 +6269,8 @@
    }
   ],
   "jp": "■帝国軍を倒し、力を示せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat the Imperial Army and prove yourself!",
+  "status": "done"
  },
  {
   "id": "eboot_264B18",
@@ -6289,8 +6289,8 @@
    }
   ],
   "jp": "■軍神バルドゥスの鋼鉄騎団を撃破せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat War God Baldus's Steel Knights!",
+  "status": "done"
  },
  {
   "id": "eboot_264B40",
@@ -6303,8 +6303,8 @@
    }
   ],
   "jp": "■全敵勢力を蹴散し、撃退せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Scatter and repel all enemy forces!",
+  "status": "done"
  },
  {
   "id": "eboot_264B60",
@@ -6317,8 +6317,8 @@
    }
   ],
   "jp": "■避難民の突破口を確保せよ②{n}（ユニットを■北の区画まで{n}　移動させればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■ Secure a way out for the refugees!{n}(Move a unit to the ■ North{n} Sector!)",
+  "status": "done"
  },
  {
   "id": "eboot_264BB0",
@@ -6331,8 +6331,8 @@
    }
   ],
   "jp": "■レオンとの因縁に決着をつけろ②",
-  "en": "",
-  "status": ""
+  "en": "■ Settle your feud with Leon!",
+  "status": "done"
  },
  {
   "id": "eboot_264BD4",
@@ -6345,8 +6345,8 @@
    }
   ],
   "jp": "■孤立したレオンの部隊を救出せよ②{n}（レオンと隣接すればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■ Rescue Leon's cut-off unit!{n}(Stand next to Leon!)",
+  "status": "done"
  },
  {
   "id": "eboot_264C14",
@@ -6359,8 +6359,8 @@
    }
   ],
   "jp": "■ヴェルマン邸の警護を怠るな②",
-  "en": "",
-  "status": ""
+  "en": "■ Keep guard over Velleman Manor!",
+  "status": "done"
  },
  {
   "id": "eboot_264C34",
@@ -6373,8 +6373,8 @@
    }
   ],
   "jp": "■暗殺者の邸宅侵入を阻止せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Stop the assassins entering the manor!",
+  "status": "done"
  },
  {
   "id": "eboot_264C54",
@@ -6387,8 +6387,8 @@
    }
   ],
   "jp": "■暗殺者から邸宅を守り抜け②",
-  "en": "",
-  "status": ""
+  "en": "■ Defend the manor from the assassins!",
+  "status": "done"
  },
  {
   "id": "eboot_264C74",
@@ -6401,8 +6401,8 @@
    }
   ],
   "jp": "■暗殺者の一団を掃討せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Sweep away the assassin band!",
+  "status": "done"
  },
  {
   "id": "eboot_264C90",
@@ -6415,8 +6415,8 @@
    }
   ],
   "jp": "■バルドゥスの猛攻を凌ぎ切れ②",
-  "en": "",
-  "status": ""
+  "en": "■ Weather Baldus's fierce assault!",
+  "status": "done"
  },
  {
   "id": "eboot_264CB0",
@@ -6429,8 +6429,8 @@
    }
   ],
   "jp": "■シスキアの退路確保まで時間を稼げ②",
-  "en": "",
-  "status": ""
+  "en": "■ Buy time for Siskier to secure the retreat!",
+  "status": "done"
  },
  {
   "id": "eboot_264CD8",
@@ -6443,8 +6443,8 @@
    }
   ],
   "jp": "■ヴェルマンを撃破せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat Velleman!",
+  "status": "done"
  },
  {
   "id": "eboot_264CF4",
@@ -6457,8 +6457,8 @@
    }
   ],
   "jp": "■ヴェルマンに引導を渡せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Finish off Velleman!",
+  "status": "done"
  },
  {
   "id": "eboot_264D10",
@@ -6471,8 +6471,8 @@
    }
   ],
   "jp": "■ベアトリーヌを倒し、力を解き放て②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat Baretreenu and unleash your power!",
+  "status": "done"
  },
  {
   "id": "eboot_264D38",
@@ -6485,8 +6485,8 @@
    }
   ],
   "jp": "■母を殺し、竜の血の力を手に入れろ②",
-  "en": "",
-  "status": ""
+  "en": "■ Kill your mother and gain the dragon's blood!",
+  "status": "done"
  },
  {
   "id": "eboot_264D60",
@@ -6499,8 +6499,8 @@
    }
   ],
   "jp": "■駆けつけた援軍を一掃せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Sweep away the reinforcements!",
+  "status": "done"
  },
  {
   "id": "eboot_264D80",
@@ -6513,8 +6513,8 @@
    }
   ],
   "jp": "■帝都防衛隊を駆逐せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Drive out the capital's defenders!",
+  "status": "done"
  },
  {
   "id": "eboot_264D9C",
@@ -6527,8 +6527,8 @@
    }
   ],
   "jp": "■ソルティエ帝を討ち、革命を達成せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Slay Emperor Soltier and win the revolution!",
+  "status": "done"
  },
  {
   "id": "eboot_264DC4",
@@ -6541,8 +6541,8 @@
    }
   ],
   "jp": "■裏切り者を粛清せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Purge the traitors!",
+  "status": "done"
  },
  {
   "id": "eboot_264DDC",
@@ -6555,8 +6555,8 @@
    }
   ],
   "jp": "■包囲された私兵団邸を奪回せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Retake the besieged private army manor!",
+  "status": "done"
  },
  {
   "id": "eboot_264E00",
@@ -6569,8 +6569,8 @@
    }
   ],
   "jp": "■孤立したルシエナ達を救い出せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Rescue Luciana and the others, cut off!",
+  "status": "done"
  },
  {
   "id": "eboot_264E24",
@@ -6583,8 +6583,8 @@
    }
   ],
   "jp": "■神生教団の、私兵団邸包囲網を破れ②",
-  "en": "",
-  "status": ""
+  "en": "■ Break the Papal Army's siege of the manor!",
+  "status": "done"
  },
  {
   "id": "eboot_264E4C",
@@ -6597,8 +6597,8 @@
    }
   ],
   "jp": "■孤軍奮闘のアイギナを救出せよ②{n}（アイギナと隣接すればＯＫ！）",
-  "en": "",
-  "status": ""
+  "en": "■ Rescue Aegina, fighting alone!{n}(Stand next to Aegina!)",
+  "status": "done"
  },
  {
   "id": "eboot_264E8C",
@@ -6611,8 +6611,8 @@
    }
   ],
   "jp": "■カローナ守備部隊総隊長を撃破せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat the commander of Karona's guard!",
+  "status": "done"
  },
  {
   "id": "eboot_264EB4",
@@ -6625,8 +6625,8 @@
    }
   ],
   "jp": "■斥候部隊を撃破し、王都へと急げ②",
-  "en": "",
-  "status": ""
+  "en": "■ Beat the scouts and hurry to the capital!",
+  "status": "done"
  },
  {
   "id": "eboot_264ED8",
@@ -6639,8 +6639,8 @@
    }
   ],
   "jp": "■帝国王国連合の猛攻を凌ぎ切れ②",
-  "en": "",
-  "status": ""
+  "en": "■ Weather the allied Empire-Kingdom assault!",
+  "status": "done"
  },
  {
   "id": "eboot_264EFC",
@@ -6653,8 +6653,8 @@
    }
   ],
   "jp": "■帝国王国連合を打ち破れ②",
-  "en": "",
-  "status": ""
+  "en": "■ Crush the Empire-Kingdom alliance!",
+  "status": "done"
  },
  {
   "id": "eboot_264F18",
@@ -6667,8 +6667,8 @@
    }
   ],
   "jp": "■王都防衛軍を殲滅せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Wipe out the royal capital's defenders!",
+  "status": "done"
  },
  {
   "id": "eboot_264F34",
@@ -6681,8 +6681,8 @@
    }
   ],
   "jp": "■オルディーン王に報いを②",
-  "en": "",
-  "status": ""
+  "en": "■ Make King Ordene pay!",
+  "status": "done"
  },
  {
   "id": "eboot_264F50",
@@ -6695,8 +6695,8 @@
    }
   ],
   "jp": "■オルディーン王を討ち、復讐を果たせ②",
-  "en": "",
-  "status": ""
+  "en": "■ Slay King Ordene and take your revenge!",
+  "status": "done"
  },
  {
   "id": "eboot_264F78",
@@ -6709,8 +6709,8 @@
    }
   ],
   "jp": "■全ての元凶・アランゼームを倒せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat Alanjame, root of it all!",
+  "status": "done"
  },
  {
   "id": "eboot_264F9C",
@@ -6723,8 +6723,8 @@
    }
   ],
   "jp": "■暴走したエミリオを止めよ…②",
-  "en": "",
-  "status": ""
+  "en": "■ Stop Emilia's rampage...!",
+  "status": "done"
  },
  {
   "id": "eboot_264FBC",
@@ -6737,8 +6737,8 @@
    }
   ],
   "jp": "■再起のパンドラと、決着をつけろ②",
-  "en": "",
-  "status": ""
+  "en": "■ Settle things with the resurgent Pandra!",
+  "status": "done"
  },
  {
   "id": "eboot_264FE0",
@@ -6751,8 +6751,8 @@
    }
   ],
   "jp": "■裏切りのネシアを倒せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat Nessiah the traitor!",
+  "status": "done"
  },
  {
   "id": "eboot_264FFC",
@@ -6765,8 +6765,8 @@
    }
   ],
   "jp": "■ネシアを倒せ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat Nessiah!",
+  "status": "done"
  },
  {
   "id": "eboot_265010",
@@ -6779,8 +6779,8 @@
    }
   ],
   "jp": "■暗殺者を炙り出し、殲滅せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Flush out and wipe out the assassins!",
+  "status": "done"
  },
  {
   "id": "eboot_265030",
@@ -6793,8 +6793,8 @@
    }
   ],
   "jp": "■バルドゥスを倒し城門を開放せよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Defeat Baldus and open the gates!",
+  "status": "done"
  },
  {
   "id": "eboot_265054",
@@ -6807,8 +6807,8 @@
    }
   ],
   "jp": "■ソルティエ帝の目を覚まさせよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Wake Emperor Soltier up!",
+  "status": "done"
  },
  {
   "id": "eboot_265078",
@@ -6821,8 +6821,8 @@
    }
   ],
   "jp": "■皇帝をネシアの支配から解き放て②",
-  "en": "",
-  "status": ""
+  "en": "■ Free the Emperor from Nessiah's control!",
+  "status": "done"
  },
  {
   "id": "eboot_26509C",
@@ -6835,8 +6835,8 @@
    }
   ],
   "jp": "■ジェノンの魂を解き放て②",
-  "en": "",
-  "status": ""
+  "en": "■ Set Jenon's soul free!",
+  "status": "done"
  },
  {
   "id": "eboot_2650B8",
@@ -6849,8 +6849,8 @@
    }
   ],
   "jp": "■迫り来るネシアの屍兵を打ち払え②",
-  "en": "",
-  "status": ""
+  "en": "■ Beat back Nessiah's oncoming corpse soldiers!",
+  "status": "done"
  },
  {
   "id": "eboot_2650DC",
@@ -6863,8 +6863,8 @@
    }
   ],
   "jp": "■聖剣を打ち砕き、ネシアの力を削げ②",
-  "en": "",
-  "status": ""
+  "en": "■ Smash the Holy Sword and sap Nessiah's power!",
+  "status": "done"
  },
  {
   "id": "eboot_265104",
@@ -6877,8 +6877,8 @@
    }
   ],
   "jp": "■さあ、ネシアとの決着をつけよ②",
-  "en": "",
-  "status": ""
+  "en": "■ Now, settle things with Nessiah!",
+  "status": "done"
  },
  {
   "id": "eboot_267CD8",

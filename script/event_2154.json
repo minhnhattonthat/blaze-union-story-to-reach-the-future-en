@@ -8,8 +8,8 @@
    4359
   ],
   "jp": "{voice:008001}でもさ、こんな暑苦しい場所で{n}待ち合わせだなんて、やっぱ{n}貴族様のお考えは意味不明ね。",
-  "en": "",
-  "status": ""
+  "en": "Still, meeting up in a sweltering place like this? I'll never get how nobles think.",
+  "status": "done"
  },
  {
   "id": "event_2154_00081",
@@ -20,8 +20,8 @@
    4377
   ],
   "jp": "{voice:008101}ひと気の無い場所で、{n}話したいだけじゃないかな？",
-  "en": "",
-  "status": ""
+  "en": "Maybe he just wants to talk somewhere with no one around?",
+  "status": "done"
  },
  {
   "id": "event_2154_000B5",
@@ -32,8 +32,8 @@
    4395
   ],
   "jp": "{voice:008201}多分、そうだろうな……",
-  "en": "",
-  "status": ""
+  "en": "Yeah, probably...",
+  "status": "done"
  },
  {
   "id": "event_2154_000D0",
@@ -44,8 +44,8 @@
    4413
   ],
   "jp": "{voice:008301}ところで、ガーロットはどうして、{n}ヴェルマン方伯の話を聞く気に{n}なったんだ？",
-  "en": "",
-  "status": ""
+  "en": "By the way, Garlot, what made you want to hear Margrave Velleman out?",
+  "status": "done"
  },
  {
   "id": "event_2154_0011F",
@@ -56,8 +56,8 @@
    4434
   ],
   "jp": "{voice:008401}……デイヴィドが言ってたろ。{n}ずるい方が生き残るって。",
-  "en": "",
-  "status": ""
+  "en": "...You heard David. The dirty ones live, he said.",
+  "status": "done"
  },
  {
   "id": "event_2154_00159",
@@ -68,8 +68,8 @@
    4452
   ],
   "jp": "{voice:008501}うーんと、言ってたような……{n}ま、悪党の言い訳って{n}感じだけどね。",
-  "en": "",
-  "status": ""
+  "en": "Umm, I guess he said something like that... Sounded like a crook's excuse to me.",
+  "status": "done"
  },
  {
   "id": "event_2154_0019E",
@@ -80,8 +80,8 @@
    4470
   ],
   "jp": "{voice:008601}俺、それって真実だと思う。",
-  "en": "",
-  "status": ""
+  "en": "I think it's the truth.",
+  "status": "done"
  },
  {
   "id": "event_2154_001BD",
@@ -92,8 +92,8 @@
    4491
   ],
   "jp": "{voice:008701}え？　あらら……",
-  "en": "",
-  "status": ""
+  "en": "Huh? Oh, wow...",
+  "status": "done"
  },
  {
   "id": "event_2154_001D2",
@@ -104,8 +104,8 @@
    4608
   ],
   "jp": "{voice:008801}ノルンみたいな悪党を倒す事は、{n}これからもできるだろう。",
-  "en": "",
-  "status": ""
+  "en": "We can keep taking down scum like Norn.",
+  "status": "done"
  },
  {
   "id": "event_2154_0020E",
@@ -116,8 +116,8 @@
    4615
   ],
   "jp": "{voice:008901}だけど、それができたとしても、{n}俺達が守れるのは、ティエラの{n}ほんの一部分だけだ。",
-  "en": "",
-  "status": ""
+  "en": "But even if we do, all we're protecting is one tiny corner of Tiera.",
+  "status": "done"
  },
  {
   "id": "event_2154_00263",
@@ -128,8 +128,8 @@
    4633
   ],
   "jp": "{voice:008A01}他の街、ひいてはこの国全体を{n}助ける事ができない。{n}そう言う事かい？",
-  "en": "",
-  "status": ""
+  "en": "We can't help the other towns, let alone the whole country. Is that it?",
+  "status": "done"
  },
  {
   "id": "event_2154_002AA",
@@ -140,8 +140,8 @@
    4651
   ],
   "jp": "{voice:008B01}悪臭は、元を絶たなければ{n}決して消え去りはしない。",
-  "en": "",
-  "status": ""
+  "en": "You can't get rid of a stench unless you cut it off at the source.",
+  "status": "done"
  },
  {
   "id": "event_2154_002E0",
@@ -152,8 +152,8 @@
    4658
   ],
   "jp": "{voice:008C01}世界を変えられなければ、{n}俺達の正義は、偽善のまま{n}終わるだけだ……",
-  "en": "",
-  "status": ""
+  "en": "If we can't change the world, our justice ends up as nothing but hypocrisy...",
+  "status": "done"
  },
  {
   "id": "event_2154_00327",
@@ -164,8 +164,8 @@
    4676
   ],
   "jp": "{voice:008D01}その為に、あの貴族から{n}力を手に入れるワケね？",
-  "en": "",
-  "status": ""
+  "en": "And that's why you're getting power from that noble?",
+  "status": "done"
  },
  {
   "id": "event_2154_00359",
@@ -176,8 +176,8 @@
    4694
   ],
   "jp": "{voice:008E01}ああ、そう言う事だ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, that's right.",
+  "status": "done"
  },
  {
   "id": "event_2154_00372",
@@ -188,8 +188,8 @@
    4712
   ],
   "jp": "{voice:008F01}悪いな、シスキア、ジェノン。{n}二人の意見も聞かずに……",
-  "en": "",
-  "status": ""
+  "en": "Sorry, Siskier, Jenon. I didn't even ask what you thought...",
+  "status": "done"
  },
  {
   "id": "event_2154_003AC",
@@ -200,8 +200,8 @@
    4829
   ],
   "jp": "{voice:009001}ヴェルマン方伯の事、{n}少し調べてみたけれど、{n}変わり者だね、彼。",
-  "en": "",
-  "status": ""
+  "en": "I looked into Margrave Velleman a little. He's an odd one, that man.",
+  "status": "done"
  },
  {
   "id": "event_2154_003EF",
@@ -212,8 +212,8 @@
    4836
   ],
   "jp": "{voice:009101}改革派の旗手で、どんどん力を{n}付けて来ているらしい。{n}で、古い貴族には敵が多いと。",
-  "en": "",
-  "status": ""
+  "en": "A standard-bearer for the reformists, gaining power fast. And plenty of enemies among the old nobility.",
+  "status": "done"
  },
  {
   "id": "event_2154_00444",
@@ -224,8 +224,8 @@
    4854
   ],
   "jp": "{voice:009201}世界を変えるって言ったのも、{n}あながち嘘じゃないかもね。",
-  "en": "",
-  "status": ""
+  "en": "This talk of changing the world might not be a lie after all.",
+  "status": "done"
  },
  {
   "id": "event_2154_00480",
@@ -236,8 +236,8 @@
    4872
   ],
   "jp": "{voice:009301}ごめんね、ガーロット。{n}私、貴族にいいイメージ無いから{n}感情的になってた……",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry, Garlot. I've got no love for nobles, so I got emotional...",
+  "status": "done"
  },
  {
   "id": "event_2154_004CF",
@@ -248,8 +248,8 @@
    4890
   ],
   "jp": "{voice:009401}あなたが決めた事、私も賛成。{n}協力するよ、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "I'm with you on what you decided. I'll help, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2154_00509",
@@ -260,8 +260,8 @@
    4908
   ],
   "jp": "{voice:009501}ああ、僕も力を貸すさ。{n}知恵の方も、もちろんね。",
-  "en": "",
-  "status": ""
+  "en": "Yes, you have my strength too. And my brains, naturally.",
+  "status": "done"
  },
  {
   "id": "event_2154_0053D",
@@ -272,8 +272,8 @@
    4926
   ],
   "jp": "{voice:009601}すまないな、二人とも……",
-  "en": "",
-  "status": ""
+  "en": "Thanks, you two...",
+  "status": "done"
  },
  {
   "id": "event_2154_0055A",
@@ -284,8 +284,8 @@
    5099
   ],
   "jp": "{voice:009701}待たせたな、{n}ブレイズ義賊団の諸君。",
-  "en": "",
-  "status": ""
+  "en": "Sorry to keep you waiting, members of the Blaze Justice Corps.",
+  "status": "done"
  },
  {
   "id": "event_2154_00582",
@@ -296,8 +296,8 @@
    5117
   ],
   "jp": "{voice:009801}早速だが、アンタの私兵の話{n}詳しく聞かせてほしい。",
-  "en": "",
-  "status": ""
+  "en": "Let's get right to it. Tell me more about this private army of yours.",
+  "status": "done"
  },
  {
   "id": "event_2154_005B8",
@@ -308,8 +308,8 @@
    5135
   ],
   "jp": "{voice:009901}できれば、ゆっくりと{n}話をしたかったのだが、{n}手短に話さねばなるまい。",
-  "en": "",
-  "status": ""
+  "en": "I would have preferred to talk at leisure, but I must be brief.",
+  "status": "done"
  },
  {
   "id": "event_2154_00601",
@@ -320,8 +320,8 @@
    5153
   ],
   "jp": "{voice:009A01}他に客人がいるものでね。{n}招かざる客、だがな。",
-  "en": "",
-  "status": ""
+  "en": "I have other guests, you see. Uninvited ones.",
+  "status": "done"
  },
  {
   "id": "event_2154_00633",
@@ -332,8 +332,8 @@
    5174
   ],
   "jp": "{voice:009B01}なにっ？",
-  "en": "",
-  "status": ""
+  "en": "What?",
+  "status": "done"
  },
  {
   "id": "event_2154_00640",
@@ -344,8 +344,8 @@
    5752
   ],
   "jp": "{voice:009C01}私が進む道の先には敵が多い。{n}お前達には私の私兵となり、{n}その敵を排除して欲しい。",
-  "en": "",
-  "status": ""
+  "en": "The road ahead of me is thick with enemies. I want you to serve as my private army and remove them.",
+  "status": "done"
  },
  {
   "id": "event_2154_00695",
@@ -356,8 +356,8 @@
    5773
   ],
   "jp": "{voice:009D01}望む力は、くれてやろう。{n}先ずは挨拶代わりだ。",
-  "en": "",
-  "status": ""
+  "en": "You shall have the power you desire. Consider this our introduction.",
+  "status": "done"
  },
  {
   "id": "event_2154_006C7",
@@ -368,8 +368,8 @@
    5877
   ],
   "jp": "{voice:009E01}そうか、それが俺達の仕事か。{n}分かりやすくていいぜ。",
-  "en": "",
-  "status": ""
+  "en": "So that's our job. Nice and simple.",
+  "status": "done"
  },
  {
   "id": "event_2154_006FF",
@@ -380,8 +380,8 @@
    5898
   ],
   "jp": "{voice:009F01}それに、悪党が相手なら、{n}何の問題もなく戦える！",
-  "en": "",
-  "status": ""
+  "en": "Besides, if it's scum we're up against, I've got no problem fighting!",
+  "status": "done"
  },
  {
   "id": "event_2154_00733",
@@ -392,8 +392,8 @@
    6059
   ],
   "jp": "{voice:00A001}いいね、ヴェルマン方伯を{n}守る事が第一だよ。{n}まずは合流して安全を確保。",
-  "en": "",
-  "status": ""
+  "en": "All right, protecting Margrave Velleman comes first. Let's link up with him and make sure he's safe.",
+  "status": "done"
  },
  {
   "id": "event_2154_0077E",
@@ -404,8 +404,8 @@
    6066
   ],
   "jp": "{voice:00A101}敵は数が多い。{n}増援も警戒しつつ、{n}慎重に動いていこう。",
-  "en": "",
-  "status": ""
+  "en": "There are a lot of them. Watch for reinforcements, and let's move carefully.",
+  "status": "done"
  },
  {
   "id": "event_2154_007B9",
@@ -416,8 +416,8 @@
    9258
   ],
   "jp": "{voice:00A201}敵の数が多すぎるってば……",
-  "en": "",
-  "status": ""
+  "en": "There are way too many of them...",
+  "status": "done"
  },
  {
   "id": "event_2154_007D8",
@@ -428,8 +428,8 @@
    9444
   ],
   "jp": "{voice:00A301}やはり君達は面白いな。{n}義賊の次は貴族の私兵団とはね。",
-  "en": "",
-  "status": ""
+  "en": "You lot really are interesting. Thieves of justice, and now a noble's private army.",
+  "status": "done"
  },
  {
   "id": "event_2154_00812",
@@ -440,8 +440,8 @@
    9464
   ],
   "jp": "{voice:00A401}この美しく、自信に溢れる声！{n}メデューテさん！",
-  "en": "",
-  "status": ""
+  "en": "That voice, so lovely, so full of confidence! Medoute-san!",
+  "status": "done"
  },
  {
   "id": "event_2154_00844",
@@ -452,8 +452,8 @@
    9557
   ],
   "jp": "{voice:00A501}力がなければ、意思は貫けない。{n}そう言ったのはアンタだろ？",
-  "en": "",
-  "status": ""
+  "en": "Without power, you can't hold to your will. You're the one who said that, aren't you?",
+  "status": "done"
  },
  {
   "id": "event_2154_00882",
@@ -464,8 +464,8 @@
    9575
   ],
   "jp": "{voice:00A601}なるほど…、君の選択に、{n}あたしも一枚噛んでいた訳か。",
-  "en": "",
-  "status": ""
+  "en": "I see... So I had a hand in your choice.",
+  "status": "done"
  },
  {
   "id": "event_2154_008BC",
@@ -476,8 +476,8 @@
    9593
   ],
   "jp": "{voice:00A701}ならば、{n}あたしには、君達の行く末を{n}見届ける義務があるって事だな。",
-  "en": "",
-  "status": ""
+  "en": "In that case, I suppose I'm obliged to see where you end up.",
+  "status": "done"
  },
  {
   "id": "event_2154_00903",
@@ -488,8 +488,8 @@
    9611
   ],
   "jp": "{voice:00A801}ま、それも面白そうね。{n}助勢させてもらうよ！",
-  "en": "",
-  "status": ""
+  "en": "Well, that sounds like fun too. I'll lend you a hand!",
+  "status": "done"
  },
  {
   "id": "event_2154_00933",
@@ -500,8 +500,8 @@
    9693
   ],
   "jp": "{voice:00A901}助かる、メデューテ。",
-  "en": "",
-  "status": ""
+  "en": "Thanks, Medoute.",
+  "status": "done"
  },
  {
   "id": "event_2154_0094C",
@@ -512,8 +512,8 @@
    9711
   ],
   "jp": "{voice:00AA01}そう言えば、君の名前、{n}聞いてなかったよね？",
-  "en": "",
-  "status": ""
+  "en": "Come to think of it, I never did get your name, did I?",
+  "status": "done"
  },
  {
   "id": "event_2154_0097C",
@@ -524,8 +524,8 @@
    9729
   ],
   "jp": "{voice:00AB01}ガーロットだ。",
-  "en": "",
-  "status": ""
+  "en": "It's Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2154_0098F",
@@ -536,8 +536,8 @@
    9747
   ],
   "jp": "{voice:00AC01}私はシスキアよ。",
-  "en": "",
-  "status": ""
+  "en": "I'm Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2154_009A4",
@@ -548,8 +548,8 @@
    9765
   ],
   "jp": "{voice:00AD01}ええっと……",
-  "en": "",
-  "status": ""
+  "en": "Well, um...",
+  "status": "done"
  },
  {
   "id": "event_2154_009B5",
@@ -560,8 +560,8 @@
    9783
   ],
   "jp": "{voice:00AE01}君はジュノンだろ？",
-  "en": "",
-  "status": ""
+  "en": "You're Junon, right?",
+  "status": "done"
  },
  {
   "id": "event_2154_009CC",
@@ -572,8 +572,8 @@
    9801
   ],
   "jp": "{voice:00AF01}ジェノンだ！",
-  "en": "",
-  "status": ""
+  "en": "It's Jenon!",
+  "status": "done"
  },
  {
   "id": "event_2154_009DD",
@@ -584,8 +584,8 @@
    11236
   ],
   "jp": "{voice:00B001}セリカ姉さん、奴らです！{n}あの赤髪の連中です！",
-  "en": "",
-  "status": ""
+  "en": "Sis Cerica, that's them! That red-headed bunch!",
+  "status": "done"
  },
  {
   "id": "event_2154_00A0F",
@@ -596,8 +596,8 @@
    11254
   ],
   "jp": "{voice:00B101}おおっと、きたーーッ！{n}やっと見つけたわ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa, here we go! Finally found 'em!",
+  "status": "done"
  },
  {
   "id": "event_2154_00A3D",
@@ -608,8 +608,8 @@
    11272
   ],
   "jp": "{voice:00B201}デイヴィド隊長、アンタの仇は、{n}セリカが取ってやるんだから！",
-  "en": "",
-  "status": ""
+  "en": "Captain David, Cerica's gonna get revenge for you, so there!",
+  "status": "done"
  },
  {
   "id": "event_2154_00A7D",
@@ -620,8 +620,8 @@
    11740
   ],
   "jp": "{voice:00B301}増援か？",
-  "en": "",
-  "status": ""
+  "en": "Reinforcements?",
+  "status": "done"
  },
  {
   "id": "event_2154_00A8A",
@@ -632,8 +632,8 @@
    11758
   ],
   "jp": "{voice:00B401}あれはバカ女じゃないか……",
-  "en": "",
-  "status": ""
+  "en": "Isn't that the idiot girl...",
+  "status": "done"
  },
  {
   "id": "event_2154_00AA9",
@@ -644,8 +644,8 @@
    11819
   ],
   "jp": "{voice:00B501}またセリカの事を、{n}バカ呼ばわりしたなーッ②",
-  "en": "",
-  "status": ""
+  "en": "You called Cerica an idiot again!",
+  "status": "done"
  },
  {
   "id": "event_2154_00AD9",
@@ -657,8 +657,8 @@
    7275
   ],
   "jp": "硬そうな岩石が{n}剥き出しになっているぞ…",
-  "en": "",
-  "status": ""
+  "en": "Hard-looking rock poking out here...",
+  "status": "done"
  },
  {
   "id": "event_2154_00B01",
@@ -670,8 +670,8 @@
    7361
   ],
   "jp": "武器の素材に使えるかもな。{n}いただいておくとするか。",
-  "en": "",
-  "status": ""
+  "en": "Might work as material for weapons. Guess I'll take it.",
+  "status": "done"
  },
  {
   "id": "event_2154_00B35",
@@ -683,8 +683,8 @@
    7474
   ],
   "jp": "…なんだろう、ただの岩石なのに{n}ミョーに迫力があるわね。{n}気のせいかしら？",
-  "en": "",
-  "status": ""
+  "en": "...What is it about this? It's only a rock, but it's weirdly impressive. Or is that just me?",
+  "status": "done"
  },
  {
   "id": "event_2154_00B7E",
@@ -696,8 +696,8 @@
    7560
   ],
   "jp": "こういう時は直感を信じるが吉！{n}何かに役立つかもだし、{n}もらっておこうかしら。",
-  "en": "",
-  "status": ""
+  "en": "Times like this, trust your gut! It might come in handy, so I guess I'll take it.",
+  "status": "done"
  },
  {
   "id": "event_2154_00BCB",
@@ -709,8 +709,8 @@
    7673
   ],
   "jp": "ん③　ひょっとして{n}これって、前に本で読んだ…",
-  "en": "",
-  "status": ""
+  "en": "Hm!? Could this be what I read about in that book...",
+  "status": "done"
  },
  {
   "id": "event_2154_00BF9",
@@ -722,8 +722,8 @@
    7759
   ],
   "jp": "そうだ、間違いない！{n}天然のオーガニウムだ！",
-  "en": "",
-  "status": ""
+  "en": "Yes, there's no mistaking it! Natural Ogrenium!",
+  "status": "done"
  },
  {
   "id": "event_2154_00C25",
@@ -735,8 +735,8 @@
    7872
   ],
   "jp": "あら、これは…",
-  "en": "",
-  "status": ""
+  "en": "Oh, what's this...",
+  "status": "done"
  },
  {
   "id": "event_2154_00C34",
@@ -748,8 +748,8 @@
    7958
   ],
   "jp": "天然のオーガニウムじゃない。{n}確保、確保っと。",
-  "en": "",
-  "status": ""
+  "en": "Why, it's natural Ogrenium. Mine, all mine.",
+  "status": "done"
  },
  {
   "id": "event_2154_00C62",
@@ -771,8 +771,8 @@
    6414
   ],
   "jp": "…賊の接近を許したか。",
-  "en": "",
-  "status": ""
+  "en": "...I let the bandits get too close.",
+  "status": "done"
  },
  {
   "id": "event_2154_00C84",
@@ -784,8 +784,8 @@
    6421
   ],
   "jp": "私の見る目のなさが敗因…{n}それ以上でもそれ以下でもないな。",
-  "en": "",
-  "status": ""
+  "en": "My own poor judgment lost this... No more and no less than that.",
+  "status": "done"
  },
  {
   "id": "event_2154_00CEC",
@@ -808,8 +808,8 @@
    3404
   ],
   "jp": "野盗団",
-  "en": "",
-  "status": ""
+  "en": "Bandit",
+  "status": "done"
  },
  {
   "id": "event_2154_00E25",
@@ -832,8 +832,8 @@
    14488
   ],
   "jp": "{voice:00B601}デイヴィド隊長の仇！{n}絶対に許さないっつーの！",
-  "en": "",
-  "status": ""
+  "en": "Revenge for Captain David! Cerica's never gonna forgive you, got it!?",
+  "status": "done"
  },
  {
   "id": "event_2154_02ECA",
@@ -844,8 +844,8 @@
    14506
   ],
   "jp": "{voice:00B701}お前、{n}デイヴィドの部下だったのか？",
-  "en": "",
-  "status": ""
+  "en": "You were one of David's men?",
+  "status": "done"
  },
  {
   "id": "event_2154_02EF2",
@@ -856,8 +856,8 @@
    14551
   ],
   "jp": "{voice:00B801}おい、ちょっと待てガーロット。{n}一体どうなってる？",
-  "en": "",
-  "status": ""
+  "en": "Hey, hold on a minute, Garlot. Just what's going on here?",
+  "status": "done"
  },
  {
   "id": "event_2154_02F28",
@@ -868,8 +868,8 @@
    14558
   ],
   "jp": "{voice:00B901}メデューテさんも、彼女もそうだ。{n}どうして僕の知らない間に、君の{n}周りに女の子が集まってくる？",
-  "en": "",
-  "status": ""
+  "en": "First Medoute-san, now her. Why do girls keep gathering around you when I'm not looking?",
+  "status": "done"
  },
  {
   "id": "event_2154_02F89",
@@ -880,8 +880,8 @@
    14576
   ],
   "jp": "{voice:00BA01}知るかよっ！　そう言うのは、{n}戦闘が終わってからにしろよ②",
-  "en": "",
-  "status": ""
+  "en": "How should I know! Save that kind of thing till after the fight!",
+  "status": "done"
  },
  {
   "id": "event_2154_02FC7",
@@ -892,8 +892,8 @@
    18708
   ],
   "jp": "{voice:00BB01}なにコレ、なにコレ、{n}セリカ、全然ダメじゃん。",
-  "en": "",
-  "status": ""
+  "en": "What the heck, what the heck, Cerica's doing terrible.",
+  "status": "done"
  },
  {
   "id": "event_2154_02FF9",
@@ -904,8 +904,8 @@
    18726
   ],
   "jp": "{voice:00BC01}そうよ、急な戦いだったから、{n}準備ができてなかったのよ。{n}そう、そうに決まってる！",
-  "en": "",
-  "status": ""
+  "en": "Yeah, it was a sudden fight, so Cerica wasn't ready. Yeah, that's gotta be it!",
+  "status": "done"
  },
  {
   "id": "event_2154_0304E",
@@ -916,8 +916,8 @@
    18743
   ],
   "jp": "{voice:00BD01}お、覚えとけよー！{n}絶対にアンタ、倒してやるから！",
-  "en": "",
-  "status": ""
+  "en": "Y-you just remember this! Cerica's totally gonna beat you!",
+  "status": "done"
  },
  {
   "id": "event_2154_03084",
@@ -928,8 +928,8 @@
    18957
   ],
   "jp": "{voice:00BE01}あの女、追わなくてもいいのか？{n}アレはまた、君を狙うよ？",
-  "en": "",
-  "status": ""
+  "en": "You're not going after her? That one's going to come for you again, you know.",
+  "status": "done"
  },
  {
   "id": "event_2154_030C0",
@@ -940,8 +940,8 @@
    18975
   ],
   "jp": "{voice:00BF01}追えねぇよ。",
-  "en": "",
-  "status": ""
+  "en": "I can't.",
+  "status": "done"
  },
  {
   "id": "event_2154_030D1",
@@ -952,8 +952,8 @@
    18982
   ],
   "jp": "{voice:00C001}あんな悲しい目をした奴、{n}追える訳がないだろ。",
-  "en": "",
-  "status": ""
+  "en": "How could I go after someone with eyes that sad?",
+  "status": "done"
  },
  {
   "id": "event_2154_03103",
@@ -964,8 +964,8 @@
    19430
   ],
   "jp": "{voice:00C101}お前達の手並み、やはり見事。{n}私の目に狂いはなかったな。",
-  "en": "",
-  "status": ""
+  "en": "Fine work, as I expected. My eye did not deceive me.",
+  "status": "done"
  },
  {
   "id": "event_2154_0313F",
@@ -976,8 +976,8 @@
    19437
   ],
   "jp": "{voice:00C201}正式にお前達を、私の私兵として{n}迎え入れたいのだが、どうだ？",
-  "en": "",
-  "status": ""
+  "en": "I would like to formally welcome you as my private army. What do you say?",
+  "status": "done"
  },
  {
   "id": "event_2154_0317F",
@@ -988,8 +988,8 @@
    19455
   ],
   "jp": "{voice:00C301}その前にヴェルマン方伯、{n}あなたの目指す道とはなんだ？{n}嘘偽りなく、教えて欲しい。",
-  "en": "",
-  "status": ""
+  "en": "Before that, Margrave Velleman, what is this road you're aiming for? Tell us, with no lies.",
+  "status": "done"
  },
  {
   "id": "event_2154_031D4",
@@ -1000,8 +1000,8 @@
    19473
   ],
   "jp": "{voice:00C401}答えはシンプルだ。{n}帝国内で確固たる地位を築き、{n}この国を変える事。",
-  "en": "",
-  "status": ""
+  "en": "The answer is simple. To build a firm position within the Empire and change this country.",
+  "status": "done"
  },
  {
   "id": "event_2154_0321B",
@@ -1012,8 +1012,8 @@
    19491
   ],
   "jp": "{voice:00C501}国を変える、ですって？",
-  "en": "",
-  "status": ""
+  "en": "Change the country, you say?",
+  "status": "done"
  },
  {
   "id": "event_2154_03236",
@@ -1024,8 +1024,8 @@
    19509
   ],
   "jp": "{voice:00C601}貧困、差別、兵役、治安の悪化…{n}今や帝国は病みすぎている。",
-  "en": "",
-  "status": ""
+  "en": "Poverty, discrimination, conscription, rising crime... The Empire today is far too sick.",
+  "status": "done"
  },
  {
   "id": "event_2154_03274",
@@ -1036,8 +1036,8 @@
    19516
   ],
   "jp": "{voice:00C701}このまま放っておけば、{n}そう遠くない日に{n}我らの国は崩壊するだろう。",
-  "en": "",
-  "status": ""
+  "en": "Leave it as it is, and our nation will collapse before very long.",
+  "status": "done"
  },
  {
   "id": "event_2154_032BB",
@@ -1048,8 +1048,8 @@
    19523
   ],
   "jp": "{voice:00C801}誰かが根本から、{n}変えなければいけないのだ。",
-  "en": "",
-  "status": ""
+  "en": "Someone must change it at the root.",
+  "status": "done"
  },
  {
   "id": "event_2154_032EB",
@@ -1060,8 +1060,8 @@
    19530
   ],
   "jp": "{voice:00C901}だが、変化には、{n}必ず抵抗する者達がいる。",
-  "en": "",
-  "status": ""
+  "en": "But change always meets with those who resist it.",
+  "status": "done"
  },
  {
   "id": "event_2154_03319",
@@ -1072,8 +1072,8 @@
    19537
   ],
   "jp": "{voice:00CA01}既得権益にしがみつく帝都の廷臣、{n}大商人達、そして貴族の連中！",
-  "en": "",
-  "status": ""
+  "en": "The courtiers of the capital clinging to their interests, the great merchants, and the nobles!",
+  "status": "done"
  },
  {
   "id": "event_2154_0335B",
@@ -1084,8 +1084,8 @@
    19544
   ],
   "jp": "{voice:00CB01}来たるべき政敵との衝突に備え、{n}私には固有の武力が必要なのだ。",
-  "en": "",
-  "status": ""
+  "en": "To prepare for the coming clash with my political enemies, I need a force of my own.",
+  "status": "done"
  },
  {
   "id": "event_2154_0339D",
@@ -1096,8 +1096,8 @@
    19562
   ],
   "jp": "{voice:00CC01}それで僕達か、なるほどね。",
-  "en": "",
-  "status": ""
+  "en": "And that's where we come in. I see.",
+  "status": "done"
  },
  {
   "id": "event_2154_033BC",
@@ -1108,8 +1108,8 @@
    19580
   ],
   "jp": "{voice:00CD01}話はデカイね、ホント。{n}だけど、確かにシンプルだ。{n}筋も通っている。",
-  "en": "",
-  "status": ""
+  "en": "Big talk, it really is. But it's simple, I'll give him that. And it adds up.",
+  "status": "done"
  },
  {
   "id": "event_2154_03403",
@@ -1120,8 +1120,8 @@
    19598
   ],
   "jp": "{voice:00CE01}もうひとつ、聞かせてくれ。",
-  "en": "",
-  "status": ""
+  "en": "Tell me one more thing.",
+  "status": "done"
  },
  {
   "id": "event_2154_03422",
@@ -1132,8 +1132,8 @@
    19616
   ],
   "jp": "{voice:00CF01}ン？",
-  "en": "",
-  "status": ""
+  "en": "Hm?",
+  "status": "done"
  },
  {
   "id": "event_2154_0342B",
@@ -1144,8 +1144,8 @@
    19634
   ],
   "jp": "{voice:00D001}アンタと共に行けば、{n}世界を、変えられるのか？",
-  "en": "",
-  "status": ""
+  "en": "If I go with you, can I change the world?",
+  "status": "done"
  },
  {
   "id": "event_2154_0345D",
@@ -1156,8 +1156,8 @@
    19652
   ],
   "jp": "{voice:00D101}それは、お前の働き次第だ。{n}ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "That depends on what you do, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2154_03489",
@@ -1180,8 +1180,8 @@
    19688
   ],
   "jp": "{voice:00D201}来るか、私と共に？",
-  "en": "",
-  "status": ""
+  "en": "Will you come with me?",
+  "status": "done"
  },
  {
   "id": "event_2154_034AB",
@@ -1192,8 +1192,8 @@
    19706
   ],
   "jp": "{voice:00D301}あぁ、行ってやるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I'll come.",
+  "status": "done"
  },
  {
   "id": "event_2154_034C4",
@@ -1204,8 +1204,8 @@
    19724
   ],
   "jp": "{voice:00D401}お前達、ブレイズ義賊団と{n}名乗っていたな？",
-  "en": "",
-  "status": ""
+  "en": "You call yourselves the Blaze Justice Corps, do you not?",
+  "status": "done"
  },
  {
   "id": "event_2154_034F2",
@@ -1216,8 +1216,8 @@
    19742
   ],
   "jp": "{voice:00D501}そうだ。",
-  "en": "",
-  "status": ""
+  "en": "That's right.",
+  "status": "done"
  },
  {
   "id": "event_2154_034FF",
@@ -1228,8 +1228,8 @@
    19760
   ],
   "jp": "{voice:00D601}私の兵だ、義賊団はおかしいだろ。{n}これからは、グラムブレイズと{n}名乗るがいい。",
-  "en": "",
-  "status": ""
+  "en": "You are my soldiers now. A Justice Corps would not do. From now on, call yourselves Gram Blaze.",
+  "status": "done"
  },
  {
   "id": "event_2154_03550",
@@ -1240,8 +1240,8 @@
    19778
   ],
   "jp": "{voice:00D701}グラムブレイズ、怒れる炎か。{n}いいだろう。",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze, the raging flame. All right.",
+  "status": "done"
  },
  {
   "id": "event_2154_0357E",
@@ -1252,7 +1252,7 @@
    19785
   ],
   "jp": "{voice:00D801}燃え上がってみせるぜ。{n}この世の理不尽を焼き尽くして、{n}帝国を変える為に！",
-  "en": "",
-  "status": ""
+  "en": "I'll show you how we burn. We'll burn up this world's injustice and change the Empire!",
+  "status": "done"
  }
 ]

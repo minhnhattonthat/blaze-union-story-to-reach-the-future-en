@@ -536,8 +536,8 @@
    13008
   ],
   "jp": "{voice:009902}なんだと！",
-  "en": "",
-  "status": ""
+  "en": "What did you say!",
+  "status": "done"
  },
  {
   "id": "event_2157_00943",
@@ -1304,8 +1304,8 @@
    40052
   ],
   "jp": "それで元帝都の守備隊隊長かい？{n}正直、拍子抜けだね。",
-  "en": "",
-  "status": ""
+  "en": "And you're a former captain of the capital guard? Honestly, what a letdown.",
+  "status": "done"
  },
  {
   "id": "event_2157_014DF",
@@ -1316,8 +1316,8 @@
    40070
   ],
   "jp": "減らず口が叩けるのも、{n}今のうちだけだ！",
-  "en": "",
-  "status": ""
+  "en": "Run your mouth while you still can!",
+  "status": "done"
  },
  {
   "id": "event_2157_01507",
@@ -1328,8 +1328,8 @@
    40395
   ],
   "jp": "猪のような男だな。{n}まっすぐ突っ込む事しか知らん。",
-  "en": "",
-  "status": ""
+  "en": "The man's like a wild boar. All he knows is charging straight ahead.",
+  "status": "done"
  },
  {
   "id": "event_2157_01539",
@@ -1340,8 +1340,8 @@
    40413
   ],
   "jp": "偉そうに説教垂れやがって…！",
-  "en": "",
-  "status": ""
+  "en": "Lecturing me like you're somebody...!",
+  "status": "done"
  },
  {
   "id": "event_2157_01556",
@@ -1352,8 +1352,8 @@
    40738
   ],
   "jp": "とんでもない圧力！{n}競り勝つのがやっとか……",
-  "en": "",
-  "status": ""
+  "en": "What tremendous force! It is all I can do to hold him...",
+  "status": "done"
  },
  {
   "id": "event_2157_01582",
@@ -1364,8 +1364,8 @@
    40756
   ],
   "jp": "女だと思って油断したか。{n}その憂いを持つ剣、侮れないな…",
-  "en": "",
-  "status": ""
+  "en": "Got careless, thinking you're just a girl. That sorrowful sword of yours is no joke...",
+  "status": "done"
  },
  {
   "id": "event_2157_015BA",
@@ -1376,8 +1376,8 @@
    39481
   ],
   "jp": "しまったッ！",
-  "en": "",
-  "status": ""
+  "en": "Damn it!",
+  "status": "done"
  },
  {
   "id": "event_2157_015C7",
@@ -1388,8 +1388,8 @@
    39499
   ],
   "jp": "その程度の腕で{n}俺を打ち負かそうなど、笑止！",
-  "en": "",
-  "status": ""
+  "en": "Beat me with skill like that? Don't make me laugh!",
+  "status": "done"
  },
  {
   "id": "event_2157_015F3",
@@ -1400,8 +1400,8 @@
    39824
   ],
   "jp": "いけない、距離を取らないと……",
-  "en": "",
-  "status": ""
+  "en": "This is bad, I've got to get some distance...",
+  "status": "done"
  },
  {
   "id": "event_2157_01612",
@@ -1412,8 +1412,8 @@
    39842
   ],
   "jp": "隙を与えるな！{n}相手はひるんでいるぞ②",
-  "en": "",
-  "status": ""
+  "en": "Don't give them an opening! They're flinching!",
+  "status": "done"
  },
  {
   "id": "event_2157_01638",
@@ -1424,8 +1424,8 @@
    40167
   ],
   "jp": "なんて打撃力だ……{n}策がないと、受け切れないな。",
-  "en": "",
-  "status": ""
+  "en": "What striking power... Without a plan, we can't hold against it.",
+  "status": "done"
  },
  {
   "id": "event_2157_01668",
@@ -1436,8 +1436,8 @@
    40185
   ],
   "jp": "ククク、{n}小細工を弄しようと考えているな。{n}だがムダだ。俺の力の前ではな！",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh, plotting your little tricks, are you. Useless. Not against my strength!",
+  "status": "done"
  },
  {
   "id": "event_2157_016B1",
@@ -1448,8 +1448,8 @@
    40510
   ],
   "jp": "突破を許してしまった③{n}いけない、態勢を立て直すのよ！",
-  "en": "",
-  "status": ""
+  "en": "He broke through!? This is bad, let's regroup!",
+  "status": "done"
  },
  {
   "id": "event_2157_016E7",
@@ -1460,8 +1460,8 @@
    40528
   ],
   "jp": "なかなかやるじゃねぇか。{n}だが、相手が悪かったようだな！",
-  "en": "",
-  "status": ""
+  "en": "Not bad at all. But you picked the wrong opponent!",
+  "status": "done"
  },
  {
   "id": "event_2157_0171F",
@@ -1472,8 +1472,8 @@
    40853
   ],
   "jp": "貴様、俺と同じ匂いがするな！{n}人殺しを望んでるだろう、えぇ③",
-  "en": "",
-  "status": ""
+  "en": "You smell the same as me! You want to kill people, don't you, huh!?",
+  "status": "done"
  },
  {
   "id": "event_2157_0175B",
@@ -1484,8 +1484,8 @@
    40871
   ],
   "jp": "自分と一緒だと、{n}勝手に思わないでください！",
-  "en": "",
-  "status": ""
+  "en": "Do not presume that I am the same as you!",
+  "status": "done"
  },
  {
   "id": "event_2157_01787",
@@ -1496,8 +1496,8 @@
    13664
   ],
   "jp": "外が騒がしいな。{n}また例の黒い隊長が{n}訓練してるのか…",
-  "en": "",
-  "status": ""
+  "en": "Noisy out there. That black captain must be training again...",
+  "status": "done"
  },
  {
   "id": "event_2157_017BC",
@@ -1508,8 +1508,8 @@
    13671
   ],
   "jp": "え？{n}お前達が戦ってるのか？{n}また、えらく難儀だな…",
-  "en": "",
-  "status": ""
+  "en": "Huh? You're the ones fighting? That's a rough job...",
+  "status": "done"
  },
  {
   "id": "event_2157_017EF",
@@ -1520,8 +1520,8 @@
    13678
   ],
   "jp": "頑張ってくれよ。{n}痛い目見れば、あの隊長も{n}大人しくなるかもしれない。",
-  "en": "",
-  "status": ""
+  "en": "Give it your best. Get hurt a little, and that captain might settle down.",
+  "status": "done"
  },
  {
   "id": "event_2157_01834",
@@ -1532,8 +1532,8 @@
    13685
   ],
   "jp": "景気付けにこれをやろう。",
-  "en": "",
-  "status": ""
+  "en": "Here, take this for luck.",
+  "status": "done"
  },
  {
   "id": "event_2157_0184D",
@@ -1544,8 +1544,8 @@
    13770
   ],
   "jp": "雪道を行軍するときは{n}きっと役に立つハズだ。",
-  "en": "",
-  "status": ""
+  "en": "It's sure to come in handy on a march through the snow.",
+  "status": "done"
  },
  {
   "id": "event_2157_01879",
@@ -1556,8 +1556,8 @@
    13974
   ],
   "jp": "外が騒がしいな。{n}また例の黒い隊長が{n}訓練してるのか…",
-  "en": "",
-  "status": ""
+  "en": "Noisy out there. That black captain must be training again...",
+  "status": "done"
  },
  {
   "id": "event_2157_018AE",
@@ -1568,8 +1568,8 @@
    13981
   ],
   "jp": "ん？{n}キミ達が戦ってるのか？{n}女の子なのに、勇ましいんだな…",
-  "en": "",
-  "status": ""
+  "en": "Hm? You're the ones fighting? Brave of you, and you're girls too...",
+  "status": "done"
  },
  {
   "id": "event_2157_018E9",
@@ -1580,8 +1580,8 @@
    13988
   ],
   "jp": "頑張ってあの隊長を{n}黙らせてほしいが…{n}無理だけはしないでくれよ。",
-  "en": "",
-  "status": ""
+  "en": "I'd love for you to shut that captain up, but... don't overdo it, okay?",
+  "status": "done"
  },
  {
   "id": "event_2157_0192A",
@@ -1592,8 +1592,8 @@
    13995
   ],
   "jp": "そうだ。{n}景気付けにこれをやろう。",
-  "en": "",
-  "status": ""
+  "en": "Oh, right. Here, take this for luck.",
+  "status": "done"
  },
  {
   "id": "event_2157_0194C",
@@ -1604,8 +1604,8 @@
    14080
   ],
   "jp": "吹雪を凌ぐ耐寒コートだ。{n}雪山の行軍では役に立つはず。",
-  "en": "",
-  "status": ""
+  "en": "A cold-weather coat, good against blizzards. It ought to help on a march through snowy mountains.",
+  "status": "done"
  },
  {
   "id": "event_2157_01982",
@@ -1617,8 +1617,8 @@
    14125
   ],
   "jp": "住民を安心させる役目の警備隊が、{n}住民を不安がらせている…",
-  "en": "",
-  "status": ""
+  "en": "The guards who're meant to reassure the locals are the ones making them nervous...",
+  "status": "done"
  },
  {
   "id": "event_2157_019BC",
@@ -1630,8 +1630,8 @@
    14132
   ],
   "jp": "俺達山の男が掘り出した鉱石は、{n}廻りまわって軍の武具に使われる。{n}もっとも全部じゃないが…",
-  "en": "",
-  "status": ""
+  "en": "The ore we mountain men dig up winds up in the army's weapons and armor. Not all of it, but...",
+  "status": "done"
  },
  {
   "id": "event_2157_01A15",
@@ -1643,8 +1643,8 @@
    14139
   ],
   "jp": "その軍が住民を怯えさせる…{n}なんなんだろうなぁ、一体。",
-  "en": "",
-  "status": ""
+  "en": "And then that army scares the locals... What's it all for, anyway?",
+  "status": "done"
  },
  {
   "id": "event_2157_01A4B",
@@ -1655,8 +1655,8 @@
    23869
   ],
   "jp": "なんだか物々しい雰囲気だね。{n}また帝国軍が暴れているのかい？",
-  "en": "",
-  "status": ""
+  "en": "Things sure seem tense out here. Is the Imperial Army acting up again?",
+  "status": "done"
  },
  {
   "id": "event_2157_01A87",
@@ -1667,8 +1667,8 @@
    23876
   ],
   "jp": "物騒だなぁ、もう。",
-  "en": "",
-  "status": ""
+  "en": "So dangerous, jeez.",
+  "status": "done"
  },
  {
   "id": "event_2157_01A9A",
@@ -1679,8 +1679,8 @@
    23883
   ],
   "jp": "あ～あ、雪解けを待って{n}北に向かうつもりだったけど、{n}予定を早めた方がいいかな…",
-  "en": "",
-  "status": ""
+  "en": "Oh, man. I was going to wait for the thaw and head north, but maybe I should leave sooner...",
+  "status": "done"
  },
  {
   "id": "event_2157_01AE9",
@@ -1691,8 +1691,8 @@
    23890
   ],
   "jp": "あ、そうだ…{n}君達にこれをあげるよ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, I know... I'll give you this!",
+  "status": "done"
  },
  {
   "id": "event_2157_01B0D",
@@ -1703,8 +1703,8 @@
    23897
   ],
   "jp": "もし砂漠を渡る機会があれば{n}きっと役に立つハズだよ！",
-  "en": "",
-  "status": ""
+  "en": "If you ever get a chance to cross the desert, it's sure to help!",
+  "status": "done"
  },
  {
   "id": "event_2157_01B41",
@@ -1715,8 +1715,8 @@
    23982
   ],
   "jp": "いや、礼ならいらないよ。{n}今から雪国に向かうボクに{n}このアイテムはお荷物だからね。",
-  "en": "",
-  "status": ""
+  "en": "No, no thanks needed. I'm off to snow country, so this item's just dead weight for me.",
+  "status": "done"
  },
  {
   "id": "event_2157_01B92",
@@ -1727,8 +1727,8 @@
    24190
   ],
   "jp": "なんだか物々しい雰囲気だね。{n}また帝国軍が暴れているのかい？",
-  "en": "",
-  "status": ""
+  "en": "Things sure seem tense out here. Is the Imperial Army acting up again?",
+  "status": "done"
  },
  {
   "id": "event_2157_01BCE",
@@ -1739,8 +1739,8 @@
    24197
   ],
   "jp": "物騒だなぁ、もう。",
-  "en": "",
-  "status": ""
+  "en": "So dangerous, jeez.",
+  "status": "done"
  },
  {
   "id": "event_2157_01BE1",
@@ -1751,8 +1751,8 @@
    24204
   ],
   "jp": "あ～あ、雪解けを待って{n}北に向かうつもりだったけど、{n}予定を早めた方がいいかな…",
-  "en": "",
-  "status": ""
+  "en": "Oh, man. I was going to wait for the thaw and head north, but maybe I should leave sooner...",
+  "status": "done"
  },
  {
   "id": "event_2157_01C30",
@@ -1763,8 +1763,8 @@
    24211
   ],
   "jp": "あ、そうだ…{n}君達にこれをあげるよ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, I know... I'll give you this!",
+  "status": "done"
  },
  {
   "id": "event_2157_01C54",
@@ -1775,8 +1775,8 @@
    24221
   ],
   "jp": "このアイテムを身につければ、{n}水辺を自由に移動できる。{n}役に立つと思うよ！",
-  "en": "",
-  "status": ""
+  "en": "Wear this item and you can move freely around the waterside. I think you'll find it useful!",
+  "status": "done"
  },
  {
   "id": "event_2157_01C9D",
@@ -1787,8 +1787,8 @@
    24306
   ],
   "jp": "雪国では水は冷たいからね。{n}このアイテムは使えないんだ。{n}遠慮せずに持って行ってよ。",
-  "en": "",
-  "status": ""
+  "en": "The water's freezing in snow country, so I can't use this. Don't be shy, take it.",
+  "status": "done"
  },
  {
   "id": "event_2157_01CF0",
@@ -1800,8 +1800,8 @@
    24351
   ],
   "jp": "ここの警備隊は本来、{n}北の隣国に備えて組織された{n}部隊なんだ。",
-  "en": "",
-  "status": ""
+  "en": "The guards here were originally organized to deal with the neighboring country to the north.",
+  "status": "done"
  },
  {
   "id": "event_2157_01D2D",
@@ -1813,8 +1813,8 @@
    24358
   ],
   "jp": "要するに、このへんに住む人達…{n}ひいてはこの国を守るのが役目だ。",
-  "en": "",
-  "status": ""
+  "en": "In short, their job is to protect the people living around here... and by extension this country.",
+  "status": "done"
  },
  {
   "id": "event_2157_01D6D",
@@ -1826,8 +1826,8 @@
    24365
   ],
   "jp": "その警備隊が毎日訓練に騒ぎ、{n}人達の平穏を乱してる…",
-  "en": "",
-  "status": ""
+  "en": "And those same guards make a racket training every day, and disturb the people's peace...",
+  "status": "done"
  },
  {
   "id": "event_2157_01DA1",
@@ -1839,8 +1839,8 @@
    24372
   ],
   "jp": "軍隊って、なんなんだろうねぇ？",
-  "en": "",
-  "status": ""
+  "en": "What is an army, anyway?",
+  "status": "done"
  },
  {
   "id": "event_2157_01DC0",
@@ -1851,8 +1851,8 @@
    33909
   ],
   "jp": "おや、君は…{n}軍隊を率いる将のようだね。{n}それも貴族か商人の私兵、かね？",
-  "en": "",
-  "status": ""
+  "en": "Well now, you look like a general leading troops. A noble's or merchant's private army, perhaps?",
+  "status": "done"
  },
  {
   "id": "event_2157_01E07",
@@ -1863,8 +1863,8 @@
    33916
   ],
   "jp": "驚く事はない。兵法に精通すれば、{n}いでたちを見るだけで{n}それぐらいは見通せるさ。",
-  "en": "",
-  "status": ""
+  "en": "No need for surprise. Master the art of war, and your attire alone tells me that much.",
+  "status": "done"
  },
  {
   "id": "event_2157_01E56",
@@ -1875,8 +1875,8 @@
    33923
   ],
   "jp": "そうだ、{n}君達に一つアドバイスをあげよう。{n}『地形効果』についてだ。",
-  "en": "",
-  "status": ""
+  "en": "Yes, let me give you a word of advice. About \"terrain effects.\"",
+  "status": "done"
  },
  {
   "id": "event_2157_01E99",
@@ -1887,8 +1887,8 @@
    33930
   ],
   "jp": "地形の中には、{n}戦闘での損害を軽減するものが{n}いくつか存在する。",
-  "en": "",
-  "status": ""
+  "en": "Some kinds of terrain reduce the damage you take in battle.",
+  "status": "done"
  },
  {
   "id": "event_2157_01ED8",
@@ -1899,8 +1899,8 @@
    33937
   ],
   "jp": "例えば『城砦』や『都市』は{n}地形効果が高い。{n}長期戦では特に有効だ。",
-  "en": "",
-  "status": ""
+  "en": "For example, Fortresses and Cities have strong terrain effects. They work especially well in long battles.",
+  "status": "done"
  },
  {
   "id": "event_2157_01F1B",
@@ -1911,8 +1911,8 @@
    33944
   ],
   "jp": "さらに、ユニットの中には{n}特定の地形の上で戦うと{n}パワーアップするものがいる。",
-  "en": "",
-  "status": ""
+  "en": "On top of that, some units gain power when they fight on certain terrain.",
+  "status": "done"
  },
  {
   "id": "event_2157_01F68",
@@ -1923,8 +1923,8 @@
    33951
   ],
   "jp": "ナイトは街道で強化されるし、{n}森の中のハンターは脅威だ。",
-  "en": "",
-  "status": ""
+  "en": "Knights grow stronger on roads, and a Hunter in the forest is a menace.",
+  "status": "done"
  },
  {
   "id": "event_2157_01FA0",
@@ -1935,8 +1935,8 @@
    33958
   ],
   "jp": "優位な地形に立つ相手と{n}戦うのは極めて不利だ。",
-  "en": "",
-  "status": ""
+  "en": "Fighting an opponent standing on favorable terrain puts you at a severe disadvantage.",
+  "status": "done"
  },
  {
   "id": "event_2157_01FCE",
@@ -1947,8 +1947,8 @@
    33965
   ],
   "jp": "地形から誘き出すなりして、{n}こちらが優位に立って戦う。{n}それが戦術というものだ。",
-  "en": "",
-  "status": ""
+  "en": "Lure them off that ground and fight from the better position. That is what tactics means.",
+  "status": "done"
  },
  {
   "id": "event_2157_0201D",
@@ -1959,8 +1959,8 @@
    34103
   ],
   "jp": "おや…？{n}わざわざ夜中に訪ねてくるとは{n}勉強熱心な事だ。",
-  "en": "",
-  "status": ""
+  "en": "Well now...? To go out of your way and visit at midnight, you're an eager student.",
+  "status": "done"
  },
  {
   "id": "event_2157_02054",
@@ -1971,8 +1971,8 @@
    34110
   ],
   "jp": "私が直々に軍学を{n}伝授したいところだが…{n}この歳に夜はいささか辛くてな。",
-  "en": "",
-  "status": ""
+  "en": "I would love to teach you the art of war myself, but... nights are a bit hard at my age.",
+  "status": "done"
  },
  {
   "id": "event_2157_0209B",
@@ -1983,8 +1983,8 @@
    34117
   ],
   "jp": "この書物を納めなさい。{n}私も編集に関わった兵法書だ。",
-  "en": "",
-  "status": ""
+  "en": "Accept this book. It is a war manual I helped compile.",
+  "status": "done"
  },
  {
   "id": "event_2157_020CF",
@@ -1995,8 +1995,8 @@
    34202
   ],
   "jp": "私の軍学が、人々の為に{n}使われる事を願っているよ。",
-  "en": "",
-  "status": ""
+  "en": "I hope my teachings will be used for the good of the people.",
+  "status": "done"
  },
  {
   "id": "event_2157_02101",
@@ -2019,8 +2019,8 @@
    34250
   ],
   "jp": "また訪ねてくるとは……{n}熱心なのはいいのだが、",
-  "en": "",
-  "status": ""
+  "en": "Back again... Eagerness is all very well, but",
+  "status": "done"
  },
  {
   "id": "event_2157_0213A",
@@ -2031,8 +2031,8 @@
    34257
   ],
   "jp": "正直言って眠いんだ。{n}帰ってくれ。",
-  "en": "",
-  "status": ""
+  "en": "Frankly, I'm sleepy. Go home.",
+  "status": "done"
  },
  {
   "id": "event_2157_0215C",
@@ -2043,8 +2043,8 @@
    34264
   ],
   "jp": "…眠いんだ、本当に。{n}若い君達がうらやましい…",
-  "en": "",
-  "status": ""
+  "en": "...I'm sleepy, truly. I envy you young folk...",
+  "status": "done"
  },
  {
   "id": "event_2157_0218A",
@@ -2055,8 +2055,8 @@
    34368
   ],
   "jp": "また軍のひとたちが{n}あばれはじめたみたいだから、{n}いまのうちにお花をつんでおくの。",
-  "en": "",
-  "status": ""
+  "en": "The army people look like they're going wild again, so I'm picking flowers while I can.",
+  "status": "done"
  },
  {
   "id": "event_2157_021DB",
@@ -2067,8 +2067,8 @@
    34378
   ],
   "jp": "でも、わたしひとりだと{n}抱えきれないから、{n}ちょっとわけてあげるね。",
-  "en": "",
-  "status": ""
+  "en": "But I can't carry them all by myself, so I'll share some with you.",
+  "status": "done"
  },
  {
   "id": "event_2157_0221E",
@@ -2079,8 +2079,8 @@
    34463
   ],
   "jp": "いいかおりでしょう？{n}大切にしてね♪",
-  "en": "",
-  "status": ""
+  "en": "They smell nice, don't they? Take good care of them ♪",
+  "status": "done"
  },
  {
   "id": "event_2157_02242",
@@ -2091,8 +2091,8 @@
    34597
   ],
   "jp": "ん…？　なんだ、この感じ…",
-  "en": "",
-  "status": ""
+  "en": "Hm...? What's this feeling...",
+  "status": "done"
  },
  {
   "id": "event_2157_0225D",
@@ -2103,8 +2103,8 @@
    34683
   ],
   "jp": "このトラップのせいか。{n}獣でも捕まえよう、っていうのか。",
-  "en": "",
-  "status": ""
+  "en": "So this trap's the reason. Trying to catch a beast or something.",
+  "status": "done"
  },
  {
   "id": "event_2157_02295",
@@ -2115,8 +2115,8 @@
    34790
   ],
   "jp": "…肌を刺す、変な感覚がするわね。",
-  "en": "",
-  "status": ""
+  "en": "...I've got this weird, prickly feeling on my skin.",
+  "status": "done"
  },
  {
   "id": "event_2157_022B6",
@@ -2127,8 +2127,8 @@
    34876
   ],
   "jp": "コイツのせいね…{n}行軍中に引っ掛かってもいやだし、{n}外させてもらおうかしら。",
-  "en": "",
-  "status": ""
+  "en": "This thing's the reason... I don't want to get caught on the march, so I guess I'll take it off.",
+  "status": "done"
  },
  {
   "id": "event_2157_02301",
@@ -2139,8 +2139,8 @@
    34983
   ],
   "jp": "ん？　なに、どうかした？",
-  "en": "",
-  "status": ""
+  "en": "Hm? What, is something wrong?",
+  "status": "done"
  },
  {
   "id": "event_2157_0231A",
@@ -2151,8 +2151,8 @@
    35069
   ],
   "jp": "あら、罠に掛かっちゃったのか。{n}外しちゃおうか。",
-  "en": "",
-  "status": ""
+  "en": "Oh dear, you got caught in a trap. Shall I take it off?",
+  "status": "done"
  },
  {
   "id": "event_2157_0234A",
@@ -2175,8 +2175,8 @@
    35262
   ],
   "jp": "…稚拙な罠だな。{n}どうせ仕掛けるなら、{n}もっとマシなものにすべきだな。",
-  "en": "",
-  "status": ""
+  "en": "...A clumsy trap. If you're going to set one, you should make it something better.",
+  "status": "done"
  },
  {
   "id": "event_2157_0239A",
@@ -2187,8 +2187,8 @@
    35369
   ],
   "jp": "…痛ッ！",
-  "en": "",
-  "status": ""
+  "en": "...Ow!",
+  "status": "done"
  },
  {
   "id": "event_2157_023A3",
@@ -2199,8 +2199,8 @@
    35455
   ],
   "jp": "…こ、これは？{n}誰かのイタズラでしょうか…{n}まったくもう、いたた…",
-  "en": "",
-  "status": ""
+  "en": "...Wh-what is this? Someone's prank, perhaps... Honestly, ow, ow...",
+  "status": "done"
  },
  {
   "id": "event_2157_023E4",
@@ -2211,8 +2211,8 @@
    35604
   ],
   "jp": "なんだか匂いがするな…",
-  "en": "",
-  "status": ""
+  "en": "Something smells...",
+  "status": "done"
  },
  {
   "id": "event_2157_023FB",
@@ -2223,8 +2223,8 @@
    35690
   ],
   "jp": "これは、ミントか？{n}市場ではよく取引されているが…{n}もらっておくか。",
-  "en": "",
-  "status": ""
+  "en": "Is this mint? It trades well at the market... I'll take it.",
+  "status": "done"
  },
  {
   "id": "event_2157_0243E",
@@ -2235,8 +2235,8 @@
    35797
   ],
   "jp": "くんくん…{n}なんだろう、いい匂いね。",
-  "en": "",
-  "status": ""
+  "en": "*sniff sniff*... What is that? It smells nice.",
+  "status": "done"
  },
  {
   "id": "event_2157_02462",
@@ -2247,8 +2247,8 @@
    35883
   ],
   "jp": "わあ！　エレミナミントだわ！{n}これお風呂に浮かべると{n}お肌にいいのよねぇ…",
-  "en": "",
-  "status": ""
+  "en": "Wow! Elemina Mint! Float this in the bath and it's so good for your skin...",
+  "status": "done"
  },
  {
   "id": "event_2157_024AB",
@@ -2259,8 +2259,8 @@
    35990
   ],
   "jp": "おや…？　これは…",
-  "en": "",
-  "status": ""
+  "en": "Oh...? What's this...",
+  "status": "done"
  },
  {
   "id": "event_2157_024BE",
@@ -2271,8 +2271,8 @@
    36076
   ],
   "jp": "いい匂いの元はこのミントか。{n}シスキアにあげたら喜ぶかな？",
-  "en": "",
-  "status": ""
+  "en": "So this mint is where the nice smell comes from. Would Siskier like it if I gave it to her?",
+  "status": "done"
  },
  {
   "id": "event_2157_024F8",
@@ -2283,8 +2283,8 @@
    36183
   ],
   "jp": "む…？　なんの匂いだ…",
-  "en": "",
-  "status": ""
+  "en": "Hm...? What's that smell...",
+  "status": "done"
  },
  {
   "id": "event_2157_0250F",
@@ -2295,8 +2295,8 @@
    36269
   ],
   "jp": "ミントか。{n}食用にも気付けにも使えそうに{n}ないが、もらっておくか。",
-  "en": "",
-  "status": ""
+  "en": "Mint. Doesn't look like it'd work as food or a pick-me-up, but I'll take it.",
+  "status": "done"
  },
  {
   "id": "event_2157_02550",
@@ -2307,8 +2307,8 @@
    36376
   ],
   "jp": "あら、なんでしょう…",
-  "en": "",
-  "status": ""
+  "en": "Oh, what could this be...",
+  "status": "done"
  },
  {
   "id": "event_2157_02565",
@@ -2319,8 +2319,8 @@
    36462
   ],
   "jp": "ミントですか…{n}それにしても、いい匂いですね。",
-  "en": "",
-  "status": ""
+  "en": "Mint, is it... In any case, what a lovely scent.",
+  "status": "done"
  },
  {
   "id": "event_2157_02593",
@@ -2331,8 +2331,8 @@
    36611
   ],
   "jp": "穏やかな風景だな…",
-  "en": "",
-  "status": ""
+  "en": "What a peaceful view...",
+  "status": "done"
  },
  {
   "id": "event_2157_025A6",
@@ -2343,8 +2343,8 @@
    36686
   ],
   "jp": "お？　四葉のクローバーか。",
-  "en": "",
-  "status": ""
+  "en": "Oh? A four-leaf clover.",
+  "status": "done"
  },
  {
   "id": "event_2157_025C1",
@@ -2355,8 +2355,8 @@
    36704
   ],
   "jp": "…昔、シスキアが集めてたな。{n}いや、子どもの頃の話か…",
-  "en": "",
-  "status": ""
+  "en": "...Siskier used to collect these. No, that was back when we were kids...",
+  "status": "done"
  },
  {
   "id": "event_2157_025F7",
@@ -2367,8 +2367,8 @@
    36711
   ],
   "jp": "今持っていったところで{n}喜ぶとは思えないが…",
-  "en": "",
-  "status": ""
+  "en": "Not that she'd be happy if I brought her one now...",
+  "status": "done"
  },
  {
   "id": "event_2157_02623",
@@ -2379,8 +2379,8 @@
    36818
   ],
   "jp": "なんだか落ち着くわね…",
-  "en": "",
-  "status": ""
+  "en": "This is kinda relaxing...",
+  "status": "done"
  },
  {
   "id": "event_2157_0263A",
@@ -2391,8 +2391,8 @@
    36904
   ],
   "jp": "あら？　四葉のクローバーね！",
-  "en": "",
-  "status": ""
+  "en": "Oh? It's a four-leaf clover!",
+  "status": "done"
  },
  {
   "id": "event_2157_02657",
@@ -2403,8 +2403,8 @@
    36911
   ],
   "jp": "いくつになっても、見つけると{n}幸せな気持ちになるわね…",
-  "en": "",
-  "status": ""
+  "en": "No matter how old you get, finding one always makes you happy...",
+  "status": "done"
  },
  {
   "id": "event_2157_0268D",
@@ -2415,8 +2415,8 @@
    37018
   ],
   "jp": "おや…？",
-  "en": "",
-  "status": ""
+  "en": "Oh...?",
+  "status": "done"
  },
  {
   "id": "event_2157_02696",
@@ -2427,8 +2427,8 @@
    37104
   ],
   "jp": "珍しい、四葉のクローバーだ。{n}なんだかラッキーな気分だね。",
-  "en": "",
-  "status": ""
+  "en": "How rare, a four-leaf clover. I feel lucky somehow.",
+  "status": "done"
  },
  {
   "id": "event_2157_026D0",
@@ -2439,8 +2439,8 @@
    37211
   ],
   "jp": "のどかな草むらだな。",
-  "en": "",
-  "status": ""
+  "en": "What a peaceful stretch of grass.",
+  "status": "done"
  },
  {
   "id": "event_2157_026E5",
@@ -2451,8 +2451,8 @@
    37297
   ],
   "jp": "お、四葉のクローバーか。{n}戦いなんかがなければ{n}本当にのどかな場所なんだよな…",
-  "en": "",
-  "status": ""
+  "en": "Oh, a four-leaf clover. If not for all the fighting, this would be a truly peaceful place...",
+  "status": "done"
  },
  {
   "id": "event_2157_02732",
@@ -2463,8 +2463,8 @@
    37404
   ],
   "jp": "…あら？",
-  "en": "",
-  "status": ""
+  "en": "...Oh?",
+  "status": "done"
  },
  {
   "id": "event_2157_0273B",
@@ -2475,8 +2475,8 @@
    37490
   ],
   "jp": "四葉のクローバーですか。{n}なんだかほのぼのしますね。",
-  "en": "",
-  "status": ""
+  "en": "A four-leaf clover? Somehow it warms the heart.",
+  "status": "done"
  },
  {
   "id": "event_2157_02821",
@@ -2487,8 +2487,8 @@
    10270
   ],
   "jp": "グラムブレイズ",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze",
+  "status": "done"
  },
  {
   "id": "event_2157_02862",
@@ -2499,7 +2499,7 @@
    10335
   ],
   "jp": "レオン黒騎士団",
-  "en": "",
-  "status": ""
+  "en": "Leon's Knights",
+  "status": "done"
  }
 ]

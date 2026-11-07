@@ -114,8 +114,8 @@
    }
   ],
   "jp": "ティエラに横行する{n}夜盗を捕らえよ！",
-  "en": "",
-  "status": ""
+  "en": "Catch the night raiders{n}running wild in Tiera!",
+  "status": "done"
  },
  {
   "id": "eboot_27950E",
@@ -128,8 +128,8 @@
    }
   ],
   "jp": "エルルク山脈に住む{n}魔法使いを登用せよ！",
-  "en": "",
-  "status": ""
+  "en": "Recruit the mage who lives{n}in the Erruk Mountains!",
+  "status": "done"
  },
  {
   "id": "eboot_279536",
@@ -142,8 +142,8 @@
    }
   ],
   "jp": "雪山で消息を絶った{n}方伯の知人を捜せ！",
-  "en": "",
-  "status": ""
+  "en": "Find the Margrave's friend{n}lost in the snowy mountains!",
+  "status": "done"
  },
  {
   "id": "eboot_27955C",
@@ -156,8 +156,8 @@
    }
   ],
   "jp": "盗賊の襲撃に怯える{n}街を守り抜け！",
-  "en": "",
-  "status": ""
+  "en": "Protect the town living{n}in fear of thieves!",
+  "status": "done"
  },
  {
   "id": "eboot_27957E",
@@ -170,8 +170,8 @@
    }
   ],
   "jp": "西部地域を本拠とする{n}反乱軍と接触せよ！",
-  "en": "",
-  "status": ""
+  "en": "Contact the rebels based{n}in the Western Region!",
+  "status": "done"
  },
  {
   "id": "eboot_2795A6",
@@ -184,8 +184,8 @@
    }
   ],
   "jp": "盗まれた方伯の宝物を{n}スリ師から取り戻せ！",
-  "en": "",
-  "status": ""
+  "en": "Get the Margrave's stolen{n}treasure from the pickpocket!",
+  "status": "done"
  },
  {
   "id": "eboot_2795D0",
@@ -198,8 +198,8 @@
    }
   ],
   "jp": "皇帝への賄賂を積んだ{n}貴族の船を襲え！",
-  "en": "",
-  "status": ""
+  "en": "Raid the noble's ship loaded{n}with bribes for the Emperor!",
+  "status": "done"
  },
  {
   "id": "eboot_2795F6",
@@ -212,8 +212,8 @@
    }
   ],
   "jp": "方伯が代理で統治する{n}街で租税を徴収せよ！",
-  "en": "",
-  "status": ""
+  "en": "Collect taxes in the town{n}the Margrave rules for him!",
+  "status": "done"
  },
  {
   "id": "eboot_279620",
@@ -226,8 +226,8 @@
    }
   ],
   "jp": "方伯は外国に外遊中…{n}休暇を満喫せよ！",
-  "en": "",
-  "status": ""
+  "en": "The Margrave is abroad...{n}Enjoy your vacation!",
+  "status": "done"
  },
  {
   "id": "eboot_279646",
@@ -240,8 +240,8 @@
    }
   ],
   "jp": "日に日に力を増す{n}反乱軍を抑えこめ！",
-  "en": "",
-  "status": ""
+  "en": "Hold down the rebels,{n}stronger by the day!",
+  "status": "done"
  },
  {
   "id": "eboot_27966A",
@@ -254,8 +254,8 @@
    }
   ],
   "jp": "金塊運搬のニセ情報で{n}山賊を誘き出せ！",
-  "en": "",
-  "status": ""
+  "en": "Lure out bandits with fake{n}news of a gold shipment!",
+  "status": "done"
  },
  {
   "id": "eboot_279690",
@@ -268,8 +268,8 @@
    }
   ],
   "jp": "塩の着服で私利を得る{n}役人を取り締まれ！",
-  "en": "",
-  "status": ""
+  "en": "Crack down on an official{n}pocketing salt profits!",
+  "status": "done"
  },
  {
   "id": "eboot_2796B8",
@@ -282,8 +282,8 @@
    }
   ],
   "jp": "皇帝直々に開催する{n}軍事演習に参加せよ！",
-  "en": "",
-  "status": ""
+  "en": "Join war games held by{n}the Emperor himself!",
+  "status": "done"
  },
  {
   "id": "eboot_2796E0",
@@ -297,8 +297,8 @@
    }
   ],
   "jp": "このシナリオでよろしいですか？",
-  "en": "",
-  "status": ""
+  "en": "Choose this scenario?",
+  "status": "done"
  },
  {
   "id": "eboot_2799D8",
@@ -311,8 +311,8 @@
    }
   ],
   "jp": "メイクドール",
-  "en": "",
-  "status": ""
+  "en": "Make Doll",
+  "status": "done"
  },
  {
   "id": "eboot_2799E5",
@@ -325,8 +325,8 @@
    }
   ],
   "jp": "ネクロゲート",
-  "en": "",
-  "status": ""
+  "en": "Necro Gate",
+  "status": "done"
  },
  {
   "id": "eboot_2799F2",
@@ -339,8 +339,8 @@
    }
   ],
   "jp": "メデューサアイ",
-  "en": "",
-  "status": ""
+  "en": "Medusa Eye",
+  "status": "done"
  },
  {
   "id": "eboot_279A01",
@@ -353,8 +353,8 @@
    }
   ],
   "jp": "ポイズンブレス",
-  "en": "",
-  "status": ""
+  "en": "Poison Breath",
+  "status": "done"
  },
  {
   "id": "eboot_279A10",
@@ -367,8 +367,8 @@
    }
   ],
   "jp": "グラヴィティカオス",
-  "en": "",
-  "status": ""
+  "en": "Gravity Chaos",
+  "status": "done"
  },
  {
   "id": "eboot_279A23",
@@ -381,8 +381,8 @@
    }
   ],
   "jp": "アイテムブレイク",
-  "en": "",
-  "status": ""
+  "en": "Item Break",
+  "status": "done"
  },
  {
   "id": "eboot_279A34",
@@ -395,8 +395,8 @@
    }
   ],
   "jp": "スティール",
-  "en": "",
-  "status": ""
+  "en": "Steal",
+  "status": "done"
  },
  {
   "id": "eboot_279A3F",
@@ -409,8 +409,8 @@
    }
   ],
   "jp": "ブラッディクロー",
-  "en": "",
-  "status": ""
+  "en": "Bloody Claw",
+  "status": "done"
  },
  {
   "id": "eboot_279A50",
@@ -423,8 +423,8 @@
    }
   ],
   "jp": "チャリオット",
-  "en": "",
-  "status": ""
+  "en": "Chariot",
+  "status": "done"
  },
  {
   "id": "eboot_279A5D",
@@ -437,8 +437,8 @@
    }
   ],
   "jp": "シールドバリア",
-  "en": "",
-  "status": ""
+  "en": "Shield Barrier",
+  "status": "done"
  },
  {
   "id": "eboot_279A6C",
@@ -451,8 +451,8 @@
    }
   ],
   "jp": "フレイム",
-  "en": "",
-  "status": ""
+  "en": "Flame",
+  "status": "done"
  },
  {
   "id": "eboot_279A75",
@@ -465,8 +465,8 @@
    }
   ],
   "jp": "ブリザード",
-  "en": "",
-  "status": ""
+  "en": "Blizzard",
+  "status": "done"
  },
  {
   "id": "eboot_279A80",
@@ -479,8 +479,8 @@
    }
   ],
   "jp": "サンダーボルト",
-  "en": "",
-  "status": ""
+  "en": "Thunderbolt",
+  "status": "done"
  },
  {
   "id": "eboot_279A8F",
@@ -493,8 +493,8 @@
    }
   ],
   "jp": "バニッシュ",
-  "en": "",
-  "status": ""
+  "en": "Banish",
+  "status": "done"
  },
  {
   "id": "eboot_279A9A",
@@ -507,8 +507,8 @@
    }
   ],
   "jp": "ドラゴンキラー",
-  "en": "",
-  "status": ""
+  "en": "Dragon Killer",
+  "status": "done"
  },
  {
   "id": "eboot_279AA9",
@@ -521,8 +521,8 @@
    }
   ],
   "jp": "アースクウェイク",
-  "en": "",
-  "status": ""
+  "en": "Earthquake",
+  "status": "done"
  },
  {
   "id": "eboot_279ABA",
@@ -535,8 +535,8 @@
    }
   ],
   "jp": "マインドチェンジ",
-  "en": "",
-  "status": ""
+  "en": "Mind Change",
+  "status": "done"
  },
  {
   "id": "eboot_279ACB",
@@ -549,8 +549,8 @@
    }
   ],
   "jp": "レヴォリューション",
-  "en": "",
-  "status": ""
+  "en": "Revolution",
+  "status": "done"
  },
  {
   "id": "eboot_279ADE",
@@ -563,8 +563,8 @@
    }
   ],
   "jp": "ジハード",
-  "en": "",
-  "status": ""
+  "en": "Jihad",
+  "status": "done"
  },
  {
   "id": "eboot_279AE7",
@@ -577,8 +577,8 @@
    }
   ],
   "jp": "サンクチュアリ",
-  "en": "",
-  "status": ""
+  "en": "Sanctuary",
+  "status": "done"
  },
  {
   "id": "eboot_279AF6",
@@ -591,8 +591,8 @@
    }
   ],
   "jp": "リフレッシュメント",
-  "en": "",
-  "status": ""
+  "en": "Refreshment",
+  "status": "done"
  },
  {
   "id": "eboot_279B09",
@@ -605,8 +605,8 @@
    }
   ],
   "jp": "キスオブデス",
-  "en": "",
-  "status": ""
+  "en": "Kiss of Death",
+  "status": "done"
  },
  {
   "id": "eboot_279B16",
@@ -619,8 +619,8 @@
    }
   ],
   "jp": "フォーチュン",
-  "en": "",
-  "status": ""
+  "en": "Fortune",
+  "status": "done"
  },
  {
   "id": "eboot_279B23",
@@ -633,8 +633,8 @@
    }
   ],
   "jp": "ミラージュ",
-  "en": "",
-  "status": ""
+  "en": "Mirage",
+  "status": "done"
  },
  {
   "id": "eboot_279B2E",
@@ -647,8 +647,8 @@
    }
   ],
   "jp": "バンシーズクライ",
-  "en": "",
-  "status": ""
+  "en": "Banshee's Cry",
+  "status": "done"
  },
  {
   "id": "eboot_279B3F",
@@ -661,8 +661,8 @@
    }
   ],
   "jp": "アイヴィウィップ",
-  "en": "",
-  "status": ""
+  "en": "Ivy Whip",
+  "status": "done"
  },
  {
   "id": "eboot_279B50",
@@ -675,8 +675,8 @@
    }
   ],
   "jp": "サンドストーム",
-  "en": "",
-  "status": ""
+  "en": "Sandstorm",
+  "status": "done"
  },
  {
   "id": "eboot_279B5F",
@@ -689,8 +689,8 @@
    }
   ],
   "jp": "マントラップ",
-  "en": "",
-  "status": ""
+  "en": "Man Trap",
+  "status": "done"
  },
  {
   "id": "eboot_279B6C",
@@ -703,8 +703,8 @@
    }
   ],
   "jp": "ロックフォール",
-  "en": "",
-  "status": ""
+  "en": "Rockfall",
+  "status": "done"
  },
  {
   "id": "eboot_279B7B",
@@ -717,8 +717,8 @@
    }
   ],
   "jp": "エースガード",
-  "en": "",
-  "status": ""
+  "en": "Ace Guard",
+  "status": "done"
  },
  {
   "id": "eboot_279B88",
@@ -731,8 +731,8 @@
    }
   ],
   "jp": "ジェノサイド",
-  "en": "",
-  "status": ""
+  "en": "Genocide",
+  "status": "done"
  },
  {
   "id": "eboot_279B95",
@@ -745,8 +745,8 @@
    }
   ],
   "jp": "リィンカーネーション",
-  "en": "",
-  "status": ""
+  "en": "Reincarnation",
+  "status": "done"
  },
  {
   "id": "eboot_279BAA",
@@ -759,8 +759,8 @@
    }
   ],
   "jp": "リヴェリオン",
-  "en": "",
-  "status": ""
+  "en": "Rebellion",
+  "status": "done"
  },
  {
   "id": "eboot_279BB7",
@@ -773,8 +773,8 @@
    }
   ],
   "jp": "オブリヴィアスドーン",
-  "en": "",
-  "status": ""
+  "en": "Oblivious Dawn",
+  "status": "done"
  },
  {
   "id": "eboot_279BCC",
@@ -787,8 +787,8 @@
    }
   ],
   "jp": "コーマカルマ",
-  "en": "",
-  "status": ""
+  "en": "Coma Karma",
+  "status": "done"
  },
  {
   "id": "eboot_279BD9",
@@ -801,8 +801,8 @@
    }
   ],
   "jp": "ジャッジメントゼロ",
-  "en": "",
-  "status": ""
+  "en": "Judgment Zero",
+  "status": "done"
  },
  {
   "id": "eboot_279BEC",
@@ -815,8 +815,8 @@
    }
   ],
   "jp": "ラウーガー",
-  "en": "",
-  "status": ""
+  "en": "Rauger",
+  "status": "done"
  },
  {
   "id": "eboot_279BF7",
@@ -829,8 +829,8 @@
    }
   ],
   "jp": "インサニティ",
-  "en": "",
-  "status": ""
+  "en": "Insanity",
+  "status": "done"
  },
  {
   "id": "eboot_279C04",
@@ -843,8 +843,8 @@
    }
   ],
   "jp": "ヴァイス",
-  "en": "",
-  "status": ""
+  "en": "Vice",
+  "status": "done"
  },
  {
   "id": "eboot_279C0D",
@@ -869,8 +869,8 @@
    }
   ],
   "jp": "自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "",
-  "status": ""
+  "en": "Works if own TEC >= foe GEN",
+  "status": "done"
  },
  {
   "id": "eboot_279C26",
@@ -904,8 +904,8 @@
    }
   ],
   "jp": "エースタイプが合えばＯＫ",
-  "en": "",
-  "status": ""
+  "en": "OK if Ace Type matches",
+  "status": "done"
  },
  {
   "id": "eboot_279C3F",
@@ -921,8 +921,8 @@
    }
   ],
   "jp": "昼間限定",
-  "en": "",
-  "status": ""
+  "en": "Daytime only",
+  "status": "done"
  },
  {
   "id": "eboot_279C48",
@@ -935,8 +935,8 @@
    }
   ],
   "jp": "夜間限定",
-  "en": "",
-  "status": ""
+  "en": "Night only",
+  "status": "done"
  },
  {
   "id": "eboot_279C51",
@@ -949,8 +949,8 @@
    }
   ],
   "jp": "効果持続時間＝短い",
-  "en": "",
-  "status": ""
+  "en": "Effect lasts: Short",
+  "status": "done"
  },
  {
   "id": "eboot_279C64",
@@ -969,8 +969,8 @@
    }
   ],
   "jp": "効果持続時間＝普通",
-  "en": "",
-  "status": ""
+  "en": "Effect lasts: Normal",
+  "status": "done"
  },
  {
   "id": "eboot_279C77",
@@ -983,8 +983,8 @@
    }
   ],
   "jp": "効果持続時間＝長い",
-  "en": "",
-  "status": ""
+  "en": "Effect lasts: Long",
+  "status": "done"
  },
  {
   "id": "eboot_279C8C",
