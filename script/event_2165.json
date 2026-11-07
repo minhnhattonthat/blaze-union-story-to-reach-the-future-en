@@ -44,7 +44,7 @@
    13910
   ],
   "jp": "{voice:00CA05}……落ち着かんのだよ。",
-  "en": "...I cannot settle down.",
+  "en": "...I cannot sit still.",
   "status": "done"
  },
  {
@@ -152,7 +152,7 @@
    14189
   ],
   "jp": "{voice:00D305}まあ、たまには方伯の個人的な{n}用件で動くのもいいだろう。",
-  "en": "Well, it's fine to move on the Margrave's personal business once in a while.",
+  "en": "Well, it's fine to run the Margrave's personal errands once in a while.",
   "status": "done"
  },
  {
@@ -308,7 +308,7 @@
    14469
   ],
   "jp": "{voice:00E005}確かに、歳相応とは{n}少々言いがたいですね。",
-  "en": "Indeed, it is a little hard to call that fitting your age.",
+  "en": "Indeed, it does not quite suit your age.",
   "status": "done"
  },
  {
