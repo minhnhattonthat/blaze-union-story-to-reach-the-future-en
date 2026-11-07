@@ -45,6 +45,14 @@ STYLES = {
     "title": dict(font="SourceSans3-Black.ttf", fill=(255, 255, 255), stroke=(3, (0, 0, 0)), clear="alpha", align="l"),
     "stripe": dict(font="SourceSans3-Black.ttf", fill=(252, 254, 186), stroke=(2, (31, 27, 38)), clear="stripe", align="c"),
     "over1": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(1, (16, 16, 32)), clear=None, align="l"),
+    # tutorial captions, yellow or white over art or bare alpha: bright lettering is inpainted, English drawn in place
+    "cap": dict(font="SourceSans3-Bold.ttf", fill=(255, 236, 96), stroke=(2, (0, 0, 0)), clear="ink", align="c", max=14),
+    "cap-w": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(2, (0, 0, 0)), clear="ink", align="c", max=18),
+    "cardcap": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(2, (0, 0, 0)), clear="alpha", align="c", max=20),
+    "tag": dict(font="SourceSans3-Bold.ttf", fill=(255, 240, 210), stroke=(1, (40, 30, 20)), clear="ink", align="l", max=10),
+    # credit blocks: one row per text line; the small line sizes keep long names narrow in their fixed canvases
+    "credit": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="r", max=14),
+    "credit-role": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="r", max=12),
     # recap narration: whole page in one box, word-wrapped at the largest size that fits; "\n" ends a paragraph
     "page": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(1, (24, 24, 40)), clear="alpha", align="c",
                  wrap=True, max=17),
@@ -178,6 +186,8 @@ def draw(img, box, style, en, s=1.0):
         img.paste(Image.new("RGBA", (w, h), st["clear"]), (x, y))
     elif st["clear"] == "inpaint":
         inpaint(img, box)
+    elif st["clear"] == "ink":
+        inpaint(img, box, yellow=True)
     elif st["clear"] == "pill":
         import numpy as np
         a = np.array(img.crop((x, y, x + w, y + h))).astype(int)
@@ -233,18 +243,30 @@ def draw(img, box, style, en, s=1.0):
             dst[ox + i, oy + j] = tuple(int(c[k] * al + bg[k] * (1 - al)) for k in range(3)) + (max(a, bg[3]),)
 
 
-def inpaint(img, box, letters=False):
+def inpaint(img, box, letters=False, yellow=False):
     """Remove white outlined lettering in box: mask its fill plus 3 px of outline, then fill the mask from what is
     around it (premultiplied RGBA, 4-neighbour mean), so art and transparency outside the letters stay.
+    yellow=True (tutorial captions, white or yellow): the mask is the bright lettering in the box and the outline joined
+    to it, up to 9 px past the box.
     letters=True (pill words, any fill colour): mask the black outline, the white halo and what they enclose, then
     snap the box's alpha to 0 or 255 (the fill blends transparency and pill at the pill's edge)."""
     import numpy as np
     x, y, w, h = box
-    X0, Y0, X1, Y1 = max(x - 1, 0), max(y - 1, 0), min(x + w + 1, img.width), min(y + h + 1, img.height)
+    pad = 9 if yellow else 1  # rough caption boxes: the lettering may run past them
+    X0, Y0, X1, Y1 = max(x - pad, 0), max(y - pad, 0), min(x + w + pad, img.width), min(y + h + pad, img.height)
     a = np.array(img.crop((X0, Y0, X1, Y1))).astype(float)
     inbox = np.zeros(a.shape[:2], bool)
     inbox[y - Y0:y - Y0 + h, x - X0:x - X0 + w] = True
-    if letters:
+    if yellow:  # the lettering is the bright fill in the box plus all bright or black ink joined to it
+        from scipy import ndimage as ndi
+        op = a[..., 3] > 60
+        bright = (a[..., :2].min(axis=2) > 170) & op
+        m = ndi.binary_propagation(bright & inbox, ndi.generate_binary_structure(2, 2),
+                                   mask=(bright | (a[..., :3].max(axis=2) < 70)) & op)
+        inbox[:] = True  # the mask, not the box, bounds the fill now
+        m = ndi.binary_dilation(m, iterations=1) & (a[..., 3] > 0)
+        m |= ndi.binary_dilation(m, iterations=3) & (a[..., 3] > 0) & ~op  # the faint fringe would seed the fill
+    elif letters:
         from scipy import ndimage as ndi
         rgb, op = a[..., :3], a[..., 3] > 60
         # the pill is the saturated colour that reaches outside the box; every other opaque pixel in it is lettering
@@ -279,6 +301,11 @@ def inpaint(img, box, letters=False):
     if letters:
         # pills are convex: under the letters the fill's edge cuts inside them, so lean to transparent
         a[..., 3] = np.where(m, np.where(a[..., 3] >= 200, 255, 0), a[..., 3])
+    if yellow:  # specks the fill left on bare alpha; a blob touching the crop's edge may be art, so it stays
+        lab, n = ndi.label(a[..., 3] > 0)
+        size = ndi.sum(np.ones(lab.shape), lab, range(1, n + 1))
+        edge = set(lab[0]) | set(lab[-1]) | set(lab[:, 0]) | set(lab[:, -1])
+        a[np.isin(lab, [i + 1 for i in range(n) if size[i] < 80 and i + 1 not in edge])] = 0
     img.paste(Image.fromarray(a.round().clip(0, 255).astype("uint8")), (X0, Y0))
 
 
@@ -289,14 +316,28 @@ def english(label, items, s=1.0):
     return img
 
 
+GROWN = set()  # labels whose group got a new slice at the end of its PTP file (gfx.grow)
+
+
 def fitted(label, items):
-    """-> (image, scale): the largest English (scale 1 down to 0.5) whose ink the group's slices and cells can hold."""
+    """-> (image, scale): the largest English (scale 1 down to 0.5) whose ink the group's slices and cells can hold.
+    In a PTP file, English that would drop under 85% gets a bigger slice instead, if every copy is in a PTP file."""
     d, kind, off = sprite.load(label)
     err = None
     for s in (1, .92, .85, .78, .7, .62, .55, .5):
         img = english(label, items, s)
         if kind != "ptg":
             return img, s
+        if s < .85 and d[:4] == b"PTP\0":
+            a, b = gfx.span(d, off)
+            if all((gfx.CPK / f"{fid:05d}.bin").open("rb").read(4) == b"PTP\0" for fid, _ in gfx.copies(d[a:b])):
+                big = english(label, items)
+                try:
+                    gfx.repack(bytearray(d), off, big, pal=gfx.group_palette(d, off), grown=True)
+                    GROWN.add(label)
+                    return big, 1
+                except ValueError:
+                    pass  # past the two slices a grown group may have: shrink as usual
         try:
             gfx.repack(bytearray(d), off, img, pal=gfx.group_palette(d, off))
             return img, s
@@ -318,7 +359,7 @@ def edits(log=ROOT / "build/gfx.txt"):
             buf = files.setdefault(fid, bytearray((gfx.CPK / f"{fid:05d}.bin").read_bytes()))
             at = o + (off - a)
             if kind == "ptg":
-                gfx.repack(buf, at, img, pal=pal)
+                gfx.repack(buf, at, img, pal=pal, grown=label in GROWN)
             else:
                 gfx.write_ptx(buf, at, img, pal=pal)
             lines.append(f"{fid}@{at:x}\t{label}\n")

@@ -2292,3 +2292,512 @@
 2701@51e0	0,0,105,26	label	Thortie	Soltier
 2701@bed0	0,1,80,34	label	Rapis	Lapis
 2701@a350	0,0,108,26	label	Ordean	Ordene
+2112@26310	0,0,133,18	credit-role	credit role	Character Design
+2112@26310	0,18,133,18	credit	credit name	Rui Kousaki
+2112@27a30	0,0,69,18	credit-role	credit role	Garlot
+2112@27a30	0,18,69,18	credit	credit name	Kosuke Toriumi
+2112@27a30	0,36,69,18	credit	blank	-
+2112@27a30	0,54,69,18	credit-role	credit role	Siskier
+2112@27a30	0,72,69,18	credit	credit name	Yui Horie
+2112@298d0	0,0,129,18	credit-role	credit role	Medoute / Zilva
+2112@298d0	0,18,129,18	credit	credit name	Rie Tanaka
+2112@298d0	0,36,129,18	credit	blank	-
+2112@298d0	0,54,129,18	credit-role	credit role	Jenon
+2112@298d0	0,72,129,18	credit	credit name	Shinji Kawada
+2112@2cf70	0,0,176,18	credit-role	credit role	Luciana / Aegina / Yggdra
+2112@2cf70	0,18,176,18	credit	credit name	Mai Nakahara
+2112@2cf70	0,36,176,18	credit	blank	-
+2112@2cf70	0,54,176,18	credit-role	credit role	Eimi / Pamela
+2112@2cf70	0,72,176,18	credit	credit name	Ai Nonaka
+2112@2f610	0,0,90,18	credit-role	credit role	Eater / Lapis
+2112@2f610	0,18,90,18	credit	credit name	Minori Chihara
+2112@2f610	0,36,90,19	credit	blank	-
+2112@2f610	0,55,90,18	credit-role	credit role	Cerica
+2112@2f610	0,73,90,18	credit	credit name	Haruka Tomatsu
+2112@30960	0,0,116,18	credit-role	credit role	Nessiah
+2112@30960	0,18,116,18	credit	credit name	Tsubasa Yonaga
+2112@30960	0,36,116,18	credit	blank	-
+2112@30960	0,54,116,18	credit-role	credit role	Byff / Pandra
+2112@30960	0,72,116,18	credit	credit name	Tsuguo Mogami
+2112@32340	0,0,69,18	credit-role	credit role	David
+2112@32340	0,18,69,18	credit	credit name	Kosuke Takaguchi
+2112@32340	0,36,69,18	credit	blank	-
+2112@32340	0,54,69,18	credit-role	credit role	Leon
+2112@32340	0,72,69,18	credit	credit name	Takuya Sato
+2112@32340	0,90,69,18	credit	blank	-
+2112@32340	0,108,69,18	credit-role	credit role	Elena
+2112@32340	0,126,69,18	credit	credit name	Mai Goto
+2112@350e0	0,0,69,18	credit-role	credit role	Eudy
+2112@350e0	0,18,69,18	credit	credit name	Emi Okada
+2112@350e0	0,36,69,18	credit	blank	-
+2112@350e0	0,54,69,18	credit-role	credit role	Inzaghi
+2112@350e0	0,72,69,18	credit	credit name	Atsushi Abe
+2112@350e0	0,90,69,18	credit	blank	-
+2112@350e0	0,108,69,18	credit-role	credit role	Russell
+2112@350e0	0,126,69,18	credit	credit name	Satoshi Koizumi
+2112@37e80	0,0,146,18	credit-role	credit role	Baldus
+2112@37e80	0,18,146,18	credit	credit name	Daichi Endo
+2112@37e80	0,36,146,18	credit	blank	-
+2112@37e80	0,54,146,18	credit-role	credit role	Baretreenu / Sleip
+2112@37e80	0,72,146,18	credit	credit name	Asako Dodo
+2112@39ec0	0,0,80,18	credit-role	credit role	Velleman
+2112@39ec0	0,18,80,18	credit	credit name	Go Shinomiya
+2112@39ec0	0,36,80,18	credit	blank	-
+2112@39ec0	0,54,80,18	credit-role	credit role	Alanjame
+2112@39ec0	0,72,80,18	credit	credit name	Naomi Kusumi
+2112@3b240	0,0,171,18	credit-role	credit role	Narration / Ordene
+2112@3b240	0,18,171,18	credit	credit name	Tomoyuki Higuchi
+2112@3b240	0,36,171,18	credit	blank	-
+2112@3b240	0,54,171,18	credit-role	credit role	Soltier
+2112@3b240	0,72,171,18	credit	credit name	Masayuki Kato
+2112@3d8e0	0,0,174,18	credit-role	credit role	Development
+2112@3d8e0	0,18,174,18	credit	credit name	Sting Inc.
+2112@3d8e0	0,36,174,18	credit	blank	-
+2112@3d8e0	0,54,174,18	credit	credit name	R-Force
+2112@3d8e0	0,72,174,18	credit	credit name	Entertainment Inc.
+2112@41b80	0,0,81,19	credit-role	credit role	Directors
+2112@41b80	0,19,81,18	credit	credit name	Atsuhiko Matsumura
+2112@41b80	0,37,81,19	credit	credit name	Tomoki Kawamura
+2112@43120	0,0,107,19	credit-role	credit role	Scenario Plot
+2112@43120	0,19,107,18	credit	credit name	Pururun
+2112@43120	0,37,107,19	credit	credit name	Toru Takahashi
+2112@43120	0,56,107,18	credit	blank	-
+2112@43120	0,74,107,19	credit-role	credit role	Scenario
+2112@43120	0,93,107,18	credit	credit name	Yuichi Yokoyama
+2112@43120	0,111,107,19	credit	credit name	Toru Takahashi
+2112@46d40	0,0,84,19	credit-role	credit role	Planners
+2112@46d40	0,19,84,18	credit	credit name	Somin Kim
+2112@46d40	0,37,84,19	credit	credit name	Toru Takahashi
+2112@46d40	0,56,84,18	credit	blank	-
+2112@46d40	0,74,84,19	credit-role	credit role	Programmers
+2112@46d40	0,93,84,18	credit	credit name	Tomoki Kawamura
+2112@46d40	0,111,84,19	credit	credit name	Emiko Ikeshita
+2112@48840	0,0,121,19	credit-role	credit role	Event Script
+2112@48840	0,19,121,19	credit	credit name	Kaiji Ono
+2112@48840	0,38,121,19	credit	credit name	Shinko Kobashi
+2112@48840	0,57,121,19	credit	credit name	Sohei Ueno
+2112@48840	0,76,121,18	credit	blank	-
+2112@48840	0,94,121,19	credit-role	credit role	Level Design
+2112@48840	0,113,121,19	credit	credit name	Kaiji Ono
+2112@48840	0,132,121,19	credit	credit name	Toru Takahashi
+2112@48840	0,151,121,19	credit	credit name	Masahiro Kobayashi
+2112@4b620	0,0,119,18	credit-role	credit role	Art Director
+2112@4b620	0,18,119,18	credit	credit name	Eiko Tameshige
+2112@4cac0	0,0,145,19	credit-role	credit role	Pixel Art
+2112@4cac0	0,19,145,19	credit	credit name	Muu Hyoju
+2112@4cac0	0,38,145,18	credit	blank	-
+2112@4cac0	0,56,145,19	credit-role	credit role	Pixel Animation
+2112@4cac0	0,75,145,19	credit	credit name	Jun Yamashita
+2112@4cac0	0,94,145,18	credit	credit name	Junichi Abe
+2112@4cac0	0,112,145,19	credit	credit name	Akito Kuroda
+2112@4cac0	0,131,145,19	credit	credit name	Shinnosuke Nakamura
+2112@52a60	0,0,160,18	credit-role	credit role	Interface Design
+2112@52a60	0,18,160,19	credit	credit name	Junichi Abe
+2112@52a60	0,37,160,18	credit	credit name	Ryoko Konami
+2112@52a60	0,55,160,18	credit	blank	-
+2112@52a60	0,73,160,19	credit-role	credit role	Effect Design
+2112@52a60	0,92,160,18	credit	credit name	Hidetoshi Ishitoya
+2112@57100	0,0,82,19	credit-role	credit role	Background Design
+2112@57100	0,19,82,19	credit	credit name	Eiko Tameshige
+2112@57100	0,38,82,20	credit	credit name	Hajime Okano
+2112@57100	0,58,82,19	credit	credit name	Nozomi Matsuyama
+2112@57100	0,77,82,19	credit	credit name	Shinnosuke Nakamura
+2112@595a0	0,0,133,18	credit-role	credit role	Sound Composer
+2112@595a0	0,18,133,18	credit	credit name	Shigeki Hayashi
+2112@5acc0	0,0,181,18	credit-role	credit role	Voice Recording
+2112@5acc0	0,18,181,19	credit	credit name	Cube Inc.
+2112@5acc0	0,37,181,19	credit	credit name	Yoshifumi Iwata
+2112@5acc0	0,56,181,18	credit	blank	-
+2112@5acc0	0,74,181,18	credit-role	credit role	Font Design
+2112@5acc0	0,92,181,19	credit	credit name	Fontworks Inc.
+2112@60160	0,0,214,18	credit-role	credit role	Opening Animation
+2112@60160	0,18,214,18	credit	credit name	Point Pictures Inc.
+2112@60160	0,36,214,18	credit	blank	-
+2112@60160	0,54,214,18	credit-role	credit role	Animation Director
+2112@60160	0,72,214,18	credit	credit name	Yasutaka Yamamoto
+2112@60160	0,90,214,18	credit	blank	-
+2112@60160	0,108,214,18	credit-role	credit role	Animation Supervisor
+2112@60160	0,126,214,18	credit	credit name	Tadashi Shida
+2112@60160	0,144,214,18	credit	blank	-
+2112@60160	0,162,214,18	credit-role	credit role	Animation Producer
+2112@60160	0,180,214,18	credit	credit name	Yuki Miyahara
+2112@6b100	0,0,159,18	credit-role	credit role	Sales & Promotion
+2112@6b100	0,18,159,18	credit	credit name	Atlus Co., Ltd.
+2112@6b100	0,36,159,18	credit	blank	-
+2112@6b100	0,54,159,18	credit-role	credit role	Public Relations
+2112@6b100	0,72,159,18	credit	credit name	Yoshihisa Tomita
+2112@6eda0	0,0,183,19	credit-role	credit role	Assistants
+2112@6eda0	0,19,183,19	credit	credit name	Naomi Kojima
+2112@6eda0	0,38,183,18	credit	credit name	Pururun
+2112@6eda0	0,56,183,19	credit	blank	-
+2112@6eda0	0,75,183,19	credit-role	credit role	Debug
+2112@6eda0	0,94,183,18	credit	credit name	Naoya Tamura
+2112@6eda0	0,112,183,19	credit	credit name	Hiroaki Kaneda
+2112@6eda0	0,131,183,19	credit	credit name	Pole To Win Co., Ltd.
+2112@727c0	0,0,121,20	credit-role	credit role	Special Thanks
+2112@727c0	0,20,121,19	credit	credit name	Yasue Yamafuji
+2112@727c0	0,39,121,19	credit	credit name	Shoji Yamada
+2112@727c0	0,58,121,20	credit	credit name	Toshiaki Kimura
+2112@727c0	0,78,121,20	credit	credit name	Miyuki Yamada
+2112@727c0	0,98,121,19	credit	credit name	Hideharu Ishii
+2112@727c0	0,117,121,19	credit	credit name	Yahito Kuwayama
+2112@727c0	0,136,121,20	credit	credit name	Toshio Koide
+2112@77860	0,0,69,20	credit	credit name	Junko Mima
+2112@77860	0,20,69,20	credit	credit name	Norihiro Morimoto
+2112@77860	0,40,69,21	credit	credit name	Masanori Ishikawa
+2112@77860	0,61,69,20	credit	credit name	Shinichi Ito
+2112@78a90	0,0,120,18	credit-role	credit role	Production Producer
+2112@78a90	0,18,120,18	credit	credit name	Yuichi Yokoyama
+2112@795f0	0,0,93,18	credit-role	credit role	Producer
+2112@795f0	0,18,93,18	credit	credit name	Hikaru Yasui
+2112@79e90	0,0,199,18	credit-role	credit role	Executive Producer
+2112@79e90	0,18,199,18	credit	credit name	Takeshi Yamafuji
+2140@400	64,0,240,20	banner-r	title	First, Pick a Card!
+2140@400	18,113,207,37	cap	caption	Choose with the D-pad,\nconfirm with ○!
+2140@8ef0	64,0,240,20	banner-r	title	What Cards Decide
+2140@8ef0	38,24,104,18	cap	caption	Ace Type
+2140@8ef0	218,40,44,20	cap	caption	Power
+2140@8ef0	36,101,48,17	cap	caption	Move
+2140@8ef0	225,108,47,18	cap	caption	Skill
+2140@8ef0	182,84,58,13	paper	caption	Steal
+2140@dbf0	63,0,240,20	banner-r	title	Move Your Units
+2140@dbf0	18,116,134,34	cap	caption	○ button catches\na unit!
+2140@16880	64,0,240,20	banner-r	title	Where Can Units Move?
+2140@16880	90,78,112,30	cap	caption	Move a unit with\nthe D-pad!
+2140@1a240	64,0,240,20	banner-r	title	Switching to Attack Mode
+2140@1a240	18,120,120,30	cap	caption	□ button for\nAttack Mode!
+2140@230b0	64,0,240,20	banner-r	title	Reading the Battle Marks
+2140@230b0	180,28,76,20	cap	caption	Favored
+2140@230b0	180,90,76,22	cap	caption	Unfavored
+2140@25d60	63,0,240,20	banner-r	title	Final Check Before Battle
+2140@25d60	18,129,164,20	cap	caption	○ button to fight!
+2140@25d60	158,80,78,16	cap-w	caption	Union Formed!
+2140@25d60	145,96,107,30	cap-w	caption	Ready to Fight?
+2140@2e680	65,0,240,20	banner-r	title	Use Your Remaining Move!
+2140@2e680	18,116,117,34	cap	caption	Move the same way\nas before
+2140@37690	64,0,240,20	banner-r	title	When All Is Done, End Turn
+2140@37690	18,132,142,18	cap	caption	○ button: End Turn
+2140@37690	175,116,127,32	cap-w	caption	End Turn?
+2140@40370	64,0,240,20	banner-r	title	Formations (X Type)
+2140@40370	50,60,108,58	cap	caption	Units diagonal\nto a male leader\njoin in!
+2140@44bf0	64,0,240,20	banner-r	title	Formations (+ Type)
+2140@44bf0	50,68,108,49	cap	caption	Units beside a\nfemale leader\njoin in!
+2140@49220	66,0,240,20	banner-r	title	Chain Battle Handicap
+2140@49220	115,26,67,16	cap	caption	1. Garlot
+2140@49220	115,51,67,16	cap	caption	2. Siskier
+2140@49220	115,78,67,16	cap	caption	3. Jenon
+2140@49220	115,104,67,16	cap	caption	4. Garlot
+2140@49220	115,131,67,16	cap	caption	5. Siskier
+2140@49220	5,110,75,32	cap	caption	Fewer members\nin chain battles
+2140@4e9e0	65,0,240,20	banner-r	title	Check the Icons Too!
+2140@4e9e0	18,118,172,33	cap	caption	Move onto town and village\nicons for events!
+2140@577d0	64,0,240,20	banner-r	title	Weapon Matchups (1)
+2140@577d0	115,29,71,17	cap	caption	Spear wins!
+2140@577d0	232,82,73,18	cap	caption	Axe wins!
+2140@577d0	82,116,73,18	cap	caption	Sword wins!
+2140@5b770	65,0,240,20	banner-r	title	Weapon Matchups (2)
+2140@5b770	62,28,134,18	cap	caption	Sword, Spear, Axe win!
+2140@5b770	232,80,73,18	cap	caption	Staff wins!
+2140@5b770	85,118,73,18	cap	caption	Bow wins!
+2140@60840	63,0,240,20	banner-r	title	Archer Units
+2140@60840	122,32,180,16	cap	caption	Charging: no counterattack
+2140@60840	122,84,188,18	cap	caption	Charged: can't counter
+2140@659c0	65,0,240,20	banner-r	title	Conditions for Using Skills
+2140@659c0	5,24,97,34	cap	caption	Chosen card's\nAce Type
+2140@659c0	222,24,78,34	cap	caption	Leader's\nWeapon Type
+2140@659c0	15,130,167,18	cap	caption	They must match!
+2140@6d110	64,0,240,20	banner-r	title	Check the Skill Type
+2140@6d110	60,28,235,16	cap	caption	When the gauge fills, look here!
+2140@6d110	36,70,52,10	cap-w	caption	Shield Barrier
+2140@6d110	36,118,52,10	cap-w	caption	Refreshment
+2140@763b0	66,0,240,20	banner-r	title	Using Charge Skills
+2140@763b0	152,34,163,32	cap	caption	1. Hold □ to fill the\nCharge gauge
+2140@763b0	152,90,163,18	cap	caption	2. Release when full!
+2140@763b0	105,128,145,18	cap	caption	Gauge empties at once!
+2140@763b0	14,40,30,12	cap-w	caption	Banish
+2140@763b0	14,86,30,12	cap-w	caption	Banish
+2140@763b0	14,128,30,12	cap-w	caption	Banish
+2140@81370	66,0,240,20	banner-r	title	Using KeepOn Skills
+2140@81370	18,28,162,16	cap	caption	1. Press □ to activate!
+2140@81370	40,45,165,33	cap	caption	2. Effect lasts while\nyou hold it
+2140@81370	118,112,132,32	cap	caption	While active, the\ngauge drains!
+2140@81370	42,100,46,12	cap-w	caption	Shield Barrier
+2140@88770	65,0,240,20	banner-r	title	Enemies Use Skills Too!
+2140@88770	18,114,164,34	cap	caption	At MAX, enemies may\nuse Skills too!
+2140@916a0	65,0,240,20	banner-r	title	Moving on Waterside Terrain
+2140@916a0	18,44,40,22	cap-w	caption	Waterside
+2140@916a0	115,28,160,32	cap	caption	Only the "Aquatic" move type\ncan enter Waterside terrain!
+2140@916a0	118,114,72,16	cap	caption	Can't move
+2140@916a0	208,114,47,16	cap	caption	Can move
+2140@96cd0	65,0,240,20	banner-r	title	Moving on Ice Terrain
+2140@96cd0	18,46,37,19	cap-w	caption	Ice
+2140@96cd0	100,25,180,33	cap	caption	Once frozen into Ice,\nanyone can cross
+2140@96cd0	125,110,45,16	cap	caption	Can move
+2140@96cd0	208,110,47,16	cap	caption	Can move
+2140@9c040	64,0,240,20	banner-r	title	Cannons
+2140@9c040	142,32,144,64	cap	caption	The cannon's owner deals\nmorale damage to all\nfoes in range\n(except at night)
+2140@a1ad0	66,0,240,20	banner-r	title	Catapults
+2140@a1ad0	98,88,164,46	cap	caption	A formation may include\na catapult\n(charges only)
+2140@a7170	66,0,240,20	banner-r	title	How Links Extend
+2140@a7170	18,116,224,32	cap	caption	Units joining in extend the\nformation around them
+2140@ac890	66,0,240,20	banner-r	title	How Links Extend
+2140@ac890	85,26,53,16	cap	caption	+ Type
+2140@ac890	200,26,55,16	cap	caption	X Type
+2140@ac890	18,112,144,30	cap	caption	Each takes a smaller\nform of the formation
+2140@b1420	65,0,240,20	banner-r	title	Moving on Desert Terrain
+2140@b1420	18,52,35,23	cap-w	caption	Desert
+2140@b1420	108,28,182,47	cap	caption	All but the "Flying" move\ntype go only 1 square\na turn on Desert
+2140@b1420	112,112,60,14	cap	caption	Move STOP
+2140@b1420	208,112,46,14	cap	caption	Can move
+2140@b77a0	65,0,240,20	banner-r	title	Moving on Poison Swamp
+2140@b77a0	18,54,35,20	cap-w	caption	Poison Swamp
+2140@b77a0	95,26,205,46	cap	caption	As on Desert, all but the\n"Flying" move type go\n1 square a turn
+2140@b77a0	208,86,60,16	cap	caption	Move STOP
+2140@b77a0	108,110,160,32	cap	caption	Its "miasma" also deals\nmorale damage
+2140@be590	65,0,240,20	banner-r	title	Moving on Snowfield Terrain
+2140@be590	18,56,35,18	cap-w	caption	Snowfield
+2140@be590	108,26,187,46	cap	caption	All but the "Flying" move\ntype go only 1 square\na turn on Snowfield
+2140@be590	112,110,60,14	cap	caption	Move STOP
+2140@be590	208,110,46,14	cap	caption	Can move
+2140@c4850	65,0,240,20	banner-r	title	Blizzard Damage
+2140@c4850	36,55,39,20	cap-w	caption	Snowpath
+2140@c4850	180,55,35,20	cap-w	caption	Snowfield
+2140@c4850	125,90,150,50	cap	caption	Night on Snowpath or\nSnowfield brings "Blizzard"\nmorale damage
+2140@caa00	64,0,240,20	banner-r	title	Status Effects...
+2140@caa00	100,24,182,18	cap	caption	Morale damage + DEF down
+2140@caa00	100,51,172,18	cap	caption	Move down + ATK down
+2140@caa00	100,76,172,18	cap	caption	Can't move + no resistance in battle
+2140@caa00	100,102,88,16	cap	caption	Morale damage
+2140@d0a00	64,0,240,20	banner-r	title	Status Effects...
+2140@d0a00	112,28,66,18	cap	caption	Can't move
+2140@d0a00	112,54,80,18	cap	caption	Move down
+2140@d0a00	112,80,173,18	cap	caption	Can't move + no Duel
+2140@d4770	59,0,240,20	banner-r	title	Ships
+2140@d4770	110,24,160,50	cap	caption	Waterside you normally\ncan't cross is passable\nwith a ship object
+2140@d4770	118,108,164,34	cap	caption	Passable\n(but you can't stop there)
+2140@d8e90	64,0,240,20	banner-r	title	Eater's Traits (Female)
+2140@d8e90	122,27,176,15	cap	caption	Charging: no counterattack
+2140@d8e90	122,52,188,16	cap	caption	Charged: can't counter
+2140@d8e90	122,78,172,16	cap	caption	Even against every unit
+2140@d8e90	122,104,188,16	cap	caption	Skills ignore the Ace Type
+2140@de970	64,0,240,20	banner-r	title	Eater's Traits (Male)
+2140@de970	122,27,173,16	cap	caption	Advantage over every unit
+2140@de970	122,52,108,16	cap	caption	Can't use Skills
+2140@e1d00	64,0,240,20	banner-r	title	Eater's Traits
+2140@e1d00	98,22,167,32	cap	caption	Formation type also\nchanges with the time of day
+2140@e70a0	65,0,240,20	banner-r	title	Mission Select
+2140@e70a0	128,32,58,32	cap	caption	L button\nR button
+2140@e70a0	190,40,110,16	cap	caption	: Select mission
+2140@e70a0	128,72,58,18	cap	caption	○ button
+2140@e70a0	190,72,108,18	cap	caption	: Start mission
+2140@ed330	65,0,240,20	banner-r	title	Mission Select
+2140@ed330	215,42,75,16	cap	caption	Mission Name
+2140@ed330	215,78,93,16	cap	caption	Mission Summary
+2140@ed330	215,114,47,16	cap	caption	Difficulty
+2140@f4a10	65,0,240,20	banner-r	title	Weapon Matchups (3)
+2140@f4a10	12,50,70,20	cap	caption	Bow wins!
+2140@f4a10	232,74,70,18	cap	caption	Staff wins!
+2140@f4a10	92,124,70,18	cap	caption	Tome wins!
+2140@f9dc0	65,0,240,20	banner-r	title	Weapon Matchups (4)
+2140@f9dc0	80,30,75,18	cap	caption	Scythe wins!
+2140@f9dc0	22,126,130,20	cap	caption	Even with Bow, Staff, Tome!
+2140@fe7a0	62,114,183,20	menu-c	caption	~ How to Play ~
+2702@494f0	40,3,90,18	menu	track	Angry Flame
+2702@49900	53,3,77,18	menu	track	Erosion
+2702@49d00	19,3,111,18	menu	track	Flower in the Heart
+2702@4a2f0	33,3,97,18	menu	track	Where Wit Goes
+2702@4a830	26,3,104,18	menu	track	Resolve to Be Firm
+2702@4ae60	12,3,118,18	menu	track	Innocent of Sin
+2702@4b540	20,3,110,18	menu	track	Reason to Fight
+2702@4bba0	19,3,111,18	menu	track	Endless Curiosity
+2702@4c230	14,3,116,18	menu	track	Wild and Valiant
+2702@4c870	47,3,83,18	menu	track	War Cry
+2702@4cbf0	60,3,70,18	menu	track	The Summit
+2702@4ce60	33,3,97,18	menu	track	Theater in My Hand
+2702@4d340	33,3,97,18	menu	track	Flawless Wisdom
+2702@4d810	40,3,90,18	menu	track	Night Runs
+2702@4dd50	12,3,118,18	menu	track	All Fixed! (Not)
+2702@4e430	26,3,104,18	menu	track	Witch's Dance
+2702@4e980	26,3,104,18	menu	track	A Matter of Values
+2702@4f570	12,3,118,18	menu	track	Strong, Frail, Vivid
+2702@4fba0	16,3,114,18	menu	track	Legendary Drunk
+2702@50250	19,3,111,18	menu	track	Keen Magic Blade
+2702@50860	33,3,97,18	menu	track	A King's Majesty
+2702@50dc0	28,3,102,18	menu	track	Slave to Greed
+2702@51340	12,3,118,18	menu	track	To Defy Is Sin
+2702@51980	26,3,104,18	menu	track	On My Honor
+2702@51e90	53,3,77,18	menu	track	Scourge
+2702@52240	26,3,104,18	menu	track	Flying Banners
+2702@527b0	33,3,97,18	menu	track	For the Homeland
+2702@52c40	39,3,91,18	menu	track	Demonic Allure
+2702@53040	53,3,77,18	menu	track	Sparks
+2702@53350	47,3,83,18	menu	track	The Way Out
+2702@536e0	53,3,77,18	menu	track	Danger Zone
+2702@53a80	26,3,104,18	menu	track	Power for Whom
+2702@53fe0	19,2,111,19	menu	track	Speed Is Divine
+2702@54680	26,3,104,18	menu	track	Beyond the Limit
+2702@54bd0	26,3,104,18	menu	track	Mighty Citadel
+2702@55240	12,3,118,18	menu	track	Time to Settle It
+2702@55920	26,3,104,18	menu	track	Boiling Blood
+2702@55e80	26,3,104,18	menu	track	Greedy Impulse
+2702@56780	26,3,104,18	menu	track	The Road of Heaven
+2702@56e00	12,4,118,18	menu	track	Blaze Union
+2702@573e0	33,3,97,18	menu	track	Those Who Gather
+2702@578d0	26,3,104,18	menu	track	Demon of Injustice
+2702@57e40	33,3,97,18	menu	track	Signs of Struggle
+2702@58380	33,3,97,18	menu	track	Sortie!
+2702@588c0	12,3,118,18	menu	track	I Trust That Bond
+2702@58e40	53,3,77,18	menu	track	Triumphant Return
+2702@591e0	33,3,97,18	menu	track	Scent of Peace
+2702@59760	19,3,111,18	menu	track	Unshakable Belief
+2702@59cf0	53,3,77,18	menu	track	Sworn Foe
+2702@5a0b0	26,3,104,18	menu	track	Peace Violated
+2702@5a690	26,3,104,18	menu	track	Falling Tears
+2702@5abc0	19,3,111,18	menu	track	In History's Midst
+2702@5b270	12,3,118,18	menu	track	What Power Means
+2702@5b970	12,3,118,18	menu	track	To the Future
+2702@5c010	26,3,104,18	menu	track	The Fight Goes On...
+2702@5c4f0	33,3,97,18	menu	track	Joy of Victory
+2702@5c970	53,3,77,18	menu	track	Bitter Taste
+2702@5ccd0	33,3,97,18	menu	track	Song of Triumph
+2702@5d2b0	12,3,118,18	menu	track	Warriors Fallen
+2702@5da30	12,3,118,18	menu	track	Tale of Someday
+2700@1129d0	0,0,200,16	menu-c	chronicle	~ To Flarewerk ~
+2700@112fb0	0,0,200,16	menu-c	chronicle	~ The Sisters Who Came Running ~
+2700@1134d0	0,0,200,16	menu-c	chronicle	~ Warrior and Madness ~
+2700@113910	0,0,200,16	menu-c	chronicle	~ Chase the Night Bandits! ~
+2700@113da0	0,0,200,16	menu-c	chronicle	~ Oddballs Wanted ~
+2700@1142f0	0,0,200,16	menu-c	chronicle	~ One Tear in the Desert ~
+2700@114980	0,0,200,16	menu-c	chronicle	~ A Noble's Heart, and Then ~
+2700@114f30	0,0,200,16	menu-c	chronicle	~ Those Who Take and Are Taken From ~
+2700@1154f0	0,0,200,16	menu-c	chronicle	~ Everyone's Reasons ~
+2700@115a90	0,0,200,16	menu-c	chronicle	~ The Empire's Work ~
+2700@116090	0,0,200,16	menu-c	chronicle	~ Where Is It Now? ~
+2700@116630	0,0,200,16	menu-c	chronicle	~ Barefoot Mizer ~
+2700@116ab0	0,0,200,16	menu-c	chronicle	~ Raid the Transports ~
+2700@116fb0	0,0,200,16	menu-c	chronicle	~ Price of Protection ~
+2700@117420	0,0,200,16	menu-c	chronicle	~ Fan the Wheat ~
+2700@1179a0	0,0,200,16	menu-c	chronicle	~ Anguished Martyr ~
+2700@117e80	0,0,200,16	menu-c	chronicle	~ Endless Revenge ~
+2700@1183d0	0,0,200,16	menu-c	chronicle	~ Trials Over Corpses ~
+2700@118990	0,0,200,16	menu-c	chronicle	~ By Heaven's Will ~
+2700@118f50	0,0,200,16	menu-c	chronicle	~ Warriors' Rest -Girl's Side- ~
+2700@1196a0	0,0,200,16	menu-c	chronicle	~ Warriors' Rest -Boy's Side- ~
+2700@119d90	0,0,200,16	menu-c	chronicle	~ Sparks to a Blaze ~
+2700@11a3f0	0,0,200,16	menu-c	chronicle	~ Fiend of the Field ~
+2700@11a930	0,0,200,16	menu-c	chronicle	~ The Trap of Greed ~
+2700@11aea0	0,0,200,16	menu-c	chronicle	~ The Warrior's Back ~
+2700@11b480	0,0,200,16	menu-c	chronicle	~ Salt Road ~
+2700@11b880	0,0,200,16	menu-c	chronicle	~ Capital War Games ~
+2700@11bda0	0,0,200,16	menu-c	chronicle	~ Worth Protecting ~
+2700@11c2d0	0,0,200,16	menu-c	chronicle	~ Tiera in Flames ~
+2700@11c6e0	0,0,200,16	menu-c	chronicle	~ The Berserker's Cry ~
+2700@11cbc0	0,0,200,16	menu-c	chronicle	~ History by Night ~
+2700@11d0f0	0,0,200,16	menu-c	chronicle	~ In Fleeting Time ~
+2700@11d5f0	0,0,200,16	menu-c	chronicle	~ Parting ~
+2700@11d960	0,0,200,16	menu-c	chronicle	~ Wake, Dragon Blood ~
+2700@11dfb0	0,0,200,16	menu-c	chronicle	~ Spear or Shield? ~
+2700@11e630	0,0,200,16	menu-c	chronicle	~ Twin Dragons Clash ~
+2700@11ea80	0,0,200,16	menu-c	chronicle	~ Flame Emperor Gulcasa ~
+2700@11ef80	0,0,200,16	menu-c	chronicle	~ Tragedy ~
+2700@11f280	0,0,200,16	menu-c	chronicle	~ Revenge ~
+2700@11f580	0,0,200,16	menu-c	chronicle	~ Awakening ~
+2700@11f880	0,0,200,16	menu-c	chronicle	~ Homecoming ~
+2700@11fb80	0,0,200,16	menu-c	chronicle	~ Reunion ~
+2700@11fe80	0,0,200,16	menu-c	chronicle	~ Blood ~
+2700@1201c0	0,0,200,16	menu-c	chronicle	~ End of the Start ~
+2700@120710	0,0,200,16	menu-c	chronicle	~ Embers ~
+2700@120a70	0,0,200,16	menu-c	chronicle	~ Behind Bared Eyes ~
+2700@121000	0,0,200,16	menu-c	chronicle	~ Don't Let It Begin ~
+2700@1216b0	0,0,200,16	menu-c	chronicle	~ Fight to the Death ~
+2700@121ca0	0,0,200,16	menu-c	chronicle	~ What People Won ~
+2700@1221e0	0,0,200,16	menu-c	chronicle	~ The Lie History Told ~
+2700@1226e0	0,0,200,16	menu-c	chronicle	~ Sisters ~
+2700@122a70	0,0,200,16	menu-c	chronicle	~ Beyond Sorrow ~
+2700@122f60	0,0,200,16	menu-c	chronicle	~ A New Future ~
+2700@123380	0,0,200,16	menu-c	chronicle	~ Red Lion's Woes ~
+2700@123840	0,0,200,16	menu-c	chronicle	~ Private Army Born! ~
+2700@123cd0	0,0,200,16	menu-c	chronicle	~ Top of the Empire ~
+2700@124160	0,0,200,16	menu-c	chronicle	~ Will to Change ~
+2700@124680	0,0,200,16	menu-c	chronicle	~ Black Knight Again ~
+2700@124b80	0,0,200,16	menu-c	chronicle	~ Time of Luxury ~
+2700@124f90	0,0,200,16	menu-c	chronicle	~ The Whole Body... ~
+2700@125380	0,0,200,16	menu-c	chronicle	~ Which Do You Like? ~
+2700@1258d0	0,0,200,16	menu-c	chronicle	~ Heavenly Feeling ~
+2700@125e30	0,0,200,16	menu-c	chronicle	~ Love in the Steam ~
+2700@1262f0	0,0,200,16	menu-c	chronicle	~ Each One's Road ~
+2700@1268d0	0,0,200,16	menu-c	chronicle	~ The Stray Dog Runs ~
+2700@126e30	0,0,200,16	menu-c	chronicle	~ A Life's End ~
+2700@127370	0,0,200,16	menu-c	chronicle	~ The Blood Awakes ~
+2700@127920	0,0,200,16	menu-c	chronicle	~ What Must Be Done ~
+2700@127db0	0,0,200,16	menu-c	chronicle	~ "I'm Glad" ~
+2700@1281d0	0,0,200,16	menu-c	chronicle	~ Demon of Injustice ~
+2700@128650	0,0,200,16	menu-c	chronicle	~ Dance of Death ~
+2700@b5320	0,0,169,24	banner-l	ブレイズ戦記	Blaze Chronicle
+2700@b5320	0,25,169,24	banner-l	キャライラスト	Character Art
+2700@b5320	0,50,169,24	banner-l	サウンドモード	Sound Mode
+2700@b5320	0,75,169,24	banner-l	アイテム図鑑	Item Encyclopedia
+2700@b5320	0,100,169,24	banner-l	カード図鑑	Card Encyclopedia
+2700@bb050	11,8,36,10	tag	ガーロット	Garlot
+2700@bb050	11,27,36,10	tag	ガルカーサ	Gulcasa
+2700@bb050	11,46,36,10	tag	シスキア	Siskier
+2700@bb050	11,65,36,10	tag	ジェノン	Jenon
+2700@bb050	11,84,36,10	tag	メデューテ	Medoute
+2700@bb050	11,103,36,10	tag	エミリオ	Emilia
+2700@bb050	11,122,36,10	tag	レオン	Leon
+2700@bb050	11,141,36,10	tag	アイギナ	Aegina
+2700@bb050	11,160,36,10	tag	ユーディ	Eudy
+2700@bb050	59,8,36,10	tag	ジルヴァ	Zilva
+2700@bb050	59,27,36,10	tag	ネシア	Nessiah
+2700@bb050	59,46,36,10	tag	バルドゥス	Baldus
+2700@bb050	59,65,36,10	tag	ベアトリーヌ	Baretreenu
+2700@bb050	59,84,36,10	tag	バイフー	Byff
+2700@bb050	59,103,36,10	tag	イータ	Eater
+2700@bb050	59,122,36,10	tag	パメラ	Pamela
+2700@bb050	59,141,36,10	tag	ミゼル	Mizer
+2700@bb050	59,160,36,10	tag	スレイプ	Sleip
+3@ff7e0	0,1,63,14	menu	:カードデータ	:Card Data
+218@0	0,189,256,41	cardcap	傀儡師エクシール	Exeel the Puppeteer
+220@0	0,189,256,41	cardcap	屍術師ネルダ	Nelda the Necromancer
+222@0	0,189,256,41	cardcap	咎人ラウネ	Raune the Sinner
+224@0	0,189,256,41	cardcap	復讐のバルダック	Baldak of Revenge
+226@0	0,189,256,41	cardcap	堕天のエイミア	Eimia the Fallen
+228@0	0,189,256,41	cardcap	伝説のホーク	Hawk the Legend
+230@0	0,189,256,41	cardcap	風魔サエザル	Saezar the Wind Demon
+232@0	0,189,256,41	cardcap	赤月の悪魔アノン	Anon, Red Moon Demon
+234@0	0,189,256,41	cardcap	鋼鉄騎士ガラド	Garad the Iron Knight
+236@0	0,189,256,41	cardcap	護人ハシャハティ	Hashahati the Guardian
+238@0	0,189,256,41	cardcap	大魔導マゼンデ	Magende the Archmage
+240@0	0,189,256,41	cardcap	氷葬のエンリュケ	Enruke of the Ice Tomb
+242@0	0,189,256,41	cardcap	天空のルキオン	Lucion of the Sky
+244@0	0,189,256,41	cardcap	聖アスタ＝ナレフ	Saint Asta-Naref
+246@0	0,189,256,41	cardcap	竜殺しの英雄ギル	Gil the Dragon Slayer
+248@0	0,189,256,41	cardcap	怒りの巨人ドークス	Dokes the Angry Giant
+250@0	0,189,256,41	cardcap	双生のアリステラ	Aristella the Twin
+252@0	0,189,256,41	cardcap	戦女神ニルヴァーナ	Nirvana, War Goddess
+254@0	0,189,256,41	cardcap	創生のパルティナ	Paltina of Creation
+256@0	0,189,256,41	cardcap	半獣の乙女ラクシミ	Lakshimi, Beast-Maiden
+258@0	0,189,256,41	cardcap	聖泉の精霊キュリン	Curin, Spring Spirit
+260@0	0,189,256,41	cardcap	闇の女帝ヴァネッサ	Vanessa, Dark Empress
+262@0	0,189,256,41	cardcap	占師パスラハ	Pasraha the Seer
+264@0	0,189,256,41	cardcap	夢見のルビナ	Rubina the Dreamer
+266@0	0,189,256,41	cardcap	葬送のイオナ	Iona the Mourner
+268@0	0,189,256,41	cardcap	樹木の精霊ドリアデ	Dryad, Tree Spirit
+270@0	0,189,256,41	cardcap	砂漠の番人ラーサ	Rasa, Desert Guardian
+272@0	0,189,256,41	cardcap	魔性のエンドメイラ	Endmeira, Temptress
+274@0	0,189,256,41	cardcap	小悪魔リップフェイク	Rip Fake the Little Devil
+276@0	0,189,256,41	cardcap	獅子王アレムロンド	Lion King Alemlond
+278@0	0,189,256,41	cardcap	煉獄の魔竜ブロンガ	Brongaa of Purgatory
+280@0	0,189,256,41	cardcap	名を奪われし天使	The Nameless Angel
+282@0	0,189,256,41	cardcap	天使長フラウヴェル	Frauvel the Archangel
+284@0	0,189,256,41	cardcap	暁のゾイエック	Zoiek of the Dawn
+286@0	0,189,256,41	cardcap	灰被りのマイメイエ	Maimeye the Ash-Clad
+288@0	0,189,256,41	cardcap	告死天使キュルケ	Circe, Angel of Death
+290@0	0,189,256,41	cardcap	ヘグゼーの従順たる獣人	Hegzee's Beast-Man
+292@0	0,189,256,41	cardcap	狂風のネルガー	Nergar of the Mad Wind
+294@0	0,189,256,41	cardcap	加護のレティオル	Retiol of Protection
+2683@67cb0	0,0,293,24	banner	このアイテムを報酬にしますか?	Take This Item as Your Reward?
+2687@bc60	3,0,275,24	banner	このアイテムを装備しますか?	Equip This Item?
+2687@5f860	0,0,70,13	menu	全員装備可	All Can Equip
+2687@5fb90	0,0,84,13	menu	全員装備不可	None Can Equip
+2700@db8e0	0,1,78,15	menu	ガーロット専用	Garlot only

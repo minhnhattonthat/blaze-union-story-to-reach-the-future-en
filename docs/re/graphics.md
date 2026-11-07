@@ -3,7 +3,8 @@
 ## PTX@ (verified by rendering; `tools/ptx.py`)
 
 `+4` log2 tex w, `+5` log2 tex h, `+6` u16 stride, `+8` u16 w, `+A` u16 h, `+C` GU format (4 = T4, 5 = T8), `+D` flags (bit 0
-= swizzled, 16x8-byte blocks over the stride), `+10` u32 palette count, `+18` u32 palette offset, `+1C` u32 data offset.
+= swizzled, 16x8-byte blocks over the stride), `+10` u32 palette count, `+14` u8 15 - log2 w, `+15` u8 15 - log2 h (the game's
+UV shifts, true of all 5,820 PTX in the archive; a new width needs them rewritten), `+18` u32 palette offset, `+1C` u32 data offset.
 Palette RGBA8888. **Palette offset 0 = no palette of its own**: the slice shares the previous texture's palette in the
 same file. `tools/ptx.py` has no encoder yet.
 
@@ -16,7 +17,9 @@ Read text through `tools/ptg.py`, never from the raw slice. A group sits right b
 `+4` u32 cell table offset (0x20), `+8` u32 first PTX offset, `+C` u32 second PTX offset (0 = none), both from the PTG start,
 `+10` u16 w, `+12` u16 h, `+14` u16 cells in slice 0, `+16` u16 cells in slice 1. Cell, 20 bytes: u16 sx0, sy0, dx0, dy0, zero,
 sx1, sy1, dx1, dy1, pad: source rect in its own slice, destination in the sprite. 2,254 cells reach past the declared w/h;
-the renderer grows the canvas to fit. Reinsertion needs a packer that writes new cells, or one full-size cell per slice.
+the renderer grows the canvas to fit. The game reads the cell table at `+0x20` and ignores `+4`, so the table can't move and a
+group's cell count can't grow. Its slices can: `gfx.grow` points `+8`, `+C` at new 512x8 slices at the end of a PTP file (seen in
+game: Chronicle and Sound Mode titles), used when English would otherwise drop under 85%. Not for FCT 3, which isn't a PTP.
 
 ## Sweep
 

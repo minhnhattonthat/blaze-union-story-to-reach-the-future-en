@@ -41,6 +41,25 @@ def test_repack_draws_the_same(fct3):
         assert seen(new) == seen(img), hex(off)
 
 
+def test_grown_group_draws_more_ink_than_its_slice():
+    """A 24 px track title with one slice row takes a wider sprite through a new slice at the file's end; the rest of
+    the file keeps its bytes."""
+    from PIL import Image, ImageDraw
+    import sprite
+    d, kind, off = sprite.load("2702@4cbf0")
+    pal = gfx.group_palette(d, off)
+    img = Image.new("RGBA", sprite.image("2702@4cbf0").size)
+    ImageDraw.Draw(img).rectangle((1, 1, 128, 22), fill=gfx.rgba(pal[-1]))
+    with pytest.raises(ValueError):
+        gfx.repack(bytearray(d), off, img, pal=pal)
+    new = bytearray(d)
+    gfx.repack(new, off, img, pal=pal, grown=True)
+    a, b = gfx.span(d, off)
+    assert new[:off + 4] == d[:off + 4] and new[b:len(d)] == d[b:]
+    assert len(new) > len(d)
+    assert seen(ptg.render(bytes(new), off, pal=pal).crop((0, 0) + img.size)) == seen(img)
+
+
 def test_repack_joins_gaps_when_clearing_splits_runs():
     """Clearing the recap diagram's lettering splits ink runs past the cell count at every fixed gap; the narrowest-gap
     join must still lay it out, drawing the same pixels."""

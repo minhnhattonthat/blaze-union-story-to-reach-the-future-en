@@ -139,13 +139,48 @@ def _runs(idx, W, H, ink, gap_max):
     return runs
 
 
-def repack(d, goff, img, pal=None):
+def grow(d, goff, pal, width):
+    """Give the group new slices at the end of a PTP file (bytearray d) for width columns of 8-row stream. Each is 512x8,
+    so a group takes at most 1024 columns, ValueError past that. The first slice has the palette right after its header,
+    as every original, the second shares it (poff 0). PTX +14, +15 are the game's UV shifts, 15 - lw and 15 - lh: a
+    copied header with another width samples at the wrong step. The old slices' bytes stay, unused. The cell table can't
+    move (the game reads it at +0x20 and ignores +4), so the group keeps its cell count."""
+    assert d[:4] == b"PTP\0", "only a PTP file may grow"
+    W, H = 512, 8
+    if width > 2 * W:
+        raise ValueError(f"group {goff:#x}: {width} columns, a grown group holds {2 * W}")
+    g = ptg.parse(d, goff)
+    h0 = ptx.parse(d, g["slices"][0])
+    head = bytearray(d[g["slices"][0]:g["slices"][0] + 0x20])
+    head[4], head[5] = 9, 3
+    head[0x14], head[0x15] = 15 - 9, 15 - 3
+    struct.pack_into("<HHH", head, 6, W, W, H)
+    bpp = 8 if h0["fmt"] == 5 else 4
+    offs = []
+    for i in range((width + W - 1) // W):
+        d.extend(bytes(-len(d) & 63))
+        offs.append(len(d))
+        p = b"" if i else struct.pack(f"<{len(pal)}I", *pal)
+        struct.pack_into("<I", head, 0x10, len(pal))
+        struct.pack_into("<II", head, 0x18, 0 if i else 0x20, 0x20 + len(p))
+        d.extend(head)
+        d.extend(p)
+        d.extend(bytes(W * bpp // 8 * H))
+    struct.pack_into("<II", d, goff + 8, offs[0] - goff, offs[1] - goff if len(offs) > 1 else 0)
+    struct.pack_into("<HH", d, goff + 0x14, g["n0"] + g["n1"], 0)
+
+
+def repack(d, goff, img, pal=None, grown=False):
     """Lay img (RGBA, the size ptg.render gives) into the group's slices. Wide gaps are kept first (fewer cells), then
     cut tighter until the ink fits the stream; ValueError if it never fits the columns and cell count the group has.
-    Unused cells repeat the last one (drawn twice, same pixels)."""
+    Unused cells repeat the last one (drawn twice, same pixels). grown=True: a new slice at the file's end, see grow()."""
     pal = pal or group_palette(d, goff)
     cols = [rgba(c) for c in pal]
     idx = quantize(img, pal)
+    if grown:
+        runs = _runs(idx, *img.size, lambda i: cols[i][3] > 0, img.width)  # no split: fewest cells, one per 8-row band
+        grow(d, goff, pal, sum(x1 - x0 for _, x0, x1 in runs))
+        return _lay(d, goff, idx, img.size, cols, 8, runs)
     err = None
     for gap in (64, 24, 8, 3, 1):
         try:
