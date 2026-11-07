@@ -8,8 +8,8 @@
    4399
   ],
   "jp": "{voice:005417}だからー！{n}王国の王様が来ても{n}入れちゃダメなんだってば②",
-  "en": "",
-  "status": ""
+  "en": "Like I said! Even if the King of the Kingdom comes, you can't let him in!!",
+  "status": "done"
  },
  {
   "id": "event_2202_00065",
@@ -20,8 +20,8 @@
    4417
   ],
   "jp": "{voice:005517}何故拙者がお主らの命令に{n}従わねばならぬのか？",
-  "en": "",
-  "status": ""
+  "en": "Why must I follow your orders?",
+  "status": "done"
  },
  {
   "id": "event_2202_00097",
@@ -32,8 +32,8 @@
    4424
   ],
   "jp": "{voice:005617}拙者は陛下より、城外の守備と{n}オルディーン国王の案内を{n}申し付かっておるのだ。",
-  "en": "",
-  "status": ""
+  "en": "His Majesty charged me with guarding outside the castle and escorting King Ordene.",
+  "status": "done"
  },
  {
   "id": "event_2202_000E8",
@@ -44,8 +44,8 @@
    4485
   ],
   "jp": "{voice:005717}バルドゥス。{n}私の頼みでもダメか？",
-  "en": "",
-  "status": ""
+  "en": "Baldus. Not even if I ask it of you?",
+  "status": "done"
  },
  {
   "id": "event_2202_0010E",
@@ -56,8 +56,8 @@
    4503
   ],
   "jp": "{voice:005817}……申し訳ありません。{n}ラピス殿が来ても話を聞かぬよう、{n}そう申し送りがございましてな。",
-  "en": "",
-  "status": ""
+  "en": "...My apologies. I have instructions not to listen, even if Lapis-dono should come.",
+  "status": "done"
  },
  {
   "id": "event_2202_00169",
@@ -68,8 +68,8 @@
    4521
   ],
   "jp": "{voice:005917}そうか……",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "done"
  },
  {
   "id": "event_2202_00178",
@@ -80,8 +80,8 @@
    4887
   ],
   "jp": "{voice:005A17}ダメだね、鉄壁だよ。{n}さすがブロンキアの盾と{n}呼ばれるだけはあるね。",
-  "en": "",
-  "status": ""
+  "en": "No good, he's an iron wall. They don't call him the Shield of Bronquia for nothing.",
+  "status": "done"
  },
  {
   "id": "event_2202_001BF",
@@ -92,8 +92,8 @@
    4905
   ],
   "jp": "{voice:005B17}うーん…、もういっそのことさ、{n}強硬突破しちゃおうよ。{n}あの爺さんには前に勝ってるし。",
-  "en": "",
-  "status": ""
+  "en": "Hmm... Why don't we just force our way through? We beat that old guy before.",
+  "status": "done"
  },
  {
   "id": "event_2202_00218",
@@ -104,8 +104,8 @@
    4923
   ],
   "jp": "{voice:005C17}あの時の模擬戦とは違うぞ。{n}要塞の周りには数多くの{n}部隊がいる。正面突破は不可能だ。",
-  "en": "",
-  "status": ""
+  "en": "This is no mock battle like back then. Many units surround the fortress. A frontal breakthrough is impossible.",
+  "status": "done"
  },
  {
   "id": "event_2202_0026F",
@@ -116,8 +116,8 @@
    4941
   ],
   "jp": "{voice:005D17}確かに危機的状況ではあるが、{n}まだオルディーン国王は、{n}イシュナートに入っていない。",
-  "en": "",
-  "status": ""
+  "en": "It is a critical situation indeed, but King Ordene has not yet entered Ishnart.",
+  "status": "done"
  },
  {
   "id": "event_2202_002C6",
@@ -128,8 +128,8 @@
    4948
   ],
   "jp": "{voice:005E17}帝国側がダメなら、{n}王国側に呼びかけるのだ。{n}イシュナートは危険だ、と。",
-  "en": "",
-  "status": ""
+  "en": "If the Empire's side is no good, we appeal to the Kingdom's side. We tell them Ishnart is dangerous.",
+  "status": "done"
  },
  {
   "id": "event_2202_00311",
@@ -140,8 +140,8 @@
    5109
   ],
   "jp": "{voice:005F17}そう上手くいけばいいけど…",
-  "en": "",
-  "status": ""
+  "en": "If only it goes that well...",
+  "status": "done"
  },
  {
   "id": "event_2202_00330",
@@ -152,8 +152,8 @@
    5127
   ],
   "jp": "{voice:006017}メデューテ、周囲の状況は？",
-  "en": "",
-  "status": ""
+  "en": "Medoute, how do things look around here?",
+  "status": "done"
  },
  {
   "id": "event_2202_0034F",
@@ -164,8 +164,8 @@
    5145
   ],
   "jp": "{voice:006117}それが、いくつもの部隊が{n}密かに配備されているようだ。",
-  "en": "",
-  "status": ""
+  "en": "About that, it seems several units have been quietly deployed.",
+  "status": "done"
  },
  {
   "id": "event_2202_00389",
@@ -176,8 +176,8 @@
    5152
   ],
   "jp": "{voice:006217}ここカノッサ街道は、{n}王国と帝国の国境線を横切る{n}一番の近道。",
-  "en": "",
-  "status": ""
+  "en": "This Canossa Road is the shortest way across the border between the Kingdom and the Empire.",
+  "status": "done"
  },
  {
   "id": "event_2202_003CA",
@@ -188,8 +188,8 @@
    5170
   ],
   "jp": "{voice:006317}イシュナートに入城する国王は{n}必ずここを通る……",
-  "en": "",
-  "status": ""
+  "en": "The King has to come through here to enter Ishnart...",
+  "status": "done"
  },
  {
   "id": "event_2202_003FE",
@@ -200,8 +200,8 @@
    5188
   ],
   "jp": "{voice:006417}暗殺者が手ぐすね引いて{n}待っているって事か。",
-  "en": "",
-  "status": ""
+  "en": "So the assassins are lying in wait, ready to go.",
+  "status": "done"
  },
  {
   "id": "event_2202_0042E",
@@ -212,8 +212,8 @@
    5206
   ],
   "jp": "{voice:006517}先ずはそれらを{n}排除せねばならないな。",
-  "en": "",
-  "status": ""
+  "en": "First, we must remove them.",
+  "status": "done"
  },
  {
   "id": "event_2202_00458",
@@ -224,8 +224,8 @@
    5213
   ],
   "jp": "{voice:006617}そして入城前の国王と接触し、{n}暗殺者の存在を引き合いに出して、{n}交渉を行う。",
-  "en": "",
-  "status": ""
+  "en": "Then we meet the King before he enters the castle, cite the assassins, and negotiate.",
+  "status": "done"
  },
  {
   "id": "event_2202_004A7",
@@ -236,8 +236,8 @@
    5231
   ],
   "jp": "{voice:006717}なんとか要塞に入る前に、{n}国王を止める作戦ですね。",
-  "en": "",
-  "status": ""
+  "en": "So the plan is to stop the King somehow before he enters the fortress.",
+  "status": "done"
  },
  {
   "id": "event_2202_004DD",
@@ -248,8 +248,8 @@
    5307
   ],
   "jp": "{voice:006817}それで、本当に大丈夫かな？",
-  "en": "",
-  "status": ""
+  "en": "But will that really be enough?",
+  "status": "done"
  },
  {
   "id": "event_2202_004FC",
@@ -260,8 +260,8 @@
    5314
   ],
   "jp": "{voice:006917}私、うまく言えないけどさ、{n}あの要塞から、嫌ーな感じが{n}伝わってくるのよね。",
-  "en": "",
-  "status": ""
+  "en": "I can't put it into words, but I'm getting a really bad feeling from that fortress.",
+  "status": "done"
  },
  {
   "id": "event_2202_0054B",
@@ -272,8 +272,8 @@
    5321
   ],
   "jp": "{voice:006A17}万一に備えて、要塞の中にも兵を{n}配置すべきじゃないかな？",
-  "en": "",
-  "status": ""
+  "en": "Just in case, shouldn't we put some soldiers inside the fortress too?",
+  "status": "done"
  },
  {
   "id": "event_2202_00587",
@@ -284,8 +284,8 @@
    5328
   ],
   "jp": "{voice:006B17}だってさ、国王が城内に{n}入っちゃったら、私達手が{n}出せなくなるんだよ。",
-  "en": "",
-  "status": ""
+  "en": "I mean, once the King's inside the castle, we can't do a thing.",
+  "status": "done"
  },
  {
   "id": "event_2202_005D0",
@@ -296,8 +296,8 @@
    5346
   ],
   "jp": "{voice:006C17}そうだけど、危険すぎるよ。",
-  "en": "",
-  "status": ""
+  "en": "True, but that's too dangerous.",
+  "status": "done"
  },
  {
   "id": "event_2202_005EF",
@@ -308,8 +308,8 @@
    5364
   ],
   "jp": "{voice:006D17}俺はシスキアの案に賛成だ。{n}備えはあった方がいい。",
-  "en": "",
-  "status": ""
+  "en": "I'm with Siskier. Better to be prepared.",
+  "status": "done"
  },
  {
   "id": "event_2202_00625",
@@ -320,8 +320,8 @@
    5382
   ],
   "jp": "{voice:006E17}分かった、こうしよう。{n}僕とシスキアの部隊で、要塞内に{n}潜入する。",
-  "en": "",
-  "status": ""
+  "en": "All right, here's what we'll do. My unit and Siskier's will sneak into the fortress.",
+  "status": "done"
  },
  {
   "id": "event_2202_0066A",
@@ -332,8 +332,8 @@
    5400
   ],
   "jp": "{voice:006F17}ジェノンが？{n}足、引っ張らなきゃいいけど…",
-  "en": "",
-  "status": ""
+  "en": "You, Jenon? I just hope you don't drag me down...",
+  "status": "done"
  },
  {
   "id": "event_2202_00698",
@@ -344,8 +344,8 @@
    5418
   ],
   "jp": "{voice:007017}何かあったら報告しろ。{n}それから危険を感じたら逃げろ。{n}その２つは守れ、いいな。",
-  "en": "",
-  "status": ""
+  "en": "If anything happens, report it. And if you sense danger, run. Stick to those two rules, got it.",
+  "status": "done"
  },
  {
   "id": "event_2202_006EB",
@@ -356,8 +356,8 @@
    5436
   ],
   "jp": "{voice:007117}うん、了解だよ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, got it.",
+  "status": "done"
  },
  {
   "id": "event_2202_00700",
@@ -368,8 +368,8 @@
    5523
   ],
   "jp": "{voice:007217}じゃあ俺達は暗殺者を{n}見つけ出して始末しよう。",
-  "en": "",
-  "status": ""
+  "en": "Then the rest of us will find the assassins and take them out.",
+  "status": "done"
  },
  {
   "id": "event_2202_00732",
@@ -380,8 +380,8 @@
    5800
   ],
   "jp": "{voice:007317}部隊をなるべく散らし、{n}捜索範囲を広めに取るんだ。",
-  "en": "",
-  "status": ""
+  "en": "Spread the units out as much as you can, and cover a wide search area.",
+  "status": "done"
  },
  {
   "id": "event_2202_00768",
@@ -392,8 +392,8 @@
    5818
   ],
   "jp": "{voice:007417}暗殺者を見つけたら、各個撃破。{n}他部隊は、可能なら助勢に入る。{n}いいわね？",
-  "en": "",
-  "status": ""
+  "en": "If you find an assassin, take them out one by one. Other units, back them up if you can. All right?",
+  "status": "done"
  },
  {
   "id": "event_2202_007B5",
@@ -404,8 +404,8 @@
    9279
   ],
   "jp": "{voice:007517}これで暗殺者の討伐は終わったな…",
-  "en": "",
-  "status": ""
+  "en": "That takes care of the assassins...",
+  "status": "done"
  },
  {
   "id": "event_2202_007DA",
@@ -416,8 +416,8 @@
    9286
   ],
   "jp": "{voice:007617}あとはこの街道を{n}国王が通るのを待って、{n}要塞入りを止めればいいだろう。",
-  "en": "",
-  "status": ""
+  "en": "Now we just wait for the King to come down this road, and stop him from entering the fortress.",
+  "status": "done"
  },
  {
   "id": "event_2202_00825",
@@ -440,8 +440,8 @@
    9853
   ],
   "jp": "{voice:007717}オルディーン国王、{n}我々の話をお聞きください。",
-  "en": "",
-  "status": ""
+  "en": "King Ordene, please hear what we have to say.",
+  "status": "done"
  },
  {
   "id": "event_2202_00862",
@@ -452,8 +452,8 @@
    9871
   ],
   "jp": "{voice:007817}何者だ？",
-  "en": "",
-  "status": ""
+  "en": "Who are you?",
+  "status": "done"
  },
  {
   "id": "event_2202_0086F",
@@ -464,8 +464,8 @@
    10100
   ],
   "jp": "{voice:007917}私は、ブロンキア帝国の{n}商業都市ティエラの方伯で、{n}ヴェルマンと申します。",
-  "en": "",
-  "status": ""
+  "en": "I am Velleman, Margrave of Tiera, a commercial city of the Bronquia Empire.",
+  "status": "done"
  },
  {
   "id": "event_2202_008BC",
@@ -476,8 +476,8 @@
    10107
   ],
   "jp": "{voice:007A17}単刀直入に申し上げます。{n}イシュナート要塞に、不穏な動き{n}があります。",
-  "en": "",
-  "status": ""
+  "en": "I will be direct. There is an ominous stirring at Ishnart Fortress.",
+  "status": "done"
  },
  {
   "id": "event_2202_00905",
@@ -488,8 +488,8 @@
    10114
   ],
   "jp": "{voice:007B17}今すぐ王国へと、{n}お戻り頂けないでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Would you please return to the Kingdom at once?",
+  "status": "done"
  },
  {
   "id": "event_2202_00935",
@@ -500,8 +500,8 @@
    10132
   ],
   "jp": "{voice:007C17}…断る。",
-  "en": "",
-  "status": ""
+  "en": "...I refuse.",
+  "status": "done"
  },
  {
   "id": "event_2202_00942",
@@ -512,8 +512,8 @@
    10150
   ],
   "jp": "{voice:007D17}断るとおっしゃいましたか？",
-  "en": "",
-  "status": ""
+  "en": "You say you refuse?",
+  "status": "done"
  },
  {
   "id": "event_2202_00961",
@@ -524,8 +524,8 @@
    10168
   ],
   "jp": "{voice:007E17}そうだ。一国の皇帝に対し、{n}約束を反故にする事は、{n}国として信義にもとる行為だ。",
-  "en": "",
-  "status": ""
+  "en": "Yes. For a nation to break its word to the Emperor of another would be a breach of good faith.",
+  "status": "done"
  },
  {
   "id": "event_2202_009B4",
@@ -536,8 +536,8 @@
    10175
   ],
   "jp": "{voice:007F17}そのような情報に踊らされるほど、{n}私は愚かではないつもりだ。",
-  "en": "",
-  "status": ""
+  "en": "I would like to think I'm not fool enough to be swayed by such information.",
+  "status": "done"
  },
  {
   "id": "event_2202_009F4",
@@ -548,8 +548,8 @@
    10237
   ],
   "jp": "{voice:008017}しかし、我々は既に{n}城外に控えていた暗殺部隊を{n}何名も討っているのです。",
-  "en": "",
-  "status": ""
+  "en": "But we have already struck down a number of assassin units lying in wait outside the castle.",
+  "status": "done"
  },
  {
   "id": "event_2202_00A3F",
@@ -560,8 +560,8 @@
    10244
   ],
   "jp": "{voice:008117}位置と場所から考えて、{n}オルディーン陛下を狙っていた{n}のは明らかです。",
-  "en": "",
-  "status": ""
+  "en": "From their positions, it's clear they were after you, King Ordene.",
+  "status": "done"
  },
  {
   "id": "event_2202_00A88",
@@ -572,8 +572,8 @@
    10262
   ],
   "jp": "{voice:008217}言いたい事はわかった。{n}しかし、それだけの情報では{n}戻る訳にはいかん。",
-  "en": "",
-  "status": ""
+  "en": "I understand what you wish to say. But with that information alone, I cannot turn back.",
+  "status": "done"
  },
  {
   "id": "event_2202_00AD1",
@@ -584,8 +584,8 @@
    10269
   ],
   "jp": "{voice:008317}君達が何故私を守ろうとするのか、{n}それはわからぬが、{n}単純に礼は言っておく。恩に着る。",
-  "en": "",
-  "status": ""
+  "en": "I do not know why you would try to protect me, but you have my simple thanks. I am in your debt.",
+  "status": "done"
  },
  {
   "id": "event_2202_00B2A",
@@ -596,8 +596,8 @@
    10287
   ],
   "jp": "{voice:008417}…人の言う事は、{n}素直に聞いたらどうなのです。",
-  "en": "",
-  "status": ""
+  "en": "...Why not simply listen to what people tell you?",
+  "status": "done"
  },
  {
   "id": "event_2202_00B5C",
@@ -608,8 +608,8 @@
    10357
   ],
   "jp": "{voice:008517}ん？　似ておるな。",
-  "en": "",
-  "status": ""
+  "en": "Hm? There is a resemblance.",
+  "status": "done"
  },
  {
   "id": "event_2202_00B73",
@@ -632,8 +632,8 @@
    10393
   ],
   "jp": "{voice:008617}いや、すまない。{n}他人のそら似だろう。",
-  "en": "",
-  "status": ""
+  "en": "No, forgive me. It must be a mere coincidence.",
+  "status": "done"
  },
  {
   "id": "event_2202_00BA8",
@@ -644,8 +644,8 @@
    10400
   ],
   "jp": "{voice:008717}さて、そろそろ行かねばならぬ。{n}そこをどいて貰おう。",
-  "en": "",
-  "status": ""
+  "en": "Well, I must be going. Please step aside.",
+  "status": "done"
  },
  {
   "id": "event_2202_00BE0",
@@ -656,8 +656,8 @@
    10418
   ],
   "jp": "{voice:008817}頭が固いですね……",
-  "en": "",
-  "status": ""
+  "en": "How hardheaded you are...",
+  "status": "done"
  },
  {
   "id": "event_2202_00BF7",
@@ -668,8 +668,8 @@
    10436
   ],
   "jp": "{voice:008917}とにかくこれ以上の足止めは{n}無用だ。先を急ぐのでな。",
-  "en": "",
-  "status": ""
+  "en": "In any case, there's no need to detain me further. I must be on my way.",
+  "status": "done"
  },
  {
   "id": "event_2202_00C2F",
@@ -680,8 +680,8 @@
    10588
   ],
   "jp": "{voice:008A17}行ってしまったな……",
-  "en": "",
-  "status": ""
+  "en": "He's gone...",
+  "status": "done"
  },
  {
   "id": "event_2202_00C48",
@@ -692,8 +692,8 @@
    10606
   ],
   "jp": "{voice:008B17}あれは、強情なのです！{n}説得など、きっと聞かない{n}腐った王なのです②",
-  "en": "",
-  "status": ""
+  "en": "He is simply stubborn! A rotten King who would never listen to reason!!",
+  "status": "done"
  },
  {
   "id": "event_2202_00C8F",
@@ -716,8 +716,8 @@
    10642
   ],
   "jp": "{voice:008C17}こうなったら、{n}あの２人に賭けるしかないか……",
-  "en": "",
-  "status": ""
+  "en": "It's come to this, then. We'll just have to bet on those two...",
+  "status": "done"
  },
  {
   "id": "event_2202_00CCC",
@@ -728,8 +728,8 @@
    10660
   ],
   "jp": "{voice:008D17}頼んだぞ、ジェノン、シスキア。",
-  "en": "",
-  "status": ""
+  "en": "I'm counting on you, Jenon, Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2202_00D41",

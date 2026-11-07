@@ -1550,8 +1550,8 @@
    48928
   ],
   "jp": "{voice:004117}ネシアが描いた計画を暴き、{n}それを無に帰すのが先決だ！",
-  "en": "",
-  "status": ""
+  "en": "First we expose whatever Nessiah's plan is, and bring it to nothing!",
+  "status": "done"
  },
  {
   "id": "event_2201_0573F",
@@ -1562,8 +1562,8 @@
    48949
   ],
   "jp": "{voice:004217}くっ、確かにそうかもしれぬ。",
-  "en": "",
-  "status": ""
+  "en": "Tch, that may well be so.",
+  "status": "done"
  },
  {
   "id": "event_2201_05760",
@@ -1574,8 +1574,8 @@
    49045
   ],
   "jp": "{voice:004317}あのさ、ファンタジニア王国は、{n}国境を接する隣の強国だよね……",
-  "en": "",
-  "status": ""
+  "en": "Say, the Kingdom of Fantasinia is the powerful neighbor right across the border, right...",
+  "status": "done"
  },
  {
   "id": "event_2201_057A2",
@@ -1586,8 +1586,8 @@
    49066
   ],
   "jp": "{voice:004417}例えば首長会談の席で、{n}国王が皇帝陛下に殺されたら……",
-  "en": "",
-  "status": ""
+  "en": "Suppose at the summit, the King gets killed by His Majesty the Emperor...",
+  "status": "done"
  },
  {
   "id": "event_2201_057DC",
@@ -1598,8 +1598,8 @@
    49087
   ],
   "jp": "{voice:004517}その先は俺にも分かるぞ。{n}間違いなく、戦争が始まるな。",
-  "en": "",
-  "status": ""
+  "en": "Even I can tell you what comes next. War, no doubt about it.",
+  "status": "done"
  },
  {
   "id": "event_2201_05816",
@@ -1610,8 +1610,8 @@
    49108
   ],
   "jp": "{voice:004617}まさか、ネシアが言っていた{n}戦乱の渦って、ひょっとして…！",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me, that whirlpool of war Nessiah was talking about...!",
+  "status": "done"
  },
  {
   "id": "event_2201_05854",
@@ -1622,8 +1622,8 @@
    49204
   ],
   "jp": "{voice:004717}ヴェルマン、すぐにその{n}イシュナート要塞とかいう場所に{n}行くべきだぜ。",
-  "en": "",
-  "status": ""
+  "en": "Velleman, we've got to get to that Ishnart Fortress place right away.",
+  "status": "done"
  },
  {
   "id": "event_2201_0589D",
@@ -1634,8 +1634,8 @@
    49286
   ],
   "jp": "{voice:004817}状況は飲み込めんが……{n}その、ネシアとかいう者に{n}陛下は操られているのか？",
-  "en": "",
-  "status": ""
+  "en": "I can't quite grasp the situation... So this Nessiah person is controlling His Majesty?",
+  "status": "done"
  },
  {
   "id": "event_2201_058EA",
@@ -1646,8 +1646,8 @@
    49307
   ],
   "jp": "{voice:004917}その可能性が高いでしょう。{n}断言はできませんが。",
-  "en": "",
-  "status": ""
+  "en": "That seems highly likely. Though I can't say for certain.",
+  "status": "done"
  },
  {
   "id": "event_2201_0591E",
@@ -1658,8 +1658,8 @@
    49328
   ],
   "jp": "{voice:004A17}しかし、ネシアは殺したのでは？",
-  "en": "",
-  "status": ""
+  "en": "But didn't you kill Nessiah?",
+  "status": "done"
  },
  {
   "id": "event_2201_05941",
@@ -1670,8 +1670,8 @@
    49349
   ],
   "jp": "{voice:004B17}何らかの強力な術を{n}使ったかと思われます。",
-  "en": "",
-  "status": ""
+  "en": "I suspect he used some powerful spell.",
+  "status": "done"
  },
  {
   "id": "event_2201_0596F",
@@ -1682,8 +1682,8 @@
    49370
   ],
   "jp": "{voice:004C17}にわかには、信じられんな。{n}だが、私も陛下を止めねばならん。{n}同道させてもらうぞ。",
-  "en": "",
-  "status": ""
+  "en": "I can't believe it just like that. But I too must stop His Majesty. I shall come with you.",
+  "status": "done"
  },
  {
   "id": "event_2201_059C4",
@@ -1694,8 +1694,8 @@
    49391
   ],
   "jp": "{voice:004D17}それは構いませぬ。{n}我々としてもありがたい。",
-  "en": "",
-  "status": ""
+  "en": "That is fine by us. We are glad to have you.",
+  "status": "done"
  },
  {
   "id": "event_2201_059F4",
@@ -1706,8 +1706,8 @@
    49412
   ],
   "jp": "{voice:004E17}一つだけ言っておく。{n}私は貴様達を信用した訳ではない。",
-  "en": "",
-  "status": ""
+  "en": "I will say one thing. I do not trust you.",
+  "status": "done"
  },
  {
   "id": "event_2201_05A2E",
@@ -1718,8 +1718,8 @@
    49419
   ],
   "jp": "{voice:004F17}この話に一片でも嘘があれば、{n}私はお前達を、殺す。",
-  "en": "",
-  "status": ""
+  "en": "If there is a single lie in this story, I will kill you.",
+  "status": "done"
  },
  {
   "id": "event_2201_05A64",
@@ -1730,8 +1730,8 @@
    49440
   ],
   "jp": "{voice:005017}いいだろう。",
-  "en": "",
-  "status": ""
+  "en": "Fine.",
+  "status": "done"
  },
  {
   "id": "event_2201_05A75",
@@ -1742,8 +1742,8 @@
    38184
   ],
   "jp": "理想と現実との差に疲れて、{n}血に抗えなくなると、{n}思っていたのですがね……",
-  "en": "",
-  "status": ""
+  "en": "I thought you would tire of the gap between ideals and reality, and no longer resist your blood...",
+  "status": "done"
  },
  {
   "id": "event_2201_05ABE",
@@ -1754,8 +1754,8 @@
    38205
   ],
   "jp": "なんだ？　何を言っている③",
-  "en": "",
-  "status": ""
+  "en": "What? What are you talking about!?",
+  "status": "done"
  },
  {
   "id": "event_2201_05AD9",
@@ -1766,8 +1766,8 @@
    38226
   ],
   "jp": "フフフ……{n}今となってはどうでもよい事。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... It hardly matters now.",
+  "status": "done"
  },
  {
   "id": "event_2201_05B01",
@@ -1778,8 +1778,8 @@
    38427
   ],
   "jp": "やはり、{n}あなたを贄とすべきでしたね。{n}そうすれば、きっと……",
-  "en": "",
-  "status": ""
+  "en": "I should have made you the sacrifice, after all. Then surely...",
+  "status": "done"
  },
  {
   "id": "event_2201_05B3E",
@@ -1790,8 +1790,8 @@
    38448
   ],
   "jp": "寄らないでよ！　裏切り者②",
-  "en": "",
-  "status": ""
+  "en": "Stay back! Traitor!!",
+  "status": "done"
  },
  {
   "id": "event_2201_05B59",
@@ -1802,8 +1802,8 @@
    38656
   ],
   "jp": "恐れていた事が、{n}起こってしまったようだね……",
-  "en": "",
-  "status": ""
+  "en": "What I feared has come to pass, it seems...",
+  "status": "done"
  },
  {
   "id": "event_2201_05B87",
@@ -1814,8 +1814,8 @@
    38677
   ],
   "jp": "恐れていた？{n}この事態を予見していたと？",
-  "en": "",
-  "status": ""
+  "en": "Feared? You foresaw this turn of events?",
+  "status": "done"
  },
  {
   "id": "event_2201_05BAF",
@@ -1826,8 +1826,8 @@
    38684
   ],
   "jp": "フフフ……、嘘をつくのは{n}普通の人間相手だけにした方が{n}よいですよ、ジェノンさん。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... You should keep your lies for ordinary humans, Jenon-san.",
+  "status": "done"
  },
  {
   "id": "event_2201_05C00",
@@ -1838,8 +1838,8 @@
    38691
   ],
   "jp": "貴方の私に対する不安は、{n}嫉妬から来る感情的なものです。",
-  "en": "",
-  "status": ""
+  "en": "Your unease about me is an emotional thing, born of jealousy.",
+  "status": "done"
  },
  {
   "id": "event_2201_05C38",
@@ -1850,8 +1850,8 @@
    38712
   ],
   "jp": "クッ……",
-  "en": "",
-  "status": ""
+  "en": "Ngh...",
+  "status": "done"
  },
  {
   "id": "event_2201_05C41",
@@ -1862,8 +1862,8 @@
    38920
   ],
   "jp": "ネシア、グラムブレイズに籍を{n}置いたのは、あたし達を利用して{n}戦乱を起こそうとしたのか③",
-  "en": "",
-  "status": ""
+  "en": "Nessiah, did you join Gram Blaze to use us to start a war!?",
+  "status": "done"
  },
  {
   "id": "event_2201_05C98",
@@ -1874,8 +1874,8 @@
    38941
   ],
   "jp": "フフフ……{n}ご想像にお任せしましょう。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... I leave that to your imagination.",
+  "status": "done"
  },
  {
   "id": "event_2201_05CBE",
@@ -1886,8 +1886,8 @@
    39142
   ],
   "jp": "ガーロット様に刃を向けるなど、{n}私が許しません！",
-  "en": "",
-  "status": ""
+  "en": "Turning your blade on Garlot-sama, I will not allow it!",
+  "status": "done"
  },
  {
   "id": "event_2201_05CEE",
@@ -1898,8 +1898,8 @@
    39163
   ],
   "jp": "忠義、ですか……{n}それも人間を操るのに{n}便利な要素ですよ。フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Loyalty, is it... That too is a handy thing for controlling humans. Hehehe...",
+  "status": "done"
  },
  {
   "id": "event_2201_05D2F",
@@ -1910,8 +1910,8 @@
    39371
   ],
   "jp": "ネシア、ろくでもねぇなぁ。{n}一か八かの裏切り、ってわけか。{n}『６』じゃあないだけにな②",
-  "en": "",
-  "status": ""
+  "en": "Nessiah, you are a bad lot. Betraying us on a roll of the dice, and not a six in sight!!",
+  "status": "done"
  },
  {
   "id": "event_2201_05D84",
@@ -1946,8 +1946,8 @@
    39621
   ],
   "jp": "戦乱なんて巻き起こして、{n}どうするつもり？{n}少し聞かせて欲しいわね。",
-  "en": "",
-  "status": ""
+  "en": "What do you plan to do after stirring up a war? I'd like to hear a little about that.",
+  "status": "done"
  },
  {
   "id": "event_2201_05DE1",
@@ -1958,8 +1958,8 @@
    39642
   ],
   "jp": "この状況です、{n}その時間はなさそうですね。",
-  "en": "",
-  "status": ""
+  "en": "In this situation, I doubt there is time.",
+  "status": "done"
  },
  {
   "id": "event_2201_05E0B",
@@ -1970,8 +1970,8 @@
    39843
   ],
   "jp": "どういう事だよ、裏切り？{n}仲間じゃなかったのか？",
-  "en": "",
-  "status": ""
+  "en": "What do you mean, betrayal? Weren't we comrades?",
+  "status": "done"
  },
  {
   "id": "event_2201_05E3B",
@@ -1982,8 +1982,8 @@
    39864
   ],
   "jp": "仲間？{n}私はそう思った事など、{n}一度もありませんよ。",
-  "en": "",
-  "status": ""
+  "en": "Comrades? I never once thought so.",
+  "status": "done"
  },
  {
   "id": "event_2201_05E6E",
@@ -1994,8 +1994,8 @@
    40065
   ],
   "jp": "ヒック……、{n}なんかまた複雑な感じなのね？",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... Things have gone all complicated again, huh?",
+  "status": "done"
  },
  {
   "id": "event_2201_05E98",
@@ -2018,8 +2018,8 @@
    40287
   ],
   "jp": "あんた、人間じゃないでしょ？",
-  "en": "",
-  "status": ""
+  "en": "You're not human, are you?",
+  "status": "done"
  },
  {
   "id": "event_2201_05EC0",
@@ -2030,8 +2030,8 @@
    40308
   ],
   "jp": "おやおや、バレていましたか。{n}フフフ……",
-  "en": "",
-  "status": ""
+  "en": "Oh dear, so you knew. Hehehe...",
+  "status": "done"
  },
  {
   "id": "event_2201_05EE8",
@@ -2042,8 +2042,8 @@
    40329
   ],
   "jp": "最初からわかってたんだわさ。",
-  "en": "",
-  "status": ""
+  "en": "I knew it right from the start, y'know.",
+  "status": "done"
  },
  {
   "id": "event_2201_05F05",
@@ -2054,8 +2054,8 @@
    40582
   ],
   "jp": "あらあら、{n}ついに本性を出したのですね。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, so you finally show your true colors.",
+  "status": "done"
  },
  {
   "id": "event_2201_05F2D",
@@ -2066,8 +2066,8 @@
    40589
   ],
   "jp": "しかし、{n}果たしてこのタイミングで{n}良かったのかしら。",
-  "en": "",
-  "status": ""
+  "en": "Though I do wonder if this was really the right moment.",
+  "status": "done"
  },
  {
   "id": "event_2201_05F62",
@@ -2078,8 +2078,8 @@
    40610
   ],
   "jp": "あなたは気付いていましたか。{n}まあ、同じ穴のムジナ、{n}といったところですしね……",
-  "en": "",
-  "status": ""
+  "en": "You noticed, did you. Well, we are birds of a feather, after all...",
+  "status": "done"
  },
  {
   "id": "event_2201_05FB1",
@@ -2090,8 +2090,8 @@
    40668
   ],
   "jp": "そうか、ようやく思い出したぜ。{n}お前、確か堕天使の……",
-  "en": "",
-  "status": ""
+  "en": "Right, now I remember. You're that fallen angel...",
+  "status": "done"
  },
  {
   "id": "event_2201_05FE7",
@@ -2102,8 +2102,8 @@
    40689
   ],
   "jp": "おっと、人間の前では呼ばないで{n}頂けますか？{n}その名はもう捨てましたので……",
-  "en": "",
-  "status": ""
+  "en": "Ah, would you please not say it in front of the humans? I have long since thrown that name away...",
+  "status": "done"
  },
  {
   "id": "event_2201_06032",
@@ -2114,8 +2114,8 @@
    40897
   ],
   "jp": "裏切ったのか、ネシア……",
-  "en": "",
-  "status": ""
+  "en": "Have you betrayed us, Nessiah...",
+  "status": "done"
  },
  {
   "id": "event_2201_0604B",
@@ -2126,8 +2126,8 @@
    40918
   ],
   "jp": "裏切るというか、{n}裏切られたのですよ。{n}あなた達の団長の行動に……",
-  "en": "",
-  "status": ""
+  "en": "Rather than betrayed, I was the one betrayed. By the actions of your Captain...",
+  "status": "done"
  },
  {
   "id": "event_2201_0608C",
@@ -2138,8 +2138,8 @@
    41119
   ],
   "jp": "いい根性だな、ネシア…{n}覚悟は、できてんだろうな③",
-  "en": "",
-  "status": ""
+  "en": "You've got some nerve, Nessiah... I hope you're ready for this!?",
+  "status": "done"
  },
  {
   "id": "event_2201_060BE",
@@ -2150,8 +2150,8 @@
    41140
   ],
   "jp": "覚悟、ですか？{n}フフフ……",
-  "en": "",
-  "status": ""
+  "en": "Ready, you say? Hehehe...",
+  "status": "done"
  },
  {
   "id": "event_2201_060D8",
@@ -2162,8 +2162,8 @@
    41341
   ],
   "jp": "あなたの能力には驚かされます。{n}もっと早くに、計画を実行して{n}おくべきでした。",
-  "en": "",
-  "status": ""
+  "en": "Your abilities astonish me. I should have carried out my plan much sooner.",
+  "status": "done"
  },
  {
   "id": "event_2201_06125",
@@ -2174,8 +2174,8 @@
    41362
   ],
   "jp": "過去は清算できません。{n}それが例え、堕天使であれども。",
-  "en": "",
-  "status": ""
+  "en": "The past cannot be settled. Not even by a fallen angel.",
+  "status": "done"
  },
  {
   "id": "event_2201_0615B",
@@ -2198,8 +2198,8 @@
    42070
   ],
   "jp": "やはりその力、惜しい……{n}是非利用させて頂きたいですね。{n}私の屍兵としてですが。",
-  "en": "",
-  "status": ""
+  "en": "Such power, and such a waste... I would very much like to use it. As one of my corpse soldiers, that is.",
+  "status": "done"
  },
  {
   "id": "event_2201_061B7",
@@ -2210,8 +2210,8 @@
    42097
   ],
   "jp": "もう少し、{n}骨があると思ったのですが……",
-  "en": "",
-  "status": ""
+  "en": "I thought you had a little more backbone...",
+  "status": "done"
  },
  {
   "id": "event_2201_061DF",
@@ -2222,8 +2222,8 @@
    42107
   ],
   "jp": "やはり血の力が目覚めていない{n}あなたの力など、その程度ですか。",
-  "en": "",
-  "status": ""
+  "en": "With your blood's power still asleep, that is all you amount to, I see.",
+  "status": "done"
  },
  {
   "id": "event_2201_0621D",
@@ -2234,8 +2234,8 @@
    42128
   ],
   "jp": "血の力とはなんだ。{n}俺の何を知っている③",
-  "en": "",
-  "status": ""
+  "en": "What do you mean, my blood's power? What do you know about me!?",
+  "status": "done"
  },
  {
   "id": "event_2201_06245",
@@ -2258,8 +2258,8 @@
    42341
   ],
   "jp": "戦乱なんて、起こさせない！{n}絶対私達が止めてみせる②",
-  "en": "",
-  "status": ""
+  "en": "We won't let you start a war! We're going to stop you, no matter what!!",
+  "status": "done"
  },
  {
   "id": "event_2201_06288",
@@ -2270,8 +2270,8 @@
    42362
   ],
   "jp": "フフフ…、無知というのは、{n}ある意味幸せな事ですね。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... Ignorance is, in a sense, a happy thing.",
+  "status": "done"
  },
  {
   "id": "event_2201_062BC",
@@ -2282,8 +2282,8 @@
    42369
   ],
   "jp": "未来にある恐怖を、{n}感じなくてすむのですから……",
-  "en": "",
-  "status": ""
+  "en": "You need not feel the terror that lies ahead...",
+  "status": "done"
  },
  {
   "id": "event_2201_062EC",
@@ -2294,8 +2294,8 @@
    42399
   ],
   "jp": "つ、強い……",
-  "en": "",
-  "status": ""
+  "en": "H-He's strong...",
+  "status": "done"
  },
  {
   "id": "event_2201_062F9",
@@ -2306,8 +2306,8 @@
    42420
   ],
   "jp": "屍兵よ！{n}このまま押し潰しなさい②",
-  "en": "",
-  "status": ""
+  "en": "Corpse soldiers! Crush them, just like that!!",
+  "status": "done"
  },
  {
   "id": "event_2201_0631B",
@@ -2318,8 +2318,8 @@
    42605
   ],
   "jp": "意外にやるものですね。{n}まだ、利用価値もありそうですよ。",
-  "en": "",
-  "status": ""
+  "en": "You are better than I thought. You may still be of some use.",
+  "status": "done"
  },
  {
   "id": "event_2201_06353",
@@ -2330,8 +2330,8 @@
    42635
   ],
   "jp": "その程度で、{n}私達を倒せると思ったのですか…",
-  "en": "",
-  "status": ""
+  "en": "Did you think you could beat us with that much...",
+  "status": "done"
  },
  {
   "id": "event_2201_0637F",
@@ -2342,8 +2342,8 @@
    42656
   ],
   "jp": "……どうやって凌ぐ。",
-  "en": "",
-  "status": ""
+  "en": "...How do we get through this?",
+  "status": "done"
  },
  {
   "id": "event_2201_06394",
@@ -2354,8 +2354,8 @@
    42841
   ],
   "jp": "お前に感じていた不安感。{n}こういう風に現実になるとはな…",
-  "en": "",
-  "status": ""
+  "en": "That unease I felt about you. To think it would come true like this...",
+  "status": "done"
  },
  {
   "id": "event_2201_063CC",
@@ -2378,8 +2378,8 @@
    42934
   ],
   "jp": "敵として戦うと、{n}やはり恐ろしいな……",
-  "en": "",
-  "status": ""
+  "en": "Fighting him as an enemy really is frightening...",
+  "status": "done"
  },
  {
   "id": "event_2201_063FD",
@@ -2390,8 +2390,8 @@
    42955
   ],
   "jp": "恐怖を感じるのですか？",
-  "en": "",
-  "status": ""
+  "en": "Do you feel fear?",
+  "status": "done"
  },
  {
   "id": "event_2201_06414",
@@ -2402,8 +2402,8 @@
    43140
   ],
   "jp": "血の気が多い人間ですね。{n}もっと私を楽しませて下さい。",
-  "en": "",
-  "status": ""
+  "en": "What a hot-blooded human. Entertain me some more.",
+  "status": "done"
  },
  {
   "id": "event_2201_0644A",
@@ -2414,8 +2414,8 @@
    43161
   ],
   "jp": "な、なにを……",
-  "en": "",
-  "status": ""
+  "en": "Wh-What...",
+  "status": "done"
  },
  {
   "id": "event_2201_06459",
@@ -2426,8 +2426,8 @@
    43233
   ],
   "jp": "やはり手強い……{n}ですが、{n}負けるわけにはいきません。",
-  "en": "",
-  "status": ""
+  "en": "He is as formidable as I feared... But I cannot lose.",
+  "status": "done"
  },
  {
   "id": "event_2201_0648E",
@@ -2438,8 +2438,8 @@
    43254
   ],
   "jp": "いいですよ、その思い！{n}戦いを肯定する思いこそが{n}私の糧となるのです②",
-  "en": "",
-  "status": ""
+  "en": "Good, that feeling! The feeling that affirms battle is what feeds me!!",
+  "status": "done"
  },
  {
   "id": "event_2201_064D3",
@@ -2450,8 +2450,8 @@
    43446
   ],
   "jp": "ギリギリの裏切り、{n}なーんつって！",
-  "en": "",
-  "status": ""
+  "en": "A cutting-edge double-cross, Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2201_064F5",
@@ -2462,8 +2462,8 @@
    43467
   ],
   "jp": "今ので、良いのですか？",
-  "en": "",
-  "status": ""
+  "en": "Are you quite finished?",
+  "status": "done"
  },
  {
   "id": "event_2201_0650C",
@@ -2474,8 +2474,8 @@
    43488
   ],
   "jp": "ん？　すまない……",
-  "en": "",
-  "status": ""
+  "en": "Hm? Sorry...",
+  "status": "done"
  },
  {
   "id": "event_2201_0651F",
@@ -2486,8 +2486,8 @@
    43518
   ],
   "jp": "バイフー、まいった。{n}昨日は園芸で種を撒いった。{n}なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "Byff is beat. Yesterday Byff was gardening: beet seeds. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2201_0655E",
@@ -2510,8 +2510,8 @@
    43731
   ],
   "jp": "どうもポリシィがなにか、{n}理解できないわね。",
-  "en": "",
-  "status": ""
+  "en": "I just can't work out what your policy is.",
+  "status": "done"
  },
  {
   "id": "event_2201_06597",
@@ -2522,8 +2522,8 @@
    43752
   ],
   "jp": "話していませんからね。{n}理解できなくて当然ですよ。",
-  "en": "",
-  "status": ""
+  "en": "I haven't told you. Of course you can't work it out.",
+  "status": "done"
  },
  {
   "id": "event_2201_065C9",
@@ -2534,8 +2534,8 @@
    43810
   ],
   "jp": "その程度の力でしたか……",
-  "en": "",
-  "status": ""
+  "en": "So that is the extent of your strength...",
+  "status": "done"
  },
  {
   "id": "event_2201_065E2",
@@ -2546,8 +2546,8 @@
    43831
   ],
   "jp": "うるさいわね。{n}元味方って事で、{n}手加減してるだけよ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, shut up. You used to be on our side, so I'm just going easy on you.",
+  "status": "done"
  },
  {
   "id": "event_2201_06617",
@@ -2558,8 +2558,8 @@
    44023
   ],
   "jp": "オイラは少なくとも、{n}仲間だと思っていたぜ。",
-  "en": "",
-  "status": ""
+  "en": "I thought we were comrades, at least.",
+  "status": "done"
  },
  {
   "id": "event_2201_06643",
@@ -2570,8 +2570,8 @@
    44044
   ],
   "jp": "フフフ……{n}だから人間は愚かなのですよ。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... That is why humans are foolish.",
+  "status": "done"
  },
  {
   "id": "event_2201_0666B",
@@ -2582,8 +2582,8 @@
    44065
   ],
   "jp": "お前だって、人間だろ③",
-  "en": "",
-  "status": ""
+  "en": "You're a human too, ain't you!?",
+  "status": "done"
  },
  {
   "id": "event_2201_06682",
@@ -2594,8 +2594,8 @@
    44086
   ],
   "jp": "私が、人間？{n}フフフ、ハハハハハハ②",
-  "en": "",
-  "status": ""
+  "en": "I, a human? Hehehe, hahahahaha!!",
+  "status": "done"
  },
  {
   "id": "event_2201_066A6",
@@ -2606,8 +2606,8 @@
    44107
   ],
   "jp": "私を同列に並べようなど、{n}片腹痛いですね。{n}おこがましいにも程があります。",
-  "en": "",
-  "status": ""
+  "en": "To rank me alongside you, how laughable. Such impudence knows no bounds.",
+  "status": "done"
  },
  {
   "id": "event_2201_066EF",
@@ -2618,8 +2618,8 @@
    44186
   ],
   "jp": "さぁ、{n}死して私の屍兵となりなさい。",
-  "en": "",
-  "status": ""
+  "en": "Now, die, and become one of my corpse soldiers.",
+  "status": "done"
  },
  {
   "id": "event_2201_06713",
@@ -2630,8 +2630,8 @@
    44207
   ],
   "jp": "そんなの、オイラはごめんだね！",
-  "en": "",
-  "status": ""
+  "en": "No thanks, not me!",
+  "status": "done"
  },
  {
   "id": "event_2201_06732",
@@ -2642,8 +2642,8 @@
    44399
   ],
   "jp": "ヒック…{n}うぇっぷ……",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... Urp...",
+  "status": "done"
  },
  {
   "id": "event_2201_06748",
@@ -2654,8 +2654,8 @@
    44420
   ],
   "jp": "あなたは本当につかみ所のない{n}人間、いや失敬、人魚ですね。",
-  "en": "",
-  "status": ""
+  "en": "You really are a hard human to pin down, or rather, pardon me, mermaid.",
+  "status": "done"
  },
  {
   "id": "event_2201_06782",
@@ -2666,8 +2666,8 @@
    44450
   ],
   "jp": "あららら…",
-  "en": "",
-  "status": ""
+  "en": "Oh my, my...",
+  "status": "done"
  },
  {
   "id": "event_2201_0678D",
@@ -2678,8 +2678,8 @@
    44471
   ],
   "jp": "フフフ…{n}この程度ですか。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... Is that all?",
+  "status": "done"
  },
  {
   "id": "event_2201_067A7",
@@ -2690,8 +2690,8 @@
    44670
   ],
   "jp": "私が魔法で負けるとはね……",
-  "en": "",
-  "status": ""
+  "en": "To think I would lose at magic...",
+  "status": "done"
  },
  {
   "id": "event_2201_067C2",
@@ -2702,8 +2702,8 @@
    44691
   ],
   "jp": "パメラ様を舐めてたら、{n}シリから手ぇ入れて、奥歯を{n}ガタガタ言わせちゃうんだわさ♪",
-  "en": "",
-  "status": ""
+  "en": "Underestimate Pamela-sama, and I'll reach up your rear and rattle your back teeth♪",
+  "status": "done"
  },
  {
   "id": "event_2201_06813",
@@ -2714,8 +2714,8 @@
    44721
   ],
   "jp": "このレベルの魔法を使うとはね。{n}あなたも人間ではありませんね？",
-  "en": "",
-  "status": ""
+  "en": "Magic of this level. You are not human either, are you?",
+  "status": "done"
  },
  {
   "id": "event_2201_06851",
@@ -2726,8 +2726,8 @@
    44742
   ],
   "jp": "パメラ様はパメラ様よ！{n}人間かどうかなんて、{n}些細な問題なんだわさ②",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama is Pamela-sama! Whether I'm human or not is a trifling matter!!",
+  "status": "done"
  },
  {
   "id": "event_2201_06894",
@@ -2738,8 +2738,8 @@
    44972
   ],
   "jp": "まぁ、{n}私をあなたのような退屈な存在と、{n}一緒にしないでくださいまし。",
-  "en": "",
-  "status": ""
+  "en": "My, please do not lump me in with a tedious being such as you.",
+  "status": "done"
  },
  {
   "id": "event_2201_068D9",
@@ -2750,8 +2750,8 @@
    45060
   ],
   "jp": "戦乱を起こすにゃ、{n}ちょいと男パワーが{n}足りないんじゃないのか？",
-  "en": "",
-  "status": ""
+  "en": "To start a war, ain't you a little short on man power?",
+  "status": "done"
  },
  {
   "id": "event_2201_06918",
@@ -2762,8 +2762,8 @@
    45067
   ],
   "jp": "ケッ、燃えねぇなぁ……",
-  "en": "",
-  "status": ""
+  "en": "Heh, this ain't gettin' me fired up...",
+  "status": "done"
  },
  {
   "id": "event_2201_0692F",
@@ -2774,8 +2774,8 @@
    45146
   ],
   "jp": "もう終わりですか、神界人？{n}地面に這いつくばる姿が{n}大層お似合いですよ。フフフ…",
-  "en": "",
-  "status": ""
+  "en": "Finished already, child of Heaven? Crawling on the ground suits you so well. Hehehe...",
+  "status": "done"
  },
  {
   "id": "event_2201_0697E",
@@ -2786,8 +2786,8 @@
    45198
   ],
   "jp": "あらあら、えらく余裕のご様子。{n}そんな態度をとると、{n}後悔することになりますわよ。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, you seem awfully relaxed. Take that attitude, and you will come to regret it.",
+  "status": "done"
  },
  {
   "id": "event_2201_069CF",
@@ -2798,8 +2798,8 @@
    45262
   ],
   "jp": "あなたの存在は、{n}私の計画には邪魔です……",
-  "en": "",
-  "status": ""
+  "en": "Your existence stands in the way of my plan...",
+  "status": "done"
  },
  {
   "id": "event_2201_069F9",
@@ -2810,8 +2810,8 @@
    45447
   ],
   "jp": "お前は一体何者……",
-  "en": "",
-  "status": ""
+  "en": "What are you...",
+  "status": "done"
  },
  {
   "id": "event_2201_06A0C",
@@ -2822,8 +2822,8 @@
    45468
   ],
   "jp": "この問いに答えるには、{n}あまりにも時間がなさ過ぎですね。",
-  "en": "",
-  "status": ""
+  "en": "There is far too little time to answer that question.",
+  "status": "done"
  },
  {
   "id": "event_2201_06A44",
@@ -2834,8 +2834,8 @@
    45498
   ],
   "jp": "どうしたのですか？{n}その程度の力なのですか？",
-  "en": "",
-  "status": ""
+  "en": "What is wrong? Is that the extent of your strength?",
+  "status": "done"
  },
  {
   "id": "event_2201_06A70",
@@ -2858,8 +2858,8 @@
    45711
   ],
   "jp": "お前の覚悟はこんなものか？{n}大層な口聞きやがったクセによ。",
-  "en": "",
-  "status": ""
+  "en": "That all your resolve amounts to? After all your big talk.",
+  "status": "done"
  },
  {
   "id": "event_2201_06AB3",
@@ -2882,8 +2882,8 @@
    45762
   ],
   "jp": "クソッ、どうも調子が出ねぇぜ。",
-  "en": "",
-  "status": ""
+  "en": "Damn, I just can't get going.",
+  "status": "done"
  },
  {
   "id": "event_2201_06ADD",
@@ -2894,8 +2894,8 @@
    45783
   ],
   "jp": "どうしましたか？{n}正直、拍子抜けですよ……",
-  "en": "",
-  "status": ""
+  "en": "What is the matter? Frankly, I'm disappointed...",
+  "status": "done"
  },
  {
   "id": "event_2201_06B07",
@@ -2906,8 +2906,8 @@
    45968
   ],
   "jp": "力がまだ満ちていないのですね。",
-  "en": "",
-  "status": ""
+  "en": "Your power is not yet full, I see.",
+  "status": "done"
  },
  {
   "id": "event_2201_06B26",
@@ -2930,7 +2930,7 @@
    46019
   ],
   "jp": "さあ、死ね！",
-  "en": "",
-  "status": ""
+  "en": "Now, die!",
+  "status": "done"
  }
 ]

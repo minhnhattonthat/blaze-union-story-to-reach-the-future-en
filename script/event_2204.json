@@ -20,8 +20,8 @@
    11006
   ],
   "jp": "{voice:009018}シスキア、大丈夫か？",
-  "en": "",
-  "status": ""
+  "en": "Siskier, are you okay?",
+  "status": "done"
  },
  {
   "id": "event_2204_0004C",
@@ -32,8 +32,8 @@
    11027
   ],
   "jp": "{voice:009118}大丈夫って言いたいけれど{n}それは無理ね…",
-  "en": "",
-  "status": ""
+  "en": "I'd like to say I'm okay, but I can't...",
+  "status": "done"
  },
  {
   "id": "event_2204_00078",
@@ -44,8 +44,8 @@
    11048
   ],
   "jp": "{voice:009218}信じようぜ、{n}ジェノンは生きてるって。",
-  "en": "",
-  "status": ""
+  "en": "Let's believe Jenon's alive.",
+  "status": "done"
  },
  {
   "id": "event_2204_000A2",
@@ -56,8 +56,8 @@
    11069
   ],
   "jp": "{voice:009318}うん……",
-  "en": "",
-  "status": ""
+  "en": "Yeah...",
+  "status": "done"
  },
  {
   "id": "event_2204_000AF",
@@ -80,8 +80,8 @@
    11138
   ],
   "jp": "{voice:009418}思えば私、ジェノンにいつも{n}ひどい事ばっか言ってた気がする。",
-  "en": "",
-  "status": ""
+  "en": "Come to think of it, I feel like I was always saying awful things to Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2204_000FA",
@@ -92,8 +92,8 @@
    11163
   ],
   "jp": "{voice:009518}ひどい事言ってるのは、{n}ジェノンにだけ、じゃないだろ。{n}俺にだって、言うしさ。",
-  "en": "",
-  "status": ""
+  "en": "You don't only say awful things to Jenon. You say them to me too.",
+  "status": "done"
  },
  {
   "id": "event_2204_0014B",
@@ -104,8 +104,8 @@
    11184
   ],
   "jp": "{voice:009618}なによ、アンタの場合は、{n}アンタの場合は……",
-  "en": "",
-  "status": ""
+  "en": "What, in your case... in your case...",
+  "status": "done"
  },
  {
   "id": "event_2204_0017B",
@@ -116,8 +116,8 @@
    11205
   ],
   "jp": "{voice:009718}……謝りたいんだよ、{n}私、ジェノンに…、だから……{n}生きてて欲しい……",
-  "en": "",
-  "status": ""
+  "en": "...I want to apologize, to Jenon... That's why... I want him to be alive...",
+  "status": "done"
  },
  {
   "id": "event_2204_001C4",
@@ -140,8 +140,8 @@
    11247
   ],
   "jp": "{voice:009918}…ごめんね、おかしいよね。{n}なんか、泣いちゃって、私…",
-  "en": "",
-  "status": ""
+  "en": "...Sorry, this is weird, right. I'm crying for some reason...",
+  "status": "done"
  },
  {
   "id": "event_2204_0020D",
@@ -152,8 +152,8 @@
    11268
   ],
   "jp": "{voice:009A18}シスキアの事、{n}ひどい事言うヤツだって{n}そういう風には思ってないよ。",
-  "en": "",
-  "status": ""
+  "en": "I don't think of Siskier as someone who says awful things.",
+  "status": "done"
  },
  {
   "id": "event_2204_00254",
@@ -164,8 +164,8 @@
    11289
   ],
   "jp": "{voice:009B18}俺も、アイツだってそうさ。{n}だって、３人は友達だしさ",
-  "en": "",
-  "status": ""
+  "en": "Me or him. We're friends, the three of us.",
+  "status": "done"
  },
  {
   "id": "event_2204_0028C",
@@ -176,8 +176,8 @@
    11310
   ],
   "jp": "{voice:009C18}友達か……、うん。{n}そうだよね。",
-  "en": "",
-  "status": ""
+  "en": "Friends... Yeah. You're right.",
+  "status": "done"
  },
  {
   "id": "event_2204_002B0",
@@ -188,8 +188,8 @@
    11358
   ],
   "jp": "{voice:009D18}にしても遅いよな、ジェノンの奴。",
-  "en": "",
-  "status": ""
+  "en": "Still, he's taking his time, that Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2204_002D5",
@@ -200,8 +200,8 @@
    11379
   ],
   "jp": "{voice:009E18}え？",
-  "en": "",
-  "status": ""
+  "en": "Huh?",
+  "status": "done"
  },
  {
   "id": "event_2204_002DE",
@@ -212,8 +212,8 @@
    11400
   ],
   "jp": "{voice:009F18}アイツはいつも遅れてくるだろ。{n}これも作戦の内だとか、{n}後から付け足して。",
-  "en": "",
-  "status": ""
+  "en": "He's always late, isn't he. Then he adds on after that it was all part of the plan.",
+  "status": "done"
  },
  {
   "id": "event_2204_0032B",
@@ -236,8 +236,8 @@
    11442
   ],
   "jp": "{voice:00A018}本当はただの遅刻だったり、必死{n}に走ってきたりして言ってるんだ。",
-  "en": "",
-  "status": ""
+  "en": "When really he was just late, or came running like crazy.",
+  "status": "done"
  },
  {
   "id": "event_2204_0037A",
@@ -248,8 +248,8 @@
    11463
   ],
   "jp": "{voice:00A118}だから、どうせすぐに来るって。{n}シスキア、いいな絶対に{n}騙されちゃダメだぜ。",
-  "en": "",
-  "status": ""
+  "en": "So he'll be here any minute. Siskier, listen, you can't let him fool you.",
+  "status": "done"
  },
  {
   "id": "event_2204_003C9",
@@ -260,8 +260,8 @@
    11484
   ],
   "jp": "{voice:00A218}……あはは、そうだね。{n}それ言えてるよ、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "...Ahaha, you're right. That's so true, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2204_00401",
@@ -272,8 +272,8 @@
    11505
   ],
   "jp": "{voice:00A318}ああ、そうに決まってるさ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I know it is.",
+  "status": "done"
  },
  {
   "id": "event_2204_00420",
@@ -284,8 +284,8 @@
    11526
   ],
   "jp": "{voice:00A418}私、もうちょっと{n}この辺りを調べてみるから。",
-  "en": "",
-  "status": ""
+  "en": "I'll look around here a little longer.",
+  "status": "done"
  },
  {
   "id": "event_2204_00450",
@@ -296,8 +296,8 @@
    11547
   ],
   "jp": "{voice:00A518}じゃあ俺は、別の場所を探すよ。",
-  "en": "",
-  "status": ""
+  "en": "Then I'll search somewhere else.",
+  "status": "done"
  },
  {
   "id": "event_2204_00473",
@@ -320,8 +320,8 @@
    11663
   ],
   "jp": "{voice:00A618}戻って来てよ、ジェノン。",
-  "en": "",
-  "status": ""
+  "en": "Come back, Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2204_0049B",
@@ -332,8 +332,8 @@
    11670
   ],
   "jp": "{voice:00A718}最後に言ったのが、{n}バーカ、だなんて寂しすぎるよ。",
-  "en": "",
-  "status": ""
+  "en": "If the last thing I said to you was \"dummy,\" that's just too sad.",
+  "status": "done"
  },
  {
   "id": "event_2204_004D1",
@@ -344,8 +344,8 @@
    11691
   ],
   "jp": "{voice:00A818}分かってるわよ、{n}これも作戦の内なんでしょ？",
-  "en": "",
-  "status": ""
+  "en": "I know, this is part of the plan too, right?",
+  "status": "done"
  },
  {
   "id": "event_2204_00501",
@@ -356,8 +356,8 @@
    11712
   ],
   "jp": "{voice:00A918}もうバレてんだから、{n}いい加減出てこいよ、バーカ！",
-  "en": "",
-  "status": ""
+  "en": "I've already figured it out, so come on out already, dummy!",
+  "status": "done"
  },
  {
   "id": "event_2204_00537",
@@ -368,8 +368,8 @@
    11767
   ],
   "jp": "{voice:00AA18}またバカって言うのかい、{n}本当にひどいな、シスキアは。",
-  "en": "",
-  "status": ""
+  "en": "Calling me a dummy again? You really are awful, Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2204_00571",
@@ -380,8 +380,8 @@
    11791
   ],
   "jp": "{voice:00AB18}ひどくなんか無いよ！{n}勝手にいなくなる方がひどいよ。",
-  "en": "",
-  "status": ""
+  "en": "I am not awful! Disappearing on your own is way more awful.",
+  "status": "done"
  },
  {
   "id": "event_2204_005A9",
@@ -392,8 +392,8 @@
    11812
   ],
   "jp": "{voice:00AC18}え？",
-  "en": "",
-  "status": ""
+  "en": "Huh?",
+  "status": "done"
  },
  {
   "id": "event_2204_005B2",
@@ -404,8 +404,8 @@
    11959
   ],
   "jp": "{voice:00AD18}もうちょっと早く助けに来て{n}くれてたら、ここまでの状況には{n}ならなかったよ。",
-  "en": "",
-  "status": ""
+  "en": "If you'd come to rescue me a bit sooner, it wouldn't have gotten this bad.",
+  "status": "done"
  },
  {
   "id": "event_2204_00601",
@@ -416,8 +416,8 @@
    11980
   ],
   "jp": "{voice:00AE18}ジェノン？",
-  "en": "",
-  "status": ""
+  "en": "Jenon?",
+  "status": "done"
  },
  {
   "id": "event_2204_00610",
@@ -428,8 +428,8 @@
    12001
   ],
   "jp": "{voice:00AF18}うん、それは確実だな。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, that's for sure.",
+  "status": "done"
  },
  {
   "id": "event_2204_0062B",
@@ -440,8 +440,8 @@
    12093
   ],
   "jp": "{voice:00B018}いやいやちょっと待って。{n}これは幻覚ね。",
-  "en": "",
-  "status": ""
+  "en": "No, no, wait a sec. This is a hallucination.",
+  "status": "done"
  },
  {
   "id": "event_2204_00657",
@@ -452,8 +452,8 @@
    12114
   ],
   "jp": "{voice:00B118}幻覚？　うん、そうかもね。{n}シスキアはもう少し栄養と睡眠を{n}よく取った方がいい。",
-  "en": "",
-  "status": ""
+  "en": "A hallucination? Yeah, could be. You should get more nutrition and sleep, Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2204_006AA",
@@ -464,8 +464,8 @@
    12121
   ],
   "jp": "{voice:00B218}第一、体型を気にし過ぎて{n}小食が過ぎるんだよ。",
-  "en": "",
-  "status": ""
+  "en": "For one thing, you worry too much about your figure and eat way too little.",
+  "status": "done"
  },
  {
   "id": "event_2204_006DC",
@@ -476,8 +476,8 @@
    12128
   ],
   "jp": "{voice:00B318}だったらそんな、お腹が出る格好、{n}しなければいいのにさ……",
-  "en": "",
-  "status": ""
+  "en": "If you're that worried, you shouldn't wear something that shows your stomach...",
+  "status": "done"
  },
  {
   "id": "event_2204_0071A",
@@ -500,8 +500,8 @@
    12217
   ],
   "jp": "{voice:00B418}やあ。",
-  "en": "",
-  "status": ""
+  "en": "Hey there.",
+  "status": "done"
  },
  {
   "id": "event_2204_00730",
@@ -512,8 +512,8 @@
    12285
   ],
   "jp": "{voice:00B518}ジェノンっ②",
-  "en": "",
-  "status": ""
+  "en": "Jenon!!",
+  "status": "done"
  },
  {
   "id": "event_2204_00741",
@@ -524,8 +524,8 @@
    12418
   ],
   "jp": "{voice:00B618}ジェノン…、お前……",
-  "en": "",
-  "status": ""
+  "en": "Jenon... You...",
+  "status": "done"
  },
  {
   "id": "event_2204_0075A",
@@ -536,8 +536,8 @@
    12439
   ],
   "jp": "{voice:00B718}心配かけたね、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "Sorry to worry you, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2204_00779",
@@ -548,8 +548,8 @@
    12460
   ],
   "jp": "{voice:00B818}今までどうしてたんだ？{n}どうしてもっと早く……",
-  "en": "",
-  "status": ""
+  "en": "Where have you been all this time? Why didn't you come sooner...",
+  "status": "done"
  },
  {
   "id": "event_2204_007AB",
@@ -560,8 +560,8 @@
    12481
   ],
   "jp": "{voice:00B918}水路の流れに逆らって{n}敵に見つかったらバカみたいだろ。{n}だから、海まで流されたよ。",
-  "en": "",
-  "status": ""
+  "en": "Fighting the current and getting spotted would've been stupid. So I let it carry me out to sea.",
+  "status": "done"
  },
  {
   "id": "event_2204_00800",
@@ -572,8 +572,8 @@
    12488
   ],
   "jp": "{voice:00BA18}で、流れ着いたバリン公爵領で、{n}情報を集めていたんだ。",
-  "en": "",
-  "status": ""
+  "en": "I washed up in Duke Balin's lands, and gathered information there.",
+  "status": "done"
  },
  {
   "id": "event_2204_0083A",
@@ -584,8 +584,8 @@
    12495
   ],
   "jp": "{voice:00BB18}で、皇帝が退位するって本当かい？",
-  "en": "",
-  "status": ""
+  "en": "So, is it true the Emperor's stepping down?",
+  "status": "done"
  },
  {
   "id": "event_2204_0085F",
@@ -596,8 +596,8 @@
    12516
   ],
   "jp": "{voice:00BC18}本当だ。{n}まだ正式じゃないが、ヴェルマンが{n}宰相になるらしい。",
-  "en": "",
-  "status": ""
+  "en": "It's true. It's not official yet, but it looks like Velleman will be Chancellor.",
+  "status": "done"
  },
  {
   "id": "event_2204_008A0",
@@ -608,8 +608,8 @@
    12537
   ],
   "jp": "{voice:00BD18}そうか、それはいい話だ。",
-  "en": "",
-  "status": ""
+  "en": "I see, that's good news.",
+  "status": "done"
  },
  {
   "id": "event_2204_008BD",
@@ -620,8 +620,8 @@
    12605
   ],
   "jp": "{voice:00BE18}ところでシスキア、{n}みんなに知らせてくれた？{n}僕が無事だって事。",
-  "en": "",
-  "status": ""
+  "en": "By the way, Siskier, have you told everyone? That I'm safe?",
+  "status": "done"
  },
  {
   "id": "event_2204_00900",
@@ -632,8 +632,8 @@
    12626
   ],
   "jp": "{voice:00BF18}まだだよ、だって今の今でしょ。{n}私、みんなを呼んでくるね……",
-  "en": "",
-  "status": ""
+  "en": "Not yet, this only just happened, right? I'll go get everyone...",
+  "status": "done"
  },
  {
   "id": "event_2204_00940",
@@ -644,8 +644,8 @@
    12647
   ],
   "jp": "{voice:00C018}ああ、そうしてくれ。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, do that.",
+  "status": "done"
  },
  {
   "id": "event_2204_00959",
@@ -656,8 +656,8 @@
    12781
   ],
   "jp": "{voice:00C118}無事でよかったよ、本当に。{n}相当心配したんだぜ。",
-  "en": "",
-  "status": ""
+  "en": "I'm glad you're safe, really. I was pretty worried, you know.",
+  "status": "done"
  },
  {
   "id": "event_2204_0098D",
@@ -668,8 +668,8 @@
    12802
   ],
   "jp": "{voice:00C218}自分でも不思議なくらいだよ。{n}きっと、運がよかったんだろうね。",
-  "en": "",
-  "status": ""
+  "en": "Even I can't quite believe it. I must have just been lucky.",
+  "status": "done"
  },
  {
   "id": "event_2204_009CF",
@@ -680,8 +680,8 @@
    12823
   ],
   "jp": "{voice:00C318}今でも身体のあちこちが…{n}う、いたた……",
-  "en": "",
-  "status": ""
+  "en": "Even now, all over my body... Ow, ow, ow...",
+  "status": "done"
  },
  {
   "id": "event_2204_009FB",
@@ -692,8 +692,8 @@
    12844
   ],
   "jp": "{voice:00C418}お、おいおい。{n}大丈夫かよ、ジェノン…",
-  "en": "",
-  "status": ""
+  "en": "H-Hey, hey. Are you okay, Jenon...",
+  "status": "done"
  },
  {
   "id": "event_2204_00A25",
@@ -704,8 +704,8 @@
    12865
   ],
   "jp": "{voice:00C518}うん、大丈夫…{n}あいテテ、頭が、くっ…",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I'm fine... Ow, my head, gah...",
+  "status": "done"
  },
  {
   "id": "event_2204_00A4F",
@@ -716,8 +716,8 @@
    12886
   ],
   "jp": "{voice:00C618}ちょっとこっちに来いよ。{n}俺が見てやるよ。",
-  "en": "",
-  "status": ""
+  "en": "Come over here for a sec. I'll take a look.",
+  "status": "done"
  },
  {
   "id": "event_2204_00A7D",
@@ -728,8 +728,8 @@
    12893
   ],
   "jp": "{voice:00C718}どのへんが痛むんだ…？",
-  "en": "",
-  "status": ""
+  "en": "Where does it hurt...?",
+  "status": "done"
  },
  {
   "id": "event_2204_00A98",
@@ -752,8 +752,8 @@
    13085
   ],
   "jp": "{voice:00C818}…チッ、外したか。{n}やはり勘がいいね、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "...Tch, missed. Sharp as ever, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2204_00AD9",
@@ -764,8 +764,8 @@
    13106
   ],
   "jp": "{voice:00C918}ジェノン…{n}どういう、冗談だ……",
-  "en": "",
-  "status": ""
+  "en": "Jenon... What kind of joke is this...",
+  "status": "done"
  },
  {
   "id": "event_2204_00AFD",
@@ -776,8 +776,8 @@
    13415
   ],
   "jp": "{voice:00CA18}ガーロット、みんなを連れて……{n}ん？　ジェノン、何してるの？",
-  "en": "",
-  "status": ""
+  "en": "Garlot, I brought everyone... Hm? Jenon, what are you doing?",
+  "status": "done"
  },
  {
   "id": "event_2204_00B3D",
@@ -788,8 +788,8 @@
    13463
   ],
   "jp": "{voice:00CB18}……みんな集まってしまったか。{n}マズイね、一度出直そう。",
-  "en": "",
-  "status": ""
+  "en": "...So everyone's gathered. Not good. I'd better try again later.",
+  "status": "done"
  },
  {
   "id": "event_2204_00B79",
@@ -800,8 +800,8 @@
    13541
   ],
   "jp": "{voice:00CC18}待ってください。{n}ジェノンさん！",
-  "en": "",
-  "status": ""
+  "en": "Please wait. Jenon-san!",
+  "status": "done"
  },
  {
   "id": "event_2204_00B9D",
@@ -812,8 +812,8 @@
    13562
   ],
   "jp": "{voice:00CD18}ガーロット、何があった？",
-  "en": "",
-  "status": ""
+  "en": "Garlot, what happened?",
+  "status": "done"
  },
  {
   "id": "event_2204_00BBA",
@@ -824,8 +824,8 @@
    13583
   ],
   "jp": "{voice:00CE18}わかんねぇよ、ただジェノンが{n}俺に斬りかかってきたんだ。",
-  "en": "",
-  "status": ""
+  "en": "I don't know, Jenon just swung at me.",
+  "status": "done"
  },
  {
   "id": "event_2204_00BF6",
@@ -836,8 +836,8 @@
    13723
   ],
   "jp": "{voice:00CF18}スマートじゃないけど、{n}仕方がないね。",
-  "en": "",
-  "status": ""
+  "en": "Not very smart, but it can't be helped.",
+  "status": "done"
  },
  {
   "id": "event_2204_00C20",
@@ -848,8 +848,8 @@
    13999
   ],
   "jp": "{voice:00D018}ま、待ってよジェノン！{n}その軍勢はどうしたの……",
-  "en": "",
-  "status": ""
+  "en": "W-Wait, Jenon! Where did that army come from...",
+  "status": "done"
  },
  {
   "id": "event_2204_00C54",
@@ -860,8 +860,8 @@
    14006
   ],
   "jp": "{voice:00D118}なにがどうなっちゃってるの？{n}わかんないよ、私。",
-  "en": "",
-  "status": ""
+  "en": "What's going on? I don't get it.",
+  "status": "done"
  },
  {
   "id": "event_2204_00C88",
@@ -872,8 +872,8 @@
    14190
   ],
   "jp": "{voice:00D218}……まだ気が付かないとはね。{n}どうも鈍い人達ですね。",
-  "en": "",
-  "status": ""
+  "en": "...Still haven't noticed. How dull you people are.",
+  "status": "done"
  },
  {
   "id": "event_2204_00CC0",
@@ -884,8 +884,8 @@
    14197
   ],
   "jp": "{voice:00D318}もしくは、仲間や友情といった、{n}くだらない人間の感情が、{n}判断を鈍らせているのでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Or could it be that comrades and friendship, those trifling human feelings, are clouding your judgment?",
+  "status": "done"
  },
  {
   "id": "event_2204_00D1D",
@@ -896,8 +896,8 @@
    14204
   ],
   "jp": "{voice:00D418}それならば、{n}より活用しがいのある戦術ですね。",
-  "en": "",
-  "status": ""
+  "en": "If so, this tactic is all the more worth using.",
+  "status": "done"
  },
  {
   "id": "event_2204_00D4F",
@@ -908,8 +908,8 @@
    14225
   ],
   "jp": "{voice:00D518}ネシア②",
-  "en": "",
-  "status": ""
+  "en": "Nessiah!!",
+  "status": "done"
  },
  {
   "id": "event_2204_00D5C",
@@ -920,8 +920,8 @@
    14246
   ],
   "jp": "{voice:00D618}やはり、また生き返ったのか！",
-  "en": "",
-  "status": ""
+  "en": "So you did come back to life again!",
+  "status": "done"
  },
  {
   "id": "event_2204_00D7D",
@@ -932,8 +932,8 @@
    14267
   ],
   "jp": "{voice:00D718}という事は、ジェノンは……",
-  "en": "",
-  "status": ""
+  "en": "Which means Jenon is...",
+  "status": "done"
  },
  {
   "id": "event_2204_00D9C",
@@ -944,8 +944,8 @@
    14377
   ],
   "jp": "{voice:00D818}ま、まさか…",
-  "en": "",
-  "status": ""
+  "en": "N-No way...",
+  "status": "done"
  },
  {
   "id": "event_2204_00DAD",
@@ -956,8 +956,8 @@
    14398
   ],
   "jp": "{voice:00D918}ようやく気が付きましたか？{n}彼はもう死んでいるんですよ。{n}死体なんです。",
-  "en": "",
-  "status": ""
+  "en": "So you've finally noticed? He's already dead. He's a corpse.",
+  "status": "done"
  },
  {
   "id": "event_2204_00DF8",
@@ -968,8 +968,8 @@
    14405
   ],
   "jp": "{voice:00DA18}今の彼は、自分の意思では{n}指一本動かせない{n}私の屍兵に過ぎません。",
-  "en": "",
-  "status": ""
+  "en": "He can't move a finger of his own will now. He is merely my corpse soldier.",
+  "status": "done"
  },
  {
   "id": "event_2204_00E3D",
@@ -980,8 +980,8 @@
    14426
   ],
   "jp": "{voice:00DB18}ひどい……、そんな…",
-  "en": "",
-  "status": ""
+  "en": "That's horrible... How could...",
+  "status": "done"
  },
  {
   "id": "event_2204_00E56",
@@ -992,8 +992,8 @@
    14447
   ],
   "jp": "{voice:00DC18}仲間が死人だと、気が付かぬうち{n}殺してあげようとしたんですがね……",
-  "en": "",
-  "status": ""
+  "en": "I meant to kill you for you, before you noticed your comrade was a dead man...",
+  "status": "done"
  },
  {
   "id": "event_2204_00E9C",
@@ -1004,8 +1004,8 @@
    14454
   ],
   "jp": "{voice:00DD18}フフフ…、団長の勘のよさ１つで{n}みんな台無しですよ。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... The Captain's sharp instincts alone ruined it all.",
+  "status": "done"
  },
  {
   "id": "event_2204_00ED4",
@@ -1028,8 +1028,8 @@
    14585
   ],
   "jp": "{voice:00DE18}あなた方さえ始末すれば、{n}聖剣封印というくだらない幻想を{n}叩き潰すのは、たやすいでしょう。",
-  "en": "",
-  "status": ""
+  "en": "Once I dispose of you, it will be simple to smash this silly fantasy of sealing the Holy Sword.",
+  "status": "done"
  },
  {
   "id": "event_2204_00F3C",
@@ -1040,8 +1040,8 @@
    14606
   ],
   "jp": "{voice:00DF18}私の野望は、こんなところで{n}終わる訳にはいかないのでね……",
-  "en": "",
-  "status": ""
+  "en": "My ambition cannot end in a place like this...",
+  "status": "done"
  },
  {
   "id": "event_2204_00F7A",
@@ -1052,8 +1052,8 @@
    14627
   ],
   "jp": "{voice:00E018}行け、私の屍兵たちよ！{n}グラムブレイズを蹂躙せよ！",
-  "en": "",
-  "status": ""
+  "en": "Go, my corpse soldiers! Trample Gram Blaze!",
+  "status": "done"
  },
  {
   "id": "event_2204_00FB0",
@@ -1064,8 +1064,8 @@
    14648
   ],
   "jp": "{voice:00E118}……来るぞ！",
-  "en": "",
-  "status": ""
+  "en": "...Here they come!",
+  "status": "done"
  },
  {
   "id": "event_2204_00FC1",
@@ -1076,8 +1076,8 @@
    14887
   ],
   "jp": "{voice:00E218}だけど、アイツはジェノンだ。{n}いつものように軽口を言っていた。",
-  "en": "",
-  "status": ""
+  "en": "But that's Jenon. He was cracking jokes like he always does.",
+  "status": "done"
  },
  {
   "id": "event_2204_01003",
@@ -1100,8 +1100,8 @@
    14929
   ],
   "jp": "{voice:00E318}シスキア、ガーロット！{n}アイツはジェノンじゃない、敵だ！{n}現実を見ろ②",
-  "en": "",
-  "status": ""
+  "en": "Siskier, Garlot! That's not Jenon, that's the enemy! Face reality!!",
+  "status": "done"
  },
  {
   "id": "event_2204_01057",
@@ -1112,8 +1112,8 @@
    15127
   ],
   "jp": "{voice:00E418}なんとかならねぇのかよ、おい！",
-  "en": "",
-  "status": ""
+  "en": "Isn't there anything we can do, damn it!",
+  "status": "done"
  },
  {
   "id": "event_2204_0107A",
@@ -1124,8 +1124,8 @@
    15148
   ],
   "jp": "{voice:00E518}もしかして、死んだんじゃなくて、{n}操られてるだけかも……",
-  "en": "",
-  "status": ""
+  "en": "Maybe he's not dead, maybe he's just being controlled...",
+  "status": "done"
  },
  {
   "id": "event_2204_010B6",
@@ -1136,8 +1136,8 @@
    16060
   ],
   "jp": "{voice:00E618}フフフ、あなたがた人間は{n}所詮は有限の存在だ……",
-  "en": "",
-  "status": ""
+  "en": "Hehehe, you humans are finite beings, after all...",
+  "status": "done"
  },
  {
   "id": "event_2204_010EA",
@@ -1148,8 +1148,8 @@
    16067
   ],
   "jp": "{voice:00E718}外部から力を取り込み続ける{n}半永久の存在である私を、{n}打倒する事など不可能です！",
-  "en": "",
-  "status": ""
+  "en": "I am semi-eternal, ever taking in power from without. You cannot defeat me!",
+  "status": "done"
  },
  {
   "id": "event_2204_0113D",
@@ -1160,8 +1160,8 @@
    16088
   ],
   "jp": "{voice:00E818}くそっ、どうにもならないのか③",
-  "en": "",
-  "status": ""
+  "en": "Damn it, is there nothing we can do!?",
+  "status": "done"
  },
  {
   "id": "event_2204_01160",
@@ -1172,8 +1172,8 @@
    16195
   ],
   "jp": "{voice:00E918}ぐくっ、くふうっ…！",
-  "en": "",
-  "status": ""
+  "en": "Gngh, kfff...!",
+  "status": "done"
  },
  {
   "id": "event_2204_01179",
@@ -1184,8 +1184,8 @@
    16216
   ],
   "jp": "{voice:00EA18}ジェノン…ッ！",
-  "en": "",
-  "status": ""
+  "en": "Jenon...!",
+  "status": "done"
  },
  {
   "id": "event_2204_0118C",
@@ -1196,8 +1196,8 @@
    17998
   ],
   "jp": "{voice:00EB18}ぐ…ぐぐ、ぐぎぎ…！",
-  "en": "",
-  "status": ""
+  "en": "Gh... Gngh, gngngh...!",
+  "status": "done"
  },
  {
   "id": "event_2204_011A5",
@@ -1220,8 +1220,8 @@
    18083
   ],
   "jp": "{voice:00EC18}…も、もうやめてよっ！",
-  "en": "",
-  "status": ""
+  "en": "...S-Stop it, please!",
+  "status": "done"
  },
  {
   "id": "event_2204_011CB",
@@ -1232,8 +1232,8 @@
    18104
   ],
   "jp": "………ッ②",
-  "en": "",
-  "status": ""
+  "en": ".........!!",
+  "status": "done"
  },
  {
   "id": "event_2204_011D6",
@@ -1244,8 +1244,8 @@
    18125
   ],
   "jp": "{voice:00ED18}どうして私達が、{n}戦わなきゃいけないの！{n}こんなのって、おかしいよ②",
-  "en": "",
-  "status": ""
+  "en": "Why do we have to fight! This is so wrong!!",
+  "status": "done"
  },
  {
   "id": "event_2204_0121D",
@@ -1256,8 +1256,8 @@
    18132
   ],
   "jp": "{voice:00EE18}どっちが正しいとか、{n}悪いとか、そんなのじゃなくて…{n}もっと、違う、そうでしょ…",
-  "en": "",
-  "status": ""
+  "en": "It's not about who's right or who's bad... It's something else, isn't it...",
+  "status": "done"
  },
  {
   "id": "event_2204_01270",
@@ -1280,8 +1280,8 @@
    18174
   ],
   "jp": "{voice:00F018}こんなの私、わからない…{n}どうすればいいのよ！",
-  "en": "",
-  "status": ""
+  "en": "I don't get this... What am I supposed to do!",
+  "status": "done"
  },
  {
   "id": "event_2204_012B1",
@@ -1304,8 +1304,8 @@
    18317
   ],
   "jp": "{voice:00F118}……ジェノン？",
-  "en": "",
-  "status": ""
+  "en": "...Jenon?",
+  "status": "done"
  },
  {
   "id": "event_2204_012CF",
@@ -1316,8 +1316,8 @@
    18338
   ],
   "jp": "{voice:00F218}何故戦うのをやめるのです？{n}剣を握り、掲げなさい…{n}戦うのです！　戦いなさい！",
-  "en": "",
-  "status": ""
+  "en": "Why do you stop fighting? Grip your sword and raise it... Fight! Fight, I say!",
+  "status": "done"
  },
  {
   "id": "event_2204_01320",
@@ -1340,8 +1340,8 @@
    18407
   ],
   "jp": "{voice:00F318}…ジェノン…",
-  "en": "",
-  "status": ""
+  "en": "...Jenon...",
+  "status": "done"
  },
  {
   "id": "event_2204_0133C",
@@ -1352,8 +1352,8 @@
    18428
   ],
   "jp": "{voice:00F418}しすきあ……",
-  "en": "",
-  "status": ""
+  "en": "Sis...kier...",
+  "status": "done"
  },
  {
   "id": "event_2204_0134D",
@@ -1364,8 +1364,8 @@
    18453
   ],
   "jp": "{voice:00F518}バカな。{n}死してなお、自我が残っていると{n}言うのですか…、あり得ない……",
-  "en": "",
-  "status": ""
+  "en": "Impossible. Your self remains, even in death... It cannot be...",
+  "status": "done"
  },
  {
   "id": "event_2204_01398",
@@ -1376,8 +1376,8 @@
    18460
   ],
   "jp": "{voice:00F618}死せる屍が意思を持つ？{n}そんな事、摂理が許すはずが……",
-  "en": "",
-  "status": ""
+  "en": "A dead corpse with a will? Providence could never allow it...",
+  "status": "done"
  },
  {
   "id": "event_2204_013D2",
@@ -1388,8 +1388,8 @@
    18481
   ],
   "jp": "{voice:00F718}シス、キア…シス、キア…{n}ガーロッ、ト…シスキア…{n}シスキア。",
-  "en": "",
-  "status": ""
+  "en": "Sis, kier... Sis, kier... Gar, lot... Siskier... Siskier.",
+  "status": "done"
  },
  {
   "id": "event_2204_01413",
@@ -1400,8 +1400,8 @@
    18559
   ],
   "jp": "{voice:00F818}私は、人間を侮っているのか。{n}いやそれこそ、あり得ない。",
-  "en": "",
-  "status": ""
+  "en": "Do I underestimate humans? No, that truly cannot be.",
+  "status": "done"
  },
  {
   "id": "event_2204_0144F",
@@ -1412,8 +1412,8 @@
    18580
   ],
   "jp": "{voice:00F918}ここは一旦退きましょう。",
-  "en": "",
-  "status": ""
+  "en": "I shall withdraw for now.",
+  "status": "done"
  },
  {
   "id": "event_2204_0146C",
@@ -1424,8 +1424,8 @@
    18601
   ],
   "jp": "{voice:00FA18}ですが、私は諦めません。{n}この身を削り、創りし聖剣を{n}封印などさせてなるものか……",
-  "en": "",
-  "status": ""
+  "en": "But I will not give up. I carved away my own self to forge that Holy Sword. I will not let it be sealed...",
+  "status": "done"
  },
  {
   "id": "event_2204_014C1",
@@ -1436,8 +1436,8 @@
    19298
   ],
   "jp": "{voice:00FB18}シスキア、ガーロット、みんな…",
-  "en": "",
-  "status": ""
+  "en": "Siskier, Garlot, everyone...",
+  "status": "done"
  },
  {
   "id": "event_2204_014E4",
@@ -1460,8 +1460,8 @@
    19340
   ],
   "jp": "{voice:00FD18}本当にジェノンだろうな？",
-  "en": "",
-  "status": ""
+  "en": "This really is Jenon, right?",
+  "status": "done"
  },
  {
   "id": "event_2204_01512",
@@ -1472,8 +1472,8 @@
    19361
   ],
   "jp": "{voice:00FE18}やめてよ、ガーロット。{n}今度は急に斬りつけたりしないさ。",
-  "en": "",
-  "status": ""
+  "en": "Come on, Garlot. I won't suddenly swing at you this time.",
+  "status": "done"
  },
  {
   "id": "event_2204_0154E",
@@ -1484,8 +1484,8 @@
    19382
   ],
   "jp": "{voice:00FF18}よかった、ジェノン。{n}やっぱり生きていたんだね。",
-  "en": "",
-  "status": ""
+  "en": "I'm so glad, Jenon. You were alive after all.",
+  "status": "done"
  },
  {
   "id": "event_2204_01582",
@@ -1496,8 +1496,8 @@
    19389
   ],
   "jp": "{voice:000019}ネシアに利用されて、かわいそう。",
-  "en": "",
-  "status": ""
+  "en": "Used by Nessiah like that, you poor thing.",
+  "status": "done"
  },
  {
   "id": "event_2204_015A7",
@@ -1508,8 +1508,8 @@
    19410
   ],
   "jp": "{voice:000119}…いや、シスキアの言葉は{n}ありがたいんだけど…{n}これはもう、僕じゃあないよ。",
-  "en": "",
-  "status": ""
+  "en": "...No, I'm grateful for what you said, Siskier... But this isn't me anymore.",
+  "status": "done"
  },
  {
   "id": "event_2204_015F6",
@@ -1532,8 +1532,8 @@
    19455
   ],
   "jp": "{voice:000319}僕はやはり一回死んでいるようだ。{n}自分で鼓動を感じる事ができない。",
-  "en": "",
-  "status": ""
+  "en": "It seems I really did die once. I can't feel my own heartbeat.",
+  "status": "done"
  },
  {
   "id": "event_2204_01645",
@@ -1544,8 +1544,8 @@
    19462
   ],
   "jp": "{voice:000419}痛みもそれほどないし。{n}会話をしたり、まばたきしたり、{n}指先を動かすだけで精一杯だ。",
-  "en": "",
-  "status": ""
+  "en": "I hardly feel any pain either. Talking, blinking, moving a fingertip, that's all I can manage.",
+  "status": "done"
  },
  {
   "id": "event_2204_0169C",
@@ -1556,8 +1556,8 @@
    19483
   ],
   "jp": "{voice:000519}今のジェノンさんからは、{n}生気がほとんど感じられません。",
-  "en": "",
-  "status": ""
+  "en": "I can sense almost no life in Jenon-san now.",
+  "status": "done"
  },
  {
   "id": "event_2204_016D8",
@@ -1568,8 +1568,8 @@
    19504
   ],
   "jp": "{voice:000619}いつネシアの操り人形に戻って、{n}君達を手に掛けるか、わからない。",
-  "en": "",
-  "status": ""
+  "en": "I could turn back into Nessiah's puppet and kill you all at any time.",
+  "status": "done"
  },
  {
   "id": "event_2204_0171C",
@@ -1580,8 +1580,8 @@
    19525
   ],
   "jp": "{voice:000719}…そんな。",
-  "en": "",
-  "status": ""
+  "en": "...No.",
+  "status": "done"
  },
  {
   "id": "event_2204_0172B",
@@ -1592,8 +1592,8 @@
    19603
   ],
   "jp": "{voice:000819}…ねえ、ガーロット。{n}友達として、最後にお願いがある。",
-  "en": "",
-  "status": ""
+  "en": "...Hey, Garlot. As your friend, I have one last favor to ask.",
+  "status": "done"
  },
  {
   "id": "event_2204_01765",
@@ -1604,8 +1604,8 @@
    19624
   ],
   "jp": "{voice:000919}なんだ、なんでも言ってくれ。",
-  "en": "",
-  "status": ""
+  "en": "What is it? Name it.",
+  "status": "done"
  },
  {
   "id": "event_2204_01786",
@@ -1616,8 +1616,8 @@
    19645
   ],
   "jp": "{voice:000A19}僕を楽にしてくれ……{n}それだけだ。",
-  "en": "",
-  "status": ""
+  "en": "Put me out of my misery... That's all.",
+  "status": "done"
  },
  {
   "id": "event_2204_017AC",
@@ -1628,8 +1628,8 @@
    19686
   ],
   "jp": "{voice:000B19}…あたしが引き受けようか？",
-  "en": "",
-  "status": ""
+  "en": "...Shall I take care of it?",
+  "status": "done"
  },
  {
   "id": "event_2204_017CB",
@@ -1652,8 +1652,8 @@
    19717
   ],
   "jp": "{voice:000C19}いや、俺がやる。{n}ジェノンの最後の願いだから。",
-  "en": "",
-  "status": ""
+  "en": "No, I'll do it. It's Jenon's last wish.",
+  "status": "done"
  },
  {
   "id": "event_2204_01808",
@@ -1664,8 +1664,8 @@
    19765
   ],
   "jp": "{voice:000D19}ねえ！　何の話をしているのよ？{n}教えてよ、ねえ！",
-  "en": "",
-  "status": ""
+  "en": "Hey! What are you talking about? Tell me, hey!",
+  "status": "done"
  },
  {
   "id": "event_2204_0183C",
@@ -1676,8 +1676,8 @@
    19786
   ],
   "jp": "{voice:000E19}子供じゃないんだ、{n}わかっているんだろう。",
-  "en": "",
-  "status": ""
+  "en": "You're not a child. You understand.",
+  "status": "done"
  },
  {
   "id": "event_2204_0186A",
@@ -1688,8 +1688,8 @@
    19807
   ],
   "jp": "{voice:000F19}わかんないよ！{n}ジェノンの命を終わらせるなんて、{n}そんなこと、考えられるはずが……",
-  "en": "",
-  "status": ""
+  "en": "I don't understand! Ending Jenon's life, how could I even think of that...",
+  "status": "done"
  },
  {
   "id": "event_2204_018BF",
@@ -1700,8 +1700,8 @@
    19855
   ],
   "jp": "{voice:001019}それと、悪いけれど、シスキアと{n}二人きりで話をさせてくれ。",
-  "en": "",
-  "status": ""
+  "en": "One more thing. Sorry, but let me talk to Siskier, just the two of us.",
+  "status": "done"
  },
  {
   "id": "event_2204_018FD",
@@ -1712,8 +1712,8 @@
    19876
   ],
   "jp": "{voice:001119}しかし……",
-  "en": "",
-  "status": ""
+  "en": "But...",
+  "status": "done"
  },
  {
   "id": "event_2204_0190C",
@@ -1724,8 +1724,8 @@
    19897
   ],
   "jp": "{voice:001219}少しだけでいい、{n}今の僕なら大丈夫だ、自信はある。",
-  "en": "",
-  "status": ""
+  "en": "Just for a little while. I'll be fine as I am now. I'm sure of it.",
+  "status": "done"
  },
  {
   "id": "event_2204_01942",
@@ -1736,8 +1736,8 @@
    19918
   ],
   "jp": "{voice:001319}メデューテ、行こう。",
-  "en": "",
-  "status": ""
+  "en": "Medoute, let's go.",
+  "status": "done"
  },
  {
   "id": "event_2204_0195B",
@@ -1748,8 +1748,8 @@
    20244
   ],
   "jp": "{voice:001419}ジェノンの手、冷たいね……",
-  "en": "",
-  "status": ""
+  "en": "Your hand is so cold, Jenon...",
+  "status": "done"
  },
  {
   "id": "event_2204_0197A",
@@ -1760,8 +1760,8 @@
    20262
   ],
   "jp": "{voice:001519}ほらね、言った通りだろ…{n}死んでるってさ。",
-  "en": "",
-  "status": ""
+  "en": "See, what did I tell you... I'm dead.",
+  "status": "done"
  },
  {
   "id": "event_2204_019A8",
@@ -1772,8 +1772,8 @@
    20280
   ],
   "jp": "{voice:001619}もう黙って……",
-  "en": "",
-  "status": ""
+  "en": "Stop talking...",
+  "status": "done"
  },
  {
   "id": "event_2204_019BB",
@@ -1784,8 +1784,8 @@
    20298
   ],
   "jp": "{voice:001719}シスキア……、最後に、{n}聞いて欲しい事があるんだ。",
-  "en": "",
-  "status": ""
+  "en": "Siskier... There's one last thing I'd like you to hear.",
+  "status": "done"
  },
  {
   "id": "event_2204_019F1",
@@ -1796,8 +1796,8 @@
    20316
   ],
   "jp": "{voice:001819}なに……",
-  "en": "",
-  "status": ""
+  "en": "What...",
+  "status": "done"
  },
  {
   "id": "event_2204_019FE",
@@ -1808,8 +1808,8 @@
    20334
   ],
   "jp": "{voice:001919}こんなときに言うのは卑怯だから{n}あんまり言いたくないんだけどさ。",
-  "en": "",
-  "status": ""
+  "en": "It's a low trick to say this now, so I don't really want to, but...",
+  "status": "done"
  },
  {
   "id": "event_2204_01A42",
@@ -1820,8 +1820,8 @@
    20341
   ],
   "jp": "{voice:001A19}シスキア……、僕…",
-  "en": "",
-  "status": ""
+  "en": "Siskier... I...",
+  "status": "done"
  },
  {
   "id": "event_2204_01A59",
@@ -1844,8 +1844,8 @@
    20377
   ],
   "jp": "{voice:001B19}ううん、違うな。",
-  "en": "",
-  "status": ""
+  "en": "No, that's not it.",
+  "status": "done"
  },
  {
   "id": "event_2204_01A79",
@@ -1856,8 +1856,8 @@
    20384
   ],
   "jp": "{voice:001C19}シスキア、{n}君はガーロットのこと好き？",
-  "en": "",
-  "status": ""
+  "en": "Siskier, do you love Garlot?",
+  "status": "done"
  },
  {
   "id": "event_2204_01AA3",
@@ -1868,8 +1868,8 @@
    20402
   ],
   "jp": "{voice:001D19}え…？{n}……うん、好き。",
-  "en": "",
-  "status": ""
+  "en": "What...? ...Yeah, I do.",
+  "status": "done"
  },
  {
   "id": "event_2204_01ABF",
@@ -1880,8 +1880,8 @@
    20420
   ],
   "jp": "{voice:001E19}友達として、じゃなくだよ。",
-  "en": "",
-  "status": ""
+  "en": "I don't mean as a friend.",
+  "status": "done"
  },
  {
   "id": "event_2204_01ADE",
@@ -1892,8 +1892,8 @@
    20438
   ],
   "jp": "{voice:001F19}……うん、分かってる。",
-  "en": "",
-  "status": ""
+  "en": "...Yeah, I know.",
+  "status": "done"
  },
  {
   "id": "event_2204_01AF9",
@@ -1904,8 +1904,8 @@
    20456
   ],
   "jp": "{voice:002019}そうだよね、{n}僕、やっぱ良く気付く男だよなぁ。",
-  "en": "",
-  "status": ""
+  "en": "Right. I sure am a perceptive guy, aren't I.",
+  "status": "done"
  },
  {
   "id": "event_2204_01B2B",
@@ -1916,8 +1916,8 @@
    20463
   ],
   "jp": "{voice:002119}気になっててね、{n}聞いておきたかったんだ。",
-  "en": "",
-  "status": ""
+  "en": "It's been on my mind, so I wanted to ask.",
+  "status": "done"
  },
  {
   "id": "event_2204_01B59",
@@ -1928,8 +1928,8 @@
    20481
   ],
   "jp": "{voice:002219}本当に、その話？",
-  "en": "",
-  "status": ""
+  "en": "That's really what you wanted to say?",
+  "status": "done"
  },
  {
   "id": "event_2204_01B6E",
@@ -1940,8 +1940,8 @@
    20499
   ],
   "jp": "{voice:002319}そうだよ、その話だよ。",
-  "en": "",
-  "status": ""
+  "en": "Yes, that's what I wanted to say.",
+  "status": "done"
  },
  {
   "id": "event_2204_01B89",
@@ -1952,8 +1952,8 @@
    20517
   ],
   "jp": "{voice:002419}そっか。",
-  "en": "",
-  "status": ""
+  "en": "I see.",
+  "status": "done"
  },
  {
   "id": "event_2204_01B96",
@@ -1964,8 +1964,8 @@
    20535
   ],
   "jp": "{voice:002519}うううううっ……",
-  "en": "",
-  "status": ""
+  "en": "Uuuuuugh...",
+  "status": "done"
  },
  {
   "id": "event_2204_01BAB",
@@ -1976,8 +1976,8 @@
    20553
   ],
   "jp": "{voice:002619}ジェノン！　どうしたの②",
-  "en": "",
-  "status": ""
+  "en": "Jenon! What's wrong!!",
+  "status": "done"
  },
  {
   "id": "event_2204_01BC8",
@@ -1988,8 +1988,8 @@
    20571
   ],
   "jp": "{voice:002719}そ、そろそろ、お別れみたいだ。",
-  "en": "",
-  "status": ""
+  "en": "L-Looks like it's almost time to say goodbye.",
+  "status": "done"
  },
  {
   "id": "event_2204_01BEB",
@@ -2000,8 +2000,8 @@
    20578
   ],
   "jp": "{voice:002819}シスキア、グラムブレイズが{n}変える新しい世界で、{n}僕の分も、精一杯生きてくれ。",
-  "en": "",
-  "status": ""
+  "en": "Siskier, in the new world Gram Blaze is making, live as hard as you can, for my share too.",
+  "status": "done"
  },
  {
   "id": "event_2204_01C3C",
@@ -2012,8 +2012,8 @@
    20585
   ],
   "jp": "{voice:002919}君がいて、ガーロットや皆がいる{n}この世界を、生きてくれ。",
-  "en": "",
-  "status": ""
+  "en": "In this world where you are, and Garlot, and everyone. Please live.",
+  "status": "done"
  },
  {
   "id": "event_2204_01C78",
@@ -2024,8 +2024,8 @@
    20603
   ],
   "jp": "{voice:002A19}でも、そこには…{n}ジェノンはいないんだよ。",
-  "en": "",
-  "status": ""
+  "en": "But Jenon won't be there...",
+  "status": "done"
  },
  {
   "id": "event_2204_01CA6",
@@ -2036,8 +2036,8 @@
    20621
   ],
   "jp": "{voice:002B19}……僕は、思いのままに戦って、{n}この世界に足跡を残せた。",
-  "en": "",
-  "status": ""
+  "en": "...I fought as I pleased, and left my footprints on this world.",
+  "status": "done"
  },
  {
   "id": "event_2204_01CE2",
@@ -2048,8 +2048,8 @@
    20628
   ],
   "jp": "{voice:002C19}そして、それを覚えていてくれる{n}友達もできた。",
-  "en": "",
-  "status": ""
+  "en": "And I made friends who'll remember that.",
+  "status": "done"
  },
  {
   "id": "event_2204_01D14",
@@ -2060,8 +2060,8 @@
    20635
   ],
   "jp": "{voice:002D19}これは、感謝すべき事だよ。",
-  "en": "",
-  "status": ""
+  "en": "That's something to be thankful for.",
+  "status": "done"
  },
  {
   "id": "event_2204_01D33",
@@ -2072,8 +2072,8 @@
    20642
   ],
   "jp": "{voice:002E19}ガーロットに、そしてシスキアに{n}出会えたからさ。{n}感謝してる。",
-  "en": "",
-  "status": ""
+  "en": "Because I met Garlot, and Siskier. I'm thankful.",
+  "status": "done"
  },
  {
   "id": "event_2204_01D74",
@@ -2084,8 +2084,8 @@
    20660
   ],
   "jp": "{voice:002F19}ジェノン…",
-  "en": "",
-  "status": ""
+  "en": "Jenon...",
+  "status": "done"
  },
  {
   "id": "event_2204_01D83",
@@ -2096,8 +2096,8 @@
    20678
   ],
   "jp": "{voice:003019}よかった、本当によかった。{n}心からそう思っている……",
-  "en": "",
-  "status": ""
+  "en": "I'm glad, really glad. I mean that from the bottom of my heart...",
+  "status": "done"
  },
  {
   "id": "event_2204_01DBB",
@@ -2108,8 +2108,8 @@
    20931
   ],
   "jp": "{voice:003119}ジェノン？",
-  "en": "",
-  "status": ""
+  "en": "Jenon?",
+  "status": "done"
  },
  {
   "id": "event_2204_01DCA",
@@ -2132,8 +2132,8 @@
    21144
   ],
   "jp": "{voice:003319}ジェノンさんが消えていく……",
-  "en": "",
-  "status": ""
+  "en": "Jenon-san is fading away...",
+  "status": "done"
  },
  {
   "id": "event_2204_01DFC",
@@ -2144,8 +2144,8 @@
    21209
   ],
   "jp": "{voice:003419}さようなら、ジェノン……{n}あの軽口が、聞けなくなるのが{n}寂しいよ。",
-  "en": "",
-  "status": ""
+  "en": "Goodbye, Jenon... I'll miss hearing those jokes of yours.",
+  "status": "done"
  },
  {
   "id": "event_2204_01E41",
@@ -2156,8 +2156,8 @@
    21230
   ],
   "jp": "{voice:003519}さようなら、ジェノンさん。{n}安らかに眠ってください。",
-  "en": "",
-  "status": ""
+  "en": "Goodbye, Jenon-san. Please rest in peace.",
+  "status": "done"
  },
  {
   "id": "event_2204_01E79",
@@ -2168,8 +2168,8 @@
    21251
   ],
   "jp": "{voice:003619}さようなら、ジェノン。{n}俺の、最高の友。",
-  "en": "",
-  "status": ""
+  "en": "Goodbye, Jenon. My greatest friend.",
+  "status": "done"
  },
  {
   "id": "event_2204_01EA5",
@@ -2180,8 +2180,8 @@
    21307
   ],
   "jp": "{voice:003719}さよなら、ジェノン。{n}あなたの貢献は誰も忘れないわ。",
-  "en": "",
-  "status": ""
+  "en": "Goodbye, Jenon. Nobody will forget what you did.",
+  "status": "done"
  },
  {
   "id": "event_2204_01EDD",
@@ -2192,8 +2192,8 @@
    21370
   ],
   "jp": "{voice:003819}パメラ様、優男の兄ちゃんの事、{n}きっと忘れないんだわさ。{n}転生したらまた会おうね！",
-  "en": "",
-  "status": ""
+  "en": "Pamela-sama won't forget you, pretty boy, that's for sure. See you when you're reborn!",
+  "status": "done"
  },
  {
   "id": "event_2204_01F32",
@@ -2204,8 +2204,8 @@
    21433
   ],
   "jp": "{voice:003919}バイバイ、ジェノン。{n}お前のあの皮靴、形見に貰うな。",
-  "en": "",
-  "status": ""
+  "en": "Bye-bye, Jenon. I'm takin' those leather shoes of yours as a keepsake.",
+  "status": "done"
  },
  {
   "id": "event_2204_01F6A",
@@ -2216,8 +2216,8 @@
    21496
   ],
   "jp": "{voice:003A19}ヒック、また、星が一つ、{n}増えちゃったわよね、ヒック。",
-  "en": "",
-  "status": ""
+  "en": "*Hic*, another star up there now, ain't there, *hic*.",
+  "status": "done"
  },
  {
   "id": "event_2204_01FA4",
@@ -2228,8 +2228,8 @@
    21559
   ],
   "jp": "{voice:003B19}さらばだ、ジェノン。{n}バイフー、野菜喰うぞ。{n}それはサラダだ、なーんつって。",
-  "en": "",
-  "status": ""
+  "en": "So long, Jenon. Byff will eat noodles. They are so long. Ha, just kidding.",
+  "status": "done"
  },
  {
   "id": "event_2204_01FF3",
@@ -2240,8 +2240,8 @@
    21622
   ],
   "jp": "{voice:003C19}別れは言わない。{n}心の中に、生きているから。",
-  "en": "",
-  "status": ""
+  "en": "I will not say farewell. You live on in my heart.",
+  "status": "done"
  },
  {
   "id": "event_2204_02023",
@@ -2252,8 +2252,8 @@
    21685
   ],
   "jp": "{voice:003D19}バカ野郎、死んじまったら{n}なんにもならねぇだろ……",
-  "en": "",
-  "status": ""
+  "en": "You idiot, it's no good if you're dead...",
+  "status": "done"
  },
  {
   "id": "event_2204_02059",
@@ -2264,8 +2264,8 @@
    21762
   ],
   "jp": "{voice:003E19}あの軽ささえなければ、{n}そこそこの殿方だったのですがね。{n}さようならです、ジェノン。",
-  "en": "",
-  "status": ""
+  "en": "If not for that flippancy, he would have been a decent enough gentleman. Goodbye, Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2204_020B0",
@@ -2276,8 +2276,8 @@
    21819
   ],
   "jp": "{voice:003F19}ジェノーン！{n}オレは、オレは猛烈に悲しいぜ②",
-  "en": "",
-  "status": ""
+  "en": "Jenooon! I'm, I'm so damn sad!!",
+  "status": "done"
  },
  {
   "id": "event_2204_020E0",
@@ -2288,8 +2288,8 @@
    21863
   ],
   "jp": "{voice:004019}……さようなら、ジェノン。",
-  "en": "",
-  "status": ""
+  "en": "...Goodbye, Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2204_020FF",
@@ -2300,8 +2300,8 @@
    21911
   ],
   "jp": "{voice:004119}シスキア。{n}ジェノンは、最後になんて？",
-  "en": "",
-  "status": ""
+  "en": "Siskier. What did Jenon say at the end?",
+  "status": "done"
  },
  {
   "id": "event_2204_02129",
@@ -2312,8 +2312,8 @@
    21932
   ],
   "jp": "{voice:004219}よかった、って。",
-  "en": "",
-  "status": ""
+  "en": "He said he was glad.",
+  "status": "done"
  },
  {
   "id": "event_2204_0213E",
@@ -2324,8 +2324,8 @@
    21953
   ],
   "jp": "{voice:004319}そうか、よかった、か。",
-  "en": "",
-  "status": ""
+  "en": "I see. Glad, huh.",
+  "status": "done"
  },
  {
   "id": "event_2204_02159",
@@ -2336,8 +2336,8 @@
    21960
   ],
   "jp": "{voice:004419}だったら、言う事はないな。{n}最高だった。そういう事さ。",
-  "en": "",
-  "status": ""
+  "en": "Then there's nothing more to say. He was the best. That's all there is to it.",
+  "status": "done"
  },
  {
   "id": "event_2204_02193",
@@ -2348,8 +2348,8 @@
    21981
   ],
   "jp": "{voice:004519}…うん、そうだね。",
-  "en": "",
-  "status": ""
+  "en": "...Yeah, you're right.",
+  "status": "done"
  },
  {
   "id": "event_2204_021AA",
@@ -2360,8 +2360,8 @@
    22002
   ],
   "jp": "{voice:004619}俺も死ぬ時には、そう言いたい。",
-  "en": "",
-  "status": ""
+  "en": "I want to say that too, when I die.",
+  "status": "done"
  },
  {
   "id": "event_2204_021CD",
@@ -2372,8 +2372,8 @@
    21013
   ],
   "jp": "よかった……",
-  "en": "",
-  "status": ""
+  "en": "I'm glad...",
+  "status": "done"
  },
  {
   "id": "event_2204_021DA",
@@ -2384,8 +2384,8 @@
    15420
   ],
   "jp": "そなたらがグラムブレイズか…{n}噂は聞いておるぞ。",
-  "en": "",
-  "status": ""
+  "en": "So you're Gram Blaze... I have heard the rumors.",
+  "status": "done"
  },
  {
   "id": "event_2204_0220A",
@@ -2396,8 +2396,8 @@
    15427
   ],
   "jp": "少し前まで、一義賊に{n}過ぎなかった部隊が、{n}いまや飛ぶ鳥落とす勢い…",
-  "en": "",
-  "status": ""
+  "en": "A short while ago you were but a band of thieves of justice, and now nothing can stop you...",
+  "status": "done"
  },
  {
   "id": "event_2204_0224D",
@@ -2408,8 +2408,8 @@
    15445
   ],
   "jp": "それに比べてそれがしは、{n}平々凡々と武器を打つ毎日…",
-  "en": "",
-  "status": ""
+  "en": "I, by comparison, spend each ordinary day forging weapons...",
+  "status": "done"
  },
  {
   "id": "event_2204_02281",
@@ -2420,8 +2420,8 @@
    15452
   ],
   "jp": "…一人前の武器職人になるには、{n}より大きな仕事をこなして{n}飛躍せねばならぬのではないか？",
-  "en": "",
-  "status": ""
+  "en": "...To become a true weaponsmith, must I not take on greater work and leap ahead?",
+  "status": "done"
  },
  {
   "id": "event_2204_022D8",
@@ -2432,8 +2432,8 @@
    15470
   ],
   "jp": "おぬしらを見ていると、{n}そう思えてならぬのだ…",
-  "en": "",
-  "status": ""
+  "en": "Seeing you people, I cannot help but think so...",
+  "status": "done"
  },
  {
   "id": "event_2204_02306",
@@ -2444,8 +2444,8 @@
    15488
   ],
   "jp": "ムムッ③　おぬしらが持つのは、{n}伝説の金属『オリハルコン』{n}ではないか③",
-  "en": "",
-  "status": ""
+  "en": "Mmm!? What you carry, is it not the legendary metal \"Orichalcum\"!?",
+  "status": "done"
  },
  {
   "id": "event_2204_0234D",
@@ -2456,8 +2456,8 @@
    15495
   ],
   "jp": "ああっ、やはりそうだ！{n}頼む！　その『オリハルコン』を{n}それがしに託してくれ！",
-  "en": "",
-  "status": ""
+  "en": "Ah, it is indeed! I beg you! Entrust that \"Orichalcum\" to me!",
+  "status": "done"
  },
  {
   "id": "event_2204_0239A",
@@ -2468,8 +2468,8 @@
    15564
   ],
   "jp": "…ありがたいッ！{n}必ず、業物に仕上げてみせる！",
-  "en": "",
-  "status": ""
+  "en": "...I am grateful! I will make it into a fine blade, without fail!",
+  "status": "done"
  },
  {
   "id": "event_2204_023C8",
@@ -2480,8 +2480,8 @@
    15607
   ],
   "jp": "……できた。できたぞ②{n}それがし、やったのだ！",
-  "en": "",
-  "status": ""
+  "en": "...It is done. It is done!! I have done it!",
+  "status": "done"
  },
  {
   "id": "event_2204_023F6",
@@ -2492,8 +2492,8 @@
    15692
   ],
   "jp": "ありがたい…{n}それがしもこれで、{n}己に自信を得る事ができた！",
-  "en": "",
-  "status": ""
+  "en": "I am grateful... With this, I have found faith in myself!",
+  "status": "done"
  },
  {
   "id": "event_2204_02431",
@@ -2504,8 +2504,8 @@
    15716
   ],
   "jp": "伝説の金属『オリハルコン』を{n}この手で打てる日が来るとは…",
-  "en": "",
-  "status": ""
+  "en": "That the day would come when I could forge the legendary metal \"Orichalcum\" with these hands...",
+  "status": "done"
  },
  {
   "id": "event_2204_0246B",
@@ -2516,8 +2516,8 @@
    15734
   ],
   "jp": "感謝する。{n}それがしに機会を与えてくれた、{n}そなたらに感謝する…",
-  "en": "",
-  "status": ""
+  "en": "I thank you. I thank you, who have given me this chance...",
+  "status": "done"
  },
  {
   "id": "event_2204_024AA",
@@ -2528,8 +2528,8 @@
    15758
   ],
   "jp": "そなたらがグラムブレイズか…{n}噂は聞いておるぞ。",
-  "en": "",
-  "status": ""
+  "en": "So you're Gram Blaze... I have heard the rumors.",
+  "status": "done"
  },
  {
   "id": "event_2204_024DA",
@@ -2540,8 +2540,8 @@
    15765
   ],
   "jp": "少し前まで、一義賊に{n}過ぎなかった部隊が、{n}いまや飛ぶ鳥落とす勢い…",
-  "en": "",
-  "status": ""
+  "en": "A short while ago you were but a band of thieves of justice, and now nothing can stop you...",
+  "status": "done"
  },
  {
   "id": "event_2204_0251D",
@@ -2552,8 +2552,8 @@
    15783
   ],
   "jp": "それに比べてそれがしは、{n}平々凡々と武器を打つ毎日…",
-  "en": "",
-  "status": ""
+  "en": "I, by comparison, spend each ordinary day forging weapons...",
+  "status": "done"
  },
  {
   "id": "event_2204_02551",
@@ -2564,8 +2564,8 @@
    15790
   ],
   "jp": "…一人前の武器職人になるには、{n}より大きな仕事をこなして{n}飛躍せねばならぬのではないか？",
-  "en": "",
-  "status": ""
+  "en": "...To become a true weaponsmith, must I not take on greater work and leap ahead?",
+  "status": "done"
  },
  {
   "id": "event_2204_025A8",
@@ -2576,8 +2576,8 @@
    15808
   ],
   "jp": "おぬしらを見ていると、{n}そう思えてならぬのだ…",
-  "en": "",
-  "status": ""
+  "en": "Seeing you people, I cannot help but think so...",
+  "status": "done"
  },
  {
   "id": "event_2204_025D6",
@@ -2625,7 +2625,7 @@
    10035
   ],
   "jp": "ジェノン隊",
-  "en": "",
-  "status": ""
+  "en": "Jenon Unit",
+  "status": "done"
  }
 ]

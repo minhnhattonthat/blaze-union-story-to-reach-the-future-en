@@ -8,8 +8,8 @@
    8727
   ],
   "jp": "{voice:004D19}陛下！{n}聖剣グラン・センチュリオが{n}台座に掲げられました！",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty! The Holy Sword, Gran Centurio, has been raised upon the pedestal!",
+  "status": "done"
  },
  {
   "id": "event_2205_00065",
@@ -20,8 +20,8 @@
    8745
   ],
   "jp": "{voice:004E19}儀式を始めよう……",
-  "en": "",
-  "status": ""
+  "en": "Let us begin the ritual...",
+  "status": "done"
  },
  {
   "id": "event_2205_0007C",
@@ -32,8 +32,8 @@
    8763
   ],
   "jp": "{voice:004F19}しかし、複雑な心地です…{n}聖剣は我々王国の象徴です。{n}それを封印にかけるとなると…",
-  "en": "",
-  "status": ""
+  "en": "But it feels complicated, sire... The Holy Sword is the very symbol of our Kingdom. To seal it away...",
+  "status": "done"
  },
  {
   "id": "event_2205_000D1",
@@ -44,8 +44,8 @@
    8781
   ],
   "jp": "{voice:005019}国は剣でできているのか？{n}否だ、人だ、人によって国は成る。",
-  "en": "",
-  "status": ""
+  "en": "Is a nation made of swords? No, of people. People make a nation.",
+  "status": "done"
  },
  {
   "id": "event_2205_0010F",
@@ -56,8 +56,8 @@
    8788
   ],
   "jp": "{voice:005119}帝国は魔竜の血から{n}決別しようとしている。",
-  "en": "",
-  "status": ""
+  "en": "The Empire seeks to break with the demon dragon's blood.",
+  "status": "done"
  },
  {
   "id": "event_2205_0013D",
@@ -68,8 +68,8 @@
    8806
   ],
   "jp": "{voice:005219}我々もグラン・センチュリオと{n}決別しようではないか！",
-  "en": "",
-  "status": ""
+  "en": "Let us too break with the Gran Centurio!",
+  "status": "done"
  },
  {
   "id": "event_2205_00175",
@@ -80,8 +80,8 @@
    8824
   ],
   "jp": "{voice:005319}ハッ②",
-  "en": "",
-  "status": ""
+  "en": "Yes, sire!!",
+  "status": "done"
  },
  {
   "id": "event_2205_00180",
@@ -92,8 +92,8 @@
    8974
   ],
   "jp": "{voice:005419}…いよいよこの日が来たね。",
-  "en": "",
-  "status": ""
+  "en": "...So this day has finally come.",
+  "status": "done"
  },
  {
   "id": "event_2205_0019F",
@@ -104,8 +104,8 @@
    8992
   ],
   "jp": "{voice:005519}ああ、そうだな。{n}しかし、大切なものも失った。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, it has. But we lost something important along the way.",
+  "status": "done"
  },
  {
   "id": "event_2205_001D1",
@@ -116,8 +116,8 @@
    9010
   ],
   "jp": "{voice:005619}ねぇ、ガーロット。{n}あたしの秘密、聞いてくれるか？",
-  "en": "",
-  "status": ""
+  "en": "Hey, Garlot. Will you hear a secret of mine?",
+  "status": "done"
  },
  {
   "id": "event_2205_00207",
@@ -128,8 +128,8 @@
    9028
   ],
   "jp": "{voice:005719}なんだ、秘密って……",
-  "en": "",
-  "status": ""
+  "en": "What's that, a secret...",
+  "status": "done"
  },
  {
   "id": "event_2205_00220",
@@ -140,8 +140,8 @@
    9046
   ],
   "jp": "{voice:005819}あたしはね、魔竜殺しの勇者{n}ギルの末裔なの。{n}分家の血筋だけどな。",
-  "en": "",
-  "status": ""
+  "en": "I'm a descendant of Gil, the hero who slew the demon dragon. From a branch family, though.",
+  "status": "done"
  },
  {
   "id": "event_2205_00265",
@@ -152,8 +152,8 @@
    9064
   ],
   "jp": "{voice:005919}勇者ギル…{n}俺も名前を聞いた事があるぞ。{n}魔竜ブロンガを倒した英雄だな。",
-  "en": "",
-  "status": ""
+  "en": "The hero Gil... I've heard that name too. The hero who beat the demon dragon Brongaa.",
+  "status": "done"
  },
  {
   "id": "event_2205_002B0",
@@ -164,8 +164,8 @@
    9082
   ],
   "jp": "{voice:005A19}だけどあたしは、{n}その血にどんな意味があるのか、{n}疑問を抱き続けていた。",
-  "en": "",
-  "status": ""
+  "en": "But I kept wondering what that blood really meant.",
+  "status": "done"
  },
  {
   "id": "event_2205_002FB",
@@ -176,8 +176,8 @@
    9100
   ],
   "jp": "{voice:005B19}だから旅に出たの。{n}血の意味を知りたかったのか…{n}血を否定したかったのか…",
-  "en": "",
-  "status": ""
+  "en": "So I set out on a journey. To know what the blood means... or to deny it...",
+  "status": "done"
  },
  {
   "id": "event_2205_00348",
@@ -188,8 +188,8 @@
    9125
   ],
   "jp": "{voice:005C19}…答えは、出たのか？",
-  "en": "",
-  "status": ""
+  "en": "...Did you find your answer?",
+  "status": "done"
  },
  {
   "id": "event_2205_00361",
@@ -200,8 +200,8 @@
    9107
   ],
   "jp": "{voice:005D19}いろんな人と出会い、{n}そして戦った。",
-  "en": "",
-  "status": ""
+  "en": "I met all kinds of people, and fought.",
+  "status": "done"
  },
  {
   "id": "event_2205_00389",
@@ -212,8 +212,8 @@
    9143
   ],
   "jp": "{voice:005E19}うん、答えは出た。{n}血ってね、言い訳の一つなの。",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I found my answer. Blood is just another excuse.",
+  "status": "done"
  },
  {
   "id": "event_2205_003BD",
@@ -224,8 +224,8 @@
    9161
   ],
   "jp": "{voice:005F19}言い訳？",
-  "en": "",
-  "status": ""
+  "en": "An excuse?",
+  "status": "done"
  },
  {
   "id": "event_2205_003CA",
@@ -236,8 +236,8 @@
    9179
   ],
   "jp": "{voice:006019}戦う事、戦わない事って{n}最終的には自分で決められるだろ？",
-  "en": "",
-  "status": ""
+  "en": "Whether to fight or not, in the end you get to decide that yourself, right?",
+  "status": "done"
  },
  {
   "id": "event_2205_00406",
@@ -248,8 +248,8 @@
    9197
   ],
   "jp": "{voice:006119}どうしても戦いたくなければ、{n}逃げ出せばいいからな。",
-  "en": "",
-  "status": ""
+  "en": "If you really don't want to fight, you can just run away.",
+  "status": "done"
  },
  {
   "id": "event_2205_0043E",
@@ -260,8 +260,8 @@
    9215
   ],
   "jp": "{voice:006219}だが人は無謀にも戦う。{n}自分の行為を正当化してまでな。",
-  "en": "",
-  "status": ""
+  "en": "But people fight anyway, recklessly. Even justifying what they do.",
+  "status": "done"
  },
  {
   "id": "event_2205_00478",
@@ -272,8 +272,8 @@
    9233
   ],
   "jp": "{voice:006319}血や思想、宗教、{n}それらが正当化の為の理由。",
-  "en": "",
-  "status": ""
+  "en": "Blood, ideology, religion. Those are the reasons for justifying it.",
+  "status": "done"
  },
  {
   "id": "event_2205_004A8",
@@ -284,8 +284,8 @@
    9240
   ],
   "jp": "{voice:006419}一種のレッテルだ。{n}そうしなければ怖くて戦えない。",
-  "en": "",
-  "status": ""
+  "en": "A kind of label. Without them, people would be too scared to fight.",
+  "status": "done"
  },
  {
   "id": "event_2205_004DE",
@@ -296,8 +296,8 @@
    9258
   ],
   "jp": "{voice:006519}いや、もしかしたら、{n}戦わせる為にそれらが発明されて{n}いったのかもしれないけどね。",
-  "en": "",
-  "status": ""
+  "en": "No, or maybe those things were invented to make people fight.",
+  "status": "done"
  },
  {
   "id": "event_2205_00533",
@@ -308,8 +308,8 @@
    9276
   ],
   "jp": "{voice:006619}戦いはいけない、そう言う事か？",
-  "en": "",
-  "status": ""
+  "en": "So fighting's wrong, is that it?",
+  "status": "done"
  },
  {
   "id": "event_2205_00556",
@@ -320,8 +320,8 @@
    9294
   ],
   "jp": "{voice:006719}違うよ、血は戦いの理由として{n}バカらしいって事だ。",
-  "en": "",
-  "status": ""
+  "en": "No. I'm saying blood is a stupid reason to fight.",
+  "status": "done"
  },
  {
   "id": "event_2205_0058C",
@@ -332,8 +332,8 @@
    9435
   ],
   "jp": "{voice:006819}私は、ジェノンのために{n}戦おうと思う。",
-  "en": "",
-  "status": ""
+  "en": "I think I'll fight for Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2205_005B6",
@@ -344,8 +344,8 @@
    9453
   ],
   "jp": "{voice:006919}もちろん、ジェノンの死を{n}戦いの理由にするつもりはない。",
-  "en": "",
-  "status": ""
+  "en": "Of course, I don't mean to make Jenon's death a reason to fight.",
+  "status": "done"
  },
  {
   "id": "event_2205_005F2",
@@ -356,8 +356,8 @@
    9474
   ],
   "jp": "{voice:006A19}でも、ジェノンが{n}夢見た世界のために、{n}戦おうって、決めたんだ。",
-  "en": "",
-  "status": ""
+  "en": "But I've decided to fight for the world Jenon dreamed of.",
+  "status": "done"
  },
  {
   "id": "event_2205_00635",
@@ -368,8 +368,8 @@
    9492
   ],
   "jp": "{voice:006B19}戦った後に何を成すのか。{n}それを思い描けなければ{n}戦ってはいけない。",
-  "en": "",
-  "status": ""
+  "en": "What will you do once the fighting's over? If you can't picture that, you shouldn't fight.",
+  "status": "done"
  },
  {
   "id": "event_2205_0067C",
@@ -380,8 +380,8 @@
    9510
   ],
   "jp": "{voice:006C19}戦う理由は、{n}他人に与えられるものじゃない{n}って事だよな。",
-  "en": "",
-  "status": ""
+  "en": "So your reason to fight isn't something other people give you, right?",
+  "status": "done"
  },
  {
   "id": "event_2205_006B9",
@@ -392,8 +392,8 @@
    9528
   ],
   "jp": "{voice:006D19}そう、それが言いたかった……",
-  "en": "",
-  "status": ""
+  "en": "Right, that's what I wanted to say...",
+  "status": "done"
  },
  {
   "id": "event_2205_006DA",
@@ -404,8 +404,8 @@
    9579
   ],
   "jp": "{voice:006E19}ガーロット。{n}そろそろ儀式が始まるぞ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot. The ritual is about to begin.",
+  "status": "done"
  },
  {
   "id": "event_2205_00704",
@@ -416,8 +416,8 @@
    10835
   ],
   "jp": "{voice:006F19}ガーロット、とうとう来たぜ！{n}ネシアの屍兵軍だ②",
-  "en": "",
-  "status": ""
+  "en": "Garlot, here they come at last! Nessiah's army of corpse soldiers!!",
+  "status": "done"
  },
  {
   "id": "event_2205_00738",
@@ -428,8 +428,8 @@
    10856
   ],
   "jp": "{voice:007019}とんでもない数です。{n}帝国と王国の警備兵を足しても、{n}とても足りません！",
-  "en": "",
-  "status": ""
+  "en": "Such staggering numbers. Even the Imperial and Royal guards combined are nowhere near enough!",
+  "status": "done"
  },
  {
   "id": "event_2205_00783",
@@ -440,8 +440,8 @@
    10874
   ],
   "jp": "{voice:007119}ガーロット！{n}我々は祭壇を死守するぞ。",
-  "en": "",
-  "status": ""
+  "en": "Garlot! We'll hold the altar to the death.",
+  "status": "done"
  },
  {
   "id": "event_2205_007AD",
@@ -452,8 +452,8 @@
    10892
   ],
   "jp": "{voice:007219}任せろ、ヴェルマン方伯！{n}ネシアに聖剣は渡さねぇぜ②",
-  "en": "",
-  "status": ""
+  "en": "Leave it to me, Margrave Velleman! Nessiah won't get the Holy Sword!!",
+  "status": "done"
  },
  {
   "id": "event_2205_007E5",
@@ -464,8 +464,8 @@
    11097
   ],
   "jp": "{voice:007319}惰弱な人間達が束になっても、{n}神界に生まれた私に{n}かなうはずがありません……",
-  "en": "",
-  "status": ""
+  "en": "Puny humans, even banded together, are no match for me, born in Heaven...",
+  "status": "done"
  },
  {
   "id": "event_2205_00834",
@@ -476,8 +476,8 @@
    11115
   ],
   "jp": "{voice:007419}復讐の踏み台でしかない人間は、{n}私の掌の上で、ただ無様に{n}踊っていれば良いのです！",
-  "en": "",
-  "status": ""
+  "en": "Humans are but stepping-stones to my revenge. Just dance foolishly on my palm!",
+  "status": "done"
  },
  {
   "id": "event_2205_00889",
@@ -488,8 +488,8 @@
    11133
   ],
   "jp": "{voice:007519}俺達は人形じゃない。{n}ジェノンは死んでも、意志の力で{n}お前の術を破った。",
-  "en": "",
-  "status": ""
+  "en": "We're not dolls. Jenon was dead, and he still broke your spell with the power of his will.",
+  "status": "done"
  },
  {
   "id": "event_2205_008D4",
@@ -500,8 +500,8 @@
    11140
   ],
   "jp": "{voice:007619}まだわからないのか、ネシア②",
-  "en": "",
-  "status": ""
+  "en": "You still don't get it, Nessiah!!",
+  "status": "done"
  },
  {
   "id": "event_2205_008F5",
@@ -512,8 +512,8 @@
    11158
   ],
   "jp": "{voice:007719}あれはただの偶然！{n}そう、何かの間違いです②",
-  "en": "",
-  "status": ""
+  "en": "That was mere chance! Yes, some kind of mistake!!",
+  "status": "done"
  },
  {
   "id": "event_2205_00925",
@@ -524,8 +524,8 @@
    11176
   ],
   "jp": "{voice:007819}天使と人間との格の違いを{n}思い知るがいい！",
-  "en": "",
-  "status": ""
+  "en": "Learn the difference in rank between angel and human!",
+  "status": "done"
  },
  {
   "id": "event_2205_00953",
@@ -536,8 +536,8 @@
    15018
   ],
   "jp": "{voice:007919}くっ…、人間風情が……",
-  "en": "",
-  "status": ""
+  "en": "Ngh... Mere humans...",
+  "status": "done"
  },
  {
   "id": "event_2205_0096E",
@@ -548,8 +548,8 @@
    15036
   ],
   "jp": "{voice:007A19}私を打倒しようなど…{n}おこがましいにも程があります！",
-  "en": "",
-  "status": ""
+  "en": "You think to bring me down... Such impudence knows no bounds!",
+  "status": "done"
  },
  {
   "id": "event_2205_009A6",
@@ -560,8 +560,8 @@
    20970
   ],
   "jp": "{voice:007B19}ネシアの軍勢が復活していく……{n}また聖剣の力を使ったのか！",
-  "en": "",
-  "status": ""
+  "en": "Nessiah's forces are coming back to life... He used the Holy Sword's power again!",
+  "status": "done"
  },
  {
   "id": "event_2205_009E4",
@@ -572,8 +572,8 @@
    20988
   ],
   "jp": "{voice:007C19}フフフ…、{n}聖剣がその刀身に蓄えるのは、{n}人間の争いが生む征服の心です！",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... What the Holy Sword stores in its blade is the spirit of conquest born from human conflict!",
+  "status": "done"
  },
  {
   "id": "event_2205_00A2F",
@@ -584,8 +584,8 @@
    20995
   ],
   "jp": "{voice:007D19}わかりますか？{n}あなた方が止めようとする戦乱が、{n}私の糧となるのです！",
-  "en": "",
-  "status": ""
+  "en": "Do you see? The wars you try to stop are what feed me!",
+  "status": "done"
  },
  {
   "id": "event_2205_00A78",
@@ -596,8 +596,8 @@
    21002
   ],
   "jp": "{voice:007E19}人間が欲望を棄てれば、{n}私を討てるかも知れません…{n}だが人間は、それは為せません。",
-  "en": "",
-  "status": ""
+  "en": "If humans cast off desire, you might defeat me... But humans cannot do that.",
+  "status": "done"
  },
  {
   "id": "event_2205_00ACD",
@@ -608,8 +608,8 @@
    21020
   ],
   "jp": "{voice:007F19}自分達の種としての愚かさを{n}呪いなさい！",
-  "en": "",
-  "status": ""
+  "en": "Curse the folly of your own kind!",
+  "status": "done"
  },
  {
   "id": "event_2205_00AF9",
@@ -620,8 +620,8 @@
    21027
   ],
   "jp": "{voice:008019}そして底のない後悔の沼を{n}延々と沈めばいいのですよ②",
-  "en": "",
-  "status": ""
+  "en": "And sink endlessly into a bottomless swamp of regret!!",
+  "status": "done"
  },
  {
   "id": "event_2205_00B31",
@@ -632,8 +632,8 @@
    21045
   ],
   "jp": "{voice:008119}聖剣を破壊しよう！{n}そうすれば、ネシアは戦う力を{n}永久に失うはずだ。",
-  "en": "",
-  "status": ""
+  "en": "Let's destroy the Holy Sword! Then Nessiah will lose his power to fight, forever.",
+  "status": "done"
  },
  {
   "id": "event_2205_00B78",
@@ -644,8 +644,8 @@
    11472
   ],
   "jp": "聖剣を封じようなどと、{n}くだらぬ事を考えたものです。",
-  "en": "",
-  "status": ""
+  "en": "Sealing the Holy Sword, what a foolish thought.",
+  "status": "done"
  },
  {
   "id": "event_2205_00BAC",
@@ -656,8 +656,8 @@
    11490
   ],
   "jp": "ネシア、焦りが見えるぞ。{n}聖剣がなければ蘇生できない、{n}その読みは当たったな！",
-  "en": "",
-  "status": ""
+  "en": "Nessiah, you're looking rattled. So you can't come back without the Holy Sword. We read that right!",
+  "status": "done"
  },
  {
   "id": "event_2205_00BF9",
@@ -668,8 +668,8 @@
    11508
   ],
   "jp": "さて、どうでしょうか……",
-  "en": "",
-  "status": ""
+  "en": "Well now, I wonder...",
+  "status": "done"
  },
  {
   "id": "event_2205_00C12",
@@ -680,8 +680,8 @@
    11713
   ],
   "jp": "ジェノン見ていて……{n}この世界は、私達が守るから！",
-  "en": "",
-  "status": ""
+  "en": "Watch over us, Jenon... We're going to protect this world!",
+  "status": "done"
  },
  {
   "id": "event_2205_00C44",
@@ -692,8 +692,8 @@
    11731
   ],
   "jp": "小賢しいセリフを……{n}この世界など、私に都合のいい{n}舞台でしかありません！",
-  "en": "",
-  "status": ""
+  "en": "How clever you sound... This world is merely a stage for my convenience!",
+  "status": "done"
  },
  {
   "id": "event_2205_00C8D",
@@ -704,8 +704,8 @@
    11929
   ],
   "jp": "あたしは今まで、戦う事に{n}後ろめたさを感じていた……",
-  "en": "",
-  "status": ""
+  "en": "Until now, I've felt guilty about fighting...",
+  "status": "done"
  },
  {
   "id": "event_2205_00CC1",
@@ -716,8 +716,8 @@
    11936
   ],
   "jp": "勇者の末裔だから。{n}その血のせいか、人並み外れた{n}武勇を持っていたから。",
-  "en": "",
-  "status": ""
+  "en": "Because I'm the hero's descendant. Because that blood gave me more martial skill than anyone else.",
+  "status": "done"
  },
  {
   "id": "event_2205_00D08",
@@ -728,8 +728,8 @@
    11954
   ],
   "jp": "だけど今は違う！{n}お前に抗うためなら、{n}この力、容赦なく使える②",
-  "en": "",
-  "status": ""
+  "en": "But not now! To stand against you, I can use this power without holding back!!",
+  "status": "done"
  },
  {
   "id": "event_2205_00D47",
@@ -740,8 +740,8 @@
    12159
   ],
   "jp": "ジェノンさんのために！{n}そして新しい世界のために②",
-  "en": "",
-  "status": ""
+  "en": "For Jenon-san! And for a new world!!",
+  "status": "done"
  },
  {
   "id": "event_2205_00D79",
@@ -752,8 +752,8 @@
    12177
   ],
   "jp": "復讐なんかではなく、{n}もっと清々しい未来のために！{n}私は剣を握ります②",
-  "en": "",
-  "status": ""
+  "en": "Not for revenge, but for a brighter future! I take up my sword!!",
+  "status": "done"
  },
  {
   "id": "event_2205_00DBE",
@@ -764,8 +764,8 @@
    12195
   ],
   "jp": "黙れ！　この死にぞこないが！",
-  "en": "",
-  "status": ""
+  "en": "Silence! You half-dead wretch!",
+  "status": "done"
  },
  {
   "id": "event_2205_00DDB",
@@ -776,8 +776,8 @@
    12400
   ],
   "jp": "聖剣の封印、{n}そんなコトして、ふぅ、いいん？{n}なーんつって、厳しいな……",
-  "en": "",
-  "status": ""
+  "en": "Seal the Holy Sword? Byff hopes it is a sealed deal. Ha, just kidding... That was rough...",
+  "status": "done"
  },
  {
   "id": "event_2205_00E22",
@@ -788,8 +788,8 @@
    12418
   ],
   "jp": "最後まであなたという存在が{n}分かりませんでしたよ……",
-  "en": "",
-  "status": ""
+  "en": "To the very end, I never did understand what you are...",
+  "status": "done"
  },
  {
   "id": "event_2205_00E56",
@@ -800,8 +800,8 @@
    12623
   ],
   "jp": "ネシアって、結局何がしたいのか、{n}よく分からないわ。",
-  "en": "",
-  "status": ""
+  "en": "I never did figure out what Nessiah actually wants to do.",
+  "status": "done"
  },
  {
   "id": "event_2205_00E8A",
@@ -812,8 +812,8 @@
    12641
   ],
   "jp": "フフフ、{n}凡人にはそうかもしれませんね。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe, that may be so, for a commoner.",
+  "status": "done"
  },
  {
   "id": "event_2205_00EB2",
@@ -824,8 +824,8 @@
    12659
   ],
   "jp": "ふーん、そう言うんだ。",
-  "en": "",
-  "status": ""
+  "en": "Hmm, so that's how you're putting it.",
+  "status": "done"
  },
  {
   "id": "event_2205_00EC9",
@@ -836,8 +836,8 @@
    12864
   ],
   "jp": "決着をつけようぜ、ネシア！{n}お前のつまらない遊びは、{n}今日ここで終わらせてやるよ②",
-  "en": "",
-  "status": ""
+  "en": "Let's settle this, Nessiah! Your stupid game ends here today!!",
+  "status": "done"
  },
  {
   "id": "event_2205_00F1A",
@@ -848,8 +848,8 @@
    12882
   ],
   "jp": "本気でそう思えるとは、{n}やはり人間は低脳ですね……",
-  "en": "",
-  "status": ""
+  "en": "To truly think so, humans really are simple-minded...",
+  "status": "done"
  },
  {
   "id": "event_2205_00F4C",
@@ -860,8 +860,8 @@
    13080
   ],
   "jp": "ヒック…{n}行くわよ、ネシア……{n}今日は酒は控えめだ、ヒック…",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... Here I come, Nessiah... Goin' easy on the booze today, *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2205_00F87",
@@ -872,8 +872,8 @@
    13098
   ],
   "jp": "足元、{n}いつもよりふらついていますよ。",
-  "en": "",
-  "status": ""
+  "en": "You are even less steady on your feet than usual.",
+  "status": "done"
  },
  {
   "id": "event_2205_00FAD",
@@ -884,8 +884,8 @@
    13296
   ],
   "jp": "なるほどね～☆{n}あんたがラスボスって感じ？{n}そう言うコト？",
-  "en": "",
-  "status": ""
+  "en": "I get it~☆ So you're the final boss? Is that the deal?",
+  "status": "done"
  },
  {
   "id": "event_2205_00FE6",
@@ -896,8 +896,8 @@
    13314
   ],
   "jp": "あなたを殺した後、{n}屍兵にするのが楽しみですよ……",
-  "en": "",
-  "status": ""
+  "en": "I look forward to making you a corpse soldier after I've killed you...",
+  "status": "done"
  },
  {
   "id": "event_2205_01018",
@@ -908,8 +908,8 @@
    13550
   ],
   "jp": "貴方を放っておくと、{n}人間界を破滅させそうで、{n}どうにも気持ちが悪いですわ。",
-  "en": "",
-  "status": ""
+  "en": "If you are left alone, I fear you will ruin the human world, and that troubles me so.",
+  "status": "done"
  },
  {
   "id": "event_2205_01063",
@@ -920,8 +920,8 @@
    13635
   ],
   "jp": "おい、ネシア。{n}男なんだろ、熱く戦えよ！{n}俺とよ②",
-  "en": "",
-  "status": ""
+  "en": "Hey, Nessiah. You're a man, ain't ya? Fight hot! With me!!",
+  "status": "done"
  },
  {
   "id": "event_2205_01094",
@@ -932,8 +932,8 @@
    13839
   ],
   "jp": "ここで、終わらせてみせる……",
-  "en": "",
-  "status": ""
+  "en": "I will end this here...",
+  "status": "done"
  },
  {
   "id": "event_2205_010B1",
@@ -944,8 +944,8 @@
    13857
   ],
   "jp": "終わるのは、あなたがたです。",
-  "en": "",
-  "status": ""
+  "en": "You are the ones who will end.",
+  "status": "done"
  },
  {
   "id": "event_2205_010CE",
@@ -956,8 +956,8 @@
    13864
   ],
   "jp": "私の瞼に映るのですよ。{n}血と泥にまみれ大地に横たわる{n}グラムブレイズの団旗がね。",
-  "en": "",
-  "status": ""
+  "en": "It appears before my eyes. The banner of Gram Blaze, lying on the ground, covered in blood and mud.",
+  "status": "done"
  },
  {
   "id": "event_2205_0111D",
@@ -968,8 +968,8 @@
    13882
   ],
   "jp": "未来は決まってなどいない。{n}未来は私達で作る！",
-  "en": "",
-  "status": ""
+  "en": "The future is not decided. We make the future!",
+  "status": "done"
  },
  {
   "id": "event_2205_0114B",
@@ -980,8 +980,8 @@
    13900
   ],
   "jp": "ジェノンの件で、{n}お前はそれを学ばなかったのか？",
-  "en": "",
-  "status": ""
+  "en": "Did you not learn that, from what happened with Jenon?",
+  "status": "done"
  },
  {
   "id": "event_2205_0117B",
@@ -1004,8 +1004,8 @@
    14123
   ],
   "jp": "殺されに現われるとはな、{n}バカな奴だぜ。",
-  "en": "",
-  "status": ""
+  "en": "Showing up to get killed. What an idiot.",
+  "status": "done"
  },
  {
   "id": "event_2205_011B0",
@@ -1016,8 +1016,8 @@
    14141
   ],
   "jp": "フフフ……{n}人間はいつだってそうです。{n}存在の矮小さに気がつかない……",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... Humans are always this way. Unaware of how insignificant they are...",
+  "status": "done"
  },
  {
   "id": "event_2205_011F5",
@@ -1028,8 +1028,8 @@
    14339
   ],
   "jp": "流れが変わっているのを、{n}貴方も感じているでしょう。{n}終わりの時が来たのです。",
-  "en": "",
-  "status": ""
+  "en": "You too must feel that the tide has turned. The time of ending has come.",
+  "status": "done"
  },
  {
   "id": "event_2205_01242",

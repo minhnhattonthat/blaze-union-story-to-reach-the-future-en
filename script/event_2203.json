@@ -8,8 +8,8 @@
    12757
   ],
   "jp": "{voice:009217}ようこそ、オルディーン王。{n}多忙の中わざわざのご足労、{n}恐悦至極であるな。",
-  "en": "",
-  "status": ""
+  "en": "Welcome, King Ordene. I am most gratified that you came, busy as you are.",
+  "status": "done"
  },
  {
   "id": "event_2203_00075",
@@ -20,8 +20,8 @@
    12775
   ],
   "jp": "{voice:009317}待たれよ。ただの出迎えにしては{n}不要なほど大層な軍勢だが？{n}ソルティエ帝よ。",
-  "en": "",
-  "status": ""
+  "en": "Hold. For a mere welcome, this is a needlessly grand force, is it not? Emperor Soltier.",
+  "status": "done"
  },
  {
   "id": "event_2203_000C4",
@@ -32,8 +32,8 @@
    12793
   ],
   "jp": "{voice:009417}これこそ、我らの礼を尽くした{n}出迎えの流儀だ、{n}オルディーン王よ。",
-  "en": "",
-  "status": ""
+  "en": "This is our way of welcoming you with all due courtesy, King Ordene.",
+  "status": "done"
  },
  {
   "id": "event_2203_00109",
@@ -44,8 +44,8 @@
    12800
   ],
   "jp": "{voice:009517}我らの歓迎を受けて貰おう……{n}始めろ。",
-  "en": "",
-  "status": ""
+  "en": "Accept our welcome... Begin.",
+  "status": "done"
  },
  {
   "id": "event_2203_00133",
@@ -56,8 +56,8 @@
    12844
   ],
   "jp": "{voice:009617}は、ははッ！",
-  "en": "",
-  "status": ""
+  "en": "Y-Yes, sir!",
+  "status": "done"
  },
  {
   "id": "event_2203_00144",
@@ -68,8 +68,8 @@
    13041
   ],
   "jp": "{voice:009717}…どうするつもりだ？",
-  "en": "",
-  "status": ""
+  "en": "...What do you intend?",
+  "status": "done"
  },
  {
   "id": "event_2203_0015D",
@@ -80,8 +80,8 @@
    13062
   ],
   "jp": "{voice:009817}見ての通り、国王ご一行を{n}始末しようというのだ。",
-  "en": "",
-  "status": ""
+  "en": "As you see, I intend to dispose of the King and his party.",
+  "status": "done"
  },
  {
   "id": "event_2203_00191",
@@ -92,8 +92,8 @@
    13069
   ],
   "jp": "{voice:009917}本当はカノッサ街道にて、{n}討つ手筈だったのだが、{n}しくじったようだ。",
-  "en": "",
-  "status": ""
+  "en": "The plan was to strike you down on the Canossa Road, but it seems they botched it.",
+  "status": "done"
  },
  {
   "id": "event_2203_001D8",
@@ -104,8 +104,8 @@
    13076
   ],
   "jp": "{voice:009A17}おおかたヴェルマンどもが{n}動いたのだろうがな。",
-  "en": "",
-  "status": ""
+  "en": "Velleman and his lot must have made a move, I expect.",
+  "status": "done"
  },
  {
   "id": "event_2203_0020A",
@@ -116,8 +116,8 @@
    13094
   ],
   "jp": "{voice:009B17}…ヴェルマン、あの方伯だな。{n}つまり、彼の話は真実であったか。",
-  "en": "",
-  "status": ""
+  "en": "...Velleman, that Margrave. So what he told me was true.",
+  "status": "done"
  },
  {
   "id": "event_2203_0024C",
@@ -128,8 +128,8 @@
    13101
   ],
   "jp": "{voice:009C17}戦争になるぞ……",
-  "en": "",
-  "status": ""
+  "en": "This will mean war...",
+  "status": "done"
  },
  {
   "id": "event_2203_00261",
@@ -140,8 +140,8 @@
    13119
   ],
   "jp": "{voice:009D17}ああ、それが目的だ。",
-  "en": "",
-  "status": ""
+  "en": "Yes. That's the point.",
+  "status": "done"
  },
  {
   "id": "event_2203_0027A",
@@ -152,8 +152,8 @@
    13137
   ],
   "jp": "{voice:009E17}帝国の政事の腐敗については{n}私も色々と聞き及んではいた。",
-  "en": "",
-  "status": ""
+  "en": "I have heard much about the rot in the Empire's government.",
+  "status": "done"
  },
  {
   "id": "event_2203_002B6",
@@ -164,8 +164,8 @@
    13144
   ],
   "jp": "{voice:009F17}だからこそ、手を差し伸べる為{n}ここに来たのだ。",
-  "en": "",
-  "status": ""
+  "en": "That is exactly why I came here, to offer a hand.",
+  "status": "done"
  },
  {
   "id": "event_2203_002E8",
@@ -176,8 +176,8 @@
    13162
   ],
   "jp": "{voice:00A017}戦争を行い、国内を昂揚させ、{n}民を纏め上げるつもりか？",
-  "en": "",
-  "status": ""
+  "en": "Do you mean to wage war, rouse the nation, and bind the people together?",
+  "status": "done"
  },
  {
   "id": "event_2203_00322",
@@ -188,8 +188,8 @@
    13180
   ],
   "jp": "{voice:00A117}ここでお前を討てても{n}逃がしても、どちらにしても{n}王国とは極度の緊張状態になる。",
-  "en": "",
-  "status": ""
+  "en": "Kill you here or let you escape, either way, things with the Kingdom get extremely tense.",
+  "status": "done"
  },
  {
   "id": "event_2203_00375",
@@ -200,8 +200,8 @@
    13198
   ],
   "jp": "{voice:00A217}いや、違う。{n}俺はその剣が欲しいのだ。{n}聖剣グラン・センチュリオが……",
-  "en": "",
-  "status": ""
+  "en": "No, that's not it. I want that sword. The Holy Sword, Gran Centurio...",
+  "status": "done"
  },
  {
   "id": "event_2203_003BE",
@@ -212,8 +212,8 @@
    13219
   ],
   "jp": "{voice:00A317}…剣だと？　一国の長たる者が、{n}たかだか剣欲しさのために{n}戦争を起こすと言うのか③",
-  "en": "",
-  "status": ""
+  "en": "...A sword? The ruler of a nation would start a war just because he wants a sword!?",
+  "status": "done"
  },
  {
   "id": "event_2203_00413",
@@ -224,8 +224,8 @@
    13237
   ],
   "jp": "{voice:00A417}そうだ…、{n}それがどうしたというのだ？",
-  "en": "",
-  "status": ""
+  "en": "That's right... What of it?",
+  "status": "done"
  },
  {
   "id": "event_2203_0043D",
@@ -236,8 +236,8 @@
    13255
   ],
   "jp": "{voice:00A517}この者は乱心しておる……{n}これ以上の話し合いは無駄か。",
-  "en": "",
-  "status": ""
+  "en": "This man has lost his mind... Talking further is useless.",
+  "status": "done"
  },
  {
   "id": "event_2203_00477",
@@ -248,8 +248,8 @@
    13273
   ],
   "jp": "{voice:00A617}だとすれば、残された道は{n}退くことのみ。しかし、果たして{n}この場から逃げ切れるか…③",
-  "en": "",
-  "status": ""
+  "en": "If so, the only road left is to withdraw. But can I really escape from here...!?",
+  "status": "done"
  },
  {
   "id": "event_2203_004CE",
@@ -260,8 +260,8 @@
    13294
   ],
   "jp": "{voice:00A717}かかれ。",
-  "en": "",
-  "status": ""
+  "en": "Attack.",
+  "status": "done"
  },
  {
   "id": "event_2203_004DB",
@@ -272,8 +272,8 @@
    13596
   ],
   "jp": "{voice:00A817}オルディーン陛下！{n}こちらです！　お急ぎください②",
-  "en": "",
-  "status": ""
+  "en": "King Ordene! This way! Please hurry!!",
+  "status": "done"
  },
  {
   "id": "event_2203_00511",
@@ -284,8 +284,8 @@
    13617
   ],
   "jp": "{voice:00A917}君達は、何者だ……",
-  "en": "",
-  "status": ""
+  "en": "Who are you...",
+  "status": "done"
  },
  {
   "id": "event_2203_00528",
@@ -296,8 +296,8 @@
    13635
   ],
   "jp": "{voice:00AA17}グラムブレイズの者よ。{n}今あなたに死なれたら困るの！",
-  "en": "",
-  "status": ""
+  "en": "We're with Gram Blaze. We can't have you dying right now!",
+  "status": "done"
  },
  {
   "id": "event_2203_00560",
@@ -308,8 +308,8 @@
    13642
   ],
   "jp": "{voice:00AB17}戦争なんて、{n}みんなを不幸にするだけだもの。{n}絶対に止めてみせるわ！",
-  "en": "",
-  "status": ""
+  "en": "War only makes everyone miserable. We're going to stop it, no matter what!",
+  "status": "done"
  },
  {
   "id": "event_2203_005A7",
@@ -320,8 +320,8 @@
    13663
   ],
   "jp": "{voice:00AC17}だから、私達は陛下を助ける。",
-  "en": "",
-  "status": ""
+  "en": "So we're going to save you, Your Majesty.",
+  "status": "done"
  },
  {
   "id": "event_2203_005C8",
@@ -344,8 +344,8 @@
    13820
   ],
   "jp": "{voice:00AD17}グラムブレイズ、{n}やはり来ておったかッ！",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze, so you did come!",
+  "status": "done"
  },
  {
   "id": "event_2203_005FF",
@@ -356,8 +356,8 @@
    13841
   ],
   "jp": "{voice:00AE17}ただ、この要塞内に入り込むとは、{n}俺の想像を超えているな。",
-  "en": "",
-  "status": ""
+  "en": "Getting inside this fortress, though, is more than I imagined.",
+  "status": "done"
  },
  {
   "id": "event_2203_0063D",
@@ -368,8 +368,8 @@
    13862
   ],
   "jp": "{voice:00AF17}まあいいだろう、{n}ここから出さねば良いだけの話だ。",
-  "en": "",
-  "status": ""
+  "en": "Very well. I need only make sure you don't get out.",
+  "status": "done"
  },
  {
   "id": "event_2203_00673",
@@ -380,8 +380,8 @@
    13883
   ],
   "jp": "{voice:00B017}イシュナート要塞の門という門を{n}全て閉鎖しろ！{n}決して逃がすなッ②",
-  "en": "",
-  "status": ""
+  "en": "Close every last gate of Ishnart Fortress! Let no one escape!!",
+  "status": "done"
  },
  {
   "id": "event_2203_006B8",
@@ -392,8 +392,8 @@
    14213
   ],
   "jp": "{voice:00B117}ジェノン、城外のガーロットに{n}伝令を出したわ！",
-  "en": "",
-  "status": ""
+  "en": "Jenon, I sent a messenger to Garlot outside the walls!",
+  "status": "done"
  },
  {
   "id": "event_2203_006EA",
@@ -404,8 +404,8 @@
    14231
   ],
   "jp": "{voice:00B217}正直、包囲網を突破できるか、{n}わからないけど……",
-  "en": "",
-  "status": ""
+  "en": "Honestly, I don't know if they can break the encirclement, but...",
+  "status": "done"
  },
  {
   "id": "event_2203_0071E",
@@ -416,8 +416,8 @@
    14249
   ],
   "jp": "{voice:00B317}僕達は国王陛下を確保して、{n}正門に向かって離脱を試みよう！",
-  "en": "",
-  "status": ""
+  "en": "We'll secure His Majesty the King and try to break away toward the main gate!",
+  "status": "done"
  },
  {
   "id": "event_2203_0075C",
@@ -428,8 +428,8 @@
    14270
   ],
   "jp": "{voice:00B417}陛下、こっち！{n}東にまっすぐ進めば正門よ。",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty, this way! Straight east is the main gate.",
+  "status": "done"
  },
  {
   "id": "event_2203_0078A",
@@ -440,8 +440,8 @@
    14397
   ],
   "jp": "{voice:00B517}もう少し口に注意してよ。{n}相手は国王陛下だよ……",
-  "en": "",
-  "status": ""
+  "en": "Watch your mouth a little. You're talking to His Majesty the King...",
+  "status": "done"
  },
  {
   "id": "event_2203_007BE",
@@ -452,8 +452,8 @@
    14415
   ],
   "jp": "{voice:00B617}そんな事、言ってる場合③",
-  "en": "",
-  "status": ""
+  "en": "Is this the time for that!?",
+  "status": "done"
  },
  {
   "id": "event_2203_007DB",
@@ -464,8 +464,8 @@
    14433
   ],
   "jp": "{voice:00B717}分かったよ……{n}じゃあ国王陛下の先導は頼んだよ。",
-  "en": "",
-  "status": ""
+  "en": "All right... I'll leave guiding His Majesty the King to you.",
+  "status": "done"
  },
  {
   "id": "event_2203_0080F",
@@ -476,8 +476,8 @@
    14451
   ],
   "jp": "{voice:00B817}うん、分かった。{n}でもジェノンはどうするつもり？",
-  "en": "",
-  "status": ""
+  "en": "Yeah, got it. But what are you going to do, Jenon?",
+  "status": "done"
  },
  {
   "id": "event_2203_00843",
@@ -488,8 +488,8 @@
    14469
   ],
   "jp": "{voice:00B917}いいから早く。",
-  "en": "",
-  "status": ""
+  "en": "Never mind, just hurry.",
+  "status": "done"
  },
  {
   "id": "event_2203_00856",
@@ -500,8 +500,8 @@
    14487
   ],
   "jp": "{voice:00BA17}…相変わらずさ、何か企んでると{n}話してくれないんだから。{n}少しは信頼しなさいっての。",
-  "en": "",
-  "status": ""
+  "en": "...Same as ever, when you're up to something, you never tell me. Trust me a little, would you.",
+  "status": "done"
  },
  {
   "id": "event_2203_008AD",
@@ -512,8 +512,8 @@
    14563
   ],
   "jp": "{voice:00BB17}…君たちは、要塞の外にいた{n}ヴェルマン方伯の配下の者か？",
-  "en": "",
-  "status": ""
+  "en": "...Are you with Margrave Velleman, who was outside the fortress?",
+  "status": "done"
  },
  {
   "id": "event_2203_008E9",
@@ -524,8 +524,8 @@
    14581
   ],
   "jp": "{voice:00BC17}そう、私はシスキア。{n}で、こっちのキザッたらしい彼が{n}ジェノン。",
-  "en": "",
-  "status": ""
+  "en": "Right, I'm Siskier. And this snooty guy here is Jenon.",
+  "status": "done"
  },
  {
   "id": "event_2203_0092C",
@@ -536,8 +536,8 @@
    14599
   ],
   "jp": "{voice:00BD17}余計な事は言わなくていいんだよ。",
-  "en": "",
-  "status": ""
+  "en": "You don't have to say the unnecessary part.",
+  "status": "done"
  },
  {
   "id": "event_2203_00951",
@@ -548,8 +548,8 @@
    14617
   ],
   "jp": "{voice:00BE17}城外にて、ヴェルマンの進言を{n}受けていればと後悔している。{n}君達には感謝する。",
-  "en": "",
-  "status": ""
+  "en": "I regret that I did not heed Velleman's advice outside the walls. You have my gratitude.",
+  "status": "done"
  },
  {
   "id": "event_2203_009A2",
@@ -560,8 +560,8 @@
    14638
   ],
   "jp": "{voice:00BF17}それに陛下、お礼は助かった後に、{n}絹のスカーフを10枚ほどお願い！{n}肌触りの良いヤツね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, and Your Majesty, once we're safe, I'll take about ten silk scarves as thanks! The nice soft kind.",
+  "status": "done"
  },
  {
   "id": "event_2203_009FB",
@@ -572,8 +572,8 @@
    14656
   ],
   "jp": "{voice:00C017}確かに無礼な女だな。",
-  "en": "",
-  "status": ""
+  "en": "You are a rude woman, indeed.",
+  "status": "done"
  },
  {
   "id": "event_2203_00A14",
@@ -584,8 +584,8 @@
    14674
   ],
   "jp": "{voice:00C117}すみません、陛下。{n}どうもこういう風にしか、{n}喋れなくって。",
-  "en": "",
-  "status": ""
+  "en": "Sorry, Your Majesty. This is just the only way I know how to talk.",
+  "status": "done"
  },
  {
   "id": "event_2203_00A53",
@@ -596,8 +596,8 @@
    14681
   ],
   "jp": "{voice:00C217}あの、お願いがあります。{n}戦争は起きてほしくない。{n}生きてここを出られたら……",
-  "en": "",
-  "status": ""
+  "en": "Um, I have a request. I don't want a war to happen. If we get out of here alive...",
+  "status": "done"
  },
  {
   "id": "event_2203_00AA4",
@@ -608,8 +608,8 @@
    14688
   ],
   "jp": "{voice:00C317}私達に免じて、ブロンキアへの{n}報復はしないで欲しいんです。",
-  "en": "",
-  "status": ""
+  "en": "For our sake, please don't take revenge on Bronquia.",
+  "status": "done"
  },
  {
   "id": "event_2203_00AE2",
@@ -620,8 +620,8 @@
    14706
   ],
   "jp": "{voice:00C417}だが、{n}ソルティエ帝があの状態では{n}それは無理というもの。",
-  "en": "",
-  "status": ""
+  "en": "But with Emperor Soltier in that state, that cannot be done.",
+  "status": "done"
  },
  {
   "id": "event_2203_00B1F",
@@ -632,8 +632,8 @@
    14727
   ],
   "jp": "{voice:00C517}皇帝は今、とある魔術師に{n}操られてこうなっているんです。{n}僕達が、それを断ち切ります！",
-  "en": "",
-  "status": ""
+  "en": "The Emperor's under the control of a certain mage right now. We'll cut him free!",
+  "status": "done"
  },
  {
   "id": "event_2203_00B78",
@@ -644,8 +644,8 @@
    14745
   ],
   "jp": "{voice:00C617}だから、お願い、国王陛下。",
-  "en": "",
-  "status": ""
+  "en": "So please, Your Majesty the King.",
+  "status": "done"
  },
  {
   "id": "event_2203_00B97",
@@ -656,8 +656,8 @@
    14763
   ],
   "jp": "{voice:00C717}……分かった。",
-  "en": "",
-  "status": ""
+  "en": "...Very well.",
+  "status": "done"
  },
  {
   "id": "event_2203_00BAA",
@@ -668,8 +668,8 @@
    14781
   ],
   "jp": "{voice:00C817}その話が、事実であるならば{n}報復は行わないと、約束しよう。",
-  "en": "",
-  "status": ""
+  "en": "If what you say is true, I promise I will not take revenge.",
+  "status": "done"
  },
  {
   "id": "event_2203_00BE8",
@@ -680,8 +680,8 @@
    14799
   ],
   "jp": "{voice:00C917}ありがとうございます、陛下。",
-  "en": "",
-  "status": ""
+  "en": "Thank you, Your Majesty.",
+  "status": "done"
  },
  {
   "id": "event_2203_00C09",
@@ -692,8 +692,8 @@
    14817
   ],
   "jp": "{voice:00CA17}…そろそろ、来る頃だね。",
-  "en": "",
-  "status": ""
+  "en": "...They should be coming about now.",
+  "status": "done"
  },
  {
   "id": "event_2203_00C26",
@@ -704,8 +704,8 @@
    15210
   ],
   "jp": "{voice:00CB17}ちょっとジェノン！{n}追手に囲まれているわよ！{n}早くあなたもこっちへ…②",
-  "en": "",
-  "status": ""
+  "en": "Hey, Jenon! The pursuers have you surrounded! Hurry and get over here...!!",
+  "status": "done"
  },
  {
   "id": "event_2203_00C6F",
@@ -716,8 +716,8 @@
    15231
   ],
   "jp": "{voice:00CC17}…いや、これでいいんだ。",
-  "en": "",
-  "status": ""
+  "en": "...No, this is fine.",
+  "status": "done"
  },
  {
   "id": "event_2203_00C8C",
@@ -728,8 +728,8 @@
    15252
   ],
   "jp": "{voice:00CD17}え…？",
-  "en": "",
-  "status": ""
+  "en": "Huh...?",
+  "status": "done"
  },
  {
   "id": "event_2203_00C97",
@@ -740,8 +740,8 @@
    15273
   ],
   "jp": "{voice:00CE17}うぉぉぉぉぉぉっ②",
-  "en": "",
-  "status": ""
+  "en": "Raaaaaaaaah!!",
+  "status": "done"
  },
  {
   "id": "event_2203_00CAE",
@@ -752,8 +752,8 @@
    15442
   ],
   "jp": "{voice:00CF17}な、なに…？{n}通路を落としただと③",
-  "en": "",
-  "status": ""
+  "en": "Wh-What...? He brought down the passage!?",
+  "status": "done"
  },
  {
   "id": "event_2203_00CD4",
@@ -764,8 +764,8 @@
    15522
   ],
   "jp": "{voice:00D017}何してんのよジェノン！{n}その通路を崩したら、あなた…",
-  "en": "",
-  "status": ""
+  "en": "What are you doing, Jenon! If you collapse that passage, you'll...",
+  "status": "done"
  },
  {
   "id": "event_2203_00D0C",
@@ -776,8 +776,8 @@
    15543
   ],
   "jp": "{voice:00D117}シスキア、{n}こうすれば確実に時間は稼げる。",
-  "en": "",
-  "status": ""
+  "en": "Siskier, this way I can definitely buy some time.",
+  "status": "done"
  },
  {
   "id": "event_2203_00D3A",
@@ -788,8 +788,8 @@
    15561
   ],
   "jp": "{voice:00D217}だからって、そんな……{n}勝手だよ！",
-  "en": "",
-  "status": ""
+  "en": "Even so, you can't just... You're so selfish!",
+  "status": "done"
  },
  {
   "id": "event_2203_00D60",
@@ -800,8 +800,8 @@
    15582
   ],
   "jp": "{voice:00D317}さあ早く行って！{n}国王陛下を連れ出したら、{n}みんなと共に戻って来てくれ。",
-  "en": "",
-  "status": ""
+  "en": "Now hurry, go! Once you've got His Majesty out, come back with everyone.",
+  "status": "done"
  },
  {
   "id": "event_2203_00DAB",
@@ -812,8 +812,8 @@
    15603
   ],
   "jp": "{voice:00D417}大丈夫、{n}それまでは、耐えてみせるよ。",
-  "en": "",
-  "status": ""
+  "en": "It's okay. I'll hold out until then.",
+  "status": "done"
  },
  {
   "id": "event_2203_00DD5",
@@ -824,8 +824,8 @@
    15621
   ],
   "jp": "{voice:00D517}ジェノン、わかった。{n}必ず、戻ってくるからね！",
-  "en": "",
-  "status": ""
+  "en": "Jenon, all right. I'm coming back, I promise!",
+  "status": "done"
  },
  {
   "id": "event_2203_00E07",
@@ -848,8 +848,8 @@
    15660
   ],
   "jp": "{voice:00D717}え、なに……",
-  "en": "",
-  "status": ""
+  "en": "Huh, what...",
+  "status": "done"
  },
  {
   "id": "event_2203_00E27",
@@ -860,8 +860,8 @@
    15681
   ],
   "jp": "{voice:00D817}いや、いいんだ。{n}戻ったら、話すよ……",
-  "en": "",
-  "status": ""
+  "en": "No, never mind. I'll tell you when you're back...",
+  "status": "done"
  },
  {
   "id": "event_2203_00E51",
@@ -872,8 +872,8 @@
    15702
   ],
   "jp": "{voice:00D917}なによ、もったいつけちゃって。{n}バーカ！",
-  "en": "",
-  "status": ""
+  "en": "What, making such a big deal out of it. Dummy!",
+  "status": "done"
  },
  {
   "id": "event_2203_00E7D",
@@ -884,8 +884,8 @@
    15774
   ],
   "jp": "{voice:00DA17}…さてと、諸君。{n}イケメンでスタイルも細み。{n}大して戦えないと思ってるだろ？",
-  "en": "",
-  "status": ""
+  "en": "...Well now, gentlemen. Handsome, nice and slim. You must think I can't really fight, right?",
+  "status": "done"
  },
  {
   "id": "event_2203_00ECC",
@@ -896,8 +896,8 @@
    15784
   ],
   "jp": "{voice:00DB17}けどね、心配はご無用。{n}これでもグラムブレイズでは{n}ナンバー２の実力さ。",
-  "en": "",
-  "status": ""
+  "en": "But no need to worry. For all that, I'm number two in Gram Blaze.",
+  "status": "done"
  },
  {
   "id": "event_2203_00F17",
@@ -908,8 +908,8 @@
    15805
   ],
   "jp": "{voice:00DC17}さあ、掛かってきなよ。",
-  "en": "",
-  "status": ""
+  "en": "Come on, have at me.",
+  "status": "done"
  },
  {
   "id": "event_2203_00F32",
@@ -920,8 +920,8 @@
    15966
   ],
   "jp": "{voice:00DD17}バルドゥス閣下！{n}城の中からこのような者が{n}血相を変えて出てきましたが……",
-  "en": "",
-  "status": ""
+  "en": "General Baldus! This man came running out of the castle looking frantic...",
+  "status": "done"
  },
  {
   "id": "event_2203_00F7F",
@@ -932,8 +932,8 @@
    15984
   ],
   "jp": "{voice:00DE17}ん？",
-  "en": "",
-  "status": ""
+  "en": "Hm?",
+  "status": "done"
  },
  {
   "id": "event_2203_00F88",
@@ -944,8 +944,8 @@
    16006
   ],
   "jp": "{voice:00DF17}ガーロット様②{n}国王陛下がシスキア様と共に{n}脱出を試みています②",
-  "en": "",
-  "status": ""
+  "en": "Garlot-sama!! His Majesty the King is trying to escape with Siskier-sama!!",
+  "status": "done"
  },
  {
   "id": "event_2203_00FCB",
@@ -956,8 +956,8 @@
    16013
   ],
   "jp": "{voice:00E017}この正門へ向かっています！{n}ジェノン様も無事です②",
-  "en": "",
-  "status": ""
+  "en": "They're heading for this main gate! Jenon-sama is safe too!!",
+  "status": "done"
  },
  {
   "id": "event_2203_01001",
@@ -968,8 +968,8 @@
    16034
   ],
   "jp": "{voice:00E117}グラムブレイズの手の者か！{n}早く、黙らせるのだ②",
-  "en": "",
-  "status": ""
+  "en": "One of Gram Blaze's men! Quick, silence him!!",
+  "status": "done"
  },
  {
   "id": "event_2203_01035",
@@ -980,8 +980,8 @@
    16052
   ],
   "jp": "{voice:00E217}ムググ……",
-  "en": "",
-  "status": ""
+  "en": "Mmph...",
+  "status": "done"
  },
  {
   "id": "event_2203_01044",
@@ -992,8 +992,8 @@
    16113
   ],
   "jp": "{voice:00E317}正門は閉じている。{n}アイツ等を助ける方法は一つか…",
-  "en": "",
-  "status": ""
+  "en": "The main gate's shut. There's only one way to save them...",
+  "status": "done"
  },
  {
   "id": "event_2203_0107A",
@@ -1004,8 +1004,8 @@
    16134
   ],
   "jp": "{voice:00E417}よし、バルドゥスを抜く！",
-  "en": "",
-  "status": ""
+  "en": "All right, we break through Baldus!",
+  "status": "done"
  },
  {
   "id": "event_2203_01097",
@@ -1016,8 +1016,8 @@
    16141
   ],
   "jp": "{voice:00E517}ラピス、覚悟してくれ！",
-  "en": "",
-  "status": ""
+  "en": "Lapis, get ready!",
+  "status": "done"
  },
  {
   "id": "event_2203_010B2",
@@ -1028,8 +1028,8 @@
    16202
   ],
   "jp": "{voice:00E617}グラムブレイズ、{n}正門を突破しようという事か。{n}ならば、あい対すまで！",
-  "en": "",
-  "status": ""
+  "en": "So Gram Blaze means to break through the main gate. Then we shall meet you!",
+  "status": "done"
  },
  {
   "id": "event_2203_010FB",
@@ -1040,8 +1040,8 @@
    16223
   ],
   "jp": "{voice:00E717}このバルドゥス、{n}自身を賭けて、止めてみせよう②",
-  "en": "",
-  "status": ""
+  "en": "I, Baldus, will stop you, with my very self at stake!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0112F",
@@ -1052,8 +1052,8 @@
    16413
   ],
   "jp": "{voice:00E817}…追手がいるかもしれないわ。{n}ある程度は慎重に進みましょう。",
-  "en": "",
-  "status": ""
+  "en": "...There may be pursuers. Let's move with some caution.",
+  "status": "done"
  },
  {
   "id": "event_2203_0116F",
@@ -1076,8 +1076,8 @@
    24474
   ],
   "jp": "{voice:00E917}やはり手強い②{n}しかし、ここを通す訳には…！",
-  "en": "",
-  "status": ""
+  "en": "Formidable, as I thought!! But I cannot let you through...!",
+  "status": "done"
  },
  {
   "id": "event_2203_011AA",
@@ -1088,8 +1088,8 @@
    24492
   ],
   "jp": "{voice:00EA17}お願いだ、バルドゥス！{n}この門を開いてくれ！",
-  "en": "",
-  "status": ""
+  "en": "Please, Baldus! Open this gate!",
+  "status": "done"
  },
  {
   "id": "event_2203_011DA",
@@ -1100,8 +1100,8 @@
    24499
   ],
   "jp": "{voice:00EB17}頼む、ソルティエ皇帝が……{n}陛下が……",
-  "en": "",
-  "status": ""
+  "en": "I beg you, Emperor Soltier is... His Majesty is...",
+  "status": "done"
  },
  {
   "id": "event_2203_01204",
@@ -1112,8 +1112,8 @@
    24520
   ],
   "jp": "{voice:00EC17}ラピス殿……{n}一体、何が起こっているのです？",
-  "en": "",
-  "status": ""
+  "en": "Lapis-dono... What on earth is happening?",
+  "status": "done"
  },
  {
   "id": "event_2203_01234",
@@ -1124,8 +1124,8 @@
    24538
   ],
   "jp": "{voice:00ED17}それを確かめたいのだ！{n}だが、状況は確実に悪い方向へと{n}進んでいるのは確かなのだ。",
-  "en": "",
-  "status": ""
+  "en": "That's what I want to find out! But things are surely going from bad to worse.",
+  "status": "done"
  },
  {
   "id": "event_2203_01289",
@@ -1136,8 +1136,8 @@
    24545
   ],
   "jp": "{voice:00EE17}このままでは、{n}王国と戦争になるやもしれない。{n}だから、その前に……",
-  "en": "",
-  "status": ""
+  "en": "At this rate, there may be war with the Kingdom. So, before that...",
+  "status": "done"
  },
  {
   "id": "event_2203_012D0",
@@ -1160,8 +1160,8 @@
    24576
   ],
   "jp": "{voice:00EF17}…門を開けよ。",
-  "en": "",
-  "status": ""
+  "en": "...Open the gate.",
+  "status": "done"
  },
  {
   "id": "event_2203_012EE",
@@ -1172,8 +1172,8 @@
    24594
   ],
   "jp": "{voice:00F017}バルドゥス、お前は…",
-  "en": "",
-  "status": ""
+  "en": "Baldus, you...",
+  "status": "done"
  },
  {
   "id": "event_2203_01307",
@@ -1184,8 +1184,8 @@
    24612
   ],
   "jp": "{voice:00F117}…ラピス殿。{n}私は騎士として、軍人として{n}陛下に忠誠を誓っています。",
-  "en": "",
-  "status": ""
+  "en": "...Lapis-dono. As a knight and a soldier, I have sworn my loyalty to His Majesty.",
+  "status": "done"
  },
  {
   "id": "event_2203_0134E",
@@ -1196,8 +1196,8 @@
    24619
   ],
   "jp": "{voice:00F217}ですが忠義とは、{n}何もかも全て、主の言うがままに{n}動くものでもありますまい。",
-  "en": "",
-  "status": ""
+  "en": "But surely loyalty is not simply moving at your lord's every word.",
+  "status": "done"
  },
  {
   "id": "event_2203_0139D",
@@ -1208,8 +1208,8 @@
    24626
   ],
   "jp": "{voice:00F317}正しいと思う事は正しいと、{n}間違いならば間違いであると、{n}そう言える関係でありたい…",
-  "en": "",
-  "status": ""
+  "en": "I wish to be able to call right what I believe is right, and wrong what is wrong...",
+  "status": "done"
  },
  {
   "id": "event_2203_013F4",
@@ -1220,8 +1220,8 @@
    24633
   ],
   "jp": "{voice:00F417}ラピス殿にも、{n}その意思があると感じました。",
-  "en": "",
-  "status": ""
+  "en": "I felt you had that same will, Lapis-dono.",
+  "status": "done"
  },
  {
   "id": "event_2203_01424",
@@ -1232,8 +1232,8 @@
    24651
   ],
   "jp": "{voice:00F517}…すまない、恩に着るぞ。",
-  "en": "",
-  "status": ""
+  "en": "...I'm sorry. I am in your debt.",
+  "status": "done"
  },
  {
   "id": "event_2203_01441",
@@ -1244,8 +1244,8 @@
    24947
   ],
   "jp": "{voice:00F617}よし、門が開いたぞ！{n}国王陛下の救出に向かう！",
-  "en": "",
-  "status": ""
+  "en": "All right, the gate's open! We're going to rescue His Majesty the King!",
+  "status": "done"
  },
  {
   "id": "event_2203_01473",
@@ -1256,8 +1256,8 @@
    24965
   ],
   "jp": "{voice:00F717}シスキア、ジェノン、{n}無事でいてくれよ！",
-  "en": "",
-  "status": ""
+  "en": "Siskier, Jenon, be safe!",
+  "status": "done"
  },
  {
   "id": "event_2203_0149F",
@@ -1268,8 +1268,8 @@
    16558
   ],
   "jp": "{voice:00F817}…ハァ…ハァ…！",
-  "en": "",
-  "status": ""
+  "en": "...Hah... Hah...!",
+  "status": "done"
  },
  {
   "id": "event_2203_014B4",
@@ -1280,8 +1280,8 @@
    16579
   ],
   "jp": "{voice:00F917}ウソ？　門が開いてない…{n}絶体絶命って感じだよね。",
-  "en": "",
-  "status": ""
+  "en": "No way? The gate's not open... Looks like we're done for.",
+  "status": "done"
  },
  {
   "id": "event_2203_014EA",
@@ -1292,8 +1292,8 @@
    16610
   ],
   "jp": "{voice:00FA17}…うっ②",
-  "en": "",
-  "status": ""
+  "en": "...Ugh!!",
+  "status": "done"
  },
  {
   "id": "event_2203_014F7",
@@ -1304,8 +1304,8 @@
    16633
   ],
   "jp": "{voice:00FB17}オ、オルディーン王③",
-  "en": "",
-  "status": ""
+  "en": "K-King Ordene!?",
+  "status": "done"
  },
  {
   "id": "event_2203_01510",
@@ -1316,8 +1316,8 @@
    16654
   ],
   "jp": "{voice:00FC17}す、水路越しだ…{n}そなたも…狙われ、て、いる…",
-  "en": "",
-  "status": ""
+  "en": "F-From across the canal... They're aiming... at you too...",
+  "status": "done"
  },
  {
   "id": "event_2203_01542",
@@ -1328,8 +1328,8 @@
    16685
   ],
   "jp": "{voice:00FD17}あふっ…う、うぅぅぅ……",
-  "en": "",
-  "status": ""
+  "en": "Ahh... Ugh, uuugh...",
+  "status": "done"
  },
  {
   "id": "event_2203_0155F",
@@ -1340,8 +1340,8 @@
    16765
   ],
   "jp": "{voice:00FE17}シスキアーっ②",
-  "en": "",
-  "status": ""
+  "en": "Siskier!!",
+  "status": "done"
  },
  {
   "id": "event_2203_01572",
@@ -1352,8 +1352,8 @@
    26856
   ],
   "jp": "{voice:00FF17}国王陛下！{n}よかった無事か。",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty! Good, you're safe.",
+  "status": "done"
  },
  {
   "id": "event_2203_01592",
@@ -1364,8 +1364,8 @@
    26863
   ],
   "jp": "{voice:000018}シスキア、ケガはないか？",
-  "en": "",
-  "status": ""
+  "en": "Siskier, are you hurt?",
+  "status": "done"
  },
  {
   "id": "event_2203_015AF",
@@ -1376,8 +1376,8 @@
    26881
   ],
   "jp": "{voice:000118}私も、国王陛下も大丈夫……{n}でも…、ジェノンが……",
-  "en": "",
-  "status": ""
+  "en": "His Majesty and I are both fine... But... Jenon's...",
+  "status": "done"
  },
  {
   "id": "event_2203_015E5",
@@ -1388,8 +1388,8 @@
    26952
   ],
   "jp": "{voice:000218}ハァ…、ハァ……",
-  "en": "",
-  "status": ""
+  "en": "Hah... Hah...",
+  "status": "done"
  },
  {
   "id": "event_2203_015FA",
@@ -1400,8 +1400,8 @@
    26973
   ],
   "jp": "{voice:000318}よかった、シスキアも陛下も{n}逃げ切れたみたいだ。",
-  "en": "",
-  "status": ""
+  "en": "Good, it looks like Siskier and His Majesty got away.",
+  "status": "done"
  },
  {
   "id": "event_2203_0162E",
@@ -1412,8 +1412,8 @@
    26994
   ],
   "jp": "{voice:000418}あとは、ガーロット達が{n}助けに来てくれる。",
-  "en": "",
-  "status": ""
+  "en": "Now Garlot and the others will come to the rescue.",
+  "status": "done"
  },
  {
   "id": "event_2203_0165C",
@@ -1424,8 +1424,8 @@
    27015
   ],
   "jp": "{voice:000518}この男１人のために、{n}国王を取り逃がすとは……",
-  "en": "",
-  "status": ""
+  "en": "To think we let the King get away, because of this one man...",
+  "status": "done"
  },
  {
   "id": "event_2203_0168E",
@@ -1436,8 +1436,8 @@
    27036
   ],
   "jp": "{voice:000618}へ、へへ……、どう？{n}優男に見えて結構やるだろ？",
-  "en": "",
-  "status": ""
+  "en": "H-Heh heh... How's that? I look like a pretty boy, but I'm pretty good, right?",
+  "status": "done"
  },
  {
   "id": "event_2203_016C2",
@@ -1448,8 +1448,8 @@
    27070
   ],
   "jp": "{voice:000718}うぐっ②",
-  "en": "",
-  "status": ""
+  "en": "Ugh!!",
+  "status": "done"
  },
  {
   "id": "event_2203_016CF",
@@ -1460,8 +1460,8 @@
    27091
   ],
   "jp": "{voice:000818}…あれ、おっかしいな。{n}こういう作戦じゃなかったのに…",
-  "en": "",
-  "status": ""
+  "en": "...Huh, that's funny. This wasn't how the plan was supposed to go...",
+  "status": "done"
  },
  {
   "id": "event_2203_01709",
@@ -1472,8 +1472,8 @@
    27114
   ],
   "jp": "{voice:000918}死ねッ！",
-  "en": "",
-  "status": ""
+  "en": "Die!",
+  "status": "done"
  },
  {
   "id": "event_2203_01716",
@@ -1484,8 +1484,8 @@
    27149
   ],
   "jp": "{voice:000A18}うぐっ……",
-  "en": "",
-  "status": ""
+  "en": "Ugh...",
+  "status": "done"
  },
  {
   "id": "event_2203_01725",
@@ -1496,8 +1496,8 @@
    27159
   ],
   "jp": "{voice:000B18}シ、シスキア、生きてくれよ。{n}そして、覚えておいて欲しい…{n}こんな男が君のそばにいた事を…",
-  "en": "",
-  "status": ""
+  "en": "S-Siskier, please live. And I want you to remember... that a man like this was at your side...",
+  "status": "done"
  },
  {
   "id": "event_2203_01782",
@@ -1508,8 +1508,8 @@
    27180
   ],
   "jp": "{voice:000C18}ガーロット！　シスキアを守れよ！{n}彼女を不幸な目にあわせたら……{n}僕が、許さないからな②",
-  "en": "",
-  "status": ""
+  "en": "Garlot! Protect Siskier! If you ever make her miserable... I won't forgive you!!",
+  "status": "done"
  },
  {
   "id": "event_2203_017DD",
@@ -1520,8 +1520,8 @@
    27234
   ],
   "jp": "{voice:000D18}ジェノンの声が聞こえた……",
-  "en": "",
-  "status": ""
+  "en": "I heard Jenon's voice...",
+  "status": "done"
  },
  {
   "id": "event_2203_017FC",
@@ -1532,8 +1532,8 @@
    27277
   ],
   "jp": "{voice:000E18}まだ喋れるか！{n}この…、落ちろッ②",
-  "en": "",
-  "status": ""
+  "en": "He can still talk! You... Fall!!",
+  "status": "done"
  },
  {
   "id": "event_2203_01822",
@@ -1544,8 +1544,8 @@
    27298
   ],
   "jp": "{voice:000F18}うわぁぁぁぁぁぁ……",
-  "en": "",
-  "status": ""
+  "en": "Waaaaaaaaaah...",
+  "status": "done"
  },
  {
   "id": "event_2203_0183B",
@@ -1556,8 +1556,8 @@
    27471
   ],
   "jp": "{voice:001018}ジェ、ジェノン②",
-  "en": "",
-  "status": ""
+  "en": "J-Jenon!!",
+  "status": "done"
  },
  {
   "id": "event_2203_01850",
@@ -1568,8 +1568,8 @@
    27489
   ],
   "jp": "{voice:001118}あのバカ……{n}いちいちかっこつけやがって！",
-  "en": "",
-  "status": ""
+  "en": "That idiot... Always having to act so cool!",
+  "status": "done"
  },
  {
   "id": "event_2203_0187E",
@@ -1580,8 +1580,8 @@
    27532
   ],
   "jp": "{voice:001218}オルディーンを逃がすな！",
-  "en": "",
-  "status": ""
+  "en": "Don't let Ordene escape!",
+  "status": "done"
  },
  {
   "id": "event_2203_0189B",
@@ -1592,8 +1592,8 @@
    27576
   ],
   "jp": "{voice:001318}くそっ、しつこい奴らだ！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, these guys don't quit!",
+  "status": "done"
  },
  {
   "id": "event_2203_018B8",
@@ -1604,8 +1604,8 @@
    27594
   ],
   "jp": "{voice:001418}ヴェルマン！{n}国王を退避させてくれ②",
-  "en": "",
-  "status": ""
+  "en": "Velleman! Get the King out of here!!",
+  "status": "done"
  },
  {
   "id": "event_2203_018E0",
@@ -1616,8 +1616,8 @@
    27612
   ],
   "jp": "{voice:001518}お前はどうする？",
-  "en": "",
-  "status": ""
+  "en": "And you?",
+  "status": "done"
  },
  {
   "id": "event_2203_018F5",
@@ -1628,8 +1628,8 @@
    27630
   ],
   "jp": "{voice:001618}皇帝が、本当にネシアに{n}操られているのかどうか、{n}確かめなくちゃいけないだろ？",
-  "en": "",
-  "status": ""
+  "en": "We've got to find out whether the Emperor's really being controlled by Nessiah, right?",
+  "status": "done"
  },
  {
   "id": "event_2203_01946",
@@ -1640,8 +1640,8 @@
    27640
   ],
   "jp": "{voice:001718}それに……{n}ジェノンはまだ生きてるはずだ。{n}助けに行く！",
-  "en": "",
-  "status": ""
+  "en": "Besides... Jenon has to be alive. I'm going to save him!",
+  "status": "done"
  },
  {
   "id": "event_2203_01981",
@@ -1652,8 +1652,8 @@
    27661
   ],
   "jp": "{voice:001818}いいだろう、{n}国王は私に任せろ、ガーロット。",
-  "en": "",
-  "status": ""
+  "en": "Very well. Leave the King to me, Garlot.",
+  "status": "done"
  },
  {
   "id": "event_2203_019B1",
@@ -1664,8 +1664,8 @@
    27679
   ],
   "jp": "{voice:001918}頼んだぜ……",
-  "en": "",
-  "status": ""
+  "en": "I'm counting on you...",
+  "status": "done"
  },
  {
   "id": "event_2203_019C2",
@@ -1678,8 +1678,8 @@
    17169
   ],
   "jp": "ここは要塞の兵士が{n}常勤で詰めている部屋みたいだ。{n}全員出払っているようだが…",
-  "en": "",
-  "status": ""
+  "en": "This looks like the room where the fortress's soldiers are stationed. Seems they've all gone out...",
+  "status": "done"
  },
  {
   "id": "event_2203_01A0F",
@@ -1692,8 +1692,8 @@
    17255
   ],
   "jp": "ん？{n}…これ、何のカギだ？",
-  "en": "",
-  "status": ""
+  "en": "Hm? ...What's this key for?",
+  "status": "done"
  },
  {
   "id": "event_2203_01A29",
@@ -1706,8 +1706,8 @@
    17336
   ],
   "jp": "兵士達の詰め所かしら。{n}今は誰もいないみたいだけど…",
-  "en": "",
-  "status": ""
+  "en": "Is this the soldiers' guardroom? Doesn't look like anyone's here now...",
+  "status": "done"
  },
  {
   "id": "event_2203_01A5D",
@@ -1720,8 +1720,8 @@
    17411
   ],
   "jp": "あら、これ何のカギかしら？",
-  "en": "",
-  "status": ""
+  "en": "Oh, I wonder what this key is for?",
+  "status": "done"
  },
  {
   "id": "event_2203_01A78",
@@ -1734,8 +1734,8 @@
    17492
   ],
   "jp": "兵卒の詰め所のようだな。{n}重要な情報は特にない、か…",
-  "en": "",
-  "status": ""
+  "en": "Looks like the rank and file's guardroom. Nothing important here...",
+  "status": "done"
  },
  {
   "id": "event_2203_01AAC",
@@ -1748,8 +1748,8 @@
    17578
   ],
   "jp": "…無用心だな。{n}カギを置きっぱなしにするとは。",
-  "en": "",
-  "status": ""
+  "en": "...Careless of them. Leaving a key lying around.",
+  "status": "done"
  },
  {
   "id": "event_2203_01ADA",
@@ -1762,8 +1762,8 @@
    17666
   ],
   "jp": "この部屋は空のようですね。{n}交戦中の部隊の待機場所{n}なのかもしれません。",
-  "en": "",
-  "status": ""
+  "en": "This room seems to be empty. It may be a waiting area for units in combat.",
+  "status": "done"
  },
  {
   "id": "event_2203_01B21",
@@ -1776,8 +1776,8 @@
    17752
   ],
   "jp": "あら…{n}何に使うカギでしょうか？",
-  "en": "",
-  "status": ""
+  "en": "Oh... What might this key be for?",
+  "status": "done"
  },
  {
   "id": "event_2203_01B41",
@@ -1790,8 +1790,8 @@
    17843
   ],
   "jp": "ここは兵員の詰め所か。{n}バイフー、ここに観光に来たんだ。",
-  "en": "",
-  "status": ""
+  "en": "This is the soldiers' quarters. Byff came here to sightsee.",
+  "status": "done"
  },
  {
   "id": "event_2203_01B79",
@@ -1804,8 +1804,8 @@
    17865
   ],
   "jp": "…って、それは詰め所じゃなくて{n}名所だろッ！",
-  "en": "",
-  "status": ""
+  "en": "...No wait, those are tourist quarters, not soldiers' quarters!",
+  "status": "done"
  },
  {
   "id": "event_2203_01BA5",
@@ -1818,8 +1818,8 @@
    17951
   ],
   "jp": "お、カギがあるな。{n}きっと要塞内で使うカギだな。",
-  "en": "",
-  "status": ""
+  "en": "Oh, a key. It must be for somewhere in the fortress.",
+  "status": "done"
  },
  {
   "id": "event_2203_01BD5",
@@ -1832,8 +1832,8 @@
    17969
   ],
   "jp": "でも、コレがもし{n}誰かの自宅のカギだったら…{n}バイフー、極悪人だよなあ。",
-  "en": "",
-  "status": ""
+  "en": "But if this is the key to someone's house... Byff is a real villain.",
+  "status": "done"
  },
  {
   "id": "event_2203_01C1C",
@@ -1846,8 +1846,8 @@
    18586
   ],
   "jp": "ん？　カギが置いてあるわね。",
-  "en": "",
-  "status": ""
+  "en": "Hm? There's a key here.",
+  "status": "done"
  },
  {
   "id": "event_2203_01C39",
@@ -1860,8 +1860,8 @@
    18661
   ],
   "jp": "タグでも付けとけばいいのに…{n}何のカギなのか、わからないわ。",
-  "en": "",
-  "status": ""
+  "en": "They should've put a tag on it... I can't tell what it's for.",
+  "status": "done"
  },
  {
   "id": "event_2203_01C75",
@@ -1874,8 +1874,8 @@
    18057
   ],
   "jp": "ここは何の部屋だろ？",
-  "en": "",
-  "status": ""
+  "en": "What's this room for?",
+  "status": "done"
  },
  {
   "id": "event_2203_01C8A",
@@ -1888,8 +1888,8 @@
    18132
   ],
   "jp": "そしてコレは何のカギだろ？{n}わからない事づくしだぜ…",
-  "en": "",
-  "status": ""
+  "en": "And what's this key for? So many things I don't know...",
+  "status": "done"
  },
  {
   "id": "event_2203_01CBE",
@@ -1902,8 +1902,8 @@
    18419
   ],
   "jp": "うぃーっく、っと…{n}お。酒が置いてあるじゃない。{n}補充しちゃおうかしら…",
-  "en": "",
-  "status": ""
+  "en": "*Hic*, well then... Oh. There's booze here. Maybe I'll restock...",
+  "status": "done"
  },
  {
   "id": "event_2203_01D05",
@@ -1916,8 +1916,8 @@
    18505
   ],
   "jp": "ん？　卓の上にカギが…{n}まさかこれ、酒の貯蔵庫への道を{n}開くカギなんじゃ？　ヒック…",
-  "en": "",
-  "status": ""
+  "en": "Hm? A key on the table... Could this be the key to the road to the wine cellar? *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2203_01D58",
@@ -1930,8 +1930,8 @@
    18220
   ],
   "jp": "兵士達の詰め所かしら？{n}汗臭いわねぇ…",
-  "en": "",
-  "status": ""
+  "en": "Is this the soldiers' guardroom? It stinks of sweat...",
+  "status": "done"
  },
  {
   "id": "event_2203_01D7E",
@@ -1944,8 +1944,8 @@
    18306
   ],
   "jp": "うほっ！{n}何だか知らんけどカギをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Whoa! I don't know what it's for, but I got a key!",
+  "status": "done"
  },
  {
   "id": "event_2203_01DA6",
@@ -1958,8 +1958,8 @@
    18324
   ],
   "jp": "カギってなんかトキメクわよねぇ。{n}此処ではない何処かへと{n}通じる道を開くんだわさ！",
-  "en": "",
-  "status": ""
+  "en": "Keys are kinda thrilling, right? They open the road to someplace that isn't here!",
+  "status": "done"
  },
  {
   "id": "event_2203_01DF7",
@@ -1972,8 +1972,8 @@
    18926
   ],
   "jp": "あら、ここは何の部屋でしょうか。",
-  "en": "",
-  "status": ""
+  "en": "Oh, what is this room, I wonder.",
+  "status": "done"
  },
  {
   "id": "event_2203_01E18",
@@ -1986,8 +1986,8 @@
    18948
   ],
   "jp": "…男の方のにおいですわね。{n}スー、ハー…",
-  "en": "",
-  "status": ""
+  "en": "...It smells of gentlemen. Sniff, ahh...",
+  "status": "done"
  },
  {
   "id": "event_2203_01E40",
@@ -2000,8 +2000,8 @@
    19023
   ],
   "jp": "スー、ハー、スー、ハー{n}…っふぅ、堪能しましたわ♪{n}あら、カギがありますわね。",
-  "en": "",
-  "status": ""
+  "en": "Sniff, ahh, sniff, ahh... Whew, I've had my fill♪ Oh, there's a key here.",
+  "status": "done"
  },
  {
   "id": "event_2203_01E8D",
@@ -2014,8 +2014,8 @@
    19095
   ],
   "jp": "むさ苦しいな…{n}なんだ、この部屋は？",
-  "en": "",
-  "status": ""
+  "en": "Stuffy in here... What's this room?",
+  "status": "done"
  },
  {
   "id": "event_2203_01EB1",
@@ -2028,8 +2028,8 @@
    19181
   ],
   "jp": "お、カギがあるぜ。{n}一体何に使うカギなんだ…",
-  "en": "",
-  "status": ""
+  "en": "Oh, a key. What's it for, anyway...",
+  "status": "done"
  },
  {
   "id": "event_2203_01EDD",
@@ -2042,8 +2042,8 @@
    18742
   ],
   "jp": "…兵員の詰め所だな、ここは。",
-  "en": "",
-  "status": ""
+  "en": "...This is the guardroom.",
+  "status": "done"
  },
  {
   "id": "event_2203_01EFA",
@@ -2056,8 +2056,8 @@
    18828
   ],
   "jp": "む。{n}これは、何のカギだ？",
-  "en": "",
-  "status": ""
+  "en": "Hm. What is this key for?",
+  "status": "done"
  },
  {
   "id": "event_2203_01F14",
@@ -2070,8 +2070,8 @@
    19269
   ],
   "jp": "ん？　ここは兵員の詰め所か。{n}暑苦しいところだぜ、{n}相変わらずよ。",
-  "en": "",
-  "status": ""
+  "en": "Hm? This is the guardroom, huh. Stifling place, same as always.",
+  "status": "done"
  },
  {
   "id": "event_2203_01F55",
@@ -2084,8 +2084,8 @@
    19355
   ],
   "jp": "お、こりゃ何のカギだ？{n}使いどころはわからんが、{n}まあもらっておくか。",
-  "en": "",
-  "status": ""
+  "en": "Oh, what's this key for? No idea where it goes, but I'll take it anyway.",
+  "status": "done"
  },
  {
   "id": "event_2203_01F9A",
@@ -2098,8 +2098,8 @@
    19443
   ],
   "jp": "この狭い部屋は何でしょうか？",
-  "en": "",
-  "status": ""
+  "en": "What is this cramped room?",
+  "status": "done"
  },
  {
   "id": "event_2203_01FB7",
@@ -2112,8 +2112,8 @@
    19518
   ],
   "jp": "おや。卓の上にカギがありますね。{n}これは一体…",
-  "en": "",
-  "status": ""
+  "en": "Oh. There is a key on the table. What might this be...",
+  "status": "done"
  },
  {
   "id": "event_2203_01FE5",
@@ -2126,8 +2126,8 @@
    19536
   ],
   "jp": "閉ざされたトビラを開く…{n}それがカギです。持っていても、{n}損とはなりますまい。",
-  "en": "",
-  "status": ""
+  "en": "Opening closed doors... That is what a key does. There is no harm in having it.",
+  "status": "done"
  },
  {
   "id": "event_2203_02032",
@@ -2140,8 +2140,8 @@
    19681
   ],
   "jp": "重厚なトビラだな。{n}カギが掛かっているようだが…",
-  "en": "",
-  "status": ""
+  "en": "That's a heavy door. Looks like it's locked...",
+  "status": "done"
  },
  {
   "id": "event_2203_02062",
@@ -2154,8 +2154,8 @@
    19688
   ],
   "jp": "ん。{n}まさか、このカギか…？",
-  "en": "",
-  "status": ""
+  "en": "Hm. Don't tell me it's this key...?",
+  "status": "done"
  },
  {
   "id": "event_2203_0207E",
@@ -2168,8 +2168,8 @@
    19773
   ],
   "jp": "お、開いたぜ！{n}山のように武器があるぞ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, it opened! There's a mountain of weapons!",
+  "status": "done"
  },
  {
   "id": "event_2203_020A6",
@@ -2182,8 +2182,8 @@
    19889
   ],
   "jp": "よーし、めぼしいものを{n}一通り掻き集めようぜ！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's grab anything worthwhile!",
+  "status": "done"
  },
  {
   "id": "event_2203_020D4",
@@ -2196,8 +2196,8 @@
    19980
   ],
   "jp": "何かしら、この大きなトビラ。{n}カギも掛かっているわね。",
-  "en": "",
-  "status": ""
+  "en": "What's with this big door? It's locked, too.",
+  "status": "done"
  },
  {
   "id": "event_2203_0210A",
@@ -2210,8 +2210,8 @@
    19987
   ],
   "jp": "…あ。{n}ひょっとして、このカギを？",
-  "en": "",
-  "status": ""
+  "en": "...Oh. Maybe this key?",
+  "status": "done"
  },
  {
   "id": "event_2203_0212C",
@@ -2224,8 +2224,8 @@
    20072
   ],
   "jp": "開いたわ！{n}わあ、ここ武器庫だったのね。",
-  "en": "",
-  "status": ""
+  "en": "It opened! Wow, this was the armory.",
+  "status": "done"
  },
  {
   "id": "event_2203_02154",
@@ -2238,8 +2238,8 @@
    20199
   ],
   "jp": "よーし、使えそうな武器を{n}集めちゃって！",
-  "en": "",
-  "status": ""
+  "en": "All right, gather up anything useful!",
+  "status": "done"
  },
  {
   "id": "event_2203_0217C",
@@ -2252,8 +2252,8 @@
    20297
   ],
   "jp": "大きなトビラね。{n}この様相…{n}ひょっとして武器庫かしら。",
-  "en": "",
-  "status": ""
+  "en": "Big door. From the look of it... Maybe it's the armory.",
+  "status": "done"
  },
  {
   "id": "event_2203_021B3",
@@ -2266,8 +2266,8 @@
    20304
   ],
   "jp": "カギがあれば開けるんだけど。{n}もしかして…",
-  "en": "",
-  "status": ""
+  "en": "If I had a key, I could open it. Could it be...",
+  "status": "done"
  },
  {
   "id": "event_2203_021DD",
@@ -2280,8 +2280,8 @@
    20389
   ],
   "jp": "開いたわ。{n}…やっぱり武器庫だったのね。",
-  "en": "",
-  "status": ""
+  "en": "It's open. ...So it was the armory.",
+  "status": "done"
  },
  {
   "id": "event_2203_02205",
@@ -2294,8 +2294,8 @@
    20516
   ],
   "jp": "武器を調達するわよ。{n}使えそうなものを{n}根こそぎ持ち出すの！",
-  "en": "",
-  "status": ""
+  "en": "We'll stock up on weapons. Take anything useful, every last one!",
+  "status": "done"
  },
  {
   "id": "event_2203_02240",
@@ -2308,8 +2308,8 @@
    20607
   ],
   "jp": "重厚そうなトビラですね。{n}中に何があるのか気になりますが、{n}カギが掛かっていては…",
-  "en": "",
-  "status": ""
+  "en": "What a heavy door. I wonder what is inside, but with it locked...",
+  "status": "done"
  },
  {
   "id": "event_2203_02291",
@@ -2322,8 +2322,8 @@
    20614
   ],
   "jp": "…ひょっとして、このカギが？",
-  "en": "",
-  "status": ""
+  "en": "...Could this key be the one?",
+  "status": "done"
  },
  {
   "id": "event_2203_022AE",
@@ -2336,8 +2336,8 @@
    20699
   ],
   "jp": "あ、開きました！{n}…中は武器庫だったんですね！",
-  "en": "",
-  "status": ""
+  "en": "Ah, it opened! ...It was the armory inside!",
+  "status": "done"
  },
  {
   "id": "event_2203_022DC",
@@ -2350,8 +2350,8 @@
    20826
   ],
   "jp": "使えそうな武器は{n}いただく事にしましょう。{n}それにしても、すごい数ですね…",
-  "en": "",
-  "status": ""
+  "en": "Let us take whatever weapons might be useful. Such a great number of them, though...",
+  "status": "done"
  },
  {
   "id": "event_2203_02325",
@@ -2364,8 +2364,8 @@
    20910
   ],
   "jp": "このトビラ、すっげぇデケェ…{n}モンスターでも住んでんのかな？",
-  "en": "",
-  "status": ""
+  "en": "This door is really big... Does a monster live here, Byff wonders?",
+  "status": "done"
  },
  {
   "id": "event_2203_02361",
@@ -2378,8 +2378,8 @@
    20917
   ],
   "jp": "閉め切ってるようだが、{n}ひょっとして、このカギで…",
-  "en": "",
-  "status": ""
+  "en": "It is shut tight, but maybe with this key...",
+  "status": "done"
  },
  {
   "id": "event_2203_02393",
@@ -2392,8 +2392,8 @@
    21002
   ],
   "jp": "おおっ、開いた！{n}すげー、武器が大量にあるぞ！",
-  "en": "",
-  "status": ""
+  "en": "Whoa, it opened! Wow, so many weapons!",
+  "status": "done"
  },
  {
   "id": "event_2203_023C1",
@@ -2406,8 +2406,8 @@
    21129
   ],
   "jp": "持てるだけ持って行こう！{n}うー、でも書庫の方が{n}嬉しかったような気も…",
-  "en": "",
-  "status": ""
+  "en": "Take all you can carry! Ugh, but Byff thinks a library would be nicer...",
+  "status": "done"
  },
  {
   "id": "event_2203_02406",
@@ -2420,8 +2420,8 @@
    22183
   ],
   "jp": "大きなトビラね。{n}一体なんの部屋かしら？",
-  "en": "",
-  "status": ""
+  "en": "Big door. I wonder what this room is?",
+  "status": "done"
  },
  {
   "id": "event_2203_0242E",
@@ -2434,8 +2434,8 @@
    22190
   ],
   "jp": "…あれ？{n}ひょっとして、あのカギって…",
-  "en": "",
-  "status": ""
+  "en": "...Huh? Could that key be...",
+  "status": "done"
  },
  {
   "id": "event_2203_02454",
@@ -2448,8 +2448,8 @@
    22260
   ],
   "jp": "あら、開いたわ。{n}…武器庫だったのね。",
-  "en": "",
-  "status": ""
+  "en": "Oh, it opened. ...So it was the armory.",
+  "status": "done"
  },
  {
   "id": "event_2203_0247A",
@@ -2462,8 +2462,8 @@
    22282
   ],
   "jp": "ま！　大砲もあるじゃない！{n}…研究資料に持ち帰りたいけど、{n}大きすぎてムリよね。",
-  "en": "",
-  "status": ""
+  "en": "My! There's a cannon too! ...I'd love to take it back for research, but it's way too big.",
+  "status": "done"
  },
  {
   "id": "event_2203_024C9",
@@ -2476,8 +2476,8 @@
    22409
   ],
   "jp": "仕方がない、{n}軽くてよさげなものだけ{n}選んで持ち出すわよ。",
-  "en": "",
-  "status": ""
+  "en": "Oh well. I'll just pick out the good light stuff.",
+  "status": "done"
  },
  {
   "id": "event_2203_02502",
@@ -2490,8 +2490,8 @@
    21220
   ],
   "jp": "でかいトビラだなあ…{n}１人や２人で押したところで{n}ビクともしなさそうだ。",
-  "en": "",
-  "status": ""
+  "en": "That's a huge door... One or two guys pushin' wouldn't budge it.",
+  "status": "done"
  },
  {
   "id": "event_2203_02549",
@@ -2504,8 +2504,8 @@
    21238
   ],
   "jp": "…あ！{n}まさか、あのカギは…！",
-  "en": "",
-  "status": ""
+  "en": "...Ah! Don't tell me that key...!",
+  "status": "done"
  },
  {
   "id": "event_2203_02567",
@@ -2518,8 +2518,8 @@
    21323
   ],
   "jp": "ほらっ、開いたぜ！{n}中は武器庫か…{n}武器庫のカギだったんだな！",
-  "en": "",
-  "status": ""
+  "en": "See, it opened! It's an armory inside... So that was the armory key!",
+  "status": "done"
  },
  {
   "id": "event_2203_025A4",
@@ -2532,8 +2532,8 @@
    21450
   ],
   "jp": "よーし、使えそうなエモノを{n}全部持ち出してやろうぜ！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's haul off all the good stuff!",
+  "status": "done"
  },
  {
   "id": "event_2203_025D8",
@@ -2546,8 +2546,8 @@
    21869
   ],
   "jp": "ウィーック…{n}ぬぬ？　デカいトビラだこと……",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... Huh? Big door, ain't it...",
+  "status": "done"
  },
  {
   "id": "event_2203_02604",
@@ -2560,8 +2560,8 @@
    21887
   ],
   "jp": "このカギでトビラ開いたりして…{n}まさかねー、ニャハハ。",
-  "en": "",
-  "status": ""
+  "en": "Maybe this key opens the door... Nah, no way, nyahaha.",
+  "status": "done"
  },
  {
   "id": "event_2203_0263A",
@@ -2574,8 +2574,8 @@
    21972
   ],
   "jp": "あら、ビンゴね。{n}ヒック…{n}中は、武器庫、だったのねぇえ。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, bingo. *hic*... It was the armory inside, was it~.",
+  "status": "done"
  },
  {
   "id": "event_2203_02673",
@@ -2588,8 +2588,8 @@
    22099
   ],
   "jp": "ま、敵地なんだし、{n}武器持ってって問題ないっしょ。{n}ヒック…",
-  "en": "",
-  "status": ""
+  "en": "Well, this is enemy ground, so takin' weapons is no problem. *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2203_026AE",
@@ -2602,8 +2602,8 @@
    21548
   ],
   "jp": "バカでかいトビラね。{n}デカけりゃいい、ってもんじゃ{n}ないんだわさ。",
-  "en": "",
-  "status": ""
+  "en": "That's one giant door. Bigger isn't always better, you know.",
+  "status": "done"
  },
  {
   "id": "event_2203_026EF",
@@ -2616,8 +2616,8 @@
    21566
   ],
   "jp": "…クラシックな錠前ねぇ。{n}いかにも施錠してます、って感じ。",
-  "en": "",
-  "status": ""
+  "en": "...What a classic lock. It sure looks locked.",
+  "status": "done"
  },
  {
   "id": "event_2203_02729",
@@ -2630,8 +2630,8 @@
    21651
   ],
   "jp": "あら、開いたじゃない。{n}…ウホッ②{n}中身は武器庫だったのね！",
-  "en": "",
-  "status": ""
+  "en": "Oh, it opened. ...Whoa!! It's the armory inside!",
+  "status": "done"
  },
  {
   "id": "event_2203_02764",
@@ -2644,8 +2644,8 @@
    21778
   ],
   "jp": "よし、中身をかっさらうわよ～。{n}遠慮は不要！{n}打ちこわしよ、打ちこわし！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's clean it out~. No holding back! Smash and grab, smash and grab!",
+  "status": "done"
  },
  {
   "id": "event_2203_027AB",
@@ -2658,8 +2658,8 @@
    22841
   ],
   "jp": "あら、大きなトビラですこと。{n}一体中には何が…？",
-  "en": "",
-  "status": ""
+  "en": "Oh my, what a big door. What could be inside...?",
+  "status": "done"
  },
  {
   "id": "event_2203_027DB",
@@ -2672,8 +2672,8 @@
    22890
   ],
   "jp": "…ひょっとして、このカギで？",
-  "en": "",
-  "status": ""
+  "en": "...Could this key work?",
+  "status": "done"
  },
  {
   "id": "event_2203_027F8",
@@ -2686,8 +2686,8 @@
    23006
   ],
   "jp": "ホントに開きましたわ…{n}偶然って恐いですわね。",
-  "en": "",
-  "status": ""
+  "en": "It really did open... Coincidence is a frightening thing.",
+  "status": "done"
  },
  {
   "id": "event_2203_02826",
@@ -2700,8 +2700,8 @@
    23164
   ],
   "jp": "まあ、武器庫だったんですのね。{n}使えそうなもの、{n}全ていただいちゃいましょうか！",
-  "en": "",
-  "status": ""
+  "en": "My, so it was the armory. Shall we help ourselves to everything useful!",
+  "status": "done"
  },
  {
   "id": "event_2203_02875",
@@ -2714,8 +2714,8 @@
    23263
   ],
   "jp": "重々しいトビラだな…{n}ま、オレが一発ぶちかませば{n}風穴が開けられるがな。",
-  "en": "",
-  "status": ""
+  "en": "That's a heavy door... Well, one good hit from me and I'd blow a hole in it.",
+  "status": "done"
  },
  {
   "id": "event_2203_028BC",
@@ -2728,8 +2728,8 @@
    23312
   ],
   "jp": "ん、このカギで開くのか？",
-  "en": "",
-  "status": ""
+  "en": "Hm, this key opens it?",
+  "status": "done"
  },
  {
   "id": "event_2203_028D5",
@@ -2742,8 +2742,8 @@
    23428
   ],
   "jp": "お、開いちまったぜ。{n}なんだ、オレの力を証明する{n}絶好の機会だったのによ。",
-  "en": "",
-  "status": ""
+  "en": "Oh, it opened. Aw, and here I had the perfect chance to prove my strength.",
+  "status": "done"
  },
  {
   "id": "event_2203_0291E",
@@ -2756,8 +2756,8 @@
    23544
   ],
   "jp": "中身は武器庫か。{n}使えそうな武器があれば、{n}持っていっちまおうぜ。",
-  "en": "",
-  "status": ""
+  "en": "It's an armory inside. If there's anything useful, let's take it.",
+  "status": "done"
  },
  {
   "id": "event_2203_0295F",
@@ -2770,8 +2770,8 @@
    22493
   ],
   "jp": "巨大なトビラだな。{n}中には何が格納されているんだ？",
-  "en": "",
-  "status": ""
+  "en": "A massive door. What is stored inside?",
+  "status": "done"
  },
  {
   "id": "event_2203_02991",
@@ -2784,8 +2784,8 @@
    22511
   ],
   "jp": "…このカギ。まさか…",
-  "en": "",
-  "status": ""
+  "en": "...This key. Could it be...",
+  "status": "done"
  },
  {
   "id": "event_2203_029A6",
@@ -2798,8 +2798,8 @@
    22585
   ],
   "jp": "開いたぞ。{n}…中は武器倉庫か。",
-  "en": "",
-  "status": ""
+  "en": "It opened. ...A weapons store.",
+  "status": "done"
  },
  {
   "id": "event_2203_029C4",
@@ -2812,8 +2812,8 @@
    22712
   ],
   "jp": "よし。有用そうなものを{n}選別して持ち出すんだ。{n}終わり次第、戦線に戻るぞ。",
-  "en": "",
-  "status": ""
+  "en": "Good. Sort out what is useful and take it. Then return to the front.",
+  "status": "done"
  },
  {
   "id": "event_2203_02A0D",
@@ -2826,8 +2826,8 @@
    23635
   ],
   "jp": "…軍属の頃の記憶が確かなら、{n}確かここは武器庫だったハズ…",
-  "en": "",
-  "status": ""
+  "en": "...If I remember right from my army days, this should be the armory...",
+  "status": "done"
  },
  {
   "id": "event_2203_02A47",
@@ -2840,8 +2840,8 @@
    23642
   ],
   "jp": "ひょっとしたら、{n}このカギで開くんじゃないか？",
-  "en": "",
-  "status": ""
+  "en": "Maybe this key opens it?",
+  "status": "done"
  },
  {
   "id": "event_2203_02A75",
@@ -2854,8 +2854,8 @@
    23727
   ],
   "jp": "お、開いたぜ。{n}…記憶の通り、武器庫に違いない。",
-  "en": "",
-  "status": ""
+  "en": "Oh, it opened. ...Just as I remembered, it's the armory, no doubt.",
+  "status": "done"
  },
  {
   "id": "event_2203_02AA5",
@@ -2868,8 +2868,8 @@
    23854
   ],
   "jp": "よし、武器を持ち出せ！{n}兵装を増強して巻き返すぜ！{n}急げッ②",
-  "en": "",
-  "status": ""
+  "en": "All right, haul out the weapons! We'll beef up our gear and turn this around! Hurry!!",
+  "status": "done"
  },
  {
   "id": "event_2203_02AE0",
@@ -2882,8 +2882,8 @@
    23952
   ],
   "jp": "大きなトビラですね。{n}これほどの巨躯で守らねばならぬ{n}ものだというのですか…",
-  "en": "",
-  "status": ""
+  "en": "What a large door. So what it guards needs a thing of this size to protect it...",
+  "status": "done"
  },
  {
   "id": "event_2203_02B2B",
@@ -2896,8 +2896,8 @@
    23959
   ],
   "jp": "ですが、閉ざす法があれば、{n}開く法もあって然るべきもの。{n}このカギが道を開くでしょう。",
-  "en": "",
-  "status": ""
+  "en": "But if there is a way to close it, there must be a way to open it. This key will open the road.",
+  "status": "done"
  },
  {
   "id": "event_2203_02B80",
@@ -2910,8 +2910,8 @@
    24040
   ],
   "jp": "開きましたね。{n}さて、トビラに護られし秘匿とは{n}一体いかなるものですか？",
-  "en": "",
-  "status": ""
+  "en": "It has opened. Now then, what is the secret this door protects?",
+  "status": "done"
  },
  {
   "id": "event_2203_02BC7",
@@ -2924,8 +2924,8 @@
    24058
   ],
   "jp": "なんと、武器の山ですか…",
-  "en": "",
-  "status": ""
+  "en": "Why, a mountain of weapons...",
+  "status": "done"
  },
  {
   "id": "event_2203_02BE0",
@@ -2938,8 +2938,8 @@
    24080
   ],
   "jp": "狂気は、人に凶器を抱かせ、{n}人は狂気と凶器で戦いを為す。{n}悲しい事ですが……",
-  "en": "",
-  "status": ""
+  "en": "Madness arms human hands, and with madness and arms, humans make war. How sad...",
+  "status": "done"
  },
  {
   "id": "event_2203_02C2B",
@@ -2952,8 +2952,8 @@
    24207
   ],
   "jp": "しかし、戦う事もまた人の性。{n}人たる私にさえも、この凶器を{n}手にする資格はあるはずですね…",
-  "en": "",
-  "status": ""
+  "en": "But fighting too is in human nature. Even I, as a human, must have the right to take up these weapons...",
+  "status": "done"
  },
  {
   "id": "event_2203_02D0E",
@@ -3024,8 +3024,8 @@
    30564
   ],
   "jp": "{voice:001A18}シスキア、行くぜ…！",
-  "en": "",
-  "status": ""
+  "en": "Siskier, let's go...!",
+  "status": "done"
  },
  {
   "id": "event_2203_06CA9",
@@ -3036,8 +3036,8 @@
    30585
   ],
   "jp": "{voice:001B18}ガーロット、{n}ジェノンは無事だよね……",
-  "en": "",
-  "status": ""
+  "en": "Garlot, Jenon's okay, right...",
+  "status": "done"
  },
  {
   "id": "event_2203_06CD3",
@@ -3048,8 +3048,8 @@
    30603
   ],
   "jp": "{voice:001C18}あいつがくたばるかよ。{n}今頃、へらへら笑いながら{n}自分に浸っているぜ、絶対によ。",
-  "en": "",
-  "status": ""
+  "en": "Like that guy would ever drop dead. Right now he's grinning and admiring himself, I guarantee it.",
+  "status": "done"
  },
  {
   "id": "event_2203_06D26",
@@ -3061,8 +3061,8 @@
    38054
   ],
   "jp": "{voice:001D18}おい、ジェノン！{n}ん？　ジェノンがいない。",
-  "en": "",
-  "status": ""
+  "en": "Hey, Jenon! Hm? He's not here.",
+  "status": "done"
  },
  {
   "id": "event_2203_06D54",
@@ -3074,8 +3074,8 @@
    38121
   ],
   "jp": "{voice:001E18}ジェノン！　ジェノン！{n}あれ、誰もいないよ？",
-  "en": "",
-  "status": ""
+  "en": "Jenon! Jenon! Huh, there's nobody here?",
+  "status": "done"
  },
  {
   "id": "event_2203_06D84",
@@ -3087,8 +3087,8 @@
    38188
   ],
   "jp": "{voice:001F18}ジェノン！　いたら返事しろ②{n}誰もいないな、それに死体もない。",
-  "en": "",
-  "status": ""
+  "en": "Jenon! If you're here, answer me!! No one here, and no body either.",
+  "status": "done"
  },
  {
   "id": "event_2203_06DC6",
@@ -3100,8 +3100,8 @@
    38255
   ],
   "jp": "{voice:002018}おい、優男！{n}ん？　誰もいねぇじゃねぇか。",
-  "en": "",
-  "status": ""
+  "en": "Hey, pretty boy! Hm? Nobody's here.",
+  "status": "done"
  },
  {
   "id": "event_2203_06DF4",
@@ -3113,8 +3113,8 @@
    38322
   ],
   "jp": "{voice:002118}ジェノンさん！　ジェノンさん！{n}おかしいですね、誰もいません。",
-  "en": "",
-  "status": ""
+  "en": "Jenon-san! Jenon-san! How strange, no one is here.",
+  "status": "done"
  },
  {
   "id": "event_2203_06E36",
@@ -3126,8 +3126,8 @@
    38389
   ],
   "jp": "{voice:002218}ジェノンはここに落ちたはず。{n}だが、誰もいない。",
-  "en": "",
-  "status": ""
+  "en": "Jenon should have fallen here. But no one is here.",
+  "status": "done"
  },
  {
   "id": "event_2203_06E6A",
@@ -3139,8 +3139,8 @@
    38456
   ],
   "jp": "{voice:002318}おいジェノン？{n}あれ、誰もいないな。{n}かといって死体もないし。",
-  "en": "",
-  "status": ""
+  "en": "Hey, Jenon? Huh, nobody's here. But there's no body either.",
+  "status": "done"
  },
  {
   "id": "event_2203_06EAB",
@@ -3152,8 +3152,8 @@
    38523
   ],
   "jp": "{voice:002418}お～い！　優男の兄ちゃん！{n}カムバァ～ック！{n}…って誰もいないけど？",
-  "en": "",
-  "status": ""
+  "en": "Heyyy! Pretty boy! Come baaack! ...Except there's nobody here?",
+  "status": "done"
  },
  {
   "id": "event_2203_06EF2",
@@ -3165,8 +3165,8 @@
    38590
   ],
   "jp": "{voice:002518}ウィ、ヒック……{n}おや、ジェノンいないね。{n}かといって死体も見あたらないしね。",
-  "en": "",
-  "status": ""
+  "en": "Ooh, *hic*... Well, Jenon's not here. And I don't see no body neither.",
+  "status": "done"
  },
  {
   "id": "event_2203_06F43",
@@ -3178,8 +3178,8 @@
    38702
   ],
   "jp": "{voice:002618}ここには、既にジェノンの{n}気配はございませんね。{n}かといって死体もありません。",
-  "en": "",
-  "status": ""
+  "en": "There is no longer any sign of Jenon here. And no body either.",
+  "status": "done"
  },
  {
   "id": "event_2203_06F94",
@@ -3191,8 +3191,8 @@
    38787
   ],
   "jp": "{voice:002718}おい、ジェノン！{n}いねぇな、やっぱ死んだかな？{n}いや死体もねぇもんな……",
-  "en": "",
-  "status": ""
+  "en": "Hey, Jenon! Nobody here, guess he's dead after all? No, there's no body either...",
+  "status": "done"
  },
  {
   "id": "event_2203_06FDF",
@@ -3204,8 +3204,8 @@
    38863
   ],
   "jp": "{voice:002818}いないって事は、{n}やっぱ脱出したんだよ。{n}あーぁアイツ、心配かけてさ。",
-  "en": "",
-  "status": ""
+  "en": "If he's not here, he must've escaped after all. Ugh, that guy, making me worry.",
+  "status": "done"
  },
  {
   "id": "event_2203_07028",
@@ -3216,8 +3216,8 @@
    40587
   ],
   "jp": "{voice:002918}ぐわっ……",
-  "en": "",
-  "status": ""
+  "en": "Gwah...",
+  "status": "done"
  },
  {
   "id": "event_2203_07037",
@@ -3228,8 +3228,8 @@
    40605
   ],
   "jp": "{voice:002A18}おいっ、ソルティエはどこだ？{n}居場所を教えろ②",
-  "en": "",
-  "status": ""
+  "en": "Hey, where's Soltier? Tell me where he is!!",
+  "status": "done"
  },
  {
   "id": "event_2203_07069",
@@ -3240,8 +3240,8 @@
    40626
   ],
   "jp": "{voice:002B18}へ、陛下なら…、最奥の{n}要塞本営におられるはず、だ……",
-  "en": "",
-  "status": ""
+  "en": "H-His Majesty... should be at the fortress headquarters, deep inside...",
+  "status": "done"
  },
  {
   "id": "event_2203_070A3",
@@ -3252,8 +3252,8 @@
    40974
   ],
   "jp": "{voice:002C18}グラムブレイズ！{n}よくも邪魔をしてくれたな②",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze! How dare you interfere!!",
+  "status": "done"
  },
  {
   "id": "event_2203_070D3",
@@ -3264,8 +3264,8 @@
    40992
   ],
   "jp": "{voice:002D18}ソルティエ！",
-  "en": "",
-  "status": ""
+  "en": "Soltier!",
+  "status": "done"
  },
  {
   "id": "event_2203_070E4",
@@ -3276,8 +3276,8 @@
    41010
   ],
   "jp": "{voice:002E18}お前は、本当にソルティエか！{n}ネシアという魔術師に操られて{n}いるんじゃないのか？",
-  "en": "",
-  "status": ""
+  "en": "Are you really Soltier? Aren't you being controlled by a mage named Nessiah?",
+  "status": "done"
  },
  {
   "id": "event_2203_07137",
@@ -3288,8 +3288,8 @@
    41028
   ],
   "jp": "{voice:002F18}知らんな、誰だそいつは？{n}ただ、病が治ってからは、{n}身体の調子がすこぶるいいのだ。",
-  "en": "",
-  "status": ""
+  "en": "I don't know. Who's that? But ever since my illness was cured, I've been in excellent shape.",
+  "status": "done"
  },
  {
   "id": "event_2203_0718C",
@@ -3300,8 +3300,8 @@
    41035
   ],
   "jp": "{voice:003018}これなら王国の征服、{n}いや世界の制覇も夢ではないぞ。{n}ククククク……",
-  "en": "",
-  "status": ""
+  "en": "At this rate, conquering the Kingdom, no, conquering the world is no mere dream. Heh heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2203_071D3",
@@ -3312,8 +3312,8 @@
    41053
   ],
   "jp": "{voice:003118}陛下！　目をお覚ましください②",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty! Please, wake up!!",
+  "status": "done"
  },
  {
   "id": "event_2203_071F6",
@@ -3324,8 +3324,8 @@
    41142
   ],
   "jp": "{voice:003218}誰だお前？{n}ん、ラピスだったか？{n}グググ、ひ、暇を出したはずだ…",
-  "en": "",
-  "status": ""
+  "en": "Who are you? Hm, Lapis, was it? Gngh, I-I thought I dismissed you...",
+  "status": "done"
  },
  {
   "id": "event_2203_07239",
@@ -3336,8 +3336,8 @@
    41160
   ],
   "jp": "{voice:003318}世界制覇、それが本当に{n}陛下のご意思だというならば、{n}私も従いましょう！",
-  "en": "",
-  "status": ""
+  "en": "If conquering the world is truly Your Majesty's will, then I will follow you too!",
+  "status": "done"
  },
  {
   "id": "event_2203_07284",
@@ -3348,8 +3348,8 @@
    41269
   ],
   "jp": "{voice:003418}とんでもないセリフね。{n}もしかしてこの女、皇帝陛下に{n}惚れてるのかしら……",
-  "en": "",
-  "status": ""
+  "en": "What an outrageous thing to say. Could this woman be in love with His Majesty the Emperor...",
+  "status": "done"
  },
  {
   "id": "event_2203_072D1",
@@ -3360,8 +3360,8 @@
    41375
   ],
   "jp": "{voice:003518}ムチャクチャ言いやがるな！",
-  "en": "",
-  "status": ""
+  "en": "That's crazy talk!",
+  "status": "done"
  },
  {
   "id": "event_2203_072F0",
@@ -3372,8 +3372,8 @@
    41423
   ],
   "jp": "{voice:003618}しかし、今の陛下は正気だとは{n}とても思えないのです……",
-  "en": "",
-  "status": ""
+  "en": "But I can't believe Your Majesty is in your right mind now...",
+  "status": "done"
  },
  {
   "id": "event_2203_0732A",
@@ -3384,8 +3384,8 @@
    41444
   ],
   "jp": "{voice:003718}ラ、ラピス…、お前か？{n}う…、ううっ、た、助けてくれ……",
-  "en": "",
-  "status": ""
+  "en": "L-Lapis... Is that you? Ugh... Urgh, h-help me...",
+  "status": "done"
  },
  {
   "id": "event_2203_07366",
@@ -3396,8 +3396,8 @@
    41519
   ],
   "jp": "{voice:003818}ラピス！　ソルティエにはまだ{n}自我が残っているようだぜ②",
-  "en": "",
-  "status": ""
+  "en": "Lapis! Soltier's still got some of himself left in there!!",
+  "status": "done"
  },
  {
   "id": "event_2203_073A2",
@@ -3408,8 +3408,8 @@
    41537
   ],
   "jp": "{voice:003918}ん？　自我？{n}何を言うか、俺はソルティエだ。{n}お前達を殺す②",
-  "en": "",
-  "status": ""
+  "en": "Hm? Himself? What are you saying? I am Soltier. I'll kill you!!",
+  "status": "done"
  },
  {
   "id": "event_2203_073E1",
@@ -3420,8 +3420,8 @@
    41558
   ],
   "jp": "{voice:003A18}私に考えがあります、{n}ソルティエ陛下の動きを{n}止めてください。",
-  "en": "",
-  "status": ""
+  "en": "I have an idea. Please stop His Majesty Soltier from moving.",
+  "status": "done"
  },
  {
   "id": "event_2203_07422",
@@ -3432,8 +3432,8 @@
    41579
   ],
   "jp": "{voice:003B18}わかった、やってみるぜ。",
-  "en": "",
-  "status": ""
+  "en": "Got it, I'll try.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A2EC",
@@ -3444,8 +3444,8 @@
    50223
   ],
   "jp": "{voice:003C18}俺が、操られていると言うのか！{n}この俺が？　バカな……",
-  "en": "",
-  "status": ""
+  "en": "You say I'm being controlled! Me? Absurd...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A326",
@@ -3456,8 +3456,8 @@
    50241
   ],
   "jp": "{voice:003D18}陛下…",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A331",
@@ -3468,8 +3468,8 @@
    61809
   ],
   "jp": "{voice:003E18}ぐ…、ぐくぅ…③",
-  "en": "",
-  "status": ""
+  "en": "Gh... Gnngh...!?",
+  "status": "done"
  },
  {
   "id": "event_2203_0A346",
@@ -3480,8 +3480,8 @@
    67519
   ],
   "jp": "{voice:003F18}なんとかソルティエの{n}動きを止めたぜ！",
-  "en": "",
-  "status": ""
+  "en": "We somehow stopped Soltier from moving!",
+  "status": "done"
  },
  {
   "id": "event_2203_0A370",
@@ -3492,8 +3492,8 @@
    67537
   ],
   "jp": "{voice:004018}ベアトリーヌさん！",
-  "en": "",
-  "status": ""
+  "en": "Baretreenu-san!",
+  "status": "done"
  },
  {
   "id": "event_2203_0A387",
@@ -3504,8 +3504,8 @@
    68047
   ],
   "jp": "{voice:004118}皇帝陛下に、この種を{n}飲み込ませてください。",
-  "en": "",
-  "status": ""
+  "en": "Please have His Majesty the Emperor swallow this seed.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A3B7",
@@ -3516,8 +3516,8 @@
    68054
   ],
   "jp": "{voice:004218}もし、ネシアが操っているならば{n}その魔力を中和させてくれます。",
-  "en": "",
-  "status": ""
+  "en": "If Nessiah is controlling him, it will neutralize that magic.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A3F9",
@@ -3528,8 +3528,8 @@
    68072
   ],
   "jp": "{voice:004318}陛下に害はないのだな？",
-  "en": "",
-  "status": ""
+  "en": "It won't harm His Majesty?",
+  "status": "done"
  },
  {
   "id": "event_2203_0A414",
@@ -3540,8 +3540,8 @@
    68090
   ],
   "jp": "{voice:004418}安心して頂いて結構です。",
-  "en": "",
-  "status": ""
+  "en": "You may rest assured.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A431",
@@ -3552,8 +3552,8 @@
    68108
   ],
   "jp": "{voice:004518}私が、陛下に飲ませよう……",
-  "en": "",
-  "status": ""
+  "en": "I will give it to His Majesty...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A450",
@@ -3564,8 +3564,8 @@
    68186
   ],
   "jp": "{voice:004618}うぅぅ……",
-  "en": "",
-  "status": ""
+  "en": "Uuugh...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A45F",
@@ -3576,8 +3576,8 @@
    68204
   ],
   "jp": "{voice:004718}陛下！",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty!",
+  "status": "done"
  },
  {
   "id": "event_2203_0A46A",
@@ -3588,8 +3588,8 @@
    68222
   ],
   "jp": "{voice:004818}正気を取り戻されるとよいのだが。",
-  "en": "",
-  "status": ""
+  "en": "I hope he comes back to his senses.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A48F",
@@ -3600,8 +3600,8 @@
    68378
   ],
   "jp": "{voice:004918}ん、ラピスか……{n}ここは、どこだ？",
-  "en": "",
-  "status": ""
+  "en": "Hm, Lapis... Where is this?",
+  "status": "done"
  },
  {
   "id": "event_2203_0A4B5",
@@ -3612,8 +3612,8 @@
    68416
   ],
   "jp": "{voice:004A18}フフフ、困りますね、{n}私の支配を勝手に解かれては…",
-  "en": "",
-  "status": ""
+  "en": "Hehehe, this is awkward, having my control undone without my leave...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A4EB",
@@ -3624,8 +3624,8 @@
    68531
   ],
   "jp": "{voice:004B18}ネシア③",
-  "en": "",
-  "status": ""
+  "en": "Nessiah!?",
+  "status": "done"
  },
  {
   "id": "event_2203_0A4F8",
@@ -3636,8 +3636,8 @@
    68552
   ],
   "jp": "{voice:004C18}バカな…、どうして生きている？{n}俺達は確かにお前を殺した！",
-  "en": "",
-  "status": ""
+  "en": "No way... How are you alive? We killed you, for sure!",
+  "status": "done"
  },
  {
   "id": "event_2203_0A536",
@@ -3648,8 +3648,8 @@
    68570
   ],
   "jp": "{voice:004D18}人間と同じ尺度で、{n}私を理解されては困りますね。{n}フフフフフ…",
-  "en": "",
-  "status": ""
+  "en": "I'm afraid you can't measure me by the same yardstick as humans. Hehehehehe...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A577",
@@ -3660,8 +3660,8 @@
    68591
   ],
   "jp": "{voice:004E18}ウ…、ウウ……{n}ネシア、どうすればよい。",
-  "en": "",
-  "status": ""
+  "en": "U... Uuugh... Nessiah, what should I do?",
+  "status": "done"
  },
  {
   "id": "event_2203_0A5A3",
@@ -3684,8 +3684,8 @@
    68633
   ],
   "jp": "{voice:005018}フフフ…、これで皇帝陛下は、{n}再び私の操り人形です。",
-  "en": "",
-  "status": ""
+  "en": "Hehehe... Now His Majesty the Emperor is my puppet once more.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A5E8",
@@ -3696,8 +3696,8 @@
    68640
   ],
   "jp": "{voice:005118}私の支配魔法は、欲求や欲望の{n}強さによって強化されます。",
-  "en": "",
-  "status": ""
+  "en": "My magic of control is strengthened by the force of one's desires and cravings.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A624",
@@ -3708,8 +3708,8 @@
    68658
   ],
   "jp": "{voice:005218}彼はね、扱い易い人材ですよ。",
-  "en": "",
-  "status": ""
+  "en": "He's such an easy person to handle, you see.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A645",
@@ -3720,8 +3720,8 @@
    68679
   ],
   "jp": "{voice:005318}ウウウゥゥ…",
-  "en": "",
-  "status": ""
+  "en": "Uuuuugh...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A656",
@@ -3732,8 +3732,8 @@
    68697
   ],
   "jp": "{voice:005418}さあ陛下。オルディーンを殺し{n}聖剣グラン・センチュリオを{n}奪うのです。",
-  "en": "",
-  "status": ""
+  "en": "Now, Your Majesty. Kill Ordene, and take the Holy Sword, Gran Centurio.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A69F",
@@ -3744,8 +3744,8 @@
    68789
   ],
   "jp": "{voice:005518}そして、王国と血みどろの争いを{n}行い、聖剣に力を蓄えなさい！",
-  "en": "",
-  "status": ""
+  "en": "Then wage a bloody war with the Kingdom, and store up power in the Holy Sword!",
+  "status": "done"
  },
  {
   "id": "event_2203_0A6DF",
@@ -3756,8 +3756,8 @@
    68796
   ],
   "jp": "{voice:005618}私の復讐のために！",
-  "en": "",
-  "status": ""
+  "en": "For my revenge!",
+  "status": "done"
  },
  {
   "id": "event_2203_0A6F6",
@@ -3768,8 +3768,8 @@
    68817
   ],
   "jp": "{voice:005718}…なるほど。{n}それがお前の狙いだったのか。",
-  "en": "",
-  "status": ""
+  "en": "...I see. So that was your aim.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A724",
@@ -3780,8 +3780,8 @@
    68843
   ],
   "jp": "{voice:005818}…なに？",
-  "en": "",
-  "status": ""
+  "en": "...What?",
+  "status": "done"
  },
  {
   "id": "event_2203_0A731",
@@ -3792,8 +3792,8 @@
    68960
   ],
   "jp": "{voice:005918}くそっ、体中が痛いぜ。{n}ガーロット、チッ、この傷は{n}お前達が付けたのか？",
-  "en": "",
-  "status": ""
+  "en": "Damn, my whole body hurts. Garlot, tch, did you give me these wounds?",
+  "status": "done"
  },
  {
   "id": "event_2203_0A77C",
@@ -3804,8 +3804,8 @@
    68981
   ],
   "jp": "{voice:005A18}ば、バカな…{n}自我と理性を、取り戻したと、{n}そんな事があるというのですか？",
-  "en": "",
-  "status": ""
+  "en": "I-Impossible... You've regained your self and your reason? How can that be?",
+  "status": "done"
  },
  {
   "id": "event_2203_0A7C9",
@@ -3816,8 +3816,8 @@
    69002
   ],
   "jp": "{voice:005B18}フン…、お前に操られるのは、{n}気に喰わんからな。{n}跳ねとばしてやったまでだ。",
-  "en": "",
-  "status": ""
+  "en": "Hmph... I don't care to be controlled by you. So I threw you off, that's all.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A818",
@@ -3828,8 +3828,8 @@
    69020
   ],
   "jp": "{voice:005C18}陛下…、よくぞ……",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty... Well done...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A82F",
@@ -3840,8 +3840,8 @@
    69038
   ],
   "jp": "{voice:005D18}困った人達ですね、まったく…{n}まぁ、良いでしょう。{n}フフフ…",
-  "en": "",
-  "status": ""
+  "en": "What troublesome people you are, honestly... Ah well, no matter. Hehehe...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A86E",
@@ -3852,8 +3852,8 @@
    69059
   ],
   "jp": "{voice:005E18}再戦の機会は、又に……{n}私は、もう一度死にましょう…",
-  "en": "",
-  "status": ""
+  "en": "We'll have our rematch another time... I shall die once more...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A8A6",
@@ -3864,8 +3864,8 @@
    69276
   ],
   "jp": "{voice:005F18}……終わったのですか？",
-  "en": "",
-  "status": ""
+  "en": "...Is it over?",
+  "status": "done"
  },
  {
   "id": "event_2203_0A8C1",
@@ -3876,8 +3876,8 @@
    69294
   ],
   "jp": "{voice:006018}そうとは思えない……{n}以前も確かに殺したのだ。",
-  "en": "",
-  "status": ""
+  "en": "I can't believe it is... We did kill him before, after all.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A8F3",
@@ -3888,8 +3888,8 @@
    69312
   ],
   "jp": "{voice:006118}殺しても死なない男か…{n}その時点で理解不能だしな。",
-  "en": "",
-  "status": ""
+  "en": "A man who won't die when you kill him... That alone is beyond understanding.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A929",
@@ -3900,8 +3900,8 @@
    69330
   ],
   "jp": "{voice:006218}…ネシアは不死身なのか？",
-  "en": "",
-  "status": ""
+  "en": "...Is Nessiah immortal?",
+  "status": "done"
  },
  {
   "id": "event_2203_0A946",
@@ -3912,8 +3912,8 @@
    69348
   ],
   "jp": "{voice:006318}ネシアの持つ力がどの程度か、{n}全く分からない。",
-  "en": "",
-  "status": ""
+  "en": "I have no idea how great Nessiah's power is.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A978",
@@ -3924,8 +3924,8 @@
    69355
   ],
   "jp": "{voice:006418}ただ、奴は気になる言葉を{n}いくつか遺していった。",
-  "en": "",
-  "status": ""
+  "en": "However, he left behind some words that concern me.",
+  "status": "done"
  },
  {
   "id": "event_2203_0A9AC",
@@ -3936,8 +3936,8 @@
    69362
   ],
   "jp": "{voice:006518}聖剣グラン・センチュリオ…{n}血みどろの争い…{n}そして、復讐…",
-  "en": "",
-  "status": ""
+  "en": "The Holy Sword, Gran Centurio... A bloody war... And revenge...",
+  "status": "done"
  },
  {
   "id": "event_2203_0A9EB",
@@ -3946,8 +3946,8 @@
   "kind": "unref",
   "slots": [],
   "jp": "{voice:006618}そうだな、戦いを続け、{n}聖剣に力を蓄えると……",
-  "en": "",
-  "status": ""
+  "en": "Yes, keep up the war, and store up power in the Holy Sword...",
+  "status": "done"
  },
  {
   "id": "event_2203_0AA1D",
@@ -3958,8 +3958,8 @@
    69437
   ],
   "jp": "{voice:006718}ネシアは戦乱を望んでいる。{n}それは、前にも言っていた事だ。",
-  "en": "",
-  "status": ""
+  "en": "Nessiah wants war. He said that before too.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AA5B",
@@ -3970,8 +3970,8 @@
    69455
   ],
   "jp": "{voice:006818}恐らくその聖剣は、{n}争いで人が死ぬ事によって{n}力を蓄えていくのだろう。",
-  "en": "",
-  "status": ""
+  "en": "Most likely, that Holy Sword builds up power through people dying in war.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AAA4",
@@ -3982,8 +3982,8 @@
    69462
   ],
   "jp": "{voice:006918}そして、その聖剣に溜まった{n}力で、何かを成そうとしている。",
-  "en": "",
-  "status": ""
+  "en": "And he means to do something with the power stored in that Holy Sword.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AAE2",
@@ -3994,8 +3994,8 @@
    69469
   ],
   "jp": "{voice:006A18}話を戻そう。{n}ネシアは本当に不死身なのか？",
-  "en": "",
-  "status": ""
+  "en": "To return to the point. Is Nessiah truly immortal?",
+  "status": "done"
  },
  {
   "id": "event_2203_0AB10",
@@ -4006,8 +4006,8 @@
    69476
   ],
   "jp": "{voice:006B18}あるいは…、{n}不死身と間違うほどの力を、{n}どこから得ているのか？",
-  "en": "",
-  "status": ""
+  "en": "Or else... Where does he get power great enough to be mistaken for immortality?",
+  "status": "done"
  },
  {
   "id": "event_2203_0AB53",
@@ -4018,8 +4018,8 @@
    69494
   ],
   "jp": "{voice:006C18}待ってください、つまり{n}その聖剣に溜まった力を使って{n}復活しているという事ですか？",
-  "en": "",
-  "status": ""
+  "en": "Wait, are you saying he comes back to life using the power stored in that Holy Sword?",
+  "status": "done"
  },
  {
   "id": "event_2203_0ABA8",
@@ -4030,8 +4030,8 @@
    69512
   ],
   "jp": "{voice:006D18}仮説に過ぎないが。",
-  "en": "",
-  "status": ""
+  "en": "It is only a theory.",
+  "status": "done"
  },
  {
   "id": "event_2203_0ABBF",
@@ -4042,8 +4042,8 @@
    69530
   ],
   "jp": "{voice:006E18}もしそれが本当なら、{n}聖剣ある限り、ネシアを倒すのは{n}不可能になるのか？",
-  "en": "",
-  "status": ""
+  "en": "If that's true, as long as the Holy Sword exists, beating Nessiah's impossible?",
+  "status": "done"
  },
  {
   "id": "event_2203_0AC0A",
@@ -4054,8 +4054,8 @@
    69657
   ],
   "jp": "{voice:006F18}…話を割って悪いが、{n}聖剣グラン・センチュリオとは{n}この、私の剣の事だ。",
-  "en": "",
-  "status": ""
+  "en": "...Forgive me for interrupting, but the Holy Sword, Gran Centurio, is this sword of mine.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AC55",
@@ -4066,8 +4066,8 @@
    69675
   ],
   "jp": "{voice:007018}そのでっかい剣が？",
-  "en": "",
-  "status": ""
+  "en": "That huge thing?",
+  "status": "done"
  },
  {
   "id": "event_2203_0AC6C",
@@ -4078,8 +4078,8 @@
    69693
   ],
   "jp": "{voice:007118}戦乱が起きるのを見過ごせない…{n}その意見は、私も同じだ。",
-  "en": "",
-  "status": ""
+  "en": "We cannot stand by and let war break out... I agree with you on that.",
+  "status": "done"
  },
  {
   "id": "event_2203_0ACA8",
@@ -4090,8 +4090,8 @@
    69700
   ],
   "jp": "{voice:007218}…もし今の君達の話が真実ならば、{n}この聖剣は永遠に封印される{n}べきなのだろう。",
-  "en": "",
-  "status": ""
+  "en": "...If what you say is true, this Holy Sword should be sealed away forever.",
+  "status": "done"
  },
  {
   "id": "event_2203_0ACF9",
@@ -4102,8 +4102,8 @@
    69707
   ],
   "jp": "{voice:007318}だがグラン・センチュリオは、{n}王国に代々伝わる象徴的な聖剣だ。",
-  "en": "",
-  "status": ""
+  "en": "But the Gran Centurio is a Holy Sword handed down in the Kingdom for generations, its very symbol.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AD3B",
@@ -4114,8 +4114,8 @@
    69714
   ],
   "jp": "{voice:007418}そう簡単に封印というわけには…",
-  "en": "",
-  "status": ""
+  "en": "I cannot simply seal it away...",
+  "status": "done"
  },
  {
   "id": "event_2203_0AD5E",
@@ -4126,8 +4126,8 @@
    69732
   ],
   "jp": "{voice:007518}条件次第という事だな。",
-  "en": "",
-  "status": ""
+  "en": "So it depends on the terms.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AD79",
@@ -4138,8 +4138,8 @@
    69849
   ],
   "jp": "{voice:007618}では、こうしよう。{n}今回の戦災の責を負い、{n}俺は皇帝の座から退位する。",
-  "en": "",
-  "status": ""
+  "en": "Then here is what we'll do. I'll take the blame for this war's damage, and step down from the throne.",
+  "status": "done"
  },
  {
   "id": "event_2203_0ADC2",
@@ -4150,8 +4150,8 @@
    69870
   ],
   "jp": "{voice:007718}陛下③",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty!?",
+  "status": "done"
  },
  {
   "id": "event_2203_0ADCD",
@@ -4162,8 +4162,8 @@
    69891
   ],
   "jp": "{voice:007818}しょ、正気ですか③",
-  "en": "",
-  "status": ""
+  "en": "A-Are you in your right mind!?",
+  "status": "done"
  },
  {
   "id": "event_2203_0ADE4",
@@ -4174,8 +4174,8 @@
    69909
   ],
   "jp": "{voice:007918}操られていたとはいえ、{n}俺はオルディーン王の命を{n}取ろうとしたのだ。",
-  "en": "",
-  "status": ""
+  "en": "Controlled or not, I tried to take King Ordene's life.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AE2B",
@@ -4186,8 +4186,8 @@
    69927
   ],
   "jp": "{voice:007A18}そのくらいで済むなら、{n}俺は構わん。",
-  "en": "",
-  "status": ""
+  "en": "If that's all it takes, I don't mind.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AE53",
@@ -4198,8 +4198,8 @@
    69945
   ],
   "jp": "{voice:007B18}しかし…、ブロンキア帝国は{n}どうなるのですか？{n}帝位継承者もいないのに…",
-  "en": "",
-  "status": ""
+  "en": "But... What will become of the Bronquia Empire? There is no heir to the throne...",
+  "status": "done"
  },
  {
   "id": "event_2203_0AE9E",
@@ -4210,8 +4210,8 @@
    69963
   ],
   "jp": "{voice:007C18}政事を取り仕切れる逸材が{n}そこにいるではないか。",
-  "en": "",
-  "status": ""
+  "en": "There's a talented man right there, who can run the government.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AED2",
@@ -4222,8 +4222,8 @@
    69970
   ],
   "jp": "{voice:007D18}なあ、ヴェルマン。",
-  "en": "",
-  "status": ""
+  "en": "Isn't that right, Velleman.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AEE9",
@@ -4234,8 +4234,8 @@
    70059
   ],
   "jp": "{voice:007E18}……は？",
-  "en": "",
-  "status": ""
+  "en": "...What?",
+  "status": "done"
  },
  {
   "id": "event_2203_0AEF6",
@@ -4246,8 +4246,8 @@
    70080
   ],
   "jp": "{voice:007F18}私…がですか？",
-  "en": "",
-  "status": ""
+  "en": "Me... you mean?",
+  "status": "done"
  },
  {
   "id": "event_2203_0AF09",
@@ -4258,8 +4258,8 @@
    70098
   ],
   "jp": "{voice:008018}遠縁の幼い甥を担ぎ出そう。{n}反対勢力は俺が抑える。",
-  "en": "",
-  "status": ""
+  "en": "We'll put forward a young nephew, a distant relation. I'll keep the opposition down.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AF3F",
@@ -4270,8 +4270,8 @@
    70105
   ],
   "jp": "{voice:008118}そして、お前が宰相をやればいい。",
-  "en": "",
-  "status": ""
+  "en": "And you can be Chancellor.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AF64",
@@ -4282,8 +4282,8 @@
    70112
   ],
   "jp": "{voice:008218}それでどうだ？{n}オルディーン王よ。",
-  "en": "",
-  "status": ""
+  "en": "How's that? King Ordene.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AF8A",
@@ -4294,8 +4294,8 @@
    70130
   ],
   "jp": "{voice:008318}……分かった。{n}急ぎ王都に使いの者を送ろう。",
-  "en": "",
-  "status": ""
+  "en": "...Very well. I shall send a messenger to the royal capital with all speed.",
+  "status": "done"
  },
  {
   "id": "event_2203_0AFBA",
@@ -4306,8 +4306,8 @@
    70137
   ],
   "jp": "{voice:008418}いつあの男が復活するか{n}わからぬのなら、{n}早急に進めるべきだろうな。",
-  "en": "",
-  "status": ""
+  "en": "Since we don't know when that man will return, we should move quickly.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B001",
@@ -4318,8 +4318,8 @@
    70494
   ],
   "jp": "{voice:008518}陛下…{n}本当によろしいのですか？",
-  "en": "",
-  "status": ""
+  "en": "Your Majesty... Are you really sure about this?",
+  "status": "done"
  },
  {
   "id": "event_2203_0B025",
@@ -4330,8 +4330,8 @@
    70512
   ],
   "jp": "{voice:008618}俺は皇位についてから、{n}ずっと霧の中にいるような{n}気がしていた。",
-  "en": "",
-  "status": ""
+  "en": "Ever since I took the throne, I've felt as if I were in a fog.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B068",
@@ -4342,8 +4342,8 @@
    70519
   ],
   "jp": "{voice:008718}俺が政を行っていたのではない。{n}恐らく魔竜の血が、そうさせて{n}いたのだろう。",
-  "en": "",
-  "status": ""
+  "en": "I wasn't the one running the government. Most likely, the demon dragon's blood made me do it.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B0B7",
@@ -4354,8 +4354,8 @@
    70537
   ],
   "jp": "{voice:008818}その代わりに、歴代皇帝も俺も{n}大いなる覇の意志と武の力を{n}与えられてきたのだ。",
-  "en": "",
-  "status": ""
+  "en": "In return, the past Emperors and I were given a great will to dominate, and martial power.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B108",
@@ -4366,8 +4366,8 @@
    70555
   ],
   "jp": "{voice:008918}だから、{n}ブロンキア帝国は強かったのだ。",
-  "en": "",
-  "status": ""
+  "en": "That's why the Bronquia Empire was strong.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B134",
@@ -4378,8 +4378,8 @@
    70573
   ],
   "jp": "{voice:008A18}しかし、そろそろ人間は{n}そう言う呪縛から解き放たれても{n}よいのかもしれない。",
-  "en": "",
-  "status": ""
+  "en": "But maybe it's about time humans were set free from that curse.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B183",
@@ -4390,8 +4390,8 @@
    58693
   ],
   "jp": "ネシアに操られるとはな。{n}つくづく見下げた皇帝だな……",
-  "en": "",
-  "status": ""
+  "en": "Getting controlled by Nessiah. You really are a contemptible Emperor...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B1B9",
@@ -4402,8 +4402,8 @@
    58711
   ],
   "jp": "黙れ、黙れ！{n}俺は操られてなどいない②",
-  "en": "",
-  "status": ""
+  "en": "Shut up, shut up! I'm not being controlled!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B1DF",
@@ -4414,8 +4414,8 @@
    58909
   ],
   "jp": "嫌な男だとは思っていたけどさ。{n}もうホント、無様だよ。",
-  "en": "",
-  "status": ""
+  "en": "I always thought you were a nasty guy. But this is just pathetic.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B215",
@@ -4426,8 +4426,8 @@
    58927
   ],
   "jp": "ほざいていろ！　小娘②",
-  "en": "",
-  "status": ""
+  "en": "Babble on, little girl!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B22C",
@@ -4438,8 +4438,8 @@
    59125
   ],
   "jp": "いい加減に、目を覚ませ！",
-  "en": "",
-  "status": ""
+  "en": "Wake up already!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B245",
@@ -4450,8 +4450,8 @@
    59143
   ],
   "jp": "何を言っている！{n}俺の目は見開かれているぞ②",
-  "en": "",
-  "status": ""
+  "en": "What are you saying! My eyes are wide open!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B271",
@@ -4462,8 +4462,8 @@
    59348
   ],
   "jp": "このまま皇帝を放置すれば、{n}王国を攻め滅ぼすべく{n}兵を挙げたはず……",
-  "en": "",
-  "status": ""
+  "en": "If I leave the Emperor like this, he would raise an army to destroy the Kingdom...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B2B4",
@@ -4474,8 +4474,8 @@
    59355
   ],
   "jp": "しかし、{n}私はそれを止めようとしてる……",
-  "en": "",
-  "status": ""
+  "en": "And yet I am trying to stop that...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B2DC",
@@ -4486,8 +4486,8 @@
    59373
   ],
   "jp": "間接的に王国を守る事をして、{n}これで本当にいいの？",
-  "en": "",
-  "status": ""
+  "en": "Indirectly protecting the Kingdom, is this really all right?",
+  "status": "done"
  },
  {
   "id": "event_2203_0B30E",
@@ -4498,8 +4498,8 @@
    59391
   ],
   "jp": "何をぶつぶつ言っている。{n}戦いに迷いなど、必要ない②",
-  "en": "",
-  "status": ""
+  "en": "What are you muttering about? There's no place for doubt in battle!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B342",
@@ -4510,8 +4510,8 @@
    59409
   ],
   "jp": "確かにそう……{n}迷っている余裕などありません…",
-  "en": "",
-  "status": ""
+  "en": "That is true... I have no room to hesitate...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B370",
@@ -4522,8 +4522,8 @@
    59621
   ],
   "jp": "皇帝よ、いろいろ辛いんだろ？{n}肩揉んでやろうか？{n}こってんだろ？　皇帝だけに…",
-  "en": "",
-  "status": ""
+  "en": "Emperor, things are hard, no? Shall Byff rub your shoulders? You are the Em-pressure, after all...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B3BD",
@@ -4546,8 +4546,8 @@
    59657
   ],
   "jp": "わかりづらかったな。{n}死ぬか？　これは？",
-  "en": "",
-  "status": ""
+  "en": "That was hard to get. Does Byff die for this?",
+  "status": "done"
  },
  {
   "id": "event_2203_0B3F4",
@@ -4558,8 +4558,8 @@
    59675
   ],
   "jp": "今ここで死ね！",
-  "en": "",
-  "status": ""
+  "en": "Die here and now!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B403",
@@ -4570,8 +4570,8 @@
    59880
   ],
   "jp": "俺の覇業の邪魔をするならば{n}容赦はしない！",
-  "en": "",
-  "status": ""
+  "en": "If you get in the way of my conquest, I'll show no mercy!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B42D",
@@ -4582,8 +4582,8 @@
    59898
   ],
   "jp": "結構な事ね……{n}まぁ、言ってなさい。",
-  "en": "",
-  "status": ""
+  "en": "That's just great... Well, keep talking.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B451",
@@ -4594,8 +4594,8 @@
    60096
   ],
   "jp": "戦いに胸が沸き上がる②{n}戦争だ！　戦争が始まるのだ②",
-  "en": "",
-  "status": ""
+  "en": "Battle makes my heart surge!! War! The war begins!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B485",
@@ -4606,8 +4606,8 @@
    60114
   ],
   "jp": "これ以上の戦いは、{n}俺達が絶対に止めてやるさ！",
-  "en": "",
-  "status": ""
+  "en": "We'll stop any more fightin', no matter what!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B4B3",
@@ -4618,8 +4618,8 @@
    60305
   ],
   "jp": "ヒック……{n}なにがどうなっているのやら……",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... What's goin' on here, I wonder...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B4DD",
@@ -4630,8 +4630,8 @@
    60496
   ],
   "jp": "逆らう者は斬り捨てる！{n}覚悟のある奴だけ前に出ろ②",
-  "en": "",
-  "status": ""
+  "en": "I cut down all who oppose me! Only those who are ready, step forward!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B50F",
@@ -4642,8 +4642,8 @@
    60514
   ],
   "jp": "うほっ！　超・悪・党・面②{n}この面構えじゃあ、{n}悪巧みするのも当然だわさ☆",
-  "en": "",
-  "status": ""
+  "en": "Whoa! What a su-per-vil-lain face!! With a mug like that, of course you'd be up to no good☆",
+  "status": "done"
  },
  {
   "id": "event_2203_0B558",
@@ -4654,8 +4654,8 @@
    60757
   ],
   "jp": "あらあら、渋みがありし男前。{n}なかなかのど真ん中直球ですわね。{n}これでお強いならば……",
-  "en": "",
-  "status": ""
+  "en": "Oh my, a mature, handsome man. A pitch right down the middle. And if he is strong too...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B5AD",
@@ -4666,8 +4666,8 @@
    60806
   ],
   "jp": "あぁ…、{n}私の身体の女の部分が{n}熱くなってくるのを感じますわ。",
-  "en": "",
-  "status": ""
+  "en": "Ah... I feel the woman in me growing warm.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B5EA",
@@ -4678,8 +4678,8 @@
    60905
   ],
   "jp": "おいおい！　待ちやがれ②{n}俺と燃えるような熱いバトルを{n}繰り広げようぜ！",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey! Hold it right there!! Let's you and me have a burnin' hot battle!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B631",
@@ -4690,8 +4690,8 @@
    60923
   ],
   "jp": "ククク、戦い！{n}さあ、お前の血を見せてみよ②",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh, battle! Now, show me your blood!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B65D",
@@ -4702,8 +4702,8 @@
    61127
   ],
   "jp": "止めてみせる、絶対……",
-  "en": "",
-  "status": ""
+  "en": "I will stop you. No matter what...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B674",
@@ -4714,8 +4714,8 @@
    61145
   ],
   "jp": "その細き腕で、止められるのか？",
-  "en": "",
-  "status": ""
+  "en": "You think you can stop me with those skinny arms?",
+  "status": "done"
  },
  {
   "id": "event_2203_0B693",
@@ -4726,8 +4726,8 @@
    61343
   ],
   "jp": "見知った顔が来たな…{n}今さら復讐のつもりか、レオン？",
-  "en": "",
-  "status": ""
+  "en": "A familiar face... Here for revenge at this late date, Leon?",
+  "status": "done"
  },
  {
   "id": "event_2203_0B6C7",
@@ -4738,8 +4738,8 @@
    61361
   ],
   "jp": "復讐？　ふざけるな！{n}俺は戦いが好きなんだよ②",
-  "en": "",
-  "status": ""
+  "en": "Revenge? Don't make me laugh! I just like fighting!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B6F5",
@@ -4750,8 +4750,8 @@
    61559
   ],
   "jp": "お前が俺を阻むというのか。{n}面白いな……",
-  "en": "",
-  "status": ""
+  "en": "So you mean to stand in my way. How interesting...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B71D",
@@ -4762,8 +4762,8 @@
    61577
   ],
   "jp": "完全に、ネシアの術中にあります。{n}止めなければ……",
-  "en": "",
-  "status": ""
+  "en": "He is completely under Nessiah's spell. We must stop him...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B74F",
@@ -4774,8 +4774,8 @@
    62121
   ],
   "jp": "呆れるな、その程度の剣で、{n}世界を獲れると思っているのか？",
-  "en": "",
-  "status": ""
+  "en": "Unbelievable. You think you can take the world with a sword like that?",
+  "status": "done"
  },
  {
   "id": "event_2203_0B789",
@@ -4786,8 +4786,8 @@
    62139
   ],
   "jp": "ほざけ……、下郎が。",
-  "en": "",
-  "status": ""
+  "en": "Babble on... you lowlife.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B79E",
@@ -4798,8 +4798,8 @@
    62180
   ],
   "jp": "皇帝の双剣捌きは相当なものだ。{n}隙をまだ、見いだせない……",
-  "en": "",
-  "status": ""
+  "en": "The Emperor's skill with those twin swords is really something. I still can't find an opening...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B7D8",
@@ -4810,8 +4810,8 @@
    62198
   ],
   "jp": "グラムブレイズ！{n}まみえるのを楽しみにしていたが、{n}これほどの力しかないとはな。",
-  "en": "",
-  "status": ""
+  "en": "Gram Blaze! I was looking forward to meeting you, but you're only this strong.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B827",
@@ -4822,8 +4822,8 @@
    62394
   ],
   "jp": "私の放つ矢には、{n}圧政で虐げられてきた{n}みんなの思いがこもってる……",
-  "en": "",
-  "status": ""
+  "en": "The arrows I shoot carry the feelings of everyone beaten down by your tyranny...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B86A",
@@ -4834,8 +4834,8 @@
    62412
   ],
   "jp": "その思いを、{n}痛みとして受け取りなさい！",
-  "en": "",
-  "status": ""
+  "en": "So take those feelings, as pain!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B892",
@@ -4846,8 +4846,8 @@
    62430
   ],
   "jp": "言いたい事は、それだけか？",
-  "en": "",
-  "status": ""
+  "en": "Is that all you have to say?",
+  "status": "done"
  },
  {
   "id": "event_2203_0B8AD",
@@ -4858,8 +4858,8 @@
    62513
   ],
   "jp": "どうだ！　俺の力ならば、{n}世界征服など容易き事よ②",
-  "en": "",
-  "status": ""
+  "en": "How's that! With my power, conquering the world is easy!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B8DF",
@@ -4870,8 +4870,8 @@
    62531
   ],
   "jp": "征服してどうするの？{n}その後は③",
-  "en": "",
-  "status": ""
+  "en": "And what'll you do after conquering it? After that!?",
+  "status": "done"
  },
  {
   "id": "event_2203_0B8FF",
@@ -4882,8 +4882,8 @@
    62549
   ],
   "jp": "その後は…、ウグッ……",
-  "en": "",
-  "status": ""
+  "en": "After that... Ugh...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B916",
@@ -4894,8 +4894,8 @@
    62567
   ],
   "jp": "その野望、{n}ネシアの術で言わされているって、{n}まだわからないの？",
-  "en": "",
-  "status": ""
+  "en": "Don't you get it yet? Nessiah's spell is making you say all that about your ambition.",
+  "status": "done"
  },
  {
   "id": "event_2203_0B955",
@@ -4906,8 +4906,8 @@
    62763
   ],
   "jp": "この刃筋、勇猛なる攻勢……{n}受ける度に血が沸き、踊る！",
-  "en": "",
-  "status": ""
+  "en": "These sword strokes, this bold attack... With every one I take, my blood boils and dances!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B98B",
@@ -4918,8 +4918,8 @@
    62770
   ],
   "jp": "まだ、戦いは始まったばかりだ。{n}クククク……",
-  "en": "",
-  "status": ""
+  "en": "The battle has only just begun. Heh heh heh heh...",
+  "status": "done"
  },
  {
   "id": "event_2203_0B9B7",
@@ -4930,8 +4930,8 @@
    62811
   ],
   "jp": "打ち込みが、速いッ②",
-  "en": "",
-  "status": ""
+  "en": "Such fast blows!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B9CC",
@@ -4942,8 +4942,8 @@
    62829
   ],
   "jp": "皇帝の武、その身に刻み！{n}恐怖と変えるがいい②",
-  "en": "",
-  "status": ""
+  "en": "Let the Emperor's might carve itself into you! And turn into terror!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0B9FA",
@@ -4954,8 +4954,8 @@
    63025
   ],
   "jp": "私の中で何かが変わっている……{n}復讐よりも大切なものを{n}みつけ出せたのかもしれない。",
-  "en": "",
-  "status": ""
+  "en": "Something is changing inside me... Perhaps I have found something more precious than revenge.",
+  "status": "done"
  },
  {
   "id": "event_2203_0BA4D",
@@ -4966,8 +4966,8 @@
    63043
   ],
   "jp": "やるなッ、グラムブレイズ②",
-  "en": "",
-  "status": ""
+  "en": "Not bad, Gram Blaze!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BA68",
@@ -4978,8 +4978,8 @@
    63061
   ],
   "jp": "そうか…、そうなのよね。{n}私は、グラムブレイズ一員。{n}振り返れば、常に仲間がいる。",
-  "en": "",
-  "status": ""
+  "en": "I see... Yes, of course. I am a member of Gram Blaze. Look back, and my comrades are always there.",
+  "status": "done"
  },
  {
   "id": "event_2203_0BAB9",
@@ -4990,8 +4990,8 @@
    63102
   ],
   "jp": "何をしている？{n}動揺が剣に出ているぞ。",
-  "en": "",
-  "status": ""
+  "en": "What are you doing? Your doubt is showing in your sword.",
+  "status": "done"
  },
  {
   "id": "event_2203_0BADF",
@@ -5002,8 +5002,8 @@
    63120
   ],
   "jp": "迷いを絶たなければ……",
-  "en": "",
-  "status": ""
+  "en": "I must cut off my hesitation...",
+  "status": "done"
  },
  {
   "id": "event_2203_0BAF6",
@@ -5014,8 +5014,8 @@
    63316
   ],
   "jp": "しかし、複雑な要塞だ。{n}よう最後まで諦めずに造ったな。{n}ようさいだけに！　なんつって！",
-  "en": "",
-  "status": ""
+  "en": "Such a complicated fortress. It took fort-itude to finish. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BB4B",
@@ -5026,8 +5026,8 @@
    63334
   ],
   "jp": "余裕だな、獣人よ……",
-  "en": "",
-  "status": ""
+  "en": "You have time to spare, beast-man...",
+  "status": "done"
  },
  {
   "id": "event_2203_0BB60",
@@ -5038,8 +5038,8 @@
    63375
   ],
   "jp": "双剣は戦うモノではない。{n}国に貢献するものだ……{n}そうけんでこうけん、なんつって！",
-  "en": "",
-  "status": ""
+  "en": "Twin swords are not for fighting. They are for your kingdom's sword-vice. Ha, just kidding!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BBB1",
@@ -5050,8 +5050,8 @@
    63393
   ],
   "jp": "余裕だな、獣人……",
-  "en": "",
-  "status": ""
+  "en": "You have time to spare, beast-man...",
+  "status": "done"
  },
  {
   "id": "event_2203_0BBC4",
@@ -5062,8 +5062,8 @@
    63589
   ],
   "jp": "私にも勝てやしないで、{n}世界征服なんて、よく言えるわね。",
-  "en": "",
-  "status": ""
+  "en": "You can't even beat me, and you talk about conquering the world?",
+  "status": "done"
  },
  {
   "id": "event_2203_0BBFC",
@@ -5074,8 +5074,8 @@
    63607
   ],
   "jp": "ククク……{n}挑発のつもりか？　小娘。",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh... Is that meant to provoke me? Little girl.",
+  "status": "done"
  },
  {
   "id": "event_2203_0BC20",
@@ -5086,8 +5086,8 @@
    63648
   ],
   "jp": "流石ね。{n}その強さ、バルドゥス将軍にも{n}劣らないわ。",
-  "en": "",
-  "status": ""
+  "en": "Impressive. That strength doesn't fall short of General Baldus's.",
+  "status": "done"
  },
  {
   "id": "event_2203_0BC53",
@@ -5098,8 +5098,8 @@
    63666
   ],
   "jp": "バルドゥスの本質は守りだが、{n}俺の本質は攻めだ！",
-  "en": "",
-  "status": ""
+  "en": "Baldus's essence is defense, but mine is attack!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BC83",
@@ -5110,8 +5110,8 @@
    63862
   ],
   "jp": "おのれ…、邪魔はさせん！",
-  "en": "",
-  "status": ""
+  "en": "Curse you... I won't let you interfere!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BC9C",
@@ -5122,8 +5122,8 @@
    63880
   ],
   "jp": "オイラが止めるって言っただろ。",
-  "en": "",
-  "status": ""
+  "en": "I told ya I'd stop you.",
+  "status": "done"
  },
  {
   "id": "event_2203_0BCBB",
@@ -5134,8 +5134,8 @@
    63921
   ],
   "jp": "ちぃっ②",
-  "en": "",
-  "status": ""
+  "en": "Tch!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BCC4",
@@ -5146,8 +5146,8 @@
    63939
   ],
   "jp": "脆弱だな、凡人風情が！{n}そこで這いつくばっていろ……",
-  "en": "",
-  "status": ""
+  "en": "So frail, you common trash! Crawl there on the ground...",
+  "status": "done"
  },
  {
   "id": "event_2203_0BCF8",
@@ -5158,8 +5158,8 @@
    64128
   ],
   "jp": "っていうか、アンタ誰？{n}で、ここはドコ？　ヒック…",
-  "en": "",
-  "status": ""
+  "en": "Wait, who're you? And where's this? *hic*...",
+  "status": "done"
  },
  {
   "id": "event_2203_0BD2A",
@@ -5170,8 +5170,8 @@
    64169
   ],
   "jp": "超人的な体さばきだが、{n}俺には見切れるぞ！",
-  "en": "",
-  "status": ""
+  "en": "Superhuman moves, but I can read them!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BD54",
@@ -5182,8 +5182,8 @@
    64187
   ],
   "jp": "ヒック……、なんだよ、それ…",
-  "en": "",
-  "status": ""
+  "en": "*Hic*... What's that supposed to mean...",
+  "status": "done"
  },
  {
   "id": "event_2203_0BD71",
@@ -5194,8 +5194,8 @@
    64376
   ],
   "jp": "なんだ、この魔術……{n}隙が見あたらない！",
-  "en": "",
-  "status": ""
+  "en": "What is this magic... I can't find an opening!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BD99",
@@ -5206,8 +5206,8 @@
    64394
   ],
   "jp": "ムフフのフ☆{n}皇帝がこの程度の強さでしょ。{n}もう帝国って終り？　みたいな。",
-  "en": "",
-  "status": ""
+  "en": "Mufufu☆ If the Emperor's only this strong, the Empire must be finished, right?",
+  "status": "done"
  },
  {
   "id": "event_2203_0BDE2",
@@ -5218,8 +5218,8 @@
    64435
   ],
   "jp": "フン、この程度か。",
-  "en": "",
-  "status": ""
+  "en": "Hmph, is that all.",
+  "status": "done"
  },
  {
   "id": "event_2203_0BDF5",
@@ -5230,8 +5230,8 @@
    64453
   ],
   "jp": "ムキィ～！{n}ちょっとちょっと！{n}調子に乗りすぎじゃない③",
-  "en": "",
-  "status": ""
+  "en": "Grrrr! Hey, hey! Aren't you getting way too full of yourself!?",
+  "status": "done"
  },
  {
   "id": "event_2203_0BE2C",
@@ -5242,8 +5242,8 @@
    64680
   ],
   "jp": "あらあら、残念ですわね。{n}徹底的に『強さ』が足りませんわ。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, what a shame. You are thoroughly lacking in \"strength.\"",
+  "status": "done"
  },
  {
   "id": "event_2203_0BE66",
@@ -5254,8 +5254,8 @@
    64873
   ],
   "jp": "ほう、やるではないか…",
-  "en": "",
-  "status": ""
+  "en": "Well, you're not bad...",
+  "status": "done"
  },
  {
   "id": "event_2203_0BE7D",
@@ -5266,8 +5266,8 @@
    64922
   ],
   "jp": "アンタもなかなかだぜ！{n}熱いケンカ、しようじゃねぇか②",
-  "en": "",
-  "status": ""
+  "en": "You're pretty good yourself! Let's have a hot brawl!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BEB3",
@@ -5278,8 +5278,8 @@
    64773
   ],
   "jp": "あらあら、お強いですわね。{n}しかし、どうやら自身の力では{n}無い様子。",
-  "en": "",
-  "status": ""
+  "en": "Oh my, you are strong. However, that strength does not seem to be your own.",
+  "status": "done"
  },
  {
   "id": "event_2203_0BEF6",
@@ -5290,8 +5290,8 @@
    64780
   ],
   "jp": "やはり、誰かに操られているのは{n}事実のようで。",
-  "en": "",
-  "status": ""
+  "en": "It seems it is true that someone is controlling you.",
+  "status": "done"
  },
  {
   "id": "event_2203_0BF24",
@@ -5302,8 +5302,8 @@
    64798
   ],
   "jp": "黙れ！{n}俺は誰にも操られてなどいない②",
-  "en": "",
-  "status": ""
+  "en": "Shut up! Nobody's controlling me!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BF4A",
@@ -5314,8 +5314,8 @@
    65022
   ],
   "jp": "つえぇな、皇帝！{n}ガンガン燃えてきたぜ②",
-  "en": "",
-  "status": ""
+  "en": "You're strong, Emperor! I'm gettin' fired up real good!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BF72",
@@ -5326,8 +5326,8 @@
    65040
   ],
   "jp": "まだ力が残っているのか。{n}面白いぞッ②",
-  "en": "",
-  "status": ""
+  "en": "You still have strength left. How interesting!!",
+  "status": "done"
  },
  {
   "id": "event_2203_0BF98",
@@ -5338,8 +5338,8 @@
    65215
   ],
   "jp": "このような力が、どこに……",
-  "en": "",
-  "status": ""
+  "en": "Where does such power come from...",
+  "status": "done"
  },
  {
   "id": "event_2203_0BFB3",
@@ -5350,8 +5350,8 @@
    65284
   ],
   "jp": "研ぎ澄まされた動き……{n}お前、裏の世界の人間だな。",
-  "en": "",
-  "status": ""
+  "en": "Such honed movements... You're from the underworld, aren't you.",
+  "status": "done"
  },
  {
   "id": "event_2203_0BFE5",
@@ -5362,8 +5362,8 @@
    65302
   ],
   "jp": "かつては日の光を常としない{n}暗く深い常闇にいた。{n}光をくれたのは、あいつらだ。",
-  "en": "",
-  "status": ""
+  "en": "Once I lived in deep, endless dark, without the light of day. They are the ones who gave me light.",
+  "status": "done"
  },
  {
   "id": "event_2203_0C032",
@@ -5374,8 +5374,8 @@
    65320
   ],
   "jp": "あいつらと一緒にいれば、{n}私も光を掴めるかもしれない。{n}だから、私は……",
-  "en": "",
-  "status": ""
+  "en": "If I stay with them, I may be able to grasp the light too. So I...",
+  "status": "done"
  },
  {
   "id": "event_2203_0C079",
@@ -5386,8 +5386,8 @@
    65509
   ],
   "jp": "腕を上げたようだな。",
-  "en": "",
-  "status": ""
+  "en": "You've improved, I see.",
+  "status": "done"
  },
  {
   "id": "event_2203_0C08E",
@@ -5398,8 +5398,8 @@
    65527
   ],
   "jp": "当然の事を言うなよ……",
-  "en": "",
-  "status": ""
+  "en": "Don't state the obvious...",
+  "status": "done"
  },
  {
   "id": "event_2203_0C0A5",
@@ -5410,8 +5410,8 @@
    65596
   ],
   "jp": "くそっ、しくじったぜ……",
-  "en": "",
-  "status": ""
+  "en": "Damn, I messed up...",
+  "status": "done"
  },
  {
   "id": "event_2203_0C0BE",
@@ -5422,8 +5422,8 @@
    65614
   ],
   "jp": "それ程の武か……{n}ならば、次はないと知れ。",
-  "en": "",
-  "status": ""
+  "en": "Martial skill like that... Then know there won't be a next time.",
+  "status": "done"
  },
  {
   "id": "event_2203_0C0E8",
@@ -5434,8 +5434,8 @@
    65796
   ],
   "jp": "それごときか…、効かぬな。",
-  "en": "",
-  "status": ""
+  "en": "Is that all... It has no effect.",
+  "status": "done"
  },
  {
   "id": "event_2203_0C103",
@@ -5446,8 +5446,8 @@
    65814
   ],
   "jp": "ネシアの呪縛の力は、{n}相当なものです……",
-  "en": "",
-  "status": ""
+  "en": "The binding power of Nessiah's spell is considerable...",
+  "status": "done"
  },
  {
   "id": "event_2203_0C12B",
@@ -5458,8 +5458,8 @@
    65883
   ],
   "jp": "私は後悔しています。{n}あなたの呪手術に、{n}ネシアを同道させてしまった…",
-  "en": "",
-  "status": ""
+  "en": "I regret it. I let Nessiah come with me to your arcane surgery...",
+  "status": "done"
  },
  {
   "id": "event_2203_0C170",
@@ -5470,7 +5470,7 @@
    65901
   ],
   "jp": "まだ言うのか？{n}俺は操られてなどいない。",
-  "en": "",
-  "status": ""
+  "en": "You still say that? Nobody is controlling me.",
+  "status": "done"
  }
 ]
