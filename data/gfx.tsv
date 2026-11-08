@@ -120,10 +120,11 @@
 3@faa20	115,97,34,16	menu	:戻る	:Back
 3@faa20	0,113,88,15	menu	:ポイント振り分け	:Assign Points
 3@faa20	88,113,46,15	menu-r	勝利条件	Goals
-3@faa20	134,113,36,15	menu	マップ	Map
+3@faa20	134,113,2,15	menu	マップ	-
+3@faa20	136,113,34,15	menu	マップ	Map
 # Field labels atlas (English digits and words on it stay)
 3@403560	0,48,149,14	menu	非戦闘キャラクターです	Non-combat character
-3@403560	149,48,16,12	menu	士気	Morale
+3@403560	149,48,16,12	menu	士気	Mor.
 3@403560	116,102,50,15	panel-c	メニュー	Menu
 3@403560	0,168,177,30	banner	フィールドマップ確認中	Viewing Field Map
 3@403560	0,214,131,33	banner	ステータス確認中	Viewing Status
@@ -474,8 +475,10 @@
 3@373420	106,58,79,21	menu	部隊士気	Unit Morale
 3@373420	1,88,45,16	menu	能力差	Stat Gap
 3@373420	55,88,60,16	menu	地形効果	Terrain
+3@4607a0	102,1,4,19	menu	士気	-
 3@4607a0	106,1,34,19	menu	士気	Morale
-3@4607a0	142,0,37,17	menu	装備	Equip
+3@4607a0	142,0,4,17	menu	装備	-
+3@4607a0	146,0,33,17	menu	装備	Equip
 3@4607a0	142,17,37,14	menu	勝率	Win Rate
 # Small tags atlas 3@4768e0: terrain (left) and object (middle) tags of the Terrain and Object List screens, 23x15 each;
 # weapon kanji of the Weapon Types screen (right). Short single words: the full names are on the big terrain labels.
@@ -1429,7 +1432,7 @@
 2683@25b30	9,71,26,14	panel-y	装備	Equip
 2683@25b30	45,71,26,14	panel-y	回復	Heal
 2683@25b30	212,35,27,29	panel-c	装備無し	No\nItem
-2683@551c0	4,4,106,30	art	士気回復	-
+2683@551c0	4,0,108,34	art	士気回復	-
 2683@551c0	6,6,120,24	over	士気回復	Morale Recovery
 2687@260	4,4,106,26	art	装備選択	-
 2687@260	6,5,100,22	over	装備選択	Select Equipment
@@ -2227,24 +2230,29 @@
 2690@30	165,242,106,22	banner	歴史は夜、動く	History by Night
 2689@20	0,0,8,15	menu	残	-
 2689@20	8,0,108,15	menu	残された戦略は…	Tactics left...
+2689@20	0,15,48,20	menu	あと 枚	-
 2689@20	0,17,24,18	menu	あと	Left
-2689@20	28,17,20,18	menu	枚	cards
+2689@20	31,17,17,18	menu	枚	cards
 2690@13a50	19,14,34,14	panel-w	難易度	Difficulty
 2700@90ff0	18,1,50,21	menu	シーン回想	Scene Replay
 2700@90ff0	17,22,59,20	menu	表示切り替え	Display
 2700@90ff0	17,41,49,20	menu	ボイス再生	Voice
+2700@90ff0	66,41,3,20	menu	生	-
 2700@90ff0	106,41,22,20	menu	再生	Play
 2700@9c090	17,14,40,20	menu	本を開く	Open Book
+2700@9c090	17,34,40,3	menu	本を開く	-
 2700@9c090	0,38,105,22	menu	【ブレイズ戦記】	Blaze Chronicle
 2700@9c090	0,62,105,20	menu	【キャライラスト】	Character Art
 2700@9c090	0,84,105,21	menu	【カード図鑑】	Card Encyclopedia
 2700@9c090	0,107,105,21	menu	【アイテム図鑑】	Item Encyclopedia
 2700@9c090	0,130,105,21	menu	【サウンドモード】	Sound Mode
 2700@9c090	63,149,23,20	menu	選択	Select
+2700@9c090	63,169,24,3	menu	選択	-
+2700@9c090	86,149,1,20	menu	選択	-
 2700@9c090	116,19,124,38	note	遥かなる戦いの記憶が いま鮮やかに甦る…	Memories of distant wars return in vivid color...
-2700@9c090	116,57,124,38	note	私兵団と対峙する宿敵 そして頼れる仲間達…	The rivals the Private Army faces, and comrades to rely on...
-2700@9c090	116,95,124,38	note	鮮やかなる戦略の要 言の葉に勝利を託せ…	The heart of brilliant tactics: trust victory to the words...
-2700@9c090	116,133,124,38	note	窮地を凌ぐ逸品から 役立たずの珍品まで…	From treasures that save the day to useless curiosities...
+2700@9c090	116,57,124,38	note	私兵団と対峙する宿敵 そして頼れる仲間達…	Rivals of the Private Army, and trusted comrades...
+2700@9c090	116,95,124,38	note	鮮やかなる戦略の要 言の葉に勝利を託せ…	The heart of tactics: entrust victory to words...
+2700@9c090	116,133,124,38	note	窮地を凌ぐ逸品から 役立たずの珍品まで…	From lifesaving gems to useless oddities...
 2700@9c090	116,171,124,38	note	目を閉じれば聴こえる 力強き鼓舞の旋律…	Close your eyes and hear the stirring melodies...
 2700@9c090	245,24,124,38	note	メサラの預言書が あれば閲覧できます…	Viewable with Mesara's Prophecy...
 2700@9c090	245,62,124,38	note	ビビッドメモリアルが あれば閲覧できます…	Viewable with the Vivid Memorial...
