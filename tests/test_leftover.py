@@ -8,11 +8,14 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import leftover
 
+CPK = pytest.mark.skipif(not (ROOT / "work/cpk/02700.bin").is_file(), reason="needs work/cpk from itoc.py x")
+
 
 def test_stray_and_sweep():
     leftover._selftest()
 
 
+@CPK
 def test_extras_menu_has_no_debris():
     """2700@9c090 (Extra Contents) left bracket shadows and glyph edges beside its boxes before the sweep."""
     import gen_gfx
@@ -21,6 +24,7 @@ def test_extras_menu_has_no_debris():
     assert leftover.stray(sprite.image("2700@9c090"), gen_gfx.english("2700@9c090", rs), [r[0] for r in rs]) == []
 
 
+@CPK
 @pytest.mark.skipif(not (ROOT / "rom/Yggdra Union - We'll Never Fight Alone (USA).iso").exists(), reason="no Yggdra ISO")
 def test_ygg_card_page_is_yggdra_art():
     import gen_gfx

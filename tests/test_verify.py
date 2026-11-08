@@ -2,6 +2,8 @@
 import sys
 from pathlib import Path
 
+import pytest
+
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 sys.path.insert(0, str(ROOT / "tools/debug"))
@@ -12,6 +14,7 @@ import insert
 import verify_build
 
 
+@pytest.mark.skipif(not (ROOT / "work/cpk/02149.bin").is_file(), reason="needs work/cpk from itoc.py x")
 def test_eboot_writes_match(tmp_path):
     _, eboot, _ = insert.build(build.Translated())
     assert verify_build.check_eboot(eboot) == []
