@@ -28,6 +28,9 @@ STYLES = {
     "banner-r": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(2, "dark"), clear="alpha", align="r"),
     "vbanner": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(2, "dark"), clear="alpha", align="c", rot=True),
     "menu": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="l"),
+    # "Ag" sizing lets l, h, d stand above the box and lose their tops: "strip" measures them too. Black, not Bold:
+    # Bold jumps from 12 to 15 rows, and at 12 px its i dots and r shoulders are one grey row under a black cap
+    "strip": dict(font="SourceSans3-Black.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="l", ref="lAg", prune=True),
     "menu-c": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="c"),
     "label": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="alpha", align="l"),
     "panel": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="l"),
@@ -160,7 +163,7 @@ def text_layer(text, st, w, h):
         if st.get("wrap"):
             lines = wrap(text, lambda s: d.textlength(s, font=f) + 2 * sw, w)
         bbs = [d.textbbox((0, 0), ln, font=f, stroke_width=sw) for ln in lines]
-        ref = d.textbbox((0, 0), "Ag", font=f, stroke_width=sw)  # one size per box height, descender or not
+        ref = d.textbbox((0, 0), st.get("ref", "Ag"), font=f, stroke_width=sw)  # one size per box height, descender or not
         bbs = [(b[0], ref[1], b[2], ref[3]) for b in bbs]
         lh = ref[3] - ref[1]
         pitch = f.getmetrics()[0] + f.getmetrics()[1] if len(lines) > 1 else lh
@@ -175,6 +178,13 @@ def text_layer(text, st, w, h):
         x = {"l": 0, "c": (tw - (b[2] - b[0])) // 2, "r": tw - (b[2] - b[0])}[st["align"]] - b[0]
         d.text((x + 1, i * pitch - top + 1), ln, font=f, fill=(255, 255, 255, 255), stroke_width=sw,
                stroke_fill=(0, 0, 0, 255))
+    if st.get("prune"):  # small text: the AA stroke leaves lone outline pixels (one above r's shoulder) that read as dots
+        px = lay.load()
+        lone = [(i, j) for j in range(lay.height) for i in range(lay.width) if px[i, j][3] and px[i, j][0] < 60
+                and not any(px[i + di, j + dj][3] and px[i + di, j + dj][0] >= 60 for di in (-1, 0, 1) for dj in (-1, 0, 1)
+                            if 0 <= i + di < lay.width and 0 <= j + dj < lay.height)]
+        for p in lone:
+            px[p] = (0, 0, 0, 0)
     bb = lay.getbbox() or (0, 0, 1, 1)
     lay = lay.crop((bb[0], 0, bb[2], lay.height))
     if lay.width > w:

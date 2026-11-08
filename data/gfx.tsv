@@ -1439,7 +1439,7 @@
 2683@5e860	98,0,60,13	menu	アイウエオ順	By Name
 2683@5e860	87,14,43,15	menu	回復量順	By Heal
 2683@5f310	0,0,258,23	menu	の士気が回復しました!	regains morale!
-2684@f0	282,18,40,11	panel-w	使用条件	-
+2684@f0	282,18,40,12	panel-w	使用条件	-
 2684@f0	283,19,39,13	ink-w	使用条件	Conditions
 2684@2c10	57,0,41,14	menu	並び替え	Sort
 2684@2c10	2,14,22,15	menu	名前	Name
@@ -1502,72 +1502,74 @@
 2683@5f310	141,216,98,23	menu	スレイプ隊	Sleip's Unit
 # Effect strip: the game cuts each 15 px row from its second px row (top row clipped): clear all, draw in rows 1-14
 2684@3710	0,0,266,300	menu	(全行)	-
-2684@3710	0,1,266,14	menu	ゴーレムを召喚する	Summon a Golem
-2684@3710	0,16,266,14	menu	スケルトンを召喚する	Summon a Skeleton
-2684@3710	0,31,266,14	menu	敵を石化状態にする	Turn the enemy to Stone
-2684@3710	0,46,266,14	menu	敵を冒毒状態にする	Poison the enemy
-2684@3710	0,61,266,14	menu	暗黒攻撃で敵にダメージ＋呪縛状態にする	Dark attack damage + Curse
-2684@3710	0,76,266,14	menu	敵の装備アイテムを破壊する	Destroy the enemy's equipped item
-2684@3710	0,91,266,14	menu	敵の装備アイテムを盗み獲る	Steal the enemy's equipped item
-2684@3710	0,106,266,14	menu	敵のヘッドを倒す	Defeat the enemy Head
-2684@3710	0,121,266,14	menu	敵のメンバー数を自分と同じにする	Set enemy Members equal to your own
-2684@3710	0,136,266,14	menu	発動中、ダメージを受けない	No damage while active
-2684@3710	0,151,266,14	menu	火炎攻撃で敵にダメージ＋炎上状態にする	Fire attack damage + Burn
-2684@3710	0,166,266,14	menu	冷気攻撃で敵にダメージを与える	Cold attack damages the enemy
-2684@3710	0,181,266,14	menu	雷撃攻撃で敵にダメージ＋麻痺状態にする	Lightning damage + Paralysis
-2684@3710	0,196,266,14	menu	神聖攻撃で敵にダメージを与える	Holy attack damages the enemy
-2684@3710	0,211,266,14	menu	発動中、ドラゴン系に相性☆で戦える	Active: best matchup against Dragons
-2684@3710	0,226,266,14	menu	周囲2スクエアの石化ユニットやオブジェクトを破壊	Smash Stone units and objects within 2 squares
-2684@3710	0,241,266,14	menu	敵メンバーを裏切らせ自分の戦力にする	Foe Members betray and join your side
-2684@3710	0,256,266,14	menu	敵のヘッド以外を全て倒す	Defeat all enemies but the Head
-2684@3710	0,271,266,14	menu	敵を一人残らず倒す	Defeat every last enemy
-2684@3710	0,286,266,14	menu	倒れた自分のメンバーを復活させる	Revive your fallen Members
-2684@e4b0	0,0,266,15	menu	ユニオン内の士気とステータス異常回復	Restore morale, cure ailments in the Union
-2684@e4b0	0,15,266,15	menu	一定時間、敵を弱めて自分を強める。が…	Weakens foe and aids you for a time, but...
-2684@e4b0	0,30,266,15	menu	発動中、自分も敵もLUKを力に換える	Active: you and foe turn LUK into power
-2684@e4b0	0,45,266,15	menu	蜃気楼で、自分と敵の地形を入れ替える	A mirage swaps your terrain with the foe's
-2684@e4b0	0,60,266,15	menu	発動中、敵のATKを1にする	While active, sets enemy ATK to 1
-2684@e4b0	0,75,266,15	menu	つたを自在に振るい、敵にダメージを与える	Whip vines freely to damage the enemy
-2684@e4b0	0,90,266,15	menu	吹きすさぶ砂嵐で、敵にダメージを与える	A raging sandstorm damages the enemy
-2684@e4b0	0,105,266,15	menu	泥沼に引きずりこんで、敵にダメージを与える	Drag the enemy into the mire for damage
-2684@e4b0	0,120,266,15	menu	落石攻撃でダメージ＋鈍足状態にする	Falling rock damage + Slow
-2684@e4b0	0,135,266,15	menu	ユニオン内の仲間への突撃と反撃をガード	Guards Union allies from charge, counter
-2684@e4b0	0,150,266,15	menu	メンバーの命を犠牲に戦闘能力が格段に上昇	Sacrifice Members to boost fighting power
-2684@e4b0	0,165,266,15	menu	倒れたメンバーも含めユニットを転生させる	Reincarnate units, even fallen Members
-2684@e4b0	0,180,266,15	menu	敵を一人残らず消滅させる究極奥義	Ultimate art: erases every last enemy
-2684@e4b0	0,195,266,15	menu	発動中、敵のゲージ／レイジレートを減少	Active: lowers foe's Gauge and Rage Rate
-2684@e4b0	0,210,266,15	menu	敵を昏睡状態にする	Put the enemy to Sleep
-2684@e4b0	0,225,266,15	menu	使用者の状態により与えるダメージが変化	Damage changes with the user's condition
-2684@e4b0	0,240,266,15	menu	ユニオン内の男性のみ、ATKとGENが上昇	Union's men only: ATK and GEN up
-2684@e4b0	0,255,266,15	menu	太刀風による攻撃で敵にダメージ＋状態異常	Sword wind attack damage + ailment
-2684@e4b0	0,270,266,15	menu	ユニオン内の仲間のLUKが上昇	Raises the LUK of Union allies
-2684@37b60	0,0,202,14	menu	ウィッチ専用	Witch only
-2684@37b60	0,14,202,14	menu	ネシア専用/夜間限定	Nessiah only / Night only
-2684@37b60	0,28,202,14	menu	ハンター専用	Hunter only
-2684@37b60	0,42,202,14	menu	スケルトン専用	Skeleton only
-2684@37b60	0,56,202,14	menu	フェンサー専用	Fencer only
-2684@37b60	0,70,202,14	menu	シスキア専用	Siskier only
-2684@37b60	0,84,202,14	menu	アサシン専用/夜間限定	Assassin only / Night only
-2684@37b60	0,98,202,14	menu	騎馬タイプのみ	Cavalry only
-2684@37b60	0,112,202,14	menu	ウンディーネが使うと…	If an Undine uses it...
-2684@37b60	0,126,202,14	menu	メデューテ専用/相手がドラゴン系	Medoute only / Foe is Dragon type
-2684@37b60	0,140,202,14	menu	ゴーレム専用	Golem only
-2684@37b60	0,154,202,14	menu	相手が同サイズ/同性別	Foe same size and gender
-2684@37b60	0,168,202,14	menu	ヴァルキリー専用	Valkyrie only
-2684@37b60	202,0,204,14	menu	オルディーン専用	Ordene only
-2684@37b60	202,14,204,14	menu	昼間限定	Day only
-2684@37b60	202,28,204,14	menu	女性ユニオンリーダーのみ	Female Union Leaders only
-2684@37b60	202,42,204,14	menu	夜間限定	Night only
-2684@37b60	202,56,204,14	menu	男性ユニオンリーダーのみ	Male Union Leaders only
-2684@37b60	202,70,204,14	menu	ガルカーサ専用	Gulcasa only
-2684@37b60	202,84,204,14	menu	ネシア専用	Nessiah only
-2684@37b60	202,98,204,14	menu	ベアトリーヌ専用	Baretreenu only
-2684@37b60	202,112,204,14	menu	パメラ専用/夜間限定	Pamela only / Night only
-2684@37b60	202,126,204,14	menu	アランゼーム専用	Alanjame only
-2684@37b60	202,140,204,14	menu	バイフー専用	Byff only
-2684@37b60	202,154,204,14	menu	ソルティエ専用	Soltier only
-2684@37b60	202,168,204,14	menu	エミリオ専用	Emilia only
-2684@37b60	202,182,204,14	menu	エースタイプが合えばOK!	Ace Types must match
+2684@3710	0,1,266,14	strip	ゴーレムを召喚する	Summon a Golem
+2684@3710	0,16,266,14	strip	スケルトンを召喚する	Summon a Skeleton
+2684@3710	0,31,266,14	strip	敵を石化状態にする	Turn the enemy to Stone
+2684@3710	0,46,266,14	strip	敵を冒毒状態にする	Poison the enemy
+2684@3710	0,61,266,14	strip	暗黒攻撃で敵にダメージ＋呪縛状態にする	Dark attack damage + Curse
+2684@3710	0,76,266,14	strip	敵の装備アイテムを破壊する	Destroy the enemy's equipped item
+2684@3710	0,91,266,14	strip	敵の装備アイテムを盗み獲る	Steal the enemy's equipped item
+2684@3710	0,106,266,14	strip	敵のヘッドを倒す	Defeat the enemy Head
+2684@3710	0,121,266,14	strip	敵のメンバー数を自分と同じにする	Set enemy Members equal to your own
+2684@3710	0,136,266,14	strip	発動中、ダメージを受けない	No damage while active
+2684@3710	0,151,266,14	strip	火炎攻撃で敵にダメージ＋炎上状態にする	Fire attack damage + Burn
+2684@3710	0,166,266,14	strip	冷気攻撃で敵にダメージを与える	Cold attack damages the enemy
+2684@3710	0,181,266,14	strip	雷撃攻撃で敵にダメージ＋麻痺状態にする	Lightning damage + Paralysis
+2684@3710	0,196,266,14	strip	神聖攻撃で敵にダメージを与える	Holy attack damages the enemy
+2684@3710	0,211,266,14	strip	発動中、ドラゴン系に相性☆で戦える	Active: best matchup against Dragons
+2684@3710	0,226,266,14	strip	周囲2スクエアの石化ユニットやオブジェクトを破壊	Smash Stone units and objects within 2 squares
+2684@3710	0,241,266,14	strip	敵メンバーを裏切らせ自分の戦力にする	Foe Members betray and join your side
+2684@3710	0,256,266,14	strip	敵のヘッド以外を全て倒す	Defeat all enemies but the Head
+2684@3710	0,271,266,14	strip	敵を一人残らず倒す	Defeat every last enemy
+2684@3710	0,286,266,14	strip	倒れた自分のメンバーを復活させる	Revive your fallen Members
+2684@e4b0	0,0,266,285	menu	(全行)	-
+2684@e4b0	0,1,266,14	strip	ユニオン内の士気とステータス異常回復	Restore morale, cure ailments in the Union
+2684@e4b0	0,16,266,14	strip	一定時間、敵を弱めて自分を強める。が…	Weakens foe and aids you for a time, but...
+2684@e4b0	0,31,266,14	strip	発動中、自分も敵もLUKを力に換える	Active: you and foe turn LUK into power
+2684@e4b0	0,46,266,14	strip	蜃気楼で、自分と敵の地形を入れ替える	A mirage swaps your terrain with the foe's
+2684@e4b0	0,61,266,14	strip	発動中、敵のATKを1にする	While active, sets enemy ATK to 1
+2684@e4b0	0,76,266,14	strip	つたを自在に振るい、敵にダメージを与える	Whip vines freely to damage the enemy
+2684@e4b0	0,91,266,14	strip	吹きすさぶ砂嵐で、敵にダメージを与える	A raging sandstorm damages the enemy
+2684@e4b0	0,106,266,14	strip	泥沼に引きずりこんで、敵にダメージを与える	Drag the enemy into the mire for damage
+2684@e4b0	0,121,266,14	strip	落石攻撃でダメージ＋鈍足状態にする	Falling rock damage + Slow
+2684@e4b0	0,136,266,14	strip	ユニオン内の仲間への突撃と反撃をガード	Guards Union allies from charge, counter
+2684@e4b0	0,151,266,14	strip	メンバーの命を犠牲に戦闘能力が格段に上昇	Sacrifice Members to boost fighting power
+2684@e4b0	0,166,266,14	strip	倒れたメンバーも含めユニットを転生させる	Reincarnate units, even fallen Members
+2684@e4b0	0,181,266,14	strip	敵を一人残らず消滅させる究極奥義	Ultimate art: erases every last enemy
+2684@e4b0	0,196,266,14	strip	発動中、敵のゲージ／レイジレートを減少	Active: lowers foe's Gauge and Rage Rate
+2684@e4b0	0,211,266,14	strip	敵を昏睡状態にする	Put the enemy to Sleep
+2684@e4b0	0,226,266,14	strip	使用者の状態により与えるダメージが変化	Damage changes with the user's condition
+2684@e4b0	0,241,266,14	strip	ユニオン内の男性のみ、ATKとGENが上昇	Union's men only: ATK and GEN up
+2684@e4b0	0,256,266,14	strip	太刀風による攻撃で敵にダメージ＋状態異常	Sword wind attack damage + ailment
+2684@e4b0	0,271,266,14	strip	ユニオン内の仲間のLUKが上昇	Raises the LUK of Union allies
+2684@37b60	0,0,406,196	menu	(全行)	-
+2684@37b60	0,1,202,13	strip	ウィッチ専用	Witch only
+2684@37b60	0,15,202,13	strip	ネシア専用/夜間限定	Nessiah only / Night only
+2684@37b60	0,29,202,13	strip	ハンター専用	Hunter only
+2684@37b60	0,43,202,13	strip	スケルトン専用	Skeleton only
+2684@37b60	0,57,202,13	strip	フェンサー専用	Fencer only
+2684@37b60	0,71,202,13	strip	シスキア専用	Siskier only
+2684@37b60	0,85,202,13	strip	アサシン専用/夜間限定	Assassin only / Night only
+2684@37b60	0,99,202,13	strip	騎馬タイプのみ	Cavalry only
+2684@37b60	0,113,202,13	strip	ウンディーネが使うと…	If an Undine uses it...
+2684@37b60	0,127,202,13	strip	メデューテ専用/相手がドラゴン系	Medoute only / Foe is Dragon type
+2684@37b60	0,141,202,13	strip	ゴーレム専用	Golem only
+2684@37b60	0,155,202,13	strip	相手が同サイズ/同性別	Foe same size and gender
+2684@37b60	0,169,202,13	strip	ヴァルキリー専用	Valkyrie only
+2684@37b60	202,1,204,13	strip	オルディーン専用	Ordene only
+2684@37b60	202,15,204,13	strip	昼間限定	Day only
+2684@37b60	202,29,204,13	strip	女性ユニオンリーダーのみ	Female Union Leaders only
+2684@37b60	202,43,204,13	strip	夜間限定	Night only
+2684@37b60	202,57,204,13	strip	男性ユニオンリーダーのみ	Male Union Leaders only
+2684@37b60	202,71,204,13	strip	ガルカーサ専用	Gulcasa only
+2684@37b60	202,85,204,13	strip	ネシア専用	Nessiah only
+2684@37b60	202,99,204,13	strip	ベアトリーヌ専用	Baretreenu only
+2684@37b60	202,113,204,13	strip	パメラ専用/夜間限定	Pamela only / Night only
+2684@37b60	202,127,204,13	strip	アランゼーム専用	Alanjame only
+2684@37b60	202,141,204,13	strip	バイフー専用	Byff only
+2684@37b60	202,155,204,13	strip	ソルティエ専用	Soltier only
+2684@37b60	202,169,204,13	strip	エミリオ専用	Emilia only
+2684@37b60	202,183,204,13	strip	エースタイプが合えばOK!	Ace Types must match
 2684@1cc20	0,0,62,16	menu	メイクドール	Doll Craft
 2684@1cc20	0,18,63,16	menu	ネクロゲート	Necro Gate
 2684@1cc20	0,36,73,16	menu	メデューサアイ	Medusa Eye
