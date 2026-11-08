@@ -6,6 +6,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+import cardsel
 import elfpatch
 import extract
 import fct
@@ -177,6 +178,7 @@ def build(text, base=None):
 
     eb = elfpatch.Eboot(extract.ELF.read_bytes(), SEG_VADDR)
     vwf.install(eb, info)
+    cardsel.install(eb)
     recs = [r for f in sorted(SCRIPT.glob("eboot_*.json")) for r in json.loads(f.read_text(encoding="utf-8"))]
     count += pack_eboot(eb, recs, text)
     log = ROOT / "build/writes.txt"

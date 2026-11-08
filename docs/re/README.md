@@ -7,6 +7,7 @@ depends on it. Addresses are for the dump in `rom.sha1`.
 |---|---|---|
 | `text.md` | Image layout, text inventory, encoding, control codes, script bytecode and message references, EBOOT strings, fonts, free space | Mostly verified; open items listed at its end |
 | `graphics.md` | PTX and PTG formats, sweep tool, graphics-text survey | Formats verified; static survey complete; PTA not decoded |
+| `cardsel.md` | Card Select panel: how the original picks its effect and condition strips, our font-printer hooks | Seen in game: Steal, Shield Barrier, empty slot |
 | `debug.md` | Stage table, top-level modes, request flags, story variables, what the warp tool reaches and what it doesn't | Stage warps and endings verified; open items listed in it |
 
 ## Getting the decrypted EBOOT

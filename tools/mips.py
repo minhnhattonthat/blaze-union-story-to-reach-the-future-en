@@ -50,6 +50,8 @@ def encode(op, a, addr, labels):
         return reg(a[0]) << 21 | 8
     if op == "jal":
         return 3 << 26 | (target(a[0]) >> 2) & 0x3FFFFFF
+    if op == "j":
+        return 2 << 26 | (target(a[0]) >> 2) & 0x3FFFFFF
     if op == "beq":
         return 4 << 26 | reg(a[0]) << 21 | reg(a[1]) << 16 | branch(a[2])
     if op == "bne":
