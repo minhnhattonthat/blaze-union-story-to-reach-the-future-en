@@ -70,6 +70,10 @@ Done 2026-11-07 (fourth session): recap narration, all 54 pages (1532-1581 `@20`
 texture the game scrolls at 1:1), transcribed from the sprites and translated, style `page` (word-wrapped at the largest
 size up to 17 px that fits the texture; `\n` in the row ends a paragraph). 1532 seen in game (`recap_2`); the rest only in
 preview. 1582-1604 `@20` (240x136 in the index) are CG art with no text.
+Prologue page 2139@20240 (380x460, after New Game) is not a 1:1 scroll like the recaps: the game rolls it through a
+3-line window on a 20 px row grid (Japanese rows 0-2, 4-6, 8-13, 15-18, 20-22). A whole-page `page` wrap at 19 px pitch
+showed lines cut by the window, so it is one `page-line` row per 20 px row (14 px, one fixed size), each paragraph
+inside the Japanese one's rows. Seen in game 2026-11-08.
 Done 2026-11-07 (fifth session): the 58 recap diagrams (1532-1577, 480x200; list `work/gfx/diag.txt`), 98 words, style
 `pill`: the pill is the saturated colour that reaches outside the box, every other opaque pixel in the box is lettering
 and is inpainted from the pill (alpha snapped, leaning clear), then English white-to-pill-colour with a black outline

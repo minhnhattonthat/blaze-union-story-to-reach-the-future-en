@@ -2838,7 +2838,23 @@
 2687@c860	0,208,138,26	banner	レオン	Leon
 2687@c860	140,208,138,26	banner	スレイプ	Sleip
 3@3b7690	0,0,279,72	banner	ターン終了OK?	End Turn?
-2139@20240	0,0,380,460	page	ブロンキア帝国……	The Bronquia Empire...\nA military state ruled for generations by emperors who made a pact with the ancient demon dragon Brongaa and inherited its power.\nThe reigning emperor, Soltier, took the crown after his younger brother, the previous emperor. He imposed crushing taxes and rapidly built up the army.\nHis misrule spread fear and unrest among the people. Riots broke out across the land, order collapsed, and looting and crooked merchant deals ran rampant. The people's peace was torn apart by the monster called injustice.\nThe trade city of Tiera lay in the west of the Empire. Merchants who grew rich through endless exploitation lived apart from people gasping in poverty: it was a symbol of the Empire as it stood.\nIn one corner of Tiera, the Nether District, the downtrodden huddled together to survive. There, this story begins...
+2139@20240	0,0,380,460	page-line	ブロンキア帝国……	-
+2139@20240	0,0,380,20	page-line	ブロンキア帝国……	The Bronquia Empire... A military state ruled for generations
+2139@20240	0,20,380,20	page-line	古の魔竜・ブロンガと契約し、力を受け継ぐ者が	by emperors who made a pact with the ancient demon
+2139@20240	0,40,380,20	page-line	皇帝として、代々統治する軍事国家である。	dragon Brongaa and inherited its power.
+2139@20240	0,80,380,20	page-line	ブロンキア帝国・時の皇帝ソルティエは	The reigning emperor, Soltier, took the crown after his
+2139@20240	0,100,380,20	page-line	先帝である弟の後を継いで戴冠すると、	younger brother, the previous emperor. He imposed
+2139@20240	0,120,380,20	page-line	重い徴税を課し、急激なる軍備の増強を行った。	crushing taxes and rapidly built up the army.
+2139@20240	0,160,380,20	page-line	ソルティエ帝の悪政は、	His misrule spread fear and unrest among the people. Riots
+2139@20240	0,180,380,20	page-line	民の間で爆発的な不安を引き起こした。	broke out across the land, order collapsed, and looting and
+2139@20240	0,200,380,20	page-line	結果、各地で暴動が勃発し、治安は悪化、	crooked merchant deals ran rampant. The people's peace
+2139@20240	0,220,380,20	page-line	掠奪行為や、商人らの不正取引が横行した。	was torn apart by the monster called injustice.
+2139@20240	0,300,380,20	page-line	帝国西部に位置する商業都市ティエラ。	The trade city of Tiera lay in the west of the Empire.
+2139@20240	0,320,380,20	page-line	ここは搾取を繰り返して財を成す豪商達と、	Merchants who grew rich through endless exploitation lived
+2139@20240	0,340,380,20	page-line	困窮に喘ぐ人々とが分かれ住む、	apart from people gasping in poverty: it was a symbol of the
+2139@20240	0,360,380,20	page-line	帝国の現状を象徴した街であった。	Empire as it stood.
+2139@20240	0,400,380,20	page-line	ティエラの一角、虐げられる人々が	In one corner of Tiera, the Nether District, the downtrodden
+2139@20240	0,420,380,20	page-line	身を寄せ合って暮らすネザー地区から、	huddled together to survive. There, this story begins...
 3@453a60	5,20,30,14	panel-c	歩行	Foot
 3@453a60	62,20,30,14	panel-c	歩行	Foot
 3@453a60	53,56,30,14	panel-c	鈍足	Slow

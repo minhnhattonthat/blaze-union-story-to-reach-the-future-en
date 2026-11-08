@@ -64,6 +64,9 @@ STYLES = {
     # recap narration: whole page in one box, word-wrapped at the largest size that fits; "\n" ends a paragraph
     "page": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(1, (24, 24, 40)), clear="alpha", align="c",
                  wrap=True, max=17),
+    # prologue 2139@20240: the game reveals it in 20 px rows, so each line gets its own row box at one fixed size
+    "page-line": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=(1, (24, 24, 40)), clear="alpha",
+                      align="c", max=14),
     # recap diagram words over a gradient pill: the lettering (outline, halo, fill) is inpainted from the pill around
     # it, then English is drawn white-to-pill-colour with a black outline and a white halo, as the Japanese
     "pill": dict(font="SourceSans3-Black.ttf", fill="pill", stroke=(2, (8, 8, 16)), clear="pill", align="c", halo=True),
