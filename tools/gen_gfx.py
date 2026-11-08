@@ -34,6 +34,7 @@ STYLES = {
     "panel-c": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="c"),
     "panel-r": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=None, clear="bg", align="r"),
     "panel-w": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=None, clear="bg", align="c"),
+    "ink-w": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 255), stroke=None, clear=None, align="c"),
     "panel-y": dict(font="SourceSans3-Bold.ttf", fill=(255, 255, 0), stroke=None, clear="bg", align="c"),
     "paper": dict(font="SourceSans3-Bold.ttf", fill=(0, 0, 0), stroke=None, clear=(253, 252, 252, 255), align="c"),
     "menu-r": dict(font="SourceSans3-Bold.ttf", fill="rows", stroke=(1, "dark"), clear="alpha", align="r"),

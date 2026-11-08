@@ -1439,7 +1439,8 @@
 2683@5e860	98,0,60,13	menu	アイウエオ順	By Name
 2683@5e860	87,14,43,15	menu	回復量順	By Heal
 2683@5f310	0,0,258,23	menu	の士気が回復しました!	regains morale!
-2684@f0	283,16,39,13	panel-w	使用条件	Conditions
+2684@f0	282,18,40,11	panel-w	使用条件	-
+2684@f0	283,19,39,13	ink-w	使用条件	Conditions
 2684@2c10	57,0,41,14	menu	並び替え	Sort
 2684@2c10	2,14,22,15	menu	名前	Name
 2684@2c10	90,14,44,15	menu	使用頻度	Usage
@@ -1499,26 +1500,28 @@
 2683@5f310	140,168,99,23	menu	バイフー隊	Byff's Unit
 2683@5f310	140,193,79,22	menu	イータ隊	Eater's Unit
 2683@5f310	141,216,98,23	menu	スレイプ隊	Sleip's Unit
-2684@3710	0,0,266,15	menu	ゴーレムを召喚する	Summon a Golem
-2684@3710	0,15,266,15	menu	スケルトンを召喚する	Summon a Skeleton
-2684@3710	0,30,266,15	menu	敵を石化状態にする	Turn the enemy to Stone
-2684@3710	0,45,266,15	menu	敵を冒毒状態にする	Poison the enemy
-2684@3710	0,60,266,15	menu	暗黒攻撃で敵にダメージ＋呪縛状態にする	Dark attack damage + Curse
-2684@3710	0,75,266,15	menu	敵の装備アイテムを破壊する	Destroy the enemy's equipped item
-2684@3710	0,90,266,15	menu	敵の装備アイテムを盗み獲る	Steal the enemy's equipped item
-2684@3710	0,105,266,15	menu	敵のヘッドを倒す	Defeat the enemy Head
-2684@3710	0,120,266,15	menu	敵のメンバー数を自分と同じにする	Set enemy Members equal to your own
-2684@3710	0,135,266,15	menu	発動中、ダメージを受けない	No damage while active
-2684@3710	0,150,266,15	menu	火炎攻撃で敵にダメージ＋炎上状態にする	Fire attack damage + Burn
-2684@3710	0,165,266,15	menu	冷気攻撃で敵にダメージを与える	Cold attack damages the enemy
-2684@3710	0,180,266,15	menu	雷撃攻撃で敵にダメージ＋麻痺状態にする	Lightning damage + Paralysis
-2684@3710	0,195,266,15	menu	神聖攻撃で敵にダメージを与える	Holy attack damages the enemy
-2684@3710	0,210,266,15	menu	発動中、ドラゴン系に相性☆で戦える	Active: best matchup against Dragons
-2684@3710	0,225,266,15	menu	周囲2スクエアの石化ユニットやオブジェクトを破壊	Smash Stone units and objects within 2 squares
-2684@3710	0,240,266,15	menu	敵メンバーを裏切らせ自分の戦力にする	Foe Members betray and join your side
-2684@3710	0,255,266,15	menu	敵のヘッド以外を全て倒す	Defeat all enemies but the Head
-2684@3710	0,270,266,15	menu	敵を一人残らず倒す	Defeat every last enemy
-2684@3710	0,285,266,15	menu	倒れた自分のメンバーを復活させる	Revive your fallen Members
+# Effect strip: the game cuts each 15 px row from its second px row (top row clipped): clear all, draw in rows 1-14
+2684@3710	0,0,266,300	menu	(全行)	-
+2684@3710	0,1,266,14	menu	ゴーレムを召喚する	Summon a Golem
+2684@3710	0,16,266,14	menu	スケルトンを召喚する	Summon a Skeleton
+2684@3710	0,31,266,14	menu	敵を石化状態にする	Turn the enemy to Stone
+2684@3710	0,46,266,14	menu	敵を冒毒状態にする	Poison the enemy
+2684@3710	0,61,266,14	menu	暗黒攻撃で敵にダメージ＋呪縛状態にする	Dark attack damage + Curse
+2684@3710	0,76,266,14	menu	敵の装備アイテムを破壊する	Destroy the enemy's equipped item
+2684@3710	0,91,266,14	menu	敵の装備アイテムを盗み獲る	Steal the enemy's equipped item
+2684@3710	0,106,266,14	menu	敵のヘッドを倒す	Defeat the enemy Head
+2684@3710	0,121,266,14	menu	敵のメンバー数を自分と同じにする	Set enemy Members equal to your own
+2684@3710	0,136,266,14	menu	発動中、ダメージを受けない	No damage while active
+2684@3710	0,151,266,14	menu	火炎攻撃で敵にダメージ＋炎上状態にする	Fire attack damage + Burn
+2684@3710	0,166,266,14	menu	冷気攻撃で敵にダメージを与える	Cold attack damages the enemy
+2684@3710	0,181,266,14	menu	雷撃攻撃で敵にダメージ＋麻痺状態にする	Lightning damage + Paralysis
+2684@3710	0,196,266,14	menu	神聖攻撃で敵にダメージを与える	Holy attack damages the enemy
+2684@3710	0,211,266,14	menu	発動中、ドラゴン系に相性☆で戦える	Active: best matchup against Dragons
+2684@3710	0,226,266,14	menu	周囲2スクエアの石化ユニットやオブジェクトを破壊	Smash Stone units and objects within 2 squares
+2684@3710	0,241,266,14	menu	敵メンバーを裏切らせ自分の戦力にする	Foe Members betray and join your side
+2684@3710	0,256,266,14	menu	敵のヘッド以外を全て倒す	Defeat all enemies but the Head
+2684@3710	0,271,266,14	menu	敵を一人残らず倒す	Defeat every last enemy
+2684@3710	0,286,266,14	menu	倒れた自分のメンバーを復活させる	Revive your fallen Members
 2684@e4b0	0,0,266,15	menu	ユニオン内の士気とステータス異常回復	Restore morale, cure ailments in the Union
 2684@e4b0	0,15,266,15	menu	一定時間、敵を弱めて自分を強める。が…	Weakens foe and aids you for a time, but...
 2684@e4b0	0,30,266,15	menu	発動中、自分も敵もLUKを力に換える	Active: you and foe turn LUK into power
