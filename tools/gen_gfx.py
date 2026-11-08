@@ -12,6 +12,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, str(Path(__file__).parent))
 import gfx
+import leftover
 import sprite
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -62,6 +63,15 @@ STYLES = {
     # recap diagram words over a gradient pill: the lettering (outline, halo, fill) is inpainted from the pill around
     # it, then English is drawn white-to-pill-colour with a black outline and a white halo, as the Japanese
     "pill": dict(font="SourceSans3-Black.ttf", fill="pill", stroke=(2, (8, 8, 16)), clear="pill", align="c", halo=True),
+    # official English: the box is copied, unscaled, from the same box of Yggdra Union's sprite (English column = its
+    # label, tools/ygg.py), for art both games share
+    "ygg": dict(clear="ygg"),
+    # English art with no font of ours (the serif card headers 2642@19030+): letters spliced from the game's own
+    # English words. English column = parts joined by "+": "LABEL:x0-x1" (columns of that sprite, rows from the
+    # box top, or from row y with "LABEL:x0-x1@y") or "_N" (N px of space); squeezed to the box width if wider.
+    # lap: px each part overlaps the last (outlined letters share one outline); -1 for plain letters, 1 px apart
+    "splice": dict(clear="splice", lap=2),
+    "splice-plain": dict(clear="splice", lap=-1),
 }
 MIN_X = 0.62  # narrowest horizontal squeeze before the size shrinks instead
 
@@ -316,10 +326,46 @@ def inpaint(img, box, letters=False, yellow=False, mask=None):
     img.paste(Image.fromarray(a.round().clip(0, 255).astype("uint8")), (X0, Y0))
 
 
+def splice(spec, box, s=1.0, lap=2):
+    """-> a box-sized RGBA of the parts of a `splice` row, left-aligned; s < 1 shrinks it (fitted())."""
+    x, y, w, h = box
+    parts = []
+    for p in spec.split("+"):
+        if p.startswith("_"):
+            parts.append(Image.new("RGBA", (int(p[1:]), h)))
+        else:
+            lab, cols = p.rsplit(":", 1)
+            cols, _, top = cols.partition("@")
+            x0, x1 = map(int, cols.split("-"))
+            top = int(top) if top else y
+            parts.append(sprite.image(lab).crop((x0, top, x1, top + h)))
+    word = Image.new("RGBA", (sum(p.width for p in parts) - lap * (len(parts) - 1), h))
+    at = 0
+    for p in parts:
+        word.alpha_composite(p, (at, 0))
+        at += p.width - lap
+    if word.width > w:
+        word = word.resize((w, h), Image.LANCZOS)
+    if s < 1:
+        word = word.resize((max(int(word.width * s), 1), max(int(h * s), 1)), Image.LANCZOS)
+    out = Image.new("RGBA", (w, h))
+    out.alpha_composite(word)
+    return out
+
+
 def english(label, items, s=1.0):
-    img = sprite.image(label).copy()
+    orig = sprite.image(label)
+    img = orig.copy()
     for box, style, jp, en in items:
-        draw(img, box, style, en, s)
+        if style == "ygg":
+            import ygg
+            x, y, w, h = box
+            img.paste(ygg.image(en).crop((x, y, x + w, y + h)), (x, y))
+        elif STYLES[style].get("clear") == "splice":
+            img.paste(splice(en, box, s, STYLES[style]["lap"]), box[:2])
+        else:
+            draw(img, box, style, en, s)
+    leftover.sweep(orig, img, [it[0] for it in items])  # Japanese a too-tight box cut in half (D16)
     return img
 
 

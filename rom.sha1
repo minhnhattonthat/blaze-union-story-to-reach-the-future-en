@@ -1,2 +1,4 @@
 # SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
 de0e837fb23e4db73afa3fcaf84e71ac8030fac8  rom/Blaze Union - Story to Reach The Future (Japan).iso
+# Yggdra Union (USA), building only: its official English sprites go into data/gfx.tsv rows of style ygg (tools/ygg.py)
+c982fec7fa6309d20e8bc5170db1acf49df72e95  rom/Yggdra Union - We'll Never Fight Alone (USA).iso

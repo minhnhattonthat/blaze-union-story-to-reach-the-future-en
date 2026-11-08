@@ -730,78 +730,78 @@
 1576@19010	227,140,81,40	pill	反乱軍	Rebels
 1577@98b0	100,131,144,37	pill	グラムブレイズ	Gram Blaze
 # Card list 1771@36ad0 (name // epithet; English from the card table at EBOOT 0x2799D8 and the poem credits)
-1771@36ad0	4,1,94,10	panel	メイクドール	Make Doll
-1771@36ad0	100,1,130,10	panel-r	// 傀儡師エクシール	// Exeel the Puppeteer
+1771@36ad0	4,1,94,10	panel	メイクドール	Doll Craft
+1771@36ad0	100,1,130,10	panel-r	// 傀儡師エクシール	// Puppet Master Exthiel
 1771@36ad0	4,12,94,10	panel	ネクロゲート	Necro Gate
-1771@36ad0	100,12,130,10	panel-r	// 屍術師ネルダ	// Nelda the Necromancer
+1771@36ad0	100,12,130,10	panel-r	// 屍術師ネルダ	// The Necromancer Gnelda
 1771@36ad0	4,23,94,10	panel	メデューサアイ	Medusa Eye
-1771@36ad0	100,23,130,10	panel-r	// 咎人ラウネ	// Raune the Sinner
+1771@36ad0	100,23,130,10	panel-r	// 咎人ラウネ	// Luane the Condemned
 1771@36ad0	4,33,94,11	panel	ポイズンブレス	Poison Breath
-1771@36ad0	100,33,130,11	panel-r	// 復讐のバルダック	// Baldak of Revenge
+1771@36ad0	100,33,130,11	panel-r	// 復讐のバルダック	// Baldack the Avenger
 1771@36ad0	4,44,94,11	panel	グラヴィティカオス	Gravity Chaos
-1771@36ad0	100,44,130,11	panel-r	// 堕天のエイミア	// Eimia the Fallen
+1771@36ad0	100,44,130,11	panel-r	// 堕天のエイミア	// Aymia the Fallen
 1771@36ad0	4,56,94,10	panel	アイテムブレイク	Item Break
-1771@36ad0	100,56,130,10	panel-r	// 伝説のホーク	// Hawk the Legend
+1771@36ad0	100,56,130,10	panel-r	// 伝説のホーク	// The Legendary Hawk
 1771@36ad0	4,67,94,10	panel	スティール	Steal
 1771@36ad0	100,67,130,10	panel-r	// 風魔サエザル	// Saezar the Wind Demon
 1771@36ad0	4,78,94,10	panel	ブラッディクロー	Bloody Claw
-1771@36ad0	100,78,130,10	panel-r	// 赤月の悪魔アノン	// Anon, Red Moon Demon
+1771@36ad0	100,78,130,10	panel-r	// 赤月の悪魔アノン	// Anon of the Red Moon
 1771@36ad0	4,89,94,10	panel	チャリオット	Chariot
-1771@36ad0	100,89,130,10	panel-r	// 鋼鉄騎士ガラド	// Garad the Iron Knight
+1771@36ad0	100,89,130,10	panel-r	// 鋼鉄騎士ガラド	// Gallad, the Steel Knight
 1771@36ad0	4,100,94,10	panel	シールドバリア	Shield Barrier
-1771@36ad0	100,100,130,10	panel-r	// 護人ハシャハティ	// Hashahati the Guardian
+1771@36ad0	100,100,130,10	panel-r	// 護人ハシャハティ	// Hasha Hatti the Protector
 1771@36ad0	4,111,94,10	panel	フレイム	Flame
-1771@36ad0	100,111,130,10	panel-r	// 大魔導マゼンデ	// Magende the Archmage
+1771@36ad0	100,111,130,10	panel-r	// 大魔導マゼンデ	// Masende, the High Sorceress
 1771@36ad0	4,122,94,10	panel	ブリザード	Blizzard
-1771@36ad0	100,122,130,10	panel-r	// 氷葬のエンリュケ	// Enruke of the Ice Tomb
-1771@36ad0	4,132,94,11	panel	サンダーボルト	Thunder Bolt
-1771@36ad0	100,132,130,11	panel-r	// 天空のルキオン	// Lucion of the Sky
+1771@36ad0	100,122,130,10	panel-r	// 氷葬のエンリュケ	// Ice Crusher Enreuke
+1771@36ad0	4,132,94,11	panel	サンダーボルト	Thunderbolt
+1771@36ad0	100,132,130,11	panel-r	// 天空のルキオン	// Ruquion of the Heavens
 1771@36ad0	4,144,94,10	panel	バニッシュ	Banish
-1771@36ad0	100,144,130,10	panel-r	// 聖アスタ＝ナレフ	// Saint Asta-Naref
+1771@36ad0	100,144,130,10	panel-r	// 聖アスタ＝ナレフ	// San Asta Narev
 1771@36ad0	4,155,94,10	panel	ドラゴンキラー	Dragon Killer
-1771@36ad0	100,155,130,10	panel-r	// 竜殺しの英雄ギル	// Gil the Dragon Slayer
+1771@36ad0	100,155,130,10	panel-r	// 竜殺しの英雄ギル	// Dragon Slaying Gill
 1771@36ad0	4,166,94,10	panel	アースクウェイク	Earthquake
-1771@36ad0	100,166,130,10	panel-r	// 怒りの巨人ドークス	// Dokes the Angry Giant
+1771@36ad0	100,166,130,10	panel-r	// 怒りの巨人ドークス	// Doekes, Lord of Rage
 1771@36ad0	4,177,94,10	panel	マインドチェンジ	Mind Change
-1771@36ad0	100,177,130,10	panel-r	// 双生のアリステラ	// Aristella the Twin
+1771@36ad0	100,177,130,10	panel-r	// 双生のアリステラ	// Gemini Aristella
 1771@36ad0	4,187,94,11	panel	レヴォリューション	Revolution
-1771@36ad0	100,187,130,11	panel-r	// 戦女神ニルヴァーナ	// Nirvana, War Goddess
-1771@36ad0	4,199,94,10	panel	ジハード	Jihad
-1771@36ad0	100,199,130,10	panel-r	// 創生のパルティナ	// Paltina of Creation
+1771@36ad0	100,187,130,11	panel-r	// 戦女神ニルヴァーナ	// Nirvana, Goddess of Battle
+1771@36ad0	4,199,94,10	panel	ジハード	Crusade
+1771@36ad0	100,199,130,10	panel-r	// 創生のパルティナ	// Paltina the Creator
 1771@36ad0	4,210,94,10	panel	サンクチュアリ	Sanctuary
-1771@36ad0	100,210,130,10	panel-r	// 半獣の乙女ラクシミ	// Lakshimi, Beast-Maiden
+1771@36ad0	100,210,130,10	panel-r	// 半獣の乙女ラクシミ	// Laksimi the Half-Beast
 1771@36ad0	4,221,94,10	panel	リフレッシュメント	Refreshment
-1771@36ad0	100,221,130,10	panel-r	// 聖泉の精霊キュリン	// Curin, Spring Spirit
+1771@36ad0	100,221,130,10	panel-r	// 聖泉の精霊キュリン	// Cullin Fairy of the Holy Spring
 1771@36ad0	4,231,94,11	panel	キスオブデス	Kiss of Death
-1771@36ad0	100,231,130,11	panel-r	// 闇の女帝ヴァネッサ	// Vanessa, Dark Empress
+1771@36ad0	100,231,130,11	panel-r	// 闇の女帝ヴァネッサ	// Vanessa, Empress of Darkness
 1771@36ad0	4,243,94,10	panel	フォーチュン	Fortune
-1771@36ad0	100,243,130,10	panel-r	// 占師パスラハ	// Pasraha the Seer
+1771@36ad0	100,243,130,10	panel-r	// 占師パスラハ	// Vasuraha the Beholder
 1771@36ad0	4,254,94,10	panel	ミラージュ	Mirage
 1771@36ad0	100,254,130,10	panel-r	// 夢見のルビナ	// Rubina the Dreamer
 1771@36ad0	4,264,94,11	panel	バンシーズクライ	Banshee's Cry
-1771@36ad0	100,264,130,11	panel-r	// 葬送のイオナ	// Iona the Mourner
+1771@36ad0	100,264,130,11	panel-r	// 葬送のイオナ	// Iona the Gravedigger
 1771@36ad0	4,275,94,11	panel	アイヴィウィップ	Ivy Whip
-1771@36ad0	100,275,130,11	panel-r	// 樹木の精霊ドリアデ	// Dryad, Tree Spirit
+1771@36ad0	100,275,130,11	panel-r	// 樹木の精霊ドリアデ	// Dryad, Nymph of the Woods
 1771@36ad0	4,287,94,10	panel	サンドストーム	Sand Storm
-1771@36ad0	100,287,130,10	panel-r	// 砂漠の番人ラーサ	// Rasa, Desert Guardian
+1771@36ad0	100,287,130,10	panel-r	// 砂漠の番人ラーサ	// Lhasa, Guardian of the Desert
 1771@36ad0	4,297,94,11	panel	マントラップ	Mantrap
-1771@36ad0	100,297,130,11	panel-r	// 魔性のエンドメイラ	// Endmeira, Temptress
-1771@36ad0	4,308,94,11	panel	ロックフォール	Rock Fall
-1771@36ad0	100,308,130,11	panel-r	// 小悪魔リップフェイク	// Rip Fake the Little Devil
+1771@36ad0	100,297,130,11	panel-r	// 魔性のエンドメイラ	// Endomayla the Enchantress
+1771@36ad0	4,308,94,11	panel	ロックフォール	Rockfall
+1771@36ad0	100,308,130,11	panel-r	// 小悪魔リップフェイク	// Ripfaike the Devilish
 1771@36ad0	4,319,94,11	panel	エースガード	Ace Guard
-1771@36ad0	100,319,130,11	panel-r	// 獅子王アレムロンド	// Lion King Alemlond
+1771@36ad0	100,319,130,11	panel-r	// 獅子王アレムロンド	// Lion King Allemronde
 1771@36ad0	4,331,94,10	panel	ジェノサイド	Genocide
-1771@36ad0	100,331,130,10	panel-r	// 煉獄の魔竜ブロンガ	// Brongaa of Purgatory
+1771@36ad0	100,331,130,10	panel-r	// 煉獄の魔竜ブロンガ	// Brongaa, Dragon of Purgatory
 1771@36ad0	4,342,94,10	panel	リィンカーネーション	Reincarnation
 1771@36ad0	100,342,130,10	panel-r	// 名を奪われし天使	// The Nameless Angel
-1771@36ad0	4,352,94,11	panel	リヴェリオン	Revellion
-1771@36ad0	100,352,130,11	panel-r	// 天使長フラウヴェル	// Frauvel the Archangel
+1771@36ad0	4,352,94,11	panel	リヴェリオン	Angelic Thunder
+1771@36ad0	100,352,130,11	panel-r	// 天使長フラウヴェル	// The Seraph Flauvel
 1771@36ad0	4,364,94,10	panel	オブリヴィアスドーン	Oblivious Dawn
-1771@36ad0	100,364,130,10	panel-r	// 暁のゾイエック	// Zoiek of the Dawn
+1771@36ad0	100,364,130,10	panel-r	// 暁のゾイエック	// Daybreak Zoyeck
 1771@36ad0	4,375,94,10	panel	コーマカルマ	Coma Karma
-1771@36ad0	100,375,130,10	panel-r	// 灰被りのマイメイエ	// Maimeye the Ash-Clad
+1771@36ad0	100,375,130,10	panel-r	// 灰被りのマイメイエ	// Mimeye of the Ashes
 1771@36ad0	4,386,94,10	panel	ジャッジメントゼロ	Judgment Zero
-1771@36ad0	100,386,130,10	panel-r	// 告死天使キュルケ	// Circe, Angel of Death
+1771@36ad0	100,386,130,10	panel-r	// 告死天使キュルケ	// Grim Angel Kirke
 1771@36ad0	4,396,94,11	panel	ラウーガー	Rauher
 1771@36ad0	100,396,130,11	panel-r	// ヘグゼーの従順たる獣人	// Hegzee's Beast-Man
 1771@36ad0	4,408,94,10	panel	インサニティ	Insanity
@@ -1565,7 +1565,7 @@
 2684@37b60	202,154,204,14	menu	ソルティエ専用	Soltier only
 2684@37b60	202,168,204,14	menu	エミリオ専用	Emilia only
 2684@37b60	202,182,204,14	menu	エースタイプが合えばOK!	Ace Types must match
-2684@1cc20	0,0,62,16	menu	メイクドール	Make Doll
+2684@1cc20	0,0,62,16	menu	メイクドール	Doll Craft
 2684@1cc20	0,18,63,16	menu	ネクロゲート	Necro Gate
 2684@1cc20	0,36,73,16	menu	メデューサアイ	Medusa Eye
 2684@1cc20	0,54,73,16	menu	ポイズンブレス	Poison Breath
@@ -1577,13 +1577,13 @@
 2684@1cc20	0,162,73,16	menu	シールドバリア	Shield Barrier
 2684@1cc20	0,180,38,16	menu	フレイム	Flame
 2684@1cc20	0,198,55,16	menu	ブリザード	Blizzard
-2684@1cc20	0,216,73,16	menu	サンダーボルト	Thunder Bolt
+2684@1cc20	0,216,73,16	menu	サンダーボルト	Thunderbolt
 2684@1cc20	0,234,53,16	menu	バニッシュ	Banish
 2684@1cc20	0,252,71,16	menu	ドラゴンキラー	Dragon Killer
 2684@1cc20	0,270,73,16	menu	アースクウェイク	Earthquake
 2684@1cc20	0,288,73,16	menu	マインドチェンジ	Mind Change
 2684@1cc20	0,306,73,16	menu	レヴォリューション	Revolution
-2684@1cc20	0,324,46,16	menu	ジハード	Jihad
+2684@1cc20	0,324,46,16	menu	ジハード	Crusade
 2684@1cc20	0,342,72,16	menu	サンクチュアリ	Sanctuary
 2684@1cc20	76,0,73,16	menu	リフレッシュメント	Refreshment
 2684@1cc20	76,18,65,16	menu	キスオブデス	Kiss of Death
@@ -1593,18 +1593,18 @@
 2684@1cc20	73,90,77,16	menu	アイヴィウィップ	Ivy Whip
 2684@1cc20	76,108,70,16	menu	サンドストーム	Sand Storm
 2684@1cc20	73,126,64,16	menu	マントラップ	Mantrap
-2684@1cc20	76,144,71,16	menu	ロックフォール	Rock Fall
+2684@1cc20	76,144,71,16	menu	ロックフォール	Rockfall
 2684@1cc20	73,162,69,16	menu	エースガード	Ace Guard
 2684@1cc20	76,180,59,16	menu	ジェノサイド	Genocide
 2684@1cc20	76,198,73,16	menu	リインカーネーション	Reincarnation
-2684@1cc20	73,216,61,16	menu	リヴェリオン	Revellion
+2684@1cc20	73,216,61,16	menu	リヴェリオン	Angelic Thunder
 2684@1cc20	76,234,76,16	menu	オブリヴィアスドーン	Oblivious Dawn
 2684@1cc20	76,252,66,16	menu	コーマカルマ	Coma Karma
 2684@1cc20	73,270,77,16	menu	ジャッジメントゼロ	Judgment Zero
 2684@1cc20	73,288,57,16	menu	ラウーガー	Rauher
 2684@1cc20	73,306,64,16	menu	インサニティ	Insanity
 2684@1cc20	76,324,38,16	menu	ヴァイス	Vise
-2684@23da0	17,0,115,21	banner	メイクドール	Make Doll
+2684@23da0	17,0,115,21	banner	メイクドール	Doll Craft
 2684@23da0	17,21,116,21	banner	ネクロゲート	Necro Gate
 2684@23da0	7,42,136,21	banner	メデューサアイ	Medusa Eye
 2684@23da0	6,63,137,21	banner	ポイズンブレス	Poison Breath
@@ -1616,13 +1616,13 @@
 2684@23da0	8,189,133,21	banner	シールドバリア	Shield Barrier
 2684@23da0	38,210,74,21	banner	フレイム	Flame
 2684@23da0	28,231,93,21	banner	ブリザード	Blizzard
-2684@23da0	7,252,135,21	banner	サンダーボルト	Thunder Bolt
+2684@23da0	7,252,135,21	banner	サンダーボルト	Thunderbolt
 2684@23da0	28,274,94,20	banner	バニッシュ	Banish
 2684@23da0	8,294,134,21	banner	ドラゴンキラー	Dragon Killer
 2684@23da0	0,315,149,21	banner	アースクウェイク	Earthquake
 2684@23da0	1,336,148,21	banner	マインドチェンジ	Mind Change
 2684@23da0	0,357,149,21	banner	レヴォリューション	Revolution
-2684@23da0	36,378,78,21	banner	ジハード	Jihad
+2684@23da0	36,378,78,21	banner	ジハード	Crusade
 2684@23da0	9,400,132,20	banner	サンクチュアリ	Sanctuary
 2684@23da0	150,0,148,21	banner	リフレッシュメント	Refreshment
 2684@23da0	165,21,117,21	banner	キスオブデス	Kiss of Death
@@ -1632,11 +1632,11 @@
 2684@23da0	151,105,146,21	banner	アイヴィウィップ	Ivy Whip
 2684@23da0	158,126,131,21	banner	サンドストーム	Sand Storm
 2684@23da0	167,147,114,21	banner	マントラップ	Mantrap
-2684@23da0	158,169,132,20	banner	ロックフォール	Rock Fall
+2684@23da0	158,169,132,20	banner	ロックフォール	Rockfall
 2684@23da0	165,189,117,21	banner	エースガード	Ace Guard
 2684@23da0	169,210,110,21	banner	ジェノサイド	Genocide
 2684@23da0	149,232,149,20	banner	リインカーネーション	Reincarnation
-2684@23da0	169,252,109,21	banner	リヴェリオン	Revellion
+2684@23da0	169,252,109,21	banner	リヴェリオン	Angelic Thunder
 2684@23da0	149,273,149,21	banner	オブリヴィアスドーン	Oblivious Dawn
 2684@23da0	164,295,119,20	banner	コーマカルマ	Coma Karma
 2684@23da0	149,315,149,21	banner	ジャッジメントゼロ	Judgment Zero
@@ -1671,46 +1671,46 @@
 2642@c0	12,1,34,13	menu	威力	Power
 2642@c0	12,71,78,14	menu	威力＝自TEC★	Power=Own TEC
 2642@c0	112,71,42,14	menu	敵GEN★	Foe GEN
-2642@d940	0,0,184,12	menu-r	傀儡師エクシール	■ Exeel the Puppeteer
-2642@d940	0,12,184,12	menu-r	屍術師ネルダ	■ Nelda the Necromancer
-2642@d940	0,24,184,12	menu-r	咎人ラウネ	■ Raune the Sinner
-2642@d940	0,36,184,12	menu-r	復讐のバルダック	■ Baldak of Revenge
-2642@d940	0,48,184,12	menu-r	堕天のエイミア	■ Eimia the Fallen
-2642@d940	0,60,184,12	menu-r	伝説のホーク	■ Hawk the Legend
+2642@d940	0,0,184,12	menu-r	傀儡師エクシール	■ Puppet Master Exthiel
+2642@d940	0,12,184,12	menu-r	屍術師ネルダ	■ The Necromancer Gnelda
+2642@d940	0,24,184,12	menu-r	咎人ラウネ	■ Luane the Condemned
+2642@d940	0,36,184,12	menu-r	復讐のバルダック	■ Baldack the Avenger
+2642@d940	0,48,184,12	menu-r	堕天のエイミア	■ Aymia the Fallen
+2642@d940	0,60,184,12	menu-r	伝説のホーク	■ The Legendary Hawk
 2642@d940	0,72,184,12	menu-r	風魔サエザル	■ Saezar the Wind Demon
-2642@d940	0,84,184,12	menu-r	赤月の悪魔アノン	■ Anon, Red Moon Demon
-2642@d940	0,96,184,12	menu-r	鋼鉄騎士ガラド	■ Garad the Iron Knight
-2642@d940	0,108,184,12	menu-r	護人ハシャハティ	■ Hashahati the Guardian
-2642@d940	0,120,184,12	menu-r	大魔導マゼンデ	■ Magende the Archmage
-2642@d940	0,132,184,12	menu-r	氷葬のエンリュケ	■ Enruke of the Ice Tomb
-2642@d940	0,144,184,12	menu-r	天空のルキオン	■ Lucion of the Sky
-2642@d940	0,156,184,12	menu-r	聖アスタ＝ナレフ	■ Saint Asta-Naref
-2642@d940	0,168,184,12	menu-r	竜殺しの英雄ギル	■ Gil the Dragon Slayer
-2642@d940	0,180,184,12	menu-r	怒りの巨人ドークス	■ Dokes the Angry Giant
-2642@d940	0,192,184,12	menu-r	双生のアリステラ	■ Aristella the Twin
-2642@d940	0,204,184,12	menu-r	戦女神ニルヴァーナ	■ Nirvana, War Goddess
-2642@d940	0,216,184,12	menu-r	創生のパルティナ	■ Paltina of Creation
-2642@d940	0,228,184,12	menu-r	半獣の乙女ラクシミ	■ Lakshimi, Beast-Maiden
-2642@d940	190,0,170,12	menu-r	聖泉の精霊キュリン	■ Curin, Spring Spirit
-2642@d940	190,12,170,12	menu-r	闇の女帝ヴァネッサ	■ Vanessa, Dark Empress
-2642@d940	190,24,170,12	menu-r	占師パスラハ	■ Pasraha the Seer
+2642@d940	0,84,184,12	menu-r	赤月の悪魔アノン	■ Anon of the Red Moon
+2642@d940	0,96,184,12	menu-r	鋼鉄騎士ガラド	■ Gallad, the Steel Knight
+2642@d940	0,108,184,12	menu-r	護人ハシャハティ	■ Hasha Hatti the Protector
+2642@d940	0,120,184,12	menu-r	大魔導マゼンデ	■ Masende, the High Sorceress
+2642@d940	0,132,184,12	menu-r	氷葬のエンリュケ	■ Ice Crusher Enreuke
+2642@d940	0,144,184,12	menu-r	天空のルキオン	■ Ruquion of the Heavens
+2642@d940	0,156,184,12	menu-r	聖アスタ＝ナレフ	■ San Asta Narev
+2642@d940	0,168,184,12	menu-r	竜殺しの英雄ギル	■ Dragon Slaying Gill
+2642@d940	0,180,184,12	menu-r	怒りの巨人ドークス	■ Doekes, Lord of Rage
+2642@d940	0,192,184,12	menu-r	双生のアリステラ	■ Gemini Aristella
+2642@d940	0,204,184,12	menu-r	戦女神ニルヴァーナ	■ Nirvana, Goddess of Battle
+2642@d940	0,216,184,12	menu-r	創生のパルティナ	■ Paltina the Creator
+2642@d940	0,228,184,12	menu-r	半獣の乙女ラクシミ	■ Laksimi the Half-Beast
+2642@d940	190,0,170,12	menu-r	聖泉の精霊キュリン	■ Cullin Fairy of the Holy Spring
+2642@d940	190,12,170,12	menu-r	闇の女帝ヴァネッサ	■ Vanessa, Empress of Darkness
+2642@d940	190,24,170,12	menu-r	占師パスラハ	■ Vasuraha the Beholder
 2642@d940	190,36,170,12	menu-r	夢見のルビナ	■ Rubina the Dreamer
-2642@d940	190,48,170,12	menu-r	葬送のイオナ	■ Iona the Mourner
-2642@d940	190,60,170,12	menu-r	樹木の精霊ドリアデ	■ Dryad, Tree Spirit
-2642@d940	190,72,170,12	menu-r	砂漠の番人ラーサ	■ Rasa, Desert Guardian
-2642@d940	190,84,170,12	menu-r	魔性のエンドメイラ	■ Endmeira, Temptress
-2642@d940	190,96,170,12	menu-r	小悪魔リップフェイク	■ Rip Fake the Little Devil
-2642@d940	190,108,170,12	menu-r	獅子王アレムロンド	■ Lion King Alemlond
-2642@d940	190,120,170,12	menu-r	煉獄の魔竜ブロンガ	■ Brongaa of Purgatory
+2642@d940	190,48,170,12	menu-r	葬送のイオナ	■ Iona the Gravedigger
+2642@d940	190,60,170,12	menu-r	樹木の精霊ドリアデ	■ Dryad, Nymph of the Woods
+2642@d940	190,72,170,12	menu-r	砂漠の番人ラーサ	■ Lhasa, Guardian of the Desert
+2642@d940	190,84,170,12	menu-r	魔性のエンドメイラ	■ Endomayla the Enchantress
+2642@d940	190,96,170,12	menu-r	小悪魔リップフェイク	■ Ripfaike the Devilish
+2642@d940	190,108,170,12	menu-r	獅子王アレムロンド	■ Lion King Allemronde
+2642@d940	190,120,170,12	menu-r	煉獄の魔竜ブロンガ	■ Brongaa, Dragon of Purgatory
 2642@d940	190,132,170,12	menu-r	名を奪われし天使	■ The Nameless Angel
-2642@d940	190,144,170,12	menu-r	天使長フラウヴェル	■ Frauvel the Archangel
-2642@d940	190,156,170,12	menu-r	暁のゾイエック	■ Zoiek of the Dawn
-2642@d940	190,168,170,12	menu-r	灰被りのマイメイエ	■ Maimeye the Ash-Clad
-2642@d940	190,180,170,12	menu-r	告死天使キュルケ	■ Circe, Angel of Death
+2642@d940	190,144,170,12	menu-r	天使長フラウヴェル	■ The Seraph Flauvel
+2642@d940	190,156,170,12	menu-r	暁のゾイエック	■ Daybreak Zoyeck
+2642@d940	190,168,170,12	menu-r	灰被りのマイメイエ	■ Mimeye of the Ashes
+2642@d940	190,180,170,12	menu-r	告死天使キュルケ	■ Grim Angel Kirke
 2642@d940	190,192,170,12	menu-r	ヘグゼーの従順たる獣人	■ Hegzee's Beast-Man
 2642@d940	190,204,170,12	menu-r	狂風のネルガー	■ Nergar of the Mad Wind
 2642@d940	190,216,170,12	menu-r	加護のレティオル	■ Retiol of Protection
-2703@140bf0	0,0,81,13	menu	メイクドール	Make Doll
+2703@140bf0	0,0,81,13	menu	メイクドール	Doll Craft
 2703@140bf0	0,13,77,13	menu	ネクロゲート	Necro Gate
 2703@140bf0	0,26,92,13	menu	メデューサアイ	Medusa Eye
 2703@140bf0	0,39,93,13	menu	ポイズンブレス	Poison Breath
@@ -1722,13 +1722,13 @@
 2703@140bf0	0,117,93,13	menu	シールドバリア	Shield Barrier
 2703@140bf0	0,131,52,12	menu	フレイム	Flame
 2703@140bf0	0,143,66,13	menu	ブリザード	Blizzard
-2703@140bf0	0,156,91,13	menu	サンダーボルト	Thunder Bolt
+2703@140bf0	0,156,91,13	menu	サンダーボルト	Thunderbolt
 2703@140bf0	0,169,66,13	menu	バニッシュ	Banish
 2703@140bf0	0,182,90,13	menu	ドラゴンキラー	Dragon Killer
 2703@140bf0	0,196,105,12	menu	アースクウェイク	Earthquake
 2703@140bf0	0,208,108,13	menu	マインドチェンジ	Mind Change
 2703@140bf0	0,221,118,13	menu	レヴォリューション	Revolution
-2703@140bf0	0,234,52,13	menu	ジハード	Jihad
+2703@140bf0	0,234,52,13	menu	ジハード	Crusade
 2703@140bf0	0,247,91,12	menu	サンクチュアリ	Sanctuary
 2703@140bf0	135,0,117,13	menu	リフレッシュメント	Refreshment
 2703@140bf0	135,13,79,13	menu	キスオブデス	Kiss of Death
@@ -1738,11 +1738,11 @@
 2703@140bf0	135,65,108,13	menu	アイヴィウィップ	Ivy Whip
 2703@140bf0	135,78,93,13	menu	サンドストーム	Sand Storm
 2703@140bf0	135,91,88,13	menu	マントラップ	Mantrap
-2703@140bf0	135,104,93,13	menu	ロックフォール	Rock Fall
+2703@140bf0	135,104,93,13	menu	ロックフォール	Rockfall
 2703@140bf0	135,117,79,13	menu	エースガード	Ace Guard
 2703@140bf0	135,130,126,13	menu	ジェノサイド	Genocide
 2703@140bf0	136,143,133,10	menu	リインカーネーション	Reincarnation
-2703@140bf0	135,156,78,13	menu	リヴェリオン	Revellion
+2703@140bf0	135,156,78,13	menu	リヴェリオン	Angelic Thunder
 2703@140bf0	135,169,134,13	menu	オブリヴィアスドーン	Oblivious Dawn
 2703@140bf0	135,183,78,12	menu	コーマカルマ	Coma Karma
 2703@140bf0	135,195,120,13	menu	ジャッジメントゼロ	Judgment Zero
@@ -1974,13 +1974,7 @@
 3@3d8800	24,118,30,11	paper	詳細	Details
 3@3d8800	100,118,78,12	menu	最大値の20%	20% of max
 3@3d8800	216,121,30,11	paper	閉じる	Close
-3@4c5430	204,0,40,22	menu	はい	Yes
-3@4c5430	252,0,52,22	menu	いいえ	No
-3@4c5430	0,24,328,22	menu	ここまでの戦いの記録をセーブしますか?	Save the record of this battle?
-3@4c5430	0,46,306,23	menu	本当にセーブしなくてよろしいですか?	Really continue without saving?
-3@4c5430	0,69,72,18	menu	セーブする	Save
-3@4c5430	74,69,116,18	menu	次のマップに進む	Next Map
-3@4c5430	0,88,258,20	menu	クリアデータをセーブしますか?	Save your clear data?
+3@4c5430	0,0,326,108	ygg	save prompt: はい いいえ, セーブしますか?, セーブする 次のマップに進む, クリアデータ (D14)	00002@2a37e0
 3@4ca450	124,0,74,17	menu	キャンセル	Cancel
 3@4ca450	196,0,130,17	menu	タイトル画面へ戻る	Back to Title
 3@4ca450	0,18,222,25	menu	ゲームリスタートしますか?	Restart the game?
@@ -2005,7 +1999,7 @@
 3@54a2b0	113,1,231,39	banner-r	TECダウン…	TEC Down...
 3@54b410	108,1,236,39	banner-r	LUKダウン…	LUK Down...
 3@54c420	240,1,104,38	banner-r	再起!	Revive!
-3@389080	0,0,62,18	menu	メイクドール	Make Doll
+3@389080	0,0,62,18	menu	メイクドール	Doll Craft
 3@389080	0,18,63,18	menu	ネクロゲート	Necro Gate
 3@389080	0,36,73,18	menu	メデューサアイ	Medusa Eye
 3@389080	0,54,73,18	menu	ポイズンブレス	Poison Breath
@@ -2017,13 +2011,13 @@
 3@389080	0,162,73,17	menu	シールドバリア	Shield Barrier
 3@389080	0,180,38,18	menu	フレイム	Flame
 3@389080	0,198,55,18	menu	ブリザード	Blizzard
-3@389080	0,216,73,17	menu	サンダーボルト	Thunder Bolt
+3@389080	0,216,73,17	menu	サンダーボルト	Thunderbolt
 3@389080	0,234,53,18	menu	バニッシュ	Banish
 3@389080	0,252,71,18	menu	ドラゴンキラー	Dragon Killer
 3@389080	0,270,73,18	menu	アースクウェイク	Earthquake
 3@389080	0,288,73,18	menu	マインドチェンジ	Mind Change
 3@389080	0,306,73,17	menu	レヴォリューション	Revolution
-3@389080	0,324,70,18	menu	ジハード	Jihad
+3@389080	0,324,70,18	menu	ジハード	Crusade
 3@389080	0,342,72,16	menu	サンクチュアリ	Sanctuary
 3@389080	76,0,73,18	menu	リフレッシュメント	Refreshment
 3@389080	76,18,65,17	menu	キスオブデス	Kiss of Death
@@ -2033,7 +2027,7 @@
 3@389080	73,90,77,17	menu	アイヴィウィップ	Ivy Whip
 3@389080	76,108,70,18	menu	サンドストーム	Sand Storm
 3@389080	73,126,64,18	menu	マントラップ	Mantrap
-3@389080	76,144,71,18	menu	ロックフォール	Rock Fall
+3@389080	76,144,71,18	menu	ロックフォール	Rockfall
 3@389080	73,162,69,18	menu	エースガード	Ace Guard
 3@389080	76,180,59,18	menu	ジェノサイド	Genocide
 3@389080	76,198,73,17	menu	リインカーネーション	Reincarnation
@@ -2044,7 +2038,7 @@
 3@389080	73,306,64,18	menu	インサニティ	Insanity
 3@389080	76,324,74,18	menu	ヴァイス	Vise
 3@389080	76,342,76,16	menu	ダイヤモンドダスト	Diamond Dust
-3@104960	0,2,68,16	menu	メイクドール	Make Doll
+3@104960	0,2,68,16	menu	メイクドール	Doll Craft
 3@104960	0,21,70,16	menu	ネクロゲート	Necro Gate
 3@104960	0,40,80,16	menu	メデューサアイ	Medusa Eye
 3@104960	0,59,82,16	menu	ポイズンブレス	Poison Breath
@@ -2056,13 +2050,13 @@
 3@104960	0,173,83,16	menu	シールドバリア	Shield Barrier
 3@104960	0,192,43,16	menu	フレイム	Flame
 3@104960	0,211,60,16	menu	ブリザード	Blizzard
-3@104960	0,230,82,16	menu	サンダーボルト	Thunder Bolt
+3@104960	0,230,82,16	menu	サンダーボルト	Thunderbolt
 3@104960	0,249,60,16	menu	バニッシュ	Banish
 3@104960	0,268,80,16	menu	ドラゴンキラー	Dragon Killer
 3@104960	0,287,89,16	menu	アースクウェイク	Earthquake
 3@104960	0,306,90,16	menu	マインドチェンジ	Mind Change
 3@104960	0,325,98,16	menu	レヴォリューション	Revolution
-3@104960	0,344,51,16	menu	ジハード	Jihad
+3@104960	0,344,51,16	menu	ジハード	Crusade
 3@104960	0,363,78,16	menu	サンクチュアリ	Sanctuary
 3@104960	112,2,94,16	menu	リフレッシュメント	Refreshment
 3@104960	112,21,72,16	menu	キスオブデス	Kiss of Death
@@ -2072,7 +2066,7 @@
 3@104960	112,97,82,16	menu	アイヴィウィップ	Ivy Whip
 3@104960	112,116,78,16	menu	サンドストーム	Sand Storm
 3@104960	112,135,68,16	menu	マントラップ	Mantrap
-3@104960	112,154,78,16	menu	ロックフォール	Rock Fall
+3@104960	112,154,78,16	menu	ロックフォール	Rockfall
 3@104960	112,173,73,16	menu	エースガード	Ace Guard
 3@104960	112,192,67,16	menu	ジェノサイド	Genocide
 3@104960	112,211,110,16	menu	リインカーネーション	Reincarnation
@@ -2083,7 +2077,7 @@
 3@104960	112,325,69,16	menu	インサニティ	Insanity
 3@104960	112,344,43,16	menu	ヴァイス	Vise
 3@104960	112,363,101,16	menu	ダイヤモンドダスト	Diamond Dust
-1824@b2e0	0,1,43,12	menu	メイクドール	Make Doll
+1824@b2e0	0,1,43,12	menu	メイクドール	Doll Craft
 1824@b2e0	0,13,43,13	menu	ネクロゲート	Necro Gate
 1824@b2e0	0,27,50,12	menu	メデューサアイ	Medusa Eye
 1824@b2e0	0,39,50,13	menu	ポイズンブレス	Poison Breath
@@ -2095,13 +2089,13 @@
 1824@b2e0	0,117,49,13	menu	シールドバリア	Shield Barrier
 1824@b2e0	0,131,29,12	menu	フレイム	Flame
 1824@b2e0	0,143,35,13	menu	ブリザード	Blizzard
-1824@b2e0	0,156,50,13	menu	サンダーボルト	Thunder Bolt
+1824@b2e0	0,156,50,13	menu	サンダーボルト	Thunderbolt
 1824@b2e0	0,170,36,12	menu	バニッシュ	Banish
 1824@b2e0	0,182,50,13	menu	ドラゴンキラー	Dragon Killer
 1824@b2e0	0,196,50,12	menu	アースクウェイク	Earthquake
 1824@b2e0	0,208,50,13	menu	マインドチェンジ	Mind Change
 1824@b2e0	0,222,50,12	menu	レヴォリューション	Revolution
-1824@b2e0	0,234,29,13	menu	ジハード	Jihad
+1824@b2e0	0,234,29,13	menu	ジハード	Crusade
 1824@b2e0	0,248,50,12	menu	サンクチュアリ	Sanctuary
 1824@b2e0	50,0,50,13	menu	リフレッシュメント	Refreshment
 1824@b2e0	50,13,43,13	menu	キスオブデス	Kiss of Death
@@ -2111,18 +2105,18 @@
 1824@b2e0	50,65,50,13	menu	アイヴィウィップ	Ivy Whip
 1824@b2e0	50,78,50,13	menu	サンドストーム	Sand Storm
 1824@b2e0	50,91,43,13	menu	マントラップ	Mantrap
-1824@b2e0	50,105,49,12	menu	ロックフォール	Rock Fall
+1824@b2e0	50,105,49,12	menu	ロックフォール	Rockfall
 1824@b2e0	50,117,43,13	menu	エースガード	Ace Guard
 1824@b2e0	50,131,40,12	menu	ジェノサイド	Genocide
 1824@b2e0	50,143,50,13	menu	リインカーネーション	Reincarnation
-1824@b2e0	50,157,37,12	menu	リヴェリオン	Revellion
+1824@b2e0	50,157,37,12	menu	リヴェリオン	Angelic Thunder
 1824@b2e0	50,169,50,13	menu	オブリヴィアスドーン	Oblivious Dawn
 1824@b2e0	50,182,43,12	menu	コーマカルマ	Coma Karma
 1824@b2e0	50,195,50,13	menu	ジャッジメントゼロ	Judgment Zero
 1824@b2e0	50,209,37,12	menu	ラウーガー	Rauher
 1824@b2e0	50,222,43,12	menu	インサニティ	Insanity
 1824@b2e0	50,235,28,12	menu	ヴァイス	Vise
-3@3aa5a0	0,0,72,16	banner-l	メイクドール	Make Doll
+3@3aa5a0	0,0,72,16	banner-l	メイクドール	Doll Craft
 3@3aa8e0	0,0,76,16	banner-l	ネクロゲート	Necro Gate
 3@3aac30	0,0,85,16	banner-l	メデューサアイ	Medusa Eye
 3@3ab020	0,0,86,16	banner-l	ポイズンブレス	Poison Breath
@@ -2134,13 +2128,13 @@
 3@3ac610	1,0,85,15	banner-l	シールドバリア	Shield Barrier
 3@3ac9d0	0,0,48,15	banner-l	フレイム	Flame
 3@3acc20	0,0,63,16	banner-l	ブリザード	Blizzard
-3@3acee0	0,0,87,16	banner-l	サンダーボルト	Thunder Bolt
+3@3acee0	0,0,87,16	banner-l	サンダーボルト	Thunderbolt
 3@3ad2a0	0,0,60,16	banner-l	バニッシュ	Banish
 3@3ad550	1,0,86,16	banner-l	ドラゴンキラー	Dragon Killer
 3@3ad900	0,0,96,16	banner-l	アースクウェイク	Earthquake
 3@3adcc0	0,0,95,16	banner-l	マインドチェンジ	Mind Change
 3@3ae090	1,0,104,16	banner-l	レヴォリューション	Revolution
-3@3ae4d0	1,0,49,15	banner-l	ジハード	Jihad
+3@3ae4d0	1,0,49,15	banner-l	ジハード	Crusade
 3@3ae7a0	0,0,85,15	banner-l	サンクチュアリ	Sanctuary
 3@3aeb70	1,0,104,15	banner-l	リフレッシュメント	Refreshment
 3@3aefb0	0,0,76,16	banner-l	キスオブデス	Kiss of Death
@@ -2150,7 +2144,7 @@
 3@3afd40	0,0,94,16	banner-l	アイヴィウィップ	Ivy Whip
 3@3b0100	0,0,85,16	banner-l	サンドストーム	Sand Storm
 3@3b04b0	0,0,74,15	banner-l	マントラップ	Mantrap
-3@3b07f0	1,0,83,16	banner-l	ロックフォール	Rock Fall
+3@3b07f0	1,0,83,16	banner-l	ロックフォール	Rockfall
 3@3b0ba0	0,0,73,16	banner-l	エースガード	Ace Guard
 3@3b0f10	1,0,70,16	banner-l	ジェノサイド	Genocide
 3@3b1260	1,0,117,16	banner-l	リインカーネーション	Reincarnation
@@ -2531,16 +2525,8 @@
 2140@81370	42,100,46,12	cap-w	caption	Shield Barrier
 2140@88770	65,0,240,20	banner-r	title	Enemies Use Skills Too!
 2140@88770	18,114,164,34	cap	caption	At MAX, enemies may\nuse Skills too!
-2140@916a0	65,0,240,20	banner-r	title	Moving on Waterside Terrain
-2140@916a0	18,44,40,22	cap-w	caption	Waterside
-2140@916a0	115,28,160,32	cap	caption	Only the "Aquatic" move type\ncan enter Waterside terrain!
-2140@916a0	118,114,72,16	cap	caption	Can't move
-2140@916a0	208,114,47,16	cap	caption	Can move
-2140@96cd0	65,0,240,20	banner-r	title	Moving on Ice Terrain
-2140@96cd0	18,46,37,19	cap-w	caption	Ice
-2140@96cd0	100,25,180,33	cap	caption	Once frozen into Ice,\nanyone can cross
-2140@96cd0	125,110,45,16	cap	caption	Can move
-2140@96cd0	208,110,47,16	cap	caption	Can move
+2140@916a0	0,0,320,150	ygg	水辺地形の移動について (D14)	01413@5e250
+2140@96cd0	0,0,320,150	ygg	氷上地形の移動について (D14)	01413@63720
 2140@9c040	64,0,240,20	banner-r	title	Cannons
 2140@9c040	142,32,144,64	cap	caption	The cannon's owner deals\nmorale damage to all\nfoes in range\n(except at night)
 2140@a1ad0	66,0,240,20	banner-r	title	Catapults
@@ -2768,45 +2754,46 @@
 2700@bb050	59,141,36,10	tag	ミゼル	Mizer
 2700@bb050	59,160,36,10	tag	スレイプ	Sleip
 3@ff7e0	0,1,63,14	menu	:カードデータ	:Card Data
-218@0	0,189,256,41	cardcap	傀儡師エクシール	Exeel the Puppeteer
-220@0	0,189,256,41	cardcap	屍術師ネルダ	Nelda the Necromancer
-222@0	0,189,256,41	cardcap	咎人ラウネ	Raune the Sinner
-224@0	0,189,256,41	cardcap	復讐のバルダック	Baldak of Revenge
-226@0	0,189,256,41	cardcap	堕天のエイミア	Eimia the Fallen
-228@0	0,189,256,41	cardcap	伝説のホーク	Hawk the Legend
-230@0	0,189,256,41	cardcap	風魔サエザル	Saezar the Wind Demon
-232@0	0,189,256,41	cardcap	赤月の悪魔アノン	Anon, Red Moon Demon
-234@0	0,189,256,41	cardcap	鋼鉄騎士ガラド	Garad the Iron Knight
-236@0	0,189,256,41	cardcap	護人ハシャハティ	Hashahati the Guardian
-238@0	0,189,256,41	cardcap	大魔導マゼンデ	Magende the Archmage
-240@0	0,189,256,41	cardcap	氷葬のエンリュケ	Enruke of the Ice Tomb
-242@0	0,189,256,41	cardcap	天空のルキオン	Lucion of the Sky
-244@0	0,189,256,41	cardcap	聖アスタ＝ナレフ	Saint Asta-Naref
-246@0	0,189,256,41	cardcap	竜殺しの英雄ギル	Gil the Dragon Slayer
-248@0	0,189,256,41	cardcap	怒りの巨人ドークス	Dokes the Angry Giant
-250@0	0,189,256,41	cardcap	双生のアリステラ	Aristella the Twin
-252@0	0,189,256,41	cardcap	戦女神ニルヴァーナ	Nirvana, War Goddess
-254@0	0,189,256,41	cardcap	創生のパルティナ	Paltina of Creation
-256@0	0,189,256,41	cardcap	半獣の乙女ラクシミ	Lakshimi, Beast-Maiden
-258@0	0,189,256,41	cardcap	聖泉の精霊キュリン	Curin, Spring Spirit
-260@0	0,189,256,41	cardcap	闇の女帝ヴァネッサ	Vanessa, Dark Empress
-262@0	0,189,256,41	cardcap	占師パスラハ	Pasraha the Seer
-264@0	0,189,256,41	cardcap	夢見のルビナ	Rubina the Dreamer
-266@0	0,189,256,41	cardcap	葬送のイオナ	Iona the Mourner
-268@0	0,189,256,41	cardcap	樹木の精霊ドリアデ	Dryad, Tree Spirit
-270@0	0,189,256,41	cardcap	砂漠の番人ラーサ	Rasa, Desert Guardian
-272@0	0,189,256,41	cardcap	魔性のエンドメイラ	Endmeira, Temptress
-274@0	0,189,256,41	cardcap	小悪魔リップフェイク	Rip Fake the Little Devil
-276@0	0,189,256,41	cardcap	獅子王アレムロンド	Lion King Alemlond
-278@0	0,189,256,41	cardcap	煉獄の魔竜ブロンガ	Brongaa of Purgatory
-280@0	0,189,256,41	cardcap	名を奪われし天使	The Nameless Angel
-282@0	0,189,256,41	cardcap	天使長フラウヴェル	Frauvel the Archangel
-284@0	0,189,256,41	cardcap	暁のゾイエック	Zoiek of the Dawn
-286@0	0,189,256,41	cardcap	灰被りのマイメイエ	Maimeye the Ash-Clad
-288@0	0,189,256,41	cardcap	告死天使キュルケ	Circe, Angel of Death
-290@0	0,189,256,41	cardcap	ヘグゼーの従順たる獣人	Hegzee's Beast-Man
-292@0	0,189,256,41	cardcap	狂風のネルガー	Nergar of the Mad Wind
-294@0	0,189,256,41	cardcap	加護のレティオル	Retiol of Protection
+# card pages both games share: the whole page from Yggdra Union (card name, poem, character; D14)
+218@0	0,0,280,230	ygg	メイクドール 傀儡師エクシール	00243@0
+220@0	0,0,280,230	ygg	ネクロゲート 屍術師ネルダ	00244@0
+222@0	0,0,280,230	ygg	メデューサアイ 咎人ラウネ	00245@0
+224@0	0,0,280,230	ygg	ポイズンブレス 復讐のバルダック	00246@0
+226@0	0,0,280,230	ygg	グラヴィティカオス 堕天のエイミア	00247@0
+228@0	0,0,280,230	ygg	アイテムブレイク 伝説のホーク	00248@0
+230@0	0,0,280,230	ygg	スティール 風魔サエザル	00249@0
+232@0	0,0,280,230	ygg	ブラッディクロー 赤月の悪魔アノン	00250@0
+234@0	0,0,280,230	ygg	チャリオット 鋼鉄騎士ガラド	00251@0
+236@0	0,0,280,230	ygg	シールドバリア 護人ハシャハティ	00252@0
+238@0	0,0,280,230	ygg	フレイム 大魔導マゼンデ	00253@0
+240@0	0,0,280,230	ygg	ブリザード 氷葬のエンリュケ	00254@0
+242@0	0,0,280,230	ygg	サンダーボルト 天空のルキオン	00255@0
+244@0	0,0,280,230	ygg	バニッシュ 聖アスタ＝ナレフ	00256@0
+246@0	0,0,280,230	ygg	ドラゴンキラー 竜殺しの英雄ギル	00257@0
+248@0	0,0,280,230	ygg	アースクウェイク 怒りの巨人ドークス	00258@0
+250@0	0,0,280,230	ygg	マインドチェンジ 双生のアリステラ	00259@0
+252@0	0,0,280,230	ygg	レヴォリューション 戦女神ニルヴァーナ	00260@0
+254@0	0,0,280,230	ygg	ジハード 創生のパルティナ	00261@0
+256@0	0,0,280,230	ygg	サンクチュアリ 半獣の乙女ラクシミ	00262@0
+258@0	0,0,280,230	ygg	リフレッシュメント 聖泉の精霊キュリン	00263@0
+260@0	0,0,280,230	ygg	キスオブデス 闇の女帝ヴァネッサ	00264@0
+262@0	0,0,280,230	ygg	フォーチュン 占師パスラハ	00265@0
+264@0	0,0,280,230	ygg	ミラージュ 夢見のルビナ	00266@0
+266@0	0,0,280,230	ygg	バンシーズクライ 葬送のイオナ	00267@0
+268@0	0,0,280,230	ygg	アイヴィウィップ 樹木の精霊ドリアデ	00268@0
+270@0	0,0,280,230	ygg	サンドストーム 砂漠の番人ラーサ	00269@0
+272@0	0,0,280,230	ygg	マントラップ 魔性のエンドメイラ	00270@0
+274@0	0,0,280,230	ygg	ロックフォール 小悪魔リップフェイク	00271@0
+276@0	0,0,280,230	ygg	エースガード 獅子王アレムロンド	00272@0
+278@0	0,0,280,230	ygg	ジェノサイド 煉獄の魔竜ブロンガ	00273@0
+280@0	0,0,280,230	ygg	リィンカーネーション 名を奪われし天使	00274@0
+282@0	0,0,280,230	ygg	リヴェリオン 天使長フラウヴェル	00275@0
+284@0	0,0,280,230	ygg	オブリヴィアスドーン 暁のゾイエック	00276@0
+286@0	0,0,280,230	ygg	コーマカルマ 灰被りのマイメイエ	00277@0
+288@0	0,0,280,230	ygg	ジャッジメントゼロ 告死天使キュルケ	00278@0
+290@0	0,189,256,41	cardcap	ラウーガー ヘグゼーの従順たる獣人	Rauher\nHegzee's Beast-Man
+292@0	0,189,256,41	cardcap	インサニティ 狂風のネルガー	Insanity\nNergar of the Mad Wind
+294@0	0,189,256,41	cardcap	ヴァイス 加護のレティオル	Vise\nRetiol of Protection
 2683@67cb0	0,0,293,24	banner	このアイテムを報酬にしますか?	Take This Item as Your Reward?
 2687@bc60	3,0,275,24	banner	このアイテムを装備しますか?	Equip This Item?
 2687@5f860	0,0,70,13	menu	全員装備可	All Can Equip
@@ -2861,3 +2848,21 @@
 3@453a60	63,248,30,14	panel-c	騎馬	Horse
 3@453a60	102,209,30,14	panel-c	転移	Warp
 3@453a60	112,248,30,14	panel-c	転移	Warp
+# Card Encyclopedia headers (English on the disc): renamed cards (D15) spliced from the other headers' letters
+2642@19030	0,0,247,59	splice	Make doll	2642@26120:0-27+2642@19030:115-157+_12+2642@19f30:44-58+2642@24480:118-135+2642@20e80:45-60+2642@33950:84-98+2642@24480:188-204
+2642@24480	0,0,247,59	splice	Thunder bolt	2642@24480:0-135+2642@24480:139-204
+2642@2a800	0,0,247,59	splice	Jihad	2642@20e80:0-24+2642@24480:118-135+2642@24480:42-62+2642@1af00:89-104+2642@20e80:45-60+2642@24480:83-103+2642@19030:70-90
+2642@33950	0,0,247,59	splice	Rock fall	2642@33950:0-80+2642@33950:84-139
+# italic card titles 1771@51cb0+ (screen not identified): italic letters overlap, so new words are drawn
+1771@51cb0	0,0,193,27	menu	Make doll	Doll craft
+1771@574f0	0,0,193,27	splice	Thunder bolt	1771@574f0:0-109+1771@574f0:116-165
+1771@5a490	0,0,193,27	menu	Jihad	Crusade
+1771@5ecf0	0,0,193,27	splice	Rock fall	1771@5ecf0:0-64+1771@5ecf0:71-113
+1771@60bb0	0,0,193,27	menu	Revellion	Angelic thunder
+# the Card Encyclopedia's own brown titles (atlases, 30 px rows): each name stays in its old ink box
+2703@14a310	0,0,118,28	splice-plain	Make doll	2703@14a310:161-180@120+2703@14a310:89-118@0+_5+2703@14a310:35-45@30+2703@14a310:253-263@60+2703@14a310:25-37@0+2703@157730:66-75@240+2703@14a310:308-317@60
+2703@14a310	161,60,156,28	splice-plain	Thunder bolt	2703@14a310:161-263@60+2703@14a310:270-317@60
+2703@14a310	161,240,63,28	splice-plain	Jihad	2703@157730:161-178@120+2703@14a310:253-263@60+2703@14a310:193-207@60+2703@14a310:70-79@60+2703@14a310:25-37@0+2703@14a310:73-88@0+2703@14a310:53-64@0
+2703@157730	0,240,104,28	splice-plain	Rock fall	2703@157730:0-58@240+2703@157730:66-104@240
+2703@157730	161,60,113,28	splice-plain	Revellion	2703@157730:0-19@270+2703@157730:258-274@60+2703@14a310:80-93@30+2703@157730:179-190@60+2703@157730:219-226@60+2703@157730:236-243@60+2703@14a310:35-45@30+_5+2703@14a310:308-317@60+2703@14a310:177-263@60
+2642@376f0	0,0,247,59	splice	Revellion	2642@34750:0-26+2642@24480:62-83+2642@19f30:95-116+2642@19030:70-90+2642@19030:132-144+2642@2a800:13-25+2642@19f30:44-58+_12+2642@24480:188-204+2642@24480:22-135
