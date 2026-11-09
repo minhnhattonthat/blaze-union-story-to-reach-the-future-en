@@ -17,7 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 KEEP = ("states", "saves", "tl", "exe", "qa/verdicts", "qa/story", "qa/review", "qa/plog2", "qa/manifest.tsv",
-        "qa/manifest.tsv.build", "qa/manifest.tsv.waive")
+        "qa/manifest.tsv.build", "qa/manifest.tsv.waive", "marker_ids.tsv")
 SAVES = {".sav", ".srm", ".state", ".mss", ".sstate", ".ppst", *(f".ds{i}" for i in range(10))}  # as in .gitignore
 
 

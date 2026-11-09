@@ -74,6 +74,7 @@ def main():
     assert len(manifests) >= 2, f"want the visual and the story manifest: {manifests}"
     for m in manifests:
         run(*PY, f"{SKILL}/scripts/qa_gate.py", "check", m, m.parent / "verdicts")
+    run(*PY, "tools/debug/cover.py", "work/qa/plog2")  # writes build/strings.tsv, which a clean build/ lacks
     run(*PY, f"{SKILL}/scripts/textcover.py", "work/qa/plog2", "build/strings.tsv", "--waive", "docs/text_unshown.tsv")
 
     left = unticked((ROOT / "docs/polish.md").read_text(encoding="utf-8"))
