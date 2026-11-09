@@ -2028,7 +2028,7 @@
 4@5e190	303,17,70,3	menu	(辛口設定) bracket tails	-
 4@5e190	182,0,70,17	menu	(通常設定)	(Standard)
 4@5e190	303,0,70,17	menu	(辛口設定)	(Tough)
-4@5e190	0,22,281,22	menu	バトルの難易度を設定してください。	Set the battle difficulty.
+4@5e190	0,22,281,22	menu-c	バトルの難易度を設定してください。	Set the battle difficulty.
 3@53b260	115,0,229,39	banner-r	砲撃ダメージ	Cannon Damage
 3@53c420	114,0,230,39	banner-r	吹雪ダメージ	Blizzard Damage
 3@53d590	151,0,193,39	banner-r	毒ダメージ	Poison Damage
