@@ -58,8 +58,9 @@ def test_item_line_breaks():
 
 
 def test_all_routines_assemble():
-    code, labels = mips.asm(vwf.ROUTINES.replace("CELLS-enter_0", "0").replace("WIDTHS-advance_0", "0").replace("BASES-ascii_0", "0"), 0x363000)
-    assert {"enter", "store", "newline", "advance", "ascii", "layout_a", "layout_b"} <= set(labels)
+    code, labels = mips.asm(vwf.ROUTINES.replace("CELLS-enter_0", "0").replace("WIDTHS-advance_0", "0").replace("BASES-ascii_0", "0")
+                            .replace("WIDTHS-count_0", "0"), 0x363000)
+    assert {"enter", "store", "newline", "advance", "ascii", "layout_a", "layout_b", "count_init", "count_ascii"} <= set(labels)
     assert len(code) % 4 == 0
 
 

@@ -142,6 +142,8 @@ SCENES = {
     "title_option": (TITLE + [(press, "down", "down", "down"), (press, "circle"), (wait, 120)], (2,)),
     "title_option_full": (TITLE + [(boost,), (press, "down", "down", "down"), (press, "circle"), (wait, 120)], (2,)),
     "new_game": (TITLE + [(press, "circle"), (wait, 600)], (2, 5, 6, 7)),
+    # with battle boost unlocked GAME START asks the difficulty first (4@5e190, issue #2)
+    "new_game_difficulty": (TITLE + [(boost,), (press, "circle"), (wait, 240)], (2,)),
     "new_game_scroll": (TITLE + [(press, "circle"), (wait, 1800)], (2, 5, 6, 7)),
     "chapter_card": (COLD + [(stage, "2_01_A"), (wait, 420)], (5,)),
     "stage_card": (COLD + [(stage, "1_02_A"), (until, (6,), None, 600), (wait, 90)], (6,)),

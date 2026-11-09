@@ -155,13 +155,13 @@ few with no text.
 | Character and card select labels | 2683@5e860, 2683@5f310, 2683@551c0 (s053), 2684@2c10 (`並び替え`, `名前 POW MOV 使用頻度`, s054), 2687 `難易度`, `残された戦闘は…` (s055) | ~6 | |
 | Extras menu | 2700@90ff0, 2700@9c090, 2700@b11b0-b5320 (`ブレイズ戦記`, `キャライラスト`, `サウンドモード`, `アイテム図鑑`, `カード図鑑`), 2700 lists (s056) | ~6 | |
 | Sound-mode track names (`♪ 怒れる炎`) | 2702@494f0-5da30 (t007-t008) | ~60 | Some already English (`NanTuTTe`, `never`) |
-| Lists in s026 (1522@6e170) and small rows in 2137-2140 | s026, s050 | 2 | |
+| Lists in s026 (1522@5e170, the label once mistyped as `@6e170`, so it was never done) and small rows in 2137-2140 | s026, s050 | 2 | **1522 done 2026-11-09** (issue #2): the clash result panel after a won clash, names on a 21 px grid right-aligned in two columns (1522@5e170), `戦 勝 士気` and the two max-level / no-EXP lines (1522@991e0). 戦 勝 are 19 px slots: "Btl", "Won" (D19). Seen in game on build `410b63cd` |
 | Found by the marker tour, not the printer, files not located yet: card list names and effect strip on Card Select (`シールドバリア`, `発動中、ダメージを受けない`, `使用条件`, `エースタイプが合えばOK!`), card_data's artist tag and MEMO (`■ 風魔サエザル`, `■自TEC≧敵GENで成功`), unit passives (`強攻撃ダメージ補正`, `グリフライダーに弱い`), the field panel's unit name | ? | ~300 | Same words exist as EBOOT records, so these may be drawn to a texture from text at run time: try a watch on the string first, then look for the atlas. Phase 8 lists them |
 | XMB background | `PSP_GAME/PIC1.PNG` | 1 | `タクティカル・ファンタジーRPG`, tagline, 3 lines of blurb. ICON0 has only the English logo |
 | Title logo katakana ruby (`ブレイズ・ユニオン`) above BLAZE UNION | file 4 (s005) | 1 | No official English version (D5): remove the ruby or keep, decide at phase 8 |
 | Opening movie `Movie/BU_OP.pmf` | disc | 1 | H.264, 480x272, 1:59. Sampled every 15 s: English subtitle, no Japanese. **Not checked frame by frame** |
 
-No Japanese: portraits (69-110, 1044-1522, 2761-2926), backgrounds (146-161, 2113-2136, 2911-2938), cards art (2644-2682,
+No Japanese: portraits (69-110, 1044-1521, 1522 except @5e170 and @991e0, 2761-2926), backgrounds (146-161, 2113-2136, 2911-2938), cards art (2644-2682,
 2684-85, 2703-2728), battle units (1412-1464, 2705-2760), effects (file 1), save icons (2050-2065).
 English already: title menu, `NOW TALKING...`, copyright line, R-Force logo, chapter result lines (111-145), `Fight!`,
 `YOU WIN`, `PAUSE`, status names, class names in italic (2683@44170+), names at 2138 and 2701.

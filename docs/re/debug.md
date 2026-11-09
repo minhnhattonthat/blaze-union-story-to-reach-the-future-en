@@ -98,6 +98,20 @@ and 12 work; 15, 30 and 11 end the emulator.
 - **Story variables:** byte at state + 0x20 + n for n < 0x57 (0x4FE4, 0x4D44). Flag test 0x4BA0(state, n): bit n of the words
   from state + 0.
 
+## Players' savestates and texture rects
+
+- **A player's state:** `tools/debug/drive.py ISO STATE OUT FRAMES EVERY [--press F:KEY] [--mash circle] [--save-every N]`. emu.py and
+  `warp.drive` count frames from cpu.status `us`, which is ticks / clock: on a state with hours of play the 222/266 MHz switch at
+  combat moves it by minutes, emu.py then waits forever and `warp.drive` counts negative frames. drive.py steps from the current `us`.
+  A state carries the EBOOT it was saved with, and its Data.cpk TOC: test a code fix on it by poking the code into RAM, and load it
+  only on the build it came from (`work/states/issue1_norn.ppst`, `issue2_pre_crash.ppst`: v1.0, before and at Norn's defeat).
+- **Never-shot battle paths:** the tour pokes victory, so the real defeat of a boss (op 0x87, the news line) ran first for a player.
+  To reach one from a state: find the enemy's morale by diffing RAM before and after a clash (Norn's u16 at 0x8B4DCD2 in that
+  state), poke it low, fight once.
+- **Which rects a screen cuts from a texture:** `tools/debug/texrects.py ISO STATE LABEL OUT` fills the texture in RAM (opaque, then
+  y and x coded in greys) and prints each drawn rect's source. The difficulty prompt (`new_game_difficulty`: battle boost on, then
+  GAME START) draws 4@5e190 1:1 from title 0,0,110,22, `NORMAL (..)` 111,0,141,20, `HARD (..)` 254,0,119,20, sentence 0,22,281,22.
+
 ## Limits
 
 - **1_05_B, 1_05_C can't be reached by any play route; they are left out of `warp_all.py`.** Their records use slots 1 and 2 of the

@@ -386,6 +386,38 @@ ascii_1:
 ascii_2:
     jr $ra
     nop
+
+# 9fbbc counts the glyphs of each line into a caller's byte buffer (only the battle news, 0x11583c, passes one: 8 bytes in
+# a 0x20-byte frame). For an ASCII byte it moved the buffer pointer instead of counting, so an English line wrote past
+# the frame over saved registers and $ra: the crash after defeating Norn (issues #1, #2). Count font 1 pixels instead,
+# a glyph per 20 px (the cell the caller multiplies the count by to centre the line). t5 is free there (0x9e8d4 is a stub).
+# 9fbdc: ori t1, zero, 0 replaced, after $ra is saved. t5 starts at half a cell, so the count rounds
+count_init:
+    ori $t5, $zero, 10
+    jr $ra
+    ori $t1, $zero, 0
+# 9fcfc: beqz a2 replaced (the ASCII branch); returns to 9fd04, now a branch on to 9fd40. a0 = the byte << 8 (the sll
+# at 9fcf8 is a delay slot)
+count_ascii:
+    move $t8, $ra
+    srl $t9, $a0, 8
+    bal count_0
+    addiu $t9, $t9, -0x20
+count_0:
+    addu $t9, $ra, $t9
+    lbu $t7, WIDTHS-count_0($t9)   # font 1: the table's first 96 bytes
+    addu $t5, $t5, $t7
+count_1:
+    slti $t7, $t5, 20
+    bnez $t7, count_2
+    nop
+    addiu $t5, $t5, -20
+    addiu $t1, $t1, 1
+    beq $zero, $zero, count_1
+    andi $t1, $t1, 0xff
+count_2:
+    jr $t8
+    nop
 """
 
 
@@ -398,11 +430,13 @@ def install(eb, info):
     data = bytearray()
     # first pass finds the code size, the tables follow it; the offsets stand in as labels' arithmetic
     src = ROUTINES
-    code, labels = mips.asm(src.replace("CELLS-enter_0", "0").replace("WIDTHS-advance_0", "0").replace("BASES-ascii_0", "0"), base)
+    code, labels = mips.asm(src.replace("CELLS-enter_0", "0").replace("WIDTHS-advance_0", "0").replace("BASES-ascii_0", "0")
+                            .replace("WIDTHS-count_0", "0"), base)
     table = base + len(code)
     cells_at, bases_at, widths_at = table, table + len(cells), table + len(cells) + len(bases)
     src = (src.replace("CELLS-enter_0", str(cells_at - labels["enter_0"]))
               .replace("WIDTHS-advance_0", str(widths_at - labels["advance_0"]))
+              .replace("WIDTHS-count_0", str(widths_at - labels["count_0"]))
               .replace("BASES-ascii_0", str(bases_at - labels["ascii_0"])))
     code, labels = mips.asm(src, base)
     data += code + cells + bases + widths
@@ -435,6 +469,10 @@ def install(eb, info):
     for site, win, reg, name in ((0xA0324, "a3", "v1", "layout_a"), (0xA052C, "a2", "t0", "layout_b")):
         eb.hook(site, one(f"lh $a0, 0x18(${win})"), jal(name), R_26)
         eb.hook(site + 4, one(f"mult $a0, ${reg}"), one(f"lh $a0, 0x18(${win})"))
+    # line glyph counts (count_ascii above): an ASCII byte counts its pixels, the buffer pointer stays
+    eb.hook(0x9FBDC, one("ori $t1, $zero, 0"), jal("count_init"), R_26)
+    eb.hook(0x9FCFC, 0x10C00010, jal("count_ascii"), R_26)  # beqz $a2, 0x9fd40
+    eb.hook(0x9FD08, one("addiu $a2, $a2, 1"), nop)  # delay slot of the b 0x9fd40 the call returns to
     eb.hook(0x1161B8, one("ori $a0, $zero, 0xfc"), one("ori $a0, $zero, 0xbe"))  # game over text: x=190, so a line of defeat text gets 288 px
     # Chronicle and Sound Mode text: 2 rows of the window, where the other two book screens have 3, with the list from row 2. Now 3 rows (lay out, colour)
     # and the list from row 3 (clear, print, cursor colour). The Chronicle's text also moves left, under the picture

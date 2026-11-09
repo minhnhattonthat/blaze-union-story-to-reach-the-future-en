@@ -407,9 +407,9 @@
 63@2a0	0,0,259,40	banner-l	ガーロット部隊進撃！	Garlot's Unit Advances!
 64@2a0	0,0,259,40	banner-l	ガルカーサ部隊進撃！	Gulcasa's Unit Advances!
 65@2d0	0,0,193,40	banner-l	？？？進撃！	??? Advances!
-66@270	0,0,201,40	banner-l	ブレイズ義賊団進撃！	Blaze Justice Corps Advances!
-67@270	0,0,259,40	banner-l	アイギナ近衛隊進撃！	Aegina's Royal Guard Advances!
-68@270	0,0,261,40	banner-l	敵部隊進撃！	Enemy Forces Advance!
+66@270	0,0,201,40	banner-l	敵部隊進撃！	Enemy Forces Advance!
+67@270	0,0,259,40	banner-l	ブレイズ義賊団進撃！	Blaze Justice Corps Advances!
+68@270	0,0,261,40	banner-l	アイギナ近衛隊進撃！	Aegina's Royal Guard Advances!
 # Recap chapter titles (1531, one texture; the game cuts each title by the rect table at EBOOT 0x2794E8, CHAPTER and digits stay)
 1531@20	0,16,256,48	title	希望の名の下に	In the Name of Hope
 1531@20	0,64,368,48	title	腐敗する帝国に差す光	Light on a Rotting Empire
@@ -1260,6 +1260,41 @@
 2700@e91d0	5,1,94,15	menu	牛乳嫌いな人以外	Milk drinkers
 2700@e95c0	5,0,60,16	menu	全員装備可	All can equip
 2700@e98b0	5,0,72,16	menu	全員装備不可	None can equip
+# Clash result panel (1522: Lv, name, N battles N wins, after each won clash; issue #2). Names right-aligned on a 21 px
+# row grid, two columns; each box runs from its column's widest Japanese to the right edge
+1522@5e170	17,0,85,21	banner-r	ガーロット	Garlot
+1522@5e170	17,21,85,21	banner-r	ガルカーサ	Gulcasa
+1522@5e170	17,42,85,21	banner-r	シスキア	Siskier
+1522@5e170	17,63,85,21	banner-r	ジェノン	Jenon
+1522@5e170	17,84,85,21	banner-r	メデューテ	Medoute
+1522@5e170	17,105,85,21	banner-r	アスガーリ	Asgari
+1522@5e170	17,126,85,21	banner-r	エミリオ	Emilia
+1522@5e170	17,147,85,21	banner-r	アイギナ	Aegina
+1522@5e170	17,168,85,21	banner-r	ユーディ	Eudy
+1522@5e170	17,189,85,21	banner-r	パメラ	Pamela
+1522@5e170	17,210,85,21	banner-r	バイフー	Byff
+1522@5e170	17,231,85,21	banner-r	イータ	Eater
+1522@5e170	17,252,85,21	banner-r	レオン	Leon
+1522@5e170	17,273,85,21	banner-r	バルドゥス	Baldus
+1522@5e170	17,294,85,21	banner-r	アルフ	Alf
+1522@5e170	17,315,85,21	banner-r	ヴァン	Van
+1522@5e170	104,0,100,21	banner-r	ヴェアル	Vear
+1522@5e170	104,21,100,21	banner-r	ネシア	Nessiah
+1522@5e170	104,42,100,21	banner-r	ベアトリーヌ	Baretreenu
+1522@5e170	104,63,100,21	banner-r	ジルヴァ	Zilva
+1522@5e170	104,84,100,21	banner-r	ミゼル	Mizer
+1522@5e170	104,105,100,21	banner-r	ミズガーリ	Mizgari
+1522@5e170	104,126,100,21	banner-r	ヨトゥン	Jotun
+1522@5e170	104,147,100,21	banner-r	ニヴァール	Nivar
+1522@5e170	104,168,100,21	banner-r	ヘルル	Hel
+1522@5e170	104,189,100,21	banner-r	ムスパー	Muspar
+1522@5e170	104,210,100,21	banner-r	テシタ	Tesita
+1522@5e170	104,231,100,21	banner-r	スレイプ	Sleip
+1522@991e0	85,65,19,23	menu-c	戦	Btl
+1522@991e0	104,65,19,23	menu-c	勝	Won
+1522@991e0	125,65,35,15	menu-c	士気	Morale
+1522@991e0	2,90,247,15	menu	すでに最高レベルに達しています！	Already at the maximum level!
+1522@991e0	3,108,248,15	menu	EXPが加算されないユニットです。	This unit gains no EXP.
 # Unit names, large (status screen, 3@177e70-19c6d0) and small (3@1907d0-19c940); generic names in full
 3@177e70	0,3,84,35	banner-l	ガーロット	Garlot
 3@178390	0,2,88,36	banner-l	ガルカーサ	Gulcasa
@@ -1987,9 +2022,13 @@
 3@4ca450	196,0,130,17	menu	タイトル画面へ戻る	Back to Title
 3@4ca450	0,18,222,25	menu	ゲームリスタートしますか?	Restart the game?
 3@4ca450	222,18,104,25	menu	リスタートする	Restart
-4@5e190	181,0,73,17	menu	(通常設定)	(Standard)
-4@5e190	301,0,76,17	menu	(辛口設定)	(Tough)
-4@5e190	0,18,300,25	menu	バトルの難易度を設定してください。	Set the battle difficulty.
+# the game's rects (read by filling the texture in RAM, issue #2): title 0,0,110,22; NORMAL (..) 111,0,141,20;
+# HARD (..) 254,0,119,20; sentence 0,22,281,22. Rows 18-21 hold the title's g and the brackets' tails, not the sentence
+4@5e190	182,17,70,3	menu	(通常設定) bracket tails	-
+4@5e190	303,17,70,3	menu	(辛口設定) bracket tails	-
+4@5e190	182,0,70,17	menu	(通常設定)	(Standard)
+4@5e190	303,0,70,17	menu	(辛口設定)	(Tough)
+4@5e190	0,22,281,22	menu	バトルの難易度を設定してください。	Set the battle difficulty.
 3@53b260	115,0,229,39	banner-r	砲撃ダメージ	Cannon Damage
 3@53c420	114,0,230,39	banner-r	吹雪ダメージ	Blizzard Damage
 3@53d590	151,0,193,39	banner-r	毒ダメージ	Poison Damage
