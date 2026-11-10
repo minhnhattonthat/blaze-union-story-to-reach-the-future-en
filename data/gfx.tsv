@@ -1632,20 +1632,20 @@
 2684@1cc20	76,18,65,16	menu	キスオブデス	Kiss of Death
 2684@1cc20	76,36,61,16	menu	フォーチュン	Fortune
 2684@1cc20	76,54,50,16	menu	ミラージュ	Mirage
-2684@1cc20	73,72,77,16	menu	バンシーズクライ	Banshee's Cry
-2684@1cc20	73,90,77,16	menu	アイヴィウィップ	Ivy Whip
+2684@1cc20	76,72,76,16	menu	バンシーズクライ	Banshee's Cry
+2684@1cc20	76,90,76,16	menu	アイヴィウィップ	Ivy Whip
 2684@1cc20	76,108,70,16	menu	サンドストーム	Sand Storm
-2684@1cc20	73,126,64,16	menu	マントラップ	Mantrap
+2684@1cc20	76,126,64,16	menu	マントラップ	Mantrap
 2684@1cc20	76,144,71,16	menu	ロックフォール	Rockfall
-2684@1cc20	73,162,69,16	menu	エースガード	Ace Guard
+2684@1cc20	76,162,69,16	menu	エースガード	Ace Guard
 2684@1cc20	76,180,59,16	menu	ジェノサイド	Genocide
 2684@1cc20	76,198,73,16	menu	リインカーネーション	Reincarnation
-2684@1cc20	73,216,61,16	menu	リヴェリオン	Angelic Thunder
+2684@1cc20	76,216,61,16	menu	リヴェリオン	Angelic Thunder
 2684@1cc20	76,234,76,16	menu	オブリヴィアスドーン	Oblivious Dawn
 2684@1cc20	76,252,66,16	menu	コーマカルマ	Coma Karma
-2684@1cc20	73,270,77,16	menu	ジャッジメントゼロ	Judgment Zero
-2684@1cc20	73,288,57,16	menu	ラウーガー	Rauher
-2684@1cc20	73,306,64,16	menu	インサニティ	Insanity
+2684@1cc20	76,270,76,16	menu	ジャッジメントゼロ	Judgment Zero
+2684@1cc20	76,288,57,16	menu	ラウーガー	Rauher
+2684@1cc20	76,306,64,16	menu	インサニティ	Insanity
 2684@1cc20	76,324,38,16	menu	ヴァイス	Vise
 2684@23da0	17,0,115,21	banner	メイクドール	Doll Craft
 2684@23da0	17,21,116,21	banner	ネクロゲート	Necro Gate
@@ -2070,19 +2070,19 @@
 3@389080	76,18,65,17	menu	キスオブデス	Kiss of Death
 3@389080	76,36,61,17	menu	フォーチュン	Fortune
 3@389080	76,54,54,18	menu	ミラージュ	Mirage
-3@389080	73,72,77,18	menu	バンシーズクライ	Banshee's Cry
-3@389080	73,90,77,17	menu	アイヴィウィップ	Ivy Whip
+3@389080	76,72,76,18	menu	バンシーズクライ	Banshee's Cry
+3@389080	76,90,76,17	menu	アイヴィウィップ	Ivy Whip
 3@389080	76,108,70,18	menu	サンドストーム	Sand Storm
-3@389080	73,126,64,18	menu	マントラップ	Mantrap
+3@389080	76,126,64,18	menu	マントラップ	Mantrap
 3@389080	76,144,71,18	menu	ロックフォール	Rockfall
-3@389080	73,162,69,18	menu	エースガード	Ace Guard
+3@389080	76,162,69,18	menu	エースガード	Ace Guard
 3@389080	76,180,59,18	menu	ジェノサイド	Genocide
 3@389080	76,198,73,17	menu	リインカーネーション	Reincarnation
 3@389080	76,234,76,17	menu	オブリヴィアスドーン	Oblivious Dawn
 3@389080	76,252,66,18	menu	コーマカルマ	Coma Karma
-3@389080	73,270,77,18	menu	ジャッジメントゼロ	Judgment Zero
-3@389080	73,288,57,18	menu	ラウーガー	Rauher
-3@389080	73,306,64,18	menu	インサニティ	Insanity
+3@389080	76,270,76,18	menu	ジャッジメントゼロ	Judgment Zero
+3@389080	76,288,57,18	menu	ラウーガー	Rauher
+3@389080	76,306,64,18	menu	インサニティ	Insanity
 3@389080	76,324,74,18	menu	ヴァイス	Vise
 3@389080	76,342,76,16	menu	ダイヤモンドダスト	Diamond Dust
 3@104960	0,2,68,16	menu	メイクドール	Doll Craft

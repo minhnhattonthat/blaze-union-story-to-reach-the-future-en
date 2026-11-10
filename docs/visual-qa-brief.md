@@ -36,6 +36,7 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - the stray glyph left of the game over text: a scene artifact of the poke, the original shows it too;
 - a map after a warp with no units yet, or a chapter card still fading;
 - the unit name tag left over the victory screens and the save prompt: the same poke artifact, the original shows it too;
+- a short grey tick right of the card name on the Card Select thumbnail (about x 157, y 67): the corner of the thumbnail's frame, which the longer Japanese name's outline happens to cover;
 - the `■` in item No.270 (`■ Ark Bar■ch`) and its `?????` tag: the original blanks those letters on purpose (`■櫃バル■ク`);
 - English the game ships on art, however odd: `Must Entry!`, `Press to Entry.`, `If only advances.`, `Trophies for the future.`, `Save the record of War.`, `Make doll`, `Thunder bolt`.
 
