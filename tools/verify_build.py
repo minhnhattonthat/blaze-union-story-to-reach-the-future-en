@@ -20,14 +20,13 @@ import itoc
 import romdiff
 
 ROOT = build.ROOT
-GROW = 0x20  # elfpatch.serialize moves segment 0 down for its third program header
 
 
 def check_eboot(new, log=ROOT / "build/writes.txt"):
     """Error lines for segment 0 of the built EBOOT against the dump."""
     orig = extract.ELF.read_bytes()
     size = struct.unpack_from("<I", orig, 0x34 + 16)[0]
-    seg, out = orig[elfpatch.SEG0:elfpatch.SEG0 + size], new[elfpatch.SEG0 + GROW:elfpatch.SEG0 + GROW + size]
+    seg, out = orig[elfpatch.SEG0:elfpatch.SEG0 + size], new[elfpatch.SEG0:elfpatch.SEG0 + size]
     writes = romdiff.load_writes(str(log))
     errs, changed = romdiff.check(seg, out, set(), writes)
     print(f"EBOOT segment 0: {len(writes)} writes, {changed} bytes changed, {len(errs)} errors")

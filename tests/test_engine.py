@@ -101,20 +101,25 @@ def test_eboot_rewrite_layout():
     elf = extract.ELF.read_bytes()
     eb = elfpatch.Eboot(elf, insert.SEG_VADDR)
     eb.append(b"\x11" * 100)
-    eb.rels.append((0x9E978, elfpatch.R_26))
+    eb.rels += [(0x9E978, elfpatch.R_26), (insert.SEG_VADDR + 4, elfpatch.R_26)]
     out = eb.serialize()
     shoff, phnum, shnum = struct.unpack_from("<I", out, 32)[0], struct.unpack_from("<H", out, 44)[0], struct.unpack_from("<H", out, 48)[0]
-    assert phnum == 3 and shnum == struct.unpack_from("<H", elf, 48)[0] + 2
-    phs = [struct.unpack_from("<8I", out, 0x34 + i * 32) for i in range(3)]
-    assert out[phs[0][1]:phs[0][1] + 16] == elf[0x74:0x84]  # segment 0's bytes follow the program headers
-    assert phs[1][2] == 0x2BFCA0 and out[phs[1][1]:phs[1][1] + 16] == elf[0x2BFD18:0x2BFD28]
-    assert phs[2][2] == insert.SEG_VADDR and out[phs[2][1]:phs[2][1] + 100] == b"\x11" * 100
+    assert phnum == 2 and shnum == struct.unpack_from("<H", elf, 48)[0]  # same headers as the dump (issue #4)
+    assert out[0x34:0x54] + out[0x74:0x2BFD18] == elf[0x34:0x54] + elf[0x74:0x2BFD18]  # program header 0 (p_paddr), segment 0
+    ph1 = struct.unpack_from("<8I", out, 0x34 + 32)
+    assert ph1[4] == ph1[5] == insert.SEG_VADDR - 0x2BFCA0 + 100
+    blob = ph1[1] + insert.SEG_VADDR - 0x2BFCA0
+    assert out[ph1[1]:ph1[1] + 0x204] == elf[0x2BFD18:0x2BFF1C] and out[blob:blob + 100] == b"\x11" * 100
     assert insert.SEG_VADDR >= 0x2BFCA0 + 0xA327C  # past segment 1's bss
-    for i in range(struct.unpack_from("<H", elf, 48)[0]):
+    rels = []
+    for i in range(shnum):
         a = struct.unpack_from("<10I", elf, struct.unpack_from("<I", elf, 32)[0] + i * 40)
         b = struct.unpack_from("<10I", out, shoff + i * 40)
         if a[1] and a[1] != 8:  # every section's bytes are still there
-            assert out[b[4]:b[4] + min(a[5], 32)] == elf[a[4]:a[4] + min(a[5], 32)], i
+            assert out[b[4]:b[4] + a[5]] == elf[a[4]:a[4] + a[5]], i
+        if b[1] == elfpatch.SHT_PSPREL:
+            rels.append(out[b[4]:b[4] + b[5]])
+    assert rels[-1][-16:] == struct.pack("<4I", 0x9E978, 4, insert.SEG_VADDR + 4 - 0x2BFCA0, 4 | 1 << 8)
 
 
 def test_marker_keeps_codes():

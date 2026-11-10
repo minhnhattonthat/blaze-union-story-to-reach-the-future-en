@@ -22,7 +22,8 @@ FONTS = {1: dict(child=3, cell=20, size=16), 2: dict(child=1, cell=18, size=15),
 FIRST, LAST = 0x20, 0x7E
 GLYPHS = 0x60  # 0x20..0x7F
 SPACE = 5  # px, by eye: the TTF's own space looks thin next to the outline
-ARENA_GROW = 0x80000
+ARENA_GROW = 0x30000  # FCT 3 grew 0x21B80; every byte here comes out of the real PSP's 24 MB user RAM (issue #4)
+FCT3_SIZE = 0x54E120  # the original FCT 3, in arena 0 (0x580000)
 # Item text, no {n}, the two screens wrap it differently: string pointers, their end, break table, breaks per string, font, line px
 WRAPS = ((0x28C040, 0x28C494, 0x289C78, 1, 1, 250), (0x28C494, 0x28C8E8, 0x2B7FA8, 2, 2, 140))
 

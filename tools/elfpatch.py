@@ -1,10 +1,9 @@
-"""Rewrite the decrypted EBOOT: patch segment 0 in place, add a third PT_LOAD with code and text, add relocations.
+"""Rewrite the decrypted EBOOT: patch segment 0 in place, append code and text to segment 1 past its .bss, add relocations.
 The result is a plain ELF that PPSSPP and CFW load (docs/re/text.md). File offset of segment 0 = vaddr + SEG0, RAM = base + vaddr."""
 import struct
 
 SEG0 = 0x74  # file offset of segment 0 in the dump
 R_32, R_26, R_HI16, R_LO16 = 2, 4, 5, 6  # PSP relocation types, segment 0 relative: info = type | ofsbase << 8 | addrbase << 16
-SHF_WAX = 7
 SHT_PSPREL = 0x700000A0
 
 
@@ -54,45 +53,35 @@ class Eboot:
         return p
 
     def serialize(self):
-        """Segment 0 moves 0x20 down to make room for a third program header; everything after it shifts with it."""
+        """Gloria Union's layout, which loads on a real PSP/Vita (issue #4): the program headers stay as they are, segment 1
+        gets file bytes for its .bss (zeros) plus the blob; the sections stored after it (.shstrtab, .rel*) are copied after
+        it in file order, the section table goes last. New relocations go at the end of the last .rel section, those
+        patching segment 1 relative to segment 1. Segment 0 and p_paddr (sceModuleInfo's file offset) do not move."""
         e = self.elf
         self.blob += bytes(-len(self.blob) % 4)  # PPSSPP asserts on a section whose end isn't word-aligned
-        phoff, shoff = struct.unpack_from("<II", e, 28)
-        phnum, shnum = struct.unpack_from("<H", e, 44)[0], struct.unpack_from("<H", e, 48)[0]
-        assert phoff == 0x34 and phnum == 2, (phoff, phnum)
+        shoff, shnum = struct.unpack_from("<I", e, 32)[0], struct.unpack_from("<H", e, 48)[0]
+        assert struct.unpack_from("<I", e, 28)[0] == 0x34 and struct.unpack_from("<H", e, 44)[0] == 2
+        ph1 = list(struct.unpack_from("<8I", e, 0x34 + 32))
+        s1v, s1o, s1f = ph1[2], ph1[1], ph1[4]
+        assert self.vaddr >= s1v + ph1[5] and self.vaddr % 16 == 0, "the blob goes past segment 1's .bss"
+        seg1 = bytes(e[s1o:s1o + s1f]) + bytes(self.vaddr - s1v - s1f) + self.blob
+        ph1[4] = ph1[5] = len(seg1)
+        rel = b"".join(struct.pack("<II", v - s1v, t | 1 << 8) if v >= s1v else struct.pack("<II", v, t)
+                       for v, t in self.rels)
         sects = [list(struct.unpack_from("<10I", e, shoff + i * 40)) for i in range(shnum)]
-        phs = [list(struct.unpack_from("<8I", e, phoff + i * 32)) for i in range(2)]
-        for p in phs:
-            p[1] += 0x20
-        phs[0][3] += 0x20  # p_paddr = file offset of sceModuleInfo; the PSP kernel reads it there (PPSSPP goes by section name)
-        for s in sects:
-            if s[4] >= SEG0 and s[1]:
-                s[4] += 0x20
-        assert any(s[4] == phs[0][3] for s in sects), "p_paddr must point at .rodata.sceModuleInfo"
-        body = bytes(e[SEG0:shoff]) + bytes(e[shoff + shnum * 40:])  # drop the old section table
-        cut = shoff + shnum * 40 - shoff  # sections stored after the old table move back by its size
-        for s in sects:
-            if s[4] - 0x20 >= shoff + shnum * 40:
-                s[4] -= cut
-        pos = SEG0 + 0x20 + len(body)
-        pad = -pos % 64
-        seg_off = pos + pad
-        rel_off = seg_off + len(self.blob) + (-len(self.blob) % 4)
-        rel = b"".join(struct.pack("<II", off, typ) for off, typ in self.rels)
-        name_text = next(s[0] for s in sects if s[3] == 0 and s[1] == 1)  # any existing name will do
-        sects.append([name_text, 1, SHF_WAX, self.vaddr, seg_off, len(self.blob), 0, 0, 64, 0])
-        sects.append([name_text, SHT_PSPREL, 0, 0, rel_off, len(rel), 0, 1, 4, 8])
-        new_shoff = rel_off + len(rel)
-        out = bytearray(e[:0x34])
-        struct.pack_into("<II", out, 28, 0x34, new_shoff)
-        struct.pack_into("<H", out, 44, 3)
-        struct.pack_into("<H", out, 48, len(sects))
-        for p in phs:
-            out += struct.pack("<8I", *p)
-        out += struct.pack("<8I", 1, seg_off, self.vaddr, 0, len(self.blob), len(self.blob), 7, 64)
-        assert len(out) == SEG0 + 0x20
-        out += body + bytes(pad) + self.blob
-        out += bytes(rel_off - len(out)) + rel
-        for s in sects:
-            out += struct.pack("<10I", *s)
+        tail = s1o + s1f
+        stored = sorted((s for s in sects if s[1] not in (0, 8) and s[4] >= tail), key=lambda s: s[4])
+        assert all(s[4] + s[5] <= tail for s in sects if s[1] not in (0, 8) and s[4] < tail)
+        last = max((s for s in stored if s[1] == SHT_PSPREL), key=lambda s: s[4])
+        out = bytearray(e[:s1o]) + seg1
+        for s in stored:
+            out += bytes(-len(out) % max(s[8], 1))
+            data = bytes(e[s[4]:s[4] + s[5]]) + (rel if s is last else b"")
+            s[4] = len(out)
+            out += data
+        last[5] += len(rel)
+        out += bytes(-len(out) % 4)
+        struct.pack_into("<I", out, 32, len(out))
+        struct.pack_into("<8I", out, 0x34 + 32, *ph1)
+        out += b"".join(struct.pack("<10I", *s) for s in sects)
         return bytes(out)

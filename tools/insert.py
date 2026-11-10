@@ -175,6 +175,7 @@ def build(text, base=None):
     k1 = fct.children(d1)
     pages, info = vwf.fonts(lambda c: d1[k1[c][0]:k1[c][0] + k1[c][1]])
     repl[3] = pack_fct(d3, {15: pack_fct(d15, new15), 1: pack_fct(d1, pages)})
+    assert len(repl[3]) - vwf.FCT3_SIZE <= vwf.ARENA_GROW, f"FCT 3 is {len(repl[3]):#x}: raise vwf.ARENA_GROW"  # arena 0 keeps its original slack
 
     eb = elfpatch.Eboot(extract.ELF.read_bytes(), SEG_VADDR)
     vwf.install(eb, info)

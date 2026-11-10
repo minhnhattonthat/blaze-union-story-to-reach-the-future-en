@@ -132,11 +132,15 @@ Variable-width English with no change to any glyph record's size:
 - **Lay-out calls** (0xA0248, 0xA0428, 65 callers) set absolute positions per record. They now step by the advance, and a call
   starting mid-row continues from the laid-out glyph before it: some callers lay a string out cell by cell at
   x = start + i * cell (the option screen does).
-- **EBOOT.** Third PT_LOAD at vaddr 0x363000 (past segment 1's bss) holds the hooks, width tables and moved strings; segment 0
-  shifts 0x20 in the file for the extra program header. New jal sites get `R_MIPS_26` entries in a new `.rel` section. PPSSPP asserts
-  if the new section's end isn't word-aligned. Module size 0x39DF00 with marker text; `hle.module.list` confirms it.
+- **EBOOT.** Gloria Union's layout (it loads on a Vita; issue #4): still 2 program headers, segment 0 and `p_paddr` unmoved.
+  Segment 1 gets file bytes for its .bss (zeros) and the blob at vaddr 0x363000 (hooks, width tables, moved strings),
+  filesz = memsz. New relocations go at the end of `.rel.linkonce.d`; those patching the blob are relative to segment 1
+  (info `type | 1 << 8`). Up to v1.2-pre1 the blob was a third PT_LOAD with segment 0 shifted 0x20 and blob relocs based
+  on segment 0 past its end: PPSSPP took it, real hardware gave 800200D9 / 80020001. Module size 0x39DF00.
 - **Heap.** 0xEFC00 creates a 0x133D400 heap and 4 arenas: 0x580000 (FCT 3, 5.56 MB, loaded at boot; a bigger FCT 3 hangs on
-  Now Loading), 0x630000, 0x600000, 0x140000. The build grows the total and arena 0 by 0x80000.
+  Now Loading), 0x630000, 0x600000, 0x140000. The build grows the total and arena 0 by `vwf.ARENA_GROW` = 0x30000 (FCT 3 grew
+  0x21B80; build asserts it fits). Real PSP user RAM is 24 MB and real atrac/mpeg PRXs live in it (PPSSPP HLEs them), so the
+  original's ~1.37 MB slack after module + heap matters: up to v1.2-pre1 the grow was 0x80000, leaving ~0.66 MB.
 - **Strings.** EBOOT: moved to the new segment, every `word` and `hi`/`lo` slot rewritten and checked against the original. A lui
   shared with a non-text target stays in place, 3 such groups. Scripts: in place if it fits, else after the end of the file.
   Inline and bare strings keep their exact size, padded with spaces.
@@ -201,7 +205,7 @@ build is the check on it: a real line tagged `data` shows up as Japanese.
   string area plausibly fits (guess, needs counting at phase 6). Overflow: a third segment or a data file, phase 5.
 - Files on disc: `iso9660.patch` appends larger files to the image end. The CPK can grow that way. Real-hardware UMD
   limits do not apply to an ISO on memory stick.
-- Program header 0's `p_paddr` is the file offset of `sceModuleInfo`. The PSP kernel reads module info from there, but PPSSPP looks it up by section name, so a wrong value only breaks real hardware. Up to v1.1, `elfpatch` left it unshifted: 0x20 too low. Fixed 2026-11-10; not tried on hardware.
+- Program header 0's `p_paddr` is the file offset of `sceModuleInfo`. The PSP kernel reads module info from there, but PPSSPP looks it up by section name, so a wrong value only breaks real hardware. Up to v1.1, `elfpatch` left it unshifted: 0x20 too low. Fixed 2026-11-10; a Vita then gave 80020001 (issue #4). Since 2026-11-11 segment 0 no longer moves, so it keeps the dump's value.
 - The shipped EBOOT has to be the plain ELF: PPSSPP and CFW accept it, stock firmware does not. Noted under "Waiting
   on the user" in `docs/status.md`.
 
