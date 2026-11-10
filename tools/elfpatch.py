@@ -64,9 +64,11 @@ class Eboot:
         phs = [list(struct.unpack_from("<8I", e, phoff + i * 32)) for i in range(2)]
         for p in phs:
             p[1] += 0x20
+        phs[0][3] += 0x20  # p_paddr = file offset of sceModuleInfo; the PSP kernel reads it there (PPSSPP goes by section name)
         for s in sects:
             if s[4] >= SEG0 and s[1]:
                 s[4] += 0x20
+        assert any(s[4] == phs[0][3] for s in sects), "p_paddr must point at .rodata.sceModuleInfo"
         body = bytes(e[SEG0:shoff]) + bytes(e[shoff + shnum * 40:])  # drop the old section table
         cut = shoff + shnum * 40 - shoff  # sections stored after the old table move back by its size
         for s in sects:

@@ -201,6 +201,7 @@ build is the check on it: a real line tagged `data` shows up as Japanese.
   string area plausibly fits (guess, needs counting at phase 6). Overflow: a third segment or a data file, phase 5.
 - Files on disc: `iso9660.patch` appends larger files to the image end. The CPK can grow that way. Real-hardware UMD
   limits do not apply to an ISO on memory stick.
+- Program header 0's `p_paddr` is the file offset of `sceModuleInfo`. The PSP kernel reads module info from there, but PPSSPP looks it up by section name, so a wrong value only breaks real hardware. Up to v1.1, `elfpatch` left it unshifted: 0x20 too low. Fixed 2026-11-10; not tried on hardware.
 - The shipped EBOOT has to be the plain ELF: PPSSPP and CFW accept it, stock firmware does not. Noted under "Waiting
   on the user" in `docs/status.md`.
 
