@@ -55,7 +55,7 @@ SLOT_TABLES = ((0x2ADE7C, 0x2AEA98, 0, 0, "speaker"), (0x278748, 0x2787D0, 0, 0,
                (0x28AED4, 0x28AF00, 0, 0, "not_drawn"), (0x2ACFBC, 0x2AD020, 0, 0, "memstick"), (0x236DE8, 0x236FBC, 0, 0, "memstick"),
                (0x2AD34C, 0x2AD38C, 0, 0, "memstick"), (0x2B5B30, 0x2B5B80, 0, 0, "unit_intro"), (0x2B604C, 0x2B6480, 0, 0, "dialogue"),
                (0x2B6604, 0x2B6668, 0, 0, "book_text"), (0x2B8758, 0x2B87C4, 0, 0, "lose_condition"), (0x2B8810, 0x2B8B7C, 0, 0, "win_condition"))
-BY_PTR = ((0x1E07B8, 0x1E0830, "morale_message"), (0x22EC4C, 0x22EFF0, "debug_menu"), (0x236690, 0x2369A0, "debug_menu"),
+BY_PTR = ((0x1E07B8, 0x1E0830, "morale_message"), (0x230118, 0x230274, "caution"),(0x22EC4C, 0x22EFF0, "debug_menu"), (0x236690, 0x2369A0, "debug_menu"),
           (0x237058, 0x2370F1, "not_drawn"), (0x258D40, 0x258D6A, "not_drawn"),  # not_drawn here: text the system dialog shows, kind `debug`
           (0x237318, 0x23803D, "not_drawn"), (0x258484, 0x25875A, "not_drawn"), (0x258B74, 0x258BCD, "not_drawn"))  # save, load and delete messages (table 0x2AD028, sized by 0xF6C60)
 sys.path.insert(0, str(ROOT / "tools/debug"))
@@ -89,6 +89,8 @@ for f in (ROOT / "script").glob("eboot_*.json"):
                     seen.discard(i)
             if "word" in s and 0x2ADE7C <= s["word"] < 0x2AEA98:  # 0xE3444 and 0xFF620 read this table for the union panel and the field tag
                 extra[i] = ["union_name"] * (i in UNIT_NAMES) + ["unit_name"] * (i not in WIDE_TAGS)
+        if any("word" in s and 0x278748 <= s["word"] < 0x2787D0 for s in r["slots"]):  # skill refusals: 0x38754 also shows them in the CAUTION box
+            extra[i] = ["caution"]
         if 0x234AB8 <= r["ptr"] < 0x235760:  # item names: the book's title, then the two equip screens
             extra[i] = ["item_name_equip", "item_name_status"]
 rows = sorted(f"{i}\t{w['name']}\t{w['px']}\t{w['rows']}\t{'seen' if i in seen else 'inferred'}\t{','.join(extra.get(i, ()))}\n" for i, w in out.items())

@@ -203,10 +203,19 @@ store:
     jr $ra
     sh $a0, 0($s2)
 
-# 9eae8: newline resets the pen
+# 9eae8: newline resets the pen. a0 = the new row. The game checks the row only after storing the next glyph, so a line past the
+# last row put one record past the window's buffer (heap overflow: issue #6 crashed a real PSP). Past the last row, end the
+# string here instead ([sp] = done), as the game's own overflow exit does a glyph later. Typewriter calls keep the game's check
 newline:
     sw $zero, 0x4C($sp)
+    lh $t9, 0x1A($s3)
+    slt $t9, $a0, $t9
+    bnez $t9, newline_1
     lw $a0, 0x10($sp)
+    bnez $a0, newline_1
+    ori $t9, $zero, 1
+    sw $t9, 0($sp)
+newline_1:
     jr $ra
     nop
 

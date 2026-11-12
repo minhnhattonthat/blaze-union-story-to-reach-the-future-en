@@ -1,37 +1,37 @@
-eboot_1DFFCC	battle_tip	420	3	inferred	
-eboot_1E0000	battle_tip	420	3	inferred	
-eboot_1E0034	battle_tip	420	3	inferred	
-eboot_1E0058	battle_tip	420	3	inferred	
-eboot_1E007C	battle_tip	420	3	inferred	
-eboot_1E009C	battle_tip	420	3	inferred	
-eboot_1E00C0	battle_tip	420	3	inferred	
-eboot_1E00E4	battle_tip	420	3	inferred	
-eboot_1E0108	battle_tip	420	3	inferred	
-eboot_1E0128	battle_tip	420	3	inferred	
-eboot_1E0148	battle_tip	420	3	inferred	
-eboot_1E0168	battle_tip	420	3	inferred	
-eboot_1E018C	battle_tip	420	3	inferred	
-eboot_1E01AC	battle_tip	420	3	inferred	
-eboot_1E01D0	battle_tip	420	3	inferred	
-eboot_1E01F0	battle_tip	420	3	inferred	
-eboot_1E0214	battle_tip	420	3	inferred	
-eboot_1E023C	battle_tip	420	3	inferred	
-eboot_1E0270	battle_tip	420	3	inferred	
-eboot_1E02AC	battle_tip	420	3	inferred	
-eboot_1E02CC	battle_tip	420	3	inferred	
-eboot_1E02F0	battle_tip	420	3	inferred	
-eboot_1E0310	battle_tip	420	3	inferred	
-eboot_1E033C	battle_tip	420	3	inferred	
-eboot_1E0368	battle_tip	420	3	inferred	
-eboot_1E0384	battle_tip	420	3	inferred	
-eboot_1E03A0	battle_tip	420	3	inferred	
-eboot_1E03D0	battle_tip	420	3	inferred	
-eboot_1E0404	battle_tip	420	3	inferred	
-eboot_1E0438	battle_tip	420	3	inferred	
-eboot_1E0468	battle_tip	420	3	inferred	
-eboot_1E0490	battle_tip	420	3	inferred	
-eboot_1E04C4	battle_tip	420	3	inferred	
-eboot_1E04F0	battle_tip	420	3	inferred	
+eboot_1DFFCC	battle_tip	420	3	inferred	caution
+eboot_1E0000	battle_tip	420	3	inferred	caution
+eboot_1E0034	battle_tip	420	3	inferred	caution
+eboot_1E0058	battle_tip	420	3	inferred	caution
+eboot_1E007C	battle_tip	420	3	inferred	caution
+eboot_1E009C	battle_tip	420	3	inferred	caution
+eboot_1E00C0	battle_tip	420	3	inferred	caution
+eboot_1E00E4	battle_tip	420	3	inferred	caution
+eboot_1E0108	battle_tip	420	3	inferred	caution
+eboot_1E0128	battle_tip	420	3	inferred	caution
+eboot_1E0148	battle_tip	420	3	inferred	caution
+eboot_1E0168	battle_tip	420	3	inferred	caution
+eboot_1E018C	battle_tip	420	3	inferred	caution
+eboot_1E01AC	battle_tip	420	3	inferred	caution
+eboot_1E01D0	battle_tip	420	3	inferred	caution
+eboot_1E01F0	battle_tip	420	3	inferred	caution
+eboot_1E0214	battle_tip	420	3	inferred	caution
+eboot_1E023C	battle_tip	420	3	inferred	caution
+eboot_1E0270	battle_tip	420	3	inferred	caution
+eboot_1E02AC	battle_tip	420	3	inferred	caution
+eboot_1E02CC	battle_tip	420	3	inferred	caution
+eboot_1E02F0	battle_tip	420	3	inferred	caution
+eboot_1E0310	battle_tip	420	3	inferred	caution
+eboot_1E033C	battle_tip	420	3	inferred	caution
+eboot_1E0368	battle_tip	420	3	inferred	caution
+eboot_1E0384	battle_tip	420	3	inferred	caution
+eboot_1E03A0	battle_tip	420	3	inferred	caution
+eboot_1E03D0	battle_tip	420	3	inferred	caution
+eboot_1E0404	battle_tip	420	3	inferred	caution
+eboot_1E0438	battle_tip	420	3	inferred	caution
+eboot_1E0468	battle_tip	420	3	inferred	caution
+eboot_1E0490	battle_tip	420	3	inferred	caution
+eboot_1E04C4	battle_tip	420	3	inferred	caution
+eboot_1E04F0	battle_tip	420	3	inferred	caution
 eboot_1E07B8	morale_message	300	2	inferred	
 eboot_1E07C4	morale_message	300	2	inferred	
 eboot_1E07D8	morale_message	300	2	inferred	
@@ -5787,13 +5787,13 @@ eboot_22F960	object_text	230	7	inferred
 eboot_22FA00	object_text	230	7	inferred	
 eboot_22FAB0	object_text	230	7	inferred	
 eboot_22FB58	object_text	230	7	inferred	
-eboot_230118	object_text	230	7	inferred	
-eboot_230128	object_text	230	7	inferred	
-eboot_23013C	object_text	230	7	inferred	
-eboot_230158	object_text	230	7	inferred	
-eboot_230194	object_text	230	7	inferred	
-eboot_2301E4	object_text	230	7	inferred	
-eboot_230228	object_text	230	7	inferred	
+eboot_230118	caution	380	2	inferred	
+eboot_230128	caution	380	2	inferred	
+eboot_23013C	caution	380	2	inferred	
+eboot_230158	caution	380	2	inferred	
+eboot_230194	caution	380	2	inferred	
+eboot_2301E4	caution	380	2	inferred	
+eboot_230228	caution	380	2	inferred	
 eboot_230274	object_text	230	7	inferred	
 eboot_230284	object_text	230	7	inferred	
 eboot_230298	object_text	230	7	inferred	
@@ -7901,33 +7901,33 @@ eboot_26388C	book_name	158	1	seen
 eboot_263958	new_mode_notice	410	2	seen	
 eboot_263988	new_mode_notice	410	2	seen	
 eboot_2639B0	new_mode_notice	410	2	seen	
-eboot_263FB8	lose_condition	310	2	inferred	
-eboot_263FD4	lose_condition	310	2	seen	
-eboot_263FF8	lose_condition	310	2	inferred	
-eboot_264014	lose_condition	310	2	inferred	
-eboot_264038	lose_condition	310	2	inferred	
-eboot_26405C	lose_condition	310	2	inferred	
-eboot_264078	lose_condition	310	2	seen	
-eboot_264094	lose_condition	310	2	inferred	
-eboot_2640BC	lose_condition	310	2	inferred	
-eboot_2640E4	lose_condition	310	2	inferred	
-eboot_26410C	lose_condition	310	2	inferred	
-eboot_264134	lose_condition	310	2	inferred	
-eboot_264158	lose_condition	310	2	inferred	
-eboot_264174	lose_condition	310	2	inferred	
-eboot_264198	lose_condition	310	2	inferred	
-eboot_2641B4	lose_condition	310	2	inferred	
-eboot_2641D4	lose_condition	310	2	inferred	
-eboot_2641F8	lose_condition	310	2	inferred	
-eboot_264214	lose_condition	310	2	inferred	
-eboot_264234	lose_condition	310	2	inferred	
-eboot_264250	lose_condition	310	2	inferred	
-eboot_264274	lose_condition	310	2	inferred	
-eboot_264298	lose_condition	310	2	inferred	
-eboot_2642C0	lose_condition	310	2	inferred	
-eboot_2642E8	lose_condition	310	2	inferred	
-eboot_26430C	lose_condition	310	2	inferred	
-eboot_264330	lose_condition	310	2	inferred	
+eboot_263FB8	lose_condition	314	1	inferred	
+eboot_263FD4	lose_condition	314	1	seen	
+eboot_263FF8	lose_condition	314	1	inferred	
+eboot_264014	lose_condition	314	1	inferred	
+eboot_264038	lose_condition	314	1	inferred	
+eboot_26405C	lose_condition	314	1	inferred	
+eboot_264078	lose_condition	314	1	seen	
+eboot_264094	lose_condition	314	1	inferred	
+eboot_2640BC	lose_condition	314	1	inferred	
+eboot_2640E4	lose_condition	314	1	inferred	
+eboot_26410C	lose_condition	314	1	inferred	
+eboot_264134	lose_condition	314	1	inferred	
+eboot_264158	lose_condition	314	1	inferred	
+eboot_264174	lose_condition	314	1	inferred	
+eboot_264198	lose_condition	314	1	inferred	
+eboot_2641B4	lose_condition	314	1	inferred	
+eboot_2641D4	lose_condition	314	1	inferred	
+eboot_2641F8	lose_condition	314	1	inferred	
+eboot_264214	lose_condition	314	1	inferred	
+eboot_264234	lose_condition	314	1	inferred	
+eboot_264250	lose_condition	314	1	inferred	
+eboot_264274	lose_condition	314	1	inferred	
+eboot_264298	lose_condition	314	1	inferred	
+eboot_2642C0	lose_condition	314	1	inferred	
+eboot_2642E8	lose_condition	314	1	inferred	
+eboot_26430C	lose_condition	314	1	inferred	
+eboot_264330	lose_condition	314	1	inferred	
 eboot_264354	win_condition	370	3	inferred	
 eboot_264374	win_condition	370	3	seen	
 eboot_264390	win_condition	370	3	inferred	

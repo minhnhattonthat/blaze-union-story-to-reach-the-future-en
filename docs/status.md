@@ -2,6 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **2026-11-12, issue #6 (PSP-1000 shut down after "Morale is already at maximum", Morale Recovery at Character Select):**
+  reproduced on v1.2 (`tools/debug/caution_probe.py`: every item owned, morale poked full): the English wrapped to 3 lines in the 2-row
+  CAUTION box, the third line cut off, and its first glyph record written one past the window's buffer (heap overflow; PPSSPP
+  survives it, hardware didn't). Fixed in the engine (`vwf` `newline` stops at the last row, for every window) and in the lint
+  (window `caution`, 2 rows, for the 7 CAUTION messages and the 34 skill refusals). Details `docs/re/text.md`. Build `55186089`: check, verify, smoke pass; message seen whole in 2 lines, no record past the buffer, guard tested with the window forced to 1 row. Not released, no tour rerun.
 - **2026-11-11, v1.2 published** (owner asked): #5 confirmed v1.2-pre2 boots and plays on Vita Adrenaline 6.61. The pre2 release was renamed to v1.2 (tag `v1.2` on `ea947db`, Latest, zip from `release.py --version 1.2 --no-build`; same patch sha1 `fb47fd3f`, ISO `6d8fdef1`). Tags and releases v1.2-pre1 and v1.2-pre2 deleted. #4 and #5 closed with thanks.
 - **2026-11-09, v1.1 published** (owner approved): pushed, GitHub release v1.1 (Latest) with the zip, replies on #1 and #2
   (both closed by the push's `Fixes`). gh's active account here is `nathantonsoniq`, which gets 404 on this repo: run gh

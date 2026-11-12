@@ -245,6 +245,13 @@ Limits that are not pixels or that the build handles:
   counting, so every English news line ("Crooked merchant Norn driven off!!", script op 0x87 at the first boss) wrote past the frame
   over saved registers and $ra and ended the game. `vwf.count_ascii` now adds the byte's font 1 width and counts a glyph per 20 px
   (the cell the caller multiplies by), so the line is centred too. The other callers of 0x9FBBC pass no buffer.
+- **A line past the window's last row (fixed 2026-11-12, issue #6).** The printer checks the row only after storing the next
+  glyph (0x9EF0C), so the first glyph of a line past the last row went one record past the window's buffer (cols x K x rows records
+  of 0x24 bytes): a heap overflow. PPSSPP survived it; a PSP-1000 shut down on "Morale is already at maximum" (CAUTION box 0xC3C44,
+  30 cols x 2 rows, mapped to `object_text` by mistake, so the English wrapped to 3 lines). `vwf` `newline` now ends the string
+  when the new row is past the last (non-typewriter calls), and window `caution` lints those strings and the skill refusals
+  (table 0x278748, shown by 0x38754 in the same box). Probe: `scenes.py prep_heal_full`, and `tools/debug/caution_probe.py` (every item
+  owned via save+0xC4 bits, morale poked full, breakpoint on 0x9EC34 logs each record index against the buffer's capacity).
 - **Defeat text.** Table 0x2B3648 has 16-byte rows; +4 points at a one-part chain, a news line in battle, centred on the screen (0x1157D4); +0xC at a chain for the game over screen (window at 0x1161D4, 5 rows). Each part is one row, so a part that wraps pushes the last row off. The build moves that window from x=252 to x=190 (288 px). `tools/debug/defeat_parts.py` splits the two uses; the parts are shared across chains, so read a change in context with `defeat_text.py --en`.
 - **Text tables to windows:** `SLOT_TABLES` in `tools/debug/boxmap.py`. Windows marked `guess` in `data/windows.json` are read from code or sized to the widest Japanese line; they haven't been measured on screen.
 

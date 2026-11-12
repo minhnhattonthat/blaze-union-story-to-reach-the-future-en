@@ -152,6 +152,8 @@ SCENES = {
     "prep_status": (PREP + [(press, "triangle"), (wait, 120)], (21, 26)),
     "prep_equip": (PREP + [(press, "left"), (wait, 120)], (21,)),
     "prep_heal": (PREP + [(press, "right"), (wait, 120)], (20, 22)),
+    # morale already full: "Morale is already at maximum" (0xC4150, issue #6)
+    "prep_heal_full": (PREP + [(press, "right"), (wait, 120), (press, "circle"), (wait, 240)], (19, 20, 22)),
     "prep_wincond": (PREP + [(press, "ltrigger"), (wait, 120)], (18,)),
     "prep_map": (PREP + [(press, "rtrigger"), (wait, 120)], (16,)),
     "prep_location": (PREP + [(press, "rtrigger"), (wait, 120), (press, "triangle"), (wait, 120)], (16,)),
