@@ -2,3 +2,5 @@
 de0e837fb23e4db73afa3fcaf84e71ac8030fac8  rom/Blaze Union - Story to Reach The Future (Japan).iso
 # Yggdra Union (USA), building only: its official English sprites go into data/gfx.tsv rows of style ygg (tools/ygg.py)
 c982fec7fa6309d20e8bc5170db1acf49df72e95  rom/Yggdra Union - We'll Never Fight Alone (USA).iso
+# EBOOT.BIN decrypted by PPSSPP from the Japanese disc (DumpFileTypes = 7; README "Build your own patched ISO")
+8788cf63723f84e8b067bbb9c5f0ab33650602d4  work/exe/EBOOT.dump.bin

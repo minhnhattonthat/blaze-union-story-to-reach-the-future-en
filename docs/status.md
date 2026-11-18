@@ -2,6 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **2026-11-18, issue #9 (building from source failed: Yggdra ISO and decrypted EBOOT undocumented):** README build
+  section now lists both and the PPSSPP `DumpFileTypes = 7` steps; `rom.sha1` pins `work/exe/EBOOT.dump.bin`
+  (`8788cf63`), so `check_rom.py` names any missing input before the build starts. Docs only, no rebuild needed.
 - **2026-11-12, issue #6 (PSP-1000 shut down after "Morale is already at maximum", Morale Recovery at Character Select):**
   reproduced on v1.2 (`tools/debug/caution_probe.py`: every item owned, morale poked full): the English wrapped to 3 lines in the 2-row
   CAUTION box, the third line cut off, and its first glyph record written one past the window's buffer (heap overflow; PPSSPP
